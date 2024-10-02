@@ -1,0 +1,3067 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8"/>
+    <title>policies disclosure</title>
+    
+    
+    <meta name="template" content="california-disclosure-template"/>
+	
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"/>
+    <meta name="page-path" content="/content/bd-com/na/us/en-us/about-bd/policies/terms-of-use"/>
+	
+
+    <!-- robots tag -->
+    
+        <!-- Added Meta Robots tags for SEO -->
+        
+        <!-- End of Meta Robot Tags -->
+    
+
+
+	
+        <script type="module">
+  window.RUM_BASE = 'https://rum.hlx.page/';
+  import { sampleRUM } from 'https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/src/index.js';
+  window.hlx = window.hlx || {};
+  window.hlx.sampleRUM = sampleRUM;
+  sampleRUM();
+</script><link rel="manifest" href="/content/bd-com/na/us/en-us/manifest.webmanifest" crossorigin="use-credentials"/>
+        <meta name="theme-color" content="#F9F5F2"/>
+        <link rel="apple-touch-icon" href="/content/dam/bd-assets/bd-com/en-us/logos/bd/BD_PWAs_icon.png"/>
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/page/v2/page/clientlibs/site/pwa.lc-62313848e0d043c33633e969032e25c8-lc.min.css" type="text/css">
+
+
+
+        <meta name="cq:sw_path" content="/bd-com.na.us.en-ussw.js"/>
+    
+    
+<link rel="canonical" href="https://www.bd.com/en-us/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-TH" href="https://www.bd.com/en-sea/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="ko-KR" href="https://www.bd.com/ko-kr/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="es-MX" href="https://www.bd.com/es-latam/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="fr-BE" href="https://www.bd.com/fr-be/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="zh-TW" href="https://www.bd.com/zh-cn/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="zh-HK" href="https://www.bd.com/zh-cn/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="es-CL" href="https://www.bd.com/es-latam/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="es-PR" href="https://www.bd.com/es-latam/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-FI" href="https://www.bd.com/en-no/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-EG" href="https://www.bd.com/en-menat/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="pt-PT" href="https://www.bd.com/pt-latam/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-US" href="https://www.bd.com/en-us/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-LA" href="https://www.bd.com/en-ga/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-SG" href="https://www.bd.com/en-sea/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-BN" href="https://www.bd.com/en-ga/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-NZ" href="https://www.bd.com/en-anz/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="de-CH" href="https://www.bd.com/de-ch/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-ZA" href="https://www.bd.com/en-za/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-IL" href="https://www.bd.com/en-il/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-KH" href="https://www.bd.com/en-ga/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="fr-FR" href="https://www.bd.com/fr-fr/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-TR" href="https://www.bd.com/en-menat/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="de-AT" href="https://www.bd.com/de-at/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-VN" href="https://www.bd.com/en-sea/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-ID" href="https://www.bd.com/en-sea/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-AU" href="https://www.bd.com/en-anz/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="nl-NL" href="https://www.bd.com/nl-nl/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="fr-CA" href="https://www.bd.com/fr-ca/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="es-AR" href="https://www.bd.com/es-latam/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-MY" href="https://www.bd.com/en-sea/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="pt-BR" href="https://www.bd.com/pt-latam/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="de-DE" href="https://www.bd.com/de-de/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-AE" href="https://www.bd.com/en-menat/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-DK" href="https://www.bd.com/en-no/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="pl-PL" href="https://www.bd.com/pl-pl/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-NO" href="https://www.bd.com/en-no/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-MM" href="https://www.bd.com/en-ga/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="it-IT" href="https://www.bd.com/it-it/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="zh-MO" href="https://www.bd.com/zh-cn/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-IE" href="https://www.bd.com/en-uk/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-LK" href="https://www.bd.com/en-ga/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-CA" href="https://www.bd.com/en-ca/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-PK" href="https://www.bd.com/en-ga/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="nl-BE" href="https://www.bd.com/nl-be/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="es-ES" href="https://www.bd.com/es-es/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="zh-CN" href="https://www.bd.com/zh-cn/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="ja-JP" href="https://www.bd.com/ja-jp/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="es-CO" href="https://www.bd.com/es-latam/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-PG" href="https://www.bd.com/en-ga/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-SE" href="https://www.bd.com/en-no/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-SA" href="https://www.bd.com/en-menat/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-IN" href="https://www.bd.com/en-in/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-BD" href="https://www.bd.com/en-ga/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-PH" href="https://www.bd.com/en-sea/about-bd/policies/terms-of-use"/>
+<link rel="alternate" hreflang="en-GB" href="https://www.bd.com/en-uk/about-bd/policies/terms-of-use"/>
+
+    
+
+    
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"/>
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/bd-com/clientlibs/clientlib-base.lc-bccf7ef70b40d748171ec378a0835d21-lc.min.css" type="text/css">
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick-theme.min.css"/>
+
+<link rel="icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/favicon_16.png"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/favicon_16.png" sizes="16x16"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/favicon_32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/favicon_96.png" sizes="96x96"/>
+<link rel="apple-touch-icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/favicon_16.png" sizes="16x16"/>
+<link rel="apple-touch-icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/favicon_32.png" sizes="32x32"/>
+<link rel="apple-touch-icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/favicon_96.png" sizes="96x96"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/android-favicon_36.png" sizes="36x36"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/android-favicon_48.png" sizes="48x48"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/android-favicon_72.png" sizes="72x72"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/android-favicon_144.png" sizes="144x144"/>
+<link rel="icon" type="image/png" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site/resources/image/favicon/android-favicon_192.png" sizes="192x192"/>
+<script>
+    var printMode = window.location.href
+    if(!printMode.includes('printmode=true')) {
+        //prehiding snippet for Adobe Target with asynchronous tags deployment
+        ;(function(win, doc, style, timeout) {
+        var STYLE_ID = 'at-body-style';
+        function getParent() {
+        return doc.getElementsByTagName('head')[0];
+        }
+        function addStyle(parent, id, def) {
+        if (!parent) {
+        return;
+        }
+        var style = doc.createElement('style');
+        style.id = id;
+        style.innerHTML = def;
+        parent.appendChild(style);
+        }
+        function removeStyle(parent, id) {
+        if (!parent) {
+        return;
+        }
+        var style = doc.getElementById(id);
+        if (!style) {
+        return;
+        }
+        parent.removeChild(style);
+        }
+        addStyle(getParent(), STYLE_ID, style);
+        setTimeout(function() {
+        removeStyle(getParent(), STYLE_ID);
+        }, timeout);
+        }(window, document, "body {opacity: 0 !important}", 3000));
+    }
+ </script>
+
+    
+    
+    
+
+    
+
+    
+    
+<script src="/etc.clientlibs/bd-com/clientlibs/clientlib-dependencies.lc-a8a835b60a51c1a16bfe62bc508a0553-lc.min.js"></script>
+<script src="/etc.clientlibs/bd-core/clientlibs/vendor/jquery-3.6.0.lc-8378dd18d27d369a41cd582ec02fc311-lc.min.js"></script>
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/bd-com/clientlibs/clientlib-dependencies.lc-c134f778cda2725b23581fb9bbc5b854-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/algolia/clientlibs/clientlib-site.lc-92bf4ccb4c48a0f3c8317785cfa909d6-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/bd-com/clientlibs/clientlib-site.lc-17e747811a905c99c89ea43f5ed08619-lc.min.css" type="text/css">
+
+
+
+    
+
+    
+    
+
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="22KRU-FA6KB-X6CHV-34PWY-E76NS",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"22KRU-FA6KB-X6CHV-34PWY-E76NS";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="ekcklsyxfuxk2zx4qcmq-f-745a4ac0a-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"831745","ak.ai":parseInt("527627",10),"ak.ol":"0","ak.cr":10,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1f5de43a","ak.r":47358,"ak.a2":n,"ak.m":"a","ak.n":"essl","ak.bpcip":"34.132.165.0","ak.cport":55682,"ak.gh":"23.208.24.238","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727824025","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==deZgC4pzEJGMF7KZpE6aSKY47IWaohrlFQlNVGjGwNQlEKwdQfqATx+tQ5Ar+lpbqUIOz3982U0Pb29/IBagGJKlrowg1kdtlxA8eRxrkGeDLqDevBkWmz43PQZfsaklqprjEkEXuVYkgmMR+uoZAJ48h8SXxF9WrIy9jUyfw7Sr/NQv7DPi9B/CffyeB7AAbpEJS4y/KGCgrQkWk6NYwuIDq5G+USMjaAzE/odSBhWzRqHGmVa7kFUyDnla4V55RUuN8qULqXqfBiBRqHdc60yti/nrafJcJtvmsscnlyMtG2J8ywivD7JThT/zJ6y6Fn4PWi6ImkwC536gakNvt/2fepspW3RzkqkKzRio5oUUZnQCmyNoDZO55b39J49Jjdha/rzAn8vbvkW8Pnl84E0JrslHzT4GI3SWtzFaUZ0=","ak.pv":"97","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="policypage page basicpage" id="policypage-04b56acf2e" data-cmp-data-layer-enabled>
+    <script>
+         window.adobeDataLayer = window.adobeDataLayer || [];
+         adobeDataLayer.push({
+             page: JSON.parse("{\x22policypage\u002D04b56acf2e\x22:{\x22@type\x22:\x22bd\u002Dcom\/components\/structure\/policypage\x22,\x22repo:modifyDate\x22:\x222024\u002D02\u002D05T22:19:36Z\x22,\x22dc:title\x22:\x22Terms of Use\x22,\x22xdm:template\x22:\x22\/conf\/bd\u002Dcom\/settings\/wcm\/templates\/california\u002Ddisclosure\u002Dtemplate\x22,\x22xdm:language\x22:\x22en\u002DUS\x22,\x22xdm:tags\x22:[],\x22repo:path\x22:\x22\/content\/bd\u002Dcom\/na\/us\/en\u002Dus\/about\u002Dbd\/policies\/terms\u002Dof\u002Duse.html\x22}}"),
+             businessUnit: {
+                 "bu": ["Corporate unit"]
+             },
+             event: 'cmp:show',
+             eventInfo: {
+                 path: 'page.policypage\u002D04b56acf2e'
+             }
+         });
+    </script>
+    
+    
+        
+
+
+
+
+        
+
+
+
+        
+<div class="root container responsivegrid">
+
+    
+    <div id="container-9cceaad47a" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="bd-experiencefragment experiencefragment aem-GridColumn aem-GridColumn--default--12"><div class="bd-experience-fragment__container cmp-experiencefragment cmp-experiencefragment--header"><div class="xfpage page basicpage">
+
+
+    
+    
+    
+    <div id="container-3cbebcd233" class="cmp-container">
+        
+        <div class="bd-header bd-header__light">
+
+  
+
+  <div class="spotlight__content-container">
+    <span id="bd_solr_catalog_version" data-api="Online"></span>
+      <div class="hide" id="popup_video_modal" data-account="81909694001" data-player="rxDeY9XEJ"></div>
+    <header class="bd-header" data-use-algolia="true">
+      <div id="bd-header__navigation__left" class="bd-header__navigation__left">
+        <nav id="navigation" class="navigation navigation-landscape">
+          <div class="nav-header">
+            <div class="nav-toggle close-nav"></div>
+            <a href="/en-us"><img src="/content/dam/bdcom-assets/en/en-us/images/graphic/icon/header-bd-logo.svg" class="nav-brand" alt="header-bd-logo.svg" data-trackable="true" data-aem-asset-id="c078e74b-9ee7-4ebe-8400-a6719c2bd665"/></a>
+          </div>
+          
+          <div class="nav-menus-wrapper" style="transition-property: none;">
+              <ul class="bd-header__navigation">
+                  
+
+                      
+
+                      <li>
+                          <a target="_self" href="/en-us/products-and-solutions/products?tabindex=1"><span>Products</span></a>
+                      </li>
+                  
+
+                      <li target="_self" class="subMenuSymbol">
+                          <a href="/en-us/products-and-solutions/solutions"><span>Solutions</span></a>
+                          <i style="position: relative;"></i>
+                          <ul class="nav-dropdown nav-submenu" style="right: auto; display: none;">
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="#">
+                                          <span>Administrator</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/ambulatory-surgery-center-solutions">Ambulatory Surgery Center Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/bd-hypodermic-needle-and-syringe-solutions">BD Hypodermic Needle and Syringe Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/diagnostic-accuracy-and-efficiency-solutions">Diagnostic Accuracy and Efficiency</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/hazardous-drug-solutions">Hazardous Drug Safety</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/diagnostic-solutions">Integrated Diagnostic Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/medication-management-solutions">Medication Management Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/patient-safety-solutions">Patient Safety Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/sepsis-management">Sepsis Management</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/surgical-solutions-and-products">Surgical Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/targeted-temperature-management">Targeted Temperature Management</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/vascular-access-management">Vascular Access Management (VAM)</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="#">
+                                          <span>Clinician</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/ambulatory-surgery-center-solutions">Ambulatory Surgery Center Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/antimicrobial-resistance">Antimicrobial Resistance</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/bd-original-equipment-manufacturing">BD Original Equipment Manufacturing (OEM)</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/bd-hypodermic-needle-and-syringe-solutions">BD Hypodermic Needle and Syringe Solutions</a></li>
+                                              
+                                                  <li><a target="_blank" href="https://womens-health-solutions.bd.com/cervical-cancer">Cervical Cancer Screening Portfolio </a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/clinical-lab-support">Clinical and Lab Support</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/diagnostic-accuracy-and-efficiency-solutions">Diagnostic Accuracy and Efficiency</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/hazardous-drug-solutions">Hazardous Drug Safety</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/diagnostic-solutions">Integrated Diagnostic Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/medication-management-solutions">Medication Management Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/patient-safety-solutions">Patient Safety Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/sepsis-management">Sepsis Management </a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/stone-management">Stone Management</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/surgical-solutions-and-products">Surgical Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/targeted-temperature-management">Targeted Temperature Management</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/vascular-access-management">Vascular Access Management (VAM) </a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="#">
+                                          <span>Distributor</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/bd-original-equipment-manufacturing">BD Original Equipment Manufacturing (OEM)</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/bd-hypodermic-needle-and-syringe-solutions">BD Hypodermic Needle and Syringe Solutions</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="#">
+                                          <span>Drug Development Company</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_blank" href="/en-us/products-and-solutions/solutions/drug-delivery-systems">Drug Delivery Systems</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="#">
+                                          <span>Medical Device Manufacturer</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/bd-original-equipment-manufacturing">BD Original Equipment Manufacturing (OEM)</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="#">
+                                          <span>Laboratory </span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/antimicrobial-resistance">Antimicrobial Resistance</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/bd-original-equipment-manufacturing">BD Original Equipment Manufacturing (OEM)</a></li>
+                                              
+                                                  <li><a target="_blank" href="https://womens-health-solutions.bd.com/cervical-cancer">Cervical Cancer Screening Portfolio</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/clinical-lab-support">Clinical and Lab Support</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/clinical-microbiology">Clinical Microbiology</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/diagnostic-accuracy-and-efficiency-solutions">Diagnostic Accuracy and Efficiency</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/diagnostic-solutions">Integrated Diagnostic Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/patient-safety-solutions">Patient Safety Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/pharmaceutical-microbiology">Pharmaceutical Microbiology</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/sepsis-management">Sepsis Management</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="#">
+                                          <span>Pharmacy</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/bd-hypodermic-needle-and-syringe-solutions">BD Hypodermic Needle and Syringe Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/hazardous-drug-solutions">Hazardous Drug Safety</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/diagnostic-solutions">Integrated Diagnostic Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/medication-management-solutions">Medication Management Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/patient-safety-solutions">Patient Safety Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/pharmaceutical-microbiology">Pharmaceutical Microbiology</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/sepsis-management">Sepsis Management</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/vascular-access-management">Vascular Access Management (VAM)</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="#">
+                                          <span>Surgery</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/ambulatory-surgery-center-solutions">Ambulatory Surgery Center Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/bd-hypodermic-needle-and-syringe-solutions">BD Hypodermic Needle and Syringe Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/hernia-repair">Hernia Repair Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/patient-safety-solutions">Patient Safety Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/plastic-reconstructive-solutions">Plastic and Reconstructive Surgery Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/surgical-solutions-and-products">Surgical Solutions</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/products-and-solutions/solutions/venous-technology">Venous technology</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                          </ul>
+                      </li>
+
+                      
+                  
+
+                      <li target="_self" class="subMenuSymbol">
+                          <a href="/en-us/resource-and-education/documentation-landing-page"><span>Knowledge Center</span></a>
+                          <i style="position: relative;"></i>
+                          <ul class="nav-dropdown nav-submenu" style="right: auto; display: none;">
+                              
+                                  
+
+                                  <li>
+                                      <a target="_self" href="/en-us/resource-and-education/event-landing-page"><span>Events</span></a>
+                                  </li>
+                              
+                                  
+
+                                  <li>
+                                      <a target="_self" href="/en-us/resource-and-education/documentation-landing-page"><span>Literature</span></a>
+                                  </li>
+                              
+                                  
+
+                                  <li>
+                                      <a target="_self" href="/en-us/resource-and-education/training-landing-page"><span>Training</span></a>
+                                  </li>
+                              
+                          </ul>
+                      </li>
+
+                      
+                  
+
+                      <li target="_self" class="subMenuSymbol">
+                          <a href="/en-us/support"><span>Support</span></a>
+                          <i style="position: relative;"></i>
+                          <ul class="nav-dropdown nav-submenu" style="right: auto; display: none;">
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="#">
+                                          <span>Customer Portals</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_blank" href="https://eim.bd.com/en/Account/Login?_ga=2.140330931.1622239627.1634510922-133192965.1614015897">Medication Management Customer Login</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/support/bd-customer-portal-faqs">Customer Care Portal Guides and FAQ’s</a></li>
+                                              
+                                                  <li><a target="_blank" href="https://www.bd.com/MyBDLearning">My BD Learning</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                          </ul>
+                      </li>
+
+                      
+                  
+
+                      <li target="_self" class="subMenuSymbol">
+                          <a href="/en-us/about-bd"><span>About BD</span></a>
+                          <i style="position: relative;"></i>
+                          <ul class="nav-dropdown nav-submenu" style="right: auto; display: none;">
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="/en-us/about-bd/our-company">
+                                          <span>Our Company</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/our-company?activetab=1">About BD</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/our-company?activetab=2">Segments</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/our-company?activetab=3">Leadership</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/our-company?activetab=4">Board of Directors</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/our-company?activetab=5">Ethics and Compliance</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="/en-us/about-bd/cybersecurity">
+                                          <span>Cybersecurity at BD</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/cybersecurity">About Us </a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/cybersecurity?active-tab=2">Trust Center</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/cybersecurity?active-tab=3">Bulletins and Patches</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/cybersecurity?active-tab=4">Disclosure Process</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/cybersecurity?active-tab=5">Helpful Resources</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="/en-us/about-bd/distributors-landing-page">
+                                          <span>Distributors</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/distributors-landing-page">Distributor List</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/distributors-landing-page?#bd-tabs-cd582911a1-item-1e1a68d04d-tab">Unique device identifier (UDI)</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="/en-us/about-bd/esg">
+                                          <span>Corporate Sustainability</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/esg/global-public-health">Global Public Health</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/esg?active-tab=2">Sustainability</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/esg?active-tab=3">Social Investing</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/esg?activetab=4">Inclusion, Diversity &amp; Equity</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+
+                                  <li>
+                                      <a target="_self" href="/en-us/about-bd/global-funding"><span>Global External Funding Opportunities</span></a>
+                                  </li>
+                              
+                                  
+
+                                  <li>
+                                      <a target="_blank" href="https://investors.bd.com"><span>Investors</span></a>
+                                  </li>
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="/en-us/about-bd/innovation-at-bd">
+                                          <span>Innovation at BD</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/innovation-at-bd">Overview</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/innovation-at-bd?#bd-tabs-2c5167aacb-item-f5cb908311-tab">BD Idea Submission Process</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                                  
+
+                                  <li>
+                                      <a target="_blank" href="https://news.bd.com"><span>News, Media and Blogs</span></a>
+                                  </li>
+                              
+                                  
+
+                                  <li>
+                                      <a target="_self" href="/en-us/about-bd/policies"><span>Policies, Guidelines and Statements Center</span></a>
+                                  </li>
+                              
+                                  
+
+                                  <li>
+                                      <a target="_self" href="/en-us/about-bd/quality-at-bd"><span>Quality</span></a>
+                                  </li>
+                              
+                                  
+
+                                  <li>
+                                      <a target="_self" href="/en-us/about-bd/recent-mergers-and-acquisitions"><span>Recent Mergers and Acquisitions</span></a>
+                                  </li>
+                              
+                                  
+
+                                  <li>
+                                      <a target="_self" href="/en-us/transforming-medtech/covid-19-response/our-response-plan"><span>Response to COVID-19</span></a>
+                                  </li>
+                              
+                                  
+                                      <li class="subMenuSymbol">
+                                        <a target="_self" class="submenu-flex" href="/en-us/about-bd/supplier">
+                                          <span>Suppliers</span>
+                                        </a>
+                                        <i style="position: relative;"></i>
+                                          <ul class="nav-dropdown nav-submenu nav-subsubmenu" style="display: none;">
+
+											  
+                                              
+                                              
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/supplier?activetab=2">Corporate Policies and Expectations</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/supplier?activetab=3">Doing Business with BD</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/supplier?activetab=1">Global Procurement</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/supplier?activetab=4">Supplier Programs</a></li>
+                                              
+                                                  <li><a target="_self" href="/en-us/about-bd/supplier?activetab=5">Supplier Recognition</a></li>
+                                              
+                                          </ul>
+                                      </li>
+                                  
+
+                                  
+                              
+                          </ul>
+                      </li>
+
+                      
+                  
+
+                      
+
+                      <li>
+                          <a target="_blank" href="https://jobs.bd.com/"><span>Careers</span></a>
+                      </li>
+                  
+                  <li class="user-preferences languages-tab-mobile"><a href="#">
+                      <img class="bd-header__globe" src="/content/dam/bdcom-assets/en/en-us/images/graphic/icon/header-flag-icon-boosted-blue.svg" alt="Country" data-trackable="true" data-aem-asset-id="77c433d6-9524-4f3b-88aa-c1ebbb82b92c"/>
+                      <p class="bd-header__globe-label">United States</p>
+                      <spa class="arraow"></spa>
+                  </a>
+                      <ul class="languages-mobile nav-dropdown nav-submenu" style="right: auto; display: none;">
+
+                          
+                                  
+                                      <li><div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">North America</div></li>
+                                      <ul>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-ca" data-uw-rm-brl="false">
+                                                      Canada (EN)
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/fr-ca" data-uw-rm-brl="false">
+                                                      Canada (FR)
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/es-mx" data-uw-rm-brl="false">
+                                                      Mexico
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-us" data-uw-rm-brl="false">
+                                                      United States
+                                                  </a>
+                                              </li>
+                                          
+                                      </ul>
+                                  
+                                      <li><div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">South America</div></li>
+                                      <ul>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/pt-latam" data-uw-rm-brl="false">
+                                                      América Latina
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/es-ar" data-uw-rm-brl="false">
+                                                      Argentina
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/es-cl" data-uw-rm-brl="false">
+                                                      Chile
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/es-co" data-uw-rm-brl="false">
+                                                      Colombia
+                                                  </a>
+                                              </li>
+                                          
+                                      </ul>
+                                  
+                          
+                                  
+                                      <li><div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">Europe</div></li>
+                                      <ul>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/fr-be" data-uw-rm-brl="false">
+                                                      Belgique
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/nl-be" data-uw-rm-brl="false">
+                                                      België
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/cs-cz" data-uw-rm-brl="false">
+                                                      Česká republika
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/de-de" data-uw-rm-brl="false">
+                                                      Deutschland
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/es-es" data-uw-rm-brl="false">
+                                                      España
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-eu" data-uw-rm-brl="false">
+                                                      Europe
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/fr-fr" data-uw-rm-brl="false">
+                                                      France
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/he-il" data-uw-rm-brl="false">
+                                                      ישראל
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/it-it" data-uw-rm-brl="false">
+                                                      Italia
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/nl-nl" data-uw-rm-brl="false">
+                                                      Nederland
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-no" data-uw-rm-brl="false">
+                                                      Nordics
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/de-at" data-uw-rm-brl="false">
+                                                      Österreich
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/pl-pl" data-uw-rm-brl="false">
+                                                      Polska
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/de-ch" data-uw-rm-brl="false">
+                                                      Schweiz 
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-uk" data-uw-rm-brl="false">
+                                                      United Kingdom
+                                                  </a>
+                                              </li>
+                                          
+                                      </ul>
+                                  
+                          
+                                  
+                                      <li><div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">Middle East, North Africa, Turkey</div></li>
+                                      <ul>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-menat" data-uw-rm-brl="false">
+                                                      Middle East, North Africa, Turkey
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-za" data-uw-rm-brl="false">
+                                                      South Africa
+                                                  </a>
+                                              </li>
+                                          
+                                      </ul>
+                                  
+                                      <li><div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">Asia Pacific</div></li>
+                                      <ul>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-anz" data-uw-rm-brl="false">
+                                                      Australia &amp; New Zealand
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/zh-cn" data-uw-rm-brl="false">
+                                                      中国
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://bd.com/en-ga" data-uw-rm-brl="false">
+                                                      Greater Asia
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-in" data-uw-rm-brl="false">
+                                                      India
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/ja-jp" data-uw-rm-brl="false">
+                                                      日本
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/ko-kr" data-uw-rm-brl="false">
+                                                      대한민국
+                                                  </a>
+                                              </li>
+                                          
+                                              <li>
+                                                  <a class="country-link" href="https://www.bd.com/en-sea" data-uw-rm-brl="false">
+                                                      Southeast Asia
+                                                  </a>
+                                              </li>
+                                          
+                                      </ul>
+                                  
+                          
+                      </ul>
+                  </li>
+                  <li class="user-preferences">
+                    <a target="_blank" href="https://my.bd.com">
+                      <img class="bd-header__user" src="/content/dam/bdcom-assets/en/en-us/images/graphic/icon/header-user-icon-boosted-blue.svg" alt="Login" data-trackable="true" data-aem-asset-id="17d93165-0782-483d-bc46-8c09c9948142"/>
+                      <p class="bd-header__user-label">Login</p>
+                  </a>
+                </li>
+              </ul>
+          </div>
+        </nav>
+      </div>
+      <div class="bd-header__navigation__right">
+        <ul class="bd-header__site" id="bd-header__site">
+          <li class="languages-tab">
+            <a href="#">
+              <img class="bd-header__globe" src="/content/dam/bdcom-assets/en/en-us/images/graphic/icon/header-flag-icon-boosted-blue.svg" alt="Country" data-trackable="true" data-aem-asset-id="77c433d6-9524-4f3b-88aa-c1ebbb82b92c"/>
+              
+              <p class="bd-header__globe-label">United States</p>
+              <spa class="arraow"></spa>
+            </a>
+            <div class="languages">
+              <div class="pad">
+                <div class="row">
+                  
+                      <div class="col-sm-4">
+                        
+                            <div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">North America</div>
+                            <ul class=" no-bull">
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-ca" data-uw-rm-brl="false">
+                                    Canada (EN)
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/fr-ca" data-uw-rm-brl="false">
+                                    Canada (FR)
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/es-mx" data-uw-rm-brl="false">
+                                    Mexico
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-us" data-uw-rm-brl="false">
+                                    United States
+                                  </a>
+                                </li>
+                              
+                            </ul>
+                        
+                            <div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">South America</div>
+                            <ul class=" no-bull">
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/pt-latam" data-uw-rm-brl="false">
+                                    América Latina
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/es-ar" data-uw-rm-brl="false">
+                                    Argentina
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/es-cl" data-uw-rm-brl="false">
+                                    Chile
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/es-co" data-uw-rm-brl="false">
+                                    Colombia
+                                  </a>
+                                </li>
+                              
+                            </ul>
+                        
+                      </div>
+                  
+                      <div class="col-sm-4">
+                        
+                            <div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">Europe</div>
+                            <ul class=" no-bull">
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/fr-be" data-uw-rm-brl="false">
+                                    Belgique
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/nl-be" data-uw-rm-brl="false">
+                                    België
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/cs-cz" data-uw-rm-brl="false">
+                                    Česká republika
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/de-de" data-uw-rm-brl="false">
+                                    Deutschland
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/es-es" data-uw-rm-brl="false">
+                                    España
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-eu" data-uw-rm-brl="false">
+                                    Europe
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/fr-fr" data-uw-rm-brl="false">
+                                    France
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/he-il" data-uw-rm-brl="false">
+                                    ישראל
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/it-it" data-uw-rm-brl="false">
+                                    Italia
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/nl-nl" data-uw-rm-brl="false">
+                                    Nederland
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-no" data-uw-rm-brl="false">
+                                    Nordics
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/de-at" data-uw-rm-brl="false">
+                                    Österreich
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/pl-pl" data-uw-rm-brl="false">
+                                    Polska
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/de-ch" data-uw-rm-brl="false">
+                                    Schweiz 
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-uk" data-uw-rm-brl="false">
+                                    United Kingdom
+                                  </a>
+                                </li>
+                              
+                            </ul>
+                        
+                      </div>
+                  
+                      <div class="col-sm-4">
+                        
+                            <div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">Middle East, North Africa, Turkey</div>
+                            <ul class=" no-bull">
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-menat" data-uw-rm-brl="false">
+                                    Middle East, North Africa, Turkey
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-za" data-uw-rm-brl="false">
+                                    South Africa
+                                  </a>
+                                </li>
+                              
+                            </ul>
+                        
+                            <div class="lang-heading" data-uw-rm-heading="level" role="heading" aria-level="2">Asia Pacific</div>
+                            <ul class=" no-bull">
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-anz" data-uw-rm-brl="false">
+                                    Australia &amp; New Zealand
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/zh-cn" data-uw-rm-brl="false">
+                                    中国
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://bd.com/en-ga" data-uw-rm-brl="false">
+                                    Greater Asia
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-in" data-uw-rm-brl="false">
+                                    India
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/ja-jp" data-uw-rm-brl="false">
+                                    日本
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/ko-kr" data-uw-rm-brl="false">
+                                    대한민국
+                                  </a>
+                                </li>
+                              
+                                <li>
+                                  <a class="country-link" href="https://www.bd.com/en-sea" data-uw-rm-brl="false">
+                                    Southeast Asia
+                                  </a>
+                                </li>
+                              
+                            </ul>
+                        
+                      </div>
+                  
+                </div>
+                <a class="close" href="#" data-uw-rm-brl="false">
+                    <div class="bd-header__close-icon"></div>
+                </a>
+              </div>
+            </div>
+          </li>
+          <li class="bd-header__user-login">
+            <a target="__blank" href="https://my.bd.com">
+                <img class="bd-header__user" src="/content/dam/bdcom-assets/en/en-us/images/graphic/icon/header-user-icon-boosted-blue.svg" alt="Login" data-trackable="true" data-aem-asset-id="17d93165-0782-483d-bc46-8c09c9948142"/>
+                
+                <p class="bd-header__user-label">Login</p>
+            </a>
+          </li>
+        </ul>
+        <button class="bd-header__search-button" aria-label="global search"></button>
+      </div>
+      
+      
+
+<div class="bd-algolia-globalsearch bd-algolia-instantsearch instantsearch hide">
+
+
+
+    
+  <div class="instant-search-comp" data-cmp-is="algoliaInstantSearchComp" data-search-config="algoliasearch_20240718123203018" data-searchjson="{&#34;instantSearch&#34;:{&#34;algoliaSearchContainerId&#34;:&#34;algoliasearch_20240718123203018&#34;,&#34;searchResultPagePath&#34;:&#34;/en-us/search.html&#34;,&#34;enableSearchbar&#34;:&#34;true&#34;,&#34;searchbar&#34;:{},&#34;cloudAppId&#34;:&#34;U5DV82OD2G&#34;,&#34;cloudQueryKey&#34;:&#34;fdca0cbf53371709ba485864b987197a&#34;,&#34;productPagePath&#34;:&#34;/en-us/products-and-solutions/products/product-page&#34;}}">
+      <div>
+
+<div class="instant-search-comp__searchbox-wrap">
+   
+   
+      <div class="searchbox"></div>
+   
+   
+   
+   
+   
+   
+</div>
+</div>
+
+
+  </div>
+
+
+</div>
+
+
+<div id="bd-search" data-api="/en-us/search">
+    <form id="bd-search-form" data-api="/content/experience-fragments/bd-com/language-master/gl/en/site/header/master/jcr:content/root/bd_header.suggestions.json" autocomplete="off">
+        <div id="bd-search-icon"></div>
+        <input id="bd-global-search__text" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search"/>
+        <div id="bd-close-icon"></div>
+        <div id="bd-search__results_section" data-api="/content/experience-fragments/bd-com/language-master/gl/en/site/header/master/jcr:content/root/bd_header.search.json"></div>
+    </form>
+    <input hidden id="header__hidden-tabs-facets-data" value="{}"/>
+</div>
+    </header>
+  </div>
+  
+
+</div>
+
+        
+    </div>
+
+</div>
+</div>
+<div class="bd-product-page-ef bd-container__hidden" id="product-overview-present">true</div>
+
+    
+
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-703bfe4dca" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="bd-spotlight-new bd-spotlight__height-387 bd-spotlight__container-left-736-width aem-GridColumn aem-GridColumn--default--12">
+
+<div class="bd-spotlight__main-container position-relative">
+  
+  <div class="spotlight-left-color--primary-navy">
+  </div>
+  <div class="spotlight-right-color"></div>
+  
+  
+  
+  <section class="spotlight__content-container bd-spotlight__container
+      bd-spotlight__container-v2
+      bd-spotlight__container-secondary
+      
+      
+    ">
+    <div class="bd-spotlight__container-left ">
+      <div class="bd-spotlight__container-left-inner">
+        <div class="bd-spotlight__main-back-link">
+          <a href="/en-us/about-bd/policies" class="bd-spotlight__container-left__backBtn">
+            Policies, Guidelines and Statements</a>
+        </div>
+        <div title="&lt;h1>Terms of Use&lt;/h1>" class="bd-spotlight-heading-html">
+          <h1>Terms of Use</h1></div>
+        
+        
+        <div class="bd-spotlight__container-left__description-left">
+        </div>
+        
+        
+          
+          
+          
+        
+      </div>
+    </div>
+    
+    <div class="bd-spotlight__container-right">
+      
+      <div class="bd-spotlight__container-right-inner bd-spotlight__padding-left-image-video">
+        <div class="bd-spotlight__image-box">
+          <img src="/content/dam/bd-assets/bd-com/en-us/images/policies/policies_landing12.jpg" data-trackable="true" data-aem-asset-id="a1cc5f31-9077-48ee-b4f2-16f7cbf40b31" alt="Background Image"/>
+        </div>
+      </div>
+    </div>
+    
+  </section>
+</div>
+<div id="bd-global-funding-opportunities-tabs"></div>
+
+
+
+
+    
+
+
+
+
+
+
+</div>
+<div class="bd-container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-9e7af88731">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-35991532b3" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Terms of Use</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-f3435ac5fd" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-3c33e5674f&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:30Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Welcome to www.bd.com (the &amp;quot;Site&amp;quot;). Becton, Dickinson and Company (referred to as &amp;quot;BD&amp;quot;, &amp;quot;we&amp;quot;, &amp;quot;us&amp;quot; or &amp;quot;our&amp;quot;, as applicable) provides you with access to the Site subject to the terms and conditions contained in this Terms of Use Agreement (the &amp;quot;Agreement&#39;). Please read this Agreement carefully. By accessing or using this Site, you agree without restriction to be bound by this Agreement. If you do not agree to follow and be bound by this Agreement, you may not access, use or download materials from this Site.&lt;/p>\r\n&lt;p>Please note that if you are an existing customer or supplier of BD, these terms are not intended to replace or modify those contained in your customer or vendor agreement. In case of an inconsistency, the terms and conditions of your written agreement will prevail over those contained herein. All BD products and services may also be subject to separate terms and conditions which govern their use.&lt;/p>\r\n&lt;p>BD reserves the right to update or modify this Agreement at any time without prior notice. Your use of this Site following any such change constitutes your agreement to follow and be bound by this Agreement as revised. For this reason, we encourage you to review this Agreement each time you use this Site. This Agreement was last revised on June 23, 2020.&lt;/p>\r\n&#34;}}" id="text-3c33e5674f" class="cmp-text">
+  <p>Welcome to www.bd.com (the &#34;Site&#34;). Becton, Dickinson and Company (referred to as &#34;BD&#34;, &#34;we&#34;, &#34;us&#34; or &#34;our&#34;, as applicable) provides you with access to the Site subject to the terms and conditions contained in this Terms of Use Agreement (the &#34;Agreement&#39;). Please read this Agreement carefully. By accessing or using this Site, you agree without restriction to be bound by this Agreement. If you do not agree to follow and be bound by this Agreement, you may not access, use or download materials from this Site.</p>
+<p>Please note that if you are an existing customer or supplier of BD, these terms are not intended to replace or modify those contained in your customer or vendor agreement. In case of an inconsistency, the terms and conditions of your written agreement will prevail over those contained herein. All BD products and services may also be subject to separate terms and conditions which govern their use.</p>
+<p>BD reserves the right to update or modify this Agreement at any time without prior notice. Your use of this Site following any such change constitutes your agreement to follow and be bound by this Agreement as revised. For this reason, we encourage you to review this Agreement each time you use this Site. This Agreement was last revised on June 23, 2020.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__grey aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-10cad1a076">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-5b011a9b81" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">The Availability of the Site and International Users</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-c8cc3f4b85" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-a2b2bf36dd&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:30Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>The Site is administered by BD from Franklin Lakes, NJ in the United States. This Site and its contents (the &amp;quot;Content&amp;quot;) are designed to comply with United States laws and regulations and are intended for use by United States residents only. Access to the Site and the Content may not be legal by certain persons or in certain countries outside of the United States. If you access this Site from outside the United States, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction.&lt;/p>\r\n&lt;p>Materials published on this Site may refer to products or services that are not available in your country. Consult your local BD office for more information. Furthermore, BD makes no representation that the materials on the Site are appropriate or available for use at other locations outside of the United States and access to them from countries where their contents are illegal is prohibited.&lt;/p>\r\n&lt;p>You should not construe anything on the Site as a promotion or solicitation for any product or for the use of any product that is not authorized by the laws and regulations of the country in which you are located.&lt;/p>\r\n&#34;}}" id="text-a2b2bf36dd" class="cmp-text">
+  <p>The Site is administered by BD from Franklin Lakes, NJ in the United States. This Site and its contents (the &#34;Content&#34;) are designed to comply with United States laws and regulations and are intended for use by United States residents only. Access to the Site and the Content may not be legal by certain persons or in certain countries outside of the United States. If you access this Site from outside the United States, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction.</p>
+<p>Materials published on this Site may refer to products or services that are not available in your country. Consult your local BD office for more information. Furthermore, BD makes no representation that the materials on the Site are appropriate or available for use at other locations outside of the United States and access to them from countries where their contents are illegal is prohibited.</p>
+<p>You should not construe anything on the Site as a promotion or solicitation for any product or for the use of any product that is not authorized by the laws and regulations of the country in which you are located.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-fd203507e7">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-2b38e2fc69" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">This Site is Not a Source of Medical Advice</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-469d059da7" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-3aa7b02bf9&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:30Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>The Content of this Site is presented in summary form, is general in nature, and is provided for informational purposes only; it is not intended nor recommended as a substitute for professional medical advice. You should not use the Content of this Site for diagnosing a health or fitness problem or disease. Always seek the advice of your physician or other qualified health provider regarding any medical condition or treatment.&lt;/p>\r\n&lt;p>Nothing contained on this Site is intended to be for medical diagnosis or treatment. Never disregard medical advice or delay in seeking it because of something you have read on this Site.&lt;/p>\r\n&#34;}}" id="text-3aa7b02bf9" class="cmp-text">
+  <p>The Content of this Site is presented in summary form, is general in nature, and is provided for informational purposes only; it is not intended nor recommended as a substitute for professional medical advice. You should not use the Content of this Site for diagnosing a health or fitness problem or disease. Always seek the advice of your physician or other qualified health provider regarding any medical condition or treatment.</p>
+<p>Nothing contained on this Site is intended to be for medical diagnosis or treatment. Never disregard medical advice or delay in seeking it because of something you have read on this Site.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__grey aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-32248967f8">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-e8afbe107d" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Copyright Notice and Limitation on Use</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-86ade46ac6" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-2b7a8eb7cf&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:31Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>No use should be made of materials on this Site, except as expressly authorized by this Agreement. All Site Content, including the selection, arrangement and design of the Content is owned either by BD or its licensors and is protected by copyright and other intellectual property laws including the sui generis rights relating to the protection of databases.&lt;/p>\r\n&lt;p>You may not modify, copy, reproduce, republish, upload, post, transmit or distribute in any way any Content, in whole or in part, including any code and software. You may download Content from the Site for your own personal, non-commercial use only, provided the Content is not modified in any way you keep intact all copyright and other proprietary notices and you include the phrase, &amp;quot;Used with permission of Becton, Dickinson and Company&amp;quot; when you display or otherwise use the Content.&lt;/p>\r\n&#34;}}" id="text-2b7a8eb7cf" class="cmp-text">
+  <p>No use should be made of materials on this Site, except as expressly authorized by this Agreement. All Site Content, including the selection, arrangement and design of the Content is owned either by BD or its licensors and is protected by copyright and other intellectual property laws including the sui generis rights relating to the protection of databases.</p>
+<p>You may not modify, copy, reproduce, republish, upload, post, transmit or distribute in any way any Content, in whole or in part, including any code and software. You may download Content from the Site for your own personal, non-commercial use only, provided the Content is not modified in any way you keep intact all copyright and other proprietary notices and you include the phrase, &#34;Used with permission of Becton, Dickinson and Company&#34; when you display or otherwise use the Content.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-4aa894e239">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-e46c4de554" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Procedures for Claimed Copyright Infringement</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-6af83cae13" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-64cb2b8ece&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:31Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>We respect the intellectual property rights of others and we ask that you do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our Vice President and Chief Intellectual Property Counsel, 1 Becton Drive, Franklin Lakes, New Jersey 07417 USA, Email:&amp;nbsp;&lt;b>&lt;a href=\&#34;mailto:copyright@bd.com\&#34;>&lt;span class=\&#34;boostedblue-font-color\&#34;>copyrights@bd.com&lt;/span>&lt;/a>&lt;span class=\&#34;primary-blue-font-color\&#34;>&amp;nbsp;&lt;/span>&lt;/b>with the following information:&lt;/p>\r\n&lt;ul>\r\n&lt;li>an electronic or physical signature of the person authorized to act on behalf or the owner of the copyright interest&lt;/li>\r\n&lt;li>a description of the copyrighted work that you claim has been infringed&lt;/li>\r\n&lt;li>a description of where the material that you claim is infringing is located on the Site&lt;/li>\r\n&lt;li>your address, telephone number and email address&lt;/li>\r\n&lt;li>a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law&lt;/li>\r\n&lt;li>a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or duly authorized to act on the copyright owner&#39;s behalf&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-64cb2b8ece" class="cmp-text">
+  <p>We respect the intellectual property rights of others and we ask that you do the same. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide our Vice President and Chief Intellectual Property Counsel, 1 Becton Drive, Franklin Lakes, New Jersey 07417 USA, Email: <b><a href="mailto:copyright&#64;bd.com"><span class="boostedblue-font-color">copyrights&#64;bd.com</span></a><span class="primary-blue-font-color"> </span></b>with the following information:</p>
+<ul><li>an electronic or physical signature of the person authorized to act on behalf or the owner of the copyright interest</li><li>a description of the copyrighted work that you claim has been infringed</li><li>a description of where the material that you claim is infringing is located on the Site</li><li>your address, telephone number and email address</li><li>a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law</li><li>a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or duly authorized to act on the copyright owner&#39;s behalf</li></ul>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__grey aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-fec814f548">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-81dc04f5b1" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Trademark Notice</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-69181bb129" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-a507f88505&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:32Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>All of the trademarks, service marks and logos displayed on this Site (the &amp;quot;Trademark(s)&amp;quot;) are registered and unregistered trademarks of BD, its affiliates, or third parties. Nothing contained in this Site should be construed as granting, by implication, estoppel, or otherwise, any license or right in and to the Trademarks without the express written permission of BD or the applicable third party. Except as expressly provided in this Agreement, any use of the Trademarks found on the Site is strictly prohibited.&lt;/p>\r\n&lt;p>Please note that the names of the companies and products mentioned on this site may be trademarks of their respective owners. A complete list of BD&#39;s trademarks for each operating segment is provided below.&lt;/p>\r\n&lt;p>&lt;span class=\&#34;primary-blue-font-color\&#34;>&lt;b>&lt;a href=\&#34;/content/dam/bd-assets/bd-com/en-us/document/about/bd_product-brand-list_en.pdf\&#34; target=\&#34;_blank\&#34;>BD Brands list »&lt;/a>&lt;/b>&lt;/span>&lt;/p>\r\n&#34;}}" id="text-a507f88505" class="cmp-text">
+  <p>All of the trademarks, service marks and logos displayed on this Site (the &#34;Trademark(s)&#34;) are registered and unregistered trademarks of BD, its affiliates, or third parties. Nothing contained in this Site should be construed as granting, by implication, estoppel, or otherwise, any license or right in and to the Trademarks without the express written permission of BD or the applicable third party. Except as expressly provided in this Agreement, any use of the Trademarks found on the Site is strictly prohibited.</p>
+<p>Please note that the names of the companies and products mentioned on this site may be trademarks of their respective owners. A complete list of BD&#39;s trademarks for each operating segment is provided below.</p>
+<p><span class="primary-blue-font-color"><b><a href="/content/dam/bd-assets/bd-com/en-us/document/about/bd_product-brand-list_en.pdf" target="_blank" rel="noopener noreferrer">BD Brands list »</a></b></span></p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-95395b5fda">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-af42949100" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Public and Unsolicited Information</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-cf8acd1e35" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-affe4834ce&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:32Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>This Site may provide opportunities to provide BD feedback regarding this Site and our products and other unsolicited submissions (collectively, &amp;quot;Unsolicited Information&amp;quot;). You may only provide Unsolicited Information which meets the requirements of these Terms and Conditions.&lt;/p>\r\n&lt;p>Subject to the conditions provided herein, we accept innovative ideas for new products and technologies to our company by individuals and organizations not employed by or affiliated with BD so long as such inventions are covered by existing patents or are those for which patents have been applied for by the submitter.&lt;/p>\r\n&lt;p>If you wish to submit any such ideas&amp;nbsp;&lt;b>&lt;span class=\&#34;primary-blue-font-color\&#34;>&lt;a href=\&#34;/content/dam/bd-assets/bd-com/en-us/document/policy/corporate-policies-and-guidelines/corporate/BD-Policy_New-product-ideas-consideration-suggestions_EN.pdf\&#34; target=\&#34;_blank\&#34; rel=\&#34;noopener noreferrer\&#34;>click here for a copy of our submission information and procedure&lt;/a>.&lt;/span>&lt;/b>&lt;/p>\r\n&lt;p>BD and its employees do not accept or consider other unsolicited ideas, including ideas for new advertising campaigns, new promotions, new products or technologies, processes, materials, marketing plans or new product names. Please do not send any original creative artwork, samples, demos, or other works.&lt;/p>\r\n&lt;p>The sole purpose of this policy is to avoid potential misunderstandings or disputes when BD&#39;s products or marketing strategies might seem similar to ideas submitted to BD. So, except under the circumstances described above relating to patented ideas or those for which you have filed a patent application, please do not send your unsolicited ideas to BD or anyone at BD.&lt;/p>\r\n&lt;p>If, despite our request that you not send us your ideas and materials, you still send them, and in the event you post Public Information on our Site, all such Public Information and all such Unsolicited Information will be considered NON-CONFIDENTIAL and NON-PROPRIETARY and BD and its affiliates are free to use such information for any purpose and in any manner whatsoever.&lt;/p>\r\n&lt;p>This Site may present opportunities to post information to public areas of the Site, such as bulletin boards (collectively, &amp;quot;Public Areas&amp;quot;), or to send along comments and feedback (any such information provided, &amp;quot;Public Information&amp;quot;).&lt;/p>\r\n&lt;p>Although BD may, from time to time, monitor or review the information posted to the Public Areas of the Site, BD is under no obligation to do so, and assumes no responsibility or liability arising from the Content of such Public Areas or the Site in general or for any error, defamation, libel, slander, omission, falsehood, obscenity, pornography, profanity, danger, or inaccuracy contained in the Site.&lt;/p>\r\n&lt;p>You are prohibited from posting or transmitting any unlawful, threatening, libelous, defamatory, obscene, inflammatory, pornographic, or profane material or any material that could constitute or encourage conduct that would be considered a criminal offense, give rise to civil liability, or otherwise violate the law. BD will fully cooperate with any law enforcement authorities or court order requesting or directing BD to disclose the identity of anyone posting any such material.&lt;/p>\r\n&lt;p>&lt;b>Children under the age of eighteen should not submit any Public Information or Unsolicited Information containing personally identifiable data.&lt;/b>&lt;/p>\r\n&#34;}}" id="text-affe4834ce" class="cmp-text">
+  <p>This Site may provide opportunities to provide BD feedback regarding this Site and our products and other unsolicited submissions (collectively, &#34;Unsolicited Information&#34;). You may only provide Unsolicited Information which meets the requirements of these Terms and Conditions.</p>
+<p>Subject to the conditions provided herein, we accept innovative ideas for new products and technologies to our company by individuals and organizations not employed by or affiliated with BD so long as such inventions are covered by existing patents or are those for which patents have been applied for by the submitter.</p>
+<p>If you wish to submit any such ideas <b><span class="primary-blue-font-color"><a href="/content/dam/bd-assets/bd-com/en-us/document/policy/corporate-policies-and-guidelines/corporate/BD-Policy_New-product-ideas-consideration-suggestions_EN.pdf" target="_blank" rel="noopener noreferrer">click here for a copy of our submission information and procedure</a>.</span></b></p>
+<p>BD and its employees do not accept or consider other unsolicited ideas, including ideas for new advertising campaigns, new promotions, new products or technologies, processes, materials, marketing plans or new product names. Please do not send any original creative artwork, samples, demos, or other works.</p>
+<p>The sole purpose of this policy is to avoid potential misunderstandings or disputes when BD&#39;s products or marketing strategies might seem similar to ideas submitted to BD. So, except under the circumstances described above relating to patented ideas or those for which you have filed a patent application, please do not send your unsolicited ideas to BD or anyone at BD.</p>
+<p>If, despite our request that you not send us your ideas and materials, you still send them, and in the event you post Public Information on our Site, all such Public Information and all such Unsolicited Information will be considered NON-CONFIDENTIAL and NON-PROPRIETARY and BD and its affiliates are free to use such information for any purpose and in any manner whatsoever.</p>
+<p>This Site may present opportunities to post information to public areas of the Site, such as bulletin boards (collectively, &#34;Public Areas&#34;), or to send along comments and feedback (any such information provided, &#34;Public Information&#34;).</p>
+<p>Although BD may, from time to time, monitor or review the information posted to the Public Areas of the Site, BD is under no obligation to do so, and assumes no responsibility or liability arising from the Content of such Public Areas or the Site in general or for any error, defamation, libel, slander, omission, falsehood, obscenity, pornography, profanity, danger, or inaccuracy contained in the Site.</p>
+<p>You are prohibited from posting or transmitting any unlawful, threatening, libelous, defamatory, obscene, inflammatory, pornographic, or profane material or any material that could constitute or encourage conduct that would be considered a criminal offense, give rise to civil liability, or otherwise violate the law. BD will fully cooperate with any law enforcement authorities or court order requesting or directing BD to disclose the identity of anyone posting any such material.</p>
+<p><b>Children under the age of eighteen should not submit any Public Information or Unsolicited Information containing personally identifiable data.</b></p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__grey aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-a47389d9b0">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-ebb275edea" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Links to Other Websites</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-2830cf19f6" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-c794b5f880&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:32Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>This Agreement applies only to this Site. This Site may frame or contain references or links to other BD Web sites (the &amp;quot;Other BD Sites&amp;quot;) as well as other Web sites that are not operated by BD (the &amp;quot;Third Party Sites&amp;quot;). These references and/or links to the Third Party Sites are provided for your reference and convenience only, and do not imply any review or endorsement of the material on these Third Party Sites or any association with their operators. BD does not control these Third Party Sites and is not responsible for their content.&lt;/p>\r\n&lt;p>The Third Party Sites (and any Web sites to which they link) may contain information about uses of products that have not been approved or cleared by the Food and Drug Administration. BD does not endorse any &amp;quot;off-label&amp;quot; uses.&lt;/p>\r\n&lt;p>The Third Party Sites (and the Web sites to which they link) may contain information that is inaccurate, incomplete, or outdated. Your access and use of the Third Party Sites (and any Web sites to which they link) is solely at your own risk.&lt;/p>\r\n&lt;p>Please note that other BD Sites are governed by their specific Terms and Conditions and Privacy Policies. We recommend that you carefully read those documents upon your entry to those other BD Sites.&lt;/p>\r\n&#34;}}" id="text-c794b5f880" class="cmp-text">
+  <p>This Agreement applies only to this Site. This Site may frame or contain references or links to other BD Web sites (the &#34;Other BD Sites&#34;) as well as other Web sites that are not operated by BD (the &#34;Third Party Sites&#34;). These references and/or links to the Third Party Sites are provided for your reference and convenience only, and do not imply any review or endorsement of the material on these Third Party Sites or any association with their operators. BD does not control these Third Party Sites and is not responsible for their content.</p>
+<p>The Third Party Sites (and any Web sites to which they link) may contain information about uses of products that have not been approved or cleared by the Food and Drug Administration. BD does not endorse any &#34;off-label&#34; uses.</p>
+<p>The Third Party Sites (and the Web sites to which they link) may contain information that is inaccurate, incomplete, or outdated. Your access and use of the Third Party Sites (and any Web sites to which they link) is solely at your own risk.</p>
+<p>Please note that other BD Sites are governed by their specific Terms and Conditions and Privacy Policies. We recommend that you carefully read those documents upon your entry to those other BD Sites.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-61b5e92a92">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-a43804344c" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">No Framing Allowed</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-d651816c56" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-6c5d663c06&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:33Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Elements of this Site are protected by copyright, trade dress, trademark, unfair competition, and other laws and may not be copied or imitated in whole or in part by any means, including but not limited to, the use of framing, deep linking or mirrors. None of the Content for our Site may be retransmitted without the express written consent of BD. If you are interested in linking to our Site,&amp;nbsp;&lt;b>&lt;span class=\&#34;primary-blue-font-color\&#34;>&lt;a href=\&#34;https://go.bd.com/BDPERM.html\&#34; target=\&#34;_blank\&#34;>Contact Us&lt;/a>&amp;nbsp;&lt;/span>&lt;/b>for more information.&lt;/p>\r\n&#34;}}" id="text-6c5d663c06" class="cmp-text">
+  <p>Elements of this Site are protected by copyright, trade dress, trademark, unfair competition, and other laws and may not be copied or imitated in whole or in part by any means, including but not limited to, the use of framing, deep linking or mirrors. None of the Content for our Site may be retransmitted without the express written consent of BD. If you are interested in linking to our Site, <b><span class="primary-blue-font-color"><a href="https://go.bd.com/BDPERM.html" target="_blank" rel="noopener noreferrer">Contact Us</a> </span></b>for more information.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__grey aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-64a53672ed">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-5c9f47d56e" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Dealings with Advertisers</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-a44bc57bbb" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-03ccf31079&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:33Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Site, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings are solely between you and such advertiser. You agree that we are not responsible nor shall we be liable for loss or damage of any sort incurred as a result of any such dealings or as the result of the presence of such advertiser on the Site.&lt;/p>\r\n&#34;}}" id="text-03ccf31079" class="cmp-text">
+  <p>Your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Site, including payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings are solely between you and such advertiser. You agree that we are not responsible nor shall we be liable for loss or damage of any sort incurred as a result of any such dealings or as the result of the presence of such advertiser on the Site.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__white aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-03597b1f90">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-f9c3feb84a" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Account Registration</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-d8c458f0bd" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-7c317e7727&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:33Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Some of the functions of this Site may require creation of an account with us. As part of the registration process, visitors will select a User Name and Password, along with registration information, which must be accurate and updated. You may not select or use a User Name of another person with the intent to impersonate that person or use a User Name in which another person has rights without such person&#39;s authorization.&lt;/p>\r\n&lt;p>Failure to comply with the above shall constitute a breach of this Agreement, which may result in immediate termination of your account. You agree to take reasonable measures to protect the security of your password. You are responsible for all usage or activity on your account, including use of the account by any third party authorized by you to use your User Name and Password. You shall notify BD of any known or suspected unauthorized use(s) of your account, or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of your password or any other relevant registration details provided.&lt;/p>\r\n&#34;}}" id="text-7c317e7727" class="cmp-text">
+  <p>Some of the functions of this Site may require creation of an account with us. As part of the registration process, visitors will select a User Name and Password, along with registration information, which must be accurate and updated. You may not select or use a User Name of another person with the intent to impersonate that person or use a User Name in which another person has rights without such person&#39;s authorization.</p>
+<p>Failure to comply with the above shall constitute a breach of this Agreement, which may result in immediate termination of your account. You agree to take reasonable measures to protect the security of your password. You are responsible for all usage or activity on your account, including use of the account by any third party authorized by you to use your User Name and Password. You shall notify BD of any known or suspected unauthorized use(s) of your account, or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of your password or any other relevant registration details provided.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__grey aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-74d9cdc9ef">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-af485d6a3c" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Site Privacy Statement</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-a7d1d374a5" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-43c7eb742e&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:34Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Our Privacy Statement is available on this Site and by accessing the Site, you are agreeing to be legally bound by the Privacy Statement. The Privacy Statement in its entirety is hereby incorporated into this Agreement by reference.&lt;/p>\r\n&lt;p>&lt;span class=\&#34;primary-blue-font-color\&#34;>&lt;b>&lt;a href=\&#34;/content/bd-com/na/us/en-us/about-bd/policies/privacy-policy-statement.html\&#34;>Read our Privacy Statement ».&lt;/a>&lt;/b>&lt;/span>&lt;/p>\r\n&#34;}}" id="text-43c7eb742e" class="cmp-text">
+  <p>Our Privacy Statement is available on this Site and by accessing the Site, you are agreeing to be legally bound by the Privacy Statement. The Privacy Statement in its entirety is hereby incorporated into this Agreement by reference.</p>
+<p><span class="primary-blue-font-color"><b><a href="/en-us/about-bd/policies/privacy-policy-statement">Read our Privacy Statement ».</a></b></span></p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__white aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-6848135928">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-7e62cd470e" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Disclaimer of Warranties</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-5148caeef9" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-e27ca1b027&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:34Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>The site and the content are provided on an “As Is,” “As Available” basis, without warranties of any kind. There may be delays, omissions or inaccuracies in the content and the site. BD and its affiliates do not warrant the accuracy, completeness, timeliness, non-infringement, title, merchantability, or fitness for a particular purpose of the content or the site itself, and we hereby disclaim any such express or implied warranties BD does not represent or warrant that the content of this site is free of viruses, worms or other code that may manifest contaminating or destructive properties. Because some jurisdictions do not permit the exclusion of certain warranties, these exclusions, may not apply to you.&amp;nbsp;&lt;/p>\r\n&#34;}}" id="text-e27ca1b027" class="cmp-text">
+  <p>The site and the content are provided on an “As Is,” “As Available” basis, without warranties of any kind. There may be delays, omissions or inaccuracies in the content and the site. BD and its affiliates do not warrant the accuracy, completeness, timeliness, non-infringement, title, merchantability, or fitness for a particular purpose of the content or the site itself, and we hereby disclaim any such express or implied warranties BD does not represent or warrant that the content of this site is free of viruses, worms or other code that may manifest contaminating or destructive properties. Because some jurisdictions do not permit the exclusion of certain warranties, these exclusions, may not apply to you. </p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__grey aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-6394068536">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-9e5cfaa43d" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Limitation of Liability</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-e9f6b20c45" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-a794df1a22&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:34Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Your use of this site is at your sole risk. Under no circumstances, shall BD, its affiliates or any of their respective directors, officers, employees, or agents, be liable for any direct or indirect losses or damages arising out of or in connection with your use of or inability to use this site or your reliance on any content. This limitation of liability applies to all loses and damages of any kind whatsoever, whether direct or indirect, general, special, incidental, consequential, exemplary or otherwise, including without limitation, loss of data, revenue or profits. This limitation of liability applies whether the alleged liability is based on contract, negligence, tort, strict liability or any other basis and even if an authorized representative of BD or its affiliates has been advised of or should have known of the possibility of such damages. Some states do not allow the exclusion of damages or limitation of liability set forth above, so this limitation of liability may not apply to you. If any part of this limitations of liability is found t be invalid or unenforceable for any reason, then the aggregate liability if BD and/or its affiliates under such circumstances shall not exceed, One hundred ($100.00) dollar in the aggregate. If any remedy here under is determined to have failed of its essential purpose, all limitations of liability, disclaimers and exclusion of warranties and damages set forth in this agreement shall remain in effect.&lt;/p>\r\n&#34;}}" id="text-a794df1a22" class="cmp-text">
+  <p>Your use of this site is at your sole risk. Under no circumstances, shall BD, its affiliates or any of their respective directors, officers, employees, or agents, be liable for any direct or indirect losses or damages arising out of or in connection with your use of or inability to use this site or your reliance on any content. This limitation of liability applies to all loses and damages of any kind whatsoever, whether direct or indirect, general, special, incidental, consequential, exemplary or otherwise, including without limitation, loss of data, revenue or profits. This limitation of liability applies whether the alleged liability is based on contract, negligence, tort, strict liability or any other basis and even if an authorized representative of BD or its affiliates has been advised of or should have known of the possibility of such damages. Some states do not allow the exclusion of damages or limitation of liability set forth above, so this limitation of liability may not apply to you. If any part of this limitations of liability is found t be invalid or unenforceable for any reason, then the aggregate liability if BD and/or its affiliates under such circumstances shall not exceed, One hundred ($100.00) dollar in the aggregate. If any remedy here under is determined to have failed of its essential purpose, all limitations of liability, disclaimers and exclusion of warranties and damages set forth in this agreement shall remain in effect.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__white aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-46ed38a4db">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-dd39d24a48" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Forward looking Statements</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-c061e44ab6" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-5a62d87891&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:35Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>This site may from time to time contain certain forward-looking statements (as defined under Federal securities laws) regarding BD&#39;s performance, including future revenues, products and income, or events or developments that BD expects to occur or anticipates occurring in the future. All such statements are based upon current expectations of BD and involve a number of business risks and uncertainties. Actual results could vary materially from anticipated results described, implied or projected in any forward-looking statement. Factors that could cause actual results to vary materially from any forward-looking statement include, but are not limited to: competitive factors; pricing and market share pressures; uncertainties of litigation; BD&#39;s ability to achieve sales and earnings forecasts, which are based on sales volume and product mix assumptions, to achieve its cost savings objectives, and to achieve anticipated synergies and other cost savings in connection with acquisitions; changes in regional, national or foreign economic conditions; increases in energy costs: fluctuations in costs and availability or raw materials and in BD&#39;s ability to maintain favorable supplier arrangements and relationships; changes in interest or foreign currency exchange rates; delays in product introductions; and changes in health care or other governmental regulation, as well as other factors discussed in this Site in BD&#39;s filings with the Securities and Exchange Commission. We do not intend to update any forward-looking statements.&lt;/p>\r\n&#34;}}" id="text-5a62d87891" class="cmp-text">
+  <p>This site may from time to time contain certain forward-looking statements (as defined under Federal securities laws) regarding BD&#39;s performance, including future revenues, products and income, or events or developments that BD expects to occur or anticipates occurring in the future. All such statements are based upon current expectations of BD and involve a number of business risks and uncertainties. Actual results could vary materially from anticipated results described, implied or projected in any forward-looking statement. Factors that could cause actual results to vary materially from any forward-looking statement include, but are not limited to: competitive factors; pricing and market share pressures; uncertainties of litigation; BD&#39;s ability to achieve sales and earnings forecasts, which are based on sales volume and product mix assumptions, to achieve its cost savings objectives, and to achieve anticipated synergies and other cost savings in connection with acquisitions; changes in regional, national or foreign economic conditions; increases in energy costs: fluctuations in costs and availability or raw materials and in BD&#39;s ability to maintain favorable supplier arrangements and relationships; changes in interest or foreign currency exchange rates; delays in product introductions; and changes in health care or other governmental regulation, as well as other factors discussed in this Site in BD&#39;s filings with the Securities and Exchange Commission. We do not intend to update any forward-looking statements.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__grey aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-7c0379415c">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-d4ebf60182" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">Indemnification</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-0bf79e0675" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-140524380f&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:35Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>In the event that any legal action is taken resulting from (i) your use of the Content or Site, including your breach of the terms of this Agreement, or (ii) any Unsolicited Information provided by you, you agree to defend, indemnify, hold harmless and pay any reasonable legal and accounting fees without limitation incurred by BD, its affiliates, its and their directors, officers, employees, agents, investors or licensors. BD shall provide notice to you promptly of any such claim, suit, or proceeding. BD shall have the right, at its option and expense, to participate in the defense and/or settlement of any claim or action, or to assume the exclusive defense and control of any matter otherwise subject to indemnification by you without relieving your indemnification obligations. In no event shall you settle any suit or claim imposing any liability or other obligations on BD without its prior written consent.&lt;/p>\r\n&#34;}}" id="text-140524380f" class="cmp-text">
+  <p>In the event that any legal action is taken resulting from (i) your use of the Content or Site, including your breach of the terms of this Agreement, or (ii) any Unsolicited Information provided by you, you agree to defend, indemnify, hold harmless and pay any reasonable legal and accounting fees without limitation incurred by BD, its affiliates, its and their directors, officers, employees, agents, investors or licensors. BD shall provide notice to you promptly of any such claim, suit, or proceeding. BD shall have the right, at its option and expense, to participate in the defense and/or settlement of any claim or action, or to assume the exclusive defense and control of any matter otherwise subject to indemnification by you without relieving your indemnification obligations. In no event shall you settle any suit or claim imposing any liability or other obligations on BD without its prior written consent.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+<div class="bd-container responsivegrid bd-container__white aem-GridColumn aem-GridColumn--default--12">
+  
+  
+  
+
+  <div class="bd-container__background bd-container__background-image ">
+    <div class="cmp-container cmp-container-responsive" id="bd-container-d069d63b93">
+      
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--tablet--12 aem-Grid--default--12 aem-Grid--smallDesktop--12 aem-Grid--largeDesktop--12 ">
+    
+    <div class="bd-container responsivegrid bd-container__heading-width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--smallDesktop--3 aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--largeDesktop--3 aem-GridColumn--tablet--3 aem-GridColumn--tablet--none aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-d812956684" class="cmp-container bd-container__simple-image ">
+    
+    <div class="bd-product-page-heading"><div></div>
+
+<div class="bd-sidebar-component__container">
+  <div class="component-heading">General</div>
+  <!-- <div id="download" data-sly-test="" class="component-subheading">
+    
+  </div> -->
+  
+  
+
+</div>
+
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+<div class="bd-container responsivegrid bd-text__width aem-GridColumn--offset--tablet--0 aem-GridColumn--smallDesktop--none aem-GridColumn--offset--smallDesktop--0 aem-GridColumn--offset--largeDesktop--0 aem-GridColumn--tablet--none aem-GridColumn--largeDesktop--8 aem-GridColumn aem-GridColumn--largeDesktop--none aem-GridColumn--tablet--9 aem-GridColumn--smallDesktop--9 aem-GridColumn--default--12">
+  
+  
+  
+
+  <div id="bd-container-ce902de761" class="cmp-container bd-container__simple-image ">
+    
+    <div class="text">
+
+  <div data-cmp-data-layer="{&#34;text-de1d97a9b3&#34;:{&#34;@type&#34;:&#34;bd-com/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-05T22:19:35Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>You are responsible for obtaining and maintaining all telephone, computer hardware and other equipment needed for access to and use of the Site and all charges related thereto. BD reserves the right to alter or delete material from this Site at any time. This Site is controlled and operated by BD from its offices within the United States. Any claim relating to, and the use of, this Site are governed by the laws of the State of New Jersey, United States of America. By using this Site, you consent to personal jurisdiction in the federal and state courts located in the State of New Jersey, for any action arising out of or relating to this Site or your use of this Site. Such courts shall have exclusive jurisdiction over all such actions. The United Nations Convention on Contacts for the International Sale of Goods does not apply to this Agreement.&lt;/p>\r\n&lt;p>This Agreement constitutes the entire agreement between you and BD with respect to your access to and/or use of this Site. Any claims arising in connection with your use of the Site or any Content must be brought within one (1) year of the date of the event giving rise to such action occurred. All provisions of this Agreement pertaining to indemnification, disclaimer or warranties, limitation of liability and proprietary rights shall survive the termination of this Agreement for any reason. If any provision of this Agreement is invalid or unenforceable, the remaining provisions will continue in full force and effect, and the invalid or unenforceable provision will be deemed superseded by a valid enforceable provision that closely matches the intent of the original provision. The failure by us to exercise or enforce any right or provision under this Agreement shall not constitute a waiver of such right or provision. All rights not expressly granted herein are hereby reserved.&lt;/p>\r\n&#34;}}" id="text-de1d97a9b3" class="cmp-text">
+  <p>You are responsible for obtaining and maintaining all telephone, computer hardware and other equipment needed for access to and use of the Site and all charges related thereto. BD reserves the right to alter or delete material from this Site at any time. This Site is controlled and operated by BD from its offices within the United States. Any claim relating to, and the use of, this Site are governed by the laws of the State of New Jersey, United States of America. By using this Site, you consent to personal jurisdiction in the federal and state courts located in the State of New Jersey, for any action arising out of or relating to this Site or your use of this Site. Such courts shall have exclusive jurisdiction over all such actions. The United Nations Convention on Contacts for the International Sale of Goods does not apply to this Agreement.</p>
+<p>This Agreement constitutes the entire agreement between you and BD with respect to your access to and/or use of this Site. Any claims arising in connection with your use of the Site or any Content must be brought within one (1) year of the date of the event giving rise to such action occurred. All provisions of this Agreement pertaining to indemnification, disclaimer or warranties, limitation of liability and proprietary rights shall survive the termination of this Agreement for any reason. If any provision of this Agreement is invalid or unenforceable, the remaining provisions will continue in full force and effect, and the invalid or unenforceable provision will be deemed superseded by a valid enforceable provision that closely matches the intent of the original provision. The failure by us to exercise or enforce any right or provision under this Agreement shall not constitute a waiver of such right or provision. All rights not expressly granted herein are hereby reserved.</p>
+ 
+    
+</div>
+
+    
+
+</div>
+
+    
+  </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+  </div>
+
+
+  
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="bd-experiencefragment experiencefragment aem-GridColumn aem-GridColumn--default--12"><div class="bd-experience-fragment__container cmp-experiencefragment cmp-experiencefragment--footer"><div class="xfpage page basicpage">
+
+
+    
+    <div id="container-f9b53f439b" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="bd-footer aem-GridColumn aem-GridColumn--default--12"><footer class="bd-footer">
+    <section class="position-relative">
+        <div class="spotlight-left-color"></div>
+        <div class="spotlight-right-color"></div>
+        <div class="bd-spotlight__container spotlight__content-container">
+            <div class="bd-spotlight__container-left">
+                <div class="bd-spotlight__container-left-inner">
+                    <div class="bd-footer__bottom-right bd-footer__left-inner-content">
+                        <ul class="bd-footer__bottom--right-socialicon">
+                            <li class="d-block-lg">Follow us</li>
+                            <li>
+                                <ul>
+                                    <li>
+                                        <a href="https://www.linkedin.com/company/bd1?trk=biz-companies-cym" target="_blank"><img src="/content/dam/bdcom-assets/en/en-us/images/graphic/icon/linkedin-black.svg" alt="Linked In" title="Linked In" data-trackable="true" data-aem-asset-id="a345b01e-e315-4e08-aa97-5ac12e80d8cf"/></a>
+                                    </li>
+<li>
+                                        <a href="https://www.facebook.com/BectonDickinsonandCo?ref=bookmarks" target="_blank"><img src="/content/dam/bdcom-assets/en/en-us/images/graphic/icon/fb-black.svg" alt="Facebook" title="Facebook" data-trackable="true" data-aem-asset-id="3fe635bb-9ce3-4f85-9109-91ca78e36e12"/></a>
+                                    </li>
+<li>
+                                        <a href="https://www.instagram.com/becton_dickinson/" target="_blank"><img src="/content/dam/bd-assets/bd-com/en-us/icons/generic/instagram/instagram-blue.svg" alt="Instagram" title="Instagram" data-trackable="true" data-aem-asset-id="fa03b17a-118f-42c3-a1f7-0551fee18108"/></a>
+                                    </li>
+<li>
+                                        <a href="https://twitter.com/BDandCo" target="_blank"><img src="/content/dam/bd-assets/bd-com/en-us/icons/generic/x/X_Logo.svg" alt="Twitter" title="Twitter" data-trackable="true" data-aem-asset-id="e9af0550-b0f0-4330-b4af-5166487ed8ca"/></a>
+                                    </li>
+<li>
+                                        <a href="https://www.youtube.com/channel/UCPGmutY43EjP_3ijOugNGnA" target="_blank"><img src="/content/dam/bd-assets/bd-com/en-us/icons/generic/youtube/youtube-black.svg" alt="Youtube" title="Youtube" data-trackable="true" data-aem-asset-id="49d4f5b6-13f9-4e6e-8f50-f7e060632667"/></a>
+                                    </li>
+
+                                </ul>
+                            </li> 
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="bd-spotlight__container-center d-block-lg">
+                <div class="bd-spotlight__container-center-inner"></div>
+            </div>
+            <div class="bd-spotlight__container-right spotlightCarousel-block">
+                <div class="bd-spotlight__container-right-inner">
+                    <div class="spotlightCarousel">
+                        <div class="spotlightCarousel-item">
+                            <div class="spotlightCarousel-item__content">
+                                <div class="spotlightCarousel-item__content-title">
+                                    Quick Links
+                                </div>
+                                <div class="spotlightCarousel-item__content-list-cnt">
+                                    <ul class="spotlightCarousel-item__content-list">
+                                        <li>
+                                            <a target="_blank" href="https://bdx.my.site.com/CC360/s/parentrecall?language=en_US">Recalls and Field Actions</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_blank" href="https://jobs.bd.com">Careers</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_self" href="/en-us/about-bd/cybersecurity">Cybersecurity</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_blank" href="https://eifu.bd.com">Electronic Instructions for Use</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="spotlightCarousel-item__content-list">
+                                        <li>
+                                            <a target="_self" href="/en-us/resource-and-education/event-landing-page">Events</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_blank" href="https://investors.bd.com">Investors</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_self" href="/en-us/about-bd/esg?#inclusiondiversityequity">Inclusion, Diversity &amp; Equity</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_self" href="/en-us/resource-and-education/documentation-landing-page">Literature</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_self" href="/en-us/live-chat-support">Live Chat Support</a>
+                                        </li>
+                                    </ul>
+                                    <ul class="spotlightCarousel-item__content-list spotlightCarousel-item__content-list-col3">
+                                        <li>
+                                            <a target="_blank" href="https://news.bd.com">News, Media and Blogs</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_self" href="/en-us/about-bd/our-company">Our Company</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_self" href="/en-us/about-bd/our-company?#ethicsandcompliance">Ethics and Compliance</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_self" href="/en-us/support">Support</a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a target="_self" href="/en-us/resource-and-education/training-landing-page">Training</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section class="bd-footer__bottom spotlight__content-container">
+            <div class="bd-footer__bottom-wrapper">
+                <div class="bd-footer__bottom-left">
+                    <ul class="bd-footer__bottom-left-item">
+                        
+                            <li><a href="/en-us/support/contact-us">Contact us</a></li>
+                        
+                        
+                    
+                        
+                        
+                            <li>
+                                <a href="javascript:void(0)" onclick="event.preventDefault(); OneTrust.ToggleInfoDisplay();">Cookie Preferences</a>
+                            </li>
+                        
+                    
+                        
+                            <li><a href="/en-us/about-bd/policies/privacy-policy-statement">Privacy Statement</a></li>
+                        
+                        
+                    
+                        
+                            <li><a href="/en-us/about-bd/policies/terms-of-use">Terms of Use</a></li>
+                        
+                        
+                    
+                        
+                            <li><a href="/en-us/support/contact-us">Website Accessibility</a></li>
+                        
+                        
+                    
+                        
+                            <li><a href="https://privacyportal-eu.onetrust.com/webform/29abe976-120d-4d7e-9a5c-6762f9a8b2cc/94e389b3-9560-4cd2-9233-6f80a01efb3f">Your Privacy Rights</a></li>
+                        
+                        
+                    
+                        
+                            <li><a href="https://privacyportal-eu.onetrust.com/webform/29abe976-120d-4d7e-9a5c-6762f9a8b2cc/94e389b3-9560-4cd2-9233-6f80a01efb3f">Limit the use of Sensitive Personal Information</a></li>
+                        
+                        
+                    </ul>
+                </div>
+                <div class="bd-footer__description">
+                    <a href="/en-us"><img src="/content/dam/bd-assets/bd-com/en-us/logos/bd/bd-logo-white.png" alt="BD_tag_en_1-Color_Reverse_RGB_TransparentBurst" title="BD_tag_en_1-Color_Reverse_RGB_TransparentBurst" data-trackable="true" data-aem-asset-id="1210f09a-d829-45a6-bf47-c39d8315a81f"/></a>
+                    <div><p>© 2024 BD. All rights reserved. BD and the BD Logo are trademarks of Becton, Dickinson and Company. All other trademarks are the property of their respective owners.</p>
+</div>
+                </div>
+            </div>
+            <div class="bd-footer__disclaimer"></div>
+        </section>
+    </section>
+</footer>
+
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+</div>
+<div class="bd-product-page-ef bd-container__hidden" id="product-overview-present">true</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+
+        
+    
+    
+<script src="/etc.clientlibs/algolia/clientlibs/clientlib-site.lc-3516e27e735f46a1700b02064a895bd8-lc.min.js"></script>
+<script src="/etc.clientlibs/bd-com/clientlibs/clientlib-site.lc-5fffcadd2236b38be9d9edb9c2a69686-lc.min.js"></script>
+
+
+
+    
+
+  
+    
+<script src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-0a6aff292f5cc42142779cde92054524-lc.min.js"></script>
+<script src="/etc.clientlibs/bd-com/clientlibs/clientlib-base.lc-1ff68e1a5743078241b4e9dc0895bcea-lc.min.js"></script>
+
+
+
+
+
+
+
+
+
+<script>
+  (function (d) {
+    var s = d.createElement("script");
+    s.setAttribute(
+      "data-account",
+      "9HoHn5ks2A"
+    );
+    s.setAttribute("src", "https://accessibilityserver.org/widget.js");
+    (d.body || d.head).appendChild(s);
+  })(document);
+</script>
+<noscript>Please ensure Javascript is enabled for purposes of
+  <a href="https://accessibilityserver.org">website accessibility</a></noscript>
+
+<!--Start of Upgraded Version Added-->
+<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js" integrity="sha256-lSjKY0/srUM9BE3dPm+c4fBo1dky2v27Gdjm2uoZaL0=" crossorigin="anonymous"></script>
+<!--End of Upgraded Version Added-->
+
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>-->
+
+<script src="https://cdn.jsdelivr.net/npm/jquery.ui.widget@1.10.3/jquery.ui.widget.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/blueimp-file-upload/10.25.0/js/jquery.fileupload.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-file-upload/4.0.11/jquery.uploadfile.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.19/jquery.touchSwipe.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.js"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js'></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/jquery-mapael@2.2.0/js/jquery.mapael.min.js"></script>
+
+<script src="//go.bd.com/js/forms2/js/forms2.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.es6.min.js"></script>
+<!-- OneTrust Cookies Consent Notice start  -->
+
+  
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="661da73c-6bea-476a-a60a-b16a8c6b55e1"></script>
+  
+
+<!-- OneTrust Cookies Consent Notice end  -->
+
+<!-- IDS Foyer Widget Starts -->
+
+<!-- IDS FOyer Widget Ends -->
+
+<!-- Include Date Range Picker -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/js/bootstrap-datepicker.min.js"></script>
+<script src="https://players.brightcove.net/81909694001/rxDeY9XEJ_default/index.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.4.1/css/bootstrap-datepicker3.css"/>
+<!-- Demandbase Tag -->
+<script>
+  (function (d, b, a, s, e) {
+    var t = b.createElement(a),
+      fs = b.getElementsByTagName(a)[0];
+    t.async = 1;
+    t.id = e;
+    t.src = s;
+    fs.parentNode.insertBefore(t, fs);
+  })(
+    window,
+    document,
+    "script",
+    "https://tag.demandbase.com/c32acae3de4fb1b4.min.js",
+    "demandbase_js_lib"
+  );
+</script>
+
+    <div class="cloudservice sitecatalyst"><script src="/etc.clientlibs/cq/analytics/clientlibs/sitecatalyst/sitecatalyst.lc-5e93a251c725b11609d23b015457e435-lc.min.js"></script>
+<link rel="stylesheet" href="/etc.clientlibs/cq/analytics/clientlibs/sitecatalyst/tracking.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.css" type="text/css">
+<script src="/etc.clientlibs/cq/personalization/clientlib/personalization/integrations/commons.lc-5370019fd157d93202ac2d6f771f04b8-lc.min.js"></script>
+<script src="/etc.clientlibs/cq/analytics/clientlibs/sitecatalyst/tracking.lc-2c52d1083136b52c562c470e03920cc0-lc.min.js"></script>
+<script src="/etc.clientlibs/cq/analytics/clientlibs/sitecatalyst/util.lc-d5cb841ef0f010de2272bb265f6be54e-lc.min.js"></script>
+<script type="text/javascript" src="/en-us/_jcr_content/analytics.sitecatalyst.js"></script>
+<script src="/etc.clientlibs/cq/analytics/clientlibs/sitecatalyst/plugins.lc-e9d6814cc2bb67e59d0cf7e92b90d803-lc.min.js"></script>
+<script type="text/javascript" src="/en-us/_jcr_content/analytics.config.js"></script><span data-tracking="{event:'pageView', values:{}, componentPath:'foundation/components/page'}"></span><script type="text/javascript">
+CQ_Analytics.Sitecatalyst.frameworkComponents = [''];
+/**
+ * Sets SiteCatalyst variables accordingly to mapped components. If <code>options</code>
+ * object is provided only variables matching the options.componentPath are set.
+ *
+ * @param {Object} options Parameter object from CQ_Analytics.record() call. Optional.
+ */
+CQ_Analytics.Sitecatalyst.updateEvars = function(options) {
+    this.frameworkMappings = [];
+    for (var i=0; i<this.frameworkMappings.length; i++){
+        var m = this.frameworkMappings[i];
+        if (!options || options.compatibility || (options.componentPath == m.resourceType)) {
+            CQ_Analytics.Sitecatalyst.setEvar(m);
+        }
+    }
+}
+
+CQ_Analytics.Sitecatalyst.doPageTrack = function() {
+    var collect = true;
+    var lte = s.linkTrackEvents;
+    var afterCollectEvent = document.createEvent("Event");
+    s.pageName="content:bd\u002Dcom:na:us:en\u002Dus:about\u002Dbd:policies:terms\u002Dof\u002Duse";
+    s.contextData['AEM.pagename'] = s.pageName;
+    s.contextData['AEM.site'] = "content:bd\u002Dcom";
+    
+
+    CQ_Analytics.Sitecatalyst.collect(collect);
+    if (collect) {
+        CQ_Analytics.Sitecatalyst.updateEvars();
+        /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+        var s_code=s.t();if(s_code)document.write(s_code);
+        s.linkTrackEvents = lte;
+        if (s.linkTrackVars.indexOf('events')==-1){ delete s.events };
+        afterCollectEvent.initEvent("sitecatalystAfterCollect", true, true);
+        document.dispatchEvent(afterCollectEvent);
+    }
+};
+
+CQ_Analytics.DataProvider.onReady(function() {
+    CQ_Analytics.Sitecatalyst.doPageTrack();
+});
+</script>
+<noscript><img src="https://bectondickinsonandcompany.data.adobedc.net/b/ss/bectonbd-com162217p/1/H.27.5--NS/1727824025628?cdp=3&amp;gn=content%3Abd-com%3Ana%3Aus%3Aen-us%3Aabout-bd%3Apolicies%3Aterms-of-use" height="1" width="1" border="0" alt=""/></noscript>
+</div>
+
+
+    
+
+    
+    
+
+
+
+    
+    
+
+        
+
+    
+</body>
+
+</html>

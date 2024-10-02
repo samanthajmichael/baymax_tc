@@ -1,0 +1,1268 @@
+
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+<head>
+    <!-- BEGIN NOINDEX -->
+
+    
+<meta name="VIcurrentDateTime" content="638634207135881338" />
+<meta name="VirtualFolder" content="/" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+    
+
+<meta charset="utf-8" />
+<title>Alliant Energy - Rebate Terms and Conditions</title>
+<meta name="title" content="Rebate Terms and Conditions" />
+<meta name="description" content="Terms and conditions for rebates and marketplace for all of our Iowa customers." />
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta property="og:title" content="Rebate Terms and Conditions" />
+<meta property="og:url" content="/waystosave/rebatesandmarketplace/rebatetermsandconditions" />
+<meta property="og:type" content="WebPage" />
+<meta property="og:image" content="http://www.alliantenergy.com/-/media/alliant/images/facebookphotos/fpo-1600x1254.jpg?sc_lang=en" />
+    <meta name="facebook-domain-verification" content="nj9lkrhoffznx6jsenh7tq5gel3yvx" />
+        <link href="/Assets/Alliant/css/AE.styles.css?r=bef396dfa3b0ab22fd3a2fa47ff32a4c" rel="stylesheet" type="text/css" media="all" />
+
+<link rel="icon" type="image/png" href="/favicon.ico" />
+<link rel="canonical" href="https://www.alliantenergy.com/waystosave/rebatesandmarketplace/rebatetermsandconditions" />
+
+<script>
+    document.documentElement.classList.remove('no-js');
+    document.documentElement.classList.add('js');
+    var AE = { experienceEditor: false, utils:{},calculators:{}};
+    AE.utils = {};
+    AE.calculators = {};
+</script>
+
+
+    <!-- Google Tag Manager -->
+    <script>
+(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl +'&gtm_auth=pEFs5fCYlnRD7BEVDM9JKA&gtm_preview=env-2&gtm_cookies_win=x'; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TMNB3ZJ');</script>
+    <!-- End Google Tag Manager -->
+
+    <!--Google Maps API-->
+    <script>
+            window.googleMapsApiKey = 'AIzaSyCJUZB1o2KPFBvte7ldhnj7SKlBQmqd2k0';
+    </script>
+
+    <!-- Meta Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) }
+                ;
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '949634562591817');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src=https://www.facebook.com/tr?id=949634562591817&ev=PageView&noscript=1 />
+    </noscript>
+    <!-- End Meta Pixel Code -->
+
+    <!-- END NOINDEX -->
+</head>
+<body>
+    <!-- BEGIN NOINDEX -->
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TMNB3ZJ&gtm_auth=pEFs5fCYlnRD7BEVDM9JKA&gtm_preview=env-2&gtm_cookies_win=x'"
+                    height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    
+
+<header class="main-header" id="module-33597a5ef9314b0e818fa6a1ca55d1da">
+    <div class="main-header__main-nav">
+        <a class="main-header__logo-wrapper" href="/">
+            <img src="/-/media/alliant/logo/ae-4c-tag.svg?sc_lang=en&amp;la=en&amp;hash=F98AC50EED12D1E5AE7EB5582614B8A9" alt="alliant energy logo" />
+        </a>
+
+        <a class="main-header__mobile-menu-toggle" href="#">
+            <div class="main-header__hamburger-bars-wrapper">
+                <span class="main-header__hamburger-bar-one"></span>
+                <span class="main-header__hamburger-bar-two"></span>
+                <span class="main-header__hamburger-bar-three"></span>
+            </div>
+            <span class="main-header__hamburger-menu-text">Menu</span>
+        </a>
+
+        <nav class="main-header__main-nav-wrapper">
+            <div class="main-header__main-nav-inner">
+                <div class="main-header__secondary-nav">
+                    <div class="main-header__secondary-nav-aligned-left">
+                        <!--This link opens the current language modal on the site-->
+                        <div class="main-header__language-change-wrapper">
+                            <a class="main-header__language-change-inner" data-open="lang-modal">
+                                <img class="main-header__secondary-header-icon"
+                                     src="/assets/Alliant/Images/png/header-navigation/language-icon.png" alt="Globe Icon" />
+                                <div class="main-header__language-change-text">Select Language</div>
+                            </a>
+                        </div>
+                        <!--State and Type Selection-->
+                        <div class="main-header__change-location-wrapper">
+                            <a class="main-header__change-location-btn" href="#">
+                                <img class="main-header__secondary-header-icon" id="state-type-select-icon" src="/assets/Alliant/Images/png/header-navigation/location-icon.png" alt="Map Marker Icon" />
+                                <div class="main-header__location-text">State & Customer Type</div>
+                            </a>
+                            <div class="main-header__change-location-modal">
+                                <div class="main-header__change-location-arrow">
+                                    <img src="/assets/Alliant/Images/png/header-navigation/tooltip-arrow.svg" alt="Tooltip Arrow" />
+                                </div>
+                                <form class="main-header__change-location-inner" id="state-select-form" method="get" action="javascript:void(0);">
+                                    <h4 class="main-header__change-location-field-title">State</h4>
+                                    <div class="main-header__location-switch-field">
+                                        <div class="main-header__radio-wrapper">
+                                            <input type="radio" id="header-state-wisconsin" name="state-switch"
+                                                   value="wisconsin" />
+                                            <label for="header-state-wisconsin">Wisconsin</label>
+                                        </div>
+                                        <div class="main-header__radio-wrapper">
+                                            <input type="radio" id="header-state-iowa" name="state-switch"
+                                                   value="iowa" />
+                                            <label for="header-state-iowa">Iowa</label>
+                                        </div>
+                                    </div>
+                                    <div class="main-header__change-location-field-title state-error" id="state-required">*State is Required.</div>
+                                    <h4 class="main-header__change-location-field-title">Customer Type</h4>
+                                    <div class="main-header__location-switch-field">
+                                        <div class="main-header__radio-wrapper">
+                                            <input type="radio" id="header-customer-residential" data-audience="residential" name="type-switch"
+                                                   value="residential" />
+                                            <label for="header-customer-residential">Residential</label>
+                                        </div>
+                                        <div class="main-header__radio-wrapper">
+                                            <input type="radio" id="header-customer-business" name="type-switch"
+                                                   value="business" data-audience="business" />
+                                            <label for="header-customer-business">Business</label>
+                                        </div>
+                                    </div>
+                                    <div class="main-header__change-location-field-title customer-type-error" id="customer-type-required">*Customer Type is Required.</div>
+                                    <div class="main-header__change-location-submit-wrapper">
+                                        <a href="#" class="main-header__change-location-reset" id="reset-state-type">Reset</a>
+                                        <button class="main-header__main-header__change-location-submit" id="submit-state-type" type="submit"
+                                                value="Apply">
+                                            Apply<span class="button__arrow"></span>
+                                        </button>
+                                    </div>
+
+                                </form>
+                            </div>
+                        </div>
+                        <div class="main-header__helpcenter-wrapper">
+<a href="https://www.alliantenergy.com/accountandbilling/customersupport/helpcenter?utm_source=WS&amp;utm_campaign=HelpCenterTopBar" class="main-header__helpcenter" aria-label="Help Center" >        <span class="truncate">Help Center</span>
+</a></div>
+                    </div>
+                    <div class="main-header__secondary-nav-aligned-right">
+                        <div class="main-header__search-wrapper">
+                            <img class="main-header__secondary-header-icon main-header__secondary-header-icon--small main-header__mobile-hide"
+                                 src="/assets/Alliant/Images/png/header-navigation/magnify-glass.png" alt="Magnifying Glass Icon" />
+                            <button class="main-header__search-btn" type="button" id="site-header-search-button" aria-label="Search alliantenergy.com" aria-controls="site-header-expand" aria-expanded="false">Search alliantenergy.com</button>
+                            <div class="main-header__search-field-modal">
+                                <form class="main-header__search-fields" id="site-header-search-form" method="post" action="/SearchResults">
+                                    <img class="main-header__search-field-icon" src="/assets/Alliant/images/svg/icons/search-icon-gray.svg" alt="Magnifying Glass Icon" />
+                                    <input type="text" id="site-header-search-input" class="main-header__search-field-input" aria-label="Search" placeholder="Search alliantenergy.com" data-search-url="/SearchResults" data-search-param="q" />
+                                    <input type="submit" id="site-header-search-submit-button" class="main-header__search-field-submit" aria-label="Search" value="Go" />
+                                </form>
+                            </div>
+                        </div>
+                            <div class="main-header__sign-in-wrapper">
+<a href="https://myaccount.alliantenergy.com/Portal/default.aspx" class="main-header__sign-in-btn" aria-label="Sign into My Account" >            <span>Sign into My Account </span><svg class="icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--account" /></svg>
+</a>    </div>
+
+                    </div>
+                </div>
+                
+<ul class="main-header__main-nav-links">
+        <li class="main-header__level-one-link-wrapper main-select" data-audience="both" aria-hidden="false">
+                <a class="main-header__level-one-link level-one-link--with-children " href="#" aria-expanded="false"
+                   aria-haspopup="true">
+                    Account &amp; Billing
+                </a>
+                <div class="main-header__mega-menu-wrapper">
+                    <a href="#" class="main-header__mobile-menu-back">Back</a>
+                    <div class="main-header__mega-menu-links-wrapper">
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Customer Support
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/contactus" aria-label="ContactUs">Contact Us</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/helpcenter" aria-label="HelpCenter">Customer Help Center</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/managemyaccount" aria-label="ManageMyAccount">Enrolling in My Account</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="https://myaccount.alliantenergy.com/Portal/#/login" aria-label="REDIRECTMyAccount">Log into My Account</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/startorstopservice" aria-label="StartorStopService">Start, Stop or Move Service</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/welcomepage" aria-label="WelcomePage">Welcome to Alliant Energy!</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/renters" aria-label="Renters">Information for Renters</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/collegestudents" aria-label="CollegeStudents">Information for College Students</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/businesslandingpage" aria-label="BusinessLandingPage">Alliant Energy and Your Business</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/lightingrental" aria-label="LightingRental">Streetlight and Area Light Rental</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/homemedicalequipment" aria-label="Home Medical Equipment">Home Medical Equipment</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/customersupport/outagecenter" aria-label="Outage Center">Outage Center (electric outages and gas outages)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/partneringwithalliantenergy/landlords" aria-label="Landlord Information">Landlord Information</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Paying Your Bill
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/payingyourbill/paymentoptions" aria-label="PaymentOptions">Payment Options</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/payingyourbill/automaticpayment" aria-label="Automatic Payment">Automatic Payment</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/payingyourbill/paperlessbilling" aria-label="Paperless Billing">Paperless Billing</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/payingyourbill/budgetbilling" aria-label="Budget Billing">Budget Billing</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/payingyourbill/fixedamountbill" aria-label="FixedAmountBill">Fixed Amount Bill (Wisconsin)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/payingyourbill/businesspaymentoptions" aria-label="BusinessPaymentOptions">Business Payment Options</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Payment Assistance
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/paymentassistance/energyassistanceoptions" aria-label="EnergyAssistanceOptions">Energy Assistance Options</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/paymentassistance/liheap" aria-label="LIHEAP">Low-Income Home Energy Assistance Program (LIHEAP)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/paymentassistance/paymentarrangementsextensions" aria-label="PaymentArrangementsExtensions">Payment Arrangements &amp; Extensions</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/paymentassistance/weatherizationassistance" aria-label="WeatherizationAssistance">Weatherization Assistance</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/paymentassistance/hometowncareenergyfund" aria-label="Hometown Care Energy Fund">Hometown Care Energy Fund</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/paymentassistance/giftcertificates" aria-label="Gift Certificates">Gift Certificates</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Your Bill, Your Meter, Your Rates
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/billmeterrates/understandingyourbill" aria-label="Understanding Your Bill">Understanding Your Bill</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/billmeterrates/makingsenseofheatingcosts" aria-label="MakingSenseOfHeatingCosts">Making Sense of Heating Costs</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/billmeterrates/yourbillinthesummer" aria-label="YourBillInTheSummer">Your Bill in the Summer</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/billmeterrates/gasmeterexchange" aria-label="GasMeterExchange">Gas Meter Exchange Project (Iowa)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/billmeterrates/smartmeters" aria-label="SmartMeters">About Your Smart Meter</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/billmeterrates/ratesandtariffs" aria-label="Rates and Tariffs">Electric and Gas Rates and Tariffs</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/accountandbilling/billmeterrates/averageenergyuse" aria-label="AverageEnergyUse">Get Average Energy Use for a Property</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Construction Information
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/accountandbilling/customersupport/startorstopservice/newconstruction" aria-label="New Construction">Customer Construction and Remodeling</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/more/contentpages/construction" aria-label="Construction Projects">Alliant Energy Construction Projects</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/partneringwithalliantenergy/contractors" aria-label="Information for Contractors">Information for Contractors</a>
+                                        </li>
+                            </ul>
+                    </div>
+
+                        <div class="main-header__feature-link-wrapper" id="#b6117e8ecc6d40ad89df79158125c1f0">
+                            <div class="main-header__feature-link-img" style="background-image: url('/-/media/alliant/home-page/teaser-cards/woman-smiling-cell-phone-small.jpg?sc_lang=en');"></div>
+                            <h3 class="main-header__feature-link-title">Convenience is at your fingertips with Paperless Billing</h3>
+                            <p class="main-header__feature-link-text">
+                                See your bill as soon as it’s posted and view it anytime, anywhere.
+                            </p>
+                            <a href="https://www.alliantenergy.com/accountandbilling/payingyourbill/paperlessbilling?utm_content=my-account&amp;utm_campaign=paperless-billing&amp;audience_type=residential&amp;region=iowa-wisconsin&amp;utm_source=sitecore&amp;utm_medium=banner-tile&amp;publish_date=06-04-2024&amp;event=click-image&amp;utm_term=alliant-energy" class="main-header__feature-link-button">
+                                Sign up today in My Account <span class="button__arrow"></span>
+                            </a>
+                        </div>
+                </div>
+        </li>
+        <li class="main-header__level-one-link-wrapper main-select" data-audience="both" aria-hidden="false">
+                <a class="main-header__level-one-link level-one-link--with-children " href="#" aria-expanded="false"
+                   aria-haspopup="true">
+                    Ways to Save
+                </a>
+                <div class="main-header__mega-menu-wrapper">
+                    <a href="#" class="main-header__mobile-menu-back">Back</a>
+                    <div class="main-header__mega-menu-links-wrapper">
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Savings Tips &amp; Calculators
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingstipsandcalculators/lowcostnocosttips" aria-label="Low-Cost No-Cost Tips">Low-Cost No-Cost Tips</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingstipsandcalculators/energysmartcalculatorsres" aria-label="Energy Smart Calculators">Energy Smart Calculators (Residential)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingstipsandcalculators/savewater" aria-label="SaveWater">Simple Tips to Save Water</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingstipsandcalculators/lowcostnocosttipsbiz" aria-label="LowCostNoCostTipsBIZ">Low Cost No Cost Tips for Businesses</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingstipsandcalculators/energysmartcalculatorsbiz" aria-label="Energy Smart Calculators (Business)">Energy Smart Calculators (Business)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingstipsandcalculators/energysmartcalculatorsfarm" aria-label="Energy Smart Calculators (Farm)">Energy Smart Calculators (Farm)</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Energy Assessments
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/energyassessments/homeenergyassessment" aria-label="HomeEnergyAssessment">Online Home Energy Assessment</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/energyassessments/homeenergyassessmentwis" aria-label="Home Energy Assessment WIS">Home Energy Assessment (Wisconsin)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/energyassessments/myhome" aria-label="MyHome">My Home</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/energyassessments/energyauditwis" aria-label="EnergyAuditWIS">Energy Audit</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/energyassessments/feasibilitystudyiowabiz" aria-label="Feasibility Study - IOWA BIZ">Feasibility Study</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/energyassessments/commercialandindustrialenergyauditiowa" aria-label="Commercial and Industrial Energy Audit - IOWA">Commercial and Industrial Energy Audit (Iowa)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/energyassessments/farmenergyassessment" aria-label="Farm Energy Assessment">Farm Energy Assessment (Iowa)</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Rebates &amp; Marketplace
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/rebatesandmarketplace/rebatelocatortool" aria-label="RebateLocatorTool">Find a Rebate</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/rebatesandmarketplace/iasmallbizmarketplace" aria-label="IASmallBizMarketplace">Alliant Energy&#174; Small Business Marketplace</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/rebatesandmarketplace/instantdiscounts" aria-label="InstantDiscounts">Alliant Energy Instant Discounts (Iowa)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/rebatesandmarketplace/iamarketplace" aria-label="IAMarketplace">Alliant Energy&#174; Marketplace (Iowa)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/rebatesandmarketplace/focusonenergymarketplace" aria-label="FocusOnEnergyMarketplace">Focus on Energy Marketplace (Wisconsin)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/rebatesandmarketplace/freeproductswisconsin" aria-label="FreeProductsWisconsin">Free Products (Wisconsin)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="http://ae.planetecosystems.com/contractor/search" aria-label="DealerLocatorMenuRedirectIOWA">Find a Qualified Dealer (Iowa)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="https://www.focusonenergy.com/trade-ally/find" aria-label="TradeAllyRedirectWISC">Find a Qualified Trade Ally (Wisconsin)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/rebatesandmarketplace/rebatetermsandconditions" aria-label="RebateTermsandConditions">Rebate Terms and Conditions</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Savings Programs
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/appliancerecycling" aria-label="ApplianceRecycling">Appliance Recycling</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/smartthermostats" aria-label="SmartThermostats">Smart Thermostats</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/smarthours" aria-label="SmartHours">Smart Hours</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/energytechoffers" aria-label="EnergyTechOffers">Energy Tech Offers</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/residentialrates" aria-label="ResidentialRates">Residential Rate Options</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/switchtonaturalgas" aria-label="SwitchtoNaturalGas">Switch to Natural Gas</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/appliancecyclingiowa" aria-label="Appliance Cycling - IOWA">Appliance Cycling (Iowa)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/interruptibleprogrambiz" aria-label="Interruptible Program - BIZ">Interruptible Program</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/timeofdaypricingwisbiz" aria-label="TimeOfDayPricingWISBIZ">Time of Day Pricing for Wisconsin Businesses</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/savingsprograms/timeofdaypricingiowabiz" aria-label="TimeofDayPricingIOWABIZ">Time of Day Pricing for Business (Iowa)</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="business" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        For Your Business
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/accountandbilling/customersupport/businesslandingpage" aria-label="ForYourBusinessREDIRECT">Alliant Energy and Your Business</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/foryourbusiness/businessresourcecenter" aria-label="BusinessResourceCenter">Business Resource Center</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/foryourbusiness/aebusinessnews" aria-label="AE Business News">AE Business News (Wisconsin)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/waystosave/rebatesandmarketplace/rebatelocatortool/commercialnewconstructionbiz" aria-label="CommercialNewConstructionREDIRECT">Commercial New Construction (Iowa)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/foryourbusiness/federalfunding" aria-label="FederalFunding">Federal Funding Opportunities</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/accountandbilling/customersupport/myaccountforbusiness" aria-label="MyAccountBusinessREDIRECT">My Account for Your Business</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/foryourbusiness/strategicenergymanagement" aria-label="StrategicEnergyManagement">Strategic Energy Management  Program (SEM)</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/waystosave/foryourbusiness/resourcesforfarms" aria-label="ResourcesForFarms">Resources for Farms</a>
+                                        </li>
+                            </ul>
+                    </div>
+
+                        <div class="main-header__feature-link-wrapper" id="#011008d5b05f447285dfe3c3392bf69f">
+                            <div class="main-header__feature-link-img" style="background-image: url('/-/media/alliant/home-page/teaser-cards/woman-smiling-cell-phone-small.jpg?sc_lang=en');"></div>
+                            <h3 class="main-header__feature-link-title">Convenience is at your fingertips with Paperless Billing</h3>
+                            <p class="main-header__feature-link-text">
+                                See your bill as soon as it’s posted and view it anytime, anywhere.
+                            </p>
+                            <a href="https://www.alliantenergy.com/accountandbilling/payingyourbill/paperlessbilling?utm_content=my-account&amp;utm_campaign=paperless-billing&amp;audience_type=residential&amp;region=iowa-wisconsin&amp;utm_source=sitecore&amp;utm_medium=banner-tile&amp;publish_date=06-04-2024&amp;event=click-image&amp;utm_term=alliant-energy" class="main-header__feature-link-button">
+                                Sign up today in My Account<span class="button__arrow"></span>
+                            </a>
+                        </div>
+                </div>
+        </li>
+        <li class="main-header__level-one-link-wrapper main-select" data-audience="both" aria-hidden="false">
+                <a class="main-header__level-one-link level-one-link--with-children " href="#" aria-expanded="false"
+                   aria-haspopup="true">
+                    Clean Energy
+                </a>
+                <div class="main-header__mega-menu-wrapper">
+                    <a href="#" class="main-header__mobile-menu-back">Back</a>
+                    <div class="main-header__mega-menu-links-wrapper">
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        What You Can Do
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/communitysolar" aria-label="CommunitySolar">Alliant Energy&#174; Community Solar</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/goelectric" aria-label="GoElectric">Go Electric</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/customerhostedrenewables" aria-label="CustomerHostedRenewables">Alliant Energy&#174; Customer-Hosted Renewables</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/renewableenergypartner" aria-label="RenewableEnergyPartner">Alliant Energy&#174; Renewable Energy Partner</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/secondnature" aria-label="SecondNature">Second Nature Renewable Program</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/secondnatureforyourbusiness" aria-label="SecondNatureForYourBusiness">Second Nature for Your Business</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/geothermalenergy" aria-label="Geothermal Energy">Geothermal Energy</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/anaerobicdigesters" aria-label="Anaerobic Digesters">Anaerobic Digesters</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/renewablesolutions" aria-label="RenewableSolutions">Renewable Solutions for Businesses and Communities</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/generatingyourownsolar" aria-label="GeneratingYourOwnSolar">Generating Your Own Solar</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/whatyoucando/customerinterconnection" aria-label="CustomerInterconnection">Customer Interconnection (Solar/Wind)</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Our Energy Vision
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/ourenergyvision/poweringwhatsnext" aria-label="PoweringWhatsNext">Powering What&#39;s Next</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/cleanenergy/ourenergyvision/poweringwhatsnext/cleanenergyblueprint" aria-label="CleanEnergyBlueprintREDIRECT">Clean Energy Blueprint</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/ourenergyvision/responsibilityreport" aria-label="ResponsibilityReport">Responsibility Report</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/ourenergyvision/electrification" aria-label="Electrification">Electrification</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/ourenergyvision/energystorage" aria-label="EnergyStorage">Energy Storage</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/ourenergyvision/solargeneration" aria-label="SolarGeneration">Solar Generation</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/ourenergyvision/windgeneration" aria-label="Wind Generation">Wind Generation</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/ourenergyvision/hydroenergy" aria-label="HydroEnergy">Hydro Energy</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Environmental Initiatives
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/CommunitySupportAndSafety/CommunityPrograms/OneMillionTrees" aria-label="1MillionTreesREDIRECT">One Million Trees Initiative</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/environmentalinitiatives/wildlife" aria-label="Wildlife">Wildlife Protection Efforts</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/environmentalinitiatives/lakewisconsingrants" aria-label="LakeWisconsinGrants">Lake Wisconsin Grants</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/environmentalinitiatives/prairiedusacdamsap" aria-label="PrairieDuSacDamSAP">Prairie du Sac Dam Shoreline Authorization Program</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/cleanenergy/environmentalinitiatives/greenbonds" aria-label="GreenBonds">Green Bonds</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="https://ccr.alliantenergy.com/" aria-label="CCRREDIRECT">CCR Rule Compliance Data and Information</a>
+                                        </li>
+                            </ul>
+                    </div>
+
+                        <div class="main-header__feature-link-wrapper" id="#ddfb77285f3b432192538e7d9b411555">
+                            <div class="main-header__feature-link-img" style="background-image: url('/-/media/alliant/home-page/teaser-cards/woman-smiling-cell-phone-small.jpg?sc_lang=en');"></div>
+                            <h3 class="main-header__feature-link-title">Convenience is at your fingertips with Paperless Billing</h3>
+                            <p class="main-header__feature-link-text">
+                                See your bill as soon as it’s posted and view it anytime, anywhere.
+                            </p>
+                            <a href="https://www.alliantenergy.com/accountandbilling/payingyourbill/paperlessbilling?utm_content=my-account&amp;utm_campaign=paperless-billing&amp;audience_type=residential&amp;region=iowa-wisconsin&amp;utm_source=sitecore&amp;utm_medium=banner-tile&amp;publish_date=06-04-2024&amp;event=click-image&amp;utm_term=alliant-energy" class="main-header__feature-link-button">
+                                Sign up today in My Account<span class="button__arrow"></span>
+                            </a>
+                        </div>
+                </div>
+        </li>
+        <li class="main-header__level-one-link-wrapper main-select" data-audience="both" aria-hidden="false">
+                <a class="main-header__level-one-link level-one-link--with-children " href="#" aria-expanded="false"
+                   aria-haspopup="true">
+                    Community Support &amp; Safety
+                </a>
+                <div class="main-header__mega-menu-wrapper">
+                    <a href="#" class="main-header__mobile-menu-back">Back</a>
+                    <div class="main-header__mega-menu-links-wrapper">
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Grants &amp; Sponsorships
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/grantssponsorships/givingforgood" aria-label="GivingForGood">Giving for Good</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/grantssponsorships/focusareas" aria-label="FocusAreas">Focus Areas</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/grantssponsorships/projectswedontfund" aria-label="ProjectsWeDontFund">Projects We Don&#39;t Fund</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/CommunitySupportAndSafety/CommunityPrograms/AlliantEnergyFoundation" aria-label="FoundationREDIRECT">About Alliant Energy Foundation</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Community Programs
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/communityprograms/alliantenergyfoundation" aria-label="AlliantEnergyFoundation">Alliant Energy Foundation</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/communityprograms/onemilliontrees" aria-label="OneMillionTrees">One Million Trees Initiative</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/communityprograms/scholarships" aria-label="Scholarships">Scholarships</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/communityprograms/schoolprogramsandrebates" aria-label="SchoolProgramsandRebates">For Schools</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/communityprograms/speakersbureau" aria-label="Speakers Bureau">Speakers Bureau</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/CommunitySupportAndSafety/CommunityPrograms/TechRefresh" aria-label="TechRefreshREDIRECT">TechRefresh</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/communityprograms/towerlighting" aria-label="TowerLighting">Cedar Rapids Tower Lighting</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Stay Aware, Stay Safe
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/call811beforeyoudig" aria-label="Call811BeforeYouDig">Call 811 Before You Dig</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/howtospotascam" aria-label="How to Spot a Scam">How to Spot a Scam</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/electricsafety" aria-label="Electric Safety">Electric Safety</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/electricsafetyforbusinesscustomers" aria-label="Electric Safety for Business Customers">Electric Safety for Business Customers</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/gassafety" aria-label="Gas Safety">Gas Safety</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="business" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/safetyonthefarm" aria-label="Safety on the Farm">Safety on the Farm</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/stormsafety" aria-label="Storm Safety">Storm Safety</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/treetrimming" aria-label="Tree Trimming">Tree Trimming</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/damsafety" aria-label="Dam Safety">Dam Safety</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/safetytraining" aria-label="SafetyTraining">Safety Training</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="residential" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/holidaydecorating" aria-label="Holiday Decorating">Holiday Decorating</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/safety/energytheft" aria-label="Energy Theft">Energy Theft</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Economic Development
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/communitysupportandsafety/economicdevelopment/economicdevelopment" aria-label="EconomicDevelopment">Alliant Energy Economic Development</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/communitysupportandsafety/economicdevelopment/economicdevelopment/communityprograms" aria-label="Community Programs">Community Programs</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/more/contentpages/digitalmanufacturinglab" aria-label="Digital Mfg Lab">Digital Manufacturing Lab</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/communitysupportandsafety/economicdevelopment/economicdevelopment/growthsites" aria-label="Growth Sites">Growth Sites</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/communitysupportandsafety/economicdevelopment/economicdevelopment/meettheteam" aria-label="Contact EcoDevo">Contact Economic Development</a>
+                                        </li>
+                            </ul>
+                    </div>
+
+                        <div class="main-header__feature-link-wrapper" id="#9c907a70a51e4f63b6d89721388f3377">
+                            <div class="main-header__feature-link-img" style="background-image: url('/-/media/alliant/home-page/teaser-cards/woman-smiling-cell-phone-small.jpg?sc_lang=en');"></div>
+                            <h3 class="main-header__feature-link-title">Convenience is at your fingertips with Paperless Billing</h3>
+                            <p class="main-header__feature-link-text">
+                                See your bill as soon as it’s posted and view it anytime, anywhere.
+                            </p>
+                            <a href="https://www.alliantenergy.com/accountandbilling/payingyourbill/paperlessbilling?utm_content=my-account&amp;utm_campaign=paperless-billing&amp;audience_type=residential&amp;region=iowa-wisconsin&amp;utm_source=sitecore&amp;utm_medium=banner-tile&amp;publish_date=06-04-2024&amp;event=click-image&amp;utm_term=alliant-energy" class="main-header__feature-link-button">
+                                Sign up today in My Account<span class="button__arrow"></span>
+                            </a>
+                        </div>
+                </div>
+        </li>
+        <li class="main-header__level-one-link-wrapper main-select" data-audience="both" aria-hidden="false">
+                <a class="main-header__level-one-link level-one-link--with-children " href="#" aria-expanded="false"
+                   aria-haspopup="true">
+                    About Us
+                </a>
+                <div class="main-header__mega-menu-wrapper">
+                    <a href="#" class="main-header__mobile-menu-back">Back</a>
+                    <div class="main-header__mega-menu-links-wrapper">
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        Who We Are
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/aboutus/whoweare/awardsrecognition" aria-label="AwardsRecognition">Awards and Recognition</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/aboutus/whoweare/communitiesweserve" aria-label="Communities We Serve">Communities We Serve</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/aboutus/whoweare/socialmedia" aria-label="SocialMedia">Connect With Us on Social Media</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/aboutus/whoweare/whoweare" aria-label="WhoWeAre">Operations, Values and Compliance</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/aboutus/whoweare/ourdiversitycommitment" aria-label="OurDiversityCommitment">Our Diversity Commitment</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/aboutus/whoweare/ourleadership" aria-label="OurLeadership">Our Leadership</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/aboutus/whoweare/poweringbeyond" aria-label="PoweringBeyond">Powering Beyond</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/more/contentpages/connectingcommunities" aria-label="Connecting Communities">Connecting Communities</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                            <a class="main-header__level-two-link" href="/aboutus/whoweare/travero" aria-label="Travero">Travero and REGEN Fiber</a>
+                                        </li>
+                            </ul>
+                            <ul class="main-header__mega-menu-col" data-audience="both" aria-hidden="false">
+                                <li class="main-header__mega-menu-col-title-wrapper">
+                                    <h4 class="main-header__mega-menu-col-title">
+                                        News and Reports
+                                    </h4>
+                                </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/alliantenergynews/illuminate" aria-label="Illuminate REDIRECT">Visit our blog</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/alliantenergynews/newscenter" aria-label="News Center REDIRECT">News Center</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/aboutus/whoweare/annualreport" aria-label="Annual Report REDIRECT">Annual Report</a>
+                                        </li>
+                                        <li class="main-header__mega-menu-page" data-audience="both" aria-hidden="false">
+                                                <a class="main-header__level-two-link" href="/CleanEnergy/OurEnergyVision/ResponsibilityReport" aria-label="ResponsibilityReportREDIRECT">Responsibility Report</a>
+                                        </li>
+                            </ul>
+                    </div>
+
+                        <div class="main-header__feature-link-wrapper" id="#015d71ebc8784946be93d2c78048d225">
+                            <div class="main-header__feature-link-img" style="background-image: url('/-/media/alliant/home-page/teaser-cards/woman-smiling-cell-phone-small.jpg?sc_lang=en');"></div>
+                            <h3 class="main-header__feature-link-title">Convenience is at your fingertips with Paperless Billing</h3>
+                            <p class="main-header__feature-link-text">
+                                See your bill as soon as it’s posted and view it anytime, anywhere.
+                            </p>
+                            <a href="https://www.alliantenergy.com/accountandbilling/payingyourbill/paperlessbilling?utm_content=my-account&amp;utm_campaign=paperless-billing&amp;audience_type=residential&amp;region=iowa-wisconsin&amp;utm_source=sitecore&amp;utm_medium=banner-tile&amp;publish_date=06-04-2024&amp;event=click-image&amp;utm_term=alliant-energy" class="main-header__feature-link-button">
+                                Sign up today in My Account<span class="button__arrow"></span>
+                            </a>
+                        </div>
+                </div>
+        </li>
+        <li class="main-header__level-one-link-wrapper main-select" data-audience="both" aria-hidden="false">
+                <a class="main-header__level-one-link level-one-link" href="/careers/careers/alliantenergycareers" aria-expanded="false" aria-haspopup="false">
+                    Careers
+                </a>
+        </li>
+
+
+</ul>
+
+                <a href="" class="main-header_mobile-phone-wrapper">
+                    <div class="main-header__mobile-phone-text-wrapper">
+                        Have a question or need help? Visit our Help Center.
+                    </div>
+                </a>
+            </div>
+        </nav>
+    </div>
+</header>    <a href="https://myaccount.alliantenergy.com/Portal/default.aspx" class="main-header__sign-in-below-header" aria-label="Login" >        <span>Sign into My Account </span><svg class="icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--account" /></svg>
+</a>
+    <a href="https://www.alliantenergy.com/accountandbilling/customersupport/helpcenter?utm_source=WS&amp;utm_campaign=HelpCenterTopBar" class="main-header__helpcenter-below-header" aria-label="Help Center" >    <span class="truncate">Help Center</span>
+</a>
+    <!--END NOINDEX-->
+    <div id="page" class="page">
+        <main id="content" class="main-content">
+            
+            
+            
+    <style>
+#module-166d428b29eb456eb94bf63fd866fe6b .hero2020__title {
+color: #3f3f3f;
+ }
+            #module-166d428b29eb456eb94bf63fd866fe6b .hero2020__text {
+color: #3f3f3f;
+ }
+            #module-166d428b29eb456eb94bf63fd866fe6b .hero2020__media-wrapper .hero2020__video:before {
+background-color: #ffffff;
+ }
+    </style>
+<section class="hero2020 hero2020--homepage" id="module-166d428b29eb456eb94bf63fd866fe6b">
+    <div class="hero2020__inner">
+        <div class="hero2020__text-wrapper">
+                <h1 class="hero2020__title">
+                    Rebate terms and conditions for Iowa customers
+                </h1>
+                            <a class="hero2020__scroll-arrow" href="#skipHero" aria-label="Skip to Main Content"></a>
+        </div>
+        <div class="hero2020__media-wrapper" style="background-image: url('/-/media/alliant/page-header-images/more/fpo-1600x532.png?sc_lang=en');">
+                <div class="hero2020__video"></div>
+        </div>
+    </div>
+    <span id="skipHero"></span>
+</section>
+<div class="row collapse">
+    <div class="column small-12 large-8 twothirds-content-wrapper">
+        <div class="content-block content-bg-white">
+        	    <h2>How to qualify for rebates</h2>
+    <div class="rte-wrapper"><p>We offer rebates to make energy-efficient products and services more affordable.  </p>
+<h3>For residential and business customers</h3>
+<p><strong>Instant Discounts:</strong> We buy down the cost of energy-efficient products at the distributor level to make qualified equipment more affordable for you. This includes larger products that often require professional installation such as air conditioners, furnaces, heat pumps and electric water heaters. </p>
+<ol>
+    <li>The distributor applies the discounts. Savings pass down to installers and ultimately customers. Participating distributors have agreed to pass on the savings to customers regardless of class, i.e., residential or business. </li>
+    <li>Customers who purchase from participating installers and distributors will see the instant discounts printed on their equipment invoices.</li>
+    <li>Find more information on participating distributors at <a href="/waystosave/rebatesandmarketplace/instantdiscounts">alliantenergy.com/instantrebates</a>.</li>
+</ol>
+<p><strong>The Marketplace: </strong>Residential customers, visit the <a href="https://alliantenergymarketplace.com/">Alliant Energy® Marketplace</a>, and business customers, visit the&nbsp;<a rel="noopener noreferrer" href="https://www.ia.business.alliantenergymarketplace.com/" target="_blank">Alliant Energy® Small Business Marketplace</a> to receive instant rebates on prequalified equipment. Rebates are reflected in the purchase price at checkout. We do not issue rebate gift cards through the Marketplace.</p>
+<h3>For agricultural customers</h3>
+<p>Rebate claim forms are available for specialized agricultural measures. To claim those rebates, agricultural customers must: </p>
+<ol>
+    <li>Print, fill out and return the rebate claim form(s) with a copy of the sales receipt(s) or itemized invoice(s) no later than Jan. 31, 2025. Find a list of products eligible for a rebate via claim form at  <a href="/waystosave/rebatesandmarketplace/rebatelocatortool">alliantenergy.com/rebates</a><span>.</span></li>
+    <li><span>Agricultural customers may also take advantage of the Instant Discounts program or Alliant Energy Marketplace for rebates not available via paper rebate claim as described above. </span></li>
+    <li><span>Find all rebate claim forms online at <a href="/waystosave/rebatesandmarketplace/rebatelocatortool">alliantenergy.com/rebates</a> or call 1-800-ALLIANT (800-255-4268) from 8 a.m. to 5 p.m. Monday through Friday to request them.</span></li>
+    <li><span>Please see specific paper claim form requirements below. </span></li>
+</ol>
+<h3>Rebate terms and conditions </h3>
+<p><strong>IMPORTANT:</strong> Please read the following information before completing the rebate claim form.&nbsp;<strong>Submitting a rebate claim form does not guarantee payment. Alliant Energy reserves the right to modify or end this rebate program at any time without prior notice.</strong></p>
+<ul>
+    <li><strong></strong>Participants must be Iowa Alliant Energy customers.</li>
+    <li>Alliant Energy must supply the primary energy to the equipment for it to be rebate eligible. Some exceptions may apply.</li>
+    <li>The rebate amount will not exceed 50% of the equipment purchase price.</li>
+    <li>Equipment must be new, installed on the premises and must not be purchased for resale. Refurbished equipment is not eligible. Some exceptions may apply.</li>
+    <li>Alliant Energy reserves the right to inspect and verify the installation.</li>
+    <li>Alliant Energy may restrict bulk purchasing or repeated purchases within the same calendar year.</li>
+    <li>Alliant Energy reserves the right to meter the specified equipment or process, at no cost to the customer, to determine the actual energy saved for up to 18 months after installation.</li>
+    <li>Rebates apply to new and replacement installations of qualified equipment, except where noted differently on the rebate claim form. In replacement situations, the efficiency of the equipment installed must be higher than that of the equipment removed.</li>
+    <li>Customers are responsible for ensuring the equipment installed for this program meets all applicable codes, standards and regulatory requirements.</li>
+    <li>Alliant Energy does not guarantee installation of high-efficiency equipment will result in reduced usage or demand, or in cost savings.</li>
+    <li>Alliant Energy makes no warranties, expressed or implied, with respect to any equipment purchased and/or installed including, but not limited to, any warranty of merchantability or fitness for a particular purpose.</li>
+    <li>In no event shall Alliant Energy be liable for any incidental or consequential damages.</li>
+    <li>Alliant Energy does not endorse any manufacturer, product or system design in promoting this rebate program. Listing a product does not constitute an endorsement, nor does it imply unlisted products are defective in any way.</li>
+    <li>These programs are effective Jan. 1, 2024, through Dec. 31, 2024, and are subject to periodic review by Alliant Energy.</li>
+    <li>Any purchase of energy-efficient equipment must occur between Jan. 1, 2024, and Dec. 31, 2024, to qualify for rebates. Receipts must show retail equipment cost. Installation of energy-efficient equipment must occur between Jan. 1, 2024 and Dec. 31, 2024.</li>
+    <li>Alliant Energy reserves the right to contact customers who participate in the rebate programs for surveys to monitor and evaluate program performance.</li>
+    <li>Submit rebate claim forms by Jan. 31, 2025.</li>
+    <li>Rebate claim forms postmarked after Jan. 31, 2025 may be subject to 2025 program rebate changes or denied.</li>
+    <li>By participating in Alliant Energy’s energy efficiency programs, you agree to the terms of Alliant Energy’s Privacy Policy, available at <a href="https://www.alliantenergy.com/More/TermsPrivacyandAccessibility/PrivacyPolicy?utm_source=WS&amp;utm_campaign=privacy">alliantenergy.com/privacy</a>.</li>
+</ul></div>
+</div>
+    </div>
+    <div class="column small-12 large-4 right-rail-wrapper">
+            <aside class="right-rail right-rail-blue" aria-label="Page Sidebar">
+        <div>
+            
+        </div>
+    </aside>
+
+
+
+    </div>
+</div>
+<div>
+    
+</div>    <section class="content-hub-article-page__related-stories">
+        <div class="content-hub-article-page__related-stories-inner">
+            <h2 class="content-hub-article-page__related-stories-label">
+                Recent stories from our blog
+            </h2>
+            <div class="grid">
+                <div class="grid__inner">
+                    <div class="grid__item-wrapper grid__item-wrapper--no-featured">
+                            <a class="grid__item" href="/alliantenergynews/illuminate/,-w-,/2024/09/cef-092624-debunked-ev-myths">
+                                <div class="grid__image" style="background-image: url('/-/media/alliant/images/alliantenergynews/person-charging-ev.jpg?sc_lang=en');"></div>
+                                <div class="grid_content-wrapper">
+                                    <h3 class="grid__title">Range, auto workers and the grid: Debunking three electric vehicle myths </h3>
+                                    <h4 class="grid__text">
+                                        We’re setting the record straight on these common EV myths. 
+                                    </h4>
+                                    <div class="grid__link grid__link--content-hub-article">
+                                        Read More<span class="button__arrow"></span>
+                                    </div>
+                                </div>
+                            </a>
+                            <a class="grid__item" href="/alliantenergynews/illuminate/,-w-,/2024/09/cef-091724-inflation-reduction-act-two-years-later">
+                                <div class="grid__image" style="background-image: url('/-/media/alliant/images/alliantenergynews/us-capitol.jpg?sc_lang=en');"></div>
+                                <div class="grid_content-wrapper">
+                                    <h3 class="grid__title">Inflation Reduction Act strengthens communities nationwide </h3>
+                                    <h4 class="grid__text">
+                                        Renewable energy, conservation, energy efficiency and grid improvement provisions in the Inflation Reduction Act support communities across America.  
+                                    </h4>
+                                    <div class="grid__link grid__link--content-hub-article">
+                                        Read More<span class="button__arrow"></span>
+                                    </div>
+                                </div>
+                            </a>
+                            <a class="grid__item" href="/alliantenergynews/illuminate/,-w-,/2024/09/cef-090524-reliability">
+                                <div class="grid__image" style="background-image: url('/-/media/alliant/images/alliantenergynews/undergrounding---ae-employee2.jpg?sc_lang=en');"></div>
+                                <div class="grid_content-wrapper">
+                                    <h3 class="grid__title">What drives energy reliability?</h3>
+                                    <h4 class="grid__text">
+                                        A lot goes into keeping electricity flowing reliably all day, from generation to high-voltage substations to local distribution lines. What actions do energy companies -- like Alliant Energy -- take to improve reliability? 
+                                    </h4>
+                                    <div class="grid__link grid__link--content-hub-article">
+                                        Read More<span class="button__arrow"></span>
+                                    </div>
+                                </div>
+                            </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        </main>
+        <!-- BEGIN NOINDEX -->
+        
+<section class="microsurvey microsurvey--hidden" data-microsurvey-id="436cce9176a94e7db7878f9f5df3f929" data-trigger-number-of-seconds="20" data-page-id="6f8fe435f3a7403fb3806d5798bfc620" data-microsurvey-name="SolarCalculator">
+    
+<div class="microsurvey__prompt" data-prompt-id="bc3b93a4eb9f4096a79441d6ec9f8e39" data-prompt-title="Are you considering installing solar panels to your property? ">
+    <div class="microsurvey__prompt-inner">
+            <div class="microsurvey__prompt-title">
+                Are you considering installing solar panels to your property? 
+            </div>
+
+    </div>
+    <button class="microsurvey__prompt-close-button"></button>
+</div>
+
+        <div class="microsurvey__response">
+    <div class="microsurvey__response-button-container-column">
+                        <button class="microsurvey__response-button microsurvey__response-button--blue" href="#" data-option-id="28c3a202683043a1ba18f48277fa3c69" data-linked-prompt-id="4be11bf7c1b74d4a8110af03cb450f4b" data-option-value="Yes" data-goal-id="">
+                            Yes
+                        </button>
+                        <button class="microsurvey__response-button microsurvey__response-button--blue" href="#" data-option-id="803b6a61bb5e4ee8ac3ae03ac4ab97ba" data-linked-prompt-id="48571b76dbef4c21a472898c8eadf84d" data-option-value="No" data-goal-id="">
+                            No
+                        </button>
+    </div>
+        </div>
+
+
+</section>
+
+
+    <div class="footer__contact-outer">
+        <div class="footer__contact-inner">
+            <a class="footer__contact-number" href="https://www.alliantenergy.com/accountandbilling/customersupport/helpcenter">
+                Have a question or need help? Visit our Help Center. &gt;&gt;
+            </a>
+        </div>
+    </div>
+<footer class="page-footer">
+    <nav class="row" aria-label="Secondary Navigation">
+        <div class="column small-9 medium-10 large-3 large-offset-1">
+            <ul>
+    <li class="section-title"><div class="rte-wrapper">About Alliant Energy</div></li>
+<li>
+	<a href="/aboutus/whoweare/whoweare" aria-label="Who We Are" >Who We Are</a>
+</li>
+<li>
+	<a href="/cleanenergy/ourenergyvision/responsibilityreport" aria-label="Responsibility Report" >Responsibility Report</a>
+</li>
+<li>
+	<a href="/communitysupportandsafety/communityprograms/alliantenergyfoundation" aria-label="Alliant Energy Foundation" >Alliant Energy Foundation</a>
+</li>
+<li>
+	<a href="/aboutus/whoweare/annualreport" aria-label="Annual Report" >Annual Report</a>
+</li>
+<li>
+	<a href="/aboutus/whoweare/ourdiversitycommitment" aria-label="Diversity Commitment" >Diversity Commitment</a>
+</li>
+<li>
+	<a href="/aboutus/whoweare/ourleadership" aria-label="Our Leadership" >Our Leadership</a>
+</li>
+<li>
+	<a href="/aboutus/whoweare/travero" aria-label="Travero" >Travero</a>
+</li>
+</ul>
+<ul>
+    <li class="section-title"><div class="rte-wrapper">News & Mobile App</div></li>
+<li>
+	<a href="/alliantenergynews/newscenter" aria-label="News Center" >News Center</a>
+</li>
+<li>
+	<a href="/alliantenergynews/illuminate" aria-label="Visit our blog" >Visit our blog</a>
+</li>
+<li>
+	<a href="/accountandbilling/customersupport/managemyaccount/mobileapp" aria-label="Download our app" >Download our app</a>
+</li>
+</ul>
+
+        </div>
+        <div class="column small-9 medium-10 large-3">
+            <ul>
+    <li class="section-title"><div class="rte-wrapper">Partnering With Alliant Energy</div></li>
+<li>
+	<a href="/partneringwithalliantenergy/communitiesandmunicipalities" aria-label="Communities and Municipalities" >Communities and Municipalities</a>
+</li>
+<li>
+	<a href="/partneringwithalliantenergy/contractors" aria-label="Contractors (Service Manuals)" >Contractors (Service Manuals)</a>
+</li>
+<li>
+	<a href="/partneringwithalliantenergy/dealers" aria-label="Dealers" >Dealers</a>
+</li>
+<li>
+	<a href="/communitysupportandsafety/economicdevelopment/economicdevelopment/communityprograms" aria-label="Economic Development" >Economic Development</a>
+</li>
+<li>
+	<a href="/partneringwithalliantenergy/electricalinspectors" aria-label="Electrical Inspectors" >Electrical Inspectors</a>
+</li>
+<li>
+	<a href="https://investors.alliantenergy.com/overview/default.aspx" aria-label="Investors" >Investors</a>
+</li>
+<li>
+	<a href="/partneringwithalliantenergy/landlords" aria-label="Landlords" >Landlords</a>
+</li>
+<li>
+	<a href="/partneringwithalliantenergy/poleattachments" aria-label="Pole Attachments" >Pole Attachments</a>
+</li>
+<li>
+	<a href="/partneringwithalliantenergy/powerthinkers" aria-label="Power Thinkers" >Power Thinkers</a>
+</li>
+<li>
+	<a href="/partneringwithalliantenergy/shareowners" aria-label="Shareowners" >Shareowners</a>
+</li>
+<li>
+	<a href="/partneringwithalliantenergy/suppliers" aria-label="Suppliers" >Suppliers</a>
+</li>
+<li>
+	<a href="/partneringwithalliantenergy/wholesaleenergy" aria-label="Wholesale Energy" >Wholesale Energy</a>
+</li>
+</ul>
+
+
+        </div>
+        <div class="column small-9 medium-10 large-3">
+            <ul>
+    <li class="section-title"><div class="rte-wrapper">Careers</div></li>
+<li>
+	<a href="https://alliantenergy.wd1.myworkdayjobs.com/alliant" aria-label="View Available Positions" >View Available Positions</a>
+</li>
+<li>
+	<a href="/careers/careers/alliantenergycareers" aria-label="Careers at Alliant Energy" >Careers at Alliant Energy</a>
+</li>
+<li>
+	<a href="/careers/careers/careerprograms/apprenticeshipprogram" aria-label="Apprenticeships" >Apprenticeships</a>
+</li>
+<li>
+	<a href="/careers/careers/careerprograms/internshipprogram" aria-label="Internships" >Internships</a>
+</li>
+</ul>
+<ul>
+    <li class="section-title"><div class="rte-wrapper">Affiliate Sites</div></li>
+<li>
+	<a href="http://www.powerhousetv.com" aria-label="PowerHouse T.V." target="_blank" rel="noopener noreferrer" >PowerHouse T.V.</a>
+</li>
+<li>
+	<a href="http://www.alliantenergykids.com" aria-label="Alliant Energy Kids" target="_blank" rel="noopener noreferrer" >Alliant Energy Kids</a>
+</li>
+<li>
+	<a href="http://www.alliantenergyretirees.com" aria-label="Alliant Energy Retirees" target="_blank" rel="noopener noreferrer" >Alliant Energy Retirees</a>
+</li>
+<li>
+	<a href="https://www.travero.com/" aria-label="Travero, Inc." >Travero, Inc.</a>
+</li>
+</ul>
+
+        </div>
+        <!-- Social Media -->
+        <div class="column small-3 medium-2 social">
+            <a href="http://www.facebook.com/AlliantEnergy" target="_blank" aria-label="facebook" class="fb-icon"><svg class="icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--facebook" /></svg></a>
+            <a href="https://twitter.com/alliantenergy" target="_blank" aria-label="twitter" class="twitter-icon"><svg class="icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--twitter" /></svg></a>
+            <a href="http://www.youtube.com/alliantenergyvideo" target="_blank" aria-label="youtube" class="youtube-icon"><svg class="icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--youtube" /></svg></a>
+            <a href="https://www.instagram.com/alliant_energy/" target="_blank" aria-label="instagram" class="instagram-icon"><svg class="icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--Instagram" /></svg></a>
+            <a href="https://www.linkedin.com/company/alliant-energy/jobs" target="_blank" aria-label="linkedin" class="linkedin-icon"><svg class="icon-linkedin"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--linkedin" /></svg></a>
+        </div>
+    </nav>
+    <div class="row">
+        <div class="small-12 column legal">
+            <ul>
+                <li>
+                    <a href="https://www.alliantenergy.com/privacy" aria-label="Privacy Policy" >Privacy Policy</a>
+                </li>
+                <li>
+                    <a href="https://www.alliantenergy.com/privacy#AASPO" aria-label="Interest-Based Ads" >Interest-Based Ads</a>
+                </li>
+                <li>
+                    <a href="https://www.alliantenergy.com/terms" aria-label="Terms of Use" >Terms of Use</a>
+                </li>
+                <li>
+                    <a href="https://www.alliantenergy.com/accessibility" aria-label="Accessibility" >Accessibility</a>
+                </li>
+                <li>
+                    <a href="/accountandbilling/customersupport/contactus" aria-label="Contact Us" >Contact Us</a>
+                </li>
+            </ul>
+            <p class="copyright">Copyright &#169; 2024 Alliant Energy Corp.</p>
+        </div>
+    </div>
+</footer>        
+        <!-- END NOINDEX -->
+    </div>
+    <!-- BEGIN NOINDEX -->
+
+    <aside id="lang-modal" class="lang-modal reveal" data-reveal data-close-on-click="true" data-animation-in="fade-in" data-animation-out="fade-out" aria-label="Select Language Modal">
+    <div class="modal">
+        <header class="modal-top" aria-label="Select Language Header">
+            <svg class="lang-icon icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--globe" /></svg>
+            <p class="modal-title">SELECT YOUR LANGUAGE</p>
+        </header>
+
+        <div class="modal-bottom">
+            <p>You can select the language displayed on our website.</p>
+            <p>Click the menu below and make your selection. (Note: This service may not work in Internet Explorer. Please use a different browser.)</p>
+            <div id="google-translate-element" class="google-translate-element"></div>
+        </div>
+        <button aria-label="Close modal" class="modal-close close-button" type="button" data-close><svg class="icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--exit" /></svg></button>
+    </div>
+</aside>
+<aside id="report-modal" class="report-modal reveal" data-reveal data-close-on-click="true" data-animation-in="fade-in" data-animation-out="fade-out" aria-label="Report Emergency Modal">
+    <div class="modal">
+        <header class="modal-top" aria-label="Report Emergency Header">
+            <svg class="icon report-icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--lightning" /></svg>
+            <p class="modal-title">REPORT EMERGENCY</p>
+            <p>Downed power line, natural gas leak, carbon monoxide alarm, or other emergency.</p>
+        </header>
+        <div class="modal-bottom">
+            <small>CALL</small>
+            <p class="modal-phone">
+                <a href="tel:800-255-4268" class="click-to-call">1-800-ALLIANT (1-800-255-4268)</a>
+            </p>
+            <small>For emergencies, do not use an online form or send an email.</small>
+        </div>
+        <button aria-label="Close modal" class="modal-close close-button" type="button" data-close><svg class="icon"><use href="/Assets/Alliant/images/svg/sprite.symbol.svg#icons--exit" /></svg></button>
+    </div>
+</aside>
+
+    
+
+    <!--Google Maps API-->
+    <script>
+            window.googleMapsApiKey = 'AIzaSyCJUZB1o2KPFBvte7ldhnj7SKlBQmqd2k0';
+    </script>
+
+
+
+    <script type="text/javascript" id="_cls_injector">
+        var script = document.createElement('script');
+        script.id = "_cls_detector";
+        script.src = "https://cdn.gbqofs.com/alliantenergy/p/detector-dom.min.js";
+        script.setAttribute("data-clsconfig", "reportURI=https://c2001.report.gbss.io/rgzqqats/glassbox/reporting/b4fcc035-0a5c-27dc-0d22-00889bf62af0/cls_report");
+        document.head.appendChild(script);
+    </script>
+<script src="/Assets/Alliant/js/AE.vendors.js?r=b9656983baf21fc97cc1f229366aa934"></script>
+<script src="/Assets/Alliant/js/AE.scripts.js?r=5c6b51a30c4e9d12e5dc6ede201f6a9f"></script>
+
+<script>
+    const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+    observer.observe();
+</script>
+    
+    <!-- END NOINDEX -->
+
+</body>
+</html>
