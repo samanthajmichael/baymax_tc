@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<title>Terms Of Use - CooperCompanies</title>
+<meta name="description" content="These Terms of Use apply when you view or use the website located at Coopercos.com (the &quot;Site&quot;) and all websites associated with the coopercos.com domain. The"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.coopercos.com/terms-of-use/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Terms Of Use - CooperCompanies" />
+<meta property="og:description" content="These Terms of Use apply when you view or use the website located at Coopercos.com (the &quot;Site&quot;) and all websites associated with the coopercos.com domain. The" />
+<meta property="og:url" content="https://www.coopercos.com/terms-of-use/" />
+<meta property="og:site_name" content="CooperCompanies" />
+<meta property="og:updated_time" content="2022-12-23T12:56:25-08:00" />
+<meta property="og:image" content="https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/coopercompanies-logo.jpg" />
+<meta property="og:image:secure_url" content="https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/coopercompanies-logo.jpg" />
+<meta property="og:image:width" content="570" />
+<meta property="og:image:height" content="386" />
+<meta property="og:image:alt" content="CooperCompanies" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2022-04-12T12:40:35-07:00" />
+<meta property="article:modified_time" content="2022-12-23T12:56:25-08:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Terms Of Use - CooperCompanies" />
+<meta name="twitter:description" content="These Terms of Use apply when you view or use the website located at Coopercos.com (the &quot;Site&quot;) and all websites associated with the coopercos.com domain. The" />
+<meta name="twitter:image" content="https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/coopercompanies-logo.jpg" />
+<meta name="twitter:label1" content="Time to read" />
+<meta name="twitter:data1" content="7 minutes" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://www.coopercos.com/#place","address":{"@type":"PostalAddress","streetAddress":"6101 Bollinger Canyon Road, Suite 500","addressLocality":"San Ramon,","addressRegion":"CA","postalCode":"94583","addressCountry":"US"}},{"@type":"Organization","@id":"https://www.coopercos.com/#organization","name":"CooperCompanies","url":"https://www.coopercos.com","address":{"@type":"PostalAddress","streetAddress":"6101 Bollinger Canyon Road, Suite 500","addressLocality":"San Ramon,","addressRegion":"CA","postalCode":"94583","addressCountry":"US"},"logo":{"@type":"ImageObject","@id":"https://www.coopercos.com/#logo","url":"https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/05/CoopCo_Aqua.png","contentUrl":"https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/05/CoopCo_Aqua.png","caption":"CooperCompanies","inLanguage":"en-US","width":"1200","height":"276"},"contactPoint":[{"@type":"ContactPoint","telephone":"+1-925-460-3600","contactType":"customer support"}],"location":{"@id":"https://www.coopercos.com/#place"}},{"@type":"WebSite","@id":"https://www.coopercos.com/#website","url":"https://www.coopercos.com","name":"CooperCompanies","publisher":{"@id":"https://www.coopercos.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/coopercompanies-logo.jpg","url":"https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/coopercompanies-logo.jpg","width":"570","height":"386","caption":"CooperCompanies","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.coopercos.com/terms-of-use/#webpage","url":"https://www.coopercos.com/terms-of-use/","name":"Terms Of Use - CooperCompanies","datePublished":"2022-04-12T12:40:35-07:00","dateModified":"2022-12-23T12:56:25-08:00","isPartOf":{"@id":"https://www.coopercos.com/#website"},"primaryImageOfPage":{"@id":"https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/coopercompanies-logo.jpg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.coopercos.com/terms-of-use/#author","name":"Jess Bernstein","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/81dfe5be5e7e2a9cf07589d892a7fc16?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/81dfe5be5e7e2a9cf07589d892a7fc16?s=96&amp;d=mm&amp;r=g","caption":"Jess Bernstein","inLanguage":"en-US"},"worksFor":{"@id":"https://www.coopercos.com/#organization"}},{"@type":"Article","headline":"Terms Of Use - CooperCompanies","datePublished":"2022-04-12T12:40:35-07:00","dateModified":"2022-12-23T12:56:25-08:00","author":{"@id":"https://www.coopercos.com/terms-of-use/#author","name":"Jess Bernstein"},"publisher":{"@id":"https://www.coopercos.com/#organization"},"description":"These Terms of Use apply when you view or use the website located at\u00a0Coopercos.com\u00a0(the &quot;Site&quot;) and all websites associated with the coopercos.com domain. The","name":"Terms Of Use - CooperCompanies","@id":"https://www.coopercos.com/terms-of-use/#richSnippet","isPartOf":{"@id":"https://www.coopercos.com/terms-of-use/#webpage"},"image":{"@id":"https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/coopercompanies-logo.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.coopercos.com/terms-of-use/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="CooperCompanies &raquo; Feed" href="https://www.coopercos.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CooperCompanies &raquo; Comments Feed" href="https://www.coopercos.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.coopercos.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='safe-svg-svg-icon-style-inline-css'>
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+
+</style>
+<style id='rank-math-toc-block-style-inline-css'>
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") ". ";counter-increment:item}
+
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--fl-heading-text: #333333;--wp--preset--color--fl-body-bg: #000000;--wp--preset--color--fl-body-text: #757575;--wp--preset--color--fl-accent: #2b7bb9;--wp--preset--color--fl-accent-hover: #2b7bb9;--wp--preset--color--fl-topbar-bg: #ffffff;--wp--preset--color--fl-topbar-text: #757575;--wp--preset--color--fl-topbar-link: #2b7bb9;--wp--preset--color--fl-topbar-hover: #2b7bb9;--wp--preset--color--fl-header-bg: #ffffff;--wp--preset--color--fl-header-text: #757575;--wp--preset--color--fl-header-link: #757575;--wp--preset--color--fl-header-hover: #2b7bb9;--wp--preset--color--fl-nav-bg: #ffffff;--wp--preset--color--fl-nav-link: #757575;--wp--preset--color--fl-nav-hover: #2b7bb9;--wp--preset--color--fl-content-bg: #ffffff;--wp--preset--color--fl-footer-widgets-bg: #ffffff;--wp--preset--color--fl-footer-widgets-text: #757575;--wp--preset--color--fl-footer-widgets-link: #2b7bb9;--wp--preset--color--fl-footer-widgets-hover: #2b7bb9;--wp--preset--color--fl-footer-bg: #ffffff;--wp--preset--color--fl-footer-text: #757575;--wp--preset--color--fl-footer-link: #2b7bb9;--wp--preset--color--fl-footer-hover: #2b7bb9;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='fl-builder-layout-1660-css' href='https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/1660-layout.css?ver=9ba5cbfb55cdc172c22e3fe2bc4aa8ea' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://150176340.v2.pressablecdn.com/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1717401351' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://150176340.v2.pressablecdn.com/wp-includes/css/dashicons.min.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-bundle-f85edd54e20d014565cdae4aeff04a89-css' href='https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/f85edd54e20d014565cdae4aeff04a89-layout-bundle.css?ver=2.8.3.3-1.4.10' media='all' />
+<link rel='stylesheet' id='jquery-magnificpopup-css' href='https://150176340.v2.pressablecdn.com/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.min.css?ver=2.8.3.3' media='all' />
+<link rel='stylesheet' id='base-css' href='https://150176340.v2.pressablecdn.com/wp-content/themes/bb-theme/css/base.min.css?ver=1.7.16' media='all' />
+<link rel='stylesheet' id='fl-automator-skin-css' href='https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-theme/skin-66ad131ad2d4d.css?ver=1.7.16' media='all' />
+<link rel='stylesheet' id='fl-child-theme-css' href='https://150176340.v2.pressablecdn.com/wp-content/themes/bb-theme-child/css/style.css?ver=1.1' media='all' />
+<link rel='stylesheet' id='pp-animate-css' href='https://150176340.v2.pressablecdn.com/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1' media='all' />
+<script src="https://150176340.v2.pressablecdn.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://kit.fontawesome.com/fa1ffacba9.js?ver=6.6.2" id="fa5-kit-js"></script>
+<link rel="https://api.w.org/" href="https://www.coopercos.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.coopercos.com/wp-json/wp/v2/pages/1660" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.coopercos.com/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://www.coopercos.com/?p=1660' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.coopercos.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.coopercos.com%2Fterms-of-use%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.coopercos.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.coopercos.com%2Fterms-of-use%2F&#038;format=xml" />
+		<script>
+			var bb_powerpack = {
+				search_term: '',
+				version: '2.37.5',
+				getAjaxUrl: function() { return atob( 'aHR0cHM6Ly93d3cuY29vcGVyY29zLmNvbS93cC1hZG1pbi9hZG1pbi1hamF4LnBocA==' ); },
+				callback: function() {}
+			};
+		</script>
+					<style>.cmplz-hidden {
+					display: none !important;
+				}</style><style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/cropped-fav-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/cropped-fav-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/cropped-fav-180x180.png" />
+<meta name="msapplication-TileImage" content="https://150176340.v2.pressablecdn.com/wp-content/uploads/2022/04/cropped-fav-270x270.png" />
+		<style id="wp-custom-css">
+			/* Our Impact pages */
+
+.page-id-3693 .grey-lines.fl-module-heading {
+	max-width: 1140px;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+
+/* Inclusion and diversity */
+.column-with-slider {
+	overflow: hidden;
+}
+
+.page-id-3709 .global-carousel .post-2026 p strong {
+	font-weight: 400!important;
+}
+
+.page-id-3709 .global-carousel .post-2026 .comma {
+	display: none;
+}
+
+.page-id-3693 .our-impact-carousel .post-3336 img {
+	object-fit: contain;
+}
+.page-id-3693 .fl-page, .page-id-3709 .fl-page {
+	padding-top: 0!important;
+}
+
+.page-id-3693 header, .page-id-3709 header  {
+	transform: none!important;
+}
+
+.grey-lines.wrapped-text .fl-heading-text {
+	width: min-content;
+}
+
+/* End Our Impact */
+
+.home .pp-hover-card-wrap {
+	    display: flex;
+    justify-content: space-between;
+}
+.search-results .type-team img {
+
+		max-width: 200px!important;
+	padding-top:20px!important;
+		padding-bottom:20px!important;
+	
+}
+
+.team-template-default .pp-content-grid-empty {
+	border: 0 none!important;
+	padding: 0!important;
+}
+
+.search-results .type-team .pp-content-grid-date {
+	display: none!important;
+}
+
+.search-results .pp-content-grid-image {
+/* 	background-color: #e4e4e4; */
+}
+
+#cmplz-cookiebanner-container {
+	display: none!important;
+}
+
+.page-id-2955 #cmplz-cookiebanner-container {
+	display: block!important;
+}
+
+.cmplz-service-header h3 {
+	font-size: 18px!important;
+}
+
+.cmplz-show-banner:hover {
+	cursor: pointer!important;
+}
+
+.ot-ccpa-optout__dialogue__footer img {
+	position: absolute;
+	left:-99999px;
+}
+
+.mind-body .fl-col-group{
+	align-items: center;
+
+    display: flex;
+}
+
+.wellbeing {
+    text-align: center!important;
+}
+
+.wellbeing b {
+  color: #32BED4 !important;
+  position: relative;
+  transition: all 300ms ease-in-out 0s;
+  text-decoration: none!important;
+}
+.wellbeing b::after {
+  transition: all 300ms ease-in-out 0s;
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 1.8px;
+  background: #32BED4;
+  bottom: -2px;
+  left: 0;
+}
+.wellbeing b:hover::after {
+  width: 100%;
+}
+
+.executive-desktop .uabb-team-wrap{
+	max-width: 250px;
+    margin: 0 auto;
+}
+.executive-desktop .khadder .uabb-team-wrap {float:left;}
+
+.executive-desktop .brian .uabb-team-wrap {float:right;}
+
+.executive-desktop .agostino .fl-module-content {margin: 20px 0!important;}
+.fl-node-xg245s3fw0bj .fl-col-small{
+	max-width: 310px!important;
+}
+.fl-node-xg245s3fw0bj{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 992px) {
+
+	.mind-body .fl-col-group{
+	align-items: center;
+flex-direction: column;
+    display: flex;
+}
+	.fl-node-106dyoe9ba7f.fl-visible-desktop-medium .fl-col-small.fl-col {
+		width: 33.333%!important;
+	}
+}
+
+@media only screen and (max-width: 820px) and (min-resolution: 72dpi) {
+		.fl-node-106dyoe9ba7f.fl-visible-desktop-medium .fl-col-small.fl-col {
+		width: 33.333%!important;
+	}
+}
+@media only screen and (max-width: 1152px) {
+	.executive-desktop .khadder .uabb-team-wrap {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 700px!important;
+}
+	.fl-node-xg245s3fw0bj .fl-col-small {
+    max-width: 100%!important;
+}
+	.fl-node-xidl61085a2u {
+		    float: none!important;
+		display: block!important;
+		margin: 0 auto!important;
+	}
+	.executive-desktop .agostino .fl-module-content {
+    margin: 20px!important;
+}
+	.fl-node-xg245s3fw0bj{
+		display:block;
+	}
+	.fl-node-4i9ukx1lj6b0 .fl-col.fl-col-small {
+    width: 50%!important;
+    min-height: 590px!important;
+}
+.fl-node-4i9ukx1lj6b0 .uabb-team-wrap, .fl-node-xg245s3fw0bj  .uabb-team-wrap {
+		max-width: 100%!important;
+	}
+	.fl-node-4i9ukx1lj6b0 .fl-col.fl-col-small .uabb-image-content {
+    max-width: 100%!important;
+}
+	
+	.fl-node-xg245s3fw0bj .fl-col.fl-col-small .uabb-image-content {
+    max-width: 100%!important;
+}
+	.fl-node-xg245s3fw0bj .fl-col.fl-col-small {
+    width: 50%!important;
+    min-height: 0px!important;
+}
+}
+.page-id-2498 .uabb-content {
+    height: 60vh!important;
+}
+
+.scam {
+	    font-family: Arial, Helvetica, Verdana, sans-serif;
+    font-weight: 400!important;
+    font-size: 1.6rem!important;
+	    color: #32BED4 !important;
+    position: relative;
+    transition: all 300ms ease-in-out 0s;
+    text-decoration: none!important;
+}
+
+.scam::after {
+    transition: all 300ms ease-in-out 0s;
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 1.8px;
+    background: #32BED4;
+    bottom: -2px;
+    left: 0;
+}
+
+.scam:hover:after {
+	width: 100%;
+}
+
+.alert-box{
+	width:95%!important;
+	max-width: 580px;
+	margin: 0 auto;
+}
+
+@media only screen and (max-width: 480px) { 
+	.fl-node-tadwil1ovyx8 .pp-content-post-carousel .owl-nav button.owl-prev {
+    left: 15px!important;
+}
+	.fl-node-tadwil1ovyx8 .pp-content-post-carousel .owl-nav button.owl-next {
+    right: 15px!important;
+}
+	
+	.fl-node-qiswlcpb5hm1 .pp-content-post-carousel .owl-nav button.owl-prev {
+		  left: 15px!important;
+	}
+	
+		.fl-node-qiswlcpb5hm1 .pp-content-post-carousel .owl-nav button.owl-next {
+	 right: 15px!important;
+	}
+}		</style>
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NTJ6B3W');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body data-cmplz=2 class="page-template-default page page-id-1660 fl-builder fl-builder-2-8-3-3 fl-themer-1-4-10 fl-theme-1-7-16 fl-theme-builder-header fl-theme-builder-header-header fl-theme-builder-footer fl-theme-builder-footer-footer fl-framework-base fl-preset-default fl-full-width fl-search-active" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NTJ6B3W"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip to content</a><div class="fl-page">
+	<header class="fl-builder-content fl-builder-content-10 fl-builder-global-templates-locked" data-post-id="10" data-type="header" data-sticky="1" data-sticky-on="all" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0" data-overlay-bg="transparent" data-shrink-image-height="50px" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5c787e63de300 fl-row-default-height fl-row-align-center" data-node="5c787e63de300">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-bjtmeqracv41" data-node="bjtmeqracv41">
+			<div class="fl-col fl-node-y0pm5nuj4zsd fl-col-has-cols" data-node="y0pm5nuj4zsd">
+	<div class="fl-col-content fl-node-content">
+<div class="fl-col-group fl-node-vdozcyi6w195 fl-col-group-nested" data-node="vdozcyi6w195">
+			<div class="fl-col fl-node-lw86xpk09ijc fl-col-small" data-node="lw86xpk09ijc">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-brex-mega-menu fl-node-aq5x07jebl1v fl-visible-desktop fl-visible-large fl-visible-medium" data-node="aq5x07jebl1v">
+	<div class="fl-module-content fl-node-content">
+		<nav>
+    <div class="brex-mega-menu-desktop">
+        <ul class="brex-mega-menu"><li class="mega-menu-saved-row">
+            <a   target="_self" class="mega-menu-saved-row-a megamenuonmouseover" href="/our-company">Our Company <i class=""></i></a>
+            <div class="mega-menu-saved-row-container" >
+            <style id='fl-builder-layout-193-inline-css'>
+.fl-node-w1i2odphslev > .fl-row-content-wrap {background-color: rgba(255,255,255,0.91);}.fl-node-w1i2odphslev.fl-row-fixed-width, .fl-node-w1i2odphslev .fl-row-fixed-width {max-width: 80vw;} .fl-node-w1i2odphslev > .fl-row-content-wrap {padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.fl-node-26sicvdbwtqj {width: 100%;}.fl-menu ul,.fl-menu li{list-style: none;margin: 0;padding: 0;}.fl-menu .menu:before,.fl-menu .menu:after{content: '';display: table;clear: both;}.fl-menu-horizontal {display: inline-flex;flex-wrap: wrap;align-items: center;}.fl-menu li{position: relative;}.fl-menu a{display: block;padding: 10px;text-decoration: none;}.fl-menu a:hover{text-decoration: none;}.fl-menu .sub-menu{min-width: 220px;}.fl-module[data-node] .fl-menu .fl-menu-expanded .sub-menu {background-color: transparent;-webkit-box-shadow: none;-ms-box-shadow: none;box-shadow: none;}.fl-menu .fl-has-submenu:focus,.fl-menu .fl-has-submenu .sub-menu:focus,.fl-menu .fl-has-submenu-container:focus {outline: 0;}.fl-menu .fl-has-submenu-container{ position: relative; }.fl-menu .fl-menu-accordion .fl-has-submenu > .sub-menu{display: none;}.fl-menu .fl-menu-accordion .fl-has-submenu.fl-active .hide-heading > .sub-menu {box-shadow: none;display: block !important;}.fl-menu .fl-menu-toggle{position: absolute;top: 50%;right: 0;cursor: pointer;}.fl-menu .fl-toggle-arrows .fl-menu-toggle:before,.fl-menu .fl-toggle-none .fl-menu-toggle:before{border-color: #333;}.fl-menu .fl-menu-expanded .fl-menu-toggle{display: none;}.fl-menu .fl-menu-mobile-toggle {position: relative;padding: 8px;background-color: transparent;border: none;color: #333;border-radius: 0;}.fl-menu .fl-menu-mobile-toggle.text{width: 100%;text-align: center;}.fl-menu .fl-menu-mobile-toggle.hamburger .fl-menu-mobile-toggle-label,.fl-menu .fl-menu-mobile-toggle.hamburger-label .fl-menu-mobile-toggle-label{display: inline-block;margin-left: 10px;vertical-align: middle;}.fl-menu .fl-menu-mobile-toggle.hamburger .svg-container,.fl-menu .fl-menu-mobile-toggle.hamburger-label .svg-container{display: inline-block;position: relative;width: 1.4em;height: 1.4em;vertical-align: middle;}.fl-menu .fl-menu-mobile-toggle.hamburger .hamburger-menu,.fl-menu .fl-menu-mobile-toggle.hamburger-label .hamburger-menu{position: absolute;top: 0;left: 0;right: 0;bottom: 0;}.fl-menu .fl-menu-mobile-toggle.hamburger .hamburger-menu rect,.fl-menu .fl-menu-mobile-toggle.hamburger-label .hamburger-menu rect{fill: currentColor;}li.mega-menu .hide-heading > a,li.mega-menu .hide-heading > .fl-has-submenu-container,li.mega-menu-disabled .hide-heading > a,li.mega-menu-disabled .hide-heading > .fl-has-submenu-container {display: none;}ul.fl-menu-horizontal li.mega-menu {position: static;}ul.fl-menu-horizontal li.mega-menu > ul.sub-menu {top: inherit !important;left: 0 !important;right: 0 !important;width: 100%;}ul.fl-menu-horizontal li.mega-menu.fl-has-submenu:hover > ul.sub-menu,ul.fl-menu-horizontal li.mega-menu.fl-has-submenu.focus > ul.sub-menu {display: flex !important;}ul.fl-menu-horizontal li.mega-menu > ul.sub-menu li {border-color: transparent;}ul.fl-menu-horizontal li.mega-menu > ul.sub-menu > li {width: 100%;}ul.fl-menu-horizontal li.mega-menu > ul.sub-menu > li > .fl-has-submenu-container a {font-weight: bold;}ul.fl-menu-horizontal li.mega-menu > ul.sub-menu > li > .fl-has-submenu-container a:hover {background: transparent;}ul.fl-menu-horizontal li.mega-menu > ul.sub-menu .fl-menu-toggle {display: none;}ul.fl-menu-horizontal li.mega-menu > ul.sub-menu ul.sub-menu {background: transparent;-webkit-box-shadow: none;-ms-box-shadow: none;box-shadow: none;display: block;min-width: 0;opacity: 1;padding: 0;position: static;visibility: visible;}.fl-menu-mobile-clone {clear: both;}.fl-menu-mobile-clone .fl-menu .menu {float: none !important;}.fl-menu-mobile-close {display: none;}.fl-menu-mobile-close,.fl-menu-mobile-close:hover,.fl-menu-mobile-close:focus {background: none;border: 0 none;color: inherit;font-size: 18px;padding: 10px 6px 10px 14px;}.fl-node-nrojsg1keax0 .fl-menu .menu {}.fl-builder-content .fl-node-nrojsg1keax0 .menu > li > a,.fl-builder-content .fl-node-nrojsg1keax0 .menu > li > .fl-has-submenu-container > a,.fl-builder-content .fl-node-nrojsg1keax0 .sub-menu > li > a,.fl-builder-content .fl-node-nrojsg1keax0 .sub-menu > li > .fl-has-submenu-container > a{color: #595a5b;}.fl-node-nrojsg1keax0 .fl-menu .fl-toggle-arrows .fl-menu-toggle:before,.fl-node-nrojsg1keax0 .fl-menu .fl-toggle-none .fl-menu-toggle:before {border-color: #595a5b;}.fl-node-nrojsg1keax0 .menu > li > a:hover,.fl-node-nrojsg1keax0 .menu > li > a:focus,.fl-node-nrojsg1keax0 .menu > li > .fl-has-submenu-container:hover > a,.fl-node-nrojsg1keax0 .menu > li > .fl-has-submenu-container.focus > a,.fl-node-nrojsg1keax0 .menu > li.current-menu-item > a,.fl-node-nrojsg1keax0 .menu > li.current-menu-item > .fl-has-submenu-container > a,.fl-node-nrojsg1keax0 .sub-menu > li > a:hover,.fl-node-nrojsg1keax0 .sub-menu > li > a:focus,.fl-node-nrojsg1keax0 .sub-menu > li > .fl-has-submenu-container:hover > a,.fl-node-nrojsg1keax0 .sub-menu > li > .fl-has-submenu-container.focus > a,.fl-node-nrojsg1keax0 .sub-menu > li.current-menu-item > a,.fl-node-nrojsg1keax0 .sub-menu > li.current-menu-item > .fl-has-submenu-container > a{color: #04afca;}.fl-node-nrojsg1keax0 .fl-menu .fl-toggle-arrows .fl-has-submenu-container:hover > .fl-menu-toggle:before,.fl-node-nrojsg1keax0 .fl-menu .fl-toggle-arrows .fl-has-submenu-container.focus > .fl-menu-toggle:before,.fl-node-nrojsg1keax0 .fl-menu .fl-toggle-arrows li.current-menu-item >.fl-has-submenu-container > .fl-menu-toggle:before,.fl-node-nrojsg1keax0 .fl-menu .fl-toggle-none .fl-has-submenu-container:hover > .fl-menu-toggle:before,.fl-node-nrojsg1keax0 .fl-menu .fl-toggle-none .fl-has-submenu-container.focus > .fl-menu-toggle:before,.fl-node-nrojsg1keax0 .fl-menu .fl-toggle-none li.current-menu-item >.fl-has-submenu-container > .fl-menu-toggle:before{border-color: #04afca;}.fl-node-nrojsg1keax0 .menu .fl-has-submenu .sub-menu{display: none;}.fl-node-nrojsg1keax0 .fl-menu .sub-menu {background-color: #ffffff;-webkit-box-shadow: 0 1px 20px rgba(0,0,0,0.1);-ms-box-shadow: 0 1px 20px rgba(0,0,0,0.1);box-shadow: 0 1px 20px rgba(0,0,0,0.1);}.fl-node-nrojsg1keax0 .fl-menu-vertical.fl-toggle-arrows .fl-has-submenu-container a{padding-right: 28px;}.fl-node-nrojsg1keax0 .fl-menu-vertical.fl-toggle-arrows .fl-menu-toggle,.fl-node-nrojsg1keax0 .fl-menu-vertical.fl-toggle-none .fl-menu-toggle{width: 28px;height: 28px;margin: -14px 0 0;}.fl-node-nrojsg1keax0 .fl-menu-horizontal.fl-toggle-arrows .fl-menu-toggle,.fl-node-nrojsg1keax0 .fl-menu-horizontal.fl-toggle-none .fl-menu-toggle,.fl-node-nrojsg1keax0 .fl-menu-vertical.fl-toggle-arrows .fl-menu-toggle,.fl-node-nrojsg1keax0 .fl-menu-vertical.fl-toggle-none .fl-menu-toggle{width: 28px;height: 28px;margin: -14px 0 0;}.fl-node-nrojsg1keax0 .fl-menu li{border-top: 1px solid transparent;}.fl-node-nrojsg1keax0 .fl-menu li:first-child{border-top: none;}.fl-node-nrojsg1keax0 .menu.fl-menu-vertical li,.fl-node-nrojsg1keax0 .menu.fl-menu-horizontal li li{border-color: #04afca;}@media ( max-width: 480px ) {.fl-node-nrojsg1keax0 .fl-menu .sub-menu {-webkit-box-shadow: none;-ms-box-shadow: none;box-shadow: none;}.fl-node-nrojsg1keax0 .mega-menu.fl-active .hide-heading > .sub-menu,.fl-node-nrojsg1keax0 .mega-menu-disabled.fl-active .hide-heading > .sub-menu {display: block !important;}.fl-node-nrojsg1keax0 .fl-menu-logo,.fl-node-nrojsg1keax0 .fl-menu-search-item {display: none;}} @media ( min-width: 481px ) {.fl-node-nrojsg1keax0 .menu .fl-has-submenu .sub-menu{position: absolute;top: 0;left: 100%;z-index: 10;visibility: hidden;opacity: 0;}.fl-node-nrojsg1keax0 .fl-menu .fl-has-submenu:hover > .sub-menu,.fl-node-nrojsg1keax0 .fl-menu .fl-has-submenu.focus > .sub-menu{display: block;visibility: visible;opacity: 1;}.fl-node-nrojsg1keax0 .menu .fl-has-submenu.fl-menu-submenu-right .sub-menu{left: inherit;right: 0;}.fl-node-nrojsg1keax0 .menu .fl-has-submenu .fl-has-submenu.fl-menu-submenu-right .sub-menu{top: 0;left: inherit;right: 100%;}.fl-node-nrojsg1keax0 .fl-menu .fl-has-submenu.fl-active > .fl-has-submenu-container .fl-menu-toggle{-webkit-transform: none;-ms-transform: none;transform: none;}.fl-node-nrojsg1keax0 .fl-menu .fl-menu-toggle{display: none;}.fl-node-nrojsg1keax0 ul.sub-menu {padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}.fl-node-nrojsg1keax0 ul.sub-menu a {}}.fl-node-nrojsg1keax0 ul.fl-menu-horizontal li.mega-menu > ul.sub-menu > li > .fl-has-submenu-container a:hover {color: #595a5b;}.fl-node-nrojsg1keax0 .fl-menu .menu, .fl-node-nrojsg1keax0 .fl-menu .menu > li {font-size: 26px;line-height: 1;letter-spacing: 2px;text-align: center;text-transform: uppercase;}.fl-node-nrojsg1keax0 .menu a {padding-top: 20px;padding-right: 14px;padding-bottom: 20px;padding-left: 14px;}.fl-node-nrojsg1keax0 .fl-menu .menu .sub-menu > li {font-size: 16px;line-height: 1;}@media(max-width: 480px) {.fl-node-nrojsg1keax0 .menu li.fl-has-submenu ul.sub-menu {padding-left: 15px;}.fl-node-nrojsg1keax0 .fl-menu .sub-menu {background-color: transparent;}} .fl-node-nrojsg1keax0 > .fl-module-content {margin-top:20%;}.fl-col-group-equal-height.fl-col-group-align-bottom .fl-col-content {-webkit-justify-content: flex-end;justify-content: flex-end;-webkit-box-align: end; -webkit-box-pack: end;-ms-flex-pack: end;}.uabb-module-content h1,.uabb-module-content h2,.uabb-module-content h3,.uabb-module-content h4,.uabb-module-content h5,.uabb-module-content h6 {margin: 0;clear: both;}.fl-module-content a,.fl-module-content a:hover,.fl-module-content a:focus {text-decoration: none;}.uabb-row-separator {position: absolute;width: 100%;left: 0;}.uabb-top-row-separator {top: 0;bottom: auto}.uabb-bottom-row-separator {top: auto;bottom: 0;}.fl-builder-content-editing .fl-visible-medium.uabb-row,.fl-builder-content-editing .fl-visible-medium-mobile.uabb-row,.fl-builder-content-editing .fl-visible-mobile.uabb-row {display: none !important;}@media (max-width: 992px) {.fl-builder-content-editing .fl-visible-desktop.uabb-row,.fl-builder-content-editing .fl-visible-mobile.uabb-row {display: none !important;}.fl-builder-content-editing .fl-visible-desktop-medium.uabb-row,.fl-builder-content-editing .fl-visible-medium.uabb-row,.fl-builder-content-editing .fl-visible-medium-mobile.uabb-row {display: block !important;}}@media (max-width: 768px) {.fl-builder-content-editing .fl-visible-desktop.uabb-row,.fl-builder-content-editing .fl-visible-desktop-medium.uabb-row,.fl-builder-content-editing .fl-visible-medium.uabb-row {display: none !important;}.fl-builder-content-editing .fl-visible-medium-mobile.uabb-row,.fl-builder-content-editing .fl-visible-mobile.uabb-row {display: block !important;}}.fl-responsive-preview-content .fl-builder-content-editing {overflow-x: hidden;overflow-y: visible;}.uabb-row-separator svg {width: 100%;}.uabb-top-row-separator.uabb-has-svg svg {position: absolute;padding: 0;margin: 0;left: 50%;top: -1px;bottom: auto;-webkit-transform: translateX(-50%);-ms-transform: translateX(-50%);transform: translateX(-50%);}.uabb-bottom-row-separator.uabb-has-svg svg {position: absolute;padding: 0;margin: 0;left: 50%;bottom: -1px;top: auto;-webkit-transform: translateX(-50%);-ms-transform: translateX(-50%);transform: translateX(-50%);}.uabb-bottom-row-separator.uabb-has-svg .uasvg-wave-separator {bottom: 0;}.uabb-top-row-separator.uabb-has-svg .uasvg-wave-separator {top: 0;}.uabb-bottom-row-separator.uabb-svg-triangle svg,.uabb-bottom-row-separator.uabb-xlarge-triangle svg,.uabb-top-row-separator.uabb-xlarge-triangle-left svg,.uabb-bottom-row-separator.uabb-svg-circle svg,.uabb-top-row-separator.uabb-slime-separator svg,.uabb-top-row-separator.uabb-grass-separator svg,.uabb-top-row-separator.uabb-grass-bend-separator svg,.uabb-bottom-row-separator.uabb-mul-triangles-separator svg,.uabb-top-row-separator.uabb-wave-slide-separator svg,.uabb-top-row-separator.uabb-pine-tree-separator svg,.uabb-top-row-separator.uabb-pine-tree-bend-separator svg,.uabb-bottom-row-separator.uabb-stamp-separator svg,.uabb-bottom-row-separator.uabb-xlarge-circle svg,.uabb-top-row-separator.uabb-wave-separator svg{left: 50%;-webkit-transform: translateX(-50%) scaleY(-1); -moz-transform: translateX(-50%) scaleY(-1);-ms-transform: translateX(-50%) scaleY(-1); -o-transform: translateX(-50%) scaleY(-1);transform: translateX(-50%) scaleY(-1);}.uabb-bottom-row-separator.uabb-big-triangle svg {left: 50%;-webkit-transform: scale(1) scaleY(-1) translateX(-50%); -moz-transform: scale(1) scaleY(-1) translateX(-50%);-ms-transform: scale(1) scaleY(-1) translateX(-50%); -o-transform: scale(1) scaleY(-1) translateX(-50%);transform: scale(1) scaleY(-1) translateX(-50%);}.uabb-top-row-separator.uabb-big-triangle svg {left: 50%;-webkit-transform: translateX(-50%) scale(1); -moz-transform: translateX(-50%) scale(1);-ms-transform: translateX(-50%) scale(1); -o-transform: translateX(-50%) scale(1);transform: translateX(-50%) scale(1);}.uabb-top-row-separator.uabb-xlarge-triangle-right svg {left: 50%;-webkit-transform: translateX(-50%) scale(-1); -moz-transform: translateX(-50%) scale(-1);-ms-transform: translateX(-50%) scale(-1); -o-transform: translateX(-50%) scale(-1);transform: translateX(-50%) scale(-1);}.uabb-bottom-row-separator.uabb-xlarge-triangle-right svg {left: 50%;-webkit-transform: translateX(-50%) scaleX(-1); -moz-transform: translateX(-50%) scaleX(-1);-ms-transform: translateX(-50%) scaleX(-1); -o-transform: translateX(-50%) scaleX(-1);transform: translateX(-50%) scaleX(-1);}.uabb-top-row-separator.uabb-curve-up-separator svg {left: 50%; -webkit-transform: translateX(-50%) scaleY(-1); -moz-transform: translateX(-50%) scaleY(-1);-ms-transform: translateX(-50%) scaleY(-1); -o-transform: translateX(-50%) scaleY(-1);transform: translateX(-50%) scaleY(-1);}.uabb-top-row-separator.uabb-curve-down-separator svg {left: 50%;-webkit-transform: translateX(-50%) scale(-1); -moz-transform: translateX(-50%) scale(-1);-ms-transform: translateX(-50%) scale(-1); -o-transform: translateX(-50%) scale(-1);transform: translateX(-50%) scale(-1);}.uabb-bottom-row-separator.uabb-curve-down-separator svg {left: 50%;-webkit-transform: translateX(-50%) scaleX(-1); -moz-transform: translateX(-50%) scaleX(-1);-ms-transform: translateX(-50%) scaleX(-1); -o-transform: translateX(-50%) scaleX(-1);transform: translateX(-50%) scaleX(-1);}.uabb-top-row-separator.uabb-tilt-left-separator svg {left: 50%;-webkit-transform: translateX(-50%) scale(-1); -moz-transform: translateX(-50%) scale(-1);-ms-transform: translateX(-50%) scale(-1); -o-transform: translateX(-50%) scale(-1);transform: translateX(-50%) scale(-1);}.uabb-top-row-separator.uabb-tilt-right-separator svg{left: 50%;-webkit-transform: translateX(-50%) scaleY(-1); -moz-transform: translateX(-50%) scaleY(-1);-ms-transform: translateX(-50%) scaleY(-1); -o-transform: translateX(-50%) scaleY(-1);transform: translateX(-50%) scaleY(-1);}.uabb-bottom-row-separator.uabb-tilt-left-separator svg {left: 50%;-webkit-transform: translateX(-50%); -moz-transform: translateX(-50%);-ms-transform: translateX(-50%); -o-transform: translateX(-50%);transform: translateX(-50%);}.uabb-bottom-row-separator.uabb-tilt-right-separator svg {left: 50%;-webkit-transform: translateX(-50%) scaleX(-1); -moz-transform: translateX(-50%) scaleX(-1);-ms-transform: translateX(-50%) scaleX(-1); -o-transform: translateX(-50%) scaleX(-1);transform: translateX(-50%) scaleX(-1);}.uabb-top-row-separator.uabb-tilt-left-separator,.uabb-top-row-separator.uabb-tilt-right-separator {top: 0;}.uabb-bottom-row-separator.uabb-tilt-left-separator,.uabb-bottom-row-separator.uabb-tilt-right-separator {bottom: 0;}.uabb-top-row-separator.uabb-arrow-outward-separator svg,.uabb-top-row-separator.uabb-arrow-inward-separator svg,.uabb-top-row-separator.uabb-cloud-separator svg,.uabb-top-row-separator.uabb-multi-triangle svg {left: 50%;-webkit-transform: translateX(-50%) scaleY(-1); -moz-transform: translateX(-50%) scaleY(-1);-ms-transform: translateX(-50%) scaleY(-1); -o-transform: translateX(-50%) scaleY(-1);transform: translateX(-50%) scaleY(-1);}.uabb-bottom-row-separator.uabb-multi-triangle svg {bottom: -2px;}.uabb-row-separator.uabb-round-split:after,.uabb-row-separator.uabb-round-split:before {left: 0;width: 50%;background: inherit inherit/inherit inherit inherit inherit;content: '';position: absolute}.uabb-button-wrap a,.uabb-button-wrap a:visited {display: inline-block;font-size: 16px;line-height: 18px;text-decoration: none;text-shadow: none;}.fl-builder-content .uabb-button:hover {text-decoration: none;}.fl-builder-content .uabb-button-width-full .uabb-button {display: block;text-align: center;}.uabb-button-width-custom .uabb-button {display: inline-block;text-align: center;max-width: 100%;}.fl-builder-content .uabb-button-left {text-align: left;}.fl-builder-content .uabb-button-center {text-align: center;}.fl-builder-content .uabb-button-right {text-align: right;}.fl-builder-content .uabb-button i,.fl-builder-content .uabb-button i:before {font-size: 1em;height: 1em;line-height: 1em;width: 1em;}.uabb-button .uabb-button-icon-after {margin-left: 8px;margin-right: 0;}.uabb-button .uabb-button-icon-before {margin-left: 0;margin-right: 8px;}.uabb-button .uabb-button-icon-no-text {margin: 0;}.uabb-button-has-icon .uabb-button-text {vertical-align: middle;}.uabb-icon-wrap {display: inline-block;}.uabb-icon a {text-decoration: none;}.uabb-icon i {display: block;}.uabb-icon i:before {border: none !important;background: none !important;}.uabb-icon-text {display: table-cell;text-align: left;padding-left: 15px;vertical-align: middle;}.uabb-icon-text *:last-child {margin: 0 !important;padding: 0 !important;}.uabb-icon-text a {text-decoration: none;}.uabb-photo {line-height: 0;position: relative;z-index: 2;}.uabb-photo-align-left {text-align: left;}.uabb-photo-align-center {text-align: center;}.uabb-photo-align-right {text-align: right;}.uabb-photo-content {border-radius: 0;display: inline-block;line-height: 0;position: relative;max-width: 100%;overflow: hidden;}.uabb-photo-content img {border-radius: inherit;display: inline;height: auto;max-width: 100%;width: auto;}.fl-builder-content .uabb-photo-crop-circle img {-webkit-border-radius: 100%;-moz-border-radius: 100%;border-radius: 100%;}.fl-builder-content .uabb-photo-crop-square img {-webkit-border-radius: 0;-moz-border-radius: 0;border-radius: 0;}.uabb-photo-caption {font-size: 13px;line-height: 18px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}.uabb-photo-caption-below {padding-bottom: 20px;padding-top: 10px;}.uabb-photo-caption-hover {background: rgba(0,0,0,0.7);bottom: 0;color: #fff;left: 0;opacity: 0;visibility: hidden;filter: alpha(opacity = 0);padding: 10px 15px;position: absolute;right: 0;-webkit-transition:visibility 200ms linear;-moz-transition:visibility 200ms linear;transition:visibility 200ms linear;}.uabb-photo-content:hover .uabb-photo-caption-hover {opacity: 100;visibility: visible;}.uabb-active-btn {background: #1e8cbe;border-color: #0074a2;-webkit-box-shadow: inset 0 1px 0 rgba(120,200,230,.6);box-shadow: inset 0 1px 0 rgba(120,200,230,.6);color: white;}.fl-builder-bar .fl-builder-add-content-button {display: block !important;opacity: 1 !important;}.uabb-imgicon-wrap .uabb-icon {display: block;}.uabb-imgicon-wrap .uabb-icon i{float: none;}.uabb-imgicon-wrap .uabb-image {line-height: 0;position: relative;}.uabb-imgicon-wrap .uabb-image-align-left {text-align: left;}.uabb-imgicon-wrap .uabb-image-align-center {text-align: center;}.uabb-imgicon-wrap .uabb-image-align-right {text-align: right;}.uabb-imgicon-wrap .uabb-image-content {display: inline-block;border-radius: 0;line-height: 0;position: relative;max-width: 100%;}.uabb-imgicon-wrap .uabb-image-content img {display: inline;height: auto !important;max-width: 100%;width: auto;border-radius: inherit;box-shadow: none;box-sizing: content-box;}.fl-builder-content .uabb-imgicon-wrap .uabb-image-crop-circle img {-webkit-border-radius: 100%;-moz-border-radius: 100%;border-radius: 100%;}.fl-builder-content .uabb-imgicon-wrap .uabb-image-crop-square img {-webkit-border-radius: 0;-moz-border-radius: 0;border-radius: 0;}.uabb-creative-button-wrap a,.uabb-creative-button-wrap a:visited {background: #fafafa;border: 1px solid #ccc;color: #333;display: inline-block;vertical-align: middle;text-align: center;overflow: hidden;text-decoration: none;text-shadow: none;box-shadow: none;position: relative;-webkit-transition: all 200ms linear; -moz-transition: all 200ms linear;-ms-transition: all 200ms linear; -o-transition: all 200ms linear;transition: all 200ms linear;}.uabb-creative-button-wrap a:focus {text-decoration: none;text-shadow: none;box-shadow: none;}.uabb-creative-button-wrap a .uabb-creative-button-text,.uabb-creative-button-wrap a .uabb-creative-button-icon,.uabb-creative-button-wrap a:visited .uabb-creative-button-text,.uabb-creative-button-wrap a:visited .uabb-creative-button-icon {-webkit-transition: all 200ms linear; -moz-transition: all 200ms linear;-ms-transition: all 200ms linear; -o-transition: all 200ms linear;transition: all 200ms linear;}.uabb-creative-button-wrap a:hover {text-decoration: none;}.uabb-creative-button-wrap .uabb-creative-button-width-full .uabb-creative-button {display: block;text-align: center;}.uabb-creative-button-wrap .uabb-creative-button-width-custom .uabb-creative-button {display: inline-block;text-align: center;max-width: 100%;}.uabb-creative-button-wrap .uabb-creative-button-left {text-align: left;}.uabb-creative-button-wrap .uabb-creative-button-center {text-align: center;}.uabb-creative-button-wrap .uabb-creative-button-right {text-align: right;}.uabb-creative-button-wrap .uabb-creative-button i {font-size: 1.3em;height: auto;vertical-align: middle;width: auto;}.uabb-creative-button-wrap .uabb-creative-button .uabb-creative-button-icon-after {margin-left: 8px;margin-right: 0;}.uabb-creative-button-wrap .uabb-creative-button .uabb-creative-button-icon-before {margin-right: 8px;margin-left: 0;}.uabb-creative-button-wrap.uabb-creative-button-icon-no-text .uabb-creative-button i {margin: 0;}.uabb-creative-button-wrap .uabb-creative-button-has-icon .uabb-creative-button-text {vertical-align: middle;}.uabb-creative-button-wrap a,.uabb-creative-button-wrap a:visited {padding: 12px 24px;}.uabb-creative-button.uabb-creative-transparent-btn {background: transparent;}.uabb-creative-button.uabb-creative-transparent-btn:after {content: '';position: absolute;z-index: 1;-webkit-transition: all 200ms linear; -moz-transition: all 200ms linear;-ms-transition: all 200ms linear; -o-transition: all 200ms linear;transition: all 200ms linear;}.uabb-transparent-fill-top-btn:after,.uabb-transparent-fill-bottom-btn:after {width: 100%;height: 0;left: 0;}.uabb-transparent-fill-top-btn:after {top: 0;}.uabb-transparent-fill-bottom-btn:after {bottom: 0;}.uabb-transparent-fill-left-btn:after,.uabb-transparent-fill-right-btn:after {width: 0;height: 100%;top: 0;}.uabb-transparent-fill-left-btn:after {left: 0;}.uabb-transparent-fill-right-btn:after {right: 0;}.uabb-transparent-fill-center-btn:after{width: 0;height: 100%;top: 50%;left: 50%;-webkit-transform: translateX(-50%) translateY(-50%); -moz-transform: translateX(-50%) translateY(-50%);-ms-transform: translateX(-50%) translateY(-50%); -o-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);}.uabb-transparent-fill-diagonal-btn:after,.uabb-transparent-fill-horizontal-btn:after {width: 100%;height: 0;top: 50%;left: 50%;}.uabb-transparent-fill-diagonal-btn{overflow: hidden;}.uabb-transparent-fill-diagonal-btn:after{-webkit-transform: translateX(-50%) translateY(-50%) rotate( 45deg ); -moz-transform: translateX(-50%) translateY(-50%) rotate( 45deg );-ms-transform: translateX(-50%) translateY(-50%) rotate( 45deg ); -o-transform: translateX(-50%) translateY(-50%) rotate( 45deg );transform: translateX(-50%) translateY(-50%) rotate( 45deg );}.uabb-transparent-fill-horizontal-btn:after{-webkit-transform: translateX(-50%) translateY(-50%); -moz-transform: translateX(-50%) translateY(-50%);-ms-transform: translateX(-50%) translateY(-50%); -o-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);}.uabb-creative-button-wrap .uabb-creative-threed-btn.uabb-threed_down-btn,.uabb-creative-button-wrap .uabb-creative-threed-btn.uabb-threed_up-btn,.uabb-creative-button-wrap .uabb-creative-threed-btn.uabb-threed_left-btn,.uabb-creative-button-wrap .uabb-creative-threed-btn.uabb-threed_right-btn {-webkit-transition: none; -moz-transition: none;-ms-transition: none; -o-transition: none;transition: none;}.perspective {-webkit-perspective: 800px; -moz-perspective: 800px;perspective: 800px;margin: 0;}.uabb-creative-button.uabb-creative-threed-btn:after {content: '';position: absolute;z-index: -1;-webkit-transition: all 200ms linear; -moz-transition: all 200ms linear;transition: all 200ms linear;}.uabb-creative-button.uabb-creative-threed-btn {outline: 1px solid transparent;-webkit-transform-style: preserve-3d; -moz-transform-style: preserve-3d;transform-style: preserve-3d;}.uabb-creative-threed-btn.uabb-animate_top-btn:after {height: 40%;left: 0;top: -40%;width: 100%;-webkit-transform-origin: 0% 100%; -moz-transform-origin: 0% 100%;transform-origin: 0% 100%;-webkit-transform: rotateX(90deg); -moz-transform: rotateX(90deg);transform: rotateX(90deg);}.uabb-creative-threed-btn.uabb-animate_bottom-btn:after {width: 100%;height: 40%;left: 0;top: 100%;-webkit-transform-origin: 0% 0%; -moz-transform-origin: 0% 0%;-ms-transform-origin: 0% 0%;transform-origin: 0% 0%;-webkit-transform: rotateX(-90deg); -moz-transform: rotateX(-90deg);-ms-transform: rotateX(-90deg);transform: rotateX(-90deg);}.uabb-creative-threed-btn.uabb-animate_left-btn:after {width: 20%;height: 100%;left: -20%;top: 0;-webkit-transform-origin: 100% 0%; -moz-transform-origin: 100% 0%;-ms-transform-origin: 100% 0%;transform-origin: 100% 0%;-webkit-transform: rotateY(-60deg); -moz-transform: rotateY(-60deg);-ms-transform: rotateY(-60deg);transform: rotateY(-60deg);}.uabb-creative-threed-btn.uabb-animate_right-btn:after {width: 20%;height: 100%;left: 104%;top: 0;-webkit-transform-origin: 0% 0%; -moz-transform-origin: 0% 0%;-ms-transform-origin: 0% 0%;transform-origin: 0% 0%;-webkit-transform: rotateY(120deg); -moz-transform: rotateY(120deg);-ms-transform: rotateY(120deg);transform: rotateY(120deg);}.uabb-animate_top-btn:hover{-webkit-transform: rotateX(-15deg); -moz-transform: rotateX(-15deg);-ms-transform: rotateX(-15deg); -o-transform: rotateX(-15deg);transform: rotateX(-15deg);}.uabb-animate_bottom-btn:hover{-webkit-transform: rotateX(15deg); -moz-transform: rotateX(15deg);-ms-transform: rotateX(15deg); -o-transform: rotateX(15deg);transform: rotateX(15deg);}.uabb-animate_left-btn:hover{-webkit-transform: rotateY(6deg); -moz-transform: rotateY(6deg);-ms-transform: rotateY(6deg); -o-transform: rotateY(6deg);transform: rotateY(6deg);}.uabb-animate_right-btn:hover{-webkit-transform: rotateY(-6deg); -moz-transform: rotateY(-6deg);-ms-transform: rotateY(-6deg); -o-transform: rotateY(-6deg);transform: rotateY(-6deg);}.uabb-creative-flat-btn.uabb-animate_to_right-btn,.uabb-creative-flat-btn.uabb-animate_to_left-btn,.uabb-creative-flat-btn.uabb-animate_from_top-btn,.uabb-creative-flat-btn.uabb-animate_from_bottom-btn {overflow: hidden;position: relative;}.uabb-creative-flat-btn.uabb-animate_to_right-btn i,.uabb-creative-flat-btn.uabb-animate_to_left-btn i,.uabb-creative-flat-btn.uabb-animate_from_top-btn i,.uabb-creative-flat-btn.uabb-animate_from_bottom-btn i {bottom: 0;height: 100%;margin: 0;opacity: 1;position: absolute;right: 0;width: 100%;-webkit-transition: all 200ms linear; -moz-transition: all 200ms linear;transition: all 200ms linear;-webkit-transform: translateY(0); -moz-transform: translateY(0); -o-transform: translateY(0);-ms-transform: translateY(0);transform: translateY(0);}.uabb-creative-flat-btn.uabb-animate_to_right-btn .uabb-button-text,.uabb-creative-flat-btn.uabb-animate_to_left-btn .uabb-button-text,.uabb-creative-flat-btn.uabb-animate_from_top-btn .uabb-button-text,.uabb-creative-flat-btn.uabb-animate_from_bottom-btn .uabb-button-text {display: inline-block;width: 100%;height: 100%;-webkit-transition: all 200ms linear; -moz-transition: all 200ms linear;-ms-transition: all 200ms linear; -o-transition: all 200ms linear;transition: all 200ms linear;-webkit-backface-visibility: hidden; -moz-backface-visibility: hidden;backface-visibility: hidden;}.uabb-creative-flat-btn.uabb-animate_to_right-btn i:before,.uabb-creative-flat-btn.uabb-animate_to_left-btn i:before,.uabb-creative-flat-btn.uabb-animate_from_top-btn i:before,.uabb-creative-flat-btn.uabb-animate_from_bottom-btn i:before {position: absolute;top: 50%;left: 50%;-webkit-transform: translateX(-50%) translateY(-50%);-moz-transform: translateX(-50%) translateY(-50%);-o-transform: translateX(-50%) translateY(-50%);-ms-transform: translateX(-50%) translateY(-50%);transform: translateX(-50%) translateY(-50%);}.uabb-creative-flat-btn.uabb-animate_to_right-btn:hover i,.uabb-creative-flat-btn.uabb-animate_to_left-btn:hover i {left: 0;}.uabb-creative-flat-btn.uabb-animate_from_top-btn:hover i,.uabb-creative-flat-btn.uabb-animate_from_bottom-btn:hover i {top: 0;}.uabb-creative-flat-btn.uabb-animate_to_right-btn i {top: 0;left: -100%;}.uabb-creative-flat-btn.uabb-animate_to_right-btn:hover .uabb-button-text {-webkit-transform: translateX(200%); -moz-transform: translateX(200%);-ms-transform: translateX(200%); -o-transform: translateX(200%);transform: translateX(200%);}.uabb-creative-flat-btn.uabb-animate_to_left-btn i {top: 0;left: 100%;}.uabb-creative-flat-btn.uabb-animate_to_left-btn:hover .uabb-button-text {-webkit-transform: translateX(-200%); -moz-transform: translateX(-200%);-ms-transform: translateX(-200%); -o-transform: translateX(-200%);transform: translateX(-200%);}.uabb-creative-flat-btn.uabb-animate_from_top-btn i {top: -100%;left: 0;}.uabb-creative-flat-btn.uabb-animate_from_top-btn:hover .uabb-button-text {-webkit-transform: translateY(400px); -moz-transform: translateY(400px);-ms-transform: translateY(400px); -o-transform: translateY(400px);transform: translateY(400px);}.uabb-creative-flat-btn.uabb-animate_from_bottom-btn i {top: 100%;left: 0;}.uabb-creative-flat-btn.uabb-animate_from_bottom-btn:hover .uabb-button-text {-webkit-transform: translateY(-400px); -moz-transform: translateY(-400px);-ms-transform: translateY(-400px); -o-transform: translateY(-400px);transform: translateY(-400px);}.uabb-tab-acc-content .wp-video, .uabb-tab-acc-content video.wp-video-shortcode, .uabb-tab-acc-content .mejs-container:not(.mejs-audio), .uabb-tab-acc-content .mejs-overlay.load,.uabb-adv-accordion-content .wp-video, .uabb-adv-accordion-content video.wp-video-shortcode, .uabb-adv-accordion-content .mejs-container:not(.mejs-audio), .uabb-adv-accordion-content .mejs-overlay.load {width: 100% !important;height: 100% !important;}.uabb-tab-acc-content .mejs-container:not(.mejs-audio),.uabb-adv-accordion-content .mejs-container:not(.mejs-audio) {padding-top: 56.25%;}.uabb-tab-acc-content .wp-video, .uabb-tab-acc-content video.wp-video-shortcode,.uabb-adv-accordion-content .wp-video, .uabb-adv-accordion-content video.wp-video-shortcode {max-width: 100% !important;}.uabb-tab-acc-content video.wp-video-shortcode,.uabb-adv-accordion-content video.wp-video-shortcode {position: relative;}.uabb-tab-acc-content .mejs-container:not(.mejs-audio) .mejs-mediaelement,.uabb-adv-accordion-content .mejs-container:not(.mejs-audio) .mejs-mediaelement {position: absolute;top: 0;right: 0;bottom: 0;left: 0;}.uabb-tab-acc-content .mejs-overlay-play,.uabb-adv-accordion-content .mejs-overlay-play {top: 0;right: 0;bottom: 0;left: 0;width: auto !important;height: auto !important;}.fl-row-content-wrap .uabb-row-particles-background,.uabb-col-particles-background {width:100%;height:100%;position:absolute;left:0;top:0;}.uabb-creative-button-wrap a,.uabb-creative-button-wrap a:visited {}.uabb-dual-button .uabb-btn,.uabb-dual-button .uabb-btn:visited {}.uabb-js-breakpoint {content:"default";display:none;}@media screen and (max-width: 992px) {.uabb-js-breakpoint {content:"992";}}@media screen and (max-width: 480px) {.uabb-js-breakpoint {content:"480";}}.fl-builder-row-settings #fl-field-separator_position {display: none !important;}.fl-node-w1i2odphslev .fl-row-content {min-width: 0px;}
+</style>
+<div class="fl-builder-content fl-builder-content-193 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="193"><div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-w1i2odphslev fl-row-default-height fl-row-align-top company-menu m-container" data-node="w1i2odphslev">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-rk41ix3bsm2a" data-node="rk41ix3bsm2a">
+			<div class="fl-col fl-node-26sicvdbwtqj" data-node="26sicvdbwtqj">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-nrojsg1keax0" data-node="nrojsg1keax0">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu">
+		<div class="fl-clear"></div>
+	<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-company-menu" class="menu fl-menu-vertical fl-toggle-none"><li id="menu-item-2514" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.coopercos.com/our-company/">Who We Are</a></li><li id="menu-item-246" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/our-company/#leadership">Leadership</a></li><li id="menu-item-247" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/our-company/#history">History</a></li><li id="menu-item-2516" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.coopercos.com/coopervision/">CooperVision</a></li><li id="menu-item-2515" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.coopercos.com/coopersurgical/">CooperSurgical</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>
+            </div>
+            </li><li class="mega-menu-saved-row">
+            <a   target="_self" class="mega-menu-saved-row-a megamenuonmouseover" href="/our-impact">Our Impact <i class=""></i></a>
+            <div class="mega-menu-saved-row-container" >
+            <link rel='stylesheet' id='fl-builder-layout-285-css' href='https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/285-layout-partial.css?ver=741f95799dfbc995991093c380a2035c' media='all' />
+<div class="fl-builder-content fl-builder-content-285 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="285"><div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-5xhuesz6yam1 fl-row-default-height fl-row-align-top company-menu m-container" data-node="5xhuesz6yam1">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-lgw8dy3fro0e" data-node="lgw8dy3fro0e">
+			<div class="fl-col fl-node-4ygmijwc69o2" data-node="4ygmijwc69o2">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-d8irp0m3sb5n" data-node="d8irp0m3sb5n">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu">
+		<div class="fl-clear"></div>
+	<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-our-impact-menu" class="menu fl-menu-vertical fl-toggle-none"><li id="menu-item-3859" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.coopercos.com/social-environmental-impact/">Social &#038; Environmental Impact</a></li><li id="menu-item-3860" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.coopercos.com/inclusion-diversity/">Inclusion &#038; Diversity</a></li><li id="menu-item-3857" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.coopercos.com/esg/">ESG Reporting</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>
+            </div>
+            </li><li class="mega-menu-saved-row">
+            <a   target="_self" class="mega-menu-saved-row-a megamenuonmouseover" href="/our-stories">Our Stories <i class=""></i></a>
+            <div class="mega-menu-saved-row-container" >
+            <link rel='stylesheet' id='fl-builder-layout-288-css' href='https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/288-layout-partial.css?ver=996792fc5d88313e995e4e2f73b2817f' media='all' />
+<div class="fl-builder-content fl-builder-content-288 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="288"><div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-iat823lvespk fl-row-default-height fl-row-align-top company-menu m-container" data-node="iat823lvespk">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-q154pstbdyrl" data-node="q154pstbdyrl">
+			<div class="fl-col fl-node-1mn8vxe5w9lk" data-node="1mn8vxe5w9lk">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-xw5iqa9tpo0b" data-node="xw5iqa9tpo0b">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu">
+		<div class="fl-clear"></div>
+	<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-stories-menu" class="menu fl-menu-vertical fl-toggle-none"><li id="menu-item-2524" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.coopercos.com/our-stories/">Stories</a></li><li id="menu-item-257" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://investor.coopercos.com/press-releases">Press Releases</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>
+            </div>
+            </li></ul>    </div>
+    <div class="brex-mobile-menu-icon">
+        <a>
+            <i class="fas fa-align-justify"></i>        </a>
+    </div>
+</nav>
+
+
+
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-a5bfpxcurweq fl-col-small" data-node="a5bfpxcurweq">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-bm5pulsy048e" data-node="bm5pulsy048e">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<a href="/"><img decoding="async" src="/wp-content/uploads/2022/05/cooper-p.png" class="main-logo" alt="CooperCompanies" /></a></div>
+	</div>
+</div>
+<div class="fl-module fl-module-html fl-node-dyezw62umtcf" data-node="dyezw62umtcf">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5jh0dulb9w2g fl-col-small" data-node="5jh0dulb9w2g">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-brex-mega-menu fl-node-o23bzvnhuxke fl-visible-desktop fl-visible-large fl-visible-medium" data-node="o23bzvnhuxke">
+	<div class="fl-module-content fl-node-content">
+		<nav>
+    <div class="brex-mega-menu-desktop">
+        <ul class="brex-mega-menu"><li class="mega-menu-saved-row">
+            <a   target="_blank" class="mega-menu-saved-row-a megamenuonmouseover" href="https://investor.coopercos.com/">Investors <i class=""></i></a>
+            <div class="mega-menu-saved-row-container" >
+            <link rel='stylesheet' id='fl-builder-layout-291-css' href='https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/291-layout-partial.css?ver=5c6a68aab13e40eb20e780e19b7c3b95' media='all' />
+<div class="fl-builder-content fl-builder-content-291 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="291"><div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-vfacye8ri5x7 fl-row-default-height fl-row-align-top company-menu m-container" data-node="vfacye8ri5x7">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-folk203qze9n" data-node="folk203qze9n">
+			<div class="fl-col fl-node-h2vw0krc4nql" data-node="h2vw0krc4nql">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-z4bv57skumxq" data-node="z4bv57skumxq">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu">
+		<div class="fl-clear"></div>
+	<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-investors-menu" class="menu fl-menu-vertical fl-toggle-none"><li id="menu-item-3016" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://investor.coopercos.com/">Investor Overview</a></li><li id="menu-item-3017" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://investor.coopercos.com/press-releases">Press Releases</a></li><li id="menu-item-3018" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://investor.coopercos.com/events-and-presentations">Events &#038; Presentations</a></li><li id="menu-item-259" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://investor.coopercos.com/financial-information/quarterly-materials">Financials</a></li><li id="menu-item-261" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://investor.coopercos.com/corporate-governance">Corporate Governance</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>
+            </div>
+            </li><li class="mega-menu-saved-row">
+            <a   target="_self" class="mega-menu-saved-row-a megamenuonmouseover" href="/careers">Careers <i class=""></i></a>
+            <div class="mega-menu-saved-row-container" >
+            <link rel='stylesheet' id='fl-builder-layout-294-css' href='https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/294-layout-partial.css?ver=dafcedd4e236bf895cee0d2cd1f1497b' media='all' />
+<div class="fl-builder-content fl-builder-content-294 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="294"><div class="fl-row fl-row-fixed-width fl-row-bg-color fl-node-uyrplb5qmdwi fl-row-default-height fl-row-align-top company-menu m-container" data-node="uyrplb5qmdwi">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-qd7h50zpnlu9" data-node="qd7h50zpnlu9">
+			<div class="fl-col fl-node-l93470pwtur8" data-node="l93470pwtur8">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-menu fl-node-50vh3cj2gid6" data-node="50vh3cj2gid6">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-menu">
+		<div class="fl-clear"></div>
+	<nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement"><ul id="menu-careers-menu" class="menu fl-menu-vertical fl-toggle-none"><li id="menu-item-2512" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.coopercos.com/careers/">Working at Cooper</a></li><li id="menu-item-263" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/careers/#apply">Apply</a></li><li id="menu-item-2583" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/careers/#global-internship-program">Global Internship Program</a></li></ul></nav></div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>
+            </div>
+            </li></ul>    </div>
+    <div class="brex-mobile-menu-icon">
+        <a>
+            <i class="fas fa-align-justify"></i>        </a>
+    </div>
+</nav>
+
+
+
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-10c58idht2bk fl-col-small" data-node="10c58idht2bk">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-pp-search-form fl-node-2w9knq7vbj3f fl-visible-desktop fl-visible-large fl-visible-medium" data-node="2w9knq7vbj3f">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-search-form-wrap pp-search-form--style-minimal pp-search-form--button-type-icon">
+	<form class="pp-search-form" role="search" action="https://www.coopercos.com" method="get" aria-label="Search form">
+				<div class="pp-search-form__container">
+							<div class="pp-search-form__icon">
+					<i class="fa fa-search" aria-hidden="true"></i>
+					<span class="pp-screen-reader-text">Search</span>
+				</div>
+										<label class="pp-screen-reader-text" for="pp-search-form__input-2w9knq7vbj3f">
+				Search			</label>
+			<input id="pp-search-form__input-2w9knq7vbj3f"  placeholder="Search" class="pp-search-form__input" type="search" name="s" title="Search" value="">
+											</div>
+			</form>
+</div>	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</header><div class="uabb-js-breakpoint" style="display: none;"></div>	<div id="fl-main-content" class="fl-page-content" itemprop="mainContentOfPage" role="main">
+
+		
+<div class="fl-content-full container">
+	<div class="row">
+		<div class="fl-content col-md-12">
+			<article class="fl-post post-1660 page type-page status-publish hentry" id="fl-post-1660" itemscope="itemscope" itemtype="https://schema.org/CreativeWork">
+
+			<div class="fl-post-content clearfix" itemprop="text">
+		<div class="fl-builder-content fl-builder-content-1660 fl-builder-content-primary fl-builder-global-templates-locked" data-post-id="1660"><div class="fl-row fl-row-full-width fl-row-bg-none fl-node-xloj8zg9132e fl-row-default-height fl-row-align-center default-page" data-node="xloj8zg9132e">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-full-width fl-node-content">
+		
+<div class="fl-col-group fl-node-cpd8uhloj1f5" data-node="cpd8uhloj1f5">
+			<div class="fl-col fl-node-jx06ohn7s9vl fl-col-bg-photo" data-node="jx06ohn7s9vl">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-10q8ef4mbsc6 inner-page-head" data-node="10q8ef4mbsc6">
+	<div class="fl-module-content fl-node-content">
+		<h1 class="fl-heading">
+		<span class="fl-heading-text">Terms of Use</span>
+	</h1>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-z1mpvwae7ky4" data-node="z1mpvwae7ky4">
+			<div class="fl-col fl-node-zjvbp1qhkm8e" data-node="zjvbp1qhkm8e">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-y6ait5s41xc2" data-node="y6ait5s41xc2">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<div class="fl-col-group fl-node-5d586ae7deff1" data-node="5d586ae7deff1">
+<div class="fl-col fl-node-5d586ae7deff2" data-node="5d586ae7deff2">
+<div class="fl-col-content fl-node-content">
+<div class="fl-module fl-module-heading fl-node-5d586ae7deff3" data-node="5d586ae7deff3">
+<div class="fl-module-content fl-node-content">
+<p>These Terms of Use apply when you view or use the website located at <a href="https://coopercos..com/" target="_blank" rel="noopener noreferrer">Coopercos.com</a> (the “Site”) and all websites associated with the coopercos.com domain. The Site is owned by The Cooper Companies, Inc. (“TCC”). By accessing or using the Site, you signify your agreement to these Terms of Use. If you do not agree to these Terms of Use, you may not access or use the Site.</p>
+<p><em>These Terms of Use include a release by you of all claims for damage against us that may arise out of your use of this Site. By using this site, you agreeing to this release</em>.</p>
+<h2>Privacy Policy</h2>
+<p>TCC respects the privacy of its Site users. Please refer to TCC’s <a href="https://www.coopercos.com/privacy-policy/">Privacy Policy</a>, which explains our users’ rights with respect to information that we collect on this Site. When you access or use the Site, you signify your agreement to this Privacy Policy.</p>
+<h2>Copyright Notice</h2>
+<p>All materials and information available on the Site are protected by copyright. These materials are owned or controlled by TCC or licensed to TCC by a third party. You may download downloadable materials from the Site, but only for personal, noncommercial and informational purposes. If you download any downloadable materials, you cannot modify them in any way and must abide by all copyright, trademark and other notices in such materials. Except with respect to permissible downloading, you may not copy, display, download, distribute, modify, reproduce, republish or retransmit any information, text or documents contained on this Site, or create any derivative work based on any of the above, without the express written consent of TCC.</p>
+<h2>Trademark Notice</h2>
+<p>The trademarks, service marks, trade names, trade dress and products names featured on this Site are trademarks of TCC, its affiliates, related companies or its licensors unless otherwise noted. TCC’s trademarks may be used publicly only with permission. Fair use requires proper acknowledgment.</p>
+<h2>No Links</h2>
+<p>You may not provide links to images or text on the Site without the express written consent of TCC.  Upon our request, you will promptly remove any such link.</p>
+<h2>Links to Other Sites and/or Materials</h2>
+<p>We may post links to other website(s) on the Site. These links are provided as a courtesy to our Site visitors. TCC has no control over linked websites or the materials, information, goods or services available on these websites. TCC is not responsible for and does not endorse or warrant any materials, information, goods or services available through any linked websites or any privacy or other practices of such websites. TCC may terminate any link at any time.</p>
+<h2>Forward-Looking Statements</h2>
+<p>This Site contains “forward-looking statements” as defined by the Private Securities Litigation Reform Act of 1995. Statements relating to plans, prospects, goals, strategies, future actions, events or performance and other statements which are other than statements of historical fact, including all statements regarding anticipated growth in our revenue, planned product launches and expected results of operations and integration of any acquisition are forward-looking. To identify these statements look for words like “believes,” “expects,” “may,” “will,” “should,” “could,” “seeks,” “intends,” “plans,” “estimates” or “anticipates” and similar words or phrases. Forward-looking statements necessarily depend on assumptions, data or methods that may be incorrect or imprecise and are subject to risks and uncertainties.</p>
+<p>Factors that could cause our actual results and future actions to differ materially from those described in forward-looking statements include (without limitation): adverse changes in global or regional general business, political and economic conditions due to the current global economic downturn, including the impact of continuing uncertainty and instability of U.S. and international credit markets that may adversely affect our company’s or our customers’ ability to meet future liquidity needs; limitations on sales following new product introductions due to poor market acceptance; new competitors, product innovations or technologies; a major disruption in the operations of our manufacturing, research and development or distribution facilities due to technological problems, natural disasters or other causes; disruptions in supplies of raw materials, particularly components used to manufacture our silicone hydrogel lenses; the impact of acquisitions or divestitures on revenues, earnings or margins; losses arising for pending or future litigation or product recalls; interest rate and foreign currency exchange rate fluctuations; the requirement to provide for a significant liability or to write off, or accelerate depreciation on, a significant asset, including impaired goodwill as a result of declines in the price of our common stock or other events; changes in U.S. and foreign government regulation of the retail optical industry and of the healthcare industry generally; changes in tax laws or their interpretation and changes in effective tax rates; changes in our expected utilization of recognized net operating loss carry forwards and other events described in our Securities and Exchange Commission filings, including the “Business” and “Risk Factors” sections in the our most recent Annual Report on Form 10-K, as such Risk Factors may be updated in quarterly filings.</p>
+<p>We caution investors that forward-looking statements reflect its analysis only on their stated date. We disclaim any intent to update them except as required by law.</p>
+<h2>Accuracy of Information</h2>
+<p>TCC strives to accurately describe its products and provide updated information on the Site. However, TCC does not warrant that product descriptions and information on the Site are complete or free from error.</p>
+<h2>No Medical Advice</h2>
+<p>This Site provides general information about our subsidiaries’ eye care and women’s health devices and products. It is not intended to provide medical advice. Consumers and patients should always consult a medical professional for information and advice on the treatment of a specific condition or for any other medical need.</p>
+<h2>Practitioner Finder Terms &amp; Conditions</h2>
+<p>The “Practitioner” link is designed to help patients find an eye care professional that prescribes CooperVision, Inc.’s products. Although we try to ensure that the information in this locator is accurate, all information is supplied “AS IS” and without warranty of any kind. TCC makes no guarantees or representations regarding the quality of service provided by those practitioners and expressly disclaims all liability for the actions of the practitioners listed on this Site.</p>
+<h2>Prohibited Actions</h2>
+<p>You agree not to interrupt or attempt to interrupt the operation of the Site. You may not use any automated tool to mine the Site for information or to fill out forms on the Site. The web and email servers maintained by TCC and the emails associated with the domain cannot be used for the delivery of unsolicited bulk email or for any malicious or unlawful purpose. We reserve the right to limit or deny a user’s access to the Site or take other appropriate action if a user violates these Terms of Use or engages in any activity that violates the rights of any person or entity or which we deem unlawful, offensive, abusive, harmful or malicious. You may only use the Site for lawful purposes. Unauthorized use may result in criminal and/or civil prosecution under Federal, State and local law.</p>
+<h2>Email May Not Be Used to Provide Notice</h2>
+<p>Communications made through the Site’s e-mail and messaging system will not constitute legal notice to TCC or any of its officers, employees, agents or representatives in any situation where notice to TCC is required by contract or any law or regulation.</p>
+<h2>Disclaimer; Limitation of Damages</h2>
+<p>THE SITE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, SECURITY, ACCURACY AND NON-INFRINGEMENT. WITHOUT LIMITING THE FOREGOING, COOPERVISION MAKES NO WARRANTY OR REPRESENTATION THAT ACCESS TO OR OPERATION OF THE SITE WILL BE UNINTERRUPTED OR ERROR FREE. YOU ASSUME FULL RESPONSIBILITY AND RISK OF LOSS RESULTING FROM YOUR DOWNLOADING AND/OR USE OF FILES, INFORMATION, CONTENT OR OTHER MATERIAL OBTAINED FROM THE SITE.</p>
+<p>To the extent permitted by law, TCC will not be liable for any indirect, special, incidental, consequential, or punitive damages of any kind related to the Site whether as a breach of contract, tortious behavior, negligence or any other cause of action, even if TCC has been advised of the possibility of such damages.</p>
+<h2>Modification of Terms of Use</h2>
+<p>We can amend these Terms of Use at any time and will update these Terms of Use in the event of any such amendments. If you continue to use the Site, you signify your agreement to our revisions to these Terms of Use.</p>
+<h2>Applicable Laws; Venue</h2>
+<p>These Terms of Use and your use of the Site are governed by the federal laws of the United States of America and the laws of the State of California. Any action related to this Site will be filed only in the appropriate state or federal court located within the State of California By using this Site, you signify your consent to the jurisdiction of the state and/or federal courts of the State of California.</p>
+<h2>Suggestions and Feedback</h2>
+<p>TCC welcomes your feedback and inquiries. If you have any comments or questions, please <a href="https://www.coopercos.com/contact/">contact us</a>.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>	</div><!-- .fl-post-content -->
+	
+</article>
+
+<!-- .fl-post -->
+		</div>
+	</div>
+</div>
+
+
+	</div><!-- .fl-page-content -->
+	<footer class="fl-builder-content fl-builder-content-11 fl-builder-global-templates-locked" data-post-id="11" data-type="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-0m61l28oetiw fl-row-default-height fl-row-align-center fl-visible-mobile mobile-toggle" data-node="0m61l28oetiw">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-kv4ryln2oitu" data-node="kv4ryln2oitu">
+			<div class="fl-col fl-node-zgl4sfk765tv" data-node="zgl4sfk765tv">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-pp-offcanvas-content fl-node-6yumtxaog10h mobile-nav-menu" data-node="6yumtxaog10h">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-offcanvas-content-wrap">
+	<div class="pp-offcanvas-content pp-offcanvas-content-6yumtxaog10h pp-offcanvas-content-bottom pp-offcanvas-slide" data-id="6yumtxaog10h">
+					<div class="pp-offcanvas-header">
+				<div class="pp-offcanvas-close" role="button" aria-label="Close Off Canvas Panel" tabindex="0">
+					<span class="fa fa-times" aria-hidden="true"></span>
+				</div>
+			</div>
+				<div class="pp-offcanvas-body">
+			<div class="pp-offcanvas-content-inner">
+				<link rel='stylesheet' id='fl-builder-layout-203-css' href='https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/203-layout-partial.css?ver=3f3efb6c6739d1b65b4663deed49cfeb' media='all' />
+<div class="fl-builder-content fl-builder-content-203 fl-builder-template fl-builder-row-template fl-builder-global-templates-locked" data-post-id="203"><div class="fl-row fl-row-full-width fl-row-bg-none fl-node-lmebjnifugqv fl-row-default-height fl-row-align-center" data-node="lmebjnifugqv">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-vot8h2jzi67b" data-node="vot8h2jzi67b">
+			<div class="fl-col fl-node-nvlqfc6ep4ux fl-col-has-cols" data-node="nvlqfc6ep4ux">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-html fl-node-f9qzaubw2xm7" data-node="f9qzaubw2xm7">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	<a href="/"><img decoding="async" src="/wp-content/uploads/2022/05/cooper-p.png" class="main-logo" alt="CooperCompanies" /></a></div>
+	</div>
+</div>
+<div class="fl-module fl-module-pp-search-form fl-node-ro0y9t8ieu4l" data-node="ro0y9t8ieu4l">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-search-form-wrap pp-search-form--style-classic pp-search-form--button-type-icon">
+	<form class="pp-search-form" role="search" action="https://www.coopercos.com" method="get" aria-label="Search form">
+				<div class="pp-search-form__container">
+						<label class="pp-screen-reader-text" for="pp-search-form__input-ro0y9t8ieu4l">
+				Search			</label>
+			<input id="pp-search-form__input-ro0y9t8ieu4l"  placeholder="Search" class="pp-search-form__input" type="search" name="s" title="Search" value="">
+									<button class="pp-search-form__submit" type="submit">
+														<i class="fa fa-search" aria-hidden="true"></i>
+					<span class="pp-screen-reader-text">Search</span>
+												</button>
+								</div>
+			</form>
+</div>	</div>
+</div>
+<div class="fl-module fl-module-pp-sliding-menus fl-node-zqdopr0jy4la mobile-nav" data-node="zqdopr0jy4la">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-sliding-menus pp-sliding-menu-effect-overlay pp-sliding-menu-direction-left">
+	<ul id="menu-1-zqdopr0jy4la" class="pp-slide-menu__menu"><li id="menu-item-2530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2530 pp-slide-menu-item pp-slide-menu-item-has-children"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/our-company/" class="pp-slide-menu-item-link">Our Company</a>
+<ul class="sub-menu pp-slide-menu-sub-menu">
+	<li id="menu-item-2502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2502 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/our-company/" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Who We Are</a></li>
+	<li id="menu-item-266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="/our-company/#leadership" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Leadership</a></li>
+	<li id="menu-item-267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-267 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="/our-company/#history" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">History</a></li>
+	<li id="menu-item-2504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2504 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/coopervision/" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">CooperVision</a></li>
+	<li id="menu-item-2503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2503 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/coopersurgical/" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">CooperSurgical</a></li>
+</ul>
+</li>
+<li id="menu-item-3853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3853 pp-slide-menu-item pp-slide-menu-item-has-children"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/our-impact/" class="pp-slide-menu-item-link">Our Impact</a>
+<ul class="sub-menu pp-slide-menu-sub-menu">
+	<li id="menu-item-3854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3854 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/social-environmental-impact/" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Social &#038; Environmental Impact</a></li>
+	<li id="menu-item-3855" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3855 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/inclusion-diversity/" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Inclusion &#038; Diversity</a></li>
+	<li id="menu-item-3856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3856 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/esg/" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">ESG Reporting</a></li>
+</ul>
+</li>
+<li id="menu-item-2509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2509 pp-slide-menu-item pp-slide-menu-item-has-children"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/our-stories/" class="pp-slide-menu-item-link">Our Stories</a>
+<ul class="sub-menu pp-slide-menu-sub-menu">
+	<li id="menu-item-2525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2525 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/our-stories/" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Stories</a></li>
+	<li id="menu-item-275" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-275 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a target="_blank" rel="noopener" href="https://investor.coopercos.com/press-releases" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Press Releases</a></li>
+</ul>
+</li>
+<li id="menu-item-276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-276 pp-slide-menu-item pp-slide-menu-item-has-children"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a target="_blank" rel="noopener" href="https://investor.coopercos.com/press-releases" class="pp-slide-menu-item-link">Investors</a>
+<ul class="sub-menu pp-slide-menu-sub-menu">
+	<li id="menu-item-277" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-277 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a target="_blank" rel="noopener" href="https://investor.coopercos.com/" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">IR Communications</a></li>
+	<li id="menu-item-278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-278 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a target="_blank" rel="noopener" href="https://investor.coopercos.com/financial-information" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Financial Information</a></li>
+	<li id="menu-item-279" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-279 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a target="_blank" rel="noopener" href="https://investor.coopercos.com/stock-information" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Stock Information</a></li>
+	<li id="menu-item-280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-280 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a target="_blank" rel="noopener" href="https://investor.coopercos.com/corporate-governance" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Corporate Governance</a></li>
+</ul>
+</li>
+<li id="menu-item-2510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2510 pp-slide-menu-item pp-slide-menu-item-has-children"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/careers/" class="pp-slide-menu-item-link">Careers</a>
+<ul class="sub-menu pp-slide-menu-sub-menu">
+	<li id="menu-item-2526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2526 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="https://www.coopercos.com/careers/" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Working at Cooper</a></li>
+	<li id="menu-item-282" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="/careers/#apply" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Apply</a></li>
+	<li id="menu-item-2582" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2582 pp-slide-menu-item"><span class="pp-slide-menu-arrow"><span aria-hidden="true"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 512"><path fill="currentColor" d="M166.9 264.5l-117.8 116c-4.7 4.7-12.3 4.7-17 0l-7.1-7.1c-4.7-4.7-4.7-12.3 0-17L127.3 256 25.1 155.6c-4.7-4.7-4.7-12.3 0-17l7.1-7.1c4.7-4.7 12.3-4.7 17 0l117.8 116c4.6 4.7 4.6 12.3-.1 17z"></path></svg></span></span><a href="/careers/#global-internship-program" class="pp-slide-menu-item-link pp-slide-menu-sub-item-link">Global Internship Program</a></li>
+</ul>
+</li>
+</ul></div>
+	</div>
+</div>
+
+<div class="fl-col-group fl-node-uaxienr0yqmc fl-col-group-nested" data-node="uaxienr0yqmc">
+			<div class="fl-col fl-node-tpramiwu28s5" data-node="tpramiwu28s5">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-pp-social-icons fl-node-jlmt9fz34o6h social-backgrond" data-node="jlmt9fz34o6h">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="pp-social-icons pp-social-icons-horizontal">
+	<span class="pp-social-icon" itemscope itemtype="https://schema.org/Organization">
+		<link itemprop="url" href="https://www.coopercos.com">
+		<a itemprop="sameAs" href="https://www.linkedin.com/company/thecoopercompanies/" target="_blank" title="" aria-label="" role="button" rel="noopener noreferrer external" >
+							<i class="fab fa-linkedin-in"></i>
+					</a>
+	</span>
+		<span class="pp-social-icon" itemscope itemtype="https://schema.org/Organization">
+		<link itemprop="url" href="https://www.coopercos.com">
+		<a itemprop="sameAs" href="/contact" target="_self" title="Email" aria-label="Email" role="button">
+							<i class="fas fa-envelope"></i>
+					</a>
+	</span>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-j1h8tpdocbv3 mobile-footer" data-node="j1h8tpdocbv3">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>© 2022The Cooper Companies Inc. All Rights Reserved. | <a href="/privacy-policy">Privacy Policy</a> |  [geoip-content region="CA, VA" ]<a href="/cookie-policy">Do Not Sell or Share My Personal Information</a> | [/geoip-content]<a href="/terms-of-use/">Terms of Use</a> | <a href="/wp-content/uploads/2022/05/MSA-Statement-FY21-JO-CW-JW-25-April-2022-Execution.docx.pdf" target="_blank" rel="noopener">Legal and Modern Slavery Act</a> | <a href="/sitemap">Sitemap</a></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-hfn2bmpku9vz" data-node="hfn2bmpku9vz">
+			<div class="fl-col fl-node-o09md1nck4b8" data-node="o09md1nck4b8">
+	<div class="fl-col-content fl-node-content"></div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>			</div>
+		</div>
+	</div>
+
+	<div class="pp-offcanvas-toggle-wrap">
+					<a href="javascript:void(0)" class="pp-offcanvas-toggle pp-offcanvas-toggle-hamburger pp-hamburger-after" role="button">
+				<span class="pp-hamburger-box">
+					<span class="pp-hamburger-inner"></span>
+				</span>
+							</a>
+			</div>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5c787efc7080f fl-row-default-height fl-row-align-center fl-visible-desktop fl-visible-large fl-visible-medium" data-node="5c787efc7080f">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5c787efc7081a" data-node="5c787efc7081a">
+			<div class="fl-col fl-node-5c787efc7081b" data-node="5c787efc7081b">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5c787efc7081c fl-visible-desktop fl-visible-large fl-visible-medium footer-copy" data-node="5c787efc7081c">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p>© 2024 The Cooper Companies, Inc. All Rights Reserved. | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-use">Terms of Use</a> | <a href="https://www.coopercos.com/california-declaration-of-compliance/">California Declaration of Compliance</a> | <a href="https://www.coopercos.com/wp-content/uploads/2024/06/MSA-Statement-April-2024.pdf" target="_blank" rel="noopener">Legal and Modern Slavery Act</a> | <a href="/sitemap">Sitemap</a></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-ge12s08ovad6 fl-col-small" data-node="ge12s08ovad6">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-1ozy96x0hq3j contact-link" data-node="1ozy96x0hq3j">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><a href="/contact">Contact Us</a></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-6hq9tzekj3a0 fl-col-small" data-node="6hq9tzekj3a0">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-pp-social-icons fl-node-osn8rtzu9lwy fl-visible-desktop fl-visible-large fl-visible-medium" data-node="osn8rtzu9lwy">
+	<div class="fl-module-content fl-node-content">
+		
+<div class="pp-social-icons pp-social-icons-horizontal">
+	<span class="pp-social-icon" itemscope itemtype="https://schema.org/Organization">
+		<link itemprop="url" href="https://www.coopercos.com">
+		<a itemprop="sameAs" href="https://www.linkedin.com/company/thecoopercompanies/" target="_blank" title="" aria-label="" role="button" rel="noopener noreferrer external" >
+							<i class="fab fa-linkedin-in"></i>
+					</a>
+	</span>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</footer><div class="uabb-js-breakpoint" style="display: none;"></div>	</div><!-- .fl-page -->
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div class="cmplz-cookiebanner cmplz-hidden banner-1 bottom-right-view-preferences optout cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optout" aria-describedby="cmplz-message-1-optout">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optout">Manage Cookie Consent</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="Close dialog">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optout">To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.</div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<details class="cmplz-category cmplz-functional" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Functional</span>
+							<span class='cmplz-always-active'>
+								<span class="cmplz-banner-checkbox">
+									<input type="checkbox"
+										   id="cmplz-functional-optout"
+										   data-category="cmplz_functional"
+										   class="cmplz-consent-checkbox cmplz-functional"
+										   size="40"
+										   value="1"/>
+									<label class="cmplz-label" for="cmplz-functional-optout" tabindex="0"><span class="screen-reader-text">Functional</span></label>
+								</span>
+								Always active							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-functional">The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-preferences" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Preferences</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-preferences-optout"
+									   data-category="cmplz_preferences"
+									   class="cmplz-consent-checkbox cmplz-preferences"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-preferences-optout" tabindex="0"><span class="screen-reader-text">Preferences</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-preferences">The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.</span>
+				</div>
+			</details>
+
+			<details class="cmplz-category cmplz-statistics" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Statistics</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-statistics-optout"
+									   data-category="cmplz_statistics"
+									   class="cmplz-consent-checkbox cmplz-statistics"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-statistics-optout" tabindex="0"><span class="screen-reader-text">Statistics</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-statistics">The technical storage or access that is used exclusively for statistical purposes.</span>
+					<span class="cmplz-description-statistics-anonymous">The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.</span>
+				</div>
+			</details>
+			<details class="cmplz-category cmplz-marketing" >
+				<summary>
+						<span class="cmplz-category-header">
+							<span class="cmplz-category-title">Marketing</span>
+							<span class="cmplz-banner-checkbox">
+								<input type="checkbox"
+									   id="cmplz-marketing-optout"
+									   data-category="cmplz_marketing"
+									   class="cmplz-consent-checkbox cmplz-marketing"
+									   size="40"
+									   value="1"/>
+								<label class="cmplz-label" for="cmplz-marketing-optout" tabindex="0"><span class="screen-reader-text">Marketing</span></label>
+							</span>
+							<span class="cmplz-icon cmplz-open">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"  height="18" ><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+							</span>
+						</span>
+				</summary>
+				<div class="cmplz-description">
+					<span class="cmplz-description-marketing">The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.</span>
+				</div>
+			</details>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Manage options</a>
+		<a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Manage services</a>
+		<a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Manage {vendor_count} vendors</a>
+		<a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/">Read more about these purposes</a>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accept</button>
+		<button class="cmplz-btn cmplz-deny">Deny</button>
+		<button class="cmplz-btn cmplz-view-preferences">View preferences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Save preferences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">View preferences</a>
+			</div>
+
+	<div class="cmplz-links cmplz-documents">
+		<a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a>
+		<a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a>
+			</div>
+
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1">Manage consent</button>
+
+</div>	<script>
+        function addEvent(event, selector, callback, context) {
+            document.addEventListener(event, e => {
+                if ( e.target.closest(selector) ) {
+                    callback(e);
+                }
+            });
+        }
+        addEvent('click', '.cmplz-show-banner', function(){
+            document.querySelectorAll('.cmplz-manage-consent').forEach(obj => {
+                obj.click();
+            });
+        });
+	</script>
+		<script>
+        jQuery(document).ready(function ($) {
+            document.addEventListener('cmplzRevoke', function (e) {
+                cmplzClearAllCookies();
+            });
+			    document.addEventListener('click', e => {
+						if ( e.target.closest('.cmplz-revoke-custom-shd') ) {
+					cmplzClearAllCookies();
+						}
+					});
+
+            /**
+             * Clear all cookies
+             */
+            var excludeString = 'wp';
+            function cmplzClearAllCookies(){
+                (function () {
+                    var cookies = document.cookie.split("; ");
+                    for (var c = 0; c < cookies.length; c++) {
+                        var d = window.location.hostname.split(".");
+                        while (d.length > 0) {
+                            var cookieName = cookies[c].split(";")[0].split("=")[0];
+                            var cookieBase = encodeURIComponent(cookieName) + '=; expires=Thu, 01-Jan-1970 00:00:01 GMT; domain=' + d.join('.') + ' ;path=';
+                            var p = location.pathname.split('/');
+                            if ( cookieName.indexOf(excludeString) !==-1 ) {
+                                document.cookie = cookieBase + '/';
+                                while (p.length > 0) {
+                                    document.cookie = cookieBase + p.join('/');
+                                    p.pop();
+                                };
+                            }
+
+                            d.shift();
+                        }
+                    }
+                })();
+            }
+
+        });
+	</script>
+	    <div class="fl-node-aq5x07jebl1v brex-mobile-menu-container-node">
+        <div class="brex-mobile-menu-container brex-mobile-menu-left">
+            <ul id="menu-main-nav-left" class="brex-mobile-menu-inner"><li id="menu-item-2517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2517"><a href="https://www.coopercos.com/our-company/">Who We Are</a></li>
+<li id="menu-item-3862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="https://www.coopercos.com/our-impact/">Our Impact</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2519"><a href="https://www.coopercos.com/our-stories/">Our Stories</a></li>
+</ul>        </div>
+    </div>
+        <div class="fl-node-o23bzvnhuxke brex-mobile-menu-container-node">
+        <div class="brex-mobile-menu-container brex-mobile-menu-left">
+            <ul id="menu-main-nav-left-1" class="brex-mobile-menu-inner"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2517"><a href="https://www.coopercos.com/our-company/">Who We Are</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3862"><a href="https://www.coopercos.com/our-impact/">Our Impact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2519"><a href="https://www.coopercos.com/our-stories/">Our Stories</a></li>
+</ul>        </div>
+    </div>
+    <script src="https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/1660-layout.js?ver=7f2596deabf4115819d5149d136c5bb8" id="fl-builder-layout-1660-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/plugins/bb-plugin/js/jquery.imagesloaded.min.js?ver=2.8.3.3" id="imagesloaded-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.8.3.3" id="jquery-throttle-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/d1b75c25c4d69a9f81a3d6d0b792cbf8-layout-bundle.js?ver=2.8.3.3-1.4.10" id="fl-builder-layout-bundle-d1b75c25c4d69a9f81a3d6d0b792cbf8-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.8.3.3" id="jquery-magnificpopup-js"></script>
+<script id="fl-automator-js-extra">
+var themeopts = {"medium_breakpoint":"992","mobile_breakpoint":"768","scrollTopPosition":"800"};
+</script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.16" id="fl-automator-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/themes/bb-theme-child/js/pop-up.js?ver=1" id="pop-up-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/themes/bb-theme-child/js/page-parallax.js?ver=1" id="page-parallax-js"></script>
+<script id="cmplz-cookiebanner-js-extra">
+var complianz = {"prefix":"cmplz_","user_banner_id":"1","set_cookies":[],"block_ajax_content":"0","banner_version":"39","version":"7.1.0","store_consent":"","do_not_track_enabled":"","consenttype":"optout","region":"us","geoip":"","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https:\/\/www.coopercos.com\/wp-json\/complianz\/v1\/","locale":"lang=en&locale=en_US","set_cookies_on_root":"0","cookie_domain":"","current_policy_id":"33","cookie_path":"\/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"<div class=\"cmplz-blocked-content-notice-body\">Click 'I agree' to enable {service}\u00a0<div class=\"cmplz-links\"><a href=\"#\" class=\"cmplz-link cookie-statement\">{title}<\/a><\/div><\/div><button class=\"cmplz-accept-service\">I agree<\/button>","css_file":"https:\/\/www.coopercos.com\/wp-content\/uploads\/complianz\/css\/banner-{banner_id}-{type}.css?v=39","page_links":{"us":{"cookie-statement":{"title":"","url":"https:\/\/www.coopercos.com\/"},"privacy-statement":{"title":"Privacy Policy","url":"https:\/\/www.coopercos.com\/privacy-policy\/"}}},"tm_categories":"1","forceEnableStats":"","preview":"","clean_cookies":"1","aria_label":"Click button to enable {service}"};
+</script>
+<script defer src="https://150176340.v2.pressablecdn.com/wp-content/plugins/complianz-gdpr/cookiebanner/js/complianz.min.js?ver=1717401351" id="cmplz-cookiebanner-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/285-layout-partial.js?ver=741f95799dfbc995991093c380a2035c" id="fl-builder-layout-285-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/288-layout-partial.js?ver=996792fc5d88313e995e4e2f73b2817f" id="fl-builder-layout-288-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/291-layout-partial.js?ver=5c6a68aab13e40eb20e780e19b7c3b95" id="fl-builder-layout-291-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/294-layout-partial.js?ver=dafcedd4e236bf895cee0d2cd1f1497b" id="fl-builder-layout-294-js"></script>
+<script src="https://150176340.v2.pressablecdn.com/wp-content/uploads/bb-plugin/cache/203-layout-partial.js?ver=3f3efb6c6739d1b65b4663deed49cfeb" id="fl-builder-layout-203-js"></script>
+		<script type="text/javascript">
+			(function() {
+			var t   = document.createElement( 'script' );
+			t.type  = 'text/javascript';
+			t.async = true;
+			t.id    = 'gauges-tracker';
+			t.setAttribute( 'data-site-id', '64d4df0333a83c25d1d6455a' );
+			t.src = '//secure.gaug.es/track.js';
+			var s = document.getElementsByTagName( 'script' )[0];
+			s.parentNode.insertBefore( t, s );
+			})();
+		</script>
+		<script>/*!
+ * Bowser - a browser detector
+ * https://github.com/ded/bowser
+ * MIT License | (c) Dustin Diaz 2015
+ */!function(name,definition){if(typeof module!='undefined'&&module.exports)module.exports=definition()
+else if(typeof define=='function'&&define.amd)define(name,definition)
+else this[name]=definition()}('bowser',function(){var t=true
+function detect(ua){function getFirstMatch(regex){var match=ua.match(regex);return(match&&match.length>1&&match[1])||'';}
+function getSecondMatch(regex){var match=ua.match(regex);return(match&&match.length>1&&match[2])||'';}
+var iosdevice=getFirstMatch(/(ipod|iphone|ipad)/i).toLowerCase(),likeAndroid=/like android/i.test(ua),android=!likeAndroid&&/android/i.test(ua),nexusMobile=/nexus\s*[0-6]\s*/i.test(ua),nexusTablet=!nexusMobile&&/nexus\s*[0-9]+/i.test(ua),chromeos=/CrOS/.test(ua),silk=/silk/i.test(ua),sailfish=/sailfish/i.test(ua),tizen=/tizen/i.test(ua),webos=/(web|hpw)os/i.test(ua),windowsphone=/windows phone/i.test(ua),windows=!windowsphone&&/windows/i.test(ua),mac=!iosdevice&&!silk&&/macintosh/i.test(ua),linux=!android&&!sailfish&&!tizen&&!webos&&/linux/i.test(ua),edgeVersion=getFirstMatch(/edge\/(\d+(\.\d+)?)/i),versionIdentifier=getFirstMatch(/version\/(\d+(\.\d+)?)/i),tablet=/tablet/i.test(ua),mobile=!tablet&&/[^-]mobi/i.test(ua),xbox=/xbox/i.test(ua),result
+if(/opera|opr|opios/i.test(ua)){result={name:'Opera',opera:t,version:versionIdentifier||getFirstMatch(/(?:opera|opr|opios)[\s\/](\d+(\.\d+)?)/i)}}
+else if(/coast/i.test(ua)){result={name:'Opera Coast',coast:t,version:versionIdentifier||getFirstMatch(/(?:coast)[\s\/](\d+(\.\d+)?)/i)}}
+else if(/yabrowser/i.test(ua)){result={name:'Yandex Browser',yandexbrowser:t,version:versionIdentifier||getFirstMatch(/(?:yabrowser)[\s\/](\d+(\.\d+)?)/i)}}
+else if(/ucbrowser/i.test(ua)){result={name:'UC Browser',ucbrowser:t,version:getFirstMatch(/(?:ucbrowser)[\s\/](\d+(?:\.\d+)+)/i)}}
+else if(/mxios/i.test(ua)){result={name:'Maxthon',maxthon:t,version:getFirstMatch(/(?:mxios)[\s\/](\d+(?:\.\d+)+)/i)}}
+else if(/epiphany/i.test(ua)){result={name:'Epiphany',epiphany:t,version:getFirstMatch(/(?:epiphany)[\s\/](\d+(?:\.\d+)+)/i)}}
+else if(/puffin/i.test(ua)){result={name:'Puffin',puffin:t,version:getFirstMatch(/(?:puffin)[\s\/](\d+(?:\.\d+)?)/i)}}
+else if(/sleipnir/i.test(ua)){result={name:'Sleipnir',sleipnir:t,version:getFirstMatch(/(?:sleipnir)[\s\/](\d+(?:\.\d+)+)/i)}}
+else if(/k-meleon/i.test(ua)){result={name:'K-Meleon',kMeleon:t,version:getFirstMatch(/(?:k-meleon)[\s\/](\d+(?:\.\d+)+)/i)}}
+else if(windowsphone){result={name:'Windows Phone',windowsphone:t}
+if(edgeVersion){result.msedge=t
+result.version=edgeVersion}
+else{result.msie=t
+result.version=getFirstMatch(/iemobile\/(\d+(\.\d+)?)/i)}}
+else if(/msie|trident/i.test(ua)){result={name:'Internet Explorer',msie:t,version:getFirstMatch(/(?:msie |rv:)(\d+(\.\d+)?)/i)}}else if(chromeos){result={name:'Chrome',chromeos:t,chromeBook:t,chrome:t,version:getFirstMatch(/(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i)}}else if(/chrome.+? edge/i.test(ua)){result={name:'Microsoft Edge',msedge:t,version:edgeVersion}}
+else if(/vivaldi/i.test(ua)){result={name:'Vivaldi',vivaldi:t,version:getFirstMatch(/vivaldi\/(\d+(\.\d+)?)/i)||versionIdentifier}}
+else if(sailfish){result={name:'Sailfish',sailfish:t,version:getFirstMatch(/sailfish\s?browser\/(\d+(\.\d+)?)/i)}}
+else if(/seamonkey\//i.test(ua)){result={name:'SeaMonkey',seamonkey:t,version:getFirstMatch(/seamonkey\/(\d+(\.\d+)?)/i)}}
+else if(/firefox|iceweasel|fxios/i.test(ua)){result={name:'Firefox',firefox:t,version:getFirstMatch(/(?:firefox|iceweasel|fxios)[ \/](\d+(\.\d+)?)/i)}
+if(/\((mobile|tablet);[^\)]*rv:[\d\.]+\)/i.test(ua)){result.firefoxos=t}}
+else if(silk){result={name:'Amazon Silk',silk:t,version:getFirstMatch(/silk\/(\d+(\.\d+)?)/i)}}
+else if(/phantom/i.test(ua)){result={name:'PhantomJS',phantom:t,version:getFirstMatch(/phantomjs\/(\d+(\.\d+)?)/i)}}
+else if(/slimerjs/i.test(ua)){result={name:'SlimerJS',slimer:t,version:getFirstMatch(/slimerjs\/(\d+(\.\d+)?)/i)}}
+else if(/blackberry|\bbb\d+/i.test(ua)||/rim\stablet/i.test(ua)){result={name:'BlackBerry',blackberry:t,version:versionIdentifier||getFirstMatch(/blackberry[\d]+\/(\d+(\.\d+)?)/i)}}
+else if(webos){result={name:'WebOS',webos:t,version:versionIdentifier||getFirstMatch(/w(?:eb)?osbrowser\/(\d+(\.\d+)?)/i)};if(/touchpad\//i.test(ua)){result.touchpad=t;}}
+else if(/bada/i.test(ua)){result={name:'Bada',bada:t,version:getFirstMatch(/dolfin\/(\d+(\.\d+)?)/i)};}
+else if(tizen){result={name:'Tizen',tizen:t,version:getFirstMatch(/(?:tizen\s?)?browser\/(\d+(\.\d+)?)/i)||versionIdentifier};}
+else if(/qupzilla/i.test(ua)){result={name:'QupZilla',qupzilla:t,version:getFirstMatch(/(?:qupzilla)[\s\/](\d+(?:\.\d+)+)/i)||versionIdentifier}}
+else if(/chromium/i.test(ua)){result={name:'Chromium',chromium:t,version:getFirstMatch(/(?:chromium)[\s\/](\d+(?:\.\d+)?)/i)||versionIdentifier}}
+else if(/chrome|crios|crmo/i.test(ua)){result={name:'Chrome',chrome:t,version:getFirstMatch(/(?:chrome|crios|crmo)\/(\d+(\.\d+)?)/i)}}
+else if(android){result={name:'Android',version:versionIdentifier}}
+else if(/safari|applewebkit/i.test(ua)){result={name:'Safari',safari:t}
+if(versionIdentifier){result.version=versionIdentifier}}
+else if(iosdevice){result={name:iosdevice=='iphone'?'iPhone':iosdevice=='ipad'?'iPad':'iPod'}
+if(versionIdentifier){result.version=versionIdentifier}}
+else if(/googlebot/i.test(ua)){result={name:'Googlebot',googlebot:t,version:getFirstMatch(/googlebot\/(\d+(\.\d+))/i)||versionIdentifier}}
+else{result={name:getFirstMatch(/^(.*)\/(.*) /),version:getSecondMatch(/^(.*)\/(.*) /)};}
+if(!result.msedge&&/(apple)?webkit/i.test(ua)){if(/(apple)?webkit\/537\.36/i.test(ua)){result.name=result.name||"Blink"
+result.blink=t}else{result.name=result.name||"Webkit"
+result.webkit=t}
+if(!result.version&&versionIdentifier){result.version=versionIdentifier}}else if(!result.opera&&/gecko\//i.test(ua)){result.name=result.name||"Gecko"
+result.gecko=t
+result.version=result.version||getFirstMatch(/gecko\/(\d+(\.\d+)?)/i)}
+if(!result.msedge&&(android||result.silk)){result.android=t}else if(iosdevice){result[iosdevice]=t
+result.ios=t}else if(mac){result.mac=t}else if(xbox){result.xbox=t}else if(windows){result.windows=t}else if(linux){result.linux=t}
+var osVersion='';if(result.windowsphone){osVersion=getFirstMatch(/windows phone (?:os)?\s?(\d+(\.\d+)*)/i);}else if(iosdevice){osVersion=getFirstMatch(/os (\d+([_\s]\d+)*) like mac os x/i);osVersion=osVersion.replace(/[_\s]/g,'.');}else if(android){osVersion=getFirstMatch(/android[ \/-](\d+(\.\d+)*)/i);}else if(result.webos){osVersion=getFirstMatch(/(?:web|hpw)os\/(\d+(\.\d+)*)/i);}else if(result.blackberry){osVersion=getFirstMatch(/rim\stablet\sos\s(\d+(\.\d+)*)/i);}else if(result.bada){osVersion=getFirstMatch(/bada\/(\d+(\.\d+)*)/i);}else if(result.tizen){osVersion=getFirstMatch(/tizen[\/\s](\d+(\.\d+)*)/i);}
+if(osVersion){result.osversion=osVersion;}
+var osMajorVersion=osVersion.split('.')[0];if(tablet||nexusTablet||iosdevice=='ipad'||(android&&(osMajorVersion==3||(osMajorVersion>=4&&!mobile)))||result.silk){result.tablet=t}else if(mobile||iosdevice=='iphone'||iosdevice=='ipod'||android||nexusMobile||result.blackberry||result.webos||result.bada){result.mobile=t}
+if(result.msedge||(result.msie&&result.version>=10)||(result.yandexbrowser&&result.version>=15)||(result.vivaldi&&result.version>=1.0)||(result.chrome&&result.version>=20)||(result.firefox&&result.version>=20.0)||(result.safari&&result.version>=6)||(result.opera&&result.version>=10.0)||(result.ios&&result.osversion&&result.osversion.split(".")[0]>=6)||(result.blackberry&&result.version>=10.1)||(result.chromium&&result.version>=20)){result.a=t;}
+else if((result.msie&&result.version<10)||(result.chrome&&result.version<20)||(result.firefox&&result.version<20.0)||(result.safari&&result.version<6)||(result.opera&&result.version<10.0)||(result.ios&&result.osversion&&result.osversion.split(".")[0]<6)||(result.chromium&&result.version<20)){result.c=t}else result.x=t
+return result}
+var bowser=detect(typeof navigator!=='undefined'?navigator.userAgent:'')
+bowser.test=function(browserList){for(var i=0;i<browserList.length;++i){var browserItem=browserList[i];if(typeof browserItem==='string'){if(browserItem in bowser){return true;}}}
+return false;}
+function getVersionPrecision(version){return version.split(".").length;}
+function map(arr,iterator){var result=[],i;if(Array.prototype.map){return Array.prototype.map.call(arr,iterator);}
+for(i=0;i<arr.length;i++){result.push(iterator(arr[i]));}
+return result;}
+function compareVersions(versions){var precision=Math.max(getVersionPrecision(versions[0]),getVersionPrecision(versions[1]));var chunks=map(versions,function(version){var delta=precision-getVersionPrecision(version);version=version+new Array(delta+1).join(".0");return map(version.split("."),function(chunk){return new Array(20-chunk.length).join("0")+chunk;}).reverse();});while(--precision>=0){if(chunks[0][precision]>chunks[1][precision]){return 1;}
+else if(chunks[0][precision]===chunks[1][precision]){if(precision===0){return 0;}}
+else{return-1;}}}
+function isUnsupportedBrowser(minVersions,strictMode,ua){var _bowser=bowser;if(typeof strictMode==='string'){ua=strictMode;strictMode=void(0);}
+if(strictMode===void(0)){strictMode=false;}
+if(ua){_bowser=detect(ua);}
+var version=""+_bowser.version;for(var browser in minVersions){if(minVersions.hasOwnProperty(browser)){if(_bowser[browser]){return compareVersions([version,minVersions[browser]])<0;}}}
+return strictMode;}
+function check(minVersions,strictMode,ua){return!isUnsupportedBrowser(minVersions,strictMode,ua);}
+bowser.isUnsupportedBrowser=isUnsupportedBrowser;bowser.compareVersions=compareVersions;bowser.check=check;bowser._detect=detect;return bowser});(function($){UABBTrigger={triggerHook:function(hook,args){$('body').trigger('uabb-trigger.'+hook,args);},addHook:function(hook,callback){$('body').on('uabb-trigger.'+hook,callback);},removeHook:function(hook,callback){$('body').off('uabb-trigger.'+hook,callback);},};})(jQuery);jQuery(document).ready(function($){if(typeof bowser!=='undefined'&&bowser!==null){var uabb_browser=bowser.name,uabb_browser_v=bowser.version,uabb_browser_class=uabb_browser.replace(/\s+/g,'-').toLowerCase(),uabb_browser_v_class=uabb_browser_class+parseInt(uabb_browser_v);$('html').addClass(uabb_browser_class).addClass(uabb_browser_v_class);}
+$('.uabb-row-separator').parents('html').css('overflow-x','hidden');});;(function($){FLBuilderMenu=function(settings){this.nodeId=settings.id;this.nodeClass='.fl-node-'+settings.id;this.wrapperClass=this.nodeClass+' .fl-menu';this.type=settings.type;this.mobileToggle=settings.mobile;this.mobileBelowRow=settings.mobileBelowRow;this.mobileFlyout=settings.mobileFlyout;this.breakPoints=settings.breakPoints;this.mobileBreakpoint=settings.mobileBreakpoint;this.currentBrowserWidth=$(window).width();this.postId=settings.postId;this.mobileStacked=settings.mobileStacked;this._initMenu();$(window).on('resize',$.proxy(function(e){var width=$(window).width();if(width!=this.currentBrowserWidth){this.currentBrowserWidth=width;this._initMenu();this._clickOrHover();}},this));$('body').on('click',$.proxy(function(e){if('undefined'!==typeof FLBuilderConfig){return;}
+var activeMobileMenu=$(this.wrapperClass+' .fl-menu-mobile-toggle.fl-active');if(activeMobileMenu.length&&('expanded'!==this.mobileToggle)){$(activeMobileMenu).trigger('click');}
+$(this.wrapperClass).find('.fl-has-submenu').removeClass('focus');$(this.wrapperClass).find('.fl-has-submenu .sub-menu').removeClass('focus');},this));$(this.wrapperClass+' ul.menu > li:last-child').on('focusout',$.proxy(function(e){if($(this.wrapperClass).find('.fl-menu-mobile-toggle').hasClass('fl-active')&&('expanded'!==this.mobileToggle)){if(!$(e.relatedTarget).parent().hasClass('menu-item')){$(this.wrapperClass).find('.fl-menu-mobile-toggle').trigger('click');}}},this));};FLBuilderMenu.prototype={nodeClass:'',wrapperClass:'',type:'',breakPoints:{},$submenus:null,_isMobile:function(){return this.currentBrowserWidth<=this.breakPoints.small?true:false;},_isMedium:function(){return this.currentBrowserWidth<=this.breakPoints.medium?true:false;},_isLarge:function(){return this.currentBrowserWidth<=this.breakPoints.large?true:false;},_isMenuToggle:function(){if(('always'==this.mobileBreakpoint||(this._isMobile()&&'mobile'==this.mobileBreakpoint)||(this._isMedium()&&'medium-mobile'==this.mobileBreakpoint)||(this._isLarge()&&'large-mobile'==this.mobileBreakpoint))&&($(this.wrapperClass).find('.fl-menu-mobile-toggle').is(':visible')||'expanded'==this.mobileToggle)){return true;}
+return false;},_initMenu:function(){this._setupSubmenu();this._menuOnFocus();this._menuOnEscape();this._submenuOnClick();if($(this.nodeClass).length&&this.type=='horizontal'){this._initMegaMenus();}
+if(this._isMenuToggle()||this.type=='accordion'){$(this.wrapperClass).off('mouseenter mouseleave');this._menuOnClick();this._clickOrHover();}else{$(this.wrapperClass).off('click');this._submenuOnRight();this._submenuRowZindexFix();}
+if(this.mobileToggle!='expanded'){this._toggleForMobile();}
+if($(this.wrapperClass).find('.fl-menu-search-item').length){this._toggleMenuSearch();}
+if($(this.wrapperClass).find('.fl-menu-cart-item').length){this._wooUpdateParams();}},_setupSubmenu:function(){$(this.wrapperClass+' ul.sub-menu').each(function(){$(this).closest('li').attr('aria-haspopup','true');});},_menuOnFocus:function(){var cKey=0,isShifted=false;$(this.nodeClass).off('keydown').on('keydown','a',function(e){cKey=e.which;isShifted=e.shiftKey;});$(this.nodeClass).off('focus').on('focus','a',$.proxy(function(e){var $menuItem=$(e.target).parents('.menu-item').first(),$parents=$(e.target).parentsUntil(this.wrapperClass);$('.fl-menu .focus').removeClass('focus');$parents.addClass('focus')
+if(!$menuItem.closest('.fl-has-submenu').hasClass('escaped')){$menuItem.addClass('focus')}
+else{$menuItem.closest('.fl-has-submenu').removeClass('focus escaped')}},this)).on('focusout','a',$.proxy(function(e){var el=$(e.target).parent(),$megaMenu=el.closest('.mega-menu'),$megaLastItem=$megaMenu.find('> .sub-menu > .menu-item:last-child'),$lastItem=el.parents('.fl-has-submenu:last').find('.menu-item:last'),isLastChild=!$megaMenu.length&&el.is($lastItem);if($megaMenu.length){isLastChild=el.is($megaLastItem)||el.is($megaLastItem.find('.menu-item:last-child'));}
+if(isLastChild&&cKey===9&&isShifted){isLastChild=false;cKey=0;isShifted=false;}
+else if(cKey===27){isLastChild=false;}
+if(isLastChild){$(e.target).parentsUntil(this.wrapperClass).removeClass('focus');}},this));},_menuOnEscape:function(){$('body').off('keydown').on('keydown',$.proxy(function(e){if(e.which!==27){return;}
+if($(e.target).closest('.menu-item').length){var activeSubmenu=null,menuItem=$(e.target).closest('.menu-item'),type=menuItem.closest('.fl-menu-accordion').length?'accordion':'horizontal';if('horizontal'===type){if(menuItem.hasClass('fl-has-submenu')&&menuItem.hasClass('focus')){activeSubmenu=menuItem.find('> ul.sub-menu');}
+else{activeSubmenu=menuItem.closest('ul.sub-menu');}
+activeSubmenu.parent().addClass('escaped');activeSubmenu.parent().find('a:first').focus();}
+else{if(menuItem.hasClass('fl-has-submenu')&&'accordion'===type&&menuItem.hasClass('fl-active')){activeSubmenu=menuItem.find('> ul.sub-menu');}
+else{activeSubmenu=menuItem.closest('ul.sub-menu');}
+activeSubmenu.slideUp(400,function(){if(menuItem.hasClass('fl-has-submenu')&&menuItem.hasClass('fl-active')){activeSubmenu.parent().last().find('a:first').focus();}
+else{menuItem.removeClass('focus');menuItem.parents('.menu-item').first().find('a:first').focus();}
+activeSubmenu.parent().last().removeClass('fl-active');});}}
+else{$('.fl-menu').find('li.menu-item.focus').last().removeClass('focus');}},this));},_menuOnClick:function(){$(this.wrapperClass).off().on('click','.fl-has-submenu-container',$.proxy(function(e){var $link=$(e.target).parents('.fl-has-submenu').first(),$subMenu=$link.children('.sub-menu').first(),$href=$link.children('.fl-has-submenu-container').first().find('> a').attr('href'),$subMenuParents=$(e.target).parents('.sub-menu'),$activeParents=$(e.target).parents('.fl-has-submenu.fl-active');if(!$subMenu.is(':visible')||$(e.target).hasClass('fl-menu-toggle')||($subMenu.is(':visible')&&(typeof $href==='undefined'||$href=='#'))){e.preventDefault();}
+else{e.stopPropagation();window.location.href=$href;return;}
+if($(this.wrapperClass).hasClass('fl-menu-accordion-collapse')){if(!$link.parents('.menu-item').hasClass('fl-active')){$('.menu .fl-active',this.wrapperClass).not($link).removeClass('fl-active');}
+else if($link.parents('.menu-item').hasClass('fl-active')&&$link.parent('.sub-menu').length){$('.menu .fl-active',this.wrapperClass).not($link).not($activeParents).removeClass('fl-active');}
+$('.sub-menu',this.wrapperClass).not($subMenu).not($subMenuParents).slideUp('normal');}
+if(!this.mobileStacked&&'horizontal'==this.type&&'expanded'==this.mobileToggle){$(this.wrapperClass).find('.fl-active').not($link).not($activeParents).removeClass('fl-active');}
+else{$subMenu.slideToggle();}
+$link.toggleClass('fl-active');e.stopPropagation();},this));},_submenuOnClick:function(){$(this.wrapperClass+' .sub-menu').off().on('click','a',$.proxy(function(e){if($(e.target).parent().hasClass('focus')){$(e.target).parentsUntil(this.wrapperClass).removeClass('focus');}},this));},_clickOrHover:function(){this.$submenus=this.$submenus||$(this.wrapperClass).find('.sub-menu');var $wrapper=$(this.wrapperClass),$menu=$wrapper.find('.menu');$li=$wrapper.find('.fl-has-submenu');if(this._isMenuToggle()){$li.each(function(el){if(!$(this).hasClass('fl-active')){$(this).find('.sub-menu').fadeOut();}});}else{$li.each(function(el){if(!$(this).hasClass('fl-active')){$(this).find('.sub-menu').css({'display':'','opacity':''});}});}},_submenuOnRight:function(){$(this.wrapperClass).on('mouseenter focus','.fl-has-submenu',$.proxy(function(e){if($(e.currentTarget).find('.sub-menu').length===0){return;}
+var $link=$(e.currentTarget),$parent=$link.parent(),$subMenu=$link.find('.sub-menu'),subMenuWidth=$subMenu.width(),subMenuPos=0,bodyWidth=$('body').width();if($link.closest('.fl-menu-submenu-right').length!==0){$link.addClass('fl-menu-submenu-right');}else if($('body').hasClass('rtl')){subMenuPos=$parent.is('.sub-menu')?$parent.offset().left-subMenuWidth:$link.offset().left-$link.width()-subMenuWidth;if(subMenuPos<=0){$link.addClass('fl-menu-submenu-right');}}else{subMenuPos=$parent.is('.sub-menu')?$parent.offset().left+$parent.width()+subMenuWidth:$link.offset().left+$link.width()+subMenuWidth;if(subMenuPos>bodyWidth){$link.addClass('fl-menu-submenu-right');}}},this)).on('mouseleave','.fl-has-submenu',$.proxy(function(e){$(e.currentTarget).removeClass('fl-menu-submenu-right');},this));},_submenuRowZindexFix:function(e){$(this.wrapperClass).on('mouseenter','ul.menu > .fl-has-submenu',$.proxy(function(e){if($(e.currentTarget).find('.sub-menu').length===0){return;}
+$(this.nodeClass).closest('.fl-row').find('.fl-row-content').css('z-index','10');},this)).on('mouseleave','ul.menu > .fl-has-submenu',$.proxy(function(e){$(this.nodeClass).closest('.fl-row').find('.fl-row-content').css('z-index','');},this));},_toggleForMobile:function(){var $wrapper=null,$menu=null,self=this;if(this._isMenuToggle()){if(this._isMobileBelowRowEnabled()){this._placeMobileMenuBelowRow();$wrapper=$(this.wrapperClass);$menu=$(this.nodeClass+'-clone');$menu.find('ul.menu').show();}
+else{$wrapper=$(this.wrapperClass);$menu=$wrapper.find('.menu');}
+if(!$wrapper.find('.fl-menu-mobile-toggle').hasClass('fl-active')&&!self.mobileFlyout){$menu.css({display:'none'});}
+if(self.mobileFlyout){this._initFlyoutMenu();}
+$wrapper.on('click','.fl-menu-mobile-toggle',function(e){$(this).toggleClass('fl-active');if(self.mobileFlyout){self._toggleFlyoutMenu();}
+else{var targetMenu=null;if(self.mobileBelowRow){targetMenu=$(this).closest('.fl-col').next('.fl-menu-mobile-clone');}else{targetMenu=$(this).closest('.fl-menu').find('ul.menu');}
+if(targetMenu.length){$menu=$(targetMenu);}
+$menu.slideToggle();}
+e.stopPropagation();});$menu.off().on('click','.menu-item > a[href*="#"]:not([href="#"])',function(e){var $href=$(this).attr('href'),$targetID=$href.split('#')[1],element=$('#'+$targetID);if($('body').find(element).length>0){$(this).toggleClass('fl-active');FLBuilderLayout._scrollToElement(element);if(!self._isMenuToggle()){$menu.slideToggle();}}});}
+else{if(this._isMobileBelowRowEnabled()){this._removeMenuFromBelowRow();}
+$wrapper=$(this.wrapperClass),$menu=$wrapper.find('ul.menu');$wrapper.find('.fl-menu-mobile-toggle').removeClass('fl-active');$menu.css({display:''});if(!this._isMobileBelowRowEnabled()){$menu.off('click','.menu-item > a[href*="#"]:not([href="#"])');}
+if(this.mobileFlyout&&$wrapper.find('.fl-menu-mobile-flyout').length>0){$('body').css('margin','');$('.fl-builder-ui-pinned-content-transform').css('transform','');$menu.unwrap();$wrapper.find('.fl-menu-mobile-close').remove();$wrapper.find('.fl-menu-mobile-opacity').remove();}}},_initMegaMenus:function(){var module=$(this.nodeClass),rowContent=module.closest('.fl-row-content'),rowWidth=rowContent.width(),megas=module.find('.mega-menu'),disabled=module.find('.mega-menu-disabled'),isToggle=this._isMenuToggle();if(isToggle){megas.removeClass('mega-menu').addClass('mega-menu-disabled');module.find('li.mega-menu-disabled > ul.sub-menu').css('width','');rowContent.css('position','');}else{disabled.removeClass('mega-menu-disabled').addClass('mega-menu');module.find('li.mega-menu > ul.sub-menu').css('width',rowWidth+'px');rowContent.css('position','relative');}},_isMobileBelowRowEnabled:function(){return this.mobileBelowRow&&$(this.nodeClass).closest('.fl-col').length;},_placeMobileMenuBelowRow:function(){if($(this.nodeClass+'-clone').length){return;}
+var module=$(this.nodeClass),clone=null,col=module.closest('.fl-col');if(module.length<1){return;}
+clone=(module.length>1)?$(module[0]).clone():module.clone();module.find('ul.menu').remove();clone.addClass((this.nodeClass+'-clone').replace('.',''));clone.addClass('fl-menu-mobile-clone');clone.find('.fl-menu-mobile-toggle').remove();col.after(clone);if(module.hasClass('fl-animation')){clone.removeClass('fl-animation');}
+this._menuOnClick();},_removeMenuFromBelowRow:function(){if(!$(this.nodeClass+'-clone').length){return;}
+var module=$(this.nodeClass),clone=$(this.nodeClass+'-clone'),menu=clone.find('ul.menu');module.find('.fl-menu-mobile-toggle').after(menu);clone.remove();menu.find('a').each(FLBuilderLayout._initAnchorLink);},_initFlyoutMenu:function(){var win=$(window),wrapper=$(this.wrapperClass),menu=wrapper.find('ul.menu'),button=wrapper.find('.fl-menu-mobile-toggle');if(0===wrapper.find('.fl-menu-mobile-flyout').length){menu.wrap('<div class="fl-menu-mobile-flyout"></div>');}
+if(0===wrapper.find('.fl-menu-mobile-close').length){close=window.fl_responsive_close||'Close'
+wrapper.find('.fl-menu-mobile-flyout').prepend('<button class="fl-menu-mobile-close" aria-label="'+close+'"><i class="fas fa-times" aria-hidden="true"></i></button>');}
+if(wrapper.hasClass('fl-menu-responsive-flyout-push-opacity')&&0===wrapper.find('.fl-menu-mobile-opacity').length){wrapper.append('<div class="fl-menu-mobile-opacity"></div>');}
+wrapper.on('click','.fl-menu-mobile-opacity, .fl-menu-mobile-close',function(e){button.trigger('click');e.stopPropagation();});if('undefined'!==typeof FLBuilder){FLBuilder.addHook('restartEditingSession',function(){$('.fl-builder-ui-pinned-content-transform').css('transform','');if(button.hasClass('fl-active')){button.trigger('click');}});}},_toggleFlyoutMenu:function(){var wrapper=$(this.wrapperClass),button=wrapper.find('.fl-menu-mobile-toggle'),wrapFlyout=wrapper.find('.fl-menu-mobile-flyout'),position=wrapper.hasClass('fl-flyout-right')?'right':'left',pushMenu=wrapper.hasClass('fl-menu-responsive-flyout-push')||wrapper.hasClass('fl-menu-responsive-flyout-push-opacity'),opacity=wrapper.find('.fl-menu-mobile-opacity'),marginPos={},posAttr={},fixedPos={},winHeight=$(window).height(),fixedHeader=$('header, header > div');if(button.hasClass('fl-active')){posAttr[position]='0px';posAttr['height']=winHeight+'px';}else{posAttr[position]='-267px';}
+wrapFlyout.css(posAttr);if($('.fl-builder-ui-pinned-content-transform').length>0&&!$('body').hasClass('fl-builder-edit')){$('.fl-builder-ui-pinned-content-transform').css('transform','none');}
+if(pushMenu){marginPos['margin-'+position]=button.hasClass('fl-active')?'250px':'0px';$('body').animate(marginPos,200);if(fixedHeader.length>0){fixedPos[position]=button.hasClass('fl-active')?'250px':'0px';fixedHeader.each(function(){if('fixed'==$(this).css('position')){$(this).css({'-webkit-transition':'none','-o-transition':'none','transition':'none'});$(this).animate(fixedPos,200);}});}}
+if(opacity.length>0&&button.hasClass('fl-active')){opacity.show();}
+else{opacity.hide();}},_toggleMenuSearch:function(){var wrapper=$(this.wrapperClass).find('.fl-menu-search-item'),button=wrapper.find('a.fl-button'),form=wrapper.find('.fl-search-form-input-wrap'),self=this;button.on('click',function(e){e.preventDefault();if(form.is(':visible')){form.stop().fadeOut(200);}
+else{form.stop().fadeIn(200);$('body').on('click.fl-menu-search',$.proxy(self._hideMenuSearch,self));form.find('.fl-search-text').focus();}});},_hideMenuSearch:function(e){var form=$(this.wrapperClass).find('.fl-search-form-input-wrap');if(e!==undefined){if($(e.target).closest('.fl-menu-search-item').length>0){return;}}
+form.stop().fadeOut(200);$('body').off('click.fl-menu-search');},_wooUpdateParams:function(){if('undefined'!==typeof wc_cart_fragments_params){wc_cart_fragments_params.wc_ajax_url+='&fl-menu-node='+this.nodeId+'&post-id='+this.postId;}
+if('undefined'!==typeof wc_add_to_cart_params){wc_add_to_cart_params.wc_ajax_url+='&fl-menu-node='+this.nodeId+'&post-id='+this.postId;}},};})(jQuery);;(function($){$(function(){new FLBuilderMenu({id:'nrojsg1keax0',type:'vertical',mobile:'expanded',mobileBelowRow:false,mobileFlyout:false,breakPoints:{large:1200,medium:992,small:480},mobileBreakpoint:'mobile',postId:'193',mobileStacked:true,});});})(jQuery);</script></body>
+</html>

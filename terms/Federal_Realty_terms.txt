@@ -1,0 +1,852 @@
+<!DOCTYPE HTML>
+
+<html lang="en-US">
+
+<head>
+
+    <!-- titles -->
+    <title>Conditions of Use - Federal Realty Investment Trust</title>
+
+    <!-- metatags -->
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <!-- /// -->
+
+    <link rel="shortcut icon" type="image/png" href="https://www.federalrealty.com/wp-content/uploads/2020/02/Federal-Favicon.png?x70394" />
+
+    <!-- /// -->
+
+    <!-- mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- //// -->
+
+    <!-- Bing -->
+    <meta name="msvalidate.01" content="5C05A490D791DA821FD001E081775DA1" />
+    <!-- Geo Tags -->
+    <meta name="geo.region" content="US-MD" />
+    <meta name="geo.placename" content="Rockville" />
+    <meta name="geo.position" content="39.061696;-77.128434" />
+    <meta name="ICBM" content="39.061696, -77.128434" />
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-10829291-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-10829291-1');
+    </script>
+
+    <script type="text/javascript">
+    _linkedin_partner_id = "3822330";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+    </script><script type="text/javascript">
+    (function(l) {
+    if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+    window.lintrk.q=[]}
+    var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript";b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);})(window.lintrk);
+    </script>
+
+    <script
+				type="text/javascript"
+				src="https://app.termly.io/resource-blocker/78d8bd68-71c9-4ff1-9e6d-4ee29027d138">
+			</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://www.federalrealty.com/conditions-of-use/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Conditions of Use - Federal Realty Investment Trust" />
+	<meta property="og:description" content="By using the web pages hosted by Federal Realty Investment Trust (&#8220;Federal Realty&#8221;) and its subsidiaries, you agree to all [&hellip;]" />
+	<meta property="og:url" content="https://www.federalrealty.com/conditions-of-use/" />
+	<meta property="og:site_name" content="Federal Realty Investment Trust" />
+	<meta property="article:modified_time" content="2022-08-31T18:08:52+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="9 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.federalrealty.com/conditions-of-use/","url":"https://www.federalrealty.com/conditions-of-use/","name":"Conditions of Use - Federal Realty Investment Trust","isPartOf":{"@id":"https://www.federalrealty.com/#website"},"datePublished":"2020-01-10T13:35:11+00:00","dateModified":"2022-08-31T18:08:52+00:00","breadcrumb":{"@id":"https://www.federalrealty.com/conditions-of-use/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.federalrealty.com/conditions-of-use/"]}]},{"@type":"BreadcrumbList","@id":"https://www.federalrealty.com/conditions-of-use/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.federalrealty.com/"},{"@type":"ListItem","position":2,"name":"Conditions of Use"}]},{"@type":"WebSite","@id":"https://www.federalrealty.com/#website","url":"https://www.federalrealty.com/","name":"Federal Realty Investment Trust","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.federalrealty.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.federalrealty.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.federalrealty.com/wp-includes/css/dist/block-library/style.min.css?x70394&amp;ver=6.1.1' type='text/css' media='all' />
+<style id='frit-blocks-accordion-style-inline-css' type='text/css'>
+/*!********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/faqs/style.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************/
+.faqs {
+  position: relative;
+  max-width: 76.8rem;
+  margin: 0 auto 3.6rem;
+}
+
+body:not(.wp-admin) .faqs:last-child {
+  margin: 0;
+}
+
+.faqs li {
+  cursor: pointer;
+}
+
+.faqs li a {
+  font-weight: 700;
+  text-transform: capitalize;
+  letter-spacing: 0.02em;
+  line-height: normal;
+}
+
+.faqs .questions {
+  padding-inline: 0;
+}
+
+.faqs header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 4.7rem 0 1.2rem;
+}
+
+.faqs header h3 {
+  font-size: 1.4rem;
+  font-style: normal;
+  line-height: 150%;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.faqs header i {
+  font-size: 16px;
+}
+
+.faqs > ul {
+  padding: 0 !important;
+}
+
+.faqs .wp-block-golden-exp-faqs-item {
+  list-style: none;
+  list-style-type: none;
+  margin: 0;
+}
+
+.faqs .wp-block-golden-exp-faqs-item::before {
+  content: none !important;
+}
+
+.faqs li {
+  list-style: none;
+  list-style-type: none;
+}
+
+.faqs li:not(.wp-block-golden-exp-faqs-item) {
+  margin: 0 0 1rem;
+}
+
+.faqs .content {
+  transition: 0.7s ease;
+  padding: 0;
+}
+
+body:not(.wp-admin) .faqs header h3 {
+  font-size: 2rem;
+  padding-bottom: 0;
+}
+
+body:not(.wp-admin) .faqs .content p {
+  font-size: 1.6rem;
+  line-height: 1.5em;
+  margin: 0 0 1.4rem;
+}
+
+.faqs:not(.wp-block) li .content {
+  max-height: 0;
+  overflow: hidden;
+}
+
+.faqs .questions .active header i::before {
+  content: "\e92d";
+}
+
+.faqs li.active .content {
+  max-height: 200vh;
+}
+
+@media only screen and (min-width: 961px) {
+  .faqs {
+    margin: 0 auto 5.1rem;
+  }
+  body:not(.wp-admin) .faqs header h3 {
+    font-size: 3rem;
+    padding-bottom: 0;
+  }
+  body:not(.wp-admin) .faqs .content p {
+    font-size: 1.6rem;
+  }
+  .faqs header {
+    padding: 2.2rem 0 1.2rem;
+  }
+  .faqs .active .content {
+    padding: 2.5rem 0;
+  }
+}
+@media only screen and (min-width: 0) and (max-width: 960px) {
+  .faqs header {
+    align-items: flex-start;
+  }
+  .faqs header i {
+    margin: 0.8rem 0 0;
+  }
+  .faqs .active .content {
+    padding: 2rem 0;
+  }
+}
+
+/*# sourceMappingURL=style-index.css.map*/
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.federalrealty.com/wp-includes/css/classic-themes.min.css?x70394&amp;ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.federalrealty.com/wp-content/plugins/contact-form-7/includes/css/styles.css?x70394&amp;ver=5.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='typekit-css' href='https://use.typekit.net/duk4ivd.css' type='text/css' media='all' />
+<link rel='stylesheet' id='reset-css' href='https://www.federalrealty.com/wp-content/themes/frit/css/libraries/reset.css?x70394&amp;ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ico-css' href='https://www.federalrealty.com/wp-content/themes/frit/css/libraries/ico.css?x70394&amp;ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css' href='https://www.federalrealty.com/wp-content/themes/frit/css/libraries/slick.css?x70394&amp;ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css' href='https://www.federalrealty.com/wp-content/themes/frit/css/libraries/flexslider.css?x70394&amp;ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='chartist.min-css' href='https://www.federalrealty.com/wp-content/themes/frit/css/libraries/chartist.min.css?x70394&amp;ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='grid-css' href='https://www.federalrealty.com/wp-content/themes/frit/css/libraries/grid.css?x70394&amp;ver=6.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css' href='https://www.federalrealty.com/wp-content/themes/frit/css/main.css?x70394&amp;ver=6.1.1' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://www.federalrealty.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.federalrealty.com/wp-json/wp/v2/pages/734" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.federalrealty.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.federalrealty.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel='shortlink' href='https://www.federalrealty.com/?p=734' />
+<link rel="alternate" type="application/json+oembed" href="https://www.federalrealty.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.federalrealty.com%2Fconditions-of-use%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.federalrealty.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.federalrealty.com%2Fconditions-of-use%2F&#038;format=xml" />
+
+		<script>
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:3153652,hjsv:5};
+			a=o.getElementsByTagName('head')[0];
+			r=o.createElement('script');r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+		</script>
+		<link rel="icon" href="https://www.federalrealty.com/wp-content/uploads/2024/06/cropped-FRT_Favicon-32x32.png?x70394" sizes="32x32" />
+<link rel="icon" href="https://www.federalrealty.com/wp-content/uploads/2024/06/cropped-FRT_Favicon-192x192.png?x70394" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.federalrealty.com/wp-content/uploads/2024/06/cropped-FRT_Favicon-180x180.png?x70394" />
+<meta name="msapplication-TileImage" content="https://www.federalrealty.com/wp-content/uploads/2024/06/cropped-FRT_Favicon-270x270.png" />
+
+</head>
+
+<body class="privacy-policy page-template page-template-templates page-template-terms page-template-templatesterms-php page page-id-734 page-conditions-of-use" data-page="page-conditions-of-use">
+        <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFTCRLG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <noscript>
+    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=3822330&fmt=gif" />
+    </noscript>
+
+    <!--wrapper-->
+    <div id="wrapper">
+
+        <nav id="siteNav" class="site-nav container">
+            <div class="row middle">
+                <a href="#" class="open-properties">Properties <i class="icon-Search-Icon-Black"></i></a>
+                <div class="col-12-2">
+                    <div class="row between middle">
+                        <a href="https://www.federalrealty.com" class="logo"><img src="https://www.federalrealty.com/wp-content/themes/frit/img/layout/header/logo.svg?x70394" alt="Federal Realty Investment Trust"></a>
+                        <a href="#" class="toggle-menu icon-menu mobile" aria-label="Toggle Menu"></a>
+                    </div>
+                </div>
+                <div class="col-12-10">
+                    <div class="menu"><ul id="menu-header-menu" class=""><li id="menu-item-24815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24815"><a href="https://www.federalrealty.com/about/overview/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://www.federalrealty.com/about/overview/">Overview</a></li>
+	<li id="menu-item-144" class="newsroom-items menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-144"><a href="https://www.federalrealty.com/about/newsroom/">Newsroom</a>
+	<ul class="sub-menu">
+		<li id="menu-item-35838" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35838"><a href="https://www.federalrealty.com/about/newsroom/#latest-news">FEATURED NEWS</a></li>
+		<li id="menu-item-35839" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35839"><a href="https://www.federalrealty.com/about/newsroom/#stories">STORIES</a></li>
+		<li id="menu-item-35840" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35840"><a href="https://www.federalrealty.com/about/newsroom/#in-the-news">IN THE NEWS</a></li>
+		<li id="menu-item-35841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35841"><a href="https://www.federalrealty.com/about/newsroom/#press-releases">PRESS RELEASES</a></li>
+	</ul>
+</li>
+	<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="https://www.federalrealty.com/about/leadership/">Leadership</a></li>
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://www.federalrealty.com/about/acquisitions/">Acquisitions</a></li>
+</ul>
+</li>
+<li id="menu-item-24817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24817"><a href="https://www.federalrealty.com/investors/overview/">Investors</a>
+<ul class="sub-menu">
+	<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-114"><a href="https://www.federalrealty.com/investors/overview/">Overview</a>
+	<ul class="sub-menu">
+		<li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a rel="news" href="https://www.federalrealty.com/investors/overview/#news">NEWS</a></li>
+		<li id="menu-item-304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304"><a rel="quick-links" href="https://www.federalrealty.com/investors/overview/#quick-links">quick links</a></li>
+		<li id="menu-item-305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305"><a rel="email-alerts" href="https://www.federalrealty.com/investors/overview/#email-alerts">email alerts</a></li>
+		<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a rel="contact-info" href="https://www.federalrealty.com/investors/overview/#contact-info">contact info</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1008"><a href="https://ir.federalrealty.com/news-events">News &#038; Events</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1009"><a href="https://ir.federalrealty.com/news-events#press-releases">Press Releases</a></li>
+		<li id="menu-item-1333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1333"><a href="https://ir.federalrealty.com/news-events#presentations">Presentations</a></li>
+		<li id="menu-item-1010" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1010"><a href="https://ir.federalrealty.com/news-events#webcast-events">Webcast &#038; Events</a></li>
+		<li id="menu-item-1011" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1011"><a href="https://ir.federalrealty.com/news-events#shareholder-meeting">Annual Meeting</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1012" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1012"><a href="https://ir.federalrealty.com/financial-information">Financial Information</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1013" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1013"><a href="https://ir.federalrealty.com/financial-information#quarterly-earnings">Quarterly Earnings</a></li>
+		<li id="menu-item-1014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1014"><a href="https://ir.federalrealty.com/financial-information#sec-filings">SEC Filings</a></li>
+		<li id="menu-item-1015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1015"><a href="https://ir.federalrealty.com/financial-information#annual-reports">Annual Reports</a></li>
+		<li id="menu-item-1016" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1016"><a href="https://ir.federalrealty.com/financial-information#credit-ratings">Credit Ratings</a></li>
+		<li id="menu-item-1017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1017"><a href="https://ir.federalrealty.com/financial-information#bond-covenants">Bond Covenants</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1018" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1018"><a href="https://ir.federalrealty.com/stock-information/stock-quote">Stock Information</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1019"><a href="https://ir.federalrealty.com/stock-information/stock-quote#stock-quote">Stock Quote</a></li>
+		<li id="menu-item-1020" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1020"><a href="https://ir.federalrealty.com/stock-information/stock-quote#dividend-information">Dividend Information</a></li>
+		<li id="menu-item-1021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1021"><a href="https://ir.federalrealty.com/stock-information/stock-quote#taxability-dividends">Taxability of Dividends</a></li>
+		<li id="menu-item-1022" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1022"><a href="https://ir.federalrealty.com/stock-information/stock-quote#analyst-coverage">Analyst Coverage</a></li>
+		<li id="menu-item-1023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1023"><a href="https://ir.federalrealty.com/stock-information/stock-quote#insider-filings">Insider Filings</a></li>
+	</ul>
+</li>
+	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-115"><a href="https://www.federalrealty.com/investors/corporate-governance/">Corporate Governance</a>
+	<ul class="sub-menu">
+		<li id="menu-item-311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-311"><a rel="committee-charters" href="https://www.federalrealty.com/investors/corporate-governance/#committee-charters">COMMITTEE CHARTERS</a></li>
+		<li id="menu-item-312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a rel="governance-documents" href="https://www.federalrealty.com/investors/corporate-governance/#governance-documents">GOVERNANCE DOCUMENTS</a></li>
+		<li id="menu-item-313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-313"><a rel="offices-trustees" href="https://www.federalrealty.com/investors/corporate-governance/#offices-trustees">OFFICERS &#038; TRUSTEES</a></li>
+		<li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-314"><a rel="committee-composition" href="https://www.federalrealty.com/investors/corporate-governance/#committee-composition">COMMITTEE COMPOSITION</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1024"><a href="https://ir.federalrealty.com/shareholder-services/investor-faqs">Investor Tools</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1025" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1025"><a href="https://ir.federalrealty.com/shareholder-services/investor-faqs#faq">FAQ</a></li>
+		<li id="menu-item-1026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1026"><a href="https://ir.federalrealty.com/shareholder-services/investor-faqs#investor-kit">Investor Kit</a></li>
+		<li id="menu-item-1027" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1027"><a href="https://ir.federalrealty.com/shareholder-services/investor-faqs#contact-info">Contact</a></li>
+		<li id="menu-item-1028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1028"><a href="https://ir.federalrealty.com/shareholder-services/investor-faqs#email-alerts">Email Alerts</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-25480" class="esgmenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25480"><a href="https://www.federalrealty.com/sustainability/">Sustainability</a>
+<ul class="sub-menu">
+	<li id="menu-item-35941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35941"><a target="_blank" href="https://www.federalrealty.com/wp-content/uploads/2024/05/Federal-Realty-2023-Sustainability-Report.pdf?x70394">LATEST SUSTAINABILITY REPORT</a></li>
+	<li id="menu-item-35942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35942"><a href="https://www.federalrealty.com/sustainability/#news-updates">NEWS &#038; UPDATES</a></li>
+	<li id="menu-item-35943" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35943"><a href="https://www.federalrealty.com/sustainability/#awards-certifications">AWARDS &#038; CERTIFICATIONS</a></li>
+	<li id="menu-item-35944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35944"><a href="https://www.federalrealty.com/sustainability/#reports-disclosures">REPORTS &#038; DISCLOSURES</a></li>
+	<li id="menu-item-35945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-35945"><a href="https://www.federalrealty.com/sustainability/#sustainability-contact">CONTACT</a></li>
+</ul>
+</li>
+<li id="menu-item-24819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24819"><a href="https://www.federalrealty.com/leasing/overview/">Leasing</a>
+<ul class="sub-menu">
+	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://www.federalrealty.com/leasing/overview/">Overview</a></li>
+	<li id="menu-item-1007" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1007"><a href="https://properties.federalrealty.com/">Properties</a></li>
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="https://www.federalrealty.com/leasing/specialty-leasing/">Specialty Leasing</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="https://www.federalrealty.com/leasing/office/">Office</a></li>
+	<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-120"><a href="https://www.federalrealty.com/leasing/residential/">Residential</a></li>
+</ul>
+</li>
+<li id="menu-item-112" class="careersmenu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-112"><a href="https://www.federalrealty.com/about/careers/">Careers</a>
+<ul class="sub-menu">
+	<li id="menu-item-30975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30975"><a rel="The-Federal-Principles" href="https://www.federalrealty.com/careers-detail/#The-Federal-Principles">The Federal Principles</a></li>
+	<li id="menu-item-30976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30976"><a rel="Benefits" href="https://www.federalrealty.com/careers-detail/#Benefits">Benefits</a></li>
+	<li id="menu-item-31025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31025"><a rel="Testimonials" href="https://www.federalrealty.com/careers-detail/#Testimonials">Testimonials</a></li>
+	<li id="menu-item-30977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30977"><a rel="Our-ESG-Commitment" href="https://www.federalrealty.com/careers-detail/#Our-ESG-Commitment">Our ESG Commitment</a></li>
+	<li id="menu-item-31100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31100"><a rel="awards-certifications" href="https://www.federalrealty.com/careers-detail/#awards-certifications">Featured Awards</a></li>
+	<li id="menu-item-30978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30978"><a rel="Job-Openings" href="https://www.federalrealty.com/careers-detail/#Job-Openings">Current Job Openings</a></li>
+</ul>
+</li>
+<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="https://www.federalrealty.com/contact/">Contact</a></li>
+</ul></div>                </div>
+            </div>
+        </nav>
+	<main class="content-main generic-page container">
+		<div class="row">
+			<article class="col-12-8 offset-left-12-1">
+				<h1>Conditions of Use</h1>
+				<p>By using the web pages hosted by Federal Realty Investment Trust (&#8220;Federal Realty&#8221;) and its subsidiaries, you agree to all of the terms and conditions outlined herein. If you do not agree with these Conditions of Use, please do not use the Federal Realty web site.</p>
+<h2>Changes</h2>
+<p>Federal Realty reserves the right, at its sole discretion, to change, modify, add or remove any portion of these Conditions of Use, in whole or in part, at any time by posting revised Conditions of Use on the Federal Realty web site. Any change in these Conditions of Use will be effective when such change is posted. Your continued use of the Federal Realty web site after any change to these Conditions of Use are posted will be considered acceptance of that change.</p>
+<p>Federal Realty may terminate, change, suspend, or discontinue at any time any aspect of the Federal Realty web site, including the availability of any features of the web site. Federal Realty also may impose limits on certain features and services or restrict your access to parts or all of the web site without notice or liability. Federal Realty may terminate the authorization, rights and license granted in these Conditions of Use.</p>
+<h2>Privacy</h2>
+<p>Please review our Privacy Policy. This policy provides additional information of which you should be aware when visiting the Federal Realty web site, including our policies for the collection, use and dissemination of personal and technical information.</p>
+<h2>No Representations or Warranties</h2>
+<p>All content included on the Federal Realty web site, such as text, site plans, graphics, logos, button icons, images and software is the property of Federal Realty or its content suppliers and is protected by United States copyright, trademark or other laws.</p>
+<p>The materials posted on the Federal Realty web site may be retrieved solely for your own personal use or in connection with any business relationship between you and Federal Realty and may be downloaded to your own hard disk or sent to a printer solely for that purpose. You may not copy, modify or distribute the contents of this web site without the express written permission of Federal Realty. As a condition of your use of this web site, you agree not to use the content included on this web site for any unlawful or prohibited use.</p>
+<h2>Copyright and Trademarks</h2>
+<p>All information and content included on the Federal Realty web site is provided &#8220;as is&#8221; and without any warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. You may assume that information is current only as of the date it is first posted on this web site. It is not Federal Realty&#8217;s policy to update press releases, articles or other content on this site, and Federal Realty hereby expressly disclaims any duty or obligation to provide any such updates. Federal Realty makes no representations about the accuracy, completeness, timeliness or reliability of any content available through this web site. You are responsible for verifying the accuracy of any information presented on this site before relying on it in any way. Use of this web site and the content available on this web site is at your sole risk.</p>
+<h2>Links to Other Sites</h2>
+<p>This Federal Realty web site may contain links to web sites operated by other parties. The linked sites are not under the control of Federal Realty and Federal Realty is not responsible for the content available on any other internet sites linked to this web site. Such links do not imply Federal Realty&#8217;s endorsement of material on any other site and Federal Realty disclaims all liability with regard to your access of such linked web sites. Federal Realty is providing these links to other internet sites as a convenience to users, and access to any other internet sites linked to this web site is at your own risk.</p>
+<h2>Securities of Federal Realty</h2>
+<p>Federal Realty is not providing investment advice through this web site, and the material on this web site should not be regarded as an offer to sell, or a solicitation of an offer to buy, any securities of Federal Realty. If you decide to use any material available on this web site in assessing whether to buy or sell securities of Federal Realty, please be aware that the material on this web site reflects past performance and historical information only and that such performance and information is not necessarily an indication of future performance. See &#8220;Safe Harbor Statement&#8221; below.</p>
+<h2>Safe Harbor Statement</h2>
+<p>Certain matters included on this website may be deemed to be forward-looking statements within the meaning of the federal securities laws. Although Federal Realty believes the expectations reflected in the forward-looking statements are based on reasonable assumptions, it can give no assurance that its expectations will be attained. These factors include, but are not limited to, the risk factors described in our Annual Report on Form 10-K most recently filed with the Securities and Exchange Commission, and include the following: (a) risks that our tenants will not pay rent, may vacate early or may file for bankruptcy or that we may be unable to renew leases or re-let space at favorable rents as leases expire; (b) risks that we may not be able to proceed with or obtain necessary approvals for any redevelopment or renovation project, and that completion of anticipated or ongoing property redevelopments or renovation projects that we do pursue may cost more, take more time to complete, or fail to perform as expected; (c) risks that we are investing a significant amount in ground-up development projects that may not perform as planned, may be dependent on third parties to deliver critical aspects of certain projects, requires spending a substantial amount upfront in infrastructure, and assumes receipt of public funding which has been committed but not entirely funded; (d) risks normally associated with the real estate industry, including risks that occupancy levels at our properties and the amount of rent that we receive from our properties may be lower than expected, that new acquisitions may fail to perform as expected, that competition for acquisitions could result in increased prices for acquisitions, that costs associated with the periodic maintenance and repair or renovation of space, insurance and other operations may increase, that environmental issues may develop at our properties and result in unanticipated costs, and, because real estate is illiquid, that we may not be able to sell properties when appropriate; (e) risks that our growth will be limited if we cannot obtain additional capital; (f) risks associated with general economic conditions, including local economic conditions in our geographic markets; (g) risks of financing, such as our ability to consummate additional financings or obtain replacement financing on terms which are acceptable to us, our ability to meet existing financial covenants and the limitations imposed on our operations by those covenants, and the possibility of increases in interest rates that would result in increased interest expense; (h) risks related to our status as a real estate investment trust, commonly referred to as a REIT, for federal income tax purposes, such as the existence of complex tax regulations relating to our status as a REIT, the effect of future changes in REIT requirements as a result of new legislation, and the adverse consequences of the failure to qualify as a REIT; and (i) risks that our tenants will be unable to operate and as a result unable to pay rent as a result of closing pursuant to government mandated orders or otherwise in connection with a pandemic or other health crisis, such as the recent outbreak of novel coronavirus (COVID-19). Given these uncertainties, readers are cautioned not to place undue reliance on any forward-looking statements that we make, including those in this Supplemental Information. Except as required by law, we make no promise to update any of the forward-looking statements as a result of new information, future events, or otherwise. You should review the risks contained in our Annual Report on Form 10-K most recently filed with the Securities and Exchange Commission.</p>
+<h2>Search for Available Space</h2>
+<p>Federal Realty may from time to time provide to retailers and customers information about space in the Federal Realty portfolio that may be available for lease. Although we attempt to keep available space information current, we are unable to provide any assurance as to the accuracy of such information. All information is subject to change without notice. Under no circumstance is anything contained in this web site intended to be an offer or option to enter into a lease or an offer or option to negotiate a lease for any space within the Federal Realty portfolio.</p>
+<h2>Map and Directory Services</h2>
+<p>Driving directions, business listings and maps are provided by a third-party provider. Neither Federal Realty nor the third-party provider make any representations or guarantees as to the accuracy of any information or assume any liability or responsibility for any loss or damage arising out of inaccurate or incomplete information.</p>
+<h2>Limitation of Liability</h2>
+<p>Federal Realty shall not be liable for any direct, indirect, incidental, special, consequential, exemplary or other damages, including, but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if Federal Realty has been advised of the possibility of such damages), resulting from: (a) your use of or inability to use this web site; (b) unauthorized access to or alteration or your transmissions or data; (c) any statement or conduct of any third-party on this web site; or (d) any other matter relating to this web site.</p>
+<h2>Controlling Law; Venue and Jurisdiction; Limitations</h2>
+<p>The Federal Realty web site is controlled and operated by Federal Realty in the United States and is intended for use in the United States. Federal Realty makes no representation that materials on this web site are appropriate or available for use in other locations. Those who choose to access this web site from other locations do so on their own initiative and are responsible for compliance with local laws. By visiting the Federal Realty web site, you agree that the laws of the State of Maryland, without regard to conflict of law principles, will govern these Conditions of Use and any dispute of any nature that may arise between you and Federal Realty in connection with this web site and the content hereof.</p>
+<p>You and Federal Realty agree to submit to the personal and exclusive jurisdiction of the courts located in Montgomery County, Maryland. If any provisions of these Conditions of Use are found by a court to be invalid or unenforceable, the parties nevertheless agree that the court should endeavor to give effect to the parties&#8217; intentions as reflected in this provision, and the other provisions of these Conditions of Use shall remain in full force and effect.</p>
+<p>&nbsp;</p>
+<h1 id="Our-Commitment-to-Accessibility">Our Commitment to Accessibility</h1>
+<p>Federal Realty is committed to making our website&#8217;s content accessible and user friendly to everyone. If you are having difficulty viewing or navigating the content on this website, or notice any content, feature, or functionality that you believe is not fully accessible to people with disabilities, please call our Customer Service team at 301-998-8100 or email our team at <a href="mailto:info@federalrealty.com" target="_blank" rel="noopener noreferrer">info@federalrealty.com </a> with “Disabled Access” in the subject line and provide a description of the specific feature you feel is not fully accessible or a suggestion for improvement.  We take your feedback seriously and will consider it as we evaluate ways to accommodate all of our customers and our overall accessibility policies. Additionally, while we do not control such vendors, we strongly encourage vendors of third-party digital content to provide content that is accessible and user friendly.</p>
+			</article>
+		</div>
+	</main>
+
+<!--site Footer-->
+<footer id="siteFooter" class="site-footer container">
+    <div class="top">
+        <div class="row">
+            <div class="col-12-4 offset-left-12-1">
+                <h2>Stay in the know.</h2>
+<p>Join our mailing list and get the latest on retail leasing opportunities delivered to your inbox.</p>
+                <fieldset data-comp="mailchimpForm">
+                    <legend>Your Email:</legend>
+                    <input type="email" placeholder="Your email address" name="email">
+                    <input type="submit" value="&#xe91f;" class="icon-Small-Arrow-Dark-Gray openMailchimp">
+                </fieldset>
+            </div>
+        </div>
+        <div class="row top">
+            <address class="col-12-3 offset-left-12-1">
+                <ul>
+                                            <li>
+                            <a href="https://www.google.com/maps/place/909+Rose+Ave+%23200,+North+Bethesda,+MD+20852/@39.0511187,-77.1185608,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7cc30556b4703:0xea2f7dc8f3d0d1e6!8m2!3d39.0511187!4d-77.1163721" target="_blank">
+                                Federal Realty Investment Trust<br>
+                                909 Rose Avenue, Suite 200<br />
+North Bethesda, MD 20852                            </a>
+                        </li>
+                                        <li><a href="tel:301.998.8100">Phone: 301.998.8100</a></li>
+                </ul>
+            </address>
+            <div class="col-12-8">
+	            <div class="menu"><ul id="menu-footer-menu" class=""><li id="menu-item-534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-534"><a href="https://www.federalrealty.com/about/overview/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="https://www.federalrealty.com/about/newsroom/">Newsroom</a></li>
+	<li id="menu-item-535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-535"><a href="https://www.federalrealty.com/about/leadership/">Leadership</a></li>
+	<li id="menu-item-25486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25486"><a href="https://www.federalrealty.com/sustainability/">Sustainability</a></li>
+	<li id="menu-item-537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537"><a href="https://www.federalrealty.com/about/acquisitions/">Acquisitions</a></li>
+	<li id="menu-item-538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-538"><a href="https://www.federalrealty.com/about/careers/">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-539"><a href="https://www.federalrealty.com/investors/overview/">Investors</a>
+<ul class="sub-menu">
+	<li id="menu-item-541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-541"><a href="https://ir.federalrealty.com/news-events">News &#038; Events</a></li>
+	<li id="menu-item-542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-542"><a href="https://ir.federalrealty.com/financial-information">Financial Information</a></li>
+	<li id="menu-item-543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-543"><a href="https://ir.federalrealty.com/stock-information/stock-quote">Stock Information</a></li>
+	<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a href="https://www.federalrealty.com/investors/corporate-governance/">Corporate Governance</a></li>
+	<li id="menu-item-544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-544"><a href="https://ir.federalrealty.com/shareholder-services/investor-faqs">Investor Tools</a></li>
+</ul>
+</li>
+<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-545"><a href="https://www.federalrealty.com/leasing/overview/">Leasing</a>
+<ul class="sub-menu">
+	<li id="menu-item-550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-550"><a href="https://properties.federalrealty.com/">Properties</a></li>
+	<li id="menu-item-546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-546"><a href="https://www.federalrealty.com/leasing/specialty-leasing/">Specialty Leasing</a></li>
+	<li id="menu-item-547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-547"><a href="https://www.federalrealty.com/leasing/office/">Office</a></li>
+	<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a href="https://www.federalrealty.com/leasing/residential/">Residential</a></li>
+</ul>
+</li>
+<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-551"><a href="https://www.federalrealty.com/contact/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-1746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1746"><a href="https://www.federalrealty.com/privacy-policy/">Privacy Policy</a></li>
+	<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy current-menu-item page_item page-item-734 current_page_item menu-item-736"><a href="https://www.federalrealty.com/conditions-of-use/" aria-current="page">Terms and Conditions</a></li>
+	<li id="menu-item-31834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy current-menu-item page_item page-item-734 current_page_item menu-item-31834"><a rel="Our-Commitment-to-Accessibility" href="https://www.federalrealty.com/conditions-of-use/#Our-Commitment-to-Accessibility" aria-current="page">Accessibility Statement</a></li>
+</ul>
+</li>
+</ul></div>                <ul class="social-networks">
+                    <li class=""><a href="#">FOLLOW US</a>
+                        <ul class="submenu">
+                                                            <li><a href="http://www.linkedin.com/company/163779" target="_blank" class="icon-linkedin-sign" aria-label="Linkedin"></a></li>
+                                                                <li><a href="https://www.youtube.com/user/FederalRealtyTV" target="_blank" class="icon-icon-YT-Red" aria-label="Youtube"></a></li>
+	                                                            <li><a href="https://www.instagram.com/federal.1962/" target="_blank" class="icon-IG-Icon" aria-label="Instagram"></a></li>
+	                                                    </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="bottom copy">
+        <div class="row middle">
+            <div class="col-12-6">
+                <p>&copy; 2024 Federal Realty Investment Trust • All Rights Reserved</a></p>
+            </div>
+            <div class="col-12-6 right no-pad-right no-pad-left">
+                <a href="#wrapper" class="go-up" title="back to top"> <i class="icon-Arrowe-up-beck-to-top"></i></a>
+            </div>
+        </div>
+    </div>
+</footer>
+<!--/site Footer-->
+
+<script>
+    var PROPERTIES = [{"property":{"name":"1700 4th Street","street_number":"1700","street_address":"4th Street","city":"Berkeley","state":"California","state_code":"CA","full_address":"1700 4th Street","zip":"94710","longitude":"-122.3013057","latitude":"37.8715286","id":"3313939","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/6b2fea3f46931e47c1fb376109f30284c437a538+720++0\/1700_4th_street_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/1700-4th-street\/3313939","blurb":""}},{"property":{"name":"29th Place","street_number":"100","street_address":"Twentyninth Place Court","city":"Charlottesville","state":"Virginia","state_code":"VA","full_address":"100 Twentyninth Place Court","zip":"22901","longitude":"-78.4783872","latitude":"38.0779942","id":"3313940","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/c15625f89157dd96667e1583e6d8534619e7c541+720++0\/home_goods.jpg","url":"https:\/\/properties.federalrealty.com\/property\/29th-place\/3313940","blurb":""}},{"property":{"name":"7770 Richmond Highway","street_number":"7770","street_address":"Richmond Highway","city":"Alexandria","state":"Virginia","state_code":"VA","full_address":"7770 Richmond Highway","zip":"22036","longitude":"-77.0851359","latitude":"38.7471334","id":"3313941","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/42f5220469995566bfa2f3fb4c3ee37b94480420+720++0\/img_e1764.jpg","url":"https:\/\/properties.federalrealty.com\/property\/7770-richmond-highway\/3313941","blurb":""}},{"property":{"name":"Andorra Shopping Center","street_number":"701","street_address":"Cathedral Road","city":"Philadelphia","state":"Pennsylvania","state_code":"PA","full_address":"701 Cathedral Road","zip":"19128","longitude":"-75.2367851","latitude":"40.0643191","id":"3313942","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/4fc41d16ac7bcb58a66cb5a8241bb0d10d5b1fa6+720++0\/6_high_res_andorra_2022_35.jpg","url":"https:\/\/properties.federalrealty.com\/property\/andorra-shopping-center\/3313942","blurb":""}},{"property":{"name":"Assembly Row","street_number":"455","street_address":"Grand Union Blvd","city":"Somerville","state":"Massachusetts","state_code":"MA","full_address":"455 Grand Union Blvd","zip":"02145","longitude":"-71.0802465","latitude":"42.3934755","id":"3313943","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/a06aa672265b44069e58dee617fbb054b4ecb910+720++0\/assembly_row_2.jpg","url":"https:\/\/properties.federalrealty.com\/property\/assembly-row\/3313943","blurb":""}},{"property":{"name":"Assembly Square","street_number":"145","street_address":"Middlesex Avenue","city":"Somerville","state":"Massachusetts","state_code":"MA","full_address":"145 Middlesex Avenue","zip":"02145","longitude":"-71.0828193","latitude":"42.3956168","id":"3313944","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/6bc80227c266aaa7136c490aa6fa9f6f16054166+720++0\/assembly_square_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/assembly-square\/3313944","blurb":""}},{"property":{"name":"Azalea","street_number":"8653","street_address":"Atlantic Avenue","city":"South Gate","state":"California","state_code":"CA","full_address":"8653 Atlantic Avenue","zip":"90280","longitude":"-118.1862036","latitude":"33.953334","id":"3313945","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/a52dae6254fa65383fc9914580a6dd72fd768fc4+720++0\/dji_0404.jpg","url":"https:\/\/properties.federalrealty.com\/property\/azalea\/3313945","blurb":""}},{"property":{"name":"Bala Cynwyd On City Avenue","street_number":"59","street_address":"E City Avenue","city":"Bala Cynwyd","state":"Pennsylvania","state_code":"PA","full_address":"59 E City Avenue","zip":"19004","longitude":"-75.2248794","latitude":"40.0032834","id":"3313946","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/9d6808be7ccbc4cdf09755dd49997b375a0daa6e+720++0\/bala_cynwyd_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/bala-cynwyd-on-city-avenue\/3313946","blurb":""}},{"property":{"name":"Barcroft Plaza","street_number":"6345","street_address":"Columbia Pike","city":"Falls Church","state":"Virginia","state_code":"VA","full_address":"6345 Columbia Pike","zip":"22041","longitude":"-77.1558095","latitude":"38.8360465","id":"3313947","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/0b2f47e4a7fd3ab5bbc5d9c3ecd42d4d49af5195+720++0\/o.jpg","url":"https:\/\/properties.federalrealty.com\/property\/barcroft-plaza\/3313947","blurb":""}},{"property":{"name":"Barracks Road Shopping Center","street_number":"1117","street_address":"Emmet Street","city":"Charlottesville","state":"Virginia","state_code":"VA","full_address":"1117 Emmet Street","zip":"22903","longitude":"-78.499656","latitude":"38.0544087","id":"3313948","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/d651b361e1d58654fb7e17dc22b28bdc491f39ad+720++0\/aerie_and_ae_dusk_october_2023.jpg","url":"https:\/\/properties.federalrealty.com\/property\/barracks-road-shopping-center\/3313948","blurb":""}},{"property":{"name":"Bell Gardens Marketplace","street_number":"6801","street_address":"Eastern Avenue","city":"Bell Gardens","state":"California","state_code":"CA","full_address":"6801 Eastern Avenue","zip":"90201","longitude":"-118.1647006","latitude":"33.9714049","id":"3313949","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/f59ec277af75e432a670173721cdd5316cdc4700+720++0\/bell_gardens_marketplace_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/bell-gardens-marketplace\/3313949","blurb":""}},{"property":{"name":"Bethesda Row","street_number":"4827","street_address":"Bethesda Avenue","city":"Bethesda","state":"Maryland","state_code":"MD","full_address":"4827 Bethesda Avenue","zip":"20814","longitude":"-77.0967553","latitude":"38.9812369","id":"3313950","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/e9e4a9deacf6fae59476175665bc8a81e33aff18+720++0\/high_res_bethesda_row_july_20239.jpg","url":"https:\/\/properties.federalrealty.com\/property\/bethesda-row\/3313950","blurb":"Lorem ipsum"}},{"property":{"name":"Birch & Broad","street_number":"1200","street_address":"W Broad Street","city":"Falls Church","state":"Virginia","state_code":"VA","full_address":"1200 W Broad Street","zip":"22046","longitude":"-77.1886853","latitude":"38.8939807","id":"3313972","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/f2e9d3ce375b917462be541d25f4026307b5a768+720++0\/eg8a0596.jpg","url":"https:\/\/properties.federalrealty.com\/property\/birch-broad\/3313972","blurb":""}},{"property":{"name":"Brick Plaza","street_number":"56","street_address":"Chambersbridge Road","city":"Brick","state":"New Jersey","state_code":"NJ","full_address":"56 Chambersbridge Road","zip":"08723","longitude":"-74.1403622","latitude":"40.0585761","id":"3313951","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/43e61da42b1d8e03c2a8ced56cc24a1426fbaed2+720++0\/high_res_brick_plaza_2024_14_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/brick-plaza\/3313951","blurb":""}},{"property":{"name":"Bristol Plaza","street_number":"641","street_address":"Farmington Avenue","city":"Bristol","state":"Connecticut","state_code":"CT","full_address":"641 Farmington Avenue","zip":"06010","longitude":"-72.9226958","latitude":"41.6911661","id":"3313952","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/789308107d9827580ad9dd21edc71a1ba988553e+720++0\/dji_0065.jpg","url":"https:\/\/properties.federalrealty.com\/property\/bristol-plaza\/3313952","blurb":""}},{"property":{"name":"Brook 35 & West","street_number":"2150","street_address":"NJ-35","city":"Sea Girt","state":"New Jersey","state_code":"NJ","full_address":"2150 NJ-35","zip":"08750","longitude":"-74.0616819","latitude":"40.1380271","id":"3313953","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/cbb9c5b4ea4f0cf8ad91734d62aeb4aee15b9366+720++0\/brook_35_west_2024_31.jpg","url":"https:\/\/properties.federalrealty.com\/property\/brook-35-west\/3313953","blurb":""}},{"property":{"name":"Camelback Colonnade","street_number":"1919","street_address":"E Camelback Rd","city":"Phoenix","state":"Arizona","state_code":"AZ","full_address":"1919 E Camelback Rd","zip":"85016","longitude":"-112.0415414","latitude":"33.5074368","id":"3314262","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/6d96c14f4723b99eb382f3a084f5e1e112cee9e8+720++0\/high_res_camelback_colonnade_04.jpg","url":"https:\/\/properties.federalrealty.com\/property\/camelback-colonnade\/3314262","blurb":""}},{"property":{"name":"Campus Plaza","street_number":"179","street_address":"Broad Street","city":"Bridgewater","state":"Massachusetts","state_code":"MA","full_address":"179 Broad Street","zip":"02324","longitude":"-70.9717419","latitude":"41.9951176","id":"3313955","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/3153cf4244f8122c80ad4ad22c716bac85fcf82e+720++0\/dji_0128.jpg","url":"https:\/\/properties.federalrealty.com\/property\/campus-plaza\/3313955","blurb":""}},{"property":{"name":"Chandler Festival","street_number":"2850","street_address":"W Chandler Blvd","city":"Chandler","state":"Arizona","state_code":"AZ","full_address":"2850 W Chandler Blvd","zip":"85224","longitude":"-111.8855869","latitude":"33.3077018","id":"3314567","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/e4d98bb25e2dda737e13e643e301f4fac197fa9d+720++0\/chandler_festival1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/chandler-festival\/3314567","blurb":""}},{"property":{"name":"Chandler Gateway","street_number":"3400","street_address":"W Chandler Blvd","city":"Chandler","state":"Arizona","state_code":"AZ","full_address":"3400 W Chandler Blvd","zip":"85226","longitude":"-111.8986976","latitude":"33.3069665","id":"3314568","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/bb9a48394d0bc2a47d666eb4a50af9c80ed50839+720++0\/chandler_gateway2.jpg","url":"https:\/\/properties.federalrealty.com\/property\/chandler-gateway\/3314568","blurb":""}},{"property":{"name":"Chelsea Commons","street_number":"1100","street_address":"Revere Beach Parkway","city":"Chelsea","state":"Massachusetts","state_code":"MA","full_address":"1100 Revere Beach Parkway","zip":"02150","longitude":"-71.0246478","latitude":"42.4038345","id":"3313956","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/a57a36e290f7c6afbfc0f522f6ad078e99ab0293+720++0\/chelsea_commons_photography_2023_06.jpg","url":"https:\/\/properties.federalrealty.com\/property\/chelsea-commons\/3313956","blurb":""}},{"property":{"name":"Chesterbrook","street_number":"6224","street_address":"Old Dominion Drive","city":"Mclean","state":"Virginia","state_code":"VA","full_address":"6224 Old Dominion Drive","zip":"22101","longitude":"-77.1497409","latitude":"38.919988","id":"3313957","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/92a449b5a646e00fa1c8edb91c5f0160e3c24235+720++0\/rendering_entrance.jpg","url":"https:\/\/properties.federalrealty.com\/property\/chesterbrook\/3313957","blurb":""}},{"property":{"name":"CocoWalk","street_number":"3015","street_address":"Grand Avenue","city":"Coconut Grove","state":"Florida","state_code":"FL","full_address":"3015 Grand Avenue","zip":"33133","longitude":"-80.241977","latitude":"25.728972","id":"3313958","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/929bea85d864b808f705a27ca8e01a9b356ebd06+720++0\/cocowalk.jpg","url":"https:\/\/properties.federalrealty.com\/property\/cocowalk\/3313958","blurb":""}},{"property":{"name":"Congressional Plaza","street_number":"154","street_address":"Congressional Lane","city":"Rockville","state":"Maryland","state_code":"MD","full_address":"154 Congressional Lane","zip":"20852","longitude":"-77.126764","latitude":"39.0612411","id":"3313960","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/9e3fabd04940530fab3dc481beccbb1e33d7ca4c+720++0\/low_res_congressional_plaza_2022_08.jpg","url":"https:\/\/properties.federalrealty.com\/property\/congressional-plaza\/3313960","blurb":""}},{"property":{"name":"Courthouse Center","street_number":"12","street_address":"N Washington Street","city":"Rockville","state":"Maryland","state_code":"MD","full_address":"12 N Washington Street","zip":"20850","longitude":"-77.1533584","latitude":"39.0845798","id":"3313961","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/8693f341f261741539448b1c1b25f02232adb77c+720++0\/courthouse_center_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/courthouse-center\/3313961","blurb":""}},{"property":{"name":"Crossroads Shopping Center","street_number":"295","street_address":"Skokie Valley Road","city":"Highland Park","state":"Illinois","state_code":"IL","full_address":"295 Skokie Valley Road","zip":"60035","longitude":"-87.8027382","latitude":"42.1559556","id":"3313962","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/03cfe4ae2da9c17b1b5b35f76dabd5c015d4fb1d+720++0\/295_skokie_valley_rd_highland_park_il_24.jpg","url":"https:\/\/properties.federalrealty.com\/property\/crossroads-shopping-center\/3313962","blurb":""}},{"property":{"name":"Crow Canyon Commons","street_number":"3181","street_address":"Crow Canyon Place","city":"San Ramon","state":"California","state_code":"CA","full_address":"3181 Crow Canyon Place","zip":"94583","longitude":"-121.9694715","latitude":"37.7776223","id":"3313963","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/ea4c314f036909a7e1af117ac3ab65daebcd0ad1+720++0\/crow_canyon_commons_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/crow-canyon-commons\/3313963","blurb":""}},{"property":{"name":"Darien Commons","street_number":"102","street_address":"Heights Road","city":"Darien","state":"Connecticut","state_code":"CT","full_address":"102 Heights Road","zip":"06820","longitude":"-73.4941133","latitude":"41.0703273","id":"3313964","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/8cb94b60bcd5972e1d320b217740456b593a0151+720++0\/high_res_darien_commons_2024_72_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/darien-commons\/3313964","blurb":""}},{"property":{"name":"Dedham Plaza","street_number":"747","street_address":"Providence Highway","city":"Dedham","state":"Massachusetts","state_code":"MA","full_address":"747 Providence Highway","zip":"02026","longitude":"-71.1791993","latitude":"42.2383648","id":"3313965","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/f767bb600fde0cd35ff1d495f9a1241edf712179+720++0\/dedham_plaza_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/dedham-plaza\/3313965","blurb":""}},{"property":{"name":"Del Mar Village","street_number":"7030","street_address":"Beracasa Way","city":"Boca Raton","state":"Florida","state_code":"FL","full_address":"7030 Beracasa Way","zip":"33433","longitude":"-80.156115","latitude":"26.352519","id":"3313966","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/8d53cf3a34a51462d48e88bd31142ad4bb034f81+720++0\/del_mar_village_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/del-mar-village\/3313966","blurb":""}},{"property":{"name":"East Bay Bridge","street_number":"3838","street_address":"Hollis Street","city":"Emeryville","state":"California","state_code":"CA","full_address":"3838 Hollis Street","zip":"94608","longitude":"-122.2833756","latitude":"37.8286238","id":"3313967","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/7e7bd155cb3a6a84717247684966446dba9f09fa+720++0\/east_bay_bridge_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/east-bay-bridge\/3313967","blurb":""}},{"property":{"name":"Ellisburg Shopping Center","street_number":"22","street_address":"NJ-70","city":"Cherry Hill","state":"New Jersey","state_code":"NJ","full_address":"22 NJ-70","zip":"08034","longitude":"-75.0103139","latitude":"39.9153245","id":"3313969","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/5391b9cc094a4a4973d618a0f276e923b9358875+720++0\/ellisburg_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/ellisburg-shopping-center\/3313969","blurb":""}},{"property":{"name":"Escondido Promenade","street_number":"1200","street_address":"Auto Park Way","city":"Escondido","state":"California","state_code":"CA","full_address":"1200 Auto Park Way","zip":"92029","longitude":"-117.0984623","latitude":"33.1111618","id":"3313970","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/64f8b2b1e9e8482c03a959337ae8cef3ed02b4f6+720++0\/escondido_main_photo.jpg","url":"https:\/\/properties.federalrealty.com\/property\/escondido-promenade\/3313970","blurb":""}},{"property":{"name":"Fairfax Junction","street_number":"11001","street_address":"Lee Highway","city":"Fairfax","state":"Virginia","state_code":"VA","full_address":"11001 Lee Highway","zip":"22030","longitude":"-77.3237376","latitude":"38.8520883","id":"3313971","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/0f8e23be238a710da7cd702858099ef4f40e7247+720++0\/cropped_westfair.jpg","url":"https:\/\/properties.federalrealty.com\/property\/fairfax-junction\/3313971","blurb":""}},{"property":{"name":"Federal Plaza","street_number":"1776","street_address":"East Jefferson Street","city":"Rockville","state":"Maryland","state_code":"MD","full_address":"1776 East Jefferson Street","zip":"20852","longitude":"-77.1245896","latitude":"39.0574484","id":"3313973","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/d15de4fd5b118fc0259920fb306b151672cc3d26+720++0\/low_res_federal_plaza_december2023_5.jpg","url":"https:\/\/properties.federalrealty.com\/property\/federal-plaza\/3313973","blurb":""}},{"property":{"name":"Finley Square Shopping Center","street_number":"1500","street_address":"Butterfield Road","city":"Downers Grove","state":"Illinois","state_code":"IL","full_address":"1500 Butterfield Road","zip":"60515","longitude":"-88.0228739","latitude":"41.8348776","id":"3313974","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/95fe168e3782c263dbee60ec5e6716d93c162e61+720++0\/finley1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/finley-square-shopping-center\/3313974","blurb":""}},{"property":{"name":"Flourtown Shopping Center","street_number":"1842","street_address":"Bethlehem Pike","city":"Flourtown","state":"Pennsylvania","state_code":"PA","full_address":"1842 Bethlehem Pike","zip":"19031","longitude":"-75.2126717","latitude":"40.1116882","id":"3313975","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/59db5ec705ce8cc14eb0a8c94c011ab9296f60bc+720++0\/flourtown_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/flourtown-shopping-center\/3313975","blurb":""}},{"property":{"name":"Freedom Plaza","street_number":"9901","street_address":"S Alameda St","city":"Los Angeles","state":"California","state_code":"CA","full_address":"9901 S Alameda St","zip":"90002","longitude":"-118.2287409","latitude":"33.9464998","id":"3313992","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/69d5c40f67e8c84e54c219508fe086da61ddab9b+720++0\/freedomp1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/freedom-plaza\/3313992","blurb":""}},{"property":{"name":"Fresh Meadows Avenue Shops","street_number":"19525","street_address":"69th Ave","city":"Fresh Meadows","state":"New York","state_code":"NY","full_address":"19525 69th Ave","zip":"11365","longitude":"-73.7778806","latitude":"40.7375371","id":"3313976","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/f0377d0cc0126479b423ab03cd9d9bd7779efce2+720++0\/bcam3608.jpg","url":"https:\/\/properties.federalrealty.com\/property\/fresh-meadows-avenue-shops\/3313976","blurb":""}},{"property":{"name":"Fresh Meadows Place","street_number":"6118","street_address":"190th Street","city":"Fresh Meadows","state":"New York","state_code":"NY","full_address":"6118 190th Street","zip":"11365","longitude":"-73.7859357","latitude":"40.7399836","id":"3313977","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/b59085e75052558c75ab3f0018d98d12b5f77177+720++0\/bcam2443.jpg","url":"https:\/\/properties.federalrealty.com\/property\/fresh-meadows-place\/3313977","blurb":""}},{"property":{"name":"Friendship Center","street_number":"5333","street_address":"Wisconsin Avenue NW","city":"Washington","state":"Washington, DC","state_code":"DC","full_address":"5333 Wisconsin Avenue NW","zip":"20015","longitude":"-77.0846863","latitude":"38.9597197","id":"3313978","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/bbd02c37d3e1c86b6389139f7cfae48a0e2d5f52+720++0\/friendship_center_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/friendship-center\/3313978","blurb":""}},{"property":{"name":"Gaithersburg Square","street_number":"524","street_address":"N Frederick Avenue","city":"Gaithersburg","state":"Maryland","state_code":"MD","full_address":"524 N Frederick Avenue","zip":"20877","longitude":"-77.2091948","latitude":"39.1476119","id":"3313979","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/4c8faa3232d7c113acbb820035428d050d3b3db5+720++0\/high_res_gaithersburg_square_05.jpg","url":"https:\/\/properties.federalrealty.com\/property\/gaithersburg-square\/3313979","blurb":""}},{"property":{"name":"Garden Market Shopping Center","street_number":"4700","street_address":"Gilbert Avenue","city":"Western Springs","state":"Illinois","state_code":"IL","full_address":"4700 Gilbert Avenue","zip":"60558","longitude":"-87.8904291","latitude":"41.803648","id":"3313980","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/76782078ea53f377f6331c8e8f12b2bbb78d403e+720++0\/4700_gilbert_ave_western_springs_il_58.jpg","url":"https:\/\/properties.federalrealty.com\/property\/garden-market-shopping-center\/3313980","blurb":""}},{"property":{"name":"Georgetowne Shopping Center","street_number":"2181","street_address":"Ralph Avenue","city":"Brooklyn","state":"New York","state_code":"NY","full_address":"2181 Ralph Avenue","zip":"11234","longitude":"-73.9176515","latitude":"40.6243002","id":"3314069","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/86f2db52e6a3b899b9c94e4731e3d07fc5e4d574+720++0\/georgetowne_1.png","url":"https:\/\/properties.federalrealty.com\/property\/georgetowne-shopping-center\/3314069","blurb":""}},{"property":{"name":"Governor Plaza","street_number":"6711","street_address":"Ritchie Highway","city":"Glen Burnie","state":"Maryland","state_code":"MD","full_address":"6711 Ritchie Highway","zip":"21061","longitude":"-76.6100414","latitude":"39.1915428","id":"3313981","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/10b255b055882864a8616cc6302e9145f9670de7+720++0\/low_res_governor_plaza_nov2023_22.jpg","url":"https:\/\/properties.federalrealty.com\/property\/governor-plaza\/3313981","blurb":""}},{"property":{"name":"Graham Park Plaza","street_number":"7263","street_address":"Arlington Boulevard","city":"Falls Church","state":"Virginia","state_code":"VA","full_address":"7263 Arlington Boulevard","zip":"22042","longitude":"-77.1969635","latitude":"38.8651158","id":"3313982","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/ae563b82a4c473aff47c0ab27b76352ff4799ab0+720++0\/graham_park_plaza_nov23_7.jpg","url":"https:\/\/properties.federalrealty.com\/property\/graham-park-plaza\/3313982","blurb":""}},{"property":{"name":"Gratiot Plaza","street_number":"30785","street_address":"Gratiot Avenue","city":"Roseville","state":"Michigan","state_code":"MI","full_address":"30785 Gratiot Avenue","zip":"48066","longitude":"-82.9206157","latitude":"42.5235922","id":"3313983","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/f5746d91a4949e5a6423e2ca17049417ef0ee36c+720++0\/gratiot_plaza_1.png","url":"https:\/\/properties.federalrealty.com\/property\/gratiot-plaza\/3313983","blurb":""}},{"property":{"name":"Greenlawn Plaza","street_number":"777","street_address":"Pulaski Road","city":"Greenlawn","state":"New York","state_code":"NY","full_address":"777 Pulaski Road","zip":"11743","longitude":"-73.3496879","latitude":"40.8680726","id":"3313984","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/bc34eb46df751e7adaaee9590ceb8c318765f08b+720++0\/dji_0059_hdr.jpg","url":"https:\/\/properties.federalrealty.com\/property\/greenlawn-plaza\/3313984","blurb":""}},{"property":{"name":"Greenwich Avenue","street_number":"205","street_address":"Greenwich Avenue","city":"Greenwich","state":"Connecticut","state_code":"CT","full_address":"205 Greenwich Avenue","zip":"06830","longitude":"-73.6257504","latitude":"41.0275247","id":"3313985","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/a75462cac43d4de772f0f8e1229ed2d67b030dc1+720++0\/greenwich_avenue.png","url":"https:\/\/properties.federalrealty.com\/property\/greenwich-avenue\/3313985","blurb":""}},{"property":{"name":"Grossmont Center","street_number":"5500","street_address":"Grossmont Center Drive","city":"La Mesa","state":"California","state_code":"CA","full_address":"5500 Grossmont Center Drive","zip":"91942","longitude":"-117.0131078","latitude":"32.7786829","id":"3314257","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/9a7812acf7d31928904cb62e314914aa763bd3dc+720++0\/grossmont_center_6.jpg","url":"https:\/\/properties.federalrealty.com\/property\/grossmont-center\/3314257","blurb":""}},{"property":{"name":"Hastings Ranch Plaza","street_number":"3801","street_address":"E Foothill Boulevard","city":"Pasadena","state":"California","state_code":"CA","full_address":"3801 E Foothill Boulevard","zip":"91107","longitude":"-118.0705641","latitude":"34.151156","id":"3313986","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/f126c9dca8f452b13888d3e8b6bba83f8f230a51+720++0\/hastings_ranch_plaza_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/hastings-ranch-plaza\/3313986","blurb":""}},{"property":{"name":"Hauppauge Shopping Center","street_number":"371","street_address":"Smithtown Bypass","city":"Hauppauge","state":"New York","state_code":"NY","full_address":"371 Smithtown Bypass","zip":"11788","longitude":"-73.2017268","latitude":"40.8276551","id":"3313987","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/e5e74899d255c27111da2ace5c21114bebbce7cb+720++0\/hauppauge_shopping_center_2023_10.jpg","url":"https:\/\/properties.federalrealty.com\/property\/hauppauge-shopping-center\/3313987","blurb":""}},{"property":{"name":"Hoboken Portfolio","street_number":"200","street_address":"Washington Street","city":"Hoboken","state":"New Jersey","state_code":"NJ","full_address":"200 Washington Street","zip":"07030","longitude":"-74.03084","latitude":"40.73888","id":"3314095","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/7343695dd106f52e857239c601c6fd3b337f4fcc+720++0\/high_res_20181017_abc_3405_r.jpg","url":"https:\/\/properties.federalrealty.com\/property\/hoboken-portfolio\/3314095","blurb":""}},{"property":{"name":"Hollywood Boulevard","street_number":"7001","street_address":"Hollywood Boulevard","city":"Los Angeles","state":"California","state_code":"CA","full_address":"7001 Hollywood Boulevard","zip":"90028","longitude":"-118.3419771","latitude":"34.1020282","id":"3313988","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/4712173d76b748f0d76f172a04c6cb1a1b7ffb7b+720++0\/092421thanephelan_federalrealty_hollywoodblvd_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/hollywood-boulevard\/3313988","blurb":""}},{"property":{"name":"Huntington Shopping Center","street_number":"350","street_address":"Walt Whitman Road","city":"Huntington","state":"New York","state_code":"NY","full_address":"350 Walt Whitman Road","zip":"11746","longitude":"-73.409951","latitude":"40.8171076","id":"3313989","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/589c4769b959f5adfc2fa894dae36158ef2ee9af+720++0\/huntington_shopping_center_2024_43.jpg","url":"https:\/\/properties.federalrealty.com\/property\/huntington-shopping-center\/3313989","blurb":""}},{"property":{"name":"Huntington Square","street_number":"4000","street_address":"Jericho Turnpike","city":"East Northport","state":"New York","state_code":"NY","full_address":"4000 Jericho Turnpike","zip":"11731","longitude":"-73.3152325","latitude":"40.8390989","id":"3313990","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/fb0299d2ed79ff041dc5710ed5abb03aa2eddf38+720++0\/huntington_square_2023_2.jpg","url":"https:\/\/properties.federalrealty.com\/property\/huntington-square\/3313990","blurb":""}},{"property":{"name":"Idylwood Plaza","street_number":"7501","street_address":"Leesburg Pike","city":"Falls Church","state":"Virginia","state_code":"VA","full_address":"7501 Leesburg Pike","zip":"22042","longitude":"-77.2038231","latitude":"38.9025131","id":"3313991","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/fb406daddaffe0aa29d757852fc930e27eeea81d+720++0\/eg8a2183.jpg","url":"https:\/\/properties.federalrealty.com\/property\/idylwood-plaza\/3313991","blurb":""}},{"property":{"name":"Kingstowne Towne Center","street_number":"5980","street_address":"Kingstowne Towne Ctr","city":"Alexandria","state":"Virginia","state_code":"VA","full_address":"5980 Kingstowne Towne Ctr","zip":"22315","longitude":"-77.1414587","latitude":"38.7701853","id":"3314468","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/5b987ee5aef707d22620a2d42cf651c0ea854868+720++0\/kingstowne_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/kingstowne-towne-center\/3314468","blurb":""}},{"property":{"name":"Lancaster Shopping Center","street_number":"1625","street_address":"Lititz Pike","city":"Lancaster","state":"Pennsylvania","state_code":"PA","full_address":"1625 Lititz Pike","zip":"17601","longitude":"-76.3061925","latitude":"40.067788","id":"3313994","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/78c8a5b00da305f3d018347e6cfdf6b5b876c7f8+720++0\/lancaster_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/lancaster-shopping-center\/3313994","blurb":""}},{"property":{"name":"Langhorne Square Shopping Center","street_number":"1281","street_address":"E Lincoln Highway","city":"Levittown","state":"Pennsylvania","state_code":"PA","full_address":"1281 E Lincoln Highway","zip":"19056","longitude":"-74.8936615","latitude":"40.168468","id":"3313995","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/3d2a9535c84fd4f8ecace37fb9e6e8257f495e3c+720++0\/langhorne_square_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/langhorne-square-shopping-center\/3313995","blurb":""}},{"property":{"name":"Laurel Shopping Center","street_number":"910","street_address":"Fairlawn Avenue","city":"Laurel","state":"Maryland","state_code":"MD","full_address":"910 Fairlawn Avenue","zip":"20707","longitude":"-76.8531773","latitude":"39.0968931","id":"3313996","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/f8f9cdab30407f39ee617c889a1fb2e9cac9fa44+720++0\/high_res_laurel_shopping_center_03.jpg","url":"https:\/\/properties.federalrealty.com\/property\/laurel-shopping-center\/3313996","blurb":""}},{"property":{"name":"Lawrence Park Shopping Center","street_number":"1991","street_address":"Sproul Road","city":"Broomall","state":"Pennsylvania","state_code":"PA","full_address":"1991 Sproul Road","zip":"19008","longitude":"-75.35512","latitude":"39.9594742","id":"3313997","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/53eef6c64a9bcf3e904b42f1e72a50c2b9415b7e+720++0\/1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/lawrence-park-shopping-center\/3313997","blurb":""}},{"property":{"name":"Linden Square","street_number":"181","street_address":"Linden Street","city":"Wellesley","state":"Massachusetts","state_code":"MA","full_address":"181 Linden Street","zip":"02482","longitude":"-71.2915506","latitude":"42.3015226","id":"3313999","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/53dd06a7b2b691e16e4417a9d6f5625fda99019a+720++0\/acam9402.jpg","url":"https:\/\/properties.federalrealty.com\/property\/linden-square\/3313999","blurb":""}},{"property":{"name":"Los Jardines","street_number":"6810","street_address":"S. Eastern Avenue","city":"Bell Gardens","state":"California","state_code":"CA","full_address":"6810 S. Eastern Avenue","zip":"90201","longitude":"-118.1632781","latitude":"33.9707194","id":"3314000","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/5afb11b2e6b27c5debd42d6eaaee1580004057c9+720++0\/los_jardines_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/los-jardines\/3314000","blurb":""}},{"property":{"name":"Melville Mall","street_number":"834","street_address":"Walt Whitman Road","city":"Melville","state":"New York","state_code":"NY","full_address":"834 Walt Whitman Road","zip":"11747","longitude":"-73.4093651","latitude":"40.7989977","id":"3314001","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/9c87965810ffb06544134777604975a9b99a0fdc+720++0\/bcam2258.jpg","url":"https:\/\/properties.federalrealty.com\/property\/melville-mall\/3314001","blurb":""}},{"property":{"name":"Mercer on One","street_number":"3357","street_address":"Brunswick Pike","city":"Lawrenceville","state":"New Jersey","state_code":"NJ","full_address":"3357 Brunswick Pike","zip":"08648","longitude":"-74.6837199","latitude":"40.297796","id":"3314002","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/dbed6928061f846ef0709084dddc45c1464c2ec0+720++0\/mercer_mall_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/mercer-on-one\/3314002","blurb":""}},{"property":{"name":"Montrose Crossing Shopping Center","street_number":"12055","street_address":"Rockville Pike","city":"Rockville","state":"Maryland","state_code":"MD","full_address":"12055 Rockville Pike","zip":"20852","longitude":"-77.1178642","latitude":"39.0563215","id":"3314003","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/4661781dd6a5f32fe6674626969e35024f81fcb0+720++0\/high_res_montrose_crossing_july_2023_22.jpg","url":"https:\/\/properties.federalrealty.com\/property\/montrose-crossing-shopping-center\/3314003","blurb":""}},{"property":{"name":"Mount Vernon Plaza","street_number":"7694","street_address":"Richmond Highway","city":"Alexandria","state":"Virginia","state_code":"VA","full_address":"7694 Richmond Highway","zip":"22306","longitude":"-77.0842816","latitude":"38.7498137","id":"3314004","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/8dc66465a4dc9d01424f59803c39979d357844ee+720++0\/mount_vernon_parklet_2022.jpg","url":"https:\/\/properties.federalrealty.com\/property\/mount-vernon-plaza\/3314004","blurb":""}},{"property":{"name":"North Dartmouth","street_number":"55","street_address":"Faunce Corner Mall Road","city":"North Dartmouth","state":"Massachusetts","state_code":"MA","full_address":"55 Faunce Corner Mall Road","zip":"02747","longitude":"-70.985586","latitude":"41.6444908","id":"3314005","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/671df376d9623f56a6ae73fea236210332b5d568+720++0\/north_dartmouth_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/north-dartmouth\/3314005","blurb":""}},{"property":{"name":"Northeast Shopping Center","street_number":"9173","street_address":"Roosevelt Boulevard","city":"Philadelphia","state":"Pennsylvania","state_code":"PA","full_address":"9173 Roosevelt Boulevard","zip":"19114","longitude":"-75.0331506","latitude":"40.0742819","id":"3314006","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/17ff92aea6f08ea621238b22e228201686991a81+720++0\/northeast_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/northeast-shopping-center\/3314006","blurb":""}},{"property":{"name":"Old Keene Mill Shopping Center","street_number":"8424","street_address":"Old Keene Mill Road","city":"Springfield","state":"Virginia","state_code":"VA","full_address":"8424 Old Keene Mill Road","zip":"22152","longitude":"-77.2356267","latitude":"38.7794692","id":"3314007","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/cbb017da351729d05d5a3c46d03ec1e8e34dd714+720++0\/old_keene_mill_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/old-keene-mill-shopping-center\/3314007","blurb":""}},{"property":{"name":"Old Town Los Gatos","street_number":"50","street_address":"University Avenue","city":"Los Gatos","state":"California","state_code":"CA","full_address":"50 University Avenue","zip":"95032","longitude":"-121.9813106","latitude":"37.2234798","id":"3314008","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/7c04efc553f76f9e3628653ca6b3badaedcf4684+720++0\/020621thanephelan_oldtownshoppingcenter_16.jpg","url":"https:\/\/properties.federalrealty.com\/property\/old-town-los-gatos\/3314008","blurb":""}},{"property":{"name":"Olivo at Mission Hills","street_number":"10310","street_address":"Sepulveda Boulevard","city":"Mission Hills","state":"California","state_code":"CA","full_address":"10310 Sepulveda Boulevard","zip":"91345","longitude":"-118.466429","latitude":"34.257927","id":"3314009","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/3d00713fcd797418585f1f452aaae444a7d1844b+720++0\/olivo_at_mission_hills_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/olivo-at-mission-hills\/3314009","blurb":""}},{"property":{"name":"Pan Am Shopping Center","street_number":"3089","street_address":"Nutley Street SW","city":"Fairfax","state":"Virginia","state_code":"VA","full_address":"3089 Nutley Street SW","zip":"22031","longitude":"-77.2617283","latitude":"38.869282","id":"3314010","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/edfdfdd3cb20025be44652ab7162d2ecfa47440f+720++0\/pan_am_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/pan-am-shopping-center\/3314010","blurb":""}},{"property":{"name":"Perring Plaza","street_number":"1951","street_address":"East Joppa Road","city":"Baltimore","state":"Maryland","state_code":"MD","full_address":"1951 East Joppa Road","zip":"21234","longitude":"-76.5436752","latitude":"39.397545","id":"3314012","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/9a5d51b63bdf217b6823fe1544928a48698b69ec+720++0\/perring_plaza_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/perring-plaza\/3314012","blurb":""}},{"property":{"name":"Pike & Rose","street_number":"11580","street_address":"Old Georgetown Road","city":"North Bethesda","state":"Maryland","state_code":"MD","full_address":"11580 Old Georgetown Road","zip":"20852","longitude":"-77.117722","latitude":"39.0491443","id":"3314013","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/d9a9be8b12fe29232d6a7d47ddf06a731e61108d+720++0\/pike_rose_7.jpg","url":"https:\/\/properties.federalrealty.com\/property\/pike-rose\/3314013","blurb":""}},{"property":{"name":"Pike 7 Plaza","street_number":"8365","street_address":"Leesburg Pike","city":"Vienna","state":"Virginia","state_code":"VA","full_address":"8365 Leesburg Pike","zip":"22182","longitude":"-77.2362524","latitude":"38.921583","id":"3314014","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/ecff55137fc3e2a8d3c13197862550f5fe20b9ca+720++0\/pike_7_plaza_july_2024_2.jpg","url":"https:\/\/properties.federalrealty.com\/property\/pike-7-plaza\/3314014","blurb":""}},{"property":{"name":"Pinole Vista Crossing","street_number":"1370","street_address":"Fitzgerald Drive","city":"Pinole","state":"California","state_code":"CA","full_address":"1370 Fitzgerald Drive","zip":"94564","longitude":"-122.3104327","latitude":"37.98663","id":"3314741","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/c92a1aabc4a6cb8f789d0d61638f9cae816af1ee+720++0\/pvc2.jpg","url":"https:\/\/properties.federalrealty.com\/property\/pinole-vista-crossing\/3314741","blurb":""}},{"property":{"name":"Plaza del Mercado","street_number":"2211","street_address":"Bel Pre Road","city":"Silver Spring","state":"Maryland","state_code":"MD","full_address":"2211 Bel Pre Road","zip":"20906","longitude":"-77.047422","latitude":"39.091594","id":"3314015","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/7e7ac549c7ff8ab744dfee7eb3c1d0115ad4a476+720++0\/plaza_del_mercado_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/plaza-del-mercado\/3314015","blurb":""}},{"property":{"name":"Plaza Del Sol","street_number":"1832","street_address":"Durfee Avenue","city":"South El Monte","state":"California","state_code":"CA","full_address":"1832 Durfee Avenue","zip":"91733","longitude":"-118.031712","latitude":"34.043027","id":"3314016","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/b05ac6a1c0e91d0c47083ed8266da04d2bda232e+720++0\/plaza_del_sol_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/plaza-del-sol\/3314016","blurb":""}},{"property":{"name":"Plaza El Segundo","street_number":"700","street_address":"S Sepulveda Boulevard","city":"El Segundo","state":"California","state_code":"CA","full_address":"700 S Sepulveda Boulevard","zip":"90245","longitude":"-118.3899748","latitude":"33.9066999","id":"3314017","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/c08d2f431a4c7ee7195d467d496d513dcd8170b2+720++0\/plaza_el_segundo_3.jpg","url":"https:\/\/properties.federalrealty.com\/property\/plaza-el-segundo\/3314017","blurb":""}},{"property":{"name":"Queen Anne Plaza","street_number":"10","street_address":"Pond Street","city":"Norwell","state":"Massachusetts","state_code":"MA","full_address":"10 Pond Street","zip":"02061","longitude":"-70.884342","latitude":"42.1735855","id":"3314018","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/99f5ae4f611e9c8e8770c9cc989d7e609dbe0aa6+720++0\/bcam7051.jpg","url":"https:\/\/properties.federalrealty.com\/property\/queen-anne-plaza\/3314018","blurb":""}},{"property":{"name":"Quince Orchard","street_number":"608","street_address":"Quince Orchard Road","city":"Gaithersburg","state":"Maryland","state_code":"MD","full_address":"608 Quince Orchard Road","zip":"20878","longitude":"-77.2232925","latitude":"39.1417139","id":"3314019","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/febda731682101e057fbb9b8daba6b52c1c3b5cc+720++0\/high_res_quince_orchard_07.jpg","url":"https:\/\/properties.federalrealty.com\/property\/quince-orchard\/3314019","blurb":""}},{"property":{"name":"Riverpoint Center","street_number":"1730","street_address":"West Fullerton Avenue","city":"Chicago","state":"Illinois","state_code":"IL","full_address":"1730 West Fullerton Avenue","zip":"60614","longitude":"-87.6739122","latitude":"41.9269558","id":"3314020","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/3d98c9522b7dcffe8aa06f4da911998e444a867e+720++0\/rp_1_june_2024.jpg","url":"https:\/\/properties.federalrealty.com\/property\/riverpoint-center\/3314020","blurb":""}},{"property":{"name":"San Antonio Center","street_number":"696","street_address":"Showers Drive","city":"Mountain View","state":"California","state_code":"CA","full_address":"696 Showers Drive","zip":"94040","longitude":"-122.1097812","latitude":"37.3999768","id":"3314023","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/05c9e4a545148b2c7f042073032786f7d81199f6+720++0\/san_antonio_center_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/san-antonio-center\/3314023","blurb":""}},{"property":{"name":"Santana Row","street_number":"377","street_address":"Santana Row","city":"San Jose","state":"California","state_code":"CA","full_address":"377 Santana Row","zip":"95128","longitude":"-121.9483393","latitude":"37.319902","id":"3314024","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/816f19defc453e3c77c86e07fc82be845e804224+720++0\/sr_chapel_blue_sky_retail_removed.jpg","url":"https:\/\/properties.federalrealty.com\/property\/santana-row\/3314024","blurb":""}},{"property":{"name":"Scottsdale Forum","street_number":"6263","street_address":"N Scottsdale Rd","city":"Scottsdale","state":"Arizona","state_code":"AZ","full_address":"6263 N Scottsdale Rd","zip":"85250","longitude":"-111.9251306","latitude":"33.5287377","id":"3314653","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/30254af4fce5ca3d8e574f4c921e8242ac1b05d0+720++0\/6263_n_scottsdale_rd_scottsdale_az_building_photo_4_largehighdefinition.jpg","url":"https:\/\/properties.federalrealty.com\/property\/scottsdale-forum\/3314653","blurb":""}},{"property":{"name":"Shoppes at Nottingham Square I & II","street_number":"5272","street_address":"Campbell Boulevard","city":"Baltimore","state":"Maryland","state_code":"MD","full_address":"5272 Campbell Boulevard","zip":"21236","longitude":"-76.452359","latitude":"39.369367","id":"3314026","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/c58b0ccf10433b1a3b48f9b7ac9cfbd354debc00+720++0\/shoppes_at_nottingham_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/shoppes-at-nottingham-square-i-ii\/3314026","blurb":""}},{"property":{"name":"Shops at Pembroke Gardens","street_number":"527","street_address":"SW 145th Terrace","city":"Pembroke Pines","state":"Florida","state_code":"FL","full_address":"527 SW 145th Terrace","zip":"33027","longitude":"-80.3370075","latitude":"26.0031264","id":"3314560","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/e9f90745de16f6d21619cf1c308757d7f0717505+720++0\/pembroke_gardens.jpg","url":"https:\/\/properties.federalrealty.com\/property\/shops-at-pembroke-gardens\/3314560","blurb":""}},{"property":{"name":"Shops at Wildwood","street_number":"10241","street_address":"Old Georgetown Road","city":"Bethesda","state":"Maryland","state_code":"MD","full_address":"10241 Old Georgetown Road","zip":"20814","longitude":"-77.1237242","latitude":"39.0241499","id":"3314042","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/49a30951be61ab334f003319b82f41dafff0a94f+720++0\/high_res_wildwood_summer_02.jpg","url":"https:\/\/properties.federalrealty.com\/property\/shops-at-wildwood\/3314042","blurb":""}},{"property":{"name":"Sylmar Towne Center","street_number":"12652","street_address":"Glenoaks Boulevard","city":"Sylmar","state":"California","state_code":"CA","full_address":"12652 Glenoaks Boulevard","zip":"91342","longitude":"-118.440168","latitude":"34.3002213","id":"3314027","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/8f1ff676e89592239b0a9b6cfc92b71a0798ea43+720++0\/sylmar_towne_center_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/sylmar-towne-center\/3314027","blurb":""}},{"property":{"name":"Tanner Market","street_number":"150","street_address":"W Colorado Boulevard","city":"Pasadena","state":"California","state_code":"CA","full_address":"150 W Colorado Boulevard","zip":"91105","longitude":"-118.1535422","latitude":"34.1456111","id":"3313959","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/be93c23e0b421e28ebaeb6b7570c917137de59a4+720++0\/colorado_boulevard_2.jpg","url":"https:\/\/properties.federalrealty.com\/property\/tanner-market\/3313959","blurb":""}},{"property":{"name":"THE AVENUE at White Marsh","street_number":"8125","street_address":"Honeygo Boulevard","city":"Baltimore","state":"Maryland","state_code":"MD","full_address":"8125 Honeygo Boulevard","zip":"21236","longitude":"-76.4646026","latitude":"39.3712258","id":"3314028","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/b6c737ab31c45fff88741cfc792a25b5a2585529+720++0\/the_avenue_at_white_marsh_1_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/the-avenue-at-white-marsh\/3314028","blurb":""}},{"property":{"name":"The Grove at Shrewsbury","street_number":"597","street_address":"Broad Street","city":"Shrewsbury","state":"New Jersey","state_code":"NJ","full_address":"597 Broad Street","zip":"07702","longitude":"-74.0634718","latitude":"40.3339752","id":"3314029","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/b6e3474d798d2362cf4e57a94ce9f5d8de684223+720++0\/the_grove_at_shrewsbury_2024_60.jpg","url":"https:\/\/properties.federalrealty.com\/property\/the-grove-at-shrewsbury\/3314029","blurb":""}},{"property":{"name":"The Point","street_number":"850","street_address":"S. Pacific Coast Highway","city":"El Segundo","state":"California","state_code":"CA","full_address":"850 S. Pacific Coast Highway","zip":"90245","longitude":"-118.3946545","latitude":"33.9040347","id":"3314030","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/89afa42e445440b62cfde570595b7869c9758aa8+720++0\/092221thanephelan_federalrealty_thepoint_6.jpg","url":"https:\/\/properties.federalrealty.com\/property\/the-point\/3314030","blurb":""}},{"property":{"name":"The Shops at Hilton Village","street_number":"6113","street_address":"N Scottsdale Rd","city":"Scottsdale","state":"Arizona","state_code":"AZ","full_address":"6113 N Scottsdale Rd","zip":"85250","longitude":"-111.925611","latitude":"33.526885","id":"3314263","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/6f6aec35401168c5d6f436a30a375164218c5918+720++0\/hilton_village_exterior_8.jpg","url":"https:\/\/properties.federalrealty.com\/property\/the-shops-at-hilton-village\/3314263","blurb":""}},{"property":{"name":"Tower Shopping Center","street_number":"6801","street_address":"Bland Street","city":"Springfield","state":"Virginia","state_code":"VA","full_address":"6801 Bland Street","zip":"22150","longitude":"-77.18367","latitude":"38.781088","id":"3314032","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/4a7c4da767e5a7dfbfba88dabf7e84b531e78cfd+720++0\/high_res_frt_tower_center_june_2024_4.jpg","url":"https:\/\/properties.federalrealty.com\/property\/tower-shopping-center\/3314032","blurb":""}},{"property":{"name":"Tower Shops","street_number":"1904","street_address":"S University Drive","city":"Davie","state":"Florida","state_code":"FL","full_address":"1904 S University Drive","zip":"33324","longitude":"-80.2472044","latitude":"26.0940685","id":"3314033","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/534798dd0160368db067a23650ee5b644292bc3c+720++0\/tower_shops_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/tower-shops\/3314033","blurb":""}},{"property":{"name":"Troy Hills Shopping Center","street_number":"1157","street_address":"US-46","city":"Parsippany","state":"New Jersey","state_code":"NJ","full_address":"1157 US-46","zip":"07054","longitude":"-74.3882532","latitude":"40.8617252","id":"3314035","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/3e55f2ae69c3e12a7c2860a1333740abedcfc83a+720++0\/troy_hills_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/troy-hills-shopping-center\/3314035","blurb":""}},{"property":{"name":"Twinbrooke Shopping Centre","street_number":"9525","street_address":"Braddock Rd","city":"Fairfax","state":"Virginia","state_code":"VA","full_address":"9525 Braddock Rd","zip":"22032","longitude":"-77.27529","latitude":"38.81674","id":"3314274","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/9b1b990133f946b96987dbbca4013f535c22f632+720++0\/high_res_twinbrooke_shopping_center_3.jpg","url":"https:\/\/properties.federalrealty.com\/property\/twinbrooke-shopping-centre\/3314274","blurb":""}},{"property":{"name":"Tysons Station","street_number":"7500","street_address":"Leesburg Pike","city":"Falls Church","state":"Virginia","state_code":"VA","full_address":"7500 Leesburg Pike","zip":"22043","longitude":"-77.2034413","latitude":"38.9037225","id":"3314036","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/8fa082a43d7e1b33f89f88d7840b34438cc2ddb0+720++0\/eg8a2376.jpg","url":"https:\/\/properties.federalrealty.com\/property\/tysons-station\/3314036","blurb":""}},{"property":{"name":"Village at Shirlington","street_number":"2700","street_address":"S Quincy Street","city":"Arlington","state":"Virginia","state_code":"VA","full_address":"2700 S Quincy Street","zip":"22206","longitude":"-77.0869318","latitude":"38.8411158","id":"3314037","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/6aaf908c3097c84d29ac0013e56c06347fb52c57+720++0\/village_at_shirlington_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/village-at-shirlington\/3314037","blurb":""}},{"property":{"name":"Village Square","street_number":"5706","street_address":"Florence Avenue","city":"Bell Gardens","state":"California","state_code":"CA","full_address":"5706 Florence Avenue","zip":"90201","longitude":"-118.1643392","latitude":"33.9674848","id":"3314038","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/a5642c7eb03c4231e7090d7e452d3b7a0f6fb401+720++0\/village_square_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/village-square\/3314038","blurb":""}},{"property":{"name":"Virginia Gateway","street_number":"7575","street_address":"Linton Hall Rd","city":"Gainesville","state":"Virginia","state_code":"VA","full_address":"7575 Linton Hall Rd","zip":"20155","longitude":"-77.6060764","latitude":"38.7931645","id":"3314729","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/35bba2375658e13999d4fefaae06954ac0ed1610+720++0\/low_res_virginia_gateway_img_1361_335.jpg","url":"https:\/\/properties.federalrealty.com\/property\/virginia-gateway\/3314729","blurb":""}},{"property":{"name":"Westgate Center","street_number":"1600","street_address":"Saratoga Avenue","city":"San Jose","state":"California","state_code":"CA","full_address":"1600 Saratoga Avenue","zip":"95129","longitude":"-121.9883897","latitude":"37.2923388","id":"3314039","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/31ed56693eb28a61b7f785d02ed08a86a6c5798e+720++0\/westgate_center_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/westgate-center\/3314039","blurb":""}},{"property":{"name":"Westpost","street_number":"1201","street_address":"S Joyce Street","city":"Arlington","state":"Virginia","state_code":"VA","full_address":"1201 S Joyce Street","zip":"22202","longitude":"-77.0628324","latitude":"38.8637691","id":"3314011","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/8679afccab90b4fe806f91d4b58f876d23b5f9a3+720++0\/pentagon_row_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/westpost\/3314011","blurb":""}},{"property":{"name":"White Marsh Ground Leases","street_number":"8019","street_address":"Honeygo Boulevard","city":"Baltimore","state":"Maryland","state_code":"MD","full_address":"8019 Honeygo Boulevard","zip":"21236","longitude":"-76.4689913","latitude":"39.3717917","id":"3314040","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/c9020c178f1dc35e5fb9b134b91f33793dfa4932+720++0\/white_marsh_ground_leases_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/white-marsh-ground-leases\/3314040","blurb":""}},{"property":{"name":"White Marsh Plaza","street_number":"7900","street_address":"Honeygo Boulevard","city":"Baltimore","state":"Maryland","state_code":"MD","full_address":"7900 Honeygo Boulevard","zip":"21236","longitude":"-76.472236","latitude":"39.3742678","id":"3314041","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/12c3fbf51a0729396da0feb38e48731122587821+720++0\/2.jpg","url":"https:\/\/properties.federalrealty.com\/property\/white-marsh-plaza\/3314041","blurb":""}},{"property":{"name":"Willow Grove Shopping Center","street_number":"122","street_address":"Park Avenue","city":"Willow Grove","state":"Pennsylvania","state_code":"PA","full_address":"122 Park Avenue","zip":"19090","longitude":"-75.1165015","latitude":"40.1431353","id":"3314043","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/7ebe956217d906731a58751664b2834df4267c2b+720++0\/low_res_willow_grove_2024_31.jpg","url":"https:\/\/properties.federalrealty.com\/property\/willow-grove-shopping-center\/3314043","blurb":""}},{"property":{"name":"Willow Lawn","street_number":"1601","street_address":"Willow Lawn Drive","city":"Richmond","state":"Virginia","state_code":"VA","full_address":"1601 Willow Lawn Drive","zip":"23230","longitude":"-77.4972709","latitude":"37.582168","id":"3314044","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/3c2c771627a22a17f6b3ed8e11b3b891434e579a+720++0\/willow_lawn_2.jpg","url":"https:\/\/properties.federalrealty.com\/property\/willow-lawn\/3314044","blurb":""}},{"property":{"name":"Wynnewood Shopping Center","street_number":"50","street_address":"East Wynnewood Road","city":"Wynnewood","state":"Pennsylvania","state_code":"PA","full_address":"50 East Wynnewood Road","zip":"19096","longitude":"-75.2740509","latitude":"40.0017076","id":"3314045","image":"https:\/\/cdn-federalrealty.reol.com\/federalrealty\/img\/2e0b062b6017dbfc5c07f827b1266c82a7a41152+720++0\/wynnewood_shopping_center_1.jpg","url":"https:\/\/properties.federalrealty.com\/property\/wynnewood-shopping-center\/3314045","blurb":""}}];
+    var propertiesByState = [];
+</script>
+<!--properties bar-->
+<section id="propertiesBar" class="properties-bar">
+  <div class="row full-width top">
+    <fieldset class="col-12-9 no-pad-left no-pad-right"> <!--search field links to properties page filtered-->
+      <legend class="visually-hidden">Search Form</legend>
+      <input type="text" name="search" autocomplete="off" title="Search all Properties" placeholder="Search all properties.">
+      <input type="submit" value="&#xe91e;" class="icon-Search-Icon-Black">
+      <ul id="suggested" class="suggested-list">
+        <li><a href="#"><i class="icon-map"></i> <span>Pike & Rose, MD</span></a></li>
+        <li><a href="#"><i class="icon-map"></i> <span>Pike & Rose, MD</span></a></li>
+        <li><a href="#"><i class="icon-map"></i> <span>Pike & Rose, MD</span></a></li>
+        <li><a href="#"><i class="icon-map"></i> <span>Pike & Rose, MD</span></a></li>
+        <li><a href="#"><i class="icon-map"></i> <span>Pike & Rose, MD</span></a></li>
+        <li><a href="#"><i class="icon-map"></i> <span>Pike & Rose, MD</span></a></li>
+      </ul>
+    </fieldset>
+    <div class="col-12-3 no-pad-left no-pad-right order-first"> <!--div with properties page link-->
+      <a href="https://properties.federalrealty.com/" class="row between middle bttn bttn-orange bttn-full middle">See all properties <i class="icon-Small-Arrow-Dark-Gray"></i></a>
+    </div>
+  </div>
+  <div class="row full-width results stretch">
+    <div class="col-12-3 states">
+      <ul>
+
+      </ul>
+    </div>
+    <div class="col-12-9 no-pad-left no-pad-right cities-card fade">
+      <div class="row stretch">
+        <div class="col-12-6 cities"> <!--city list-->
+        </div>
+
+        <div class="col-12-6 no-pad-right no-pad-left cards fade"><!--card list-->
+          <article class="fade" data-target="open">
+            <figure class="img-box">
+              <img data-comp="image" src="" alt="">
+            </figure>
+            <figcaption>
+              <h2 data-comp="title"><span class="visually-hidden">Learn More</span></h2>
+              <p data-comp="address"></p>
+              <p class="txt-link"><a href="" data-comp="url">Learn more <i class="icon-Small-Arrow-Dark-Gray"></i></a></p>
+            </figcaption>
+          </article>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--/properties bar-->
+<!--contact lightbox-->
+<section class="lightbox lightbox-contact container">
+  <div class="row middle center">
+    <div class="col-12-10">
+      <div class="box">
+        <a href="#" class="close icon-Properties"><span class="visually-hidden">Close</span></a>
+        <div class="flexslider">
+          <ul class="slides"></ul>
+        </div>
+        <div class="controls-text row right bottom">
+          <div class="controls"></div>
+          <address></address>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--/contact lightbox-->
+
+
+<!--properties lightbox-->
+<section class="lightbox lightbox-propertiesSlider container">
+  <div class="row middle center full-width">
+    <div class="col-12-12 no-pad-left no-pad-right">
+      <div class="box">
+        <a href="#" class="close icon-Properties"><span class="visually-hidden">Close</span></a>
+        <div class="flexslider">
+          <ul class="slides"></ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!--/properties lightbox-->
+
+<!--form lightbox-->
+<section class="lightbox lightbox-propertiesForm container">
+  <div class="row middle center">
+    <article class="col-12-8">
+      <div class="form-box row box">
+        <header class="col-12-12">
+          <h2>Get in touch</h2>
+        </header>
+        <fieldset class="col-12-6">
+          <legend class="visually-hidden">First Name</legend>
+          <input type="text" name="first-name" id="first-name" placeholder=" ">
+          <label  for="first-name">First Name</label>
+        </fieldset>
+        <fieldset class="col-12-6">
+          <legend class="visually-hidden">Last Name</legend>
+          <input type="text" name="last-name" id="last-name" placeholder=" ">
+          <label  for="last-name">Last Name</label>
+        </fieldset>
+        <fieldset class="col-12-6">
+          <legend class="visually-hidden">Email</legend>
+          <input type="text" name="email" id="email" placeholder=" ">
+          <label  for="email">Email</label>
+        </fieldset>
+        <fieldset class="col-12-6">
+          <legend class="visually-hidden">Phone Number</legend>
+          <input type="text" name="phone" id="phone" placeholder=" ">
+          <label for="phone" >Phone Number</label>
+        </fieldset>
+        <fieldset class="col-12-12">
+          <legend class="visually-hidden">Questions and Comments</legend>
+          <textarea name="comments" id="resume" placeholder=" "></textarea>
+          <label for="resume" >Questions and Comments</label>
+        </fieldset>
+        <fieldset class="col-12-12">
+          <legend class="visually-hidden">Submit</legend>
+          <input type="submit" value="SUBMIT" title="Submit Get in Touch Form" class="bttn bttn-allwidth bttn-full">
+        </fieldset>
+      </div>
+    </article>
+  </div>
+</section>
+<!--/form lightbox-->
+
+<!--investors form lightbox-->
+<section class="lightbox lightbox-investorsForm container">
+
+  <div class="row middle center">
+    <article class="col-12-10">
+      <div class="form-box row box">
+        <a href="#" class="close icon-Properties"><span class="visually-hidden">Close</span></a>
+        <iframe src="https://ir.federalrealty.com/email-alerts?auth_token=700e58c7-f99e-4d42-8985-eec7da75cdb5" title="Email Alerts"></iframe>
+      </div>
+      <!-- <div class="form-box row box">
+        <header class="col-12-10 offset-left-12-1">
+          <a href="#" class="close icon-Properties"></a>
+          <h6>Email Alerts</h6>
+          <h2>Sign up to receive Federal Realty<br> Investment Trust financial updates<br> by e-mail.</h2>
+        </header>
+        <fieldset class="col-12-10 offset-left-12-1">
+          <input type="text" name="email" placeholder=" ">
+          <label>Email Address</label>
+        </fieldset>
+        <fieldset class="col-12-9 offset-left-12-1">
+          <label>Alert Type</label>
+          <ul>
+            <li>
+              <input type="checkbox" name="end-of-day-stock-quote" id="end-of-day-stock-quote">
+              <label for="end-of-day-stock-quote">End-of-Day Stock Quote Latest Proxy</label>
+            </li>
+            <li>
+              <input type="checkbox" name="sec-filing" id="sec-filing">
+              <label for="sec-filing">SEC Filing</label>
+            </li>
+            <li>
+              <input type="checkbox" name="end-of-day-sec-filing" id="end-of-day-sec-filing">
+              <label for="end-of-day-sec-filing">End-of-Day SEC Filing</label>
+            </li>
+            <li>
+              <input type="checkbox" name="calendar-event" id="calendar-event">
+              <label for="calendar-event">Calendar Event</label>
+            </li>
+            <li>
+              <input type="checkbox" name="press-release" id="press-release">
+              <label for="press-release">Press Release</label>
+            </li>
+            <li>
+              <input type="checkbox" name="weekly-summary" id="weekly-summary">
+              <label for="weekly-summary">Weekly Summary</label>
+            </li>
+            <li>
+              <input type="checkbox" name="annual-report" id="annual-report">
+              <label for="annual-report">Annual Report</label>
+            </li>
+            <li>
+              <input type="checkbox" name="new-presentation" id="new-presentation">
+              <label for="new-presentation">New Presentation</label>
+            </li>
+            <li>
+              <input type="checkbox" name="price-volume" id="price-volume">
+              <label for="price-volume">Price & Volume</label>
+            </li>
+          </ul>
+        </fieldset>
+        <fieldset class="col-12-10 offset-left-12-1">
+          <input type="submit" value="Subscribe" class="bttn">
+        </fieldset>
+      </div> -->
+    </article>
+  </div>
+
+</section>
+<!--/investors form lightbox-->
+
+
+<!--properties lightbox-->
+<section class="lightbox lightbox-Video container">
+  <div class="row middle center full-width">
+    <div class="col-12-12 no-pad-left no-pad-right">
+      <div class="box">
+        <a href="#" class="close icon-Properties"><span class="visually-hidden">Close</span></a>
+        <figure class="img-box video-box">
+          <video controls playsinline data-object-fit="cover" data-object-position="top center" style="height: 700px;">
+            <source src="" type="video/mp4">
+          </video>
+        </figure>
+      </div>
+    </div>
+  </div>
+</section>
+<!--/properties lightbox-->
+
+<!--Mailchimp lightbox-->
+<section class="lightbox lightbox-mailchimpForm container">
+  <div class="row middle center">
+    <article class="col-12-8">
+      <a href="#" class="close icon-Properties" style="right: 1rem;top: -1rem;"><span class="visually-hidden">Close</span></a>
+      <!-- Begin Mailchimp Signup Form -->
+      <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+      <style type="text/css">
+      #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+      /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+          We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+      </style>
+      <div id="mc_embed_signup">
+      <form action="https://federalrealty.us6.list-manage.com/subscribe/post?u=5d6258e1bf2262ae6a4836f21&amp;id=0405f9e2bb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <div id="mc_embed_signup_scroll">
+      <h2>Subscribe</h2>
+      <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+      <div class="mc-field-group">
+      <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+      </label>
+      <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+      </div>
+      <div class="mc-field-group input-group">
+          <strong>Send me retail leasing opportunities in: </strong>
+          <ul>
+              <li><input type="checkbox" value="1" name="group[5][1]" id="mce-group[5]-5-0"><label for="mce-group[5]-5-0">California</label></li>
+              <li><input type="checkbox" value="2" name="group[5][2]" id="mce-group[5]-5-1"><label for="mce-group[5]-5-1">Connecticut</label></li>
+              <li><input type="checkbox" value="4" name="group[5][4]" id="mce-group[5]-5-2"><label for="mce-group[5]-5-2">District of Columbia</label></li>
+              <li><input type="checkbox" value="8" name="group[5][8]" id="mce-group[5]-5-3"><label for="mce-group[5]-5-3">Florida</label></li>
+              <li><input type="checkbox" value="16" name="group[5][16]" id="mce-group[5]-5-4"><label for="mce-group[5]-5-4">Illinois</label></li>
+              <li><input type="checkbox" value="32" name="group[5][32]" id="mce-group[5]-5-5"><label for="mce-group[5]-5-5">Maryland</label></li>
+              <li><input type="checkbox" value="64" name="group[5][64]" id="mce-group[5]-5-6"><label for="mce-group[5]-5-6">Massachusetts</label></li>
+              <li><input type="checkbox" value="128" name="group[5][128]" id="mce-group[5]-5-7"><label for="mce-group[5]-5-7">Michigan</label></li>
+              <li><input type="checkbox" value="256" name="group[5][256]" id="mce-group[5]-5-8"><label for="mce-group[5]-5-8">New Jersey</label></li>
+              <li><input type="checkbox" value="512" name="group[5][512]" id="mce-group[5]-5-9"><label for="mce-group[5]-5-9">New York</label></li>
+              <li><input type="checkbox" value="1024" name="group[5][1024]" id="mce-group[5]-5-10"><label for="mce-group[5]-5-10">North Carolina</label></li>
+              <li><input type="checkbox" value="2048" name="group[5][2048]" id="mce-group[5]-5-11"><label for="mce-group[5]-5-11">Pennsylvania</label></li>
+              <li><input type="checkbox" value="4096" name="group[5][4096]" id="mce-group[5]-5-12"><label for="mce-group[5]-5-12">Virginia</label></li>
+          </ul>
+      </div>
+      <div class="mc-field-group input-group">
+          <strong>Stay in the know. </strong>
+          <ul><li><input type="checkbox" value="8192" name="group[13][8192]" id="mce-group[13]-13-0"><label for="mce-group[13]-13-0">I'd also like to receive occasional news &amp; announcements from Federal.</label></li>
+      </ul>
+      </div>
+      <div id="mce-responses" class="clear">
+      <div class="response" id="mce-error-response" style="display:none"></div>
+      <div class="response" id="mce-success-response" style="display:none"></div>
+      </div>
+      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_5d6258e1bf2262ae6a4836f21_0405f9e2bb"  title="Not Real Signup" tabindex="-1" value=""></div>
+      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+          </div>
+      </form>
+      </div>
+      <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+      <!--End mc_embed_signup-->
+    </article>
+  </div>
+</section>
+<!--/Mailchimp lightbox-->
+
+</div>
+<!--/wrapper-->
+
+<!-- /// -->
+
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?x70394&amp;ver=5.7.7' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.federalrealty.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/plugins/contact-form-7/includes/js/index.js?x70394&amp;ver=5.7.7' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LciygAVAAAAAJFOVcElVpsihzNXtCxlANtCQG6W&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?x70394&amp;ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?x70394&amp;ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LciygAVAAAAAJFOVcElVpsihzNXtCxlANtCQG6W","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?x70394&amp;ver=5.7.7' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/jquery-3.2.1.min.js?x70394&amp;ver=3.2.1' id='jquery3-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/js.cookie.js?x70394&amp;ver=1.0' id='js.cookie-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/browserDetection.js?x70394&amp;ver=1.0' id='browserDetection-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/ofi.min.js?x70394&amp;ver=1.0' id='ofi-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/slick.min.js?x70394&amp;ver=1.0' id='slick-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/jquery-ui.min.js?x70394&amp;ver=1.0' id='jqui-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/jquery.flexslider-min.js?x70394&amp;ver=1.0' id='flexslider-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/panzoom.min.js?x70394&amp;ver=1.0' id='panzoom.min-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/chartist.min.js?x70394&amp;ver=1.0' id='chartist.min-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/tinysort.min.js?x70394&amp;ver=1.0' id='tinysort.min-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/page-functions.js?x70394&amp;ver=1.0' id='functions-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/page-components.js?x70394&amp;ver=1.0' id='components-js'></script>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/page-views.js?x70394&amp;ver=1.0' id='views-js'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.federalrealty.com/wp-content/themes/frit/js/libraries/html5shiv.js?x70394&amp;ver=1.0' id='html5shiv-js'></script>
+<![endif]-->
+
+</body>
+
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced (SSL caching disabled) 
+Database Caching 83/96 queries in 0.042 seconds using Disk
+
+Served from: www.federalrealty.com @ 2024-10-02 04:08:12 by W3 Total Cache
+-->

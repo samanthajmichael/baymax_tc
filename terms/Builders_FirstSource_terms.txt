@@ -542,7 +542,7 @@ main .section1 > .breadcrumb-section {
 			ACC.config.themeResourcePath = '\/_ui\/responsive\/theme-bldr';
 			ACC.config.siteResourcePath = '\/_ui\/responsive\/site-bldr';
 			ACC.config.rootPath = '\/_ui\/responsive';
-			ACC.config.CSRFToken = 'e812c32b-1e24-417b-a6d5-2a4270fda35d';
+			ACC.config.CSRFToken = '1606f0c5-04ba-4fa7-80a1-b36c5f0e0408';
 			ACC.pwdStrengthVeryWeak = 'Very weak';
 			ACC.pwdStrengthWeak = 'Weak';
 			ACC.pwdStrengthMedium = 'Medium';

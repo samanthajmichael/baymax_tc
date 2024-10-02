@@ -1,0 +1,1295 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Website Terms of Use | Generac</title>
+    <meta name="description" content="Your access to and use of the Generac Power Systems web site (&quot;Site&quot;) is subject to the following Terms and Conditions and all applicable laws.">
+        <link rel="canonical" href="https://www.generac.com/policies/terms-conditions/" />
+    <link rel="stylesheet" href="/Core/css/main.min.css" />
+    <link rel="stylesheet" href="/Core/css/inline.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@5.2.0/css/swiper.min.css"/>
+    <script rel="preload" type="text/javascript" defer src="/Core/Js/vendors~main.bundle.js"></script>
+    <script type="text/javascript" src="/Core/Js/main.bundle.js"></script>
+    <script type="text/javascript" defer src="/Core/Js/inline.bundle.js"></script>
+    <script rel="preload" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@5.2.0/js/swiper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script type="text/javascript" src="https://content.webcollage.net/api/v2/product-content"></script>
+    <script type="text/javascript" src="https://generac.ugc.bazaarvoice.com/static/1506-en_us/bvapi.js"></script>
+     <script src="https://apps.usw2.pure.cloud/widgets/9.0/cxbus.min.js" onload="javascript:CXBus.configure({debug:false,pluginsPath:'https://apps.usw2.pure.cloud/widgets/9.0/plugins/'});CXBus.loadPlugin('widgets-core');" type="text/javascript"></script>
+    <script src="/Core/genesys-live-chat.js"></script>
+    <script type="text/javascript">
+        $BV.configure("global", {
+            submissionContainerUrl: "https://generac.com/submissionPage.html"
+        });
+    </script>
+    <script>
+    function loadScript(url) {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.async = true;
+        script.src = url;
+        document.head.appendChild(script);
+    }
+    if (window.location.href.indexOf('dealer-locator') !== -1) {
+        loadScript('https://apps.bazaarvoice.com/deployments/generacdealers/main_site/production/en_US/bv.js');
+    }
+    </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/vue@3.4.27/dist/vue.global.prod.min.js"></script>
+<meta name="author" content="Generac Power Systems, Inc" />
+<meta name="copyright" content="Copyright 2024 Generac Power Systems, Inc. All rights reserved." />
+<meta name="google-site-verification" content="ysxBT75tVS3mT6MjbOHeL6NBnmC35KWFy6hJb8aXa04" />
+<meta name="google-site-verification" content="aKziAsFn8pmygZaWXHX3HxKXtQCoHDGcczgWs8agWrw" />
+<meta name="google-site-verification" content="CjO6A_0mLdq4USDG6kesXTvZPSm95f6JrBRdRFjmCqo" />
+<meta name="facebook-domain-verification" content="z1mbkgjhepkqkve4hoa3hk9pb6lm0v" />
+<link rel="shortcut icon" href="/globalassets/shared/icons/favicon.ico" type="image/x-icon">
+        <meta property="og:title" content="Website Terms of Use | Generac" />
+        <meta property="og:description" content="Your access to and use of the Generac Power Systems web site (&quot;Site&quot;) is subject to the following Terms and Conditions and all applicable laws." />
+        <meta property="og:image" content="https://www.generac.com/globalassets/shared/social/og/woman-standing-near-generac-standby-generator.jpg" />
+        <meta property="og:url" content="https://www.generac.com/policies/terms-conditions/" />
+
+    <!-- Google Tag Manager generac.com -->
+    <!--todo: update script Id to pull from site settings-->
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5QSF6V73');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <script>
+!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{src: "https://js.monitor.azure.com/scripts/b/ai.2.gbl.min.js", crossOrigin: "anonymous", cfg: { instrumentationKey:'49490e56-a3f5-4192-bed1-0b41321352c9', disableCookiesUsage: false }});
+</script>
+
+    
+</head>
+<body>
+    <!-- Google Tag Manager generac.com (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QSF6V73" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <style type="text/css">
+    .search-container-header {
+        display: flex;
+    }
+</style>
+<header class="header">
+    <div class="container">
+        <div class="navigation top-navigation d-flex align-items-center h-100 bg-white">
+            <div class="mobile-navigation d-md-none">
+                <div class="hamburger-menu">
+                    <button class="menu-icon active" aria-label="Open mobile menu">
+                        <svg class="pe-none" width="26" height="16" viewBox="0 0 30 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M2 2.5H28" stroke="#00263E" stroke-width="4" stroke-linecap="round" />
+                            <path d="M2 10.5H28" stroke="#00263E" stroke-width="4" stroke-linecap="round" />
+                            <path d="M2 18.5H28" stroke="#00263E" stroke-width="4" stroke-linecap="round" />
+                        </svg>
+                    </button>
+                    <button class="close-icon" aria-label="Close mobile menu">
+                        <svg width="43" height="43" viewBox="0 0 43 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M31.799 13.6257C32.58 12.8446 32.58 11.5783 31.799 10.7972C31.0179 10.0162 29.7516 10.0162 28.9706 10.7972L21.1929 18.5749L13.6076 10.9896C12.8265 10.2086 11.5602 10.2086 10.7791 10.9896C9.9981 11.7707 9.9981 13.037 10.7791 13.8181L18.3644 21.4034L10.5858 29.182C9.80473 29.9631 9.80473 31.2294 10.5858 32.0104C11.3668 32.7915 12.6332 32.7915 13.4142 32.0104L21.1929 24.2318L29.1639 32.2028C29.945 32.9839 31.2113 32.9839 31.9923 32.2028C32.7734 31.4218 32.7734 30.1555 31.9923 29.3744L24.0213 21.4034L31.799 13.6257Z" fill="#00263E" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div class="header__logo ms-4 me-auto">
+                
+                <a href="/">
+                    <img src="/globalassets/shared/logos/generac-blue-logo.png" alt="Generac"/>
+                </a>
+
+
+            </div>
+
+                    <div class="d-md-none">
+
+                        <div class="search px-2">
+                            <button class="btn bg-white shadow-0 header-search-mobile" aria-expanded="false"
+                                    data-mdb-toggle="collapse"
+                                    data-mdb-ripple-init
+                                    data-mdb-target="#search-collapse-box"
+                                    aria-controls="search-collapse-box">
+                                <i class="fas fa-search"></i>
+                            </button>                          
+                        </div>
+
+                    </div>
+                    <ul class="d-none d-md-flex justify-content-end align-items-center w-auto me-4">
+                        <li class="search-container-header header-search input-group">
+                            <input type="text" class="search-box header-search-term standard form-control input-group-text" placeholder="Search..." aria-label="Search" aria-describedby="search-addon" />
+                            <button class="btn btn-light shadow-0 search-button border-0" id="search-addon">
+                                <i class="fas fa-search"></i>
+                            </button>
+                        </li>
+                    </ul>
+
+                <ul class="d-none d-md-flex menu justify-content-end align-items-center w-auto">
+                    <li class="active header-menu">
+                    <a href="/">Residential</a>
+                </li>
+                <li class=" header-menu">
+                    <a href="/business/">Business</a>
+                </li>
+            </ul>
+        </div>
+                <div class="collapse" id="search-collapse-box">
+                    <div class="d-md-none d-flex py-3">
+                        <div class="input-group w-100">
+                            <input type="text" class="search-box header-search-term mobile form-control input-group-text" placeholder="Search..." aria-label="Search" aria-describedby="search-addon-collapse">
+                            <button class="btn btn-light shadow-0 search-button-mobile border-0" id="search-addon-collapse">
+                                <i class="fas fa-arrow-right"></i>
+                            </button>
+
+                        </div>
+                    </div>
+                </div>
+
+    </div>
+
+
+    <nav class="header__wrapper">
+        <div class="container p-0">
+            <ul class="menu d-flex d-md-none flex-row justify-content-evenly align-items-center bg-primary mb-0">
+                <li class="active d-md-none w-auto">
+                    <a href="/">Residential</a>
+                </li>
+                <li class=" d-md-none w-auto">
+                    <a href="/business/">Business</a>
+                </li>
+
+            </ul>
+            
+<div class="navigation" aria-label="Generac Navigation">
+    <ul class="menu d-flex justify-content-between align-items-center w-100 m-0 gap-0">
+
+            <li class=" menu__list">
+                <a class="menu__item">
+                    Standby Generators
+                        <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80424 1.19576C10.2455 0.754494 9.93299 0 9.30894 0C9.12273 0 8.94419 0.074144 8.81276 0.20605L5.73871 3.29116C5.34897 3.6823 4.71596 3.68353 4.32471 3.2939L1.22581 0.207909C1.0921 0.0747573 0.911085 0 0.722385 0C0.0867825 0 -0.231528 0.768471 0.217911 1.21791L4.29289 5.29289C4.68342 5.68342 5.31658 5.68342 5.70711 5.29289L9.80424 1.19576Z" fill="#4A4A4A"/>
+                        </svg>
+                </a>
+                    <div class="menu__mega-container bg-white">
+                        <div class="mega-container__item">
+                            <div class="col-md-auto w-100 mega-menu-wrapper">
+                                <button class="close-category d-flex align-items-center justify-content-center d-md-none" aria-label="Back to Main Menu">
+                                    <svg class="pe-none" width="20" height="20" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M20 13.5C20.8284 13.5 21.5 12.8284 21.5 12C21.5 11.1716 20.8284 10.5 20 10.5L20 13.5ZM0.939341 10.9393C0.353554 11.5251 0.353554 12.4749 0.93934 13.0607L10.4853 22.6066C11.0711 23.1924 12.0208 23.1924 12.6066 22.6066C13.1924 22.0208 13.1924 21.0711 12.6066 20.4853L4.12132 12L12.6066 3.51472C13.1924 2.92893 13.1924 1.97918 12.6066 1.3934C12.0208 0.807611 11.0711 0.807611 10.4853 1.3934L0.939341 10.9393ZM20 10.5L2 10.5L2 13.5L20 13.5L20 10.5Z" fill="#00263E"/>
+                                    </svg>
+                                    Back to Main Menu
+                                </button>
+                                <a class="header-link d-md-none" aria-label="Standby Generators">Standby Generators</a>
+                                <ul class="category__item p-0">                                    
+                                        <li class="main-category">
+                                            <a href="/home-standby-generators/" class="d-block">About Home Standby</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/residential-products/standby-generators/" class="d-block">Standby Generators</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/residential-products/standby-generator-transfer-switches/" class="d-block">Transfer Switches</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/home-standby-generators/wifi-generator-monitoring/" class="d-block">Mobile Link Remote Monitoring</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/home-standby-generators/dealer-locator/" class="d-block">Find a Dealer</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/home-standby-generators/faq/" class="d-block">FAQ</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/home-standby-generators/request-quote/" class="d-block">Request a Quote</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class=" menu__list">
+                <a class="menu__item">
+                    Portable Power Solutions
+                        <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80424 1.19576C10.2455 0.754494 9.93299 0 9.30894 0C9.12273 0 8.94419 0.074144 8.81276 0.20605L5.73871 3.29116C5.34897 3.6823 4.71596 3.68353 4.32471 3.2939L1.22581 0.207909C1.0921 0.0747573 0.911085 0 0.722385 0C0.0867825 0 -0.231528 0.768471 0.217911 1.21791L4.29289 5.29289C4.68342 5.68342 5.31658 5.68342 5.70711 5.29289L9.80424 1.19576Z" fill="#4A4A4A"/>
+                        </svg>
+                </a>
+                    <div class="menu__mega-container bg-white">
+                        <div class="mega-container__item">
+                            <div class="col-md-auto w-100 mega-menu-wrapper">
+                                <button class="close-category d-flex align-items-center justify-content-center d-md-none" aria-label="Back to Main Menu">
+                                    <svg class="pe-none" width="20" height="20" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M20 13.5C20.8284 13.5 21.5 12.8284 21.5 12C21.5 11.1716 20.8284 10.5 20 10.5L20 13.5ZM0.939341 10.9393C0.353554 11.5251 0.353554 12.4749 0.93934 13.0607L10.4853 22.6066C11.0711 23.1924 12.0208 23.1924 12.6066 22.6066C13.1924 22.0208 13.1924 21.0711 12.6066 20.4853L4.12132 12L12.6066 3.51472C13.1924 2.92893 13.1924 1.97918 12.6066 1.3934C12.0208 0.807611 11.0711 0.807611 10.4853 1.3934L0.939341 10.9393ZM20 10.5L2 10.5L2 13.5L20 13.5L20 10.5Z" fill="#00263E"/>
+                                    </svg>
+                                    Back to Main Menu
+                                </button>
+                                <a class="header-link d-md-none" aria-label="Portable Power Solutions">Portable Power Solutions</a>
+                                <ul class="category__item p-0">                                    
+                                        <li class="main-category">
+                                            <a href="/portable-power-solutions/" class="d-block">About Portable Power</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/residential-products/portable-generators/" class="d-block">Portable Generators</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/portable-power-solutions/multi-use/" class="d-block">Camping &amp; Recreation</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/portable-power-solutions/home-backup/" class="d-block">Home Backup</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/residential-products/portable-generator-transfer-switches/" class="d-block">Transfer Switches</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/portable-power-solutions/homelink/" class="d-block">About Portable Transfer Switches</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/portable-power-solutions/aftermarket-parts/" class="d-block">Parts</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="https://www.generacpowerproducts.com/reconditioned/reconditioned-generators" class="d-block">Reconditioned Generators</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/portable-power-solutions/faq/" class="d-block">FAQ</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class=" menu__list">
+                <a class="menu__item">
+                    Solar Battery Storage
+                        <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80424 1.19576C10.2455 0.754494 9.93299 0 9.30894 0C9.12273 0 8.94419 0.074144 8.81276 0.20605L5.73871 3.29116C5.34897 3.6823 4.71596 3.68353 4.32471 3.2939L1.22581 0.207909C1.0921 0.0747573 0.911085 0 0.722385 0C0.0867825 0 -0.231528 0.768471 0.217911 1.21791L4.29289 5.29289C4.68342 5.68342 5.31658 5.68342 5.70711 5.29289L9.80424 1.19576Z" fill="#4A4A4A"/>
+                        </svg>
+                </a>
+                    <div class="menu__mega-container bg-white">
+                        <div class="mega-container__item">
+                            <div class="col-md-auto w-100 mega-menu-wrapper">
+                                <button class="close-category d-flex align-items-center justify-content-center d-md-none" aria-label="Back to Main Menu">
+                                    <svg class="pe-none" width="20" height="20" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M20 13.5C20.8284 13.5 21.5 12.8284 21.5 12C21.5 11.1716 20.8284 10.5 20 10.5L20 13.5ZM0.939341 10.9393C0.353554 11.5251 0.353554 12.4749 0.93934 13.0607L10.4853 22.6066C11.0711 23.1924 12.0208 23.1924 12.6066 22.6066C13.1924 22.0208 13.1924 21.0711 12.6066 20.4853L4.12132 12L12.6066 3.51472C13.1924 2.92893 13.1924 1.97918 12.6066 1.3934C12.0208 0.807611 11.0711 0.807611 10.4853 1.3934L0.939341 10.9393ZM20 10.5L2 10.5L2 13.5L20 13.5L20 10.5Z" fill="#00263E"/>
+                                    </svg>
+                                    Back to Main Menu
+                                </button>
+                                <a class="header-link d-md-none" aria-label="Solar Battery Storage">Solar Battery Storage</a>
+                                <ul class="category__item p-0">                                    
+                                        <li class="main-category">
+                                            <a href="/solar-battery-storage/" class="d-block">About Solar Battery Storage</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/solar-battery-storage/how-pwrcell-works/" class="d-block">How PWRcell Works</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/solar-battery-storage/why-pwrcell/" class="d-block">Why PWRcell </a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/solar-battery-storage/resources/tax-credits/" class="d-block">Explore Tax Credits </a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/about/news/#PWRcell" class="d-block">In the News </a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/solar-battery-storage/resources/faqs/" class="d-block">Solar Battery FAQ</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/dealers-installers/solar-battery-installer-support/" class="d-block">Installer Support</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/solar-battery-storage/request-quote/" class="d-block">Request a Quote</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class=" menu__list">
+                <a class="menu__item">
+                    EV Chargers
+                        <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80424 1.19576C10.2455 0.754494 9.93299 0 9.30894 0C9.12273 0 8.94419 0.074144 8.81276 0.20605L5.73871 3.29116C5.34897 3.6823 4.71596 3.68353 4.32471 3.2939L1.22581 0.207909C1.0921 0.0747573 0.911085 0 0.722385 0C0.0867825 0 -0.231528 0.768471 0.217911 1.21791L4.29289 5.29289C4.68342 5.68342 5.31658 5.68342 5.70711 5.29289L9.80424 1.19576Z" fill="#4A4A4A"/>
+                        </svg>
+                </a>
+                    <div class="menu__mega-container bg-white">
+                        <div class="mega-container__item">
+                            <div class="col-md-auto w-100 mega-menu-wrapper">
+                                <button class="close-category d-flex align-items-center justify-content-center d-md-none" aria-label="Back to Main Menu">
+                                    <svg class="pe-none" width="20" height="20" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M20 13.5C20.8284 13.5 21.5 12.8284 21.5 12C21.5 11.1716 20.8284 10.5 20 10.5L20 13.5ZM0.939341 10.9393C0.353554 11.5251 0.353554 12.4749 0.93934 13.0607L10.4853 22.6066C11.0711 23.1924 12.0208 23.1924 12.6066 22.6066C13.1924 22.0208 13.1924 21.0711 12.6066 20.4853L4.12132 12L12.6066 3.51472C13.1924 2.92893 13.1924 1.97918 12.6066 1.3934C12.0208 0.807611 11.0711 0.807611 10.4853 1.3934L0.939341 10.9393ZM20 10.5L2 10.5L2 13.5L20 13.5L20 10.5Z" fill="#00263E"/>
+                                    </svg>
+                                    Back to Main Menu
+                                </button>
+                                <a class="header-link d-md-none" aria-label="EV Chargers">EV Chargers</a>
+                                <ul class="category__item p-0">                                    
+                                        <li class="main-category">
+                                            <a href="/ev-chargers/" class="d-block">About EV Chargers</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/ev-chargers/level-2-ev-chargers-product-details/" class="d-block">Product Details</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/ev-chargers/ev-charger-installation-at-home/" class="d-block">Installation</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/ev-chargers/faq/" class="d-block">FAQ</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/ev-chargers/request-quote/" class="d-block">Request a Quote</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class=" menu__list">
+                <a class="menu__item">
+                    Owner Support
+                        <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80424 1.19576C10.2455 0.754494 9.93299 0 9.30894 0C9.12273 0 8.94419 0.074144 8.81276 0.20605L5.73871 3.29116C5.34897 3.6823 4.71596 3.68353 4.32471 3.2939L1.22581 0.207909C1.0921 0.0747573 0.911085 0 0.722385 0C0.0867825 0 -0.231528 0.768471 0.217911 1.21791L4.29289 5.29289C4.68342 5.68342 5.31658 5.68342 5.70711 5.29289L9.80424 1.19576Z" fill="#4A4A4A"/>
+                        </svg>
+                </a>
+                    <div class="menu__mega-container bg-white">
+                        <div class="mega-container__item">
+                            <div class="col-md-auto w-100 mega-menu-wrapper">
+                                <button class="close-category d-flex align-items-center justify-content-center d-md-none" aria-label="Back to Main Menu">
+                                    <svg class="pe-none" width="20" height="20" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M20 13.5C20.8284 13.5 21.5 12.8284 21.5 12C21.5 11.1716 20.8284 10.5 20 10.5L20 13.5ZM0.939341 10.9393C0.353554 11.5251 0.353554 12.4749 0.93934 13.0607L10.4853 22.6066C11.0711 23.1924 12.0208 23.1924 12.6066 22.6066C13.1924 22.0208 13.1924 21.0711 12.6066 20.4853L4.12132 12L12.6066 3.51472C13.1924 2.92893 13.1924 1.97918 12.6066 1.3934C12.0208 0.807611 11.0711 0.807611 10.4853 1.3934L0.939341 10.9393ZM20 10.5L2 10.5L2 13.5L20 13.5L20 10.5Z" fill="#00263E"/>
+                                    </svg>
+                                    Back to Main Menu
+                                </button>
+                                <a class="header-link d-md-none" aria-label="Owner Support">Owner Support</a>
+                                <ul class="category__item p-0">                                    
+                                        <li class="main-category">
+                                            <a href="/support/" class="d-block">Support Overview</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/support/product-info-user-manuals/" class="d-block">Product Information &amp; User Manuals</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="https://support.generac.com/s/" class="d-block">FAQs</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="https://register.generac.com/" class="d-block">Product Registration</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/support/promo-status-lookup/" class="d-block">Promotion Status Lookup</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/support/aftermarket-parts/" class="d-block">Parts</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/support/request-service-standby-generators/" class="d-block">Request Service for Standby Generators</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+            <li class=" menu__list">
+                <a class="menu__item">
+                    More
+                        <svg width="11" height="6" viewBox="0 0 11 6" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.80424 1.19576C10.2455 0.754494 9.93299 0 9.30894 0C9.12273 0 8.94419 0.074144 8.81276 0.20605L5.73871 3.29116C5.34897 3.6823 4.71596 3.68353 4.32471 3.2939L1.22581 0.207909C1.0921 0.0747573 0.911085 0 0.722385 0C0.0867825 0 -0.231528 0.768471 0.217911 1.21791L4.29289 5.29289C4.68342 5.68342 5.31658 5.68342 5.70711 5.29289L9.80424 1.19576Z" fill="#4A4A4A"/>
+                        </svg>
+                </a>
+                    <div class="menu__mega-container bg-white">
+                        <div class="mega-container__item">
+                            <div class="col-md-auto w-100 mega-menu-wrapper">
+                                <button class="close-category d-flex align-items-center justify-content-center d-md-none" aria-label="Back to Main Menu">
+                                    <svg class="pe-none" width="20" height="20" viewBox="0 0 22 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M20 13.5C20.8284 13.5 21.5 12.8284 21.5 12C21.5 11.1716 20.8284 10.5 20 10.5L20 13.5ZM0.939341 10.9393C0.353554 11.5251 0.353554 12.4749 0.93934 13.0607L10.4853 22.6066C11.0711 23.1924 12.0208 23.1924 12.6066 22.6066C13.1924 22.0208 13.1924 21.0711 12.6066 20.4853L4.12132 12L12.6066 3.51472C13.1924 2.92893 13.1924 1.97918 12.6066 1.3934C12.0208 0.807611 11.0711 0.807611 10.4853 1.3934L0.939341 10.9393ZM20 10.5L2 10.5L2 13.5L20 13.5L20 10.5Z" fill="#00263E"/>
+                                    </svg>
+                                    Back to Main Menu
+                                </button>
+                                <a class="header-link d-md-none" aria-label="More">More</a>
+                                <ul class="category__item p-0">                                    
+                                        <li class="main-category">
+                                            <a href="/residential-products/home-maintenance/pressure-washers/" class="d-block">Pressure Washers</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/residential-products/home-maintenance/water-trash-pumps/" class="d-block">Water &amp; Trash Pumps</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="https://www.generacpowerproducts.com/reconditioned" class="d-block">Reconditioned Products</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/services-applications/propane-monitoring/" class="d-block">Propane Monitoring</a>
+                                        </li>
+                                        <li class="main-category">
+                                            <a href="/prepare/" class="d-block">Resources</a>
+                                        </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+            </li>
+
+    </ul>
+</div>
+
+
+
+
+            <div class="mobile-nav-footer d-none">
+                
+
+    <footer id="global-footer" class="bg-white">
+        <div class="footer pt-5 pb-5">
+            <div class="container">
+                <div class="footer__wrapper d-flex justify-content-between align-items-start">
+                    <div class="footer__info w-100 w-md-auto d-flex flex-column">
+                        <a href="/business/support/dealer-locator/" class="text-decoration-none">Dealer locator</a>
+                        <a href="/home-standby-generators/request-quote/" class="text-decoration-none">Request A Quote</a>
+                        <a href="/about/recalls/" class="text-decoration-none">Recall info</a>
+                        <br>
+                        <a href="/about/" class="text-decoration-none">Company</a>
+                        <a href="/dealers-installers/" class="text-decoration-none">Dealers and Installers</a>
+                        <br>
+                        <a href="/policies/terms-conditions/" class="text-decoration-none">Terms of use</a>
+                        <a href="/policies/" class="text-decoration-none">Privacy Notice &amp; Practices</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+
+
+    <div id="main-container" class="Page">
+        
+<div class="container-fluid g-0">
+    <div class="container-fluid g-0">
+        
+
+        <div class="container">
+            
+    <div class="row mt-3 d-none overflow-hidden d-md-block breadcrumb-mobile">
+        <nav aria-label="breadcrumb" class="breadcrumb_navigation overflow-auto">
+            <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item"><a href="/policies/">Policies</a></li>
+                    <li class="breadcrumb-item"><a>Terms of Use</a></li>
+            </ol>
+        </nav>
+    </div>
+
+        </div>
+    </div>
+    <div class="container-fluid g-0">
+        
+<div><section id="HeadlineTextBlock" class="bg-white text-start">
+    <div class="container container-text-block-spacing">
+        <h2 class="pb-2">
+<h3>Generac.com&nbsp;Terms of Use</h3></h2>
+        
+<p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--> <!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-ascii-font-family:Aptos;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Aptos;
+	mso-hansi-theme-font:minor-latin;
+	mso-font-kerning:1.0pt;
+	mso-ligatures:standardcontextual;}
+</style>
+<![endif]--> <!--StartFragment--></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">Your access to and use of the Generac Power Systems web site ("Site") is subject to the following Terms and Conditions and all applicable laws. By accessing and browsing the Site, you accept, without limitation or qualification, these Terms and Conditions and acknowledge that any other agreements between you and Generac Power Systems ("Generac") are superseded and, have no force or effect.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">USE OF INFORMATION</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">You may view the Site and print individual pages from the Site for your use in learning about, evaluating or acquiring Generac's products or services, provided that you agree to and accept without modification the Terms and Conditions set forth in this Legal Notice. You, or anyone acting on your behalf, may not modify, copy, reproduce, display, distribute, reuse, transmit, publish, license, create derivative works from, transfer or sell any information, including text, images, audio and animation from the Site without written permission from Generac.</span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">No permission is granted within this Notice to you to use Generac names, images or logos, site addresses or other means to hyperlink other Internet sites with any page in the Site.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">FORWARD-LOOKING AND CAUTIONARY STATEMENTS</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">This website may contain certain &ldquo;forward-looking statements&rdquo; and &ldquo;forward-looking information&rdquo; under applicable securities laws. Except for statements of historical fact, certain information contained herein may constitute forward-looking statements. Forward-looking statements are frequently characterized by words such as &ldquo;plan&rdquo;, &ldquo;expect&rdquo;, &ldquo;project&rdquo;, &ldquo;intend&rdquo;, &ldquo;believe&rdquo;, &ldquo;anticipate&rdquo;, &ldquo;estimate&rdquo;, and other similar words, or statements that certain events or conditions &ldquo;may&rdquo; or &ldquo;will&rdquo; occur. Forward looking information may include, but is not limited to, statements with respect to the future financial or operating performances of the Corporation and its subsidiaries. Forward-looking statements are based on the opinions and estimates of management at the date the statements are made, and are based on a number of assumptions and subject to a variety of risks and uncertainties and other factors that could cause actual events or results to differ materially from those projected in the forward-looking statements. Many of these assumptions are based on factors and events that are not within the control of the Corporation and there is no assurance they will prove to be correct. Although the Corporation has attempted to identify important factors that could cause actual actions, events or results to differ materially from those described in forward-looking statements, there may be other factors that cause actions, events or results not to be anticipated, estimated or intended. There can be no assurance that forward-looking statements will prove to be accurate, as actual results and future events could differ materially from those anticipated in such statements. The Corporation undertakes no obligation to update forward-looking statements if circumstances or management&rsquo;s estimates or opinions should change except as required by applicable securities laws. The reader is cautioned not to place undue reliance on forward-looking statements. Rather, we direct the reader&rsquo;s attention to the &ldquo;SEC Filings&rdquo; link under &ldquo;Investor Relations&rdquo; on this Site for copies of our most recent filings with the U.S. Securities and Exchange Commission.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">INTELLECTUAL PROPERTY</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">Everything you see or read on the Site shall be considered Generac's intellectual property and is protected unless otherwise noted and may not be used except as provided in these Terms and Conditions or in the text on the Site without the express written permission of Generac. The Generac names, logos and all related product names, service names, design marks and slogans displayed on the Site are trademarks, service marks or other intellectual property of Generac and may not be used in any manner without the express written consent of Generac. Nothing on the Site shall be construed as granting, by implication, or otherwise, any license or right to use any intellectual property at the Site. Any failure to comply with the terms, conditions, and notices on this site will result in automatic termination of any rights granted to you, without prior notice, and you must immediately destroy all copies of downloaded materials in your possession or control.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">REVISIONS</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">Generac maintains the Site for your information, education and evaluation of Generac products or services. The content of the Site may contain inadvertent inaccuracies, omissions and typographical errors. Generac makes no warranties or representations about the accuracy or completeness of the Site content. Generac reserves the right to improve, revise and correct the Site, in whole or in part, at any time without notice. Generac expressly disclaims all liability for the use or interpretation by others of information contained in the Site. Any user who utilizes, or makes decisions based on information contained in the Site does so at their own risk. In exchange for using the Site, the visitor agrees to hold Generac harmless against any claims or damages arising from the use of the Site and from any decisions that the visitor makes based on such information.</span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">Generac may, at any time, revise these Terms and Conditions of Use for the Site by updating this posting. By using the Site, you agree to be bound by any such revisions and should periodically visit this page to review the current Terms and Conditions of Use to which you are bound.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">DISCLAIMER OF WARRANTY</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">GENERAC DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE, VALIDITY, ACCURACY, THE CONTENT OF THE SITE OR ANY OTHER WEB SITE LINKED TO OR FROM SAID SITE. THE MATERIALS AND INFORMATION ON THIS SITE ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OR MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE ARISING FROM A COURSE OF DEALING, USAGE OR TRADE PRACTICE. GENERAC SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES INCLUDING, WITHOUT LIMITATION, LOST PROFITS OR REVENUES, COSTS OR REPLACEMENT GOODS, LOSS OR DAMAGE TO DATA ARISING OUT OF THE USE OR INABILITY TO USE THIS WEB SITE, ANY OTHER HYPERLINKED WEB SITE OR ANY GENERAC PRODUCT, DAMAGES RESULTING FROM THE USE OF OR RELIANCE ON THE INFORMATION PRESENTED, EVEN IF GENERAC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">Some jurisdictions do not allow the exclusion of consequential damages, so the above exclusion may not apply to you. Generac assumes no responsibility, and shall not be liable for, any damages to, or viruses that may infect, your computer equipment or other property on account of your access to, use of, or browsing the Site or your downloading of any materials, data, text, images, video, or audio from the Site.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">LINKS</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">Generac has not reviewed any or all of the Internet sites linked to the Site and is not responsible for the content of any off-site pages or any other sites linked to the Site. Access to any other Internet site linked to the Site is at the user's own risk and Generac is not responsible for the accuracy or reliability of any information, data, opinions, advice or statements made on these sites. Generac provides links from the Site merely as a convenience and the inclusion of such links does not imply an endorsement by Generac of these sites.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">LINKING TO THIS SITE</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">All links to this Site must be approved in writing by Generac. Generac consents to a link to this Site only if the link and its associated pages do not (a) misrepresent your relationship with Generac; (b) imply that Generac approves or endorses your Web site, or your service or product offerings; and (c) present false or misleading impressions about Generac or otherwise damage the goodwill associated with the Generac name or trademarks.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">EMPLOYMENT</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">Generac also may make employment information available through the Site. Generac is an equal opportunity employer and provides equal employment opportunity to qualified persons without regard to race, religion, sex, national origin, age, veteran status or disability. Generac's policy relates to all phases of employment including recruitment, placement, promotion, training, demotion, layoff, recall, termination, pay rate, employee benefits and participation in all company sponsored employee activities. All positions stated on this site may or may not be filled, and will be updated periodically.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">SEVERABILITY</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">The illegality or unenforceability of any provision of relevant terms and conditions, policies and notices shall not affect the validity and enforceability of any remaining provisions hereof.</span></p>
+<p class="MsoNormal" style="line-height: normal; mso-outline-level: 2; background: white; vertical-align: baseline; margin: 7.5pt 0in 7.5pt 0in;"><strong><span style="font-size: 13.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #dd6e1d; text-transform: uppercase; mso-font-kerning: 0pt; mso-ligatures: none;">FORUM SELECTION / APPLICABLE LAW</span></strong></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;"><span style="font-size: 12.0pt; font-family: 'Segoe UI',sans-serif; mso-fareast-font-family: 'Times New Roman'; color: #666666; mso-font-kerning: 0pt; mso-ligatures: none;">Use of this website shall in all respects be governed by the laws of the State of Wisconsin, United States without reference to the principles of conflicts of law. User expressly agrees that any suit brought relating to use of this website shall be brought in a court of competent jurisdiction located in the State of Wisconsin, United States.</span></p>
+<p class="MsoNormal" style="margin-bottom: 12.0pt; line-height: normal; background: white; vertical-align: baseline;">&nbsp;</p>
+<h3>Mobile Terms and Conditions</h3>
+<p>Effective Date: 8/19/2024</p>
+<p><strong>GENERAC UPDATES</strong></p>
+<p>We take your privacy seriously. Please visit <a href="/policies/privacy/">https://www.generac.com/policies/privacy/</a> to review our privacy policy.</p>
+<p>Opt-in to receive important messages from Generac Power Systems, Inc. regarding updates on your home power needs. This includes notifications about dealer matches, quotes, special offers, and other important updates. Text GENERAC to 21826 to opt-in. Message frequency varies. <strong>Message and data rates may apply.</strong></p>
+<p>By opting into this service, you consent to receive mobile text alerts using an automatic telephone dialing system. Consent to receive marketing text messages is not required as a condition of purchasing any goods or services. When you provide your consent, we collect your phone number to send you text messages and call you for our marketing purposes. We do not share your phone number with third parties for those third parties to text or call you for their own purposes.</p>
+<p>By signing up, you are confirming you are over the age of 13.</p>
+<p>&nbsp;</p>
+<p><strong>STOP Information</strong></p>
+<p>Text <strong>STOP </strong>to 21826 to stop receiving Generac Updates messages from Generac Power Systems Inc. (you will receive a confirmation text).</p>
+<p><strong>HELP Information</strong></p>
+<p>For additional information, text <strong>HELP </strong>to 21826 or contact 1-888-436-3722.</p>
+<p><strong>Supported carriers are:</strong></p>
+<p>AT&amp;T, Sprint, T-Mobile&reg;, Verizon Wireless, Boost, Cricket, MetroPCS, U.S. Cellular, Virgin Mobile, Google Voice, ACS Wireless, Advantage Cellular (DTC Wireless), Appalachian Wireless, Atlantic Tele-Network International (ATN), Bandwidth, Bluegrass Cellular, Buffalo Wireless, CableVision, Carolina West Wireless, Cellcom, Copper Valley, C-Spire Wireless (formerly Cellsouth), Cellular One of East Central Illinois, Chariton Valley Cellular, Cross (dba Sprocket), Duet IP, Element Mobile, EpicTouch, GCI Communications, Golden State, Hawkeye (Chat Mobility), Hawkeye (NW Missouri Cellular), i Wireless (IOWA Wireless), Illinois Valley Cellular, Immix (Keystone Wireless / PC Management), Inland Cellular, Mobi PCS (Coral Wireless LLC), Mosaic, MTA Communications, MTPCS / Cellular One (Cellone Nation), Nex-Tech Wireless, Panhandle Telecommunications, Peoples Wireless, Pine Belt Wireless, Pine Cellular, Pioneer, Plateau, Revol Wireless, RINA, SI Wireless/Mobile Nation, SouthernLinc, SRT Wireless, Thumb Cellular, Union Wireless, United, Viaero Wireless, West Central Wireless, Leaco, Nemont/Sagebrush. T-Mobile is not liable for delayed or undelivered messages.</p>
+<p class="MsoNormal"><span style="font-family: 'Segoe UI',sans-serif;">&nbsp;</span></p>
+<p><!--EndFragment--></p>
+    </div>
+</section>
+</div>
+    </div>
+</div>
+
+    </div>
+
+    
+
+    <footer id="global-footer" class="bg-primary">
+        <div class="footer pt-5 pb-5">
+            <div class="container">
+                <div class="footer__wrapper d-flex justify-content-between align-items-start">
+                    <div class="footer__info w-100 w-md-auto d-flex flex-column justify-content-center align-items-center text-center">
+                        <a href="#" class="logo">
+                            
+         <img src="/globalassets/shared/logos/generac-color-logo.svg" alt="Generac"/>
+
+                        </a>
+                        <div class="contact-us">
+                            
+<p><a href="/about/contact-us/">Contact Us</a><br />US/Canada: <a href="tel:18884363722" target="_blank" rel="noopener">1-888-Generac</a>&nbsp;<br class="d-none d-md-block d-xxl-none" />(<a href="tel:18884363722" target="_blank" rel="noopener">436-3722</a>)<br />International: <a href="tel:12625444811">1-262-544-4811</a></p>
+                        </div>
+                        <div class="footer_btnWrapper d-flex flex-column justify-content-center align-items-center">
+                            <a href="/home-standby-generators/request-quote/" class="btn btn-secondary">Request A Quote</a>
+                            <a href="/home-standby-generators/dealer-locator/" class="btn btn-outline-white">Find a Dealer</a>
+                        </div>
+                        <a href="/support/" class="online-support">Owner Support <i class="fas fa-chevron-right"></i></a>
+                        <div class="footer_social-media-wrapper">
+                            <p class="connect-with-us">Connect</p>
+                            <div class="d-flex justify-content-between align-items-center gap-3 pt-2">
+                                    <a href="https://www.facebook.com/Generac">
+                                        <img alt=">Facebook (Meta) icon" src="/contentassets/f6cb0f7e112f4814bfccb53b723c78ec/facebook.svg" />
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/generac-power-systems">
+                                        <img alt=">Linkedin icon" src="/contentassets/f6cb0f7e112f4814bfccb53b723c78ec/linkedin.svg" />
+                                    </a>
+                                    <a href="https://twitter.com/generac">
+                                        <img alt=">X" src="/contentassets/f6cb0f7e112f4814bfccb53b723c78ec/x.svg" />
+                                    </a>
+                                    <a href="https://www.youtube.com/user/Generacpowersystems">
+                                        <img alt=">YouTube Icon" src="/contentassets/f6cb0f7e112f4814bfccb53b723c78ec/youtube.svg" />
+                                    </a>
+                            </div>
+                        </div>
+                        <p>&#xA9; 2024 Generac Power Systems, Inc. All rights reserved. | <a href="/policies/">Privacy Notice &amp; Practices</a></p>
+                    </div>
+                    <div class="footer__links-wrapper d-none d-md-flex justify-content-between align-items-start">
+                            <div class="footer__links d-flex flex-column justify-content-between">
+                                <div class="title h5">
+                 <a title="About Us" href="/about/">About Us</a>
+</div>
+                                    <div class="d-flex flex-column">
+
+                 <a title="Dealer Locator" href="/home-standby-generators/dealer-locator/">Dealer Locator</a>
+
+                 <a title="Media Newsroom" href="/about/news/">Media Newsroom</a>
+
+                <a target="_blank" title="Investors" href="https://investors.generac.com/">Investors</a>
+
+                 <a title="ESG" href="/about/esg/">ESG</a>
+
+                <a target="_blank" title="Community" href="/about/community/">Community</a>
+
+                 <a title="Important Recall Information" href="/about/recalls/">Important Recall Information</a>
+
+                 <a title="Supplier Support" href="/about/supplier-support/">Supplier Support</a>
+
+                 <a title="Careers at Generac" href="/about/careers/">Careers at Generac</a>
+                                    </div>
+                            </div>
+                            <div class="footer__links d-flex flex-column justify-content-between">
+                                <div class="title h5">
+                 <a title="Professional Installation Programs" href="/dealers-installers/">Professional Installation Programs</a>
+</div>
+                                    <div class="d-flex flex-column">
+
+                 <a title="Become an Installation Partner" href="/dealers-installers/generac-installer-programs/">Become an Installation Partner</a>
+
+                 <a title="Builder Alliance" href="/dealers-installers/builder-alliance/">Builder Alliance</a>
+
+                <a target="_blank" title="Generac 360" href="https://generac360.generac.com/">Generac 360</a>
+
+                <a target="_blank" title="GENconnect" href="https://gc2.genconnect.generac.com/WebID/login">GENconnect</a>
+
+                <a target="_blank" title="Generac Service" href="https://identity.generac.com/Account/Login">Generac Service</a>
+
+                <a target="_blank" title="Generac University" href="https://generac-fs.inquisiqlms.com/Default.aspx">Generac University</a>
+
+                <a target="_blank" title="Careers at Generac Dealers" href="https://www.generacdealercareers.com/us/en/">Careers at Generac Dealers</a>
+                                    </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <script defer="defer" src="/Util/Find/epi-util/find.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded',function(){if(typeof FindApi === 'function'){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}})
+</script>
+
+</body>
+
+</html>

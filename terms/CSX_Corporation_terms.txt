@@ -1,0 +1,1451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="cleartype" content="on">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="generator" content="CSX Sitmanager CMS 10.0.698" />
+<meta name="google-site-verification" content="XbZ1dFlpEKxGNIUKnsSV8XONxj63XDflc_hoZNC0YUI" />
+
+<meta name="description" content="CSX is a leading supplier of rail-based freight transportation in North America. But there's more to CSX than you might expect. Learn all about CSX and discover what we're doing for our customers, environment and communities. Visit http://www.csx.com/." />
+<meta name="keywords" content="Railroad, Transportation, Transloading and Logistics" />
+
+	<link rel="stylesheet" type="text/css" href="https://serverapi.arcgisonline.com/jsapi/arcgis/2.6/js/dojo/dijit/themes/Claro/Claro.css">
+<!-- Open Graph Tags for Media Sharing -->
+<meta property="og:title" content="CSX.com - Terms of Use" />
+<meta property="og:description" content="CSX is a leading supplier of rail-based freight transportation in North America. But there's more to CSX than you might expect. Learn all about CSX and discover what we're doing for our customers, environment and communities. Visit http://www.csx.com/." />
+      
+
+
+
+<link rel="icon" href="/sites/wwwcsx15/includes/themes/wwwcsx/images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/sites/wwwcsx15/includes/themes/wwwcsx/images/favicon.ico" type="image/x-icon" />
+
+
+<title>Terms of Use - CSX.com</title>
+
+<script  type="text/javascript" >
+	var themepath="/sites/wwwcsx15/includes/themes/wwwcsx";
+	var siteid="wwwcsx15";
+	var ishome="NO";
+	var rtmgalDiesel         = "";
+    var co2Highway         = "";
+
+	var doc = document.documentElement;
+	doc.setAttribute('data-useragent',  navigator.userAgent);
+	doc.setAttribute('data-platform', navigator.platform );
+</script>
+<script src="/sites/wwwcsx15/includes/themes/wwwcsx/js/jquery-2.1.4.min.js" type="text/javascript"></script>
+<script src="/sites/wwwcsx15/includes/themes/wwwcsx/js/actions.js?version=20241001" type="text/javascript"></script>
+
+
+
+
+<link rel="stylesheet" href="/sites/wwwcsx15/css/mura.6.1.1.min.css">
+
+<link href="/sites/wwwcsx15/includes/themes/wwwcsx/css/styles.css?version=20241001" rel="stylesheet" type="text/css" />
+<link href="/sites/wwwcsx15/includes/themes/wwwcsx/css/styles-inc.css?version=20241001" rel="stylesheet" type="text/css" />
+
+
+
+<link href="/sites/wwwcsx15/includes/themes/wwwcsx/css/formbuilder.css?version=20241001" rel="stylesheet" type="text/css" />
+<script src="/sites/wwwcsx15/includes/themes/wwwcsx/js/jqueryvalidation/jquery.validate.csx.js?version=20241001" type="text/javascript"></script>
+
+
+
+<link href="/sites/wwwcsx15/includes/themes/wwwcsx/css/media-queries.css?version=20241001" rel="stylesheet" type="text/css" />
+
+	<!-- CSX Search Verification Codes -->
+	<meta name="msvalidate.01" content="A3913F8A6EA90536639D289C9FCD66FB" />
+	<meta name="google-site-verification" content="UUCDPt_b2Y_wgyW61DZjFCKw8aeY9Cjv5rlEnq7NOqM" />
+	<meta name="y_key" content="146410ad0b9716af" />
+
+
+<!-- CSX Search Verification Codes -->
+<meta name="msvalidate.01" content="A3913F8A6EA90536639D289C9FCD66FB" />
+<meta name="google-site-verification" content="UUCDPt_b2Y_wgyW61DZjFCKw8aeY9Cjv5rlEnq7NOqM" />
+<meta name="y_key" content="146410ad0b9716af" />
+
+
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-58T88XBVN1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-58T88XBVN1');
+	</script>
+
+
+
+
+<meta b="3">
+
+
+  
+
+<script type="text/javascript" src="/core/modules/v1/core_assets/js/mura.min.js?v=10.0.698"></script>
+<script>
+Mura.init({
+loginURL:"?display=login",
+siteid:"wwwcsx15",
+contentid:"A8ACD196-A13F-1ACB-ED8E722B168523C3",
+contenthistid:"A8D8BA57-A3D2-2304-615AA772F4AC85AF",
+changesetid:"",
+parentid:"A86517EE-A719-907D-8A09D0DA4E1EB8DD",
+context:"",
+indexfileinapi:true,
+nocache:0,
+assetpath:"/sites/wwwcsx15",
+corepath:"/core",
+fileassetpath:"/share/wwwcsx15",
+themepath:"/sites/wwwcsx15/includes/themes/wwwcsx",
+reCAPTCHALanguage:"en",
+preloaderMarkup: "",
+mobileformat: false,
+windowdocumentdomain: "",
+layoutmanager:false,
+type:"Page",
+subtype:"Landing",
+queueObjects: true,
+rb:{"formcheckboxlabelclass":"checkbox","formgeneralcontrolclass":"form-control","formrequiredlabel":"Required","formcheckboxclass":"","formradiolabelclass":"radio","formbuttoncancelclass":"form-cancel btn-primary pull-right","formwrapperbodyclass":"","formbuttonsubmitclass":"form-submit  btn-primary","formtextareaclass":"form-control","formfileclass":"form-control","formbuttoninnerclass":"input-group-btn","formbuttonsubmitwaitlabel":"Please Wait...","formbuttonwrapperclass":"btn-group","formrequiredwrapperclass":"","formbuttonnextclass":"form-nav","formbuttonclass":"btn btn-default","formbuttonnextlabel":"Next","formradioclass":"","formbuttomsubmitclass":"form-submit  btn-primary","formfieldlabelclass":"control-label","formbuttonbacklabel":"Back","formerrorwrapperclass":"","formwrapperclass":"","formradiowrapperclass":"","formbuttonbackclass":"form-nav","formresponsewrapperclass":"","formselectclass":"form-control","generalwrapperbodyclass":"","formcheckboxwrapperclass":"","generalwrapperclass":"well","formfileplaceholder":"Select File","forminputclass":"form-control","formfieldwrapperclass":"form-group","formbuttonsubmitlabel":"Submit","formbuttoncancellabel":"Cancel"},
+dtExample:"11/10/2024",
+dtCh:"/",
+dtFormat:[0,1,2],
+dtLocale:"en-US"
+});
+</script>
+<script>
+$(function(){
+	mura.loader()
+	.loadcss("/requirements/prettify/themes/tomorrow-night.min.css")
+	.loadjs("/requirements/prettify/prettify.min.js",
+	function(){
+		!function($){$(function(){window.prettyPrint && prettyPrint()});}(window.jQuery)
+	});
+});
+</script></head>
+
+<style>
+	#content_main { min-height: 465px; }
+</style>
+
+<body>
+	
+
+<div id="header_main">
+  
+	<div class="header_margins">&nbsp;</div>
+	<div id="header_logo">
+		<a href="/"><img border="0" src="/sites/wwwcsx15/includes/themes/wwwcsx/images/csxlogo_3.png"/></a>
+	</div>
+
+	
+
+	<div id="header_menu_desktop">
+		
+		<style type="text/css">.csxq4stock { margin: 0px; font-size: 12px; display: inline; } .csxq4stock p { margin: 0px;  } .stockspacer { margin: 0px; }</style>
+<p class="stockspacer">&nbsp;</p>
+
+<p class="csxq4stock"><a href="https://investors.csx.com/stock-information/default.aspx">CSX $<span id="TradePrice">&nbsp;</span> <span id="updown">&nbsp;</span><span id="Change">&nbsp;</span> <span id="PercChange">&nbsp;</span></a></p>
+
+<p class="csxq4stock"><a href="https://www.shipcsx.com" target="_blank">&nbsp;/&nbsp; ShipCSX</a> &nbsp;/&nbsp; REPORT AN EMERGENCY: 1-800-232-0144 &nbsp;/&nbsp; <a href="/index.cfm/about-us/company-overview/website-accessibility/"><img alt="Accessibility Icon" border="0" class="magicHover iconplacement ckeditor-dark" src="/share/wwwcsx15/assets/Image/Global/accessibility.png" /></a><img alt="Accessibility Icon" border="0" class="ckeditor-show ckeditor-dark" src="/share/wwwcsx15/assets/Image/Global/accessibility-hover.png" /></p>
+<script type="text/javascript">
+  $('head').append('<meta name="facebook-domain-verification" content="apqn9j66xuj15divnt2k1ys6nmg79n" />');
+  var apiUrl = 'https://csx2019ir.q4web.com/feed/StockQuote.svc/GetStockQuoteList?apiKey=BF185719B0464B3CB809D23926182246&exchange=XNAS&symbol=CSX&pageSize=1';
+
+$.getJSON(apiUrl,
+         function(data) {
+if(data.GetStockQuoteListResult != null)
+    {
+          document.getElementById("TradePrice").innerText =data.GetStockQuoteListResult[0].TradePrice.toFixed(2);
+          document.getElementById("Change").innerText = data.GetStockQuoteListResult[0].Change;
+          document.getElementById("PercChange").innerText = "("+ data.GetStockQuoteListResult[0].PercChange + ")";
+
+          let percChange = data.GetStockQuoteListResult[0].PercChange;
+        if((percChange === 0 ? percChange : percChange > 0 ? 1 : -1) == -1){
+          document.getElementById("Change").style.color = "#ff1c1c";
+          document.getElementById("PercChange").style.color = "#ff1c1c";
+          document.getElementById("updown").innerHTML = "<img class='stock_middle' src='/sites/wwwcsx15/includes/themes/wwwcsx/images/arrow_stock_down.png'/>";
+        } else {
+          document.getElementById("Change").style.color = "#00bd3f";
+          document.getElementById("PercChange").style.color = "#00bd3f";
+          document.getElementById("updown").innerHTML = "<img class='stock_middle' src='/sites/wwwcsx15/includes/themes/wwwcsx/images/arrow_stock_up.png'/>";
+        }
+}
+});
+ </script>
+		<ul class="ul_header_menu">
+			
+				
+					
+					<li unselectable="on" class="noselect" onclick="toggleNavDrop('573FB8F0-B41A-98A7-30A65E8658B5FA64')"><span id="nav-573FB8F0-B41A-98A7-30A65E8658B5FA64" class="text_e1b">About Us</span></li>
+				
+					
+					<li unselectable="on" class="noselect" onclick="toggleNavDrop('875BA4F3-90A6-1C90-B956F1A78B8D80DD')"><span id="nav-875BA4F3-90A6-1C90-B956F1A78B8D80DD" class="text_e1b">Community</span></li>
+				
+					
+					<li unselectable="on" class="noselect" onclick="toggleNavDrop('87616B15-FFF0-DEC8-DF128AA9D35F6590')"><span id="nav-87616B15-FFF0-DEC8-DF128AA9D35F6590" class="text_e1b">Customers</span></li>
+				
+					
+					<li unselectable="on" class="noselect" onclick="toggleNavDrop('87653F53-9B9F-89ED-E37D35D93B7EAF3E')"><span id="nav-87653F53-9B9F-89ED-E37D35D93B7EAF3E" class="text_e1b">Suppliers</span></li>
+				
+					
+					<li unselectable="on" class="noselect" onclick="toggleNavDrop('14B6A9A6-B79F-39DF-D5F7C68E64AC397E')"><span id="nav-14B6A9A6-B79F-39DF-D5F7C68E64AC397E" class="text_e1b">Investors</span></li>
+				
+					
+					<li unselectable="on" class="noselect" onclick="toggleNavDrop('876CBE5E-C676-F1D3-7064E8F8DE644560')"><span id="nav-876CBE5E-C676-F1D3-7064E8F8DE644560" class="text_e1b">Working at CSX</span></li>
+				
+			
+		</ul>
+		
+	</div>
+
+	<div id="header_menu_desktop_drop">
+	
+	
+		
+			
+			
+				
+					
+				
+			<div id="navDrop-573FB8F0-B41A-98A7-30A65E8658B5FA64" style="display:none;">
+			
+			
+			
+
+			
+			
+				
+				
+					
+				<div class="header_menu_column_a">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/EEA223DF-D5E6-E89D-783AB492CF8C4139_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="/index.cfm/about-us/history-evolution/" target="_self"><span class="textS08">History and Evolution</span></a></p>
+						<div class="text_e07"><p>From horse-drawn rail cars to electric locomotives, CSX celebrates a rich history covering almost 190 years. Scroll through time to explore our history and heritage.</p></div>
+					</div>
+				</div>
+				
+				
+				
+					
+				<div class="header_menu_column_b">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/A1E42C30-DE2A-2AB5-7C714B71F6A20832_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="/index.cfm/about-us/media/" target="_self"><span class="textS08">Media</span></a></p>
+						<div class="text_e07"><p>At CSX, we strive to effectively communicate our vision to our customers, partners, and communities. Read our press releases and view our ads and videos.</p></div>
+					</div>
+				</div>
+				
+				
+			
+
+			
+			
+			
+			
+				
+					
+						
+						
+							
+						
+						
+						
+						<div class="header_menu_column_c">
+							<div class="header_menu_silo_b">
+								<hr class="header_menu_hr" align="left" />
+								<ul class="ul_header_menu_drop">
+									<li><a href="/index.cfm/about-us" target="_self"><span class="text_e07">About Us</span></a></li>
+						
+									<li><a href="/index.cfm/about-us/company-overview" target="_self"><span class="text_e07">Company Overview</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/responsibility" target="_self"><span class="text_e07">Responsibility</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/projects-and-partnerships" target="_self"><span class="text_e07">Projects and Partnerships</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/contact-us" target="_self"><span class="text_e07">Contact Us</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/media" target="_self"><span class="text_e07">Media</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/property" target="_self"><span class="text_e07">Property</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/system-map" target="_self"><span class="text_e07">System Map</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+						
+								</ul>
+							</div>
+						</div>
+						<div class="header_menu_column_d">
+							<div class="header_menu_silo_c">
+								<hr class="header_menu_hr" align="left" />
+								<ul class="ul_header_menu_drop">
+						
+									<li><a href="/index.cfm/about-us/safety" target="_self"><span class="text_e07">Safety</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/faqs" target="_self"><span class="text_e07">FAQs</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/history-evolution" target="_self"><span class="text_e07">History & Evolution</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/legacy-locomotives" target="_self"><span class="text_e07">A Legacy of Locomotives</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/about-us/state-information" target="_self"><span class="text_e07">State Information</span></a></li>
+						
+						
+								</ul>
+							</div>
+						</div>
+						
+					
+				
+			
+			</div>
+			
+			
+				
+					
+				
+			<div id="navDrop-875BA4F3-90A6-1C90-B956F1A78B8D80DD" style="display:none;">
+			
+			
+			
+
+			
+			
+				
+				
+					
+				<div class="header_menu_column_a">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/B87BFFC4-AB47-1A8A-366020C3CB956ECF_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="https://www.csx.com/index.cfm/community-investment/pride-in-service/" target="_self"><span class="textS08">Pride in Service</span></a></p>
+						<div class="text_e07"><p>The mission of CSX&rsquo;s Pride in Service program is to honor our nation&rsquo;s military and first responders through a unique community investment commitment.</p></div>
+					</div>
+				</div>
+				
+				
+				
+					
+				<div class="header_menu_column_b">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/B82B6BD6-D5A6-0ADE-D640FD7CBC6711F0_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="https://www.csx.com/index.cfm/community-investment/charitable-investments/" target="_self"><span class="textS08">Charitable Investments</span></a></p>
+						<div class="text_e07"><p>Learn about our monetary and in-kind grants and apply for support for your nonprofit organization.</p></div>
+					</div>
+				</div>
+				
+				
+			
+
+			
+			
+			
+			
+				
+					
+						
+						
+							
+						
+						
+						
+						<div class="header_menu_column_c">
+							<div class="header_menu_silo_b">
+								<hr class="header_menu_hr" align="left" />
+								<ul class="ul_header_menu_drop">
+									<li><a href="/index.cfm/community-investment" target="_self"><span class="text_e07">Community</span></a></li>
+						
+									<li><a href="/index.cfm/community-investment/pride-in-service" target="_self"><span class="text_e07">Pride in Service</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/community-investment/charitable-investments" target="_self"><span class="text_e07">Charitable Investments</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/community-investment/volunteer-service" target="_self"><span class="text_e07">Volunteer Service</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/community-investment/service-partners" target="_self"><span class="text_e07">Service Partners</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/community-investment/public-safety" target="_self"><span class="text_e07">Public Safety</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/community-investment/csx-in-service" target="_self"><span class="text_e07">CSX in Service</span></a></li>
+						
+						
+								</ul>
+							</div>
+						</div>
+						
+					
+				
+			
+			</div>
+			
+			
+				
+					
+				
+			<div id="navDrop-87616B15-FFF0-DEC8-DF128AA9D35F6590" style="display:none;">
+			
+			
+			
+
+			
+			
+				
+				
+					
+				<div class="header_menu_column_a">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/DF759D8D-B2FC-CF38-DE9408C592DE0BB8_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="https://www.csx.com/index.cfm/customers/intermodal/" target="_self"><span class="textS08">Intermodal</span></a></p>
+						<div class="text_e07"><p>Intermodal combines the efficiencies of rail with the flexibility of truck.</p></div>
+					</div>
+				</div>
+				
+				
+				
+					
+				<div class="header_menu_column_b">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/5453A7D3-0C70-F781-EA5639CDCA2F44CE_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="/index.cfm/customers/value-added-services/property-real-estate/" target="_self"><span class="textS08">CSX Real Estate</span></a></p>
+						<div class="text_e07"><p>Covering 23 states in the East, Midwest and South; the District of Columbia and 2 Canadian provinces, our skilled professionals bring a proven track record to our clients, our communities and your projects.</p></div>
+					</div>
+				</div>
+				
+				
+			
+
+			
+			
+			
+			
+				
+					
+						
+						
+							
+						
+						
+						
+						<div class="header_menu_column_c">
+							<div class="header_menu_silo_b">
+								<hr class="header_menu_hr" align="left" />
+								<ul class="ul_header_menu_drop">
+									<li><a href="/index.cfm/customers" target="_self"><span class="text_e07">Customers</span></a></li>
+						
+									<li><a href="/index.cfm/customers/performance-measures" target="_self"><span class="text_e07">Performance Measures</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/customer-service" target="_self"><span class="text_e07">Customer Service</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/new-to-csx-or-rail" target="_self"><span class="text_e07">New to CSX or Rail?</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/intermodal" target="_self"><span class="text_e07">Intermodal</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/commodities" target="_self"><span class="text_e07">Commodities</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/industrial-development" target="_self"><span class="text_e07">Business Development</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/csx-greenway" target="_self"><span class="text_e07">CSX Greenway</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+						
+								</ul>
+							</div>
+						</div>
+						<div class="header_menu_column_d">
+							<div class="header_menu_silo_c">
+								<hr class="header_menu_hr" align="left" />
+								<ul class="ul_header_menu_drop">
+						
+									<li><a href="/index.cfm/customers/customer-environmental-excellence-awards" target="_self"><span class="text_e07">Customer Environmental Excellence Awards</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/value-added-services" target="_self"><span class="text_e07">Value - Added Services</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/short-line-and-partner-railroads" target="_self"><span class="text_e07">Short Line and Regional Railroads</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/maps" target="_self"><span class="text_e07">Maps</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/safety-and-security" target="_self"><span class="text_e07">Safety and Security</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/publications-tariffs" target="_self"><span class="text_e07">Publications & Tariffs</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/news" target="_self"><span class="text_e07">News</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/customers/resources" target="_self"><span class="text_e07">Resources</span></a></li>
+						
+						
+								</ul>
+							</div>
+						</div>
+						
+					
+				
+			
+			</div>
+			
+			
+				
+					
+				
+			<div id="navDrop-87653F53-9B9F-89ED-E37D35D93B7EAF3E" style="display:none;">
+			
+			
+			
+
+			
+			
+				
+				
+					
+				<div class="header_menu_column_a">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/0562F6C1-E5EC-7AA2-4BC4618D0A519FD0_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="/index.cfm/suppliers/faqs/" target="_self"><span class="textS08">Supplier Information</span></a></p>
+						<div class="text_e07"><p>Get answers to your questions about investment recovery; purchase orders, invoicing and payment; and shipping materials.</p></div>
+					</div>
+				</div>
+				
+				
+				
+					
+				<div class="header_menu_column_b">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/DFFA34C9-ABF5-5CF7-39C8635FC13BF662_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="https://www.csx.com/index.cfm/about-us/responsibility/corporate-social-responsibility-report/" target="_self"><span class="textS08">Corporate Social Responsibility</span></a></p>
+						<div class="text_e07"><p>Visit our Corporate Social Responsibility&nbsp;section to learn more about how our material and service suppliers can help make a positive impact on CSX corporate sustainability efforts.</p></div>
+					</div>
+				</div>
+				
+				
+			
+
+			
+			
+			
+			
+				
+					
+						
+						
+							
+						
+						
+						
+						<div class="header_menu_column_c">
+							<div class="header_menu_silo_b">
+								<hr class="header_menu_hr" align="left" />
+								<ul class="ul_header_menu_drop">
+									<li><a href="/index.cfm/suppliers" target="_self"><span class="text_e07">Suppliers</span></a></li>
+						
+									<li><a href="/index.cfm/suppliers/who-we-are" target="_self"><span class="text_e07">Who We Are</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/suppliers/our-policies" target="_self"><span class="text_e07">Our Policies</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/suppliers/doing-business-with-us" target="_self"><span class="text_e07">Doing Business With Us</span></a></li>
+						
+					
+						
+						
+							
+							
+						
+						
+									<li><a href="https://www.csx.com/index.cfm/about-us/responsibility/corporate-social-responsibility-report/" target="_self"><span class="text_e07">Environmental, Social, and Governance Report</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/suppliers/supplier-diversity" target="_self"><span class="text_e07">Supplier Diversity</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/suppliers/faqs" target="_self"><span class="text_e07">FAQs</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/suppliers/contact-us" target="_self"><span class="text_e07">Contact Us</span></a></li>
+						
+						
+								</ul>
+							</div>
+						</div>
+						
+					
+				
+			
+			</div>
+			
+			
+				
+					
+				
+			<div id="navDrop-14B6A9A6-B79F-39DF-D5F7C68E64AC397E" style="display:none;">
+			
+			
+			
+
+			
+			
+				
+				
+					
+				<div class="header_menu_column_a">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/ADC7C55F-D415-8CFC-F1EB2DA2BE362D6F_navpromo.png" />
+					
+					
+						
+						
+					
+						<p><a href="http://investors.csx.com/metrics/default.aspx#key-metrics" target="_self"><span class="textS08">Key Service Measures</span></a></p>
+						<div class="text_e07"><p>See weekly performance metrics for Train Velocity, Terminal Dwell and Cars Online.</p></div>
+					</div>
+				</div>
+				
+				
+				
+					
+				<div class="header_menu_column_b">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/B0324D27-AE5A-F281-EE69A89071CB0A10_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="http://investors.csx.com/financials/quarterly-results/default.aspx" target="_blank"><span class="textS08">Quarterly Earnings Materials</span></a></p>
+						<div class="text_e07"><p>View our quarterly earnings materials, including presentations, financial reports, Form 10-Q and more.</p></div>
+					</div>
+				</div>
+				
+				
+			
+
+			
+			
+			
+			
+				
+					
+						
+						
+							
+							
+						
+						
+						
+						<div class="header_menu_column_c">
+							<div class="header_menu_silo_b">
+								<hr class="header_menu_hr" align="left" />
+								<ul class="ul_header_menu_drop">
+									<li><a href="/index.cfm/investors" target="_self"><span class="text_e07">Investors</span></a></li>
+						
+									<li><a href="http://investors.csx.com/financials/quarterly-results/default.aspx" target="_self"><span class="text_e07">Financials</span></a></li>
+						
+					
+						
+						
+							
+							
+						
+						
+									<li><a href="http://investors.csx.com/metrics/default.aspx" target="_self"><span class="text_e07">Metrics</span></a></li>
+						
+					
+						
+						
+							
+							
+						
+						
+									<li><a href="http://investors.csx.com/news-and-events/news/default.aspx" target="_self"><span class="text_e07">News & Events</span></a></li>
+						
+					
+						
+						
+							
+							
+						
+						
+									<li><a href="http://investors.csx.com/stock-information/default.aspx" target="_self"><span class="text_e07">Stock Information</span></a></li>
+						
+					
+						
+						
+							
+							
+						
+						
+									<li><a href="http://investors.csx.com/esg/governance/management/default.aspx" target="_self"><span class="text_e07">Management</span></a></li>
+						
+					
+						
+						
+							
+							
+						
+						
+									<li><a href="http://investors.csx.com/esg/default.aspx" target="_self"><span class="text_e07">Environmental, Social and Governance</span></a></li>
+						
+					
+						
+						
+							
+							
+						
+						
+									<li><a href="http://investors.csx.com/resources/investor-faqs/default.aspx" target="_self"><span class="text_e07">Resources</span></a></li>
+						
+						
+								</ul>
+							</div>
+						</div>
+						
+					
+				
+			
+			</div>
+			
+			
+				
+					
+				
+			<div id="navDrop-876CBE5E-C676-F1D3-7064E8F8DE644560" style="display:none;">
+			
+			
+			
+
+			
+			
+				
+				
+					
+				<div class="header_menu_column_a">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/E064571C-95A4-D307-F77B80BFAF74FB4D_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="/index.cfm/working-at-csx/hiring-process/faqs/" target="_self"><span class="textS08">More Information</span></a></p>
+						<div class="text_e07"><p>Have questions about your username or password? Need to check the status of your application? Get answers with our frequently asked questions.</p></div>
+					</div>
+				</div>
+				
+				
+				
+					
+				<div class="header_menu_column_b">
+					
+					<div class="header_menu_silo_a">
+					
+						<img src="/share/wwwcsx15/cache/file/E049EFEB-FDF0-4C15-7F0721254C1032B5_navpromo.jpg" />
+					
+					
+						
+						
+					
+						<p><a href="/index.cfm/working-at-csx/hiring-process/" target="_self"><span class="textS08">The Hiring Process</span></a></p>
+						<div class="text_e07"><p>Learn how the job search and application process works at CSX.</p></div>
+					</div>
+				</div>
+				
+				
+			
+
+			
+			
+			
+			
+				
+					
+						
+						
+							
+							
+						
+						
+						
+						<div class="header_menu_column_c">
+							<div class="header_menu_silo_b">
+								<hr class="header_menu_hr" align="left" />
+								<ul class="ul_header_menu_drop">
+									<li><a href="/index.cfm/working-at-csx" target="_self"><span class="text_e07">Working at CSX</span></a></li>
+						
+									<li><a href="https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers" target="_self"><span class="text_e07">Search Job Openings and Apply</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/working-at-csx/hiring-process" target="_self"><span class="text_e07">Hiring Process</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/working-at-csx/job-overviews" target="_self"><span class="text_e07">Job Overviews</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/working-at-csx/learn-more-about-csx" target="_self"><span class="text_e07">Learn More About CSX</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/working-at-csx/meet-our-employees" target="_self"><span class="text_e07">Meet Our Employees</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/working-at-csx/policies" target="_self"><span class="text_e07">Policies</span></a></li>
+						
+					
+						
+						
+							
+							
+						
+						
+									<li><a href="https://www.csx.com/index.cfm/working-at-csx/hiring-process/faqs/" target="_self"><span class="text_e07">FAQs</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+						
+								</ul>
+							</div>
+						</div>
+						<div class="header_menu_column_d">
+							<div class="header_menu_silo_c">
+								<hr class="header_menu_hr" align="left" />
+								<ul class="ul_header_menu_drop">
+						
+									<li><a href="/index.cfm/working-at-csx/contact-us" target="_self"><span class="text_e07">Contact Us</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/working-at-csx/employees" target="_self"><span class="text_e07">Employees</span></a></li>
+						
+					
+						
+						
+							
+						
+						
+									<li><a href="/index.cfm/working-at-csx/retiree-gateway" target="_self"><span class="text_e07">Retiree Gateway</span></a></li>
+						
+						
+								</ul>
+							</div>
+						</div>
+						
+					
+				
+			
+			</div>
+			
+		
+	
+	</div>
+
+
+	<div id="header_search">
+		<img id="search_image" src="/sites/wwwcsx15/includes/themes/wwwcsx/images/search_1.png" />
+	</div>	
+	<div id="header_menu_search_drop">
+		<div class="search_container">
+			<form action="/index.cfm/search-results/" id="searchForm">
+				<input name="Keywords" type="text" class="search_input" value="Type and Hit Enter" onfocus="this.value=(this.value=='Type and Hit Enter' || this.value=='') ? '' : this.value;" onblur="this.value=(this.value=='') ? 'Type and Hit Enter' : this.value;" />
+				<input type="hidden" name="display" value="search" />
+				<input type="hidden" name="newSearch" value="true" />
+				<input type="hidden" name="noCache" value="1" />
+			</form>
+			<img onclick="$('#searchForm').submit()" class="search_icon" src="/sites/wwwcsx15/includes/themes/wwwcsx/images/search_3.png" />
+		</div>
+	</div>
+</div>
+
+
+	<div id="content_main">
+
+	
+		<div class="stalker_wrapper"></div>
+	
+
+	
+
+	
+			
+			
+			
+				
+
+					
+					
+					
+						
+						
+						
+
+
+	
+
+<ul itemscope itemtype="http://data-vocabulary.org/Breadcrumb" id="primary_crumb_bar" class="mura-breadcrumb breadcrumb breadcrumb">
+					
+						
+							
+						
+					
+						
+							
+							<li class="">
+								<a itemprop="item" href="/index.cfm/about-the-site/"><span itemprop="name">About the Site</span></a>
+							</li>
+							
+						
+					
+						
+							<li class="last">
+								/<span class="current">Terms of Use</span>
+								
+							</li>
+						
+					
+				</ul>
+
+
+
+	<div id="primary_left">
+		
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+<div>
+	<ul class="ul_secondary_menu">
+		
+		
+			
+				
+		<li class="secondary_has_child "><a href="/index.cfm/about-us" target="_self">About Us</a></li>
+			
+				
+		<li class="secondary_has_child "><a href="/index.cfm/community-investment" target="_self">Community</a></li>
+			
+				
+		<li class="secondary_has_child "><a href="/index.cfm/customers" target="_self">Customers</a></li>
+			
+				
+		<li class="secondary_has_child "><a href="/index.cfm/suppliers" target="_self">Suppliers</a></li>
+			
+				
+		<li class="secondary_has_child "><a href="/index.cfm/investors" target="_self">Investors</a></li>
+			
+				
+		<li class="secondary_has_child "><a href="/index.cfm/working-at-csx" target="_self">Working at CSX</a></li>
+			
+		
+	</ul>
+</div>
+
+	</div>
+	<div id="primary_right">
+
+		<h1>Terms of Use</h1>
+		<hr class="hr_thin" />
+
+		
+		
+		
+		
+			
+			<div class="mod_body"><p>This Agreement governs the relationship between CSX Corporation, its subsidiaries, affiliates or third-party contractors (hereinafter &quot;CSX&quot;) and any visitor, customer, licensor, supplier and/or member of CSX (hereinafter &quot;you&quot;) with respect to use of the CSX website (hereinafter &quot;the Site&quot;).</p>
+
+<p>By accessing and viewing/using the Site, you acknowledge that you have read, understand and agree to be bound by the terms and conditions stated, or incorporated by reference, in this Agreement.</p>
+
+<p><strong>Accuracy of Information</strong><br />
+	CSX may at any time make corrections, improvements and changes to the information, terms, service(s), software or other product(s) provided or described in the Site. Any changes made will be effective automatically without further or special notice. Your continued use of the Site following such changes will be deemed acceptance of such changes. Be sure to return to this page periodically to ensure familiarity with the most current version of this Agreement. Barring the aforementioned, CSX makes no claim or declaration as to the accuracy of such information.</p>
+
+<p><strong>Disclaimer of Warranties and Limitation of Liabilities</strong><br />
+	The information provided by the Site is provided without warranty or liability -- whether implied, express or statutory. CSX does not warrant that the Site will be error or virus free. CSX does not assume any responsibility whatsoever arising out of your use of the Site, regardless of whether negligence on the part of CSX may have caused or contributed to any loss or damage suffered by you as a result of using or relying upon the Site. In no event under any theory of law, whether contract, tort, warranty or otherwise, shall CSX have any liability to any person for incidental, special, consequential or exemplary damages of any description, including but not limited to, damages for loss of profits, cost of capital or business interruption expenses as a result of your use of the Site. CSX SPECIFICALLY DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, WITH REGARD TO THIS SITE, ITS SOFTWARE AND THE INFORMATION PROVIDED THROUGH THE SITE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</p>
+
+<p><strong>Site User Licensing</strong><br />
+	CSX reserves the right to prohibit you from accessing the Site at any time with or without cause. Your access to the Site constitutes a revocable, nonexclusive limited license to access the Site under the terms and conditions of this agreement.</p>
+
+<p>If you are authorized to download, copy, display, exhibit, share, or otherwise distribute the content of the Site, it is for informational, purposes only. Any unauthorized downloading, retransmission, republication or other copying or modification of material posted on the Site, including trademarks, tradenames and service marks, may violate federal, common or civil law trademark law and copyright law, is prohibited and may result in legal action.</p>
+
+<p>If you download software from the Site, such software is licensed on a limited basis to you by CSX or the owner of such software. Title to the software is not transferred to you. You own the medium on which the software is recorded, but CSX retains all rights, title and interest in and to the software, and all intellectual property rights therein.</p>
+
+<p>CSX reserves the right to require you to delete, destroy or otherwise remove any content that is used in a manner that in CSX's opinion is contrary to this Agreement. You agree that any person to whom you supply the content, directly or indirectly, will be advised of the terms and conditions of this Agreement, and that each such person is bound by these terms and conditions. You may in no way modify, reformulate, adapt, alter, adjust, change, disassemble, frame or decrypt any of the materials on the Site.</p>
+
+<p><strong>Copyrights and Trademarks</strong><br />
+	The trademarks, logos and service marks owned by CSX, whether registered or unregistered, may not be used in connection with any product or service unless CSX expressly grants such a right via a licensing agreement. Nothing contained on the Site should be construed as granting, by implication, estoppel or otherwise, any license or right to use any trademark without the express written permission of CSX, its licensors or suppliers, or the third party owner of any such trademark. Unauthorized usage of any trademark is prohibited, and CSX will aggressively enforce its intellectual property rights including but not limited to judicial remedies.</p>
+
+<p>For permission to use trademarks or copyrighted material, or other proprietary content, see <a href="/index.cfm/about-us/media/trademark-licensing/">Trademark Licensing information</a>.</p>
+
+<p><strong>Personal Information and Disclosure Statement</strong><br />
+	Any personal information provided by customers/visitors to the Site is used for CSX's internal purposes only. CSX does not plan to divulge, sell or lease any personal information, customer listings or aggregate data gathered through the CSX Site to any third party. However, be aware that other web sites that may be accessed through the Site may collect personally identifiable information about you. The information practices of those third party sites linked to CSX are not covered by this privacy statement nor are they related to CSX.</p>
+
+<p>Corporate and securities laws supersede the information disclosed or otherwise available in, through or on the site. These laws must not be qualified, amended, modified or supplemented by the information disclosed on the Site. CSX makes no representation that materials or information available on the Site are appropriate or available for use in specific jurisdictions, and accessing them from jurisdictions where their contents are illegal is prohibited.</p>
+
+<p><strong>Governing Legal Jurisdiction</strong><br />
+	The CSX website is controlled by CSX from its offices in Jacksonville, Florida. By accessing the Site, you agree that all matters relating to your use of the Site shall be governed by the laws of the state of Florida. You also agree to the exclusive personal jurisdiction and venue of the courts of the state of Florida with regard to such matters.</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p></div>
+		
+
+		
+
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+
+		<p style="clear:both;">&nbsp;</p>
+	</div>
+
+
+
+
+
+
+
+					
+					
+				
+			
+		
+
+	
+
+	</div>
+
+	
+		
+<div id="footer_main">
+	<div id="footer_row_a">
+		<p class="ckeditor-dark"><a href="http://www.facebook.com/OfficialCSX" target="_blank"><img alt="Facebook" height="35" src="/share/wwwcsx15/assets/Image/Global/social_icon_facebook_white.png" width="45" /></a> <a href="http://twitter.com/CSX" target="_blank"><img alt="Twitter" height="35" src="/share/wwwcsx15/assets/Image/Global/social_icon_twitter_white.png" width="45" /></a> <a href="http://linkedin.com/company/csx-transportation" target="_blank"><img alt="" height="35" src="/share/wwwcsx15/assets/Image/Global/social_icon_linkedin_white.png" width="45" /></a> <a href="http://instagram.com/OfficialCSX" target="_blank"><img alt="Instagram" height="35" src="/share/wwwcsx15/assets/Image/Global/social_icon_instagram_white.png" width="45" /></a> <a href="http://youtube.com/HowTomorrowMoves" target="_blank"><img alt="YouTube" height="35" src="/share/wwwcsx15/assets/Image/Global/social_icon_youtube_white.png" width="45" /></a></p>
+	</div>
+	<div id="footer_row_b">
+		<style type="text/css">.footer_box_d { display: none; }
+  .footer_box_m { float: right; padding-right: 20px; }</style>
+<div class="footer_box_a">
+	<ul>
+		<li><a href="/index.cfm/working-at-csx/employees/">Employees</a></li>
+		<li><a href="/index.cfm/working-at-csx/retiree-gateway/">Retirees</a></li>
+		<li><a href="https://shipcsx.com/public/ec.shipcsxpublic/Main" target="_blank">ShipCSX Log In</a></li>
+	</ul>
+</div>
+
+<div class="footer_box_b">
+	<ul>
+		<li><a href="http://www.csxstore.com/" target="_blank">Company Store</a></li>
+		<li><a href="/index.cfm/about-us/contact-us/">Contact Us</a></li>
+		<li><a href="?mobileFormat=true">Mobile Site</a></li>
+	</ul>
+</div>
+
+<div class="footer_box_c">
+	<ul>
+		<li><a href="/index.cfm/about-the-site/privacy">Privacy</a></li>
+		<li><a href="/index.cfm/about-the-site/terms-of-use">Terms of Use</a></li>
+		<li><a href="/index.cfm/about-the-site/corporate-structure">Corporate Structure</a></li>
+		<li><a href="/index.cfm/about-us/contact-us/csx-responsible-disclosure-policy/">CSX Responsible Disclosure Policy</a></li>
+	</ul>
+</div>
+
+<div class="footer_box_m">
+	<p><span class="text_14b">EMAIL SIGN-UP</span></p>
+
+	<p><span class="text_14"><a href="https://investors.csx.com/resources/investor-email-alerts/default.aspx">Subscribe to receive CSX Press Releases</a></span></p>
+</div>
+<noscript>
+<img src="https://ws.zoominfo.com/pixel/6307c81858e3d8217ffb3214"
+width="1" height="1" style="display: none;"
+alt="websights" />
+</noscript><noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1423529&fmt=gif" />
+</noscript>
+		<div class="footer_box_d">
+			<p><span class="text_14b">EMAIL SIGN-UP</span></p>
+			<p><span class="text_14"><a href="/index.cfm/about-us/media/subscribe-to-csx-express/">Subscribe to receive CSX Press Releases</a></span></p>
+			<p><span class="text_14"><a href="/index.cfm/customers/news/subscribe-to-customer-service-advisories/">Subscribe to receive Customer Service Advisories</a></span></p>
+		</div>
+	</div>
+	<div id="footer_row_c">
+		<span class="footer-row-c-left text_12">&#169; 2024 CSX Corporation</span>
+		<span class="footer-row-c-right">
+			<a href="https://csxgateway.csx.com/Pages/default.aspx" target="_blank"><img alt="" height="51" src="/share/wwwcsx15/assets/Image/Working_at_CSX/Employees/Employee_Gateway.gif" width="171"></a>
+		</span>
+	</div>
+</div>
+
+<style type="text/css">
+	.footer-row-c-left { display: inline-block; padding-top: 30px; padding-bottom: 20px; padding-left: 20px; }
+	.footer-row-c-right { display: inline-block; padding-right: 20px; float: right; padding-top: 20px; }
+	.cookie-banner {
+		z-index: 999;
+		position: fixed;
+		width: 100%;
+		bottom: 0px;
+		background-color: #2f6bbd;
+		line-height: 18px;
+		font-size: 14px;
+		color: #FFF;
+		max-width: 1600px;
+		margin: 0px auto;
+		min-width: 1024px;
+	}
+	.cookie-accept {
+		background-color: #fff;
+		border: none;
+		color: #363636;
+		cursor: pointer;
+		padding: 10px;
+		margin-left: 40px;
+		font-weight: bold;
+	}
+	.cookie-banner-left { padding: 2%; text-align: center; }
+	.cookie-banner-left a { color: #FFF; padding-left: 0px; font-weight: bold; }}
+</style>
+<div class="cookie-banner" style="display: none;">
+	<div class="cookie-banner-left">
+		We use cookies to personalize and enhance your experience on our site. Visit our <a href="/index.cfm/about-the-site/privacy/">Privacy Policy</a> to learn more.
+		<button class="cookie-accept" type="button">Accept</button>
+	</div>
+</div>
+<script>
+	if (localStorage.getItem('cookieAccept') != 'true') {
+		$('.cookie-banner').delay(1000).fadeIn();
+	};
+
+	$('.cookie-accept').click(function() {
+		$('.cookie-banner').fadeOut();
+		localStorage.setItem('cookieAccept','true')
+	});
+</script>
+<script src="/sites/wwwcsx15/includes/themes/wwwcsx/js/theme/theme.js" type="text/javascript"></script>
+
+
+	
+
+
+<script src="//www.csx.com/core/modules/v1/cta/js/mura.displayobject.cta.min.js" ></script>
+<script src="//www.csx.com/core/modules/v1/pdfviewer/dist/main.bundle.js" ></script>
+<link rel="stylesheet" href="//www.csx.com/core/modules/v1/resource_hub/assets/css/resource_hub.css"></body>
+</html>

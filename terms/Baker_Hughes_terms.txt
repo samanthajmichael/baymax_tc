@@ -16048,5 +16048,5 @@
     <script src="/sites/bakerhughes/files/js/js_PHVD_QwI9A1AimwOks5eXCILSrGqE2Q7RbVKuvA9GFw.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=bh&amp;include=eJx1UFuOwyAQu1BYjoQMTAndgUE8usntNyT9aaV82p6xbNvViH2M5tDJUEJk7emBwX3x6GDsVLWlFa8otS121YHFglXrO8ccJmNX9WxLEAlMpiPo0NMnRPjGP3hiO56N-yVTeISY2zSasCZVCT5JpZsLL3-ZId64jpuTXUYflsyo_M5o0aJTBYGUnf6ujmRnJdNW1MOgRkeaxyb5mzy-T6hOONVrBZPxmmKiPOYGjVDdalCiwejiJBWmTvqGfwe71KNzO2ZXbYRArccrhd2zp2o8kv5AUytV_HD9rExbQfbKCTNKo39bjbUV"></script>
 
 
-  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=966530957" async></script></body>
+  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1263514099" async></script></body>
 </html>

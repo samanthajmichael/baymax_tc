@@ -1,0 +1,3197 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+    <head>
+
+    
+    
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <meta property="og:title" content="Energy Terms to Know"/>
+    <meta property="og:description" content="In order to help clear up some of the most confusing terms in the industry, read through the energy terms below separated by two categories: Power and Gas Terms and Weather Terms. These terms will give you more insight into the inner workings of the energy market, allowing you to walk away a more informed consumer."/>
+    
+    <meta property="og:url" content="https://www.constellation.com/content/constellation/en/solutions/for-your-commercial-business/energy-tools-and-resources/energy-terms-to-know.html"/>
+
+    <meta property="og:site_name" content="Constellation"/>
+
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:title" content="Energy Terms to Know"/>
+    <meta name="twitter:description" content="In order to help clear up some of the most confusing terms in the industry, read through the energy terms below separated by two categories: Power and Gas Terms and Weather Terms. These terms will give you more insight into the inner workings of the energy market, allowing you to walk away a more informed consumer."/>
+    <meta name="twitter:site" content="@ConstellationEG"/>
+    <meta name="twitter:creator" content="@ConstellationEG"/>
+    
+
+    <title>Energy Terms to Know | Constellation</title>
+    <meta name="keywords"/>
+    <meta name="description" content="In order to help clear up some of the most confusing terms in the industry, read through the energy terms below separated by two categories: Power and Gas Terms and Weather Terms. These terms will give you more insight into the inner workings of the energy market, allowing you to walk away a more informed consumer."/>
+
+    
+    
+    
+    
+    
+
+    
+    
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+    <link rel="shortcut icon" type="image/png" href="/etc/designs/constellation/favicon.png"/>
+    
+    
+    
+
+<link href="/etc/designs/constellation/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    
+
+    <link rel="stylesheet" type="text/css" href="/etc/designs/constellation/font-awesome/font-awesome.css"/>
+
+    
+    
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/accordion/v1/accordion/clientlibs/site.min.44a1783be8e88dc73188908af6c38c01.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/tabs/v1/tabs/clientlibs/site.min.d54c23ba76bd8648119795790ae83779.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/image/v2/image/clientlibs/site.min.b104a4a85c21511ada13e2c6e7552d37.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/carousel/v1/carousel/clientlibs/site.min.59c0d61dcf5eacb237a83816c6996ebd.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/constellation/clientlibs.min.adb895e0f0f9e682dd5be437cd04d466.css" type="text/css">
+
+
+
+    
+    
+<script src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+
+
+
+    
+    
+
+    
+
+    
+        <link rel="canonical" href="/solutions/for-your-commercial-business/energy-tools-and-resources/energy-terms-to-know.html"/>
+    
+
+
+
+    
+    
+        
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js"></script>
+	
+    
+    <script src="https://use.typekit.net/aot7zrj.js"></script>
+    <script>try{Typekit.load({ async: false });}catch(e){}</script>
+
+    
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+
+
+<script type="text/javascript">
+window.digitalData = {
+  "page": {
+    "pageInfo": {
+      "breadcrumbs": "constellation:en:solutions:for-your-commercial-business:energy-tools-and-resources:energy-terms-to-know",
+      "pageShortName": "constellation:[...]:energy-terms-to-know",
+      "pageName": "content:constellation:en:solutions:for-your-commercial-business:energy-tools-and-resources:energy-terms-to-know",
+      "destinationURL": "https://www.constellation.com/content/constellation/en/solutions/for-your-commercial-business/energy-tools-and-resources/energy-terms-to-know.html",
+      "isIframe": false,
+      "contentIframe": false,
+      "hierarchie1": "constellation:en:solutions:for-your-commercial-business:energy-tools-and-resources:energy-terms-to-know",
+      "title": "Energy Terms to Know",
+      "internalPageName": "energy-terms-to-know",
+      "pageID": "www.constellation.com:content:constellation:en:solutions:for-your-commercial-business:energy-tools-and-resources:energy-terms-to-know",
+      "tagging": "",
+      "server": "www.constellation.com",
+      "urlShortcut": ""
+    },
+    "category": {
+      "type": ":apps:constellation:templates:interior",
+      "version": "2024-2-26"
+    },
+    "attributes": {},
+    "components": []
+  },
+  "product": [
+    {
+      "productInfo": {}
+    }
+  ],
+  "cart": {},
+  "user": [
+    {
+      "profile": [
+        {
+          "profileInfo": {},
+          "attributes": {
+            "loggedIn": false
+          }
+        }
+      ]
+    }
+  ],
+  "pageInstanceID": "prod:s7connect:nosamplecontent:publish:content:constellation:en:solutions:for-your-commercial-business:energy-tools-and-resources:energy-terms-to-know",
+  "language": "en"
+};
+window.digitalData.page.pageInfo.referringURL = document.referrer;
+window.digitalData.page.pageInfo.sysEnv = navigator.userAgent;
+</script>
+
+
+
+
+<script>
+    ;(function (win, doc, style, timeout) {
+        var STYLE_ID = 'at-body-style';
+
+        function getParent() {
+            return doc.getElementsByTagName('head')[0];
+        }
+
+        function addStyle(parent, id, def) {
+            if (!parent) {
+                return;
+            }
+
+            var style = doc.createElement('style');
+            style.id = id;
+            style.innerHTML = def;
+            parent.appendChild(style);
+        }
+
+        function removeStyle(parent, id) {
+            if (!parent) {
+                return;
+            }
+
+            var style = doc.getElementById(id);
+
+            if (!style) {
+                return;
+            }
+
+            parent.removeChild(style);
+        }
+
+        addStyle(getParent(), STYLE_ID, style);
+        setTimeout(function () {
+            removeStyle(getParent(), STYLE_ID);
+        }, timeout);
+    }(window, document, "body {opacity: 0 !important}", 3000));
+</script>
+<script>
+    window._satellite = window._satellite || {};
+    window._satellite._monitors = window._satellite._monitors || [];
+    window._satellite._monitors.push({
+        ruleTriggered: function (event) {
+            // console.info(
+            //     'rule triggered',
+            //     event.rule
+            // );
+        },
+        ruleCompleted: function (event) {
+            // console.info(
+            //     'rule completed',
+            //     event.rule
+            // );
+        },
+        ruleConditionFailed: function (event) {
+            // console.info(
+            //     'rule condition failed',
+            //     event.rule,
+            //     event.condition
+            // );
+        }
+    });
+</script>
+
+
+
+
+    
+
+
+        <script type="text/javascript" src="/etc/clientlibs/dtm-reactor/ENd8d9886257e24f589c3a3c193266b9e4/684817bf1fb4/456df33045c9/launch-749d46a4130a.min.js" async></script>
+
+
+    
+    <script src="//assets.adobedtm.com/1fd66117a070de11ca573be3e09f984451e0906e/satelliteLib-0865a1c12284cb199f4eb0ff5d1198f29c06d980.js"></script>
+
+
+    <!--[if lt IE 9 ]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+    <![endif]-->
+
+    <div><div class="cloudservice generictracker">
+    <script type="text/javascript">
+    </script> <!-- Google Tag Manager --> <noscript> <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WW8HMQ"height="0" width="0" style="display:none;visibility:hidden"></iframe> </noscript> <script> (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);}) (window,document,'script','dataLayer','GTM-WW8HMQ'); </script> <!-- End Google Tag Manager --> <script>
+    </script>
+</div>
+<script type="text/javascript">_satellite.pageBottom();</script>
+</div>
+
+    <!-- Google Tag Manager -->
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+  (window,document,'script','dataLayer','GTM-WW8HMQ');
+</script>
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
+    j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+  (window,document,'script','dataLayer','GTM-WVBL6S8');
+</script>
+<!-- End Google Tag Manager -->
+
+    
+</head>
+
+    <!--[if lt IE 9]>
+        <body class="ie8">
+    <![endif]-->
+    <!--[if IE 9]>
+        <body class="ie9">
+    <![endif]-->
+    <body>
+
+        <!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WW8HMQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVBL6S8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<div id="main-header" class="mega-container partial">
+    
+    <nav class=" navigation" role="navigation">
+        <div class="mega-menu">
+            
+            <div class="customer-nav container">
+                <div class="customer-type">
+                    <a id="customer-residential" class="navigation-gtm-event-header" href="/solutions/for-your-home.html">RESIDENTIAL</a>
+                    <a id="customer-commercial" class="navigation-gtm-event-header" href="/solutions/for-your-commercial-business.html">COMMERCIAL</a>
+                    <a id="customer-small-business" class="navigation-gtm-event-header" href="/solutions/for-your-small-business.html">SMALL BUSINESS</a>
+                </div>
+                <div class="login-bar">
+                    <a href="https://www.constellationenergy.com/" class="navigation-gtm-event-header" target="_blank">About Us</a>
+                    
+                        <a href="/about-us/contact-us.html" class="navigation-gtm-event-header">Contact Us</a>
+                    
+                    <span>
+                        Login:
+                        <a target="_blank" class="navigation-gtm-event-header my-constellation-login-gtm-event-handler upper-login" href="https://my.constellation.com/">Residential</a>
+                        | 
+                        <a target="_blank" class="navigation-gtm-event-header my-constellation-login-gtm-event-handler upper-login" href="https://energymanager.constellation.com/">Business</a>
+                    </span>
+                    
+                </div>
+            </div>
+            
+            <div class="dropdown-container">
+                <div class="dropdown-nav residential-nav">
+                    <a href="/"><img class="nav-logo" src="/content/dam/constellation/logos/constellation-logo.png" alt="Constellation"/></a>
+                    
+                    <ul>
+                        
+                            <li class="hasChildren">
+                                <a href="/solutions/for-your-home/home-energy-options.html" target="_self" class="navigation-gtm-event-header" title="Home Energy Options">Home Energy Options</a>
+                                
+                                
+                                    <ul class="mega-sub-nav container ">
+                                        <li>
+                                            
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-home/home-energy-options/electricity.html">Electricity By State</a>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/texas-energy.html">Texas</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/connecticut-energy.html">Connecticut</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/maryland-energy.html">Maryland</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/massachusetts-energy.html">Massachusetts</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/pennsylvania-energy.html">Pennsylvania</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/electricity.html">Other States</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-home/home-energy-options/natural-gas.html">Natural Gas By State</a>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/georgia-energy.html">Georgia</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/illinois-energy.html">Illinois</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/maryland-energy.html">Maryland</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/ohio-energy.html">Ohio</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/solutions-by-state/pennsylvania-energy.html">Pennsylvania</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/natural-gas.html">Other States</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-home/home-energy-options.html">Our Energy Products</a>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/electricity.html">Electricity</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/natural-gas.html">Natural Gas</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/renewable-energy.html">Renewable Energy</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/solar.html">Solar</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/ac-protection.html">Bundle A/C Protection</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/membership-plan.html">Constellation 360° Plan</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    </ul>
+                                
+                            </li>
+                        
+                            <li class="hasChildren">
+                                <a href="/solutions/for-your-home/home-services.html" target="_self" class="navigation-gtm-event-header" title="More For Your Home">More For Your Home</a>
+                                
+                                
+                                    <ul class="mega-sub-nav container ">
+                                        <li>
+                                            
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-home/home-services/constellation-connect.html">Smart Home</a>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-services/constellation-connect.html">Connect</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-home/home-energy-options.html">Sustainable Solutions</a>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/ev-charger-installation.html">EV Home Charger Installation</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/renewable-energy.html">Renewable Energy</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-energy-options/solar.html">Solar</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-home/home-services.html">Home Services</a>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-services/home-services-in-atlanta.html">Georgia</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-services/home-services-in-maryland.html">Maryland</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-services/home-services-in-philadelphia.html">Pennsylvania</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/home-services/home-services-in-texas.html">Texas</a>
+                                                    </li>
+                                                </ul>
+                                                <li class="button-pair">
+                                                    <a href="https://www.constellationhome.com/schedule-service" target="_blank" class="btn btn-wide con-btn-primary-blue">Schedule Service</a>
+                                                </li>
+                                            
+                                        </li>
+                                    </ul>
+                                
+                            </li>
+                        
+                            <li class="hasChildren">
+                                <a href="/energy-101.html" target="_self" class="navigation-gtm-event-header" title="Energy 101">Energy 101</a>
+                                
+                                
+                                    <ul class="mega-sub-nav container ">
+                                        <li>
+                                            
+                                            
+                                                <div class="page-no-link-category navigation-gtm-event-header" role="menuitem" tabindex="-1">Energy Innovation</div>
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/best-thermostat-types-and-settings.html">Best Thermostat Temp Settings</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/what-is-energy-conservation.html">What is Energy Conservation?</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/water-conservation-tips0.html">What is Water Conservation?</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/what-is-a-smart-home.html">What is a Smart Home</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101.html">View All Articles</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            
+                                                <div class="page-no-link-category navigation-gtm-event-header" role="menuitem" tabindex="-1">Energy Choice</div>
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/energy-choice/how-to-choose-the-right-energy-plan.html">How to Shop for Energy</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/energy-choice/how-to-choose-an-energy-supplier.html">Choosing an Energy Supplier</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/when-are-electricity-rates-lowest.html">When are Electricity Rates Lowest?</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/energy-choice/how-the-market-affects-pricing.html">How Does Electricity Pricing Work?</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101.html">View All Articles</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            
+                                                <div class="page-no-link-category navigation-gtm-event-header" role="menuitem" tabindex="-1">Weather Preparedness</div>
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/hurricane-safety-tips.html">Hurricane Safety Tips</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/home-flood-preparedness.html">Home Flooding Preparedness</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/guides/winter-storm-preparedness.html">Winter Storm Preparedness</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/report-a-power-outage.html">Report a Power Outage</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101.html">View All Articles</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            
+                                                <div class="page-no-link-category navigation-gtm-event-header" role="menuitem" tabindex="-1">Energy Education</div>
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/homeowners-guide-tax-credits-and-rebates.html">Home Tax Credits &amp; Rebates</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/understanding-energy-costs.html">How to Read Your Energy Bill</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/fixed-vs-variable-energy-rates.html">Variable vs. Fixed-Rate Energy Plans</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101/short-term-vs-long-term-energy-contracts.html">Short vs. Long-Term Energy Contracts</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/energy-101.html">View All Articles</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    </ul>
+                                
+                            </li>
+                        
+                            <li class="hasChildren">
+                                <a href="/solutions/for-your-home/ev-solutions.html" target="_self" class="navigation-gtm-event-header" title="EV Solutions">EV Solutions</a>
+                                
+                                
+                                    <ul class="mega-sub-nav container ">
+                                        <li>
+                                            
+                                            
+                                                <div class="page-no-link-category navigation-gtm-event-header" role="menuitem" tabindex="-1"></div>
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/ev-solutions.html#chargerInstallation">EV Charger Installation</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/ev-solutions.html#incentivesRebates">Rebates &amp; Incentives</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+                                            
+                                                <div class="page-no-link-category navigation-gtm-event-header" role="menuitem" tabindex="-1"></div>
+                                            
+                                            
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/ev-solutions.html#energyPlans">EV Electricity Plans</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" class="navigation-gtm-event-header" tabindex="-1" target="_self" href="/solutions/for-your-home/ev-solutions.html#compareCosts">Cost of Ownership</a>
+                                                    </li>
+                                                </ul>
+                                                
+                                            
+                                        </li>
+                                    </ul>
+                                
+                            </li>
+                        
+                        <li class="hasChildren">
+                            <a href="https://my.constellation.com" class="navigation-gtm-event-header" target="_blank">My Account</a>
+                            <ul class=" mega-sub-nav ">
+                                <li>
+                                    <ul>
+                                        <li role="presentation">
+                                            <a target="_blank" class="navigation-gtm-event-header" href="https://my.constellation.com/">Pay My Bill</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a target="_blank" class="navigation-gtm-event-header" href="https://ipn2.paymentus.com/rotp/ceb">Make Guest Payments</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a class="navigation-gtm-event-header" href="/solutions/for-your-home/payment-options.html">Payment Options</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a class="navigation-gtm-event-header" href="/solutions/for-your-home/residential-renewal.html">Renew Service</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a class="navigation-gtm-event-header" href="/why/constellation-rewards.html">Constellation Rewards</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <ul>
+                                        <li role="presentation">
+                                            <a class="navigation-gtm-event-header" href="/energy-101/report-a-power-outage.html">Report a Power Outage</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a class="navigation-gtm-event-header" href="/solutions/for-your-home/refer-a-friend.html">Refer a Friend</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a class="navigation-gtm-event-header" href="/solutions/for-your-home/customer-benefits-and-home-energy-tools.html">Benefits & Energy Tools</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a target="_blank" class="navigation-gtm-event-header" href="https://blog.constellation.com/">Blog</a>
+                                        </li>
+                                        <li role="presentation">
+                                            <a class="navigation-gtm-event-header" href="/energy-101/faqs/home-energy-faqs.html">FAQs</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <form class="login-mini-form residential-login" id="residentialForm">
+                                        <p>Customer Login</p>
+                                        <input name="login_hint" class="form-control login_hint" type="email"/>
+                                        <input type="submit" value="Log In" class="btn btn-fluid con-btn-primary-blue"/>
+                                        <span><p>New User?</p> <a href="https://exretailb2c.b2clogin.com/exretailb2c.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1A_UI_signup&response_type=code&client_id=8eca2ad2-74ac-438e-ab8d-605c970d502c&scope=8eca2ad2-74ac-438e-ab8d-605c970d502c%20offline_access&redirect_uri=https://my.constellation.com/bin/ceportal/auth">Register Now</a></span>
+                                    </form>
+                                </li>   
+                            </ul>
+                        </li>
+                    </ul>
+                    <a class="plans-button btn con-btn-primary-green" href="/solutions/for-your-home/residential-signup.html?offerCode=rockstar">VIEW PLANS</a>
+                </div>
+            </div>
+
+            
+            <div class="dropdown-container">
+                <div class="dropdown-nav commercial-nav">
+                    <a href="/"><img class="nav-logo" src="/content/dam/constellation/logos/constellation-logo.png" alt="Constellation"/></a>
+                    
+                    <ul>
+                        
+                            
+                                <li class="hasChildren">
+                                    <a href="/solutions/for-your-commercial-business/electricity-and-natural-gas.html" target="_self" class="navigation-gtm-event-header" title="Electricity &amp; Natural Gas">Electricity &amp; Natural Gas</a>
+                                    
+                                    
+                                        <ul class=" mega-sub-nav ">
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-commercial-business/electricity-and-natural-gas/electricity.html">Electricity</a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/electricity-and-natural-gas/electricity/electricity-purchasing-strategies.html">Purchasing Strategies</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies.html">Sustainability Strategies</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            
+                                        
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-commercial-business/electricity-and-natural-gas/natural-gas.html">Natural Gas</a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/electricity-and-natural-gas/natural-gas/natural-gas-purchasing-strategies.html">Purchasing Strategies</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies.html">Sustainability Strategies</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            <li class="button-pair">
+                                                <a href="/solutions/for-your-commercial-business/request-a-quote.html" target="_blank" class="btn btn-wide con-btn-primary-blue business-req-quote-gtm-event-handler">Request a Quote</a>
+                                                <a href="https://energymanager.constellation.com/Azure/PreLoginLanding" target="_blank" class="btn btn-wide con-btn-primary-blue">Account Log In</a>
+                                            </li>
+                                        </ul>
+                                    
+                                </li>
+                            
+                        
+                            
+                                <li class="hasChildren">
+                                    <a href="/solutions/for-your-commercial-business/energy-tools-and-resources.html" target="_self" class="navigation-gtm-event-header" title="Energy Resources">Energy Resources</a>
+                                    
+                                    
+                                        <ul class=" mega-sub-nav ">
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1">Resources</a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/energy-tools-and-resources/tools-for-your-natural-gas-plan-nymex-pricing.html">Natural Gas Tools</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_blank" class="navigation-gtm-event-header" tabindex="-1" href="https://blogs.constellation.com/communication-preferences">Subscription Center</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_blank" class="navigation-gtm-event-header" tabindex="-1" href="https://blogs.constellation.com/">Blogs</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/energy-tools-and-resources/energy-terms-to-know.html">Energy Terms</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/sustainability-assessment.html">Take Assessment</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            <li class="button-pair">
+                                                <a href="/solutions/for-your-commercial-business/request-a-quote.html" target="_blank" class="btn btn-wide con-btn-primary-blue business-req-quote-gtm-event-handler">Request a Quote</a>
+                                                <a href="https://energymanager.constellation.com/Azure/PreLoginLanding" target="_blank" class="btn btn-wide con-btn-primary-blue">Account Log In</a>
+                                            </li>
+                                        </ul>
+                                    
+                                </li>
+                            
+                        
+                            
+                                <li class="hasChildren">
+                                    <a href="/solutions/for-your-commercial-business/sustainability-strategies.html" target="_self" class="navigation-gtm-event-header" title="Sustainability">Sustainability</a>
+                                    
+                                    
+                                        <ul class=" mega-sub-nav ">
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator.html">Constellation Navigator</a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator/utility-bill-management.html">Utility Bill Management</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator/carbon-accounting.html">Carbon Accounting</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator/rebate-administration.html">Rebate Administration</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator/sustainability-advisory.html">Sustainability Advisory Services</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            
+                                        
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/energy-efficiency.html">Energy Efficiency</a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/energy-efficiency/energy-solutions.html">Energy Solutions</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/energy-efficiency/energy-efficiency-made-easy-eme.html">Efficiency Made Easy</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/energy-efficiency/for-government.html">For Government</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/fleet-electrification-solutions.html">Fleet Electrification</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            
+                                        
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon.html">Managing Carbon</a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon/carbon-free-energy-supply.html">Carbon-Free Energy Supply</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon/renewable-energy-certificates-recs.html">Renewable Energy Certificates</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon/hourly-carbon-free-matching.html">Hourly CFE Matching</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon/carbon-offsets.html">Carbon Offsets</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            
+                                        
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/renewable-energy.html">Renewable Energy</a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/renewable-energy/constellation-offsite-renewables.html">Constellation Offsite Renewables</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/renewable-energy/solar.html">Solar</a>
+                                                        </li>
+                                                    
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/sustainability-strategies/renewable-energy/renewable-natural-gas.html">Renewable Natural Gas</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            
+                                        </ul>
+                                    
+                                </li>
+                            
+                        
+                            
+                                <li class="hasChildren">
+                                    <a href="/solutions/for-your-commercial-business/channel-partners.html" target="_self" class="navigation-gtm-event-header" title="Channel Partners">Channel Partners</a>
+                                    
+                                    
+                                        <ul class=" mega-sub-nav ">
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1"></a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/channel-partners/associations-and-chambers-of-commerce.html">Associations</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            
+                                        </ul>
+                                    
+                                </li>
+                            
+                        
+                            
+                                <li class="hasChildren">
+                                    <a href="/solutions/for-your-commercial-business/emerging-technology.html" target="_self" class="navigation-gtm-event-header" title="Emerging Tech">Emerging Tech</a>
+                                    
+                                    
+                                        <ul class=" mega-sub-nav ">
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1"></a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/emerging-technology/technology-ventures.html">Tech Ventures</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            
+                                        
+                                            <li>
+                                                <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1"></a>
+                                                
+                                                
+                                                    <ul>
+                                                        <li role="presentation">
+                                                            <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-commercial-business/emerging-technology/data-centers.html">Data Centers</a>
+                                                        </li>
+                                                    </ul>
+                                                
+                                            </li>
+                                            
+                                        </ul>
+                                    
+                                </li>
+                            
+                        
+                    </ul>
+                </div>
+            </div>
+
+            
+            <div class="dropdown-container">
+                <div class="dropdown-nav small-business-nav">
+                    <a href="/"><img class="nav-logo" src="/content/dam/constellation/logos/constellation-logo.png" alt="Constellation"/></a>
+                    <!--*/ Second content dropdown */-->
+                    <ul>
+                        
+                            <li class="hasChildren">
+                                <a href="/solutions/for-your-small-business.html" target="_self" class="navigation-gtm-event-header" title="Small Business Solutions">Small Business Solutions</a>
+                                
+                                
+                                    <ul class="mega-sub-nav ">
+                                        <li>
+                                            <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1"></a>
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_blank" class="navigation-gtm-event-header" tabindex="-1" href="https://choose.constellation.com/smbsales">Why Choose Constellation?</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-small-business/small-business-energy-options/electricity.html">Electricity</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-small-business/small-business-energy-options/natural-gas.html">Natural Gas</a>
+                                                    </li>
+                                                </ul>
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1"></a>
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-small-business/SMBCommercialServices.html">Commercial Services</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-small-business/small-business-sustainability-solutions.html">Sustainability Solutions</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/why/constellation-rewards.html">Constellation Rewards</a>
+                                                    </li>
+                                                </ul>
+                                            
+                                        </li>
+                                    </ul>
+                                
+                            </li>
+                        
+                            <li class="hasChildren">
+                                <a href="/solutions/for-your-small-business/small-business-resources.html" target="_self" class="navigation-gtm-event-header" title="Energy Education Resources">Energy Education Resources</a>
+                                
+                                
+                                    <ul class="mega-sub-nav ">
+                                        <li>
+                                            <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1"></a>
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/energy-101/energy-choice/how-to-choose-the-right-energy-plan.html">Energy Shopping Tips</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_blank" class="navigation-gtm-event-header" tabindex="-1" href="https://choose.constellation.com/usage-cost-calculator">Calculate Your Supply Cost</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/energy-101/energy-choice/what-is-energy-deregulation.html">Energy Choice for Small Business</a>
+                                                    </li>
+                                                </ul>
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            <a class="page-link-category navigation-gtm-event-header" target="_self" role="menuitem" tabindex="-1"></a>
+                                            
+                                            
+                                                <ul>
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-small-business/small-business-resources.html">Small Business Resource Center</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-small-business/small-business-resources.html">Understanding Energy Suppliers</a>
+                                                    </li>
+                                                
+                                                    <li role="presentation">
+                                                        <a role="menuitem" target="_self" class="navigation-gtm-event-header" tabindex="-1" href="/solutions/for-your-small-business/small-business-expenses.html">Small Business Expenses</a>
+                                                    </li>
+                                                </ul>
+                                            
+                                        </li>
+                                    </ul>
+                                
+                            </li>
+                        
+                        
+                    </ul>
+                    <a class="plans-button btn con-btn-primary-green" target="_blank" href="https://smallbiz.constellation.com/?utm_source=web&utm_medium=web&utm_campaign=constellationhomepagedropdown">VIEW PLANS</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="dropdown-nav-toggle-container">
+            <a class="dropdown-nav-toggle" href="#main-nav"><i>Menu</i></a>
+        </div>
+
+        <div class="mega-menu-mobile">
+            
+            
+            <div class="dropdown-parent mobile-residential">
+                <div>
+                    <a class="navigation-gtm-event-header" href="/solutions/for-your-home.html">RESIDENTIAL</a>
+                    <div class="chevron-container">
+                        <div class="chevron chevron-right"></div>
+                    </div>
+                </div>
+                
+                    
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options.html">Home Energy Options</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-home/home-energy-options/electricity.html">Electricity By State</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/texas-energy.html">Texas</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/connecticut-energy.html">Connecticut</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/maryland-energy.html">Maryland</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/massachusetts-energy.html">Massachusetts</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/pennsylvania-energy.html">Pennsylvania</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/electricity.html">Other States</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-home/home-energy-options/natural-gas.html">Natural Gas By State</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/georgia-energy.html">Georgia</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/illinois-energy.html">Illinois</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/maryland-energy.html">Maryland</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/ohio-energy.html">Ohio</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/solutions-by-state/pennsylvania-energy.html">Pennsylvania</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/natural-gas.html">Other States</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-home/home-energy-options.html">Our Energy Products</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/electricity.html">Electricity</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/natural-gas.html">Natural Gas</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/renewable-energy.html">Renewable Energy</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/solar.html">Solar</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/ac-protection.html">Bundle A/C Protection</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/membership-plan.html">Constellation 360° Plan</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+                    
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-services.html">More For Your Home</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-home/home-services/constellation-connect.html">Smart Home</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-services/constellation-connect.html">Connect</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-home/home-energy-options.html">Sustainable Solutions</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/ev-charger-installation.html">EV Home Charger Installation</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/renewable-energy.html">Renewable Energy</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-energy-options/solar.html">Solar</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-home/home-services.html">Home Services</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-services/home-services-in-atlanta.html">Georgia</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-services/home-services-in-maryland.html">Maryland</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-services/home-services-in-philadelphia.html">Pennsylvania</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/home-services/home-services-in-texas.html">Texas</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+                    
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/energy-101.html">Energy 101</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self">Energy Innovation</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/best-thermostat-types-and-settings.html">Best Thermostat Temp Settings</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/what-is-energy-conservation.html">What is Energy Conservation?</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/water-conservation-tips0.html">What is Water Conservation?</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/what-is-a-smart-home.html">What is a Smart Home</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101.html">View All Articles</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self">Energy Choice</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/energy-choice/how-to-choose-the-right-energy-plan.html">How to Shop for Energy</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/energy-choice/how-to-choose-an-energy-supplier.html">Choosing an Energy Supplier</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/when-are-electricity-rates-lowest.html">When are Electricity Rates Lowest?</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/energy-choice/how-the-market-affects-pricing.html">How Does Electricity Pricing Work?</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101.html">View All Articles</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self">Weather Preparedness</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/hurricane-safety-tips.html">Hurricane Safety Tips</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/home-flood-preparedness.html">Home Flooding Preparedness</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/guides/winter-storm-preparedness.html">Winter Storm Preparedness</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/report-a-power-outage.html">Report a Power Outage</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101.html">View All Articles</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self">Energy Education</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/homeowners-guide-tax-credits-and-rebates.html">Home Tax Credits &amp; Rebates</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/understanding-energy-costs.html">How to Read Your Energy Bill</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/fixed-vs-variable-energy-rates.html">Variable vs. Fixed-Rate Energy Plans</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/short-term-vs-long-term-energy-contracts.html">Short vs. Long-Term Energy Contracts</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101.html">View All Articles</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+                    
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/ev-solutions.html">EV Solutions</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self"></a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/ev-solutions.html#chargerInstallation">EV Charger Installation</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/ev-solutions.html#incentivesRebates">Rebates &amp; Incentives</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self"></a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/ev-solutions.html#energyPlans">EV Electricity Plans</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-home/ev-solutions.html#compareCosts">Cost of Ownership</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+            </div>
+            <div class="dropdown-child mobile-my-account-container">
+                <div>
+                    <a class="navigation-gtm-event-header" href="/solutions/for-your-commercial-business/energy-tools-and-resources.html">My Account</a>
+                    <div class="chevron-container inner">
+                        <div class="chevron chevron-right"></div>
+                    </div>
+                </div>
+                <div class="child-list-item">
+                    <div>
+                        <a class="navigation-gtm-event-header" href="https://my.constellation.com/">Pay My Bill</a>
+                    </div>
+                    <div>
+                        <a class="navigation-gtm-event-header" href="https://ipn2.paymentus.com/rotp/ceb">Make Guest Payments</a>
+                    </div>
+                    <div>
+                        <a class="navigation-gtm-event-header" href="/solutions/for-your-home/payment-options.html">Payment Options</a>
+                    </div>
+                    <div>
+                        <a class="navigation-gtm-event-header" href="/solutions/for-your-home/residential-renewal.html">Renew Service</a>
+                    </div>
+                    <div>
+                        <a class="navigation-gtm-event-header" href="/why/constellation-rewards.html">Constellation Rewards</a>
+                    </div>
+                    <div>
+                        <a class="navigation-gtm-event-header" href="/energy-101/report-a-power-outage.html">Report a Power Outage</a>
+                    </div>
+                    <div>
+                        <a class="navigation-gtm-event-header" href="/solutions/for-your-home/refer-a-friend.html">Refer a Friend</a>
+                    </div>
+                    <div>
+                        <a class="navigation-gtm-event-header" href="/solutions/for-your-home/customer-benefits-and-home-energy-tools.html">Benefits & Energy Tools</a>
+                    </div>
+                    <div>
+                        <a target='_blank' class="navigation-gtm-event-header" href="https://blog.constellation.com/">Blog</a>
+                    </div>
+                    <div>
+                        <a class="navigation-gtm-event-header" href="/energy-101/faqs/home-energy-faqs.html">FAQs</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mobile-plans-button-container">
+                <a class="plans-button btn con-btn-primary-green btn-fluid" href="/solutions/for-your-home/residential-signup.html?offerCode=rockstar">VIEW PLANS</a>
+            </div>
+
+            
+            <div class="dropdown-parent mobile-commercial">
+                <div>
+                    <a class="navigation-gtm-event-header" href="/solutions/for-your-commercial-business.html">COMMERCIAL</a>
+                    <div class="chevron-container">
+                        <div class="chevron chevron-right"></div>
+                    </div>
+                </div>
+                
+                    <!-- Second content dropdown -->
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/electricity-and-natural-gas.html">Electricity &amp; Natural Gas</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            <!-- Third content dropdown -->
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-commercial-business/electricity-and-natural-gas/electricity.html">Electricity</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/electricity-and-natural-gas/electricity/electricity-purchasing-strategies.html">Purchasing Strategies</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies.html">Sustainability Strategies</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-commercial-business/electricity-and-natural-gas/natural-gas.html">Natural Gas</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/electricity-and-natural-gas/natural-gas/natural-gas-purchasing-strategies.html">Purchasing Strategies</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies.html">Sustainability Strategies</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+                    <!-- Second content dropdown -->
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/energy-tools-and-resources.html">Energy Resources</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            <!-- Third content dropdown -->
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self">Resources</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/energy-tools-and-resources/tools-for-your-natural-gas-plan-nymex-pricing.html">Natural Gas Tools</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_blank" href="https://blogs.constellation.com/communication-preferences">Subscription Center</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_blank" href="https://blogs.constellation.com/">Blogs</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/energy-tools-and-resources/energy-terms-to-know.html">Energy Terms</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/sustainability-assessment.html">Take Assessment</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+                    <!-- Second content dropdown -->
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies.html">Sustainability</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            <!-- Third content dropdown -->
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator.html">Constellation Navigator</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator/utility-bill-management.html">Utility Bill Management</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator/carbon-accounting.html">Carbon Accounting</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator/rebate-administration.html">Rebate Administration</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/constellation-navigator/sustainability-advisory.html">Sustainability Advisory Services</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/energy-efficiency.html">Energy Efficiency</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/energy-efficiency/energy-solutions.html">Energy Solutions</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/energy-efficiency/energy-efficiency-made-easy-eme.html">Efficiency Made Easy</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/energy-efficiency/for-government.html">For Government</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/fleet-electrification-solutions.html">Fleet Electrification</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon.html">Managing Carbon</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon/carbon-free-energy-supply.html">Carbon-Free Energy Supply</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon/renewable-energy-certificates-recs.html">Renewable Energy Certificates</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon/hourly-carbon-free-matching.html">Hourly CFE Matching</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/managing-carbon/carbon-offsets.html">Carbon Offsets</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/renewable-energy.html">Renewable Energy</a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/renewable-energy/constellation-offsite-renewables.html">Constellation Offsite Renewables</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/renewable-energy/solar.html">Solar</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/sustainability-strategies/renewable-energy/renewable-natural-gas.html">Renewable Natural Gas</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+                    <!-- Second content dropdown -->
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/channel-partners.html">Channel Partners</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            <!-- Third content dropdown -->
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self"></a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/channel-partners/associations-and-chambers-of-commerce.html">Associations</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+                    <!-- Second content dropdown -->
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/emerging-technology.html">Emerging Tech</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            <!-- Third content dropdown -->
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self"></a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/emerging-technology/technology-ventures.html">Tech Ventures</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self"></a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-commercial-business/emerging-technology/data-centers.html">Data Centers</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+            </div>
+
+            
+            <div class="dropdown-parent mobile-small-business">
+                <div>
+                    <a class="navigation-gtm-event-header" href="/solutions/for-your-small-business.html">SMALL BUSINESS</a>
+                    <div class="chevron-container">
+                        <div class="chevron chevron-right"></div>
+                    </div>
+                </div>
+                
+                    <!-- Second content dropdown -->
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-small-business.html">Small Business Solutions</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            <!-- Third content dropdown -->
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self"></a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_blank" href="https://choose.constellation.com/smbsales.html">Why Choose Constellation?</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-small-business/small-business-energy-options/electricity.html">Electricity</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-small-business/small-business-energy-options/natural-gas.html">Natural Gas</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self"></a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-small-business/SMBCommercialServices.html">Commercial Services</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-small-business/small-business-sustainability-solutions.html">Sustainability Solutions</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/why/constellation-rewards.html">Constellation Rewards</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+                    <!-- Second content dropdown -->
+                    <div class="dropdown-child">
+                        <div>
+                            <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-small-business/small-business-resources.html">Energy Education Resources</a>
+                            <div class="chevron-container inner">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                        
+                            <!-- Third content dropdown -->
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self"></a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/energy-choice/how-to-choose-the-right-energy-plan.html">Energy Shopping Tips</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_blank" href="https://choose.constellation.com/usage-cost-calculator.html">Calculate Your Supply Cost</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/energy-101/energy-choice/what-is-energy-deregulation.html">Energy Choice for Small Business</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                                <div class="child-list-item">
+                                    <div>
+                                        <a class='list-links-item navigation-gtm-event-header' target="_self"></a>
+                                        <div class="list-links-toggle"></div>
+                                    </div>
+                                    
+                                        <!-- Fourth content dropdown -->
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-small-business/small-business-resources.html">Small Business Resource Center</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-small-business/small-business-resources.html">Understanding Energy Suppliers</a>
+                                            </div>
+                                        
+                                            <div class="final-child-list">
+                                                <a class="navigation-gtm-event-header" target="_self" href="/solutions/for-your-small-business/small-business-expenses.html">Small Business Expenses</a>
+                                            </div>
+                                        
+                                    
+                                </div>
+                            
+                        
+                    </div>
+                
+            </div>
+            
+            <div class="mobile-small-business-plans-button-container">
+                <a class="plans-button btn con-btn-primary-green btn-fluid" href="https://smallbiz.constellation.com/?utm_source=web&utm_medium=web&utm_campaign=constellationhomepagedropdown">VIEW PLANS</a>
+            </div>
+            <div class="mobile-login-bar">
+                <a class="navigation-gtm-event-header" href="https://www.constellationenergy.com/" target="_blank">
+                    About Us
+                </a>
+                
+                    <a class="navigation-gtm-event-header" href="/about-us/contact-us.html">
+                        Contact Us
+                    </a>
+                
+                <a class="upper-login navigation-gtm-event-header" href='https://my.constellation.com/' target="_blank">
+                    Log In
+                </a>
+            </div>
+        </div>
+    </nav>
+</div>
+
+
+
+        
+
+        <div class="page-content interior">
+    
+
+        <div class="theme page-banner-wrap primary-blue gradient">
+    <div role="banner" class="page-banner image-height-adjustment" style="background-image:url(/solutions/for-your-commercial-business/energy-tools-and-resources/energy-terms-to-know/_jcr_content/themeImage.img.jpg/1691528674564.jpg)">
+        <div class="container primary-blue">
+            <div class="banner-inner">
+                <div class="info">
+                    <h1 class="themed headerNonThemeColor white-text primary-blue" tabindex="0">
+                        Energy Terms to Know
+                    </h1>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="swooshes"></div>
+        
+    
+
+    <div class="container" role="main">
+        <!-- Space the page content down below the navigation in the case of the banner being hidden. -->
+        
+        <div class="row">
+            
+                <div class="breadcrumb col-xs-12"><ul class="col-xs-12 col-md-8 col-lg-9">
+    <li>
+        <a href="/">Home Page</a>
+        
+    </li>
+
+    <li>
+        <a href="/solutions.html">Constellation’s Energy Solutions</a>
+        
+    </li>
+
+    <li>
+        <a href="/solutions/for-your-commercial-business.html">For Your Commercial Business</a>
+        
+    </li>
+
+    <li>
+        <a href="/solutions/for-your-commercial-business/energy-tools-and-resources.html">Energy Tools and Resources</a>
+        
+    </li>
+
+    <li>
+        
+        <span>Energy Terms to Know</span>
+    </li>
+</ul>
+<div class="col-xs-12 col-md-4 col-lg-3">
+	<div class="pdf-print-share">
+	    <a href="javascript:window.print()"><span class="fa fa-print"></span>Print</a>
+	</div>
+</div></div>
+            
+            <div class="col-sm-4 col-lg-3 hidden-xs">
+                <div class="sidenav component">
+    <ul>
+        <li>
+            <a href="/solutions/for-your-commercial-business/electricity-and-natural-gas.html">Electricity and Natural Gas</a>
+            
+            
+        </li>
+    
+        <li>
+            <a href="/solutions/for-your-commercial-business/energy-tools-and-resources.html">Energy Tools and Resources</a>
+            
+            <ul class="sub-nav">
+                <li>
+                    <a href="/solutions/for-your-commercial-business/energy-tools-and-resources/energy-for-business-blogs.html">Blog: Energy for Business</a>
+                    
+                </li>
+            
+                <li>
+                    <a href="/solutions/for-your-commercial-business/energy-tools-and-resources/tools-for-your-natural-gas-plan-nymex-pricing.html">Tools for Your Natural Gas Plan</a>
+                    
+                </li>
+            
+                <li>
+                    <a href="/solutions/for-your-commercial-business/energy-tools-and-resources/subscription-center.html">Subscription Center</a>
+                    
+                </li>
+            
+                <li>
+                    <a href="/solutions/for-your-commercial-business/energy-tools-and-resources/state-disclosures.html">State Disclosures</a>
+                    
+                </li>
+            
+                <li>
+                    
+                    <span>Energy Terms to Know</span>
+                </li>
+            
+                
+            
+                <li>
+                    <a href="/solutions/for-your-commercial-business/energy-tools-and-resources/constellation-new-energy-w9.html">Constellation New Energy W9</a>
+                    
+                </li>
+            
+                <li>
+                    <a href="/solutions/for-your-commercial-business/energy-tools-and-resources/caiso-commercial-interest-allocation.html">CAISO Commercial Interest Allocation</a>
+                    
+                </li>
+            </ul>
+        </li>
+    
+        <li>
+            <a href="/solutions/for-your-commercial-business/sustainability-strategies.html">Sustainability Strategies</a>
+            
+            
+        </li>
+    
+        <li>
+            <a href="/solutions/for-your-commercial-business/channel-partners.html">Channel Partners</a>
+            
+            
+        </li>
+    
+        <li>
+            <a href="/solutions/for-your-commercial-business/emerging-technology.html">Emerging Technology</a>
+            
+            
+        </li>
+    
+        <li>
+            <a href="/solutions/for-your-commercial-business/request-a-quote.html">Request A Quote</a>
+            
+            
+        </li>
+    </ul>
+</div>
+
+                <div class="side-par"><div class="banner-section section"><div class="banner-section component theme blue padding-top-bottom margin-top-bottom      p-r-20 p-l-20" style="background-image:url()">
+    
+    
+        <div class="row themed clearfix">
+
+            <div class="col-xs-12">
+                <div class="text parbase section"><div class="text component ">
+    
+        <h3><b>Energy for Business Blog<br />
+ </b>Empowering you to make smart energy decisions for your business.</h3>
+
+    
+</div></div>
+<div class="genericbutton section"><div class="btn-container btn-center" ng-controller="TopNavController">
+
+    
+
+    
+        <a type="button" class="btn btn-wide con-btn-primary-green con-btn-square " target="_blank" rel="noopener noreferrer" href="https://blogs.constellation.com/">
+            
+            
+            explore blog
+            
+        </a>
+    
+    
+</div></div>
+
+
+            </div>
+
+            
+            
+
+            
+            
+            
+
+            
+            
+
+            
+            
+        </div>
+    
+</div>
+</div>
+<div class="banner-section section"><div class="banner-section component theme blue padding-top-bottom margin-top-bottom      p-r-20 p-l-20" style="background-image:url()">
+    
+    
+        <div class="row themed clearfix">
+
+            <div class="col-xs-12">
+                <div class="text parbase section"><div class="text component ">
+    
+        <h3><b>Subscription Center<br />
+</b>Receive updates on the latest market trends.</h3>
+
+    
+</div></div>
+<div class="genericbutton section"><div class="btn-container btn-center" ng-controller="TopNavController">
+
+    
+
+    
+        <a type="button" class="btn btn-wide con-btn-primary-green con-btn-square " target="_blank" rel="noopener noreferrer" href="https://blogs.constellation.com/communication-preferences/">
+            
+            
+            subscribe now
+            
+        </a>
+    
+    
+</div></div>
+
+
+            </div>
+
+            
+            
+
+            
+            
+            
+
+            
+            
+
+            
+            
+        </div>
+    
+</div>
+</div>
+<div class="banner-section section"><div class="banner-section component theme blue padding-top-bottom margin-top-bottom      p-r-20 p-l-20" style="background-image:url()">
+    
+    
+        <div class="row themed clearfix">
+
+            <div class="col-xs-12">
+                <div class="text parbase section"><div class="text component ">
+    
+        <h3><b>Webinar Registration<br />
+</b><span style="font-weight: normal;">Register for our upcoming Energy Market Intel Webinar.</span></h3>
+
+    
+</div></div>
+<div class="genericbutton section"><div class="btn-container btn-center" ng-controller="TopNavController">
+
+    
+
+    
+        <a type="button" class="btn btn-wide con-btn-primary-green con-btn-square " target="_blank" rel="noopener noreferrer" href="https://events.constellation.com/marketintelwebinar">
+            
+            
+            register
+            
+        </a>
+    
+    
+</div></div>
+
+
+            </div>
+
+            
+            
+
+            
+            
+            
+
+            
+            
+
+            
+            
+        </div>
+    
+</div>
+</div>
+<div class="banner-section section"><div class="banner-section component theme green padding-top-bottom margin-top-bottom      p-r-20 p-l-20" style="background-image:url()">
+    
+    
+        <div class="row themed clearfix">
+
+            <div class="col-xs-12">
+                <div class="image parbase section">
+    <img src="/content/constellation/en/solutions/for-your-commercial-business/energy-tools-and-resources/energy-terms-to-know/_jcr_content/sidePar/banner_section_copy__1939060312/par/image.img.jpg/1691439500734.jpg" title="Explore the 2023 Constellation Sustainability Report" class="cq-dd-image" data-emptytext="Image" data-detail-image-close="Close"/>
+
+
+
+</div>
+<div class="text parbase section"><div class="text component ">
+    
+        <h3>Explore the 2023 Constellation Sustainability Report</h3>
+
+    
+</div></div>
+<div class="genericbutton section"><div class="btn-container btn-center" ng-controller="TopNavController">
+
+    
+
+    
+        <a type="button" class="btn btn-wide con-btn-primary-blue con-btn-square " target="_self" rel="noopener noreferrer" href="/content/constellationenergy/en/our-esg-principles/esg-resources/constellation-sustainability-report">
+            
+            
+            Get Report
+            
+        </a>
+    
+    
+</div></div>
+
+
+            </div>
+
+            
+            
+
+            
+            
+            
+
+            
+            
+
+            
+            
+        </div>
+    
+</div>
+</div>
+
+</div>
+            </div>
+
+            <div class="col-xs-12 col-sm-8 col-lg-9 content-main">
+                <div class="text parbase section"><div class="text component ">
+    
+        <h2><strong>Weather &amp; Market Fundamentals</strong></h2>
+
+    
+</div></div>
+<div class="text parbase section"><div class="text component ">
+    
+        <p>As part of their role, energy managers are often required to stay apprised of the latest market and weather factors impacting energy prices.</p>
+<p>Constellation’s team of market analysts and meteorologists offer customers insight into the supply and demand factors that impact energy prices and share updates in our <a href="https://events.constellation.com/marketintelwebinar" target="_blank">Energy Market Intel Webinars</a> and in our Weekly Gas Storage and Weekly Energy Market Update <a href="https://blogs.constellation.com/communication-preferences" target="_blank">email communications.</a></p>
+<p>In order to help clear up some of the most confusing terms in the industry, read through the energy terms below separated by two categories: <a href="#power">1) Power and Gas Terms</a> and <a href="#weather">2) Weather Terms.</a> These terms will give you more insight into the inner workings of the energy market, allowing you to walk away a more informed consumer.</p>
+
+    
+</div></div>
+<div class="text parbase section"><div class="text component ">
+    
+        <h3><a id="power"></a>Understanding Power and Gas Terms</h3>
+<ul style="list-style-position: inside;">
+<li><b>Bcf </b>– Billion cubic feet – standard unit of measurement for natural gas supply/demand - 1,000,000 MMBtu = 1 Bcf. <br />
+<br />
+</li>
+<li><b>Btu</b> – British thermal unit – A British thermal unit is a unit of measurement that represents the amount of energy needed to heat a pound of water by one-degree Fahrenheit at or near 39.2⁰ F. This is an important measurement in understanding energy bills. <br />
+<br />
+</li>
+<li><b>Driving Season – </b>Driving season is defined by the time between Memorial Day and Labor Day weekends. <br />
+<br />
+</li>
+<li><b>Dry Gas</b> – Natural gas that consists of mostly methane, producing little condensable heavier hydrocarbon compounds, such as propane and butane, when brought to the surface. In the U.S., dry gases are defined as those that contain less than 0.1 gallon of condensables per 1,000 cubic feet of produced gas. <br />
+<br />
+</li>
+<li><b>Electricity</b> – A property of matter created by the movement of electrons. This &quot;movement&quot; is initiated usually by a generator fueled by any number of energy resources such as coal, uranium, water (hydropower) or directly converted from solar radiation in photovoltaic cells. Electricity is not energy per se, but the &quot;carrier&quot; of energy that originates in fossil fuel and renewable energy sources. <br />
+<br />
+</li>
+<li><b>Electric Generation</b> – The process of producing electric energy or transforming other forms of energy into electric energy. Also, the amount of electric energy produced or expressed is measured in watt-hours (Wh). <br />
+<br />
+</li>
+<li><b>Energy </b>– The capacity for doing work. Energy has several forms, some of which are easily convertible and can be changed to another form useful for work. Most of the world's convertible energy comes from fossil fuels that are burned to produce heat that is then used as a transfer medium to mechanical or other means to accomplish tasks. Electrical energy is usually measured in kilowatt-hours (Kwh), while heat energy is usually measured in British thermal units (Btu). <br />
+<br />
+</li>
+<li><b>Exports </b>– A good or service produced in the reference country and shipped for sale or trade to another country. For example, the U.S. is now a global exporter of liquefied natural gas. <br />
+<br />
+</li>
+<li><b>Forward Market</b> – A financial market in which financial instruments or commodities are traded for future delivery. <br />
+<br />
+</li>
+<li><b>Fuel </b>– Any substance that can be burned to produce heat; also, materials that can be fissioned in a chain reaction to produce heat. <br />
+<br />
+</li>
+<li><b>Fuel Consumption </b>– The amount of fuel used for gross generation, providing standby service, start-up and/or flame stabilization. <br />
+<br />
+</li>
+<li><b>Futures </b>– Standardized forward contracts traded on a centralized exchange. <br />
+<br />
+</li>
+<li><b>GWh </b>– Gigawatt hour – 1 billion watts used for one hour. <br />
+<br />
+</li>
+<li><b>Henry Hub</b> – A distribution/delivery point for natural gas located in Louisiana, Henry Hub is used as a domestic and global benchmark for natural gas futures traded on the NYMEX exchange. <br />
+<br />
+</li>
+<li><b>Imports </b>– A good or service brought into the referenced country. <br />
+<br />
+</li>
+<li><b>Injections </b>– In reference to underground natural gas storage, when physical natural gas is stored underground to be pulled out and used later. <br />
+<br />
+</li>
+<li><b>Liquefied natural gas (LNG)</b> – Liquefied natural gas is composed of methane and some mixture of ethane used to convert natural gas to liquid form for ease and safety of storage transport. It is cooled to approximately -256⁰ Fahrenheit so that it can be transported from countries with a large supply of natural gas to countries that demand more natural gas than they produce.<br />
+<br />
+</li>
+<li><b>MMBtu </b>– One million British Thermal Units – standard unit of measurement for natural gas financial contracts (also equal to 1 dekatherm). <br />
+<br />
+</li>
+<li><b> MMcf – Million cubic feet</b> – standard unit of measurement for natural gas supply/demand ~1,000 MMBtu = 1 MMcf.<br />
+<br />
+</li>
+<li><b>MWh </b>– Megawatt-hour – 1 million watts used for one hour. <br />
+<br />
+</li>
+<li><b>Natural Gas </b>– A fuel burned under boilers and by internal combustion engines for electric generation. These include natural, manufactured and waste gas. <br />
+<br />
+</li>
+<li><b>NYMEX </b>– The abbreviation for New York Mercantile Exchange, which trades in futures exchange of energy and other commodities. <br />
+<br />
+</li>
+<li><b>Outer Years/Back end of curv</b>e – Depending on curve length, typically refers to a five-year curve; the back-end of the curve is the last 2-3 years. <br />
+<br />
+</li>
+<li><b>Pipelines - </b>A key method for moving natural gas from producing regions to consumption points. There are interstate pipelines and intrastate pipelines that face different regulatory requirements.<br />
+<br />
+</li>
+<li><b>Power Burn </b>– Natural gas consumed for power generation. <br />
+<br />
+</li>
+<li><b>Production - </b>Natural gas production is measured in one million cubic feet (MMcf)/day or a billion cubic feet (Bcf)/day.<br />
+<br />
+</li>
+<li><b>Prompt/Front Month or Prompt/Front Year</b> – The contract term with an expiration date closest to the current date. <br />
+<br />
+</li>
+<li><b>Spot Market</b> – A financial market in which financial instruments or commodities are traded for immediate delivery (or “on the spot”). <br />
+<br />
+</li>
+<li><b>“Spot” time period </b>– This can refer to next day or even two days out delivery. “Cash” markets refer to same day, as in you have to pay cash (no credit). <br />
+<br />
+</li>
+<li><b>Storage </b>– Measured in cubic feet; physical natural gas is stored underground to be used later. </li>
+</ul>
+<p> </p>
+
+    
+</div></div>
+<div class="video section"><div class="video component">
+
+    
+
+    
+
+    
+        
+        
+            <div class="videoWrapper enforcedDimensions" style="max-width:650px;
+                        max-height:365.625px;
+                        height:365.625px;">
+
+                <iframe class="youtube-video" src="//www.youtube.com/embed/J7Dvx68YelM?rel=0&enablejsapi=1&version=3&playerapiid=ytplayer" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0">
+                </iframe>
+            </div>
+        
+    
+
+    
+</div>
+
+</div>
+<hr class="clear"/><div class="text parbase section"><div class="text component ">
+    
+        <ul style="list-style-position: inside;">
+<li><b>Tcf </b>– Trillion cubic feet. <br />
+<br />
+</li>
+<li><b>Wet Gas </b>– Natural gas that consists of an appreciable proportion of hydrocarbon compounds heavier than methane (e.g., ethane, propane, and butane). In the U.S., wet gases are defined as those that contain more than 0.1 gallon of condensables per 1,000 cubic feet of gas. <br />
+<br />
+</li>
+<li><b>Withdrawals </b>– Refers to physical natural gas being removed from underground storage to supply the market with additional inventory during a time of high demand (i.e., during winter).</li>
+</ul>
+
+    
+</div></div>
+<div class="text parbase section"><div class="text component ">
+    
+        <h2><a id="weather"></a>Understanding Weather Terms</h2>
+<ul style="list-style-position: inside;">
+<li><strong>Analog Year</strong> – This is a period in time (usually a season, or a “year”) that we have data for (normally 1950-present) that has similar key meteorological parameters that are similar to present conditions. Typically, the larger parameters include: the state of the El Niño – Southern Oscillation; Atlantic and Pacific water temperature profiles; tendency for blocking, snow and ice cover in the northern hemisphere; the amount of drought and/or wet ground present; and stratospheric wind patterns.  <br />
+<br />
+</li>
+<li><strong>Blocking </strong>- Refers to large-scale patterns in the atmospheric pressure field, most commonly at the jet stream level or about 20,000 feet. These anomalous patterns causes the weather pattern to stall, or become “blocked,” redirecting storms northward or southward. These blocks can remain in place for several days or even a few weeks, leading to stormy or cold or warm spells (sometimes extreme).</li>
+</ul>
+
+    
+</div></div>
+<div class="video section"><div class="video component">
+
+    
+
+    
+
+    
+        
+        
+            <div class="videoWrapper enforcedDimensions" style="max-width:650px;
+                        max-height:365.625px;
+                        height:365.625px;">
+
+                <iframe class="youtube-video" src="//www.youtube.com/embed/BeBwKArqiWI?rel=0&enablejsapi=1&version=3&playerapiid=ytplayer" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0">
+                </iframe>
+            </div>
+        
+    
+
+    
+</div>
+
+</div>
+<hr class="clear"/><div class="text parbase section"><div class="text component ">
+    
+        <ul style="list-style-position: inside;">
+<li><strong>Cold Front </strong>– Occurs when cold and dry air advance into warmer and more humid air. This abruptly lifts and cools the air along the front, producing clouds and precipitation. The collision along cold fronts can be violent, producing severe weather and tornadoes. <br />
+<br />
+</li>
+<li><strong>Degree Days </strong>– A key component of measuring the energy needed to heat or cool residential homes and businesses is a degree day. The starting temperature is 65 degrees F. A heating degree day (HDD) is a measure of how much the daily average temperature (average of the maximum and minimum) is below 65⁰ F. A cooling degree day (CDD) is how much warmer the average temperature is above 65⁰ F. Heating and cooling degree days can be population-weighted (i.e., PWHDD or PWCDD). <br />
+<br />
+</li>
+<li><strong>ENSO</strong> – Acronym for El Niño/Southern Oscillation; the interaction between the atmosphere and ocean in the tropical Pacific that results in a variation between below-normal and above-normal sea surface temperatures and dry and wet conditions over the course of a few years, particularly those in the central Pacific or region 3.4. <br />
+<br />
+</li>
+<li><strong>El Niño</strong> – Above-normal temperature anomalies greater than a half degree celsius or more for a period of 90 days.<br />
+<br />
+</li>
+<li><strong>Jet Stream</strong> – A narrow variable band of very strong predominantly westerly air currents encircling the globe several miles above the earth. The two main jet streams that affect our weather in North America are the Polar and subtropical jet streams. <br />
+<br />
+</li>
+<li><strong>La Niña</strong> – Below-normal temperature anomalies greater than a half degree celsius or more for a period of 90 days.</li>
+</ul>
+
+    
+</div></div>
+<div class="video section"><div class="video component">
+
+    
+
+    
+
+    
+        
+        
+            <div class="videoWrapper enforcedDimensions" style="max-width:650px;
+                        max-height:365.625px;
+                        height:365.625px;">
+
+                <iframe class="youtube-video" src="//www.youtube.com/embed/f82pv-Ea-jo?rel=0&enablejsapi=1&version=3&playerapiid=ytplayer" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0">
+                </iframe>
+            </div>
+        
+    
+
+    
+</div>
+
+</div>
+<hr class="clear"/><div class="text parbase section"><div class="text component ">
+    
+        <ul style="list-style-position: inside;">
+<li><b>Polar Jet Stream</b> – Carries cold, Canadian air south. <br />
+<br />
+</li>
+<li><b>Polar Vortex</b> – A large area of low pressure and cold air surrounding the Earth’s poles that weakens in summer and strengthens in winter. “Vortex&quot; refers to the counter-clockwise flow of air that helps keep the colder air near the Poles. During winter in the Northern hemisphere, the polar vortex will sometimes expand and send cold air southwards with the jet stream. <br />
+<br />
+</li>
+<li><b>Snow Water Equivalent (SWE)</b> – The amount of water contained within snowpack; it can be thought of as the depth of water that would exist if you melted the snowpack.<br />
+<br />
+</li>
+<li><b>Subtropical Jet Stream </b>– Carries warm and humid air masses north. <br />
+<br />
+</li>
+<li><b>Weather Front</b> – Occurs where two different air masses meet, and sometimes collide, which most of the time produces active weather in terms of wind, clouds and precipitation.</li>
+</ul>
+
+    
+</div></div>
+<div class="horizontal-rule section"><div class="horizontal-rule component"></div></div>
+<div class="text parbase section"><div class="text component ">
+    
+        <h3>Stay up-to-date on the latest energy news and information:</h3>
+<ul style="list-style-position: inside;">
+<li><b><a href="https://blogs.constellation.com" adhocenable="false">Energy for Business Blog</a> -</b> Empowering you to make smart energy decisions for your business.</li>
+<li><a href="https://blogs.constellation.com/communication-preferences/" adhocenable="false"><b>Subscription Center</b></a> - Receive updates on the latest market trends.</li>
+<li><a href="https://events.constellation.com/marketintelwebinar" style="font-weight: bold;" adhocenable="false">Webinar Registration</a> - Register for our upcoming Energy Market Intel Webinar.</li>
+</ul>
+
+    
+</div></div>
+<div class="text parbase section"><div class="text component ">
+    <p class="cq-text-placeholder-ipe" data-emptytext="Text">
+        
+    </p>
+</div></div>
+
+
+            </div>
+        </div>
+    </div>
+    <div class="content-secondary-par">
+</div>
+</div>
+
+
+        <div><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-zip-form-par iparsys parsys"></div>
+</div>
+</div>
+
+
+    <div class="container">
+        <div class="swooshes"></div>
+    </div>
+
+
+<footer role="contentinfo">
+    
+    
+        
+            <div><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-navigation-par iparsys parsys"><div class="footer-navigation section"><div>
+    
+
+        
+
+        <div class="modern main-footer-navigation container">
+
+            
+            
+    <div class="col-sm-3 border-class">
+        <h5 class="col-heading hidden-xs">Residential</h5>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_self" href="/solutions/for-your-home/home-energy-options.html">Home Energy Options</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_self" href="/solutions/for-your-home/home-services.html">Home Services</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_self" href="/solutions/for-your-home/payment-options.html">Payment Options</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_self" href="/solutions/for-your-home/residential-signup.html">Rates &amp; Plans</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_self" href="/solutions/for-your-home/refer-a-friend.html">Refer a Friend</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_self" href="/energy-101/faqs/home-energy-faqs.html">FAQs</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_blank" href="https://my.constellation.com/">Pay My Bill</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_blank" href="https://my.constellation.com/">Log Into My Constellation Account</a>
+                </div>
+            
+       <div class="collapse-control visible-xs">
+            <button class="btn-collapse-link" type="button" data-toggle="collapse" data-target="#columnOneCollapse" aria-expanded="false" aria-controls="columnOneCollapse">
+                <div class="chevron-parent">
+                    <h5 class="col-heading">Residential</h5>
+                    <div class="chevron-container">
+                        <div class="chevron chevron-right"></div>
+                    </div>
+                </div>
+            </button>
+            <div id="columnOneCollapse" class="collapse" data-parent="#footerAccordion">
+                <div class="col-links">
+                    
+                        <div class="footer-links">
+                            <a target="_self" href="/solutions/for-your-home/home-energy-options.html">Home Energy Options</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_self" href="/solutions/for-your-home/home-services.html">Home Services</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_self" href="/solutions/for-your-home/payment-options.html">Payment Options</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_self" href="/solutions/for-your-home/residential-signup.html">Rates &amp; Plans</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_self" href="/solutions/for-your-home/refer-a-friend.html">Refer a Friend</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_self" href="/energy-101/faqs/home-energy-faqs.html">FAQs</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_blank" href="https://my.constellation.com/">Pay My Bill</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_blank" href="https://my.constellation.com/">Log Into My Constellation Account</a>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+            
+            
+    <div class="col-sm-3 border-class">
+        <h5 class="col-heading hidden-xs">Business</h5>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_self" href="/solutions/archived/former-for-your-commercial-business/request-a-quote.html">Request a Quote</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_self" href="/solutions/for-your-small-business.html">Small &amp; Medium Business</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_self" href="/solutions/archived/former-for-your-commercial-business.html">Commercial</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_blank" href="https://energymanager.constellation.com/">Log In to Energy Manager</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_blank" href="http://constellation.force.com/">Log In to Channel Partner Portal</a>
+                </div>
+            
+       <div class="collapse-control visible-xs">
+            <button class="btn-collapse-link" type="button" data-toggle="collapse" data-target="#columnTwoCollapse" aria-expanded="false" aria-controls="columnTwoCollapse">
+                <div class="chevron-parent">
+                    <h5 class="col-heading">Business</h5>
+                    <div class="chevron-container">
+                        <div class="chevron chevron-right"></div>
+                    </div>
+                </div>
+            </button>
+            <div id="columnTwoCollapse" class="collapse" data-parent="#footerAccordion">
+                <div class="col-links">
+                    
+                        <div class="footer-links">
+                            <a target="_self" href="/solutions/archived/former-for-your-commercial-business/request-a-quote.html">Request a Quote</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_self" href="/solutions/for-your-small-business.html">Small &amp; Medium Business</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_self" href="/solutions/archived/former-for-your-commercial-business.html">Commercial</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_blank" href="https://energymanager.constellation.com/">Log In to Energy Manager</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_blank" href="http://constellation.force.com/">Log In to Channel Partner Portal</a>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+            
+            
+    <div class="col-sm-3 border-class">
+        <h5 class="col-heading hidden-xs">Corporate Information</h5>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_blank" href="https://www.constellationenergy.com/our-company/our-story/about-constellation.html">About Constellation</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_blank" href="https://jobs.constellationenergy.com/">Careers</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_blank" href="https://investors.constellationenergy.com/">Investors</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_blank" href="https://www.constellationenergy.com/contact-us.html">Media Inquiries</a>
+                </div>
+            
+                <div class="footer-links hidden-xs">
+                    <a target="_blank" href="https://www.constellationenergy.com/our-work/channel-partners/aggregators-and-brokers/become-a-partner.html">Become a Partner</a>
+                </div>
+            
+       <div class="collapse-control visible-xs">
+            <button class="btn-collapse-link" type="button" data-toggle="collapse" data-target="#columnThreeCollapse" aria-expanded="false" aria-controls="columnThreeCollapse">
+                <div class="chevron-parent">
+                    <h5 class="col-heading">Corporate Information</h5>
+                    <div class="chevron-container">
+                        <div class="chevron chevron-right"></div>
+                    </div>
+                </div>
+            </button>
+            <div id="columnThreeCollapse" class="collapse" data-parent="#footerAccordion">
+                <div class="col-links">
+                    
+                        <div class="footer-links">
+                            <a target="_blank" href="https://www.constellationenergy.com/our-company/our-story/about-constellation.html">About Constellation</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_blank" href="https://jobs.constellationenergy.com/">Careers</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_blank" href="https://investors.constellationenergy.com/">Investors</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_blank" href="https://www.constellationenergy.com/contact-us.html">Media Inquiries</a>
+                        </div>
+                    
+                        <div class="footer-links">
+                            <a target="_blank" href="https://www.constellationenergy.com/our-work/channel-partners/aggregators-and-brokers/become-a-partner.html">Become a Partner</a>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+            
+            <div class="col-sm-3">
+
+                <h5 class="col-heading hidden-xs">Get In Touch</h5>
+                
+    
+        <div class="contact-info-links  hidden-xs">
+            
+
+            <a class="link-component" href="mailto:Contact Us">
+                <div class="fa fa-envelope pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Contact Us
+                </div>
+            </a>
+        </div>
+    
+        <div class="contact-info-links  hidden-xs">
+            <a class="link-component " href="tel:8446363749">
+                <div class="fa fa-building-o pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Business: 844-6-ENERGY  
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  hidden-xs">
+            <a class="link-component " href="tel:8776774355">
+                <div class="fa fa-home pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    GA Residential: 877-677-4355 
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  hidden-xs">
+            <a class="link-component " href="tel:8889007052">
+                <div class="fa fa-home pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    TX Residential: 888-900-7052 
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  hidden-xs">
+            <a class="link-component " href="tel:8554651244">
+                <div class="fa fa-home pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Other Residential: 855-465-1244
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  hidden-xs">
+            <a class="link-component " href="tel:8448234663">
+                <div class="fa fa-home pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Home Services: 844-823-HOME
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  hidden-xs">
+            <a class="link-component " href="/content/constellation/en/search">
+                <div class="fa fa-search pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Search
+                </div>
+            </a>
+
+            
+        </div>
+    
+
+
+                <div class="collapse-control visible-xs">
+                    <button class="btn-collapse-link" type="button" data-toggle="collapse" data-target="#columnFourCollapse" aria-expanded="false" aria-controls="columnFourCollapse">
+                        <div class="chevron-parent">
+                            <h5 class="col-heading">Get In Touch</h5>
+                            <div class="chevron-container">
+                                <div class="chevron chevron-right"></div>
+                            </div>
+                        </div>
+                    </button>
+                    <div id="columnFourCollapse" class="collapse" data-parent="#footerAccordion">
+                        <div class="col-links">
+                            
+    
+        <div class="contact-info-links  visible-xs">
+            
+
+            <a class="link-component" href="mailto:Contact Us">
+                <div class="fa fa-envelope pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Contact Us
+                </div>
+            </a>
+        </div>
+    
+        <div class="contact-info-links  visible-xs">
+            <a class="link-component " href="tel:8446363749">
+                <div class="fa fa-building-o pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Business: 844-6-ENERGY  
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  visible-xs">
+            <a class="link-component " href="tel:8776774355">
+                <div class="fa fa-home pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    GA Residential: 877-677-4355 
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  visible-xs">
+            <a class="link-component " href="tel:8889007052">
+                <div class="fa fa-home pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    TX Residential: 888-900-7052 
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  visible-xs">
+            <a class="link-component " href="tel:8554651244">
+                <div class="fa fa-home pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Other Residential: 855-465-1244
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  visible-xs">
+            <a class="link-component " href="tel:8448234663">
+                <div class="fa fa-home pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Home Services: 844-823-HOME
+                </div>
+            </a>
+
+            
+        </div>
+    
+        <div class="contact-info-links  visible-xs">
+            <a class="link-component " href="/content/constellation/en/search">
+                <div class="fa fa-search pull-left"></div>
+                <div class="ci-text ci-hasIcon">
+                    Search
+                </div>
+            </a>
+
+            
+        </div>
+    
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+<div class="clearfix"></div></div>
+</div>
+</div>
+</div>
+        
+        
+    
+    <div class="deep-footer">
+        <div class="container">
+            <div class="row">
+                <div class="social col-xs-12 col-sm-6">
+                    <span class="xs-row">Join the conversation:
+                        <a class="fa fa-facebook" href="http://www.facebook.com/ConstellationEnergy" title="facebook" target="_blank"></a>
+                        <a class="icon x-twitter" href="https://x.com/ConstellationEG" title="twitter" target="_blank">
+                            <img src="/content/dam/constellation/icons/x-twitter-logo.svg"/>
+                        </a>
+                        <a class="fa fa-youtube" href="http://www.youtube.com/ConstellationEnergy" title="youtube" target="_blank"></a>
+                        <a class="fa fa-linkedin" href="http://www.linkedin.com/company/constellation-energy" title="linkedin" target="_blank"></a>
+                        
+                        <a class="fa fa-instagram" href="https://www.instagram.com/constellationenergy/" title="instagram" target="_blank"></a>
+                        
+                    </span>
+                </div>
+                <div class="footer-legal col-xs-12 col-sm-6"><div class="text component ">
+    
+        <p><button id="ot-sdk-btn" class="ot-sdk-show-settings" style="background-color: rgb(126,128,131);border-color: rgb(126,128,131);border-style: solid;font-size: 13.0px;color: white;text-decoration: underline;">Cookie Settings</button>|  <a href="https://www.constellation.com/privacy-policy.html" adhocenable="false" style="color: rgb(255,255,255);" target="_blank">Privacy Policy</a> |  <a href="https://www.constellationenergy.com/terms-of-use.html" adhocenable="false" style="color: rgb(255,255,255);" target="_blank">Terms and Conditions</a> |  <a href="/energy-101/blog/blog-policy.html" adhocenable="false" style="color: rgb(255,255,255);" target="_blank">Blog Policy</a></p>
+
+    
+</div></div>
+            </div>
+            <div class="row">
+                <div class="footer-text col-xs-12"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footer-text iparsys parsys"><div class="horizontal-rule section"><div class="horizontal-rule component"></div></div>
+<div class="text parbase section"><div class="text component one-col">
+    
+        <p>© 2024 Constellation. The offerings described herein are those of either Constellation NewEnergy, Inc., Constellation NewEnergy-Gas Division, LLC, Constellation Connect, LLC or Constellation Home Products &amp; Services, LLC (d/b/a Constellation Home in Maryland and d/b/a Constellation in Georgia, Pennsylvania and Texas), each affiliates of each other. The prices of Constellation are not regulated by any state Public Utility Commission. You do not have to buy Constellation electricity, natural gas or any other products to receive the same quality regulated service from your local utility. Brand names and product names are trademarks or service marks of their respective holders. All rights reserved. </p>
+<p>Electricity or Gas Supplier License/Order #s and Home Services #s: CA 1359, CTA0032; CT 06-07-11, 01-06; DE 00-162; DC GA06-2, EA01-5; GA GM-46; IL 16-0205, 17-0330; IA G-0010; ME 2000-989; MD IR-655, IR-311, IR-500, IR-228, 107-2276; MA GS-030, CS-015; MI U-14867, U-13660; NE NG-0043; NH DM 17-024; NJ GSL-0101, ESL-0016; OH 09-153G, 00-003E; PA A-125095, A-110036; OR ES4, RI 2379(Z1), D-96-6(E); TX 10014, B07305101; VA G-26, G-51, E-11A; TX Licenses HVAC TACLA 00107498R, Electrical TECL 343159, Service Plan TSCP #684, Plumbing #43217; GA REG CN-211051</p>
+
+    
+</div></div>
+<div class="text parbase section"><div class="text component ">
+    
+        <style>*.header.partial *.title-residential, *.header.partial *.title-business {
+	display: none;
+}
+</style>
+    
+</div></div>
+</div>
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+        
+
+        <div>
+
+
+
+
+
+
+
+<!--
+More detailed timing info is available by uncommenting some code in the timing.jsp component
+Timing chart URL:
+http://chart.apis.google.com/chart?chtt=energy-terms-to-know.html+%28401269ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,401269,0,401269&chxr=0,0,401269&chd=t:6,36056,37691,40418,40601,41711,42340,42713,42877,291568,292908,298189,298613,299343,299585,303126,304653,305334,305562,307153,308410,308904,309195,310762,312256,312920,313181,331211,332276,333961,351573,353099,354235,355339,356235,356433,357553,358672,359503,359697,360617,361627,361872,363033,363325,365121,367677,370647,371013,371521,378933,379176,379596,380093,394899,396664,396908,397321,397872,398083,399048|1130,3412,1577,588,398,1929,191,422,250,963,4028,35563,5896,4872,3368,554,3639,2740,1417,445,3667,2807,1365,443,21141,20250,17830,915,398,33325,1341,999,974,779,98,940,988,715,98,801,867,104,994,129,1605,1469,166,1660,154,275,14555,116,13579,12671,1509,4605,115,3342,95,838,929&chly=handleSecurity|header.html|header.html|headlibs.jsp|dtm_include.jsp|servicecomponents.jsp|generictracker.jsp|dynamictagmanagement.jsp|dtm_include.jsp|breadcrumb.html|sidenav.html|parsys.jsp|banner-section.html|parsys.jsp|text.html|genericbutton.html|banner-section.html|parsys.jsp|text.html|genericbutton.html|banner-section.html|parsys.jsp|text.html|genericbutton.html|banner-section.html|parsys.jsp|image.html|text.html|genericbutton.html|parsys.jsp|text.html|text.html|text.html|video.html|lineBreak.html|text.html|text.html|video.html|lineBreak.html|text.html|video.html|lineBreak.html|text.html|horizontal-rule.html|text.html|text.html|parsys.jsp|iparsys.jsp|new.jsp|par.jsp|iparsys.jsp|new.jsp|par.jsp|footer-navigation.html|text.html|iparsys.jsp|new.jsp|par.jsp|horizontal-rule.html|text.html|text.html&chs=600x500
+-->
+
+</div>
+
+        
+
+        
+<script src="/etc/designs/constellation/bootstrap/bootstrap.min.js"></script>
+        
+
+    <script>
+            //Skill choices: Maryland, Protocol, Texas, BGE Home
+            if (typeof (lpUnit) == 'undefined') var lpUnit = "";
+            if (typeof (lpLanguage) == 'undefined') var lpLanguage = 'english';
+            Myproduct = '75308370';
+    </script>
+
+
+
+
+    
+    
+<script src="/etc/designs/constellation/angularjs_1.8.min.js"></script>
+<script src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.js"></script>
+<script src="/etc.clientlibs/core/wcm/components/accordion/v1/accordion/clientlibs/site.min.js"></script>
+<script src="/etc.clientlibs/core/wcm/components/tabs/v1/tabs/clientlibs/site.min.js"></script>
+<script src="/etc.clientlibs/core/wcm/components/image/v2/image/clientlibs/site.min.js"></script>
+<script src="/etc.clientlibs/core/wcm/components/carousel/v1/carousel/clientlibs/site.min.js"></script>
+<script src="/etc/designs/constellation/clientlibs.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="" src="https://resources.digital-cloud-west.medallia.com/wdcwest/67546/onsite/embed.js"></script>
+        
+
+
+
+
+    
+
+
+
+
+        <!--[if lte IE 9]>
+        <script>
+            // using placeholder plugin for old browsers
+            $( 'input, textarea' ).placeholder();
+        </script>
+        <![endif]-->
+    </body>
+</html>

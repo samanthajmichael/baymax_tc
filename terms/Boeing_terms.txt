@@ -284,7 +284,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-CN cmp-languagenavigation__item--langcode-zh-CN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-4aac5e1137&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:00Z&#34;,&#34;dc:title&#34;:&#34;China&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeing.cn/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-CN cmp-languagenavigation__item--langcode-zh-CN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-4aac5e1137&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:03Z&#34;,&#34;dc:title&#34;:&#34;China&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeing.cn/&#34;}}">
         
     
 	
@@ -300,7 +300,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-BE cmp-languagenavigation__item--langcode-de-BE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-e80f86d1e9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:02Z&#34;,&#34;dc:title&#34;:&#34;Europe&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com/global/boeing-in-europe&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-BE cmp-languagenavigation__item--langcode-de-BE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-e80f86d1e9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:04Z&#34;,&#34;dc:title&#34;:&#34;Europe&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com/global/boeing-in-europe&#34;}}">
         
     
 	
@@ -332,7 +332,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-DE cmp-languagenavigation__item--langcode-de-DE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-916589de70&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:04Z&#34;,&#34;dc:title&#34;:&#34;Germany&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.de/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-DE cmp-languagenavigation__item--langcode-de-DE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-916589de70&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:07Z&#34;,&#34;dc:title&#34;:&#34;Germany&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.de/&#34;}}">
         
     
 	
@@ -348,7 +348,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IN cmp-languagenavigation__item--langcode-en-IN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-ec31e8fcb1&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:07Z&#34;,&#34;dc:title&#34;:&#34;India&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.in/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IN cmp-languagenavigation__item--langcode-en-IN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-ec31e8fcb1&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:29Z&#34;,&#34;dc:title&#34;:&#34;India&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.in/&#34;}}">
         
     
 	
@@ -364,7 +364,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-iw cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-5dc5d4fbd3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:10Z&#34;,&#34;dc:title&#34;:&#34;Israel&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.il/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-iw cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-5dc5d4fbd3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:02Z&#34;,&#34;dc:title&#34;:&#34;Israel&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.il/&#34;}}">
         
     
 	
@@ -380,7 +380,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IT cmp-languagenavigation__item--langcode-it-IT cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-7ad1ecd5bf&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:13Z&#34;,&#34;dc:title&#34;:&#34;Italy&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeingitaly.it/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IT cmp-languagenavigation__item--langcode-it-IT cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-7ad1ecd5bf&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:25Z&#34;,&#34;dc:title&#34;:&#34;Italy&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeingitaly.it/&#34;}}">
         
     
 	
@@ -396,7 +396,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ja cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-816ee6de92&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:16Z&#34;,&#34;dc:title&#34;:&#34;Japan&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.jp/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ja cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-816ee6de92&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:38Z&#34;,&#34;dc:title&#34;:&#34;Japan&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.jp/&#34;}}">
         
     
 	
@@ -412,7 +412,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-KR cmp-languagenavigation__item--langcode-ko-KR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-a544388593&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:20Z&#34;,&#34;dc:title&#34;:&#34;Korea&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.kr/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-KR cmp-languagenavigation__item--langcode-ko-KR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-a544388593&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:42Z&#34;,&#34;dc:title&#34;:&#34;Korea&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.kr/&#34;}}">
         
     
 	
@@ -428,7 +428,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-AE cmp-languagenavigation__item--langcode-en-AE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-89d9ea9058&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-16T16:03:05Z&#34;,&#34;dc:title&#34;:&#34;Middle East&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing-me.com/en/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-AE cmp-languagenavigation__item--langcode-en-AE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-89d9ea9058&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-16T16:02:57Z&#34;,&#34;dc:title&#34;:&#34;Middle East&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing-me.com/en/&#34;}}">
         
     
 	
@@ -460,7 +460,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-ES cmp-languagenavigation__item--langcode-es-ES cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-2f19b6c83c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:29Z&#34;,&#34;dc:title&#34;:&#34;Spain&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.es/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-ES cmp-languagenavigation__item--langcode-es-ES cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-2f19b6c83c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:51Z&#34;,&#34;dc:title&#34;:&#34;Spain&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.es/&#34;}}">
         
     
 	
@@ -476,7 +476,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-TR cmp-languagenavigation__item--langcode-tr-TR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-c3c486ed19&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:34Z&#34;,&#34;dc:title&#34;:&#34;Türkiye&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.tr/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-TR cmp-languagenavigation__item--langcode-tr-TR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-c3c486ed19&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:57Z&#34;,&#34;dc:title&#34;:&#34;Türkiye&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.tr/&#34;}}">
         
     
 	
@@ -492,7 +492,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-GB cmp-languagenavigation__item--langcode-en-GB cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-9944520628&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-05T22:05:32Z&#34;,&#34;dc:title&#34;:&#34;UK&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.uk/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-GB cmp-languagenavigation__item--langcode-en-GB cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-9944520628&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-05T22:05:33Z&#34;,&#34;dc:title&#34;:&#34;UK&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.uk/&#34;}}">
         
     
 	
@@ -672,7 +672,7 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-48a4a419d9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:05Z&#34;,&#34;dc:title&#34;:&#34;Boeing Business Jets&#34;,&#34;xdm:linkURL&#34;:&#34;https://businessjets.boeing.com/&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-48a4a419d9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:08:54Z&#34;,&#34;dc:title&#34;:&#34;Boeing Business Jets&#34;,&#34;xdm:linkURL&#34;:&#34;https://businessjets.boeing.com/&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://businessjets.boeing.com/">Boeing Business Jets</a>
 
@@ -709,7 +709,7 @@
     </li>
 
         
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-15e3cacff3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:06Z&#34;,&#34;dc:title&#34;:&#34;AH-6 Light Attack Helicopter&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/ah-6-light-attack-helicopter&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-15e3cacff3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:07Z&#34;,&#34;dc:title&#34;:&#34;AH-6 Light Attack Helicopter&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/ah-6-light-attack-helicopter&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/ah-6-light-attack-helicopter">AH-6 Light Attack Helicopter</a>
 
@@ -772,7 +772,7 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-353dfa1d77&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;C-40A&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/c-40a&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-353dfa1d77&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:10Z&#34;,&#34;dc:title&#34;:&#34;C-40A&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/c-40a&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/c-40a">C-40A</a>
 
@@ -814,21 +814,21 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0047c44cd2&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:53:32Z&#34;,&#34;dc:title&#34;:&#34;Future Long Range Assault Aircraft&#34;,&#34;xdm:linkURL&#34;:&#34;/defense&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0047c44cd2&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:53:31Z&#34;,&#34;dc:title&#34;:&#34;Future Long Range Assault Aircraft&#34;,&#34;xdm:linkURL&#34;:&#34;/defense&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense">Future Long Range Assault Aircraft</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-6bb157a3f0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;H-47 Chinook&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/ch-47-chinook&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-6bb157a3f0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:10Z&#34;,&#34;dc:title&#34;:&#34;H-47 Chinook&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/ch-47-chinook&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/ch-47-chinook">H-47 Chinook</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-a3026d1596&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:07Z&#34;,&#34;dc:title&#34;:&#34;KC-46A Pegasus Tanker&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/kc-46a-pegasus-tanker&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-a3026d1596&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:08Z&#34;,&#34;dc:title&#34;:&#34;KC-46A Pegasus Tanker&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/kc-46a-pegasus-tanker&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/kc-46a-pegasus-tanker">KC-46A Pegasus Tanker</a>
 
@@ -849,7 +849,7 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f723d29d23&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:08Z&#34;,&#34;dc:title&#34;:&#34;P-8&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/p-8-poseidon&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f723d29d23&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;P-8&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/p-8-poseidon&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/p-8-poseidon">P-8</a>
 
@@ -884,7 +884,7 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-94ccbaaf26&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:07Z&#34;,&#34;dc:title&#34;:&#34;V-22 Osprey&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/v-22-osprey&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-94ccbaaf26&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:08Z&#34;,&#34;dc:title&#34;:&#34;V-22 Osprey&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/v-22-osprey&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/v-22-osprey">V-22 Osprey</a>
 
@@ -935,7 +935,7 @@
     </li>
 
         
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-567c44f83a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:09Z&#34;,&#34;dc:title&#34;:&#34;Artemis&#34;,&#34;xdm:linkURL&#34;:&#34;/content/dam/microsites/static/space/space-launch-system/launch/index.html&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-567c44f83a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:12Z&#34;,&#34;dc:title&#34;:&#34;Artemis&#34;,&#34;xdm:linkURL&#34;:&#34;/content/dam/microsites/static/space/space-launch-system/launch/index.html&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/content/dam/microsites/static/space/space-launch-system/launch/index.html">Artemis</a>
 
@@ -1014,14 +1014,14 @@
     </li>
 
         
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-8def5a9fea&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:10Z&#34;,&#34;dc:title&#34;:&#34;Commercial Services&#34;,&#34;xdm:linkURL&#34;:&#34;/services#Nav3&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-8def5a9fea&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:13Z&#34;,&#34;dc:title&#34;:&#34;Commercial Services&#34;,&#34;xdm:linkURL&#34;:&#34;/services#Nav3&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/services#Nav3">Commercial Services</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-033045b22f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:10Z&#34;,&#34;dc:title&#34;:&#34;Government Services&#34;,&#34;xdm:linkURL&#34;:&#34;/services#Nav4&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-033045b22f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:13Z&#34;,&#34;dc:title&#34;:&#34;Government Services&#34;,&#34;xdm:linkURL&#34;:&#34;/services#Nav4&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/services#Nav4">Government Services</a>
 
@@ -1051,7 +1051,7 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-10ed899b95&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T22:02:32Z&#34;,&#34;dc:title&#34;:&#34;Aerospace Safety Timeline&#34;,&#34;xdm:linkURL&#34;:&#34;/safety/safetyexperience&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-10ed899b95&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T22:02:33Z&#34;,&#34;dc:title&#34;:&#34;Aerospace Safety Timeline&#34;,&#34;xdm:linkURL&#34;:&#34;/safety/safetyexperience&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/safety/safetyexperience">Aerospace Safety Timeline</a>
 
@@ -1074,7 +1074,7 @@
     </li>
 
         
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f8f74a0033&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:39Z&#34;,&#34;dc:title&#34;:&#34;Autonomous Capabilities&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor2&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f8f74a0033&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:40Z&#34;,&#34;dc:title&#34;:&#34;Autonomous Capabilities&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor2&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation#anchor2">Autonomous Capabilities</a>
 
@@ -1095,7 +1095,7 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f3998214dc&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-18T21:06:27Z&#34;,&#34;dc:title&#34;:&#34;Innovation Quarterly&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation/innovation-quarterly&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f3998214dc&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-18T21:06:28Z&#34;,&#34;dc:title&#34;:&#34;Innovation Quarterly&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation/innovation-quarterly&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation/innovation-quarterly">Innovation Quarterly</a>
 
@@ -1109,14 +1109,14 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-3fa80ab3b0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:39Z&#34;,&#34;dc:title&#34;:&#34;Producibility&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor4&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-3fa80ab3b0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:40Z&#34;,&#34;dc:title&#34;:&#34;Producibility&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor4&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation#anchor4">Producibility</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-539de77127&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:37Z&#34;,&#34;dc:title&#34;:&#34;Sustainable Aviation&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor5&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-539de77127&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:38Z&#34;,&#34;dc:title&#34;:&#34;Sustainable Aviation&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor5&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation#anchor5">Sustainable Aviation</a>
 
@@ -1146,21 +1146,21 @@
     </li>
 
         
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-35f98ba0ef&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:19Z&#34;,&#34;dc:title&#34;:&#34;Global Focus&#34;,&#34;xdm:linkURL&#34;:&#34;/global#overview&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-35f98ba0ef&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:17Z&#34;,&#34;dc:title&#34;:&#34;Global Focus&#34;,&#34;xdm:linkURL&#34;:&#34;/global#overview&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/global#overview">Global Focus</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-231cfb0bb0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:19Z&#34;,&#34;dc:title&#34;:&#34;Boeing Global&#34;,&#34;xdm:linkURL&#34;:&#34;/global#boeing-global&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-231cfb0bb0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:17Z&#34;,&#34;dc:title&#34;:&#34;Boeing Global&#34;,&#34;xdm:linkURL&#34;:&#34;/global#boeing-global&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/global#boeing-global">Boeing Global</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-28093fcd9e&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:19Z&#34;,&#34;dc:title&#34;:&#34;Presence and Partnerships&#34;,&#34;xdm:linkURL&#34;:&#34;/global#presence-and-partnerships&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-28093fcd9e&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:17Z&#34;,&#34;dc:title&#34;:&#34;Presence and Partnerships&#34;,&#34;xdm:linkURL&#34;:&#34;/global#presence-and-partnerships&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/global#presence-and-partnerships">Presence and Partnerships</a>
 
@@ -1211,14 +1211,14 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-79554ef0cc&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:21Z&#34;,&#34;dc:title&#34;:&#34;Human Rights&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/human-rights&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-79554ef0cc&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:19Z&#34;,&#34;dc:title&#34;:&#34;Human Rights&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/human-rights&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability/human-rights">Human Rights</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4a3ad722b3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:21Z&#34;,&#34;dc:title&#34;:&#34;Quality&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/quality&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4a3ad722b3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:19Z&#34;,&#34;dc:title&#34;:&#34;Quality&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/quality&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability/quality">Quality</a>
 
@@ -1229,68 +1229,68 @@
 
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-47740f4972&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Careers&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-47740f4972&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;Careers&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/">Careers</a>
 
         
     <ul class="cmp-navigation__group">
     	
-    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-47740f4972&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Careers&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-47740f4972&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;Careers&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/&#34;}}">
         <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/">Careers Home</a>
     </li>
 
         
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4f2f6cfe7b&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Benefits&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/benefits&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4f2f6cfe7b&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;Benefits&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/benefits&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/benefits">Benefits</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-3363740fd9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Career Areas&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/#career-areas&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-3363740fd9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;Career Areas&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/#career-areas&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/#career-areas">Career Areas</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-ba58c79534&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;College and Entry Level&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/internships&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-ba58c79534&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;College and Entry Level&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/internships&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/internships">College and Entry Level</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0cb3657bde&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Events&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/events&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0cb3657bde&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;Events&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/events&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/events">Events</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f15191f79d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Life at Boeing&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/working-here&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f15191f79d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;Life at Boeing&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/working-here&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/working-here">Life at Boeing</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f0ece7406f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Military and Veterans&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/veterans&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f0ece7406f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;Military and Veterans&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/veterans&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/veterans">Military and Veterans</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f45cce272b&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;My Account&#34;,&#34;xdm:linkURL&#34;:&#34;https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/login&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f45cce272b&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;My Account&#34;,&#34;xdm:linkURL&#34;:&#34;https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/login&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/login">My Account</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-d1c69b644a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Organizations&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-d1c69b644a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:09:20Z&#34;,&#34;dc:title&#34;:&#34;Organizations&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/">Organizations</a>
 
@@ -1320,7 +1320,7 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4067ff2540&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:08:13Z&#34;,&#34;dc:title&#34;:&#34;Boeing Defense, Space &amp; Security&#34;,&#34;xdm:linkURL&#34;:&#34;/company/about-bds&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4067ff2540&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:10:04Z&#34;,&#34;dc:title&#34;:&#34;Boeing Defense, Space &amp; Security&#34;,&#34;xdm:linkURL&#34;:&#34;/company/about-bds&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/about-bds">Boeing Defense, Space &amp; Security</a>
 
@@ -1348,14 +1348,14 @@
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-734c5979c4&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:08:15Z&#34;,&#34;dc:title&#34;:&#34;Key Organizations&#34;,&#34;xdm:linkURL&#34;:&#34;/company/key-orgs&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-734c5979c4&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:10:06Z&#34;,&#34;dc:title&#34;:&#34;Key Organizations&#34;,&#34;xdm:linkURL&#34;:&#34;/company/key-orgs&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/key-orgs">Key Organizations</a>
 
         
     </li>
 
-    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0cc0d01401&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:08:16Z&#34;,&#34;dc:title&#34;:&#34;Tours&#34;,&#34;xdm:linkURL&#34;:&#34;/company/tours&#34;}}">
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0cc0d01401&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:10:07Z&#34;,&#34;dc:title&#34;:&#34;Tours&#34;,&#34;xdm:linkURL&#34;:&#34;/company/tours&#34;}}">
         
     <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/tours">Tours</a>
 
@@ -1520,7 +1520,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-CN cmp-languagenavigation__item--langcode-zh-CN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-4aac5e1137&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:00Z&#34;,&#34;dc:title&#34;:&#34;China&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeing.cn/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-CN cmp-languagenavigation__item--langcode-zh-CN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-4aac5e1137&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:03Z&#34;,&#34;dc:title&#34;:&#34;China&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeing.cn/&#34;}}">
         
     
 	
@@ -1536,7 +1536,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-BE cmp-languagenavigation__item--langcode-de-BE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-e80f86d1e9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:02Z&#34;,&#34;dc:title&#34;:&#34;Europe&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com/global/boeing-in-europe&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-BE cmp-languagenavigation__item--langcode-de-BE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-e80f86d1e9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:04Z&#34;,&#34;dc:title&#34;:&#34;Europe&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com/global/boeing-in-europe&#34;}}">
         
     
 	
@@ -1568,7 +1568,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-DE cmp-languagenavigation__item--langcode-de-DE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-916589de70&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:04Z&#34;,&#34;dc:title&#34;:&#34;Germany&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.de/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-DE cmp-languagenavigation__item--langcode-de-DE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-916589de70&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:07Z&#34;,&#34;dc:title&#34;:&#34;Germany&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.de/&#34;}}">
         
     
 	
@@ -1584,7 +1584,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IN cmp-languagenavigation__item--langcode-en-IN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-ec31e8fcb1&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:07Z&#34;,&#34;dc:title&#34;:&#34;India&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.in/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IN cmp-languagenavigation__item--langcode-en-IN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-ec31e8fcb1&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:29Z&#34;,&#34;dc:title&#34;:&#34;India&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.in/&#34;}}">
         
     
 	
@@ -1600,7 +1600,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-iw cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-5dc5d4fbd3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:10Z&#34;,&#34;dc:title&#34;:&#34;Israel&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.il/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-iw cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-5dc5d4fbd3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:02Z&#34;,&#34;dc:title&#34;:&#34;Israel&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.il/&#34;}}">
         
     
 	
@@ -1616,7 +1616,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IT cmp-languagenavigation__item--langcode-it-IT cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-7ad1ecd5bf&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:13Z&#34;,&#34;dc:title&#34;:&#34;Italy&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeingitaly.it/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IT cmp-languagenavigation__item--langcode-it-IT cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-7ad1ecd5bf&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:25Z&#34;,&#34;dc:title&#34;:&#34;Italy&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeingitaly.it/&#34;}}">
         
     
 	
@@ -1632,7 +1632,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ja cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-816ee6de92&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:16Z&#34;,&#34;dc:title&#34;:&#34;Japan&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.jp/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ja cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-816ee6de92&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:38Z&#34;,&#34;dc:title&#34;:&#34;Japan&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.jp/&#34;}}">
         
     
 	
@@ -1648,7 +1648,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-KR cmp-languagenavigation__item--langcode-ko-KR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-a544388593&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:20Z&#34;,&#34;dc:title&#34;:&#34;Korea&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.kr/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-KR cmp-languagenavigation__item--langcode-ko-KR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-a544388593&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:42Z&#34;,&#34;dc:title&#34;:&#34;Korea&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.kr/&#34;}}">
         
     
 	
@@ -1664,7 +1664,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-AE cmp-languagenavigation__item--langcode-en-AE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-89d9ea9058&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-16T16:03:05Z&#34;,&#34;dc:title&#34;:&#34;Middle East&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing-me.com/en/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-AE cmp-languagenavigation__item--langcode-en-AE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-89d9ea9058&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-16T16:02:57Z&#34;,&#34;dc:title&#34;:&#34;Middle East&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing-me.com/en/&#34;}}">
         
     
 	
@@ -1696,7 +1696,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-ES cmp-languagenavigation__item--langcode-es-ES cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-2f19b6c83c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:29Z&#34;,&#34;dc:title&#34;:&#34;Spain&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.es/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-ES cmp-languagenavigation__item--langcode-es-ES cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-2f19b6c83c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:51Z&#34;,&#34;dc:title&#34;:&#34;Spain&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.es/&#34;}}">
         
     
 	
@@ -1712,7 +1712,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-TR cmp-languagenavigation__item--langcode-tr-TR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-c3c486ed19&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:34Z&#34;,&#34;dc:title&#34;:&#34;Türkiye&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.tr/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-TR cmp-languagenavigation__item--langcode-tr-TR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-c3c486ed19&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:57Z&#34;,&#34;dc:title&#34;:&#34;Türkiye&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.tr/&#34;}}">
         
     
 	
@@ -1728,7 +1728,7 @@
 
     
         
-    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-GB cmp-languagenavigation__item--langcode-en-GB cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-9944520628&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-05T22:05:32Z&#34;,&#34;dc:title&#34;:&#34;UK&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.uk/&#34;}}">
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-GB cmp-languagenavigation__item--langcode-en-GB cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-9944520628&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-05T22:05:33Z&#34;,&#34;dc:title&#34;:&#34;UK&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.uk/&#34;}}">
         
     
 	

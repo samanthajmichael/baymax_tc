@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.fortive.com/terms-use" />
+<meta property="og:title" content="Terms of Use | Fortive" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/fortive/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Terms of Use | Fortive</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_ijwpavlAqrJVtcEoOErNphY5Q4wplitY6BLllZPtq7w.css?delta=0&amp;language=en&amp;theme=fortive&amp;include=eJxdyUEOwyAMBdELEThS9RGuIXICsk3V3D6LSKma5byxw5y2lGEU3l29fSix9AxZzA9pO99cCYV0uW7g3lno5eDEvv0n-NkRK75hQMGKUS0VnQMSfxLnPmaWZpXKCeITOcA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_5_k11ne8snQLVIiKp-H_uxqV2ABVjv3F7uJ1y223skw.css?delta=1&amp;language=en&amp;theme=fortive&amp;include=eJxdyUEOwyAMBdELEThS9RGuIXICsk3V3D6LSKma5byxw5y2lGEU3l29fSix9AxZzA9pO99cCYV0uW7g3lno5eDEvv0n-NkRK75hQMGKUS0VnQMSfxLnPmaWZpXKCeITOcA" />
+
+    <script src="//cdn.optimizely.com/js/25151310841"></script>
+
+  </head>
+  <body class="no-sidebar path-node page-node-type-page page-node-48">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQFXZ3M"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+  
+
+  <header role="banner">
+    <div class="header-well">
+              <div class="container">
+          <div class="row">
+                <div class="header-branding col col-12 col-lg-3">
+    <div id="block-fortive-branding" class="block-fortive-branding block">
+  
+    
+        <a class="site-logo" href="/" rel="home">
+      <img class="logo-file" src="/themes/fortive/logo.svg" alt="Fortive" height="40" width="203" />
+    </a>
+        <div class="site-name visually-hidden">
+      <a href="/" rel="home">Fortive</a>
+    </div>
+    
+
+  <div class="mobile-nav-toggle">
+    <div class="trigger">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="visually-hidden">
+        Toggle Mobile Navigation Display
+      </span>
+    </div>
+  </div>
+  
+</div>
+
+  </div>
+
+            
+
+            <div class="navigation-wrapper col col-12 col-lg-9">
+                  <div class="primary-menu">
+    <nav role="navigation" aria-labelledby="block-fortive-main-menu-menu" id="block-fortive-main-menu" class="block-fortive-main-menu">
+            
+  <h2 class="visually-hidden" id="block-fortive-main-menu-menu">Main navigation</h2>
+  
+
+        
+              <ul class="menu" role="menu">
+                    <li class="menu-item expanded has-children meet-fortive">
+        <a href="/meet-fortive" data-drupal-link-system-path="node/44">Meet Fortive</a>
+                                <ul class="sub-menu">
+                    <li class="menu-item our-purpose">
+        <a href="/meet-fortive#purpose" data-drupal-link-system-path="node/44">Our Purpose</a>
+              </li>
+                <li class="menu-item our-values">
+        <a href="/meet-fortive#values" data-drupal-link-system-path="node/44">Our Values</a>
+              </li>
+                <li class="menu-item our-leaders">
+        <a href="/meet-fortive#leaders" data-drupal-link-system-path="node/44">Our Leaders</a>
+              </li>
+                <li class="menu-item our-board">
+        <a href="/meet-fortive#board" data-drupal-link-system-path="node/44">Our Board</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item expanded has-children our-work">
+        <a href="/work" data-drupal-link-system-path="node/51">Our Work</a>
+                                <ul class="sub-menu">
+                    <li class="menu-item advanced-healthcare-solutions">
+        <a href="/work#advanced-healthcare-solutions" data-drupal-link-system-path="node/51">Advanced Healthcare Solutions</a>
+              </li>
+                <li class="menu-item intelligent-operating-solutions">
+        <a href="/work#intelligent-operating-solutions" data-drupal-link-system-path="node/51">Intelligent Operating Solutions</a>
+              </li>
+                <li class="menu-item precision-technologies">
+        <a href="/work#precision-technologies" data-drupal-link-system-path="node/51">Precision Technologies</a>
+              </li>
+                <li class="menu-item our-operating-companies">
+        <a href="/companies" class="link-arrow" data-drupal-link-system-path="node/46">Our Operating Companies</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item expanded has-children our-culture">
+        <a href="/culture" data-drupal-link-system-path="node/59">Our Culture</a>
+                                <ul class="sub-menu">
+                    <li class="menu-item our-promise">
+        <a href="/culture#promise" data-drupal-link-system-path="node/59">Our Promise</a>
+              </li>
+                <li class="menu-item fortive-business-system">
+        <a href="/fbs" class="link-arrow" data-drupal-link-system-path="node/60">Fortive Business System</a>
+              </li>
+                <li class="menu-item inclusion-diversity--equity">
+        <a href="/inclusion" class="link-arrow" data-drupal-link-system-path="node/61">Inclusion, Diversity &amp; Equity</a>
+              </li>
+                <li class="menu-item growth-strategy">
+        <a href="/growth" class="link-arrow" data-drupal-link-system-path="node/62">Growth Strategy</a>
+              </li>
+                <li class="menu-item integrity--compliance">
+        <a href="/culture#integrity-compliance" data-drupal-link-system-path="node/59">Integrity &amp; Compliance</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item expanded has-children our-impact">
+        <a href="/sustainability" data-drupal-link-system-path="node/52">Our Impact</a>
+                                <ul class="sub-menu">
+                    <li class="menu-item sustainability-at-fortive">
+        <a href="/sustainability#sustainability" data-drupal-link-system-path="node/52">Sustainability at Fortive</a>
+              </li>
+                <li class="menu-item strategic-pillars">
+        <a href="/sustainability#strategic-pillars" data-drupal-link-system-path="node/52">Strategic Pillars</a>
+              </li>
+                <li class="menu-item goals--progress">
+        <a href="/sustainability#goals-progress" data-drupal-link-system-path="node/52">Goals &amp; Progress</a>
+              </li>
+                <li class="menu-item reports--policies">
+        <a href="/sustainability#reports-policies" data-drupal-link-system-path="node/52">Reports &amp; Policies</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item expanded has-children careers">
+        <a href="https://careers.fortive.com/">Careers</a>
+                                <ul class="sub-menu">
+                    <li class="menu-item career-search">
+        <a href="https://careers.fortive.com/">Career Search</a>
+              </li>
+                <li class="menu-item life-at-fortive">
+        <a href="https://careers.fortive.com/LifeAtFortive">Life at Fortive</a>
+              </li>
+                <li class="menu-item benefits">
+        <a href="https://careers.fortive.com/benefits">Benefits</a>
+              </li>
+                <li class="menu-item talent-community">
+        <a href="https://careers.fortive.com/jointalentcommunity">Talent Community</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item expanded has-children investors">
+        <a href="https://investors.fortive.com/overview/default.aspx" target="_blank">Investors</a>
+                                <ul class="sub-menu">
+                    <li class="menu-item press-releases">
+        <a href="https://investors.fortive.com/press-releases/default.aspx">Press Releases</a>
+              </li>
+                <li class="menu-item quarterly-results">
+        <a href="https://investors.fortive.com/quarterly-results/default.aspx">Quarterly Results</a>
+              </li>
+                <li class="menu-item events--presentations">
+        <a href="https://investors.fortive.com/events-and-presentations/default.aspx">Events &amp; Presentations</a>
+              </li>
+                <li class="menu-item reports--filings">
+        <a href="https://investors.fortive.com/financial-reports-filings/annual-reports-and-proxy-statements/default.aspx">Reports &amp; Filings</a>
+              </li>
+                <li class="menu-item stock-information">
+        <a href="https://investors.fortive.com/stock-information/default.aspx">Stock Information</a>
+              </li>
+                <li class="menu-item governance">
+        <a href="https://investors.fortive.com/governance/governance-documents/default.aspx">Governance</a>
+              </li>
+                <li class="menu-item resources">
+        <a href="https://investors.fortive.com/resources/shareholder-inquiries/default.aspx">Resources</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+              
+            </div>
+          </div>
+        </div>
+          </div>
+
+    
+  </header>
+
+
+  
+
+  
+
+      <div class="sys-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    
+
+    <div class="layout-content">
+          <div class="content">
+    <div id="block-fortive-page-title" class="block-fortive-page-title block">
+  
+    
+      
+  <h1><span>Terms of Use</span>
+</h1>
+
+
+    
+</div>
+<div id="block-fortive-content" class="block-fortive-content block">
+  
+    
+      <article data-history-node-id="48">
+
+  
+    
+
+  
+  <div class="article-well">
+    <div class="field field-sections">
+        
+
+
+
+  <div class="paragraph paragraph--type--text-area paragraph--view-mode--default bg-white-solid">
+    
+    
+      <div class="container">
+    <span name="" id="" class="bookmark-anchor"></span>
+
+        <div class="container-well">
+      <div class="row justify-content-center section-content">
+        <div class="col col-12 text-align-left">
+          <div class="field-section-title">
+  <h2>
+    Terms of Use
+  </h2>
+</div>
+
+            <div class="field field-section-text"><p>PLEASE READ THESE TERMS (“TERMS”) CAREFULLY BEFORE YOU USE THIS WEBSITE. USING THIS WEBSITE INDICATES THAT YOU ACCEPT THESE TERMS; IF YOU DO NOT ACCEPT THESE TERMS, DO NOT USE THIS WEBSITE. IF YOU BREACH ANY OF THE TERMS, YOUR AUTHORIZATION TO USE THIS WEBSITE WILL IMMEDIATELY TERMINATE AND YOU MUST IMMEDIATELY DESTROY ALL DOWNLOADED OR PRINTED MATERIALS.</p>
+
+<p><strong>Use of Website</strong>. Fortive Corporation ("Fortive") authorizes you to view and download the materials at this website ("Website") only for your personal, noncommercial use, provided that you retain on any copies of the materials all copyright and other proprietary notices contained in the original materials. The materials at this Website are copyrighted and may also be subject to other legal rights, and unauthorized use of any materials at this Website may violate applicable law. You may not (1) modify the materials at this Website in any way or reproduce or publicly display, perform, or distribute or otherwise use them for any public or commercial purpose, or (2) make any part of this Website available as part of another website whether by hyperlink or otherwise. For purposes of these Terms, any use of these materials on any other website or networked computer environment for any purpose is prohibited.</p>
+
+<p><strong>Links to Other Websites.</strong> Fortive does not endorse and makes no representations or warranties whatsoever about any other website which you may choose to access through this Website, or any information, software or other products or materials found there. The links that Fortive provides to such websites are provided solely for your convenience and if you access these links, you will leave this Website and access such links at your own risk. Fortive does not control and is not responsible for any of these websites or their content.</p>
+
+<p><strong>Disclaimer and Limitation of Liability.</strong> THE MATERIALS PROVIDED AT THIS WEBSITE ARE PROVIDED "AS IS" WITHOUT ANY WARRANTIES OF ANY KIND INCLUDING WARRANTIES OF QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY. IN NO EVENT WILL FORTIVE, ANY OF ITS SUBSIDIARIES OR ANY THIRD PARTIES MENTIONED AT THIS WEBSITE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOST PROFITS, LOST DATA OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE, INABILITY TO USE, OR THE RESULTS OF USE OF THIS WEBSITE, ANY WEBSITES LINKED TO THIS WEBSITE, OR THE MATERIALS OR INFORMATION CONTAINED AT ANY OR ALL SUCH WEBSITES, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. APPLICABLE LAW MAY NOT ALLOW THE EXCLUSION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES AND/OR THE EXCLUSION OF IMPLIED REPRESENTATIONS AND WARRANTIES, SO SOME OR ALL OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU. In addition, Fortive does not warrant (1) that this Website or its server are free from errors or viruses, worms or “Trojan horses,” or (2) the accuracy and completeness of the materials at this Website. The materials at this Website may be out of date, and Fortive makes no commitment to update the materials at this Website. In addition, Fortive may make changes to the materials at this Website at any time without notice.</p>
+
+<p><strong>User Submissions.</strong> You are prohibited from transmitting to or from this Website any material that would violate any law. Any information or other communication you transmit to this Website will be considered non-confidential and non-proprietary, and Fortive will be free to use such materials for any purpose whatsoever without obligation to you. In particular, Fortive may store your personally identifiable information in hard copy format and electronic media, and in Fortive’s databases that may be located in another country.</p>
+
+<p><strong>Applicable Laws.</strong> Fortive administers this Website from the United States and does not represent or warrant that the materials at this Website are appropriate or available for use outside the United States. Access to this Website and its content from jurisdictions where such content is illegal is prohibited and you may not use, export or re-export the content at this Website or any copy or adaptation in violation of any applicable laws or regulations including without limitation United States export laws and regulations. If you access this Website from outside the United States, you do so on your own initiative and are responsible for compliance with applicable local laws. In addition, information published at this Website may refer to products, programs or services that are not available in your country. These Terms will be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to any principles of conflicts of laws.</p>
+
+<p><strong>General.</strong> Fortive may revise these Terms at any time by updating this posting. You should visit this page from time to time to review the then-current Terms because they are binding on you. Certain provisions of these Terms may be superseded by expressly designated legal notices or terms located on particular pages at this Website.</p>
+
+<p><strong>EU Data Privacy Safe Harbor.</strong> Fortive Corporation (“Fortive”) complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Fortive has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view Fortive’s certification, please visit <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>.</p>
+
+<p>Revised June 2016</p></div>
+      
+
+                      <div class="text-area__buttons"></div>
+                  </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  </div>
+
+  </div>
+
+</article>
+
+    
+</div>
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+      <footer role="contentinfo">
+      <div class="container">
+        
+            <div class="footer-navigation row">
+    <div id="block-sitebranding" class="footer-branding col col-12 col-lg-4 block-sitebranding block">
+  
+    
+        <a class="site-logo" href="/" rel="home">
+      <img class="logo-file" src="/themes/fortive/logo.svg" alt="Fortive" height="40" width="203" />
+    </a>
+        <div class="site-name visually-hidden">
+      <a href="/" rel="home">Fortive</a>
+    </div>
+    
+
+  <div class="mobile-nav-toggle">
+    <div class="trigger">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="visually-hidden">
+        Toggle Mobile Navigation Display
+      </span>
+    </div>
+  </div>
+  
+</div>
+<div id="block-fortive-footermenu1-2" class="about-block col col-6 col-md-3 col-lg-2 block-fortive-footermenu1-2 block">
+  
+    
+      
+            <div class="field body"><ul>
+	<li><strong><a href="/meet-fortive">Meet Fortive</a></strong></li>
+	<li><strong><a href="/work">Our Work</a></strong></li>
+	<li><strong><a href="/culture">Our Culture</a></strong></li>
+	<li><strong><a href="/sustainability">Our Impact</a></strong></li>
+	<li><a href="https://careers.fortive.com/" target="_blank"><strong>Careers</strong></a></li>
+	<li><a href="https://investors.fortive.com/overview/default.aspx" target="_blank"><strong>Investors</strong></a></li>
+</ul></div>
+      
+    
+</div>
+<div id="block-fortive-footermenu2" class="contact-block col col-6 col-md-3 col-lg-2 block-fortive-footermenu2 block">
+  
+    
+      
+            <div class="field body"><ul>
+	<li><a href="/contact-us"><strong>Contact</strong></a></li>
+	<li><a href="mailto:webmaster@fortive.com" target="_blank">General Inquiries</a></li>
+	<li><a href="mailto:acquisitions@fortive.com" target="_blank">Mergers &amp; Acquisitions</a></li>
+	<li><a href="mailto:investors@fortive.com" target="_blank">Investor Relations</a></li>
+	<li><a href="https://fortive.com/suppliers">Supplier Code</a></li>
+	<li><a href="https://fortive.com/supplierdiversity">Supplier Diversity</a></li>
+</ul></div>
+      
+    
+</div>
+<div id="block-fortive-footermenu3" class="notice-block col col-6 col-md-3 col-lg-2 block-fortive-footermenu3 block">
+  
+    
+      
+            <div class="field body"><ul>
+	<li><strong>Notices</strong></li>
+	<li><a href="/terms-use">Terms of Use</a></li>
+	<li><a data-entity-type="file" data-entity-uuid="db14f61a-ee38-4270-859f-0ea2bdb9948a" href="/sites/default/files/files/Fortive%20Corp%20CCPA%20Public%20Facing%20Privacy%20Notice%20%2820191218bis%29.pdf" target="_blank">CCPA Privacy Notice</a></li>
+	<li><a data-entity-type="file" data-entity-uuid="17ba639d-9eb3-4543-b7e2-52e7a80239cf" href="/sites/default/files/files/Fortive_Corp_Privacy_Notice.pdf" target="_blank">GDPR Privacy Notice</a></li>
+	<li><a href="/cookie-list">Cookie List</a></li>
+</ul></div>
+      
+    
+</div>
+<div id="block-fortive-footermenu4-2" class="connect-block col col-6 col-md-3 col-lg-2 block-fortive-footermenu4-2 block">
+  
+    
+      
+            <div class="field body"><ul>
+	<li><strong>Connect</strong></li>
+	<li class="icon"><a href="https://www.linkedin.com/company/fortive/" target="_blank"><i class="fab fa-linkedin"></i><span class="visually-hidden">LinkedIn</span></a></li>
+	<li class="icon"><a href="https://www.youtube.com/channel/UCmnWkUlabmRqekE9mnjwY9g" target="_blank"><i class="fab fa-youtube"></i><span class="visually-hidden">Youtube</span></a></li>
+	<li class="icon"><a href="https://www.facebook.com/fortivecorp/" target="_blank"><i class="fab fa-facebook"></i><span class="visually-hidden">Facebook</span></a></li>
+	<li class="icon"><a href="https://twitter.com/fortivecorp" target="_blank"><i class="fab fa-twitter"></i><span class="visually-hidden">Twitter</span></a></li>
+</ul>
+</div>
+      
+    
+</div>
+
+  </div>
+
+      </div>
+      <div class="container copyright-container">
+            <div class="footer-copyright">
+    <div id="block-fortive-footercopyright" class="block-fortive-footercopyright block">
+  
+    
+      
+            <div class="field body">© <a href="/">Fortive</a> 2024</div>
+      
+    
+</div>
+
+  </div>
+
+      </div>
+    </footer>
+  
+  
+
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/48","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-MQFXZ3M"]},"gtag":{"tagId":"","otherIds":[],"events":[],"additionalConfigInfo":[]},"suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxdyVEKhDAMhOEL1fZIMqUxrURbklb09rvgwqIvA_83S9VeDgosNUIm65eUnd3y40xIpNP9Oq6VheYODvydd3usOJ-4uQYFK1q2kHQ0iP-LH3sbUYplSs4u67SFCKMP5CA5wA","theme":"fortive","theme_token":null},"ajaxTrustedUrl":[],"user":{"uid":0,"permissionsHash":"135b55cb3b11faa640d15bc418b49609e39de2b241e90a34afbae6de8a552b43"}}</script>
+<script src="/sites/default/files/js/js_QnTRX4isA5ztRp3FnzfS1Cl_852F4QjoHq5r3Uu0NiM.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=fortive&amp;include=eJxdyUEOwyAMBdELEThS9RGuIXICsk3V3D6LSKma5byxw5y2lGEU3l29fSix9AxZzA9pO99cCYV0uW7g3lno5eDEvv0n-NkRK75hQMGKUS0VnQMSfxLnPmaWZpXKCeITOcA"></script>
+<script src="/modules/composer/google_tag/js/gtm.js?ske07e"></script>
+<script src="/modules/composer/google_tag/js/gtag.js?ske07e"></script>
+<script src="/sites/default/files/js/js_sgi_YqtzYdnR0TOZMD-tfhy-n5d3er_e3ACh517sc8Y.js?scope=footer&amp;delta=3&amp;language=en&amp;theme=fortive&amp;include=eJxdyUEOwyAMBdELEThS9RGuIXICsk3V3D6LSKma5byxw5y2lGEU3l29fSix9AxZzA9pO99cCYV0uW7g3lno5eDEvv0n-NkRK75hQMGKUS0VnQMSfxLnPmaWZpXKCeITOcA"></script>
+
+  </body>
+</html>
