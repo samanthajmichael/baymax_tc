@@ -58,7 +58,6 @@
 <link rel='stylesheet' id='print-styles-css' href='https://www.hormelfoods.com/wp-content/themes/hormel-foods/print-style.1725929368.css' type='text/css' media='print' />
 <script type="text/javascript" id="js-head-js-before">
 /* <![CDATA[ */
-var googleMapsKey = "AIzaSyA1AoMenKG8yFhGN_iyouf_muo1knEbANQ";
 var themeUrl = "https://www.hormelfoods.com/wp-content/themes/hormel-foods";
 var searchUrl = "https://www.hormelfoods.com/search/";
 /* ]]> */
