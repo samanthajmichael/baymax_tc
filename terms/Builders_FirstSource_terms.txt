@@ -553,7 +553,6 @@ main .section1 > .breadcrumb-section {
 			ACC.pwdStrengthMinCharText = 'Minimum length is %d characters';
 			ACC.accessibilityLoading = 'Loading... Please wait...';
 			ACC.accessibilityStoresLoaded = 'Stores loaded';
-			ACC.config.googleApiKey='AIzaSyCgMw3XwD1HBETbNd3EEVfRB9udbDy-5X4';
 			ACC.config.googleApiVersion='';
 
 			
