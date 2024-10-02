@@ -50,7 +50,7 @@
 
     <!--Google Maps API-->
     <script>
-            window.googleMapsApiKey = 'AIzaSyCJUZB1o2KPFBvte7ldhnj7SKlBQmqd2k0';
+
     </script>
 
     <!-- Meta Pixel Code -->
