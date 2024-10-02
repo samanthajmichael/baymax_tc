@@ -42,7 +42,6 @@ window.ENV = { 'environment': 'prod', 'dtmScript': 'satelliteLib-14854b469f4afed
       window.AMPSITEPATH = '/webfiles/1727384549623/assets/ampsite/';
       window.AMPCOMPATH = '/webfiles/1727384549623/assets/ampcom/';
       window.NONCE = 'a631154705a36358289303d270fe6f606564df308e2e9c3ac07e9aeb320948f8'
-      window.GOOGLE_MAPS_CLIENT_KEY = "AIzaSyAV8-BH-c0OzUkJvOxjcgfTlMLtQQVSo40"
       window.HTML2PDF_CLIENT_KEY = "ZBlbEg5x3sNl"
       window.AMPCARDSPERSONALIZEDV2 = 'true';
       window.PERSONALIZATION = {
@@ -715,7 +714,7 @@ window.ENV = { 'environment': 'prod', 'dtmScript': 'satelliteLib-14854b469f4afed
     </div>
 </div>
 
-        <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAV8-BH-c0OzUkJvOxjcgfTlMLtQQVSo40&loading=async" nonce='a631154705a36358289303d270fe6f606564df308e2e9c3ac07e9aeb320948f8'></script>
+nonce='a631154705a36358289303d270fe6f606564df308e2e9c3ac07e9aeb320948f8'></script>
     <script src="/webfiles/1727384549623/assets/ampsite/ameriprise-site.js" nonce='a631154705a36358289303d270fe6f606564df308e2e9c3ac07e9aeb320948f8'></script>
 <script src="/webfiles/1727384549623/assets/ampsite/ameriprise-site-header.js" type="text/javascript" nonce="a631154705a36358289303d270fe6f606564df308e2e9c3ac07e9aeb320948f8"></script>
 <script src="/webfiles/1727384549623/assets/ampsite/ameriprise-site-footer.js" type="text/javascript" nonce="a631154705a36358289303d270fe6f606564df308e2e9c3ac07e9aeb320948f8"></script>
