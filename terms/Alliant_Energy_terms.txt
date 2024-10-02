@@ -1238,15 +1238,6 @@ background-color: #ffffff;
     </div>
 </aside>
 
-    
-
-    <!--Google Maps API-->
-    <script>
-            window.googleMapsApiKey = 'AIzaSyCJUZB1o2KPFBvte7ldhnj7SKlBQmqd2k0';
-    </script>
-
-
-
     <script type="text/javascript" id="_cls_injector">
         var script = document.createElement('script');
         script.id = "_cls_detector";
