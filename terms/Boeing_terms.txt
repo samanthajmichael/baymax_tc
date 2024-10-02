@@ -1,0 +1,2627 @@
+
+  <!DOCTYPE HTML>
+  <html dir="auto" lang="en-US">
+      <head>
+<meta charset="UTF-8"/>
+<title>Boeing.com Site Terms - What You Agree to When Using This Site</title>
+
+
+<meta name="template" content="product-page"/>
+
+<meta property="og:url" content="/content/theboeingcompany/us/en/terms-of-submission-and-privacy-policy/site-terms"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Boeing.com Site Terms - What You Agree to When Using This Site"/>
+<meta property="og:description"/>
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@Boeing"/>
+<meta name="twitter:title" content="Boeing.com Site Terms - What You Agree to When Using This Site"/>
+<meta name="twitter:description"/>
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<link rel="shortcut icon" href="/favicon.ico?v=1" type="image/x-icon"/>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-T6NQQT');</script>
+
+
+<link rel="canonical" href="/terms-of-submission-and-privacy-policy/site-terms"/>
+
+
+
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/theboeingcompany/clientlibs/clientlib-base.min.css" type="text/css">
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
+    
+    <script src="/etc.clientlibs/theboeingcompany/clientlibs/clientlib-dependencies.min.js"></script>
+
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/theboeingcompany/clientlibs/clientlib-dependencies.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/theboeingcompany/clientlibs/clientlib-site.min.css" type="text/css">
+
+
+    
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/datalayer/v1/clientlibs/core.wcm.components.commons.datalayer.v1.min.js"></script>
+
+
+
+
+
+</head>
+      <body class="page basicpage" id="page-a1c359e702" data-cmp-link-accessibility-enabled data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-enabled data-wcm-mode="DISABLED">
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T6NQQT" height="0" width="0" style="display:none;visibility:hidden" sandbox></iframe></noscript>
+              
+          <script>
+            window.adobeDataLayer = window.adobeDataLayer || [];
+            adobeDataLayer.push({
+                page: JSON.parse("{\x22page\u002Da1c359e702\x22:{\x22@type\x22:\x22theboeingcompany\/components\/page\x22,\x22repo:modifyDate\x22:\x222024\u002D08\u002D13T20:29:19Z\x22,\x22dc:title\x22:\x22Boeing.com Site Terms \u002D What You Agree to When Using This Site\x22,\x22xdm:template\x22:\x22\/conf\/theboeingcompany\/settings\/wcm\/templates\/product\u002Dpage\x22,\x22xdm:language\x22:\x22en\u002DUS\x22,\x22xdm:tags\x22:[],\x22repo:path\x22:\x22\/content\/theboeingcompany\/us\/en\/terms\u002Dof\u002Dsubmission\u002Dand\u002Dprivacy\u002Dpolicy\/site\u002Dterms.html\x22}}"),
+                event:'cmp:show',
+                eventInfo: {
+                    path: 'page.page\u002Da1c359e702'
+                }
+            });
+          </script>
+          
+          
+              
+
+
+
+
+              
+<div class="root container responsivegrid">
+
+    
+    <div id="container-cb2810daca" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <header class="experiencefragment global-page-header aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-1c1849c469" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    <div id="headerMain" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--phone--12 ">
+    
+    <div class="image aem-GridColumn--default--none aem-GridColumn--phone--none aem-GridColumn--phone--6 aem-GridColumn aem-GridColumn--offset--phone--0 aem-GridColumn--offset--default--0 aem-GridColumn--default--2">
+  <div data-cmp-is="image" data-cmp-widths="320,480,600,800,1024,1200,1600" data-cmp-src="/content/experience-fragments/theboeingcompany/us/en/site/header/master/_jcr_content/root/image.coreimg.85{.width}.png/1702094008961/logo.png" data-cmp-filereference="/content/dam/boeing/logo.png" id="mainLogo" data-cmp-data-layer="{&#34;mainLogo&#34;:{&#34;@type&#34;:&#34;core/wcm/components/image/v3/image&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-21T20:31:02Z&#34;,&#34;xdm:linkURL&#34;:&#34;/&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;a6813a72-3520-4f9c-a518-8c000dd5256a&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-09T03:53:28Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/boeing/logo.png&#34;}}}" data-cmp-hook-image="imageV3" class="cmp-image " itemscope itemtype="http://schema.org/ImageObject">
+ <a class="cmp-image__link" data-cmp-clickable href="/">
+     <img src="/content/experience-fragments/theboeingcompany/us/en/site/header/master/_jcr_content/root/image.coreimg.png/1702094008961/logo.png" srcset="/content/experience-fragments/theboeingcompany/us/en/site/header/master/_jcr_content/root/image.coreimg.85.320.png/1702094008961/logo.png 320w,/content/experience-fragments/theboeingcompany/us/en/site/header/master/_jcr_content/root/image.coreimg.85.480.png/1702094008961/logo.png 480w,/content/experience-fragments/theboeingcompany/us/en/site/header/master/_jcr_content/root/image.coreimg.85.600.png/1702094008961/logo.png 600w,/content/experience-fragments/theboeingcompany/us/en/site/header/master/_jcr_content/root/image.coreimg.85.800.png/1702094008961/logo.png 800w,/content/experience-fragments/theboeingcompany/us/en/site/header/master/_jcr_content/root/image.coreimg.85.1024.png/1702094008961/logo.png 1024w,/content/experience-fragments/theboeingcompany/us/en/site/header/master/_jcr_content/root/image.coreimg.85.1200.png/1702094008961/logo.png 1200w,/content/experience-fragments/theboeingcompany/us/en/site/header/master/_jcr_content/root/image.coreimg.85.1600.png/1702094008961/logo.png 1600w" loading="lazy" class="cmp-image__image image-active" itemprop="contentUrl" width="154" height="35" alt="The Boeing Company logo"/>
+          
+ </a>
+ 
+ 
+</div>
+
+    
+</div>
+<div class="button cmp-button__nav-toggle aem-GridColumn--phone--none aem-GridColumn--default--hide aem-GridColumn aem-GridColumn--offset--phone--4 aem-GridColumn--phone--2 aem-GridColumn--offset--default--0 aem-GridColumn--default--1">
+<a id="navbarToggle" class="cmp-button" aria-label="Navbar Toggle" data-cmp-clickable data-cmp-data-layer="{&#34;navbarToggle&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-27T20:11:22Z&#34;,&#34;xdm:linkURL&#34;:&#34;/#&#34;}}" href="#">
+    
+    <span class="cmp-button__icon cmp-button__icon--hamburger" aria-hidden="true"></span>
+
+    
+</a>
+</div>
+<div class="container responsivegrid aem-GridColumn--default--none aem-GridColumn aem-GridColumn--default--10 aem-GridColumn--offset--default--0">
+
+    
+    
+    
+    <div id="headerTop" class="cmp-container">
+        
+        <div class="container responsivegrid">
+
+    
+    
+    
+    <div id="desktopHeader" class="cmp-container">
+        
+        <div class="experiencefragment">
+<div id="experiencefragment-b6b87baee2" class="cmp-experiencefragment cmp-experiencefragment--utility-nav">
+
+
+    
+    <div id="container-e4b3e3aaf8" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <nav class="list aem-GridColumn aem-GridColumn--default--newline aem-GridColumn--default--12 aem-GridColumn--offset--default--0">
+<ul id="header-top-nav" data-cmp-data-layer="{&#34;header-top-nav&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:10:41Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-772885fa61&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:28:17Z&#34;,&#34;dc:title&#34;:&#34;Safety &amp; Quality &#34;,&#34;xdm:linkURL&#34;:&#34;/strengthening-safety-and-quality&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="/strengthening-safety-and-quality">
+        <span class="cmp-list__item-title">Safety &amp; Quality </span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-7a2a20ba2d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;dc:title&#34;:&#34;News&#34;,&#34;xdm:linkURL&#34;:&#34;http://boeing.mediaroom.com/?_gl=1*1y16wii*_ga*NTk1NTE0ODYzLjE2OTc2NTk2NDA.*_ga_3N2PEGZ4HD*MTcwMTE4OTIxMS45NC4xLjE3MDExOTA3NzUuMC4wLjA.&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="http://boeing.mediaroom.com/?_gl=1*1y16wii*_ga*NTk1NTE0ODYzLjE2OTc2NTk2NDA.*_ga_3N2PEGZ4HD*MTcwMTE4OTIxMS45NC4xLjE3MDExOTA3NzUuMC4wLjA." target="_blank">
+        <span class="cmp-list__item-title">News</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-5f71748f42&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;dc:title&#34;:&#34;Investors&#34;,&#34;xdm:linkURL&#34;:&#34;http://investors.boeing.com/?_gl=1*169wy4g*_ga*NTk1NTE0ODYzLjE2OTc2NTk2NDA.*_ga_3N2PEGZ4HD*MTcwMTE4OTIxMS45NC4xLjE3MDExOTA3NzUuMC4wLjA.&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="http://investors.boeing.com/?_gl=1*169wy4g*_ga*NTk1NTE0ODYzLjE2OTc2NTk2NDA.*_ga_3N2PEGZ4HD*MTcwMTE4OTIxMS45NC4xLjE3MDExOTA3NzUuMC4wLjA." target="_blank">
+        <span class="cmp-list__item-title">Investors</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-e455b64c74&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:35:51Z&#34;,&#34;dc:title&#34;:&#34;Employee/Retiree&#34;,&#34;xdm:linkURL&#34;:&#34;/employee-and-retiree&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="/employee-and-retiree">
+        <span class="cmp-list__item-title">Employee/Retiree</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-3d91ea15c7&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:32:59Z&#34;,&#34;dc:title&#34;:&#34;Emergency Information&#34;,&#34;xdm:linkURL&#34;:&#34;/emergency&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="/emergency">
+        <span class="cmp-list__item-title">Emergency Information</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-b3fae1f0a9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;dc:title&#34;:&#34;Merchandise&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeingstore.com/&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="http://www.boeingstore.com/" target="_blank">
+        <span class="cmp-list__item-title">Merchandise</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-915e13a5da&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;dc:title&#34;:&#34;Suppliers&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeingsuppliers.com/&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="http://www.boeingsuppliers.com/" target="_blank">
+        <span class="cmp-list__item-title">Suppliers</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-916251724c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-29T21:02:54Z&#34;,&#34;dc:title&#34;:&#34;Our History&#34;,&#34;xdm:linkURL&#34;:&#34;/history&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="/history">
+        <span class="cmp-list__item-title">Our History</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</nav>
+<div class="languagenavigation cmp-languagenavigation--header cmp-languagenavigation--default aem-GridColumn aem-GridColumn--default--12">
+<nav data-cmp-data-layer="{&#34;languagenavigation-356b780f59&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-11T14:56:46Z&#34;}}" id="languagenavigation-356b780f59" class="cmp-languagenavigation">
+    <ul class="cmp-languagenavigation__group">
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-AU cmp-languagenavigation__item--langcode-en-AU cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-17520afb7e&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:05:48Z&#34;,&#34;dc:title&#34;:&#34;Australia&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.au/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.com.au/" hreflang="en-AU" lang="en-AU" rel="alternate">Australia</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-BR cmp-languagenavigation__item--langcode-pt-BR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-f89620745b&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:05:50Z&#34;,&#34;dc:title&#34;:&#34;Brazil&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.br/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.com.br/" hreflang="pt-BR" lang="pt-BR" rel="alternate">Brazil</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-CA cmp-languagenavigation__item--langcode-en-CA cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-3c0c343978&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-23T18:33:01Z&#34;,&#34;dc:title&#34;:&#34;Canada&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.ca/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.ca/" hreflang="en-CA" lang="en-CA" rel="alternate">Canada</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-CN cmp-languagenavigation__item--langcode-zh-CN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-4aac5e1137&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:00Z&#34;,&#34;dc:title&#34;:&#34;China&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeing.cn/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="http://www.boeing.cn/" hreflang="zh-CN" lang="zh-CN" rel="alternate">China</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-BE cmp-languagenavigation__item--langcode-de-BE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-e80f86d1e9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:02Z&#34;,&#34;dc:title&#34;:&#34;Europe&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com/global/boeing-in-europe&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.com/global/boeing-in-europe" hreflang="de-BE" lang="de-BE" rel="alternate">Europe</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-FR cmp-languagenavigation__item--langcode-fr-FR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-9653900cba&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-29T15:33:22Z&#34;,&#34;dc:title&#34;:&#34;France&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.fr/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.fr/" hreflang="fr-FR" lang="fr-FR" rel="alternate">France</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-DE cmp-languagenavigation__item--langcode-de-DE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-916589de70&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:04Z&#34;,&#34;dc:title&#34;:&#34;Germany&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.de/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.de/" hreflang="de-DE" lang="de-DE" rel="alternate">Germany</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IN cmp-languagenavigation__item--langcode-en-IN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-ec31e8fcb1&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:07Z&#34;,&#34;dc:title&#34;:&#34;India&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.in/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.co.in/" hreflang="en-IN" lang="en-IN" rel="alternate">India</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-iw cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-5dc5d4fbd3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:10Z&#34;,&#34;dc:title&#34;:&#34;Israel&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.il/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.co.il/" hreflang="iw" lang="iw" rel="alternate">Israel</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IT cmp-languagenavigation__item--langcode-it-IT cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-7ad1ecd5bf&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:13Z&#34;,&#34;dc:title&#34;:&#34;Italy&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeingitaly.it/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeingitaly.it/" hreflang="it-IT" lang="it-IT" rel="alternate">Italy</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ja cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-816ee6de92&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:16Z&#34;,&#34;dc:title&#34;:&#34;Japan&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.jp/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.jp/" hreflang="ja" lang="ja" rel="alternate">Japan</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-KR cmp-languagenavigation__item--langcode-ko-KR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-a544388593&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:20Z&#34;,&#34;dc:title&#34;:&#34;Korea&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.kr/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.co.kr/" hreflang="ko-KR" lang="ko-KR" rel="alternate">Korea</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-AE cmp-languagenavigation__item--langcode-en-AE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-89d9ea9058&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-16T16:03:05Z&#34;,&#34;dc:title&#34;:&#34;Middle East&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing-me.com/en/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing-me.com/en/" hreflang="en-AE" lang="en-AE" rel="alternate">Middle East</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-SG cmp-languagenavigation__item--langcode-en-SG cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-1795e7cc58&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-28T15:28:26Z&#34;,&#34;dc:title&#34;:&#34;Southeast Asia&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing-sea.com&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing-sea.com" hreflang="en-SG" lang="en-SG" rel="alternate">Southeast Asia</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-ES cmp-languagenavigation__item--langcode-es-ES cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-2f19b6c83c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:29Z&#34;,&#34;dc:title&#34;:&#34;Spain&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.es/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.es/" hreflang="es-ES" lang="es-ES" rel="alternate">Spain</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-TR cmp-languagenavigation__item--langcode-tr-TR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-c3c486ed19&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:34Z&#34;,&#34;dc:title&#34;:&#34;Türkiye&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.tr/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.com.tr/" hreflang="tr-TR" lang="tr-TR" rel="alternate">Türkiye</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-GB cmp-languagenavigation__item--langcode-en-GB cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-9944520628&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-05T22:05:32Z&#34;,&#34;dc:title&#34;:&#34;UK&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.uk/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.co.uk/" hreflang="en-GB" lang="en-GB" rel="alternate">UK</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-US cmp-languagenavigation__item--langcode-en-US cmp-languagenavigation__item--level-0 cmp-languagenavigation__item--active" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-a1c359e702&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-13T20:29:36Z&#34;,&#34;dc:title&#34;:&#34;USA&#34;,&#34;xdm:linkURL&#34;:&#34;/terms-of-submission-and-privacy-policy/site-terms&#34;}}">
+        
+    
+	
+		
+        	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+        	
+		
+    
+
+
+	
+    
+        <a data-cmp-clickable aria-current="page" class="cmp-languagenavigation__item-link" href="https://www.boeing.com" hreflang="en-US" lang="en-US" rel="alternate">USA</a>
+      
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="header-search">
+
+    <div class="cmp-header-search" id="header-search" data-cmp-is="header-search" data-search-page="/search-results">
+        <form name="gsearch" type="search" class="cmp-header-search-form">
+            <div class="cmp-header-search-input-wrap">
+                <label for="search-input" class="sr-only">Site-wide search</label>
+                <span class="icon-search"></span>
+                <input type="text" class="input-text" id="search-input" placeholder="Search" name="q"/>
+            </div>
+        </form>
+    </div>
+
+
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="mobileHeader" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header-search aem-GridColumn aem-GridColumn--default--12">
+
+    <div class="cmp-header-search" id="header-search" data-cmp-is="header-search" data-search-page="/search-results">
+        <form name="gsearch" type="search" class="cmp-header-search-form">
+            <div class="cmp-header-search-input-wrap">
+                <label for="search-input" class="sr-only">Site-wide search</label>
+                <span class="icon-search"></span>
+                <input type="text" class="input-text" id="search-input" placeholder="Search" name="q"/>
+            </div>
+        </form>
+    </div>
+
+
+
+    
+</div>
+<div class="navigation aem-GridColumn aem-GridColumn--default--12">
+<nav id="navigation-1f97dab455" class="cmp-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" data-cmp-data-layer="{&#34;navigation-1f97dab455&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-09T23:03:27Z&#34;}}" aria-label="Main Nav">
+    <ul class="cmp-navigation__group">
+    	
+    
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-355d8ce4d6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:22:43Z&#34;,&#34;dc:title&#34;:&#34;Commercial&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial">Commercial</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-355d8ce4d6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:22:43Z&#34;,&#34;dc:title&#34;:&#34;Commercial&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial">Commercial Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-2fb66afd8f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-13T20:50:03Z&#34;,&#34;dc:title&#34;:&#34;Next-Generation 737&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial/737ng&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial/737ng">Next-Generation 737</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-d02dc213d3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:11:31Z&#34;,&#34;dc:title&#34;:&#34;737 MAX&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial/737max&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial/737max">737 MAX</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-cdcab5db29&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:37:59Z&#34;,&#34;dc:title&#34;:&#34;747-8&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial/747-8&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial/747-8">747-8</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-45a842cc7a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:38:25Z&#34;,&#34;dc:title&#34;:&#34;767&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial/767&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial/767">767</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-32664ed7e2&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:38:47Z&#34;,&#34;dc:title&#34;:&#34;777&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial/777&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial/777">777</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-e72875963d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-10T20:12:43Z&#34;,&#34;dc:title&#34;:&#34;777X&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial/777x&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial/777x">777X</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-c3c9abf67c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:39:29Z&#34;,&#34;dc:title&#34;:&#34;787 Dreamliner&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial/787&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial/787">787 Dreamliner</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-48a4a419d9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:05Z&#34;,&#34;dc:title&#34;:&#34;Boeing Business Jets&#34;,&#34;xdm:linkURL&#34;:&#34;https://businessjets.boeing.com/&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://businessjets.boeing.com/">Boeing Business Jets</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-e5dae006b6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-10T20:12:37Z&#34;,&#34;dc:title&#34;:&#34;Freighters&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial/freighters&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial/freighters">Freighters</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-277f79a91d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:40:18Z&#34;,&#34;dc:title&#34;:&#34;Commercial Services&#34;,&#34;xdm:linkURL&#34;:&#34;/commercial/services&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/commercial/services">Commercial Services</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-411c34daef&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:22:57Z&#34;,&#34;dc:title&#34;:&#34;Defense&#34;,&#34;xdm:linkURL&#34;:&#34;/defense&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense">Defense</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-411c34daef&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:22:57Z&#34;,&#34;dc:title&#34;:&#34;Defense&#34;,&#34;xdm:linkURL&#34;:&#34;/defense&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense">Defense Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-15e3cacff3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:06Z&#34;,&#34;dc:title&#34;:&#34;AH-6 Light Attack Helicopter&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/ah-6-light-attack-helicopter&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/ah-6-light-attack-helicopter">AH-6 Light Attack Helicopter</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-a61f3faaf7&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;AH-64 Apache&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/ah-64-apache&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/ah-64-apache">AH-64 Apache</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-c54e3aaff2&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-18T23:15:00Z&#34;,&#34;dc:title&#34;:&#34;E-7 AEW&amp;C&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/e-7-airborne-early-warning-and-control&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/e-7-airborne-early-warning-and-control">E-7 AEW&amp;C</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-8461ebb283&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:08Z&#34;,&#34;dc:title&#34;:&#34;Air Force One&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/air-force-one&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/air-force-one">Air Force One</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0c38d06ebf&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:10Z&#34;,&#34;dc:title&#34;:&#34;Air &amp; Missile Defense&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/missile-defense&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/missile-defense">Air &amp; Missile Defense</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-00d1bee734&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T21:29:16Z&#34;,&#34;dc:title&#34;:&#34;Autonomous Systems&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/autonomous-systems&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/autonomous-systems">Autonomous Systems</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-22efe16169&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;B-1B Lancer&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/b-1b-lancer&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/b-1b-lancer">B-1B Lancer</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-46d11e25c3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;B-52&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/b-52&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/b-52">B-52</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-a850b5bc52&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:10Z&#34;,&#34;dc:title&#34;:&#34;C-17 Globemaster III&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/c-17-globemaster-iii&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/c-17-globemaster-iii">C-17 Globemaster III</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-353dfa1d77&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;C-40A&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/c-40a&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/c-40a">C-40A</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0fac2efb36&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-09T16:53:41Z&#34;,&#34;dc:title&#34;:&#34;Cybersecurity &amp; Intelligence Messaging&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/cybersecurity-and-intelligence-messaging&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/cybersecurity-and-intelligence-messaging">Cybersecurity &amp; Intelligence Messaging</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-d246a9b797&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:07Z&#34;,&#34;dc:title&#34;:&#34;Decisive Edge&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/decisiveedge&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/decisiveedge">Decisive Edge</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0531cd08cc&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;EA-18G Growler&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/ea-18g-growler&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/ea-18g-growler">EA-18G Growler</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-8571ffc4ca&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;F-15EX&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/f-15ex&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/f-15ex">F-15EX</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-fbfba3cf22&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:06Z&#34;,&#34;dc:title&#34;:&#34;F/A-18 Super Hornet&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/fa-18-super-hornet&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/fa-18-super-hornet">F/A-18 Super Hornet</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0047c44cd2&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:53:32Z&#34;,&#34;dc:title&#34;:&#34;Future Long Range Assault Aircraft&#34;,&#34;xdm:linkURL&#34;:&#34;/defense&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense">Future Long Range Assault Aircraft</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-6bb157a3f0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:09Z&#34;,&#34;dc:title&#34;:&#34;H-47 Chinook&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/ch-47-chinook&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/ch-47-chinook">H-47 Chinook</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-a3026d1596&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:07Z&#34;,&#34;dc:title&#34;:&#34;KC-46A Pegasus Tanker&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/kc-46a-pegasus-tanker&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/kc-46a-pegasus-tanker">KC-46A Pegasus Tanker</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-1615ab6511&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:10Z&#34;,&#34;dc:title&#34;:&#34;MH-139A Grey Wolf&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/mh-139a&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/mh-139a">MH-139A Grey Wolf</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-a2e1bac6e7&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:08Z&#34;,&#34;dc:title&#34;:&#34;MQ-25&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/mq25&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/mq25">MQ-25</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f723d29d23&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:08Z&#34;,&#34;dc:title&#34;:&#34;P-8&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/p-8-poseidon&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/p-8-poseidon">P-8</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-97dba724e3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:10Z&#34;,&#34;dc:title&#34;:&#34;Phantom Works&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/phantom-works&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/phantom-works">Phantom Works</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-cbcc9e32ec&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:08Z&#34;,&#34;dc:title&#34;:&#34;Precision Engagement Systems&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/weapons&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/weapons">Precision Engagement Systems</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-ddbd04590d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:10Z&#34;,&#34;dc:title&#34;:&#34;Strategic Deterrence Systems&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/strategic-deterrence-systems&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/strategic-deterrence-systems">Strategic Deterrence Systems</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-92f1c6bcb9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:08Z&#34;,&#34;dc:title&#34;:&#34;T-7A Red Hawk&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/t-7a&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/t-7a">T-7A Red Hawk</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-94ccbaaf26&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T21:35:07Z&#34;,&#34;dc:title&#34;:&#34;V-22 Osprey&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/v-22-osprey&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/v-22-osprey">V-22 Osprey</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-5490cc34bb&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-20T19:03:26Z&#34;,&#34;dc:title&#34;:&#34;Global Services, Support and Training&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/support&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/support">Global Services, Support and Training</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-757306c702&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-19T23:25:40Z&#34;,&#34;dc:title&#34;:&#34;Military Rotorcraft&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/rotorcraft&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/rotorcraft">Military Rotorcraft</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-11012ddf6f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-19T22:13:21Z&#34;,&#34;dc:title&#34;:&#34;Unmanned Little Bird H-6U&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/unmanned-little-bird-h-6u&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/unmanned-little-bird-h-6u">Unmanned Little Bird H-6U</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-7733bb22c9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:53:48Z&#34;,&#34;dc:title&#34;:&#34;Airborne Warning &amp; Control System&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/airborne-warning-and-control-system&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/airborne-warning-and-control-system">Airborne Warning &amp; Control System</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-61cbb5bc1f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:23:08Z&#34;,&#34;dc:title&#34;:&#34;Space&#34;,&#34;xdm:linkURL&#34;:&#34;/space&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/space">Space</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-61cbb5bc1f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:23:08Z&#34;,&#34;dc:title&#34;:&#34;Space&#34;,&#34;xdm:linkURL&#34;:&#34;/space&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="/space">Space Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-567c44f83a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:09Z&#34;,&#34;dc:title&#34;:&#34;Artemis&#34;,&#34;xdm:linkURL&#34;:&#34;/content/dam/microsites/static/space/space-launch-system/launch/index.html&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/content/dam/microsites/static/space/space-launch-system/launch/index.html">Artemis</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-92508e7469&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-19T22:33:26Z&#34;,&#34;dc:title&#34;:&#34;Boeing Satellites&#34;,&#34;xdm:linkURL&#34;:&#34;/space/boeing-satellites&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/space/boeing-satellites">Boeing Satellites</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-dc4bb17608&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-23T22:33:09Z&#34;,&#34;dc:title&#34;:&#34;CST-100 Starliner&#34;,&#34;xdm:linkURL&#34;:&#34;/space/starliner&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/space/starliner">CST-100 Starliner</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-d14701d826&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-07-31T16:21:51Z&#34;,&#34;dc:title&#34;:&#34;International Space Station &#34;,&#34;xdm:linkURL&#34;:&#34;/space/international-space-station&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/space/international-space-station">International Space Station </a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-d8e0b265bb&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-28T20:15:07Z&#34;,&#34;dc:title&#34;:&#34;Space Launch System&#34;,&#34;xdm:linkURL&#34;:&#34;/space/space-launch-system&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/space/space-launch-system">Space Launch System</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4dbf2569ef&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:54:48Z&#34;,&#34;dc:title&#34;:&#34;United Launch Alliance &#34;,&#34;xdm:linkURL&#34;:&#34;/space/united-launch-alliance&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/space/united-launch-alliance">United Launch Alliance </a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-7860d33188&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:55:48Z&#34;,&#34;dc:title&#34;:&#34;X-37B&#34;,&#34;xdm:linkURL&#34;:&#34;/defense/autonomous-systems/x37b&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/defense/autonomous-systems/x37b">X-37B</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-7f45309267&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:54:47Z&#34;,&#34;dc:title&#34;:&#34;Advance Space Access&#34;,&#34;xdm:linkURL&#34;:&#34;/space/advanced-space-access&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/space/advanced-space-access">Advance Space Access</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-c34065162e&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-20T19:51:39Z&#34;,&#34;dc:title&#34;:&#34;Boeing Commercial Satellite Services&#34;,&#34;xdm:linkURL&#34;:&#34;/space/commercial-satellite-services&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/space/commercial-satellite-services">Boeing Commercial Satellite Services</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-aa8665d5b6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:23:26Z&#34;,&#34;dc:title&#34;:&#34;Services&#34;,&#34;xdm:linkURL&#34;:&#34;/services&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/services">Services</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-aa8665d5b6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:23:26Z&#34;,&#34;dc:title&#34;:&#34;Services&#34;,&#34;xdm:linkURL&#34;:&#34;/services&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="/services">Services Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-8def5a9fea&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:10Z&#34;,&#34;dc:title&#34;:&#34;Commercial Services&#34;,&#34;xdm:linkURL&#34;:&#34;/services#Nav3&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/services#Nav3">Commercial Services</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-033045b22f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:10Z&#34;,&#34;dc:title&#34;:&#34;Government Services&#34;,&#34;xdm:linkURL&#34;:&#34;/services#Nav4&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/services#Nav4">Government Services</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-164ee03dfc&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T19:48:58Z&#34;,&#34;dc:title&#34;:&#34;Safety&#34;,&#34;xdm:linkURL&#34;:&#34;/safety&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/safety">Safety</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-164ee03dfc&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T19:48:58Z&#34;,&#34;dc:title&#34;:&#34;Safety&#34;,&#34;xdm:linkURL&#34;:&#34;/safety&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="/safety">Safety Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-71792852e3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:27:01Z&#34;,&#34;dc:title&#34;:&#34;Strengthening Safety &amp; Quality&#34;,&#34;xdm:linkURL&#34;:&#34;/strengthening-safety-and-quality&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/strengthening-safety-and-quality">Strengthening Safety &amp; Quality</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-10ed899b95&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T22:02:32Z&#34;,&#34;dc:title&#34;:&#34;Aerospace Safety Timeline&#34;,&#34;xdm:linkURL&#34;:&#34;/safety/safetyexperience&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/safety/safetyexperience">Aerospace Safety Timeline</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-842a9a64b6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:23:45Z&#34;,&#34;dc:title&#34;:&#34;Innovation&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation">Innovation</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-842a9a64b6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:23:45Z&#34;,&#34;dc:title&#34;:&#34;Innovation&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation">Innovation Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f8f74a0033&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:39Z&#34;,&#34;dc:title&#34;:&#34;Autonomous Capabilities&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor2&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation#anchor2">Autonomous Capabilities</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-d3898a660c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:36Z&#34;,&#34;dc:title&#34;:&#34;Boeing Horizon X&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.aeroequity.com/&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://www.aeroequity.com/">Boeing Horizon X</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-8bb3a3630e&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:39Z&#34;,&#34;dc:title&#34;:&#34;Digital Transformation&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor3&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation#anchor3">Digital Transformation</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f3998214dc&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-18T21:06:27Z&#34;,&#34;dc:title&#34;:&#34;Innovation Quarterly&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation/innovation-quarterly&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation/innovation-quarterly">Innovation Quarterly</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-bf84414f93&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:37Z&#34;,&#34;dc:title&#34;:&#34;People&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor1&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation#anchor1">People</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-3fa80ab3b0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:39Z&#34;,&#34;dc:title&#34;:&#34;Producibility&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor4&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation#anchor4">Producibility</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-539de77127&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:37Z&#34;,&#34;dc:title&#34;:&#34;Sustainable Aviation&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation#anchor5&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation#anchor5">Sustainable Aviation</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-7570faa0de&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-01T00:22:38Z&#34;,&#34;dc:title&#34;:&#34;Urban Air Mobility&#34;,&#34;xdm:linkURL&#34;:&#34;/innovation/con-ops&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/innovation/con-ops">Urban Air Mobility</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-35b19ae18a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:23:57Z&#34;,&#34;dc:title&#34;:&#34;Global&#34;,&#34;xdm:linkURL&#34;:&#34;/global&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/global">Global</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-35b19ae18a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:23:57Z&#34;,&#34;dc:title&#34;:&#34;Global&#34;,&#34;xdm:linkURL&#34;:&#34;/global&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="/global">Global Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-35f98ba0ef&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:19Z&#34;,&#34;dc:title&#34;:&#34;Global Focus&#34;,&#34;xdm:linkURL&#34;:&#34;/global#overview&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/global#overview">Global Focus</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-231cfb0bb0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:19Z&#34;,&#34;dc:title&#34;:&#34;Boeing Global&#34;,&#34;xdm:linkURL&#34;:&#34;/global#boeing-global&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/global#boeing-global">Boeing Global</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-28093fcd9e&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:19Z&#34;,&#34;dc:title&#34;:&#34;Presence and Partnerships&#34;,&#34;xdm:linkURL&#34;:&#34;/global#presence-and-partnerships&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/global#presence-and-partnerships">Presence and Partnerships</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-cdb9d06691&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:24:09Z&#34;,&#34;dc:title&#34;:&#34;Sustainability&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability">Sustainability</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-cdb9d06691&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:24:09Z&#34;,&#34;dc:title&#34;:&#34;Sustainability&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability">Sustainability Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-2ed69d6a3d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-03T21:51:49Z&#34;,&#34;dc:title&#34;:&#34;Community Engagement&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/community-engagement&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability/community-engagement">Community Engagement</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-55adca25a8&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-13T18:59:18Z&#34;,&#34;dc:title&#34;:&#34;Global Equity, Diversity &amp; Inclusion&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/diversity-and-inclusion&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability/diversity-and-inclusion">Global Equity, Diversity &amp; Inclusion</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-167ec3888c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-22T14:00:23Z&#34;,&#34;dc:title&#34;:&#34;Education&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/education&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability/education">Education</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-720dbf1f5c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-20T16:18:30Z&#34;,&#34;dc:title&#34;:&#34;Ethics and Compliance&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/ethics-and-compliance&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability/ethics-and-compliance">Ethics and Compliance</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-79554ef0cc&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:21Z&#34;,&#34;dc:title&#34;:&#34;Human Rights&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/human-rights&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability/human-rights">Human Rights</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4a3ad722b3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:21Z&#34;,&#34;dc:title&#34;:&#34;Quality&#34;,&#34;xdm:linkURL&#34;:&#34;/sustainability/quality&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/sustainability/quality">Quality</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-47740f4972&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Careers&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/">Careers</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-47740f4972&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Careers&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/">Careers Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4f2f6cfe7b&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Benefits&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/benefits&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/benefits">Benefits</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-3363740fd9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Career Areas&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/#career-areas&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/#career-areas">Career Areas</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-ba58c79534&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;College and Entry Level&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/internships&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/internships">College and Entry Level</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0cb3657bde&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Events&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/events&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/events">Events</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f15191f79d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Life at Boeing&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/working-here&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/working-here">Life at Boeing</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f0ece7406f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Military and Veterans&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/veterans&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/veterans">Military and Veterans</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f45cce272b&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;My Account&#34;,&#34;xdm:linkURL&#34;:&#34;https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/login&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/login">My Account</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-d1c69b644a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:07:22Z&#34;,&#34;dc:title&#34;:&#34;Organizations&#34;,&#34;xdm:linkURL&#34;:&#34;https://jobs.boeing.com/&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="https://jobs.boeing.com/">Organizations</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f05b1e9141&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:24:31Z&#34;,&#34;dc:title&#34;:&#34;Our Company&#34;,&#34;xdm:linkURL&#34;:&#34;/company&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/company">Our Company</a>
+
+        
+    <ul class="cmp-navigation__group">
+    	
+    <li class="cmp-navigation__item cmp-navigation__item--level-0" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f05b1e9141&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:24:31Z&#34;,&#34;dc:title&#34;:&#34;Our Company&#34;,&#34;xdm:linkURL&#34;:&#34;/company&#34;}}">
+        <a data-cmp-clickable class="cmp-navigation__item-link" href="/company">Our Company Home</a>
+    </li>
+
+        
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-a1004c136a&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-10T14:55:24Z&#34;,&#34;dc:title&#34;:&#34;Boeing Commercial Airplanes&#34;,&#34;xdm:linkURL&#34;:&#34;/company/about-bca&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/about-bca">Boeing Commercial Airplanes</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-4067ff2540&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:08:13Z&#34;,&#34;dc:title&#34;:&#34;Boeing Defense, Space &amp; Security&#34;,&#34;xdm:linkURL&#34;:&#34;/company/about-bds&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/about-bds">Boeing Defense, Space &amp; Security</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-f9951192a5&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-13T14:18:05Z&#34;,&#34;dc:title&#34;:&#34;Boeing Global Services&#34;,&#34;xdm:linkURL&#34;:&#34;/company/about-bgs&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/about-bgs">Boeing Global Services</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-9a01eab61f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-20T21:18:56Z&#34;,&#34;dc:title&#34;:&#34;Executive Biographies&#34;,&#34;xdm:linkURL&#34;:&#34;/company/bios&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/bios">Executive Biographies</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-937597672c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-10T14:55:29Z&#34;,&#34;dc:title&#34;:&#34;General Information&#34;,&#34;xdm:linkURL&#34;:&#34;/company/general-info&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/general-info">General Information</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-734c5979c4&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:08:15Z&#34;,&#34;dc:title&#34;:&#34;Key Organizations&#34;,&#34;xdm:linkURL&#34;:&#34;/company/key-orgs&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/key-orgs">Key Organizations</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-0cc0d01401&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:08:16Z&#34;,&#34;dc:title&#34;:&#34;Tours&#34;,&#34;xdm:linkURL&#34;:&#34;/company/tours&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/tours">Tours</a>
+
+        
+    </li>
+
+    <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-1f97dab455-item-7f9c22ca7d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-18T23:32:33Z&#34;,&#34;dc:title&#34;:&#34;BGLI&#34;,&#34;xdm:linkURL&#34;:&#34;/company/bgli&#34;}}">
+        
+    <a data-cmp-clickable class="cmp-navigation__item-link" href="/company/bgli">BGLI</a>
+
+        
+    </li>
+
+    </ul>
+
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-95d7b01123" class="cmp-experiencefragment cmp-experiencefragment--utility-nav">
+
+
+    
+    <div id="container-e4b3e3aaf8" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <nav class="list aem-GridColumn aem-GridColumn--default--newline aem-GridColumn--default--12 aem-GridColumn--offset--default--0">
+<ul id="header-top-nav" data-cmp-data-layer="{&#34;header-top-nav&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:10:41Z&#34;}}" class="cmp-list">
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-772885fa61&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:28:17Z&#34;,&#34;dc:title&#34;:&#34;Safety &amp; Quality &#34;,&#34;xdm:linkURL&#34;:&#34;/strengthening-safety-and-quality&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="/strengthening-safety-and-quality">
+        <span class="cmp-list__item-title">Safety &amp; Quality </span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-7a2a20ba2d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;dc:title&#34;:&#34;News&#34;,&#34;xdm:linkURL&#34;:&#34;http://boeing.mediaroom.com/?_gl=1*1y16wii*_ga*NTk1NTE0ODYzLjE2OTc2NTk2NDA.*_ga_3N2PEGZ4HD*MTcwMTE4OTIxMS45NC4xLjE3MDExOTA3NzUuMC4wLjA.&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="http://boeing.mediaroom.com/?_gl=1*1y16wii*_ga*NTk1NTE0ODYzLjE2OTc2NTk2NDA.*_ga_3N2PEGZ4HD*MTcwMTE4OTIxMS45NC4xLjE3MDExOTA3NzUuMC4wLjA." target="_blank">
+        <span class="cmp-list__item-title">News</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-5f71748f42&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;dc:title&#34;:&#34;Investors&#34;,&#34;xdm:linkURL&#34;:&#34;http://investors.boeing.com/?_gl=1*169wy4g*_ga*NTk1NTE0ODYzLjE2OTc2NTk2NDA.*_ga_3N2PEGZ4HD*MTcwMTE4OTIxMS45NC4xLjE3MDExOTA3NzUuMC4wLjA.&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="http://investors.boeing.com/?_gl=1*169wy4g*_ga*NTk1NTE0ODYzLjE2OTc2NTk2NDA.*_ga_3N2PEGZ4HD*MTcwMTE4OTIxMS45NC4xLjE3MDExOTA3NzUuMC4wLjA." target="_blank">
+        <span class="cmp-list__item-title">Investors</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-e455b64c74&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-31T23:35:51Z&#34;,&#34;dc:title&#34;:&#34;Employee/Retiree&#34;,&#34;xdm:linkURL&#34;:&#34;/employee-and-retiree&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="/employee-and-retiree">
+        <span class="cmp-list__item-title">Employee/Retiree</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-3d91ea15c7&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-24T18:32:59Z&#34;,&#34;dc:title&#34;:&#34;Emergency Information&#34;,&#34;xdm:linkURL&#34;:&#34;/emergency&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="/emergency">
+        <span class="cmp-list__item-title">Emergency Information</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-b3fae1f0a9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;dc:title&#34;:&#34;Merchandise&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeingstore.com/&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="http://www.boeingstore.com/" target="_blank">
+        <span class="cmp-list__item-title">Merchandise</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-915e13a5da&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;dc:title&#34;:&#34;Suppliers&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeingsuppliers.com/&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="http://www.boeingsuppliers.com/" target="_blank">
+        <span class="cmp-list__item-title">Suppliers</span>
+        
+    </a>
+    
+</li>
+    
+
+    <li class="cmp-list__item" data-cmp-data-layer="{&#34;header-top-nav-item-916251724c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/list/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-29T21:02:54Z&#34;,&#34;dc:title&#34;:&#34;Our History&#34;,&#34;xdm:linkURL&#34;:&#34;/history&#34;}}">
+    <a class="cmp-list__item-link" data-cmp-clickable href="/history">
+        <span class="cmp-list__item-title">Our History</span>
+        
+    </a>
+    
+</li>
+    
+</ul>
+
+    
+
+</nav>
+<div class="languagenavigation cmp-languagenavigation--header cmp-languagenavigation--default aem-GridColumn aem-GridColumn--default--12">
+<nav data-cmp-data-layer="{&#34;languagenavigation-356b780f59&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-11T14:56:46Z&#34;}}" id="languagenavigation-356b780f59" class="cmp-languagenavigation">
+    <ul class="cmp-languagenavigation__group">
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-AU cmp-languagenavigation__item--langcode-en-AU cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-17520afb7e&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:05:48Z&#34;,&#34;dc:title&#34;:&#34;Australia&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.au/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.com.au/" hreflang="en-AU" lang="en-AU" rel="alternate">Australia</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-BR cmp-languagenavigation__item--langcode-pt-BR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-f89620745b&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:05:50Z&#34;,&#34;dc:title&#34;:&#34;Brazil&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.br/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.com.br/" hreflang="pt-BR" lang="pt-BR" rel="alternate">Brazil</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-CA cmp-languagenavigation__item--langcode-en-CA cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-3c0c343978&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-23T18:33:01Z&#34;,&#34;dc:title&#34;:&#34;Canada&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.ca/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.ca/" hreflang="en-CA" lang="en-CA" rel="alternate">Canada</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-CN cmp-languagenavigation__item--langcode-zh-CN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-4aac5e1137&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:00Z&#34;,&#34;dc:title&#34;:&#34;China&#34;,&#34;xdm:linkURL&#34;:&#34;http://www.boeing.cn/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="http://www.boeing.cn/" hreflang="zh-CN" lang="zh-CN" rel="alternate">China</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-BE cmp-languagenavigation__item--langcode-de-BE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-e80f86d1e9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:02Z&#34;,&#34;dc:title&#34;:&#34;Europe&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com/global/boeing-in-europe&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.com/global/boeing-in-europe" hreflang="de-BE" lang="de-BE" rel="alternate">Europe</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-FR cmp-languagenavigation__item--langcode-fr-FR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-9653900cba&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-29T15:33:22Z&#34;,&#34;dc:title&#34;:&#34;France&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.fr/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.fr/" hreflang="fr-FR" lang="fr-FR" rel="alternate">France</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-DE cmp-languagenavigation__item--langcode-de-DE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-916589de70&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:04Z&#34;,&#34;dc:title&#34;:&#34;Germany&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.de/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.de/" hreflang="de-DE" lang="de-DE" rel="alternate">Germany</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IN cmp-languagenavigation__item--langcode-en-IN cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-ec31e8fcb1&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:07Z&#34;,&#34;dc:title&#34;:&#34;India&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.in/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.co.in/" hreflang="en-IN" lang="en-IN" rel="alternate">India</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-iw cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-5dc5d4fbd3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:10Z&#34;,&#34;dc:title&#34;:&#34;Israel&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.il/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.co.il/" hreflang="iw" lang="iw" rel="alternate">Israel</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-IT cmp-languagenavigation__item--langcode-it-IT cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-7ad1ecd5bf&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:13Z&#34;,&#34;dc:title&#34;:&#34;Italy&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeingitaly.it/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeingitaly.it/" hreflang="it-IT" lang="it-IT" rel="alternate">Italy</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ja cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-816ee6de92&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:16Z&#34;,&#34;dc:title&#34;:&#34;Japan&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.jp/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.jp/" hreflang="ja" lang="ja" rel="alternate">Japan</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-KR cmp-languagenavigation__item--langcode-ko-KR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-a544388593&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:20Z&#34;,&#34;dc:title&#34;:&#34;Korea&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.kr/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.co.kr/" hreflang="ko-KR" lang="ko-KR" rel="alternate">Korea</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-AE cmp-languagenavigation__item--langcode-en-AE cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-89d9ea9058&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-16T16:03:05Z&#34;,&#34;dc:title&#34;:&#34;Middle East&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing-me.com/en/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing-me.com/en/" hreflang="en-AE" lang="en-AE" rel="alternate">Middle East</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-SG cmp-languagenavigation__item--langcode-en-SG cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-1795e7cc58&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-28T15:28:26Z&#34;,&#34;dc:title&#34;:&#34;Southeast Asia&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing-sea.com&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing-sea.com" hreflang="en-SG" lang="en-SG" rel="alternate">Southeast Asia</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-ES cmp-languagenavigation__item--langcode-es-ES cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-2f19b6c83c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:29Z&#34;,&#34;dc:title&#34;:&#34;Spain&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.es/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.es/" hreflang="es-ES" lang="es-ES" rel="alternate">Spain</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-TR cmp-languagenavigation__item--langcode-tr-TR cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-c3c486ed19&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-04T03:06:34Z&#34;,&#34;dc:title&#34;:&#34;Türkiye&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.com.tr/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.com.tr/" hreflang="tr-TR" lang="tr-TR" rel="alternate">Türkiye</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-GB cmp-languagenavigation__item--langcode-en-GB cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-9944520628&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-05T22:05:32Z&#34;,&#34;dc:title&#34;:&#34;UK&#34;,&#34;xdm:linkURL&#34;:&#34;https://www.boeing.co.uk/&#34;}}">
+        
+    
+	
+
+
+	
+        <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="https://www.boeing.co.uk/" hreflang="en-GB" lang="en-GB" rel="alternate">UK</a>
+    
+      
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--countrycode-US cmp-languagenavigation__item--langcode-en-US cmp-languagenavigation__item--level-0 cmp-languagenavigation__item--active" data-cmp-data-layer="{&#34;languagenavigation-356b780f59-item-a1c359e702&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-13T20:29:36Z&#34;,&#34;dc:title&#34;:&#34;USA&#34;,&#34;xdm:linkURL&#34;:&#34;/terms-of-submission-and-privacy-policy/site-terms&#34;}}">
+        
+    
+	
+		
+        	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+        	
+		
+    
+
+
+	
+    
+        <a data-cmp-clickable aria-current="page" class="cmp-languagenavigation__item-link" href="https://www.boeing.com" hreflang="en-US" lang="en-US" rel="alternate">USA</a>
+      
+
+        
+    </li>
+
+    </ul>
+</nav>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</header>
+<div class="container responsivegrid cmp-container__full-width-subheader aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-ac4d8150ec" class="cmp-container">
+        
+        <div class="sticky-anchor-nav">
+
+<div class="cmp-sticky-anchor-nav" data-cmp-is="sticky-header-nav">
+    <ul class="cmp-sticky-anchor-nav__list">
+      
+    </ul>
+</div>
+
+    
+</div>
+<div class="breadcrumb cmp-breadcrumb_light-background">
+<nav id="breadcrumb-cce3c093d1" class="cmp-breadcrumb" aria-label="Breadcrumb" data-cmp-data-layer="{&#34;breadcrumb-cce3c093d1&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/breadcrumb&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:03:21Z&#34;}}">
+    <ol class="cmp-breadcrumb__list" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li class="cmp-breadcrumb__item cmp-breadcrumb__item--active" aria-current="page" data-cmp-data-layer="{&#34;breadcrumb-cce3c093d1-item-a1c359e702&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-13T20:29:36Z&#34;,&#34;dc:title&#34;:&#34;SITE TERMS&#34;,&#34;xdm:linkURL&#34;:&#34;/terms-of-submission-and-privacy-policy/site-terms&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+                <span itemprop="name">SITE TERMS</span>
+            
+            <meta itemprop="position" content="1"/>
+        </li>
+    </ol>
+</nav>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid cmp-container__main-content cmp-container__product-main-content aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-6487835e62" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid cmp-container__grey-gradient aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-48a669168b" class="cmp-container">
+        
+        <div class="title">
+<div data-cmp-data-layer="{&#34;title-3546956402&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:03:45Z&#34;,&#34;dc:title&#34;:&#34;Boeing.com Site Terms - What You Agree to When Using This Site&#34;}}" id="title-3546956402" class="cmp-title">
+    <h1 class="cmp-title__text">Boeing.com Site Terms - What You Agree to When Using This Site</h1>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-76d3946019&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2024-08-13T20:29:19Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Welcome to Boeing.com, The Boeing Company&#39;s website (the &amp;quot;Site&amp;quot;)! These terms of use (&amp;quot;Site Terms&amp;quot;) impose conditions on your access to this Site, and any use you make of it, so please read them carefully. They do not alter in any way the terms or conditions of any other agreement you may have with The Boeing Company (&amp;quot;Boeing&amp;quot;) or its subsidiaries or affiliates for other products or services.&lt;/p>\r\n&lt;p>&lt;strong>SPECIAL NOTE REGARDING NETWORKED BOEING SITES.&lt;/strong>In an effort to make on-line information about Boeing and business transactions with Boeing efficient, Boeing uses Boeing.com as an entry into many networked web pages and websites operated by Boeing and its subsidiaries and affiliates (together, the &amp;quot;Boeing Sites&amp;quot;). Please note that individual Boeing Sites may adopt terms of use particular to the purpose of the Boeing Site or the transactions taking place on the Boeing Site. For example, some of the Boeing Sites affiliated with commercial transactions that you or your business may have with Boeing, particularly those which are password-protected or subject to subscriptions, may have differing terms, or separate agreements which supplement or supercede these terms. If a Boeing Site has imposed its own terms of use by posting on the Boeing Site, separate agreement or otherwise, the provisions of those Boeing Site terms shall control in the event of a conflict with these general terms of use for Boeing.com. Except as supplemented or superceded as described herein, these general terms of use for Boeing.com apply to the entire network of Boeing Sites, and control your use thereof.&lt;/p>\r\n&lt;p>Boeing reserves the right to change or modify any of the terms and conditions contained in the Site Terms or any policy or guideline of the Site, at any time and in its sole discretion. Any changes or modification will be effective upon posting of the revisions and notice of such changes to the Site. Your continued use of this Site following the posting of its changes or modifications will constitute your acceptance of such changes or modifications. Therefore, you should frequently review the Site Terms and applicable policies from time-to-time to understand the terms and conditions that apply to your use of the Site.&lt;/p>\r\n&lt;p>BY ACCESSING, BROWSING, AND USING THIS SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED BELOW, ALL POLICIES AND GUIDELINES INCORPORATED BY REFERENCE, AND ANY SUBSEQUENT CHANGES TO THE FOREGOING. IF YOU DO NOT AGREE TO THESE SITE TERMS OR ANY SUBSEQUENT MODIFICATION, DO NOT ACCESS, BROWSE OR OTHERWISE USE THIS SITE.&lt;/p>\r\n&#34;}}" id="text-76d3946019" class="cmp-text">
+    <p>Welcome to Boeing.com, The Boeing Company's website (the &quot;Site&quot;)! These terms of use (&quot;Site Terms&quot;) impose conditions on your access to this Site, and any use you make of it, so please read them carefully. They do not alter in any way the terms or conditions of any other agreement you may have with The Boeing Company (&quot;Boeing&quot;) or its subsidiaries or affiliates for other products or services.</p>
+<p><strong>SPECIAL NOTE REGARDING NETWORKED BOEING SITES.</strong>In an effort to make on-line information about Boeing and business transactions with Boeing efficient, Boeing uses Boeing.com as an entry into many networked web pages and websites operated by Boeing and its subsidiaries and affiliates (together, the &quot;Boeing Sites&quot;). Please note that individual Boeing Sites may adopt terms of use particular to the purpose of the Boeing Site or the transactions taking place on the Boeing Site. For example, some of the Boeing Sites affiliated with commercial transactions that you or your business may have with Boeing, particularly those which are password-protected or subject to subscriptions, may have differing terms, or separate agreements which supplement or supercede these terms. If a Boeing Site has imposed its own terms of use by posting on the Boeing Site, separate agreement or otherwise, the provisions of those Boeing Site terms shall control in the event of a conflict with these general terms of use for Boeing.com. Except as supplemented or superceded as described herein, these general terms of use for Boeing.com apply to the entire network of Boeing Sites, and control your use thereof.</p>
+<p>Boeing reserves the right to change or modify any of the terms and conditions contained in the Site Terms or any policy or guideline of the Site, at any time and in its sole discretion. Any changes or modification will be effective upon posting of the revisions and notice of such changes to the Site. Your continued use of this Site following the posting of its changes or modifications will constitute your acceptance of such changes or modifications. Therefore, you should frequently review the Site Terms and applicable policies from time-to-time to understand the terms and conditions that apply to your use of the Site.</p>
+<p>BY ACCESSING, BROWSING, AND USING THIS SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED BELOW, ALL POLICIES AND GUIDELINES INCORPORATED BY REFERENCE, AND ANY SUBSEQUENT CHANGES TO THE FOREGOING. IF YOU DO NOT AGREE TO THESE SITE TERMS OR ANY SUBSEQUENT MODIFICATION, DO NOT ACCESS, BROWSE OR OTHERWISE USE THIS SITE.</p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-93b640b0d8&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:04:20Z&#34;,&#34;dc:title&#34;:&#34;Index of Provisions&#34;}}" id="title-93b640b0d8" class="cmp-title">
+    <h5 class="cmp-title__text">Index of Provisions</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-d5e61b697c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:04:35Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#incorporated\&#34;>Incorporated Policies or Terms&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#site_license\&#34;>Site License and Access&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#copyright\&#34;>Copyright&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#complaints\&#34;>Copyright Complaints&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#trademarks\&#34;>Trademarks and Service Marks&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#third_party\&#34;>Third-Party Content&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#linking\&#34;>Linking&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#general\&#34;>General Submissions&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#export\&#34;>Export Restrictions&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#financial\&#34;>Financial Material Disclosure&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#disclaimers\&#34;>Disclaimers&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#liability\&#34;>Limitation on Liability&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#law\&#34;>Applicable Law and Venue&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#termination\&#34;>Termination&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#severability\&#34;>Severability&lt;/a>&lt;br>\r\n&lt;a href=\&#34;https://www.boeing.com/site-terms.page#socialmedia\&#34;>Social Media&lt;/a>&lt;/p>\r\n&#34;}}" id="text-d5e61b697c" class="cmp-text">
+    <p><a href="https://www.boeing.com/site-terms.page#incorporated">Incorporated Policies or Terms</a><br />
+<a href="https://www.boeing.com/site-terms.page#site_license">Site License and Access</a><br />
+<a href="https://www.boeing.com/site-terms.page#copyright">Copyright</a><br />
+<a href="https://www.boeing.com/site-terms.page#complaints">Copyright Complaints</a><br />
+<a href="https://www.boeing.com/site-terms.page#trademarks">Trademarks and Service Marks</a><br />
+<a href="https://www.boeing.com/site-terms.page#third_party">Third-Party Content</a><br />
+<a href="https://www.boeing.com/site-terms.page#linking">Linking</a><br />
+<a href="https://www.boeing.com/site-terms.page#general">General Submissions</a><br />
+<a href="https://www.boeing.com/site-terms.page#export">Export Restrictions</a><br />
+<a href="https://www.boeing.com/site-terms.page#financial">Financial Material Disclosure</a><br />
+<a href="https://www.boeing.com/site-terms.page#disclaimers">Disclaimers</a><br />
+<a href="https://www.boeing.com/site-terms.page#liability">Limitation on Liability</a><br />
+<a href="https://www.boeing.com/site-terms.page#law">Applicable Law and Venue</a><br />
+<a href="https://www.boeing.com/site-terms.page#termination">Termination</a><br />
+<a href="https://www.boeing.com/site-terms.page#severability">Severability</a><br />
+<a href="https://www.boeing.com/site-terms.page#socialmedia">Social Media</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-bc62cdea6f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:04:51Z&#34;,&#34;dc:title&#34;:&#34;Incorporated Policies or Terms&#34;}}" id="title-bc62cdea6f" class="cmp-title">
+    <h5 class="cmp-title__text">Incorporated Policies or Terms</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-8fa8ee104c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:05:17Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>&lt;em>Privacy Policy.&lt;/em> Boeing believes strongly in protecting individual user privacy and providing you notice of Boeing&#39;s collection and use data, including personally identifying information, collected from the Site. Therefore, Boeing has adopted a Privacy Policy that you should review in order to fully understand how Boeing collects and uses information.&lt;/p>\r\n&lt;p>&lt;em>Terms of Sale.&lt;/em> Transactions with Boeing Sites offering products or services for purchase may be subject to Terms of Sale required as a condition to completion of the transaction. These Terms of Sale may be posted on the Boeing Site or set forth in a separate agreement with you. Your transactions will be governed by such Terms of Sale, therefore you should review them carefully.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-8fa8ee104c" class="cmp-text">
+    <p><em>Privacy Policy.</em> Boeing believes strongly in protecting individual user privacy and providing you notice of Boeing's collection and use data, including personally identifying information, collected from the Site. Therefore, Boeing has adopted a Privacy Policy that you should review in order to fully understand how Boeing collects and uses information.</p>
+<p><em>Terms of Sale.</em> Transactions with Boeing Sites offering products or services for purchase may be subject to Terms of Sale required as a condition to completion of the transaction. These Terms of Sale may be posted on the Boeing Site or set forth in a separate agreement with you. Your transactions will be governed by such Terms of Sale, therefore you should review them carefully.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-4272d2e1d6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:05:29Z&#34;,&#34;dc:title&#34;:&#34;Site License and Access&#34;}}" id="title-4272d2e1d6" class="cmp-title">
+    <h5 class="cmp-title__text">Site License and Access</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-480c7020af&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:05:42Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Boeing grants you a limited license to make personal use only of the Site. Such grant does not include, without limitation: (a) any resale or commercial use of the Site or content therein; (b) the collection and use of any product listings or descriptions; (c) making derivative uses of the Site and its contents; or (d) use of any data mining, robots, or similar data gathering and extraction methods. Except as noted above, you are not conveyed any right or license by implication, estoppel, or otherwise in or under any patent, trademark, copyright, or proprietary right of Boeing or any third party.&lt;/p>\r\n&lt;p>You may not use, frame or utilize framing techniques to enclose any Boeing trademark, logo or other proprietary information (including the images found at this Site, the content of any text or the layout/design of any page or form contained on a page) without Boeing&#39;s express written consent. Further, you may not use any meta tags or any other &amp;quot;hidden text&amp;quot; utilizing an Boeing name, trademark, or product name without Boeing&#39;s express written consent.&lt;/p>\r\n&lt;p>Any unauthorized use of this Site will terminate the permission or license granted by these Site Terms and may violate applicable law including copyright laws, trademark laws (including trade dress), and communications regulations and statutes. All violators will be prosecuted to the fullest extent of the law.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-480c7020af" class="cmp-text">
+    <p>Boeing grants you a limited license to make personal use only of the Site. Such grant does not include, without limitation: (a) any resale or commercial use of the Site or content therein; (b) the collection and use of any product listings or descriptions; (c) making derivative uses of the Site and its contents; or (d) use of any data mining, robots, or similar data gathering and extraction methods. Except as noted above, you are not conveyed any right or license by implication, estoppel, or otherwise in or under any patent, trademark, copyright, or proprietary right of Boeing or any third party.</p>
+<p>You may not use, frame or utilize framing techniques to enclose any Boeing trademark, logo or other proprietary information (including the images found at this Site, the content of any text or the layout/design of any page or form contained on a page) without Boeing's express written consent. Further, you may not use any meta tags or any other &quot;hidden text&quot; utilizing an Boeing name, trademark, or product name without Boeing's express written consent.</p>
+<p>Any unauthorized use of this Site will terminate the permission or license granted by these Site Terms and may violate applicable law including copyright laws, trademark laws (including trade dress), and communications regulations and statutes. All violators will be prosecuted to the fullest extent of the law.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-90f1f7c2ec&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:06:02Z&#34;,&#34;dc:title&#34;:&#34;Copyright&#34;}}" id="title-90f1f7c2ec" class="cmp-title">
+    <h5 class="cmp-title__text">Copyright</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-50f1a1463e&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:06:09Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>All copyrighted and copyrightable materials on this Site, including, without limitation, the design, text, graphics, pictures, sound files and other files, and the selection and arrangement (&amp;quot;Materials&amp;quot;) thereof are copyrighted, ALL RIGHTS RESERVED, by Boeing and/or third-party licensors. Except as stated herein, none of the Materials may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means, including, but not limited to, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of Boeing or the respective copyright owner. Permission is granted to display, copy, distribute and download the Materials on this Site for personal, non-commercial, and informational use only; provided that, you may not, without the permission of Boeing or the respective copyright owner, (a) copy, publish, or post any Materials on any computer network or broadcast or publications media, (b) modify the Materials, and (c) remove or alter any copyright and other proprietary notices contained in the Materials. Before you download or otherwise copy any photographs or images from the Image Gallery, you must agree to the &lt;a title=\&#34;Image Gallery Terms and Conditions\&#34; href=\&#34;https://www.boeing.com/boeing/multimedia/index.page\&#34;>Terms and Conditions of Personal, Non-Commercial Image Use&lt;/a>. Any request for grant of a &lt;a href=\&#34;http://www.boeingimages.com/boeingCSharpSite/SiteInfo/LicensingPolicies.aspx\&#34;>commercial license to Boeing copyrighted materials&lt;/a> is subject to prior approval, and should be addressed to the Boeing Copyright Licensing staff at: imagelicensing@boeing.com.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-50f1a1463e" class="cmp-text">
+    <p>All copyrighted and copyrightable materials on this Site, including, without limitation, the design, text, graphics, pictures, sound files and other files, and the selection and arrangement (&quot;Materials&quot;) thereof are copyrighted, ALL RIGHTS RESERVED, by Boeing and/or third-party licensors. Except as stated herein, none of the Materials may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means, including, but not limited to, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of Boeing or the respective copyright owner. Permission is granted to display, copy, distribute and download the Materials on this Site for personal, non-commercial, and informational use only; provided that, you may not, without the permission of Boeing or the respective copyright owner, (a) copy, publish, or post any Materials on any computer network or broadcast or publications media, (b) modify the Materials, and (c) remove or alter any copyright and other proprietary notices contained in the Materials. Before you download or otherwise copy any photographs or images from the Image Gallery, you must agree to the <a title="Image Gallery Terms and Conditions" href="https://www.boeing.com/boeing/multimedia/index.page">Terms and Conditions of Personal, Non-Commercial Image Use</a>. Any request for grant of a <a href="http://www.boeingimages.com/boeingCSharpSite/SiteInfo/LicensingPolicies.aspx">commercial license to Boeing copyrighted materials</a> is subject to prior approval, and should be addressed to the Boeing Copyright Licensing staff at: imagelicensing@boeing.com.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-a07e41f280&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:06:25Z&#34;,&#34;dc:title&#34;:&#34;Copyright Complaints&#34;}}" id="title-a07e41f280" class="cmp-title">
+    <h5 class="cmp-title__text">Copyright Complaints</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-e87df0b3f0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:06:39Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Boeing respects the intellectual property of others. If you believe that your work has been copied and has been posted to this Site in a way that constitutes copyright infringement, please provide Boeing&#39;s copyright agent the following written information:&lt;/p>\r\n&lt;ul>\r\n&lt;li>An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;&lt;/li>\r\n&lt;li>A description of the copyrighted work that you claim has been infringed upon;&lt;/li>\r\n&lt;li>A description of where the material that you claim is infringing is located on the Site;&lt;/li>\r\n&lt;li>Your address, telephone number, and e-mail address;&lt;/li>\r\n&lt;li>A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;&lt;/li>\r\n&lt;li>A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner&#39;s behalf.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>For notice of claims of copyright infringement on this site, please contact Boeing&#39;s DMCA Designated Agent who can be reached as follows:&lt;br>\r\n&lt;br>\r\nVice President and Assistant General Counsel – Boeing Intellectual Property&lt;br>\r\nThe Boeing Company&lt;br>\r\n100 N. Riverside&lt;br>\r\nChicago, IL 60606-1596&lt;br>\r\nPhone: 425-237-7389&lt;br>\r\nEmail: &lt;a href=\&#34;mailto:DMCA@boeing.com\&#34;>DMCA@boeing.com&lt;/a>&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-e87df0b3f0" class="cmp-text">
+    <p>Boeing respects the intellectual property of others. If you believe that your work has been copied and has been posted to this Site in a way that constitutes copyright infringement, please provide Boeing's copyright agent the following written information:</p>
+<ul>
+<li>An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;</li>
+<li>A description of the copyrighted work that you claim has been infringed upon;</li>
+<li>A description of where the material that you claim is infringing is located on the Site;</li>
+<li>Your address, telephone number, and e-mail address;</li>
+<li>A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;</li>
+<li>A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.</li>
+</ul>
+<p>For notice of claims of copyright infringement on this site, please contact Boeing's DMCA Designated Agent who can be reached as follows:<br />
+<br />
+Vice President and Assistant General Counsel – Boeing Intellectual Property<br />
+The Boeing Company<br />
+100 N. Riverside<br />
+Chicago, IL 60606-1596<br />
+Phone: 425-237-7389<br />
+Email: <a href="mailto:DMCA@boeing.com">DMCA@boeing.com</a></p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-fd8a50b819&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:06:57Z&#34;,&#34;dc:title&#34;:&#34;Trademarks and Service Marks&#34;}}" id="title-fd8a50b819" class="cmp-title">
+    <h5 class="cmp-title__text">Trademarks and Service Marks</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-8b3a662e50&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:07:05Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Boeing, McDonnell Douglas, McDonnell, Douglas, North American Aviation, their distinctive airplane liveries, logos and product markings, and the products and services described in this Site (except those belonging to Boeing suppliers or licensors), are among the trademarks, service marks or registered trademarks owned by Boeing, and may not be copied, imitated or used, in whole or in part, without the prior written permission of Boeing. In addition, all page headers, custom graphics, button icons, and scripts are service marks, trademarks, and/or trade dress owned by Boeing, and may not be copied, imitated, or used, in whole or in part, without the prior written permission of Boeing. All other trademarks, registered trademarks, product names and company names or logos mentioned herein are the property of their respective owners, and may not be copied, imitated or used, in whole or in part without the prior written permission of such respective owners. Any request for grant of a license to use Boeing marks is subject to prior approval, and should be addressed to the Boeing Trademark Management Group at: trademarks@boeing.com.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-8b3a662e50" class="cmp-text">
+    <p>Boeing, McDonnell Douglas, McDonnell, Douglas, North American Aviation, their distinctive airplane liveries, logos and product markings, and the products and services described in this Site (except those belonging to Boeing suppliers or licensors), are among the trademarks, service marks or registered trademarks owned by Boeing, and may not be copied, imitated or used, in whole or in part, without the prior written permission of Boeing. In addition, all page headers, custom graphics, button icons, and scripts are service marks, trademarks, and/or trade dress owned by Boeing, and may not be copied, imitated, or used, in whole or in part, without the prior written permission of Boeing. All other trademarks, registered trademarks, product names and company names or logos mentioned herein are the property of their respective owners, and may not be copied, imitated or used, in whole or in part without the prior written permission of such respective owners. Any request for grant of a license to use Boeing marks is subject to prior approval, and should be addressed to the Boeing Trademark Management Group at: trademarks@boeing.com.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-1a2ab9c98b&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:07:24Z&#34;,&#34;dc:title&#34;:&#34;Third-Party Content&#34;}}" id="title-1a2ab9c98b" class="cmp-title">
+    <h5 class="cmp-title__text">Third-Party Content</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-36d42e17b9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:07:36Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>This Site may, from time to time, include discussion forums and interactive areas, including bulletin board services (&amp;quot;BBS&amp;quot;). Any forums and interactive areas of the Site shall be used only for non-commercial purposes. By using the forums or interactive areas, you agree not to do any of the following:&lt;/p>\r\n&lt;ul>\r\n&lt;li>Upload to, distribute or otherwise publish through this Site any message, data, information, text or other material (&amp;quot;Content&amp;quot;) that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory or otherwise objectionable;&lt;/li>\r\n&lt;li>Upload or transmit any Content that would constitute or encourage a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national, or international law;&lt;/li>\r\n&lt;li>Upload or transmit any Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party. By posting any Content, you represent and warrant that you have the lawful right to distribute and reproduce such Content;&lt;/li>\r\n&lt;li>Impersonate any person or entity or otherwise misrepresent your affiliation with a person or entity; and&lt;/li>\r\n&lt;li>Without Boeing&#39;s written permission, distribute or publish unsolicited promotions, advertising or solicitations for funds, goods or services, including junk mail and spam.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>Boeing takes no responsibility and assumes no liability for any Content posted or uploaded by you or any third party, or for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter. As a provider of interactive services, if any, Boeing is only a forum and is not liable for any statements, representations, or Content provided by its users.&lt;/p>\r\n&lt;p>&lt;em>Enforcement.&lt;/em> Boeing has the right, but not the obligation, to monitor any activity and Content associated with its forums and interactive areas. Boeing may investigate any reported violation of its policies or complaints and take any appropriate action that it deems appropriate. Such action may include, but is not limited to, issuing warnings, suspension or termination of service, and/or removal of posted Content. Boeing reserves the right and has absolute discretion, to remove, screen or edit any Content that violates these provisions or is otherwise objectionable. In order to cooperate with legitimate governmental requests, subpoenas or court orders, to protect Boeing&#39;s systems and customers, or to ensure the integrity and operation of Boeing&#39;s business and systems, Boeing may access and disclose any information it considers necessary or appropriate, including, without limitation, user profile information (i.e. name, e-mail address, etc.), IP addressing and traffic information, usage history, and posted Content. &lt;em>Boeing&#39;s right to disclose any such information shall govern over any terms of Boeing&#39;s Privacy Policy.&lt;/em>&lt;/p>\r\n&lt;p>&lt;em>Responsibility for Your Conduct.&lt;/em> You shall remain solely liable for the Content of any messages or other information you upload or transmit to this Site, including the discussion forums or interactive areas of the Site. You agree to indemnify and hold harmless Boeing from any claim, action, demand, loss, or damages (including attorneys&#39; fees) made or incurred by any third party arising out of or relating to your conduct, your violation of these Site Terms, or your violation of any rights of a third party.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-36d42e17b9" class="cmp-text">
+    <p>This Site may, from time to time, include discussion forums and interactive areas, including bulletin board services (&quot;BBS&quot;). Any forums and interactive areas of the Site shall be used only for non-commercial purposes. By using the forums or interactive areas, you agree not to do any of the following:</p>
+<ul>
+<li>Upload to, distribute or otherwise publish through this Site any message, data, information, text or other material (&quot;Content&quot;) that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory or otherwise objectionable;</li>
+<li>Upload or transmit any Content that would constitute or encourage a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national, or international law;</li>
+<li>Upload or transmit any Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party. By posting any Content, you represent and warrant that you have the lawful right to distribute and reproduce such Content;</li>
+<li>Impersonate any person or entity or otherwise misrepresent your affiliation with a person or entity; and</li>
+<li>Without Boeing's written permission, distribute or publish unsolicited promotions, advertising or solicitations for funds, goods or services, including junk mail and spam.</li>
+</ul>
+<p>Boeing takes no responsibility and assumes no liability for any Content posted or uploaded by you or any third party, or for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography or profanity you may encounter. As a provider of interactive services, if any, Boeing is only a forum and is not liable for any statements, representations, or Content provided by its users.</p>
+<p><em>Enforcement.</em> Boeing has the right, but not the obligation, to monitor any activity and Content associated with its forums and interactive areas. Boeing may investigate any reported violation of its policies or complaints and take any appropriate action that it deems appropriate. Such action may include, but is not limited to, issuing warnings, suspension or termination of service, and/or removal of posted Content. Boeing reserves the right and has absolute discretion, to remove, screen or edit any Content that violates these provisions or is otherwise objectionable. In order to cooperate with legitimate governmental requests, subpoenas or court orders, to protect Boeing's systems and customers, or to ensure the integrity and operation of Boeing's business and systems, Boeing may access and disclose any information it considers necessary or appropriate, including, without limitation, user profile information (i.e. name, e-mail address, etc.), IP addressing and traffic information, usage history, and posted Content. <em>Boeing's right to disclose any such information shall govern over any terms of Boeing's Privacy Policy.</em></p>
+<p><em>Responsibility for Your Conduct.</em> You shall remain solely liable for the Content of any messages or other information you upload or transmit to this Site, including the discussion forums or interactive areas of the Site. You agree to indemnify and hold harmless Boeing from any claim, action, demand, loss, or damages (including attorneys' fees) made or incurred by any third party arising out of or relating to your conduct, your violation of these Site Terms, or your violation of any rights of a third party.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-90766c37e6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:07:51Z&#34;,&#34;dc:title&#34;:&#34;Linking&#34;}}" id="title-90766c37e6" class="cmp-title">
+    <h5 class="cmp-title__text">Linking</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-66efef0e53&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:08:03Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>&lt;em>Links to the Site.&lt;/em> You are granted a limited, non-exclusive right to create a hyperlink to this Site provided such link does not portray Boeing or any of its products and services in a false, misleading, derogatory or otherwise defamatory manner. You may not use a Boeing logo or other proprietary graphic or trademark of Boeing to link to this Site without the express written permission of Boeing. This limited right may be revoked at any time.&lt;/p>\r\n&lt;p>&lt;em>Third-Party Links.&lt;/em> Boeing makes no claim or representation regarding, and accepts no responsibility for, the quality, content, nature or reliability of third-party sites accessible by hyperlink from this Site, or third-party sites linking to this Site. The third-party linked sites are not under the control of Boeing and Boeing is not responsible for the content of any third-party linked site or any link contained in a third-party linked site, or any review, changes or updates to such sites. Boeing is providing these links to you only as a convenience, and the inclusion of any link does not imply affiliation, endorsement, or adoption by Boeing of the site or any information contained therein. When leaving the Boeing Site, you should be aware that Boeing&#39;s terms and policies no longer govern, and, therefore, you should review the applicable terms and policies, including privacy and data gathering practices, of that site.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-66efef0e53" class="cmp-text">
+    <p><em>Links to the Site.</em> You are granted a limited, non-exclusive right to create a hyperlink to this Site provided such link does not portray Boeing or any of its products and services in a false, misleading, derogatory or otherwise defamatory manner. You may not use a Boeing logo or other proprietary graphic or trademark of Boeing to link to this Site without the express written permission of Boeing. This limited right may be revoked at any time.</p>
+<p><em>Third-Party Links.</em> Boeing makes no claim or representation regarding, and accepts no responsibility for, the quality, content, nature or reliability of third-party sites accessible by hyperlink from this Site, or third-party sites linking to this Site. The third-party linked sites are not under the control of Boeing and Boeing is not responsible for the content of any third-party linked site or any link contained in a third-party linked site, or any review, changes or updates to such sites. Boeing is providing these links to you only as a convenience, and the inclusion of any link does not imply affiliation, endorsement, or adoption by Boeing of the site or any information contained therein. When leaving the Boeing Site, you should be aware that Boeing's terms and policies no longer govern, and, therefore, you should review the applicable terms and policies, including privacy and data gathering practices, of that site.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-eb4d24c63c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:08:15Z&#34;,&#34;dc:title&#34;:&#34;General Submissions&#34;}}" id="title-eb4d24c63c" class="cmp-title">
+    <h5 class="cmp-title__text">General Submissions</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-a2ba8c308f&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:08:29Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Do not use this Site as a means of submitting information you consider to be proprietary. Confidential and proprietary information should be submitted only in connection with those Boeing Sites specifically allowing and providing for its receipt and protection. Except as otherwise expressly provided in the terms of use for your transactions with a Boeing Site or in a written agreement with Boeing applicable to your particular use of a Boeing Site, any submission of materials by you will be considered a contribution to Boeing for further use in its sole discretion, regardless of any proprietary claims or reservation of rights noted in the submission. Accordingly, you agree that any materials, including but not limited to questions, comments, suggestions, ideas, plans, notes, drawings, original or creative materials or other information, provided by you in the form of e-mail or submissions to Boeing, or postings on this Site, are non-confidential (subject to Boeing&#39;s Privacy Policy) and shall become the sole property of Boeing. Boeing shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use of these materials for any purpose, commercial or otherwise, without acknowledgment or compensation to you. The submission of any materials to Boeing, including the posting of materials to any forum or interactive area, irrevocably waives any and all &amp;quot;moral rights&amp;quot; in such materials, including the rights of paternity and integrity.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-a2ba8c308f" class="cmp-text">
+    <p>Do not use this Site as a means of submitting information you consider to be proprietary. Confidential and proprietary information should be submitted only in connection with those Boeing Sites specifically allowing and providing for its receipt and protection. Except as otherwise expressly provided in the terms of use for your transactions with a Boeing Site or in a written agreement with Boeing applicable to your particular use of a Boeing Site, any submission of materials by you will be considered a contribution to Boeing for further use in its sole discretion, regardless of any proprietary claims or reservation of rights noted in the submission. Accordingly, you agree that any materials, including but not limited to questions, comments, suggestions, ideas, plans, notes, drawings, original or creative materials or other information, provided by you in the form of e-mail or submissions to Boeing, or postings on this Site, are non-confidential (subject to Boeing's Privacy Policy) and shall become the sole property of Boeing. Boeing shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use of these materials for any purpose, commercial or otherwise, without acknowledgment or compensation to you. The submission of any materials to Boeing, including the posting of materials to any forum or interactive area, irrevocably waives any and all &quot;moral rights&quot; in such materials, including the rights of paternity and integrity.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-b3aa129489&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:08:43Z&#34;,&#34;dc:title&#34;:&#34;Export Restrictions&#34;}}" id="title-b3aa129489" class="cmp-title">
+    <h5 class="cmp-title__text">Export Restrictions</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-3861d16400&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:08:54Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Any software and all underlying information and technology downloaded from this Site (collectively the &amp;quot;Software&amp;quot;) by you may be subject to U.S. export controls, including the Export Administration Act (50 U.S.C. Appx. §§ 2401 et seq.) and the Export Administration Regulations (&amp;quot;EAR&amp;quot;, 50 C.F.R. Parts 730-774), and may be subject to export or import regulations in other countries. You are responsible for complying with all trade regulations and laws both foreign and domestic. Except as authorized by law, you agree and warrant not to export or re-export the Software to any country, or to any person, entity, or end-user subject to U.S. export controls, including without limitation persons or entities listed on the U.S. Department of Commerce Bureau of Export Administration&#39;s Denied Parties List and the U.S. Department of Treasury&#39;s Specially Designated Nationals. You further represent and warrant that no U.S. federal agency has suspended, revoked, or denied your export privileges.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-3861d16400" class="cmp-text">
+    <p>Any software and all underlying information and technology downloaded from this Site (collectively the &quot;Software&quot;) by you may be subject to U.S. export controls, including the Export Administration Act (50 U.S.C. Appx. §§ 2401 et seq.) and the Export Administration Regulations (&quot;EAR&quot;, 50 C.F.R. Parts 730-774), and may be subject to export or import regulations in other countries. You are responsible for complying with all trade regulations and laws both foreign and domestic. Except as authorized by law, you agree and warrant not to export or re-export the Software to any country, or to any person, entity, or end-user subject to U.S. export controls, including without limitation persons or entities listed on the U.S. Department of Commerce Bureau of Export Administration's Denied Parties List and the U.S. Department of Treasury's Specially Designated Nationals. You further represent and warrant that no U.S. federal agency has suspended, revoked, or denied your export privileges.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-73a7b0d7eb&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:09:12Z&#34;,&#34;dc:title&#34;:&#34;Financial Material Disclosure&#34;}}" id="title-73a7b0d7eb" class="cmp-title">
+    <h5 class="cmp-title__text">Financial Material Disclosure</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-43ce93e8d6&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:09:38Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>&lt;em>Forward-Looking Statements.&lt;/em> This Site, and any documents issued by Boeing and available through this Site, may contain statements which constitute forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Those statements can be identified by the use of words such as &amp;quot;believe,&amp;quot; &amp;quot;expect,&amp;quot; &amp;quot;plan,&amp;quot; &amp;quot;may,&amp;quot; &amp;quot;will,&amp;quot; &amp;quot;should,&amp;quot; &amp;quot;anticipate&amp;quot; or similar statements or the negative of these words. Forward-looking statements include statements made as to future operations, costs, capital expenditures, cash flow, improvements in infrastructure, distribution and replenishment systems and operating efficiencies, sales and earnings estimates or trends and expansion plans and projections. These forward-looking statements are based on our current expectations. Known and unknown internal and external risks and uncertainties may cause the actual results to be materially different from those expressed in or implied by the forward-looking statements. The information contained in the most recent Boeing Annual Reports to stockholders, including information contained under the section captioned &amp;quot;Management&#39;s Discussion and Analysis,&amp;quot; as well as other information included under the caption &amp;quot;Risk Factors&amp;quot; and/or in other Boeing filings with the Securities and Exchange Commission, identifies important factors that could cause actual results to differ from those contemplated by forward-looking statements. Boeing undertakes no obligation to update forward-looking statements to reflect events or circumstances that occur after the date the statements were made.&lt;/p>\r\n&lt;p>&lt;em>Press Releases.&lt;/em> The information contained within press releases issued by Boeing should not be deemed accurate or current except as of the date the release was posted. Boeing has no intention of updating, and specifically disclaims any duty to update, the information in the press releases. To the extent any information therein is forward-looking, it is intended to fit within the safe harbor for forward-looking statements, and is subject to material risk.&lt;/p>\r\n&lt;p>&lt;em>Third-Party Financial Information.&lt;/em> Boeing may provide links to third-party Web sites or services that contain financial or investment information about Boeing. Access to such Web sites and the information contained therein is provided as service to those interested in the information. Boeing neither regularly monitors nor has control over the content of third parties&#39; statements or Web sites. Accordingly, Boeing does not endorse or adopt these Web sites or any information contained therein, including, without limitation, analyst&#39;s reports and stock quotes. Boeing makes no representations or warranties whatsoever regarding the accuracy or completeness of the content, information, or opinions of third-party Web sites or other third-party information that is identified on the Site. Users visit these Web sites and use the information contained therein at their own risk.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-43ce93e8d6" class="cmp-text">
+    <p><em>Forward-Looking Statements.</em> This Site, and any documents issued by Boeing and available through this Site, may contain statements which constitute forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995. Those statements can be identified by the use of words such as &quot;believe,&quot; &quot;expect,&quot; &quot;plan,&quot; &quot;may,&quot; &quot;will,&quot; &quot;should,&quot; &quot;anticipate&quot; or similar statements or the negative of these words. Forward-looking statements include statements made as to future operations, costs, capital expenditures, cash flow, improvements in infrastructure, distribution and replenishment systems and operating efficiencies, sales and earnings estimates or trends and expansion plans and projections. These forward-looking statements are based on our current expectations. Known and unknown internal and external risks and uncertainties may cause the actual results to be materially different from those expressed in or implied by the forward-looking statements. The information contained in the most recent Boeing Annual Reports to stockholders, including information contained under the section captioned &quot;Management's Discussion and Analysis,&quot; as well as other information included under the caption &quot;Risk Factors&quot; and/or in other Boeing filings with the Securities and Exchange Commission, identifies important factors that could cause actual results to differ from those contemplated by forward-looking statements. Boeing undertakes no obligation to update forward-looking statements to reflect events or circumstances that occur after the date the statements were made.</p>
+<p><em>Press Releases.</em> The information contained within press releases issued by Boeing should not be deemed accurate or current except as of the date the release was posted. Boeing has no intention of updating, and specifically disclaims any duty to update, the information in the press releases. To the extent any information therein is forward-looking, it is intended to fit within the safe harbor for forward-looking statements, and is subject to material risk.</p>
+<p><em>Third-Party Financial Information.</em> Boeing may provide links to third-party Web sites or services that contain financial or investment information about Boeing. Access to such Web sites and the information contained therein is provided as service to those interested in the information. Boeing neither regularly monitors nor has control over the content of third parties' statements or Web sites. Accordingly, Boeing does not endorse or adopt these Web sites or any information contained therein, including, without limitation, analyst's reports and stock quotes. Boeing makes no representations or warranties whatsoever regarding the accuracy or completeness of the content, information, or opinions of third-party Web sites or other third-party information that is identified on the Site. Users visit these Web sites and use the information contained therein at their own risk.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-f3f949fa38&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:09:53Z&#34;,&#34;dc:title&#34;:&#34;Disclaimers&#34;}}" id="title-f3f949fa38" class="cmp-title">
+    <h5 class="cmp-title__text">Disclaimers</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-6d6a06e5bb&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:10:04Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>&lt;em>&amp;quot;AS IS&amp;quot; BASIS.&lt;/em> THIS SITE AND THE MATERIALS CONTAINED HEREIN ARE PROVIDED ON AN &amp;quot;AS IS&amp;quot; BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. YOU EXPRESSLY AGREE THAT USE OF THIS SITE, INCLUDING ALL CONTENT, DATA OR SOFTWARE DISTRIBUTED BY, DOWNLOADED OR ACCESSED FROM OR THROUGH THIS SITE, IS AT YOUR SOLE RISK.&lt;/p>\r\n&lt;p>&lt;em>WARRANTY DISCLAIMER.&lt;/em> BOEING DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT AS TO THE INFORMATION, MATERIALS, CONTENT, SERVICES AND PRODUCTS ON THE SITE. BOEING DOES NOT REPRESENT OR WARRANT THAT MATERIALS IN THIS SITE ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR-FREE. BOEING IS NOT RESPONSIBLE FOR TYPOGRAPHICAL ERRORS OR OMISSIONS RELATING TO PRICING, TEXT, OR PHOTOGRAPHY. WHILE BOEING ATTEMPTS TO ASSURE YOUR ACCESS AND USE OF THE SITE IS SAFE, BOEING CANNOT AND DOES NOT REPRESENT OR WARRANT THAT THIS SITE OR ITS SERVER(S) ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.&lt;/p>\r\n&lt;p>Boeing reserves the right to change any and all content contained on this Site at any time without notice. Reference to any products, services, processes, or other information, by trade name, trademark, manufacturer, supplier, or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof by Boeing.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-6d6a06e5bb" class="cmp-text">
+    <p><em>&quot;AS IS&quot; BASIS.</em> THIS SITE AND THE MATERIALS CONTAINED HEREIN ARE PROVIDED ON AN &quot;AS IS&quot; BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. YOU EXPRESSLY AGREE THAT USE OF THIS SITE, INCLUDING ALL CONTENT, DATA OR SOFTWARE DISTRIBUTED BY, DOWNLOADED OR ACCESSED FROM OR THROUGH THIS SITE, IS AT YOUR SOLE RISK.</p>
+<p><em>WARRANTY DISCLAIMER.</em> BOEING DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT AS TO THE INFORMATION, MATERIALS, CONTENT, SERVICES AND PRODUCTS ON THE SITE. BOEING DOES NOT REPRESENT OR WARRANT THAT MATERIALS IN THIS SITE ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR-FREE. BOEING IS NOT RESPONSIBLE FOR TYPOGRAPHICAL ERRORS OR OMISSIONS RELATING TO PRICING, TEXT, OR PHOTOGRAPHY. WHILE BOEING ATTEMPTS TO ASSURE YOUR ACCESS AND USE OF THE SITE IS SAFE, BOEING CANNOT AND DOES NOT REPRESENT OR WARRANT THAT THIS SITE OR ITS SERVER(S) ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.</p>
+<p>Boeing reserves the right to change any and all content contained on this Site at any time without notice. Reference to any products, services, processes, or other information, by trade name, trademark, manufacturer, supplier, or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof by Boeing.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-f5c10090e5&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:10:19Z&#34;,&#34;dc:title&#34;:&#34;Limitation of Liability&#34;}}" id="title-f5c10090e5" class="cmp-title">
+    <h5 class="cmp-title__text">Limitation of Liability</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-84f4dc8790&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:10:42Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>IN NO EVENT SHALL BOEING BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE), OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THIS SITE OR THE MATERIALS CONTAINED IN, OR ACCESSED THROUGH, THIS SITE.&lt;/p>\r\n&lt;p>IN NO EVENT SHALL THE AGGREGATE LIABILITY OF BOEING (WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY OR OTHER THEORY) ARISING OUT OF OR RELATING TO THE USE OF BOEING&#39;S SITE EXCEED $5.00 OR THE COMPENSATION YOU PAID BOEING, WHICHEVER IS LESS.&lt;/p>\r\n&lt;p>Certain laws do not allow limitations on implied warranties, or the exclusion or limitation of certain damages. If these laws apply, some or all of the above disclaimers, exclusions, or limitations, may not apply to you, and you may have additional rights to those contained herein.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-84f4dc8790" class="cmp-text">
+    <p>IN NO EVENT SHALL BOEING BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE), OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THIS SITE OR THE MATERIALS CONTAINED IN, OR ACCESSED THROUGH, THIS SITE.</p>
+<p>IN NO EVENT SHALL THE AGGREGATE LIABILITY OF BOEING (WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY OR OTHER THEORY) ARISING OUT OF OR RELATING TO THE USE OF BOEING'S SITE EXCEED $5.00 OR THE COMPENSATION YOU PAID BOEING, WHICHEVER IS LESS.</p>
+<p>Certain laws do not allow limitations on implied warranties, or the exclusion or limitation of certain damages. If these laws apply, some or all of the above disclaimers, exclusions, or limitations, may not apply to you, and you may have additional rights to those contained herein.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-d9b9a6df47&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:10:57Z&#34;,&#34;dc:title&#34;:&#34;Applicable Law and Venue&#34;}}" id="title-d9b9a6df47" class="cmp-title">
+    <h5 class="cmp-title__text">Applicable Law and Venue</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-a8a05de2a9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:11:07Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>These terms and conditions shall be governed by and construed in accordance with the laws of the State of Washington, applicable to agreements made and entirely to be performed within the State of Washington, without resort to its conflict of law provisions. You agree that any action at law or in equity arising out of or relating to these terms and conditions shall be filed only in state or federal court located in King County, Washington, and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action or proceeding arising out of these terms and conditions.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-a8a05de2a9" class="cmp-text">
+    <p>These terms and conditions shall be governed by and construed in accordance with the laws of the State of Washington, applicable to agreements made and entirely to be performed within the State of Washington, without resort to its conflict of law provisions. You agree that any action at law or in equity arising out of or relating to these terms and conditions shall be filed only in state or federal court located in King County, Washington, and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action or proceeding arising out of these terms and conditions.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-6d0c280b6c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:11:22Z&#34;,&#34;dc:title&#34;:&#34;Termination&#34;}}" id="title-6d0c280b6c" class="cmp-title">
+    <h5 class="cmp-title__text">Termination</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-d6a4150bb7&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:11:37Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Notwithstanding any of these terms and conditions, Boeing reserves the right, without notice and in its sole discretion, to terminate your license to use the Site, and to block or prevent future access to and use of the Site.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-d6a4150bb7" class="cmp-text">
+    <p>Notwithstanding any of these terms and conditions, Boeing reserves the right, without notice and in its sole discretion, to terminate your license to use the Site, and to block or prevent future access to and use of the Site.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-ac174c7d4c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:11:50Z&#34;,&#34;dc:title&#34;:&#34;Severability&#34;}}" id="title-ac174c7d4c" class="cmp-title">
+    <h5 class="cmp-title__text">Severability</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-59e761ec77&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:12:03Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>If any provision of these Site Terms shall be deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these terms and conditions and shall not affect the validity and enforceability of any remaining provisions.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-59e761ec77" class="cmp-text">
+    <p>If any provision of these Site Terms shall be deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these terms and conditions and shall not affect the validity and enforceability of any remaining provisions.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-50a7bae46c&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:12:22Z&#34;,&#34;dc:title&#34;:&#34;Social Media&#34;}}" id="title-50a7bae46c" class="cmp-title">
+    <h5 class="cmp-title__text">Social Media</h5>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-c4e770dafd&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-15T21:12:32Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>Our social media pages/channels (Facebook, Twitter, LinkedIn, FlickR, Glassdoor and YouTube) (“Sites”) are a place for you to learn more about Boeing. Neither The Boeing Company nor any of its subsidiaries are responsible for third party content posted or appearing on these Sites, including but not limited to content and links posted by users. Boeing does not control or endorse nor is it responsible for third party content and makes no representations regarding the accuracy of content, information, opinions, claims, or advice shared by Boeing fans.&lt;/p>\r\n&lt;p>Boeing does not condone or allow use of social media community space for content not related to Boeing. We reserve the right to remove postings that are: (a) abusive, defamatory, or obscene; (b) fraudulent, deceptive or misleading; (c) in violation of copyright or intellectual property laws; (d) contain advertising or SPAM; (e) and any other content that Boeing may deem inappropriate.&lt;/p>\r\n&lt;p>Boeing reserves the right to ban and block individuals who do not follow these basic rules of engagement. We are excited that you&#39;ve decided to visit our social media pages/channels, and look forward to sharing our stories with you. When visiting Boeing’s social media pages/channels on these Sites you should also be aware and familiarize yourself with the site owner’s terms of service as posted on the Sites.&lt;/p>\r\n&lt;p>&lt;a href=\&#34;https://www.boeing.com/site-terms.page#provisions\&#34;>Return to list&lt;/a>&lt;/p>\r\n&#34;}}" id="text-c4e770dafd" class="cmp-text">
+    <p>Our social media pages/channels (Facebook, Twitter, LinkedIn, FlickR, Glassdoor and YouTube) (“Sites”) are a place for you to learn more about Boeing. Neither The Boeing Company nor any of its subsidiaries are responsible for third party content posted or appearing on these Sites, including but not limited to content and links posted by users. Boeing does not control or endorse nor is it responsible for third party content and makes no representations regarding the accuracy of content, information, opinions, claims, or advice shared by Boeing fans.</p>
+<p>Boeing does not condone or allow use of social media community space for content not related to Boeing. We reserve the right to remove postings that are: (a) abusive, defamatory, or obscene; (b) fraudulent, deceptive or misleading; (c) in violation of copyright or intellectual property laws; (d) contain advertising or SPAM; (e) and any other content that Boeing may deem inappropriate.</p>
+<p>Boeing reserves the right to ban and block individuals who do not follow these basic rules of engagement. We are excited that you've decided to visit our social media pages/channels, and look forward to sharing our stories with you. When visiting Boeing’s social media pages/channels on these Sites you should also be aware and familiarize yourself with the site owner’s terms of service as posted on the Sites.</p>
+<p><a href="https://www.boeing.com/site-terms.page#provisions">Return to list</a></p>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<footer class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-760d8c4b35" class="cmp-experiencefragment cmp-experiencefragment--footer-with-sub-footer">
+
+
+    
+    <div id="container-6e6d1bf16d" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-5c334c56c9" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    <div id="container-df6f5c8032" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="spacer aem-GridColumn aem-GridColumn--default--12">
+  
+<div id="spacer-1ffbabb9ab" class="cmp-spacer" style="margin-top: 10px; margin-bottom: 9px">
+</div></div>
+<div class="container responsivegrid cmp-footer aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-5bc99768fc" class="cmp-container">
+        
+        <div class="container responsivegrid footer-list-container">
+
+    
+    
+    
+    <div id="container-a8b25236ed" class="cmp-container">
+        
+        <div class="title">
+<div data-cmp-data-layer="{&#34;title-db989bab82&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-08T19:59:52Z&#34;,&#34;dc:title&#34;:&#34;Utilities&#34;}}" id="title-db989bab82" class="cmp-title">
+    <h3 class="cmp-title__text">Utilities</h3>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-459d7b1bed&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-19T19:40:38Z&#34;,&#34;xdm:text&#34;:&#34;&lt;ul>\r\n&lt;li>&lt;a href=\&#34;http://boeing.mediaroom.com/\&#34; target=\&#34;_blank\&#34;>News&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;http://investors.boeing.com/\&#34; target=\&#34;_blank\&#34;>Investors&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/employee-and-retiree.html\&#34;>Employee/Retiree&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/emergency.html\&#34;>Emergency Information&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;http://www.boeingstore.com/\&#34; target=\&#34;_blank\&#34;>Merchandise&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;http://www.boeingsuppliers.com/\&#34; target=\&#34;_blank\&#34;>Suppliers&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/history.html\&#34;>Our History&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-459d7b1bed" class="cmp-text">
+    <ul>
+<li><a href="http://boeing.mediaroom.com/" target="_blank">News</a></li>
+<li><a href="http://investors.boeing.com/" target="_blank">Investors</a></li>
+<li><a href="/employee-and-retiree">Employee/Retiree</a></li>
+<li><a href="/emergency">Emergency Information</a></li>
+<li><a href="http://www.boeingstore.com/" target="_blank">Merchandise</a></li>
+<li><a href="http://www.boeingsuppliers.com/" target="_blank">Suppliers</a></li>
+<li><a href="/history">Our History</a></li>
+</ul>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid footer-list-container">
+
+    
+    
+    
+    <div id="container-962a058939" class="cmp-container">
+        
+        <div class="title">
+<div data-cmp-data-layer="{&#34;title-86ff8ed65d&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-14T22:12:05Z&#34;,&#34;dc:title&#34;:&#34;Categories&#34;}}" id="title-86ff8ed65d" class="cmp-title">
+    <h3 class="cmp-title__text">Categories</h3>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-e138f391f9&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-19T19:43:34Z&#34;,&#34;xdm:text&#34;:&#34;&lt;ul>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/commercial.html\&#34;>Commercial&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/defense.html\&#34;>Defense&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/space.html\&#34;>Space&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/services.html\&#34;>Services&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/safety.html\&#34;>Safety&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/innovation.html\&#34;>Innovation&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/global.html\&#34;>Global&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/sustainability.html\&#34;>Sustainability (ESG)&lt;br>\r\n&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://jobs.boeing.com/\&#34; target=\&#34;_blank\&#34;>Careers&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/company.html\&#34;>Our Company&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-e138f391f9" class="cmp-text">
+    <ul>
+<li><a href="/commercial">Commercial</a></li>
+<li><a href="/defense">Defense</a></li>
+<li><a href="/space">Space</a></li>
+<li><a href="/services">Services</a></li>
+<li><a href="/safety">Safety</a></li>
+<li><a href="/innovation">Innovation</a></li>
+<li><a href="/global">Global</a></li>
+<li><a href="/sustainability">Sustainability (ESG)<br />
+</a></li>
+<li><a href="https://jobs.boeing.com/" target="_blank">Careers</a></li>
+<li><a href="/company">Our Company</a></li>
+</ul>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid footer-list-container">
+
+    
+    
+    
+    <div id="container-844608a0ff" class="cmp-container">
+        
+        <div class="title">
+<div data-cmp-data-layer="{&#34;title-20ee4d4583&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-08T15:35:15Z&#34;,&#34;dc:title&#34;:&#34;Popular Links&#34;}}" id="title-20ee4d4583" class="cmp-title">
+    <h3 class="cmp-title__text">Popular Links</h3>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-81623b69e3&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-19T19:47:18Z&#34;,&#34;xdm:text&#34;:&#34;&lt;ul>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/commercial.html#orders-deliveries\&#34;>Orders &amp;amp; Deliveries&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/company/tours.html\&#34;>Tours&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/sustainability/ethics-and-compliance.html\&#34;>Ethics Line&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/company/key-orgs/licensing.html\&#34;>Licensing&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;https://investmentrecovery.boeing.com/Default.aspx\&#34; target=\&#34;_blank\&#34;>Investment Recovery&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/faqs-and-requests.html\&#34;>Frequently Requested&lt;/a>&lt;/li>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/contact-us.html\&#34;>Contact Us&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-81623b69e3" class="cmp-text">
+    <ul>
+<li><a href="/commercial#orders-deliveries">Orders &amp; Deliveries</a></li>
+<li><a href="/company/tours">Tours</a></li>
+<li><a href="/sustainability/ethics-and-compliance">Ethics Line</a></li>
+<li><a href="/company/key-orgs/licensing">Licensing</a></li>
+<li><a href="https://investmentrecovery.boeing.com/Default.aspx" target="_blank">Investment Recovery</a></li>
+<li><a href="/faqs-and-requests">Frequently Requested</a></li>
+<li><a href="/contact-us">Contact Us</a></li>
+</ul>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid footer-list-container">
+
+    
+    
+    
+    <div id="container-6f47c079f6" class="cmp-container">
+        
+        <div class="title">
+<div data-cmp-data-layer="{&#34;title-7dd89c2cc0&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-08T15:35:52Z&#34;,&#34;dc:title&#34;:&#34;Follow Boeing&#34;}}" id="title-7dd89c2cc0" class="cmp-title">
+    <h3 class="cmp-title__text">Follow Boeing</h3>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-583b25ceb7&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-19T19:47:30Z&#34;,&#34;xdm:text&#34;:&#34;&lt;ul>\r\n&lt;li>&lt;a href=\&#34;https://boeing.mediaroom.com/social-media-center\&#34; target=\&#34;_blank\&#34;>All Social Channels&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-583b25ceb7" class="cmp-text">
+    <ul>
+<li><a href="https://boeing.mediaroom.com/social-media-center" target="_blank">All Social Channels</a></li>
+</ul>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid footer-list-container">
+
+    
+    
+    
+    <div id="container-e9fa15ce82" class="cmp-container">
+        
+        <div class="title">
+<div data-cmp-data-layer="{&#34;title-3f61910195&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-08T15:36:34Z&#34;,&#34;dc:title&#34;:&#34;Updates&#34;}}" id="title-3f61910195" class="cmp-title">
+    <h3 class="cmp-title__text">Updates</h3>
+</div>
+
+    
+
+</div>
+<div class="text">
+<div data-cmp-data-layer="{&#34;text-688bcba856&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-19T19:47:50Z&#34;,&#34;xdm:text&#34;:&#34;&lt;ul>\r\n&lt;li>&lt;a href=\&#34;/content/theboeingcompany/us/en/manage/preference-center.html\&#34;>Sign Up&lt;/a>&lt;/li>\r\n&lt;/ul>\r\n&#34;}}" id="text-688bcba856" class="cmp-text">
+    <ul>
+<li><a href="/manage/preference-center">Sign Up</a></li>
+</ul>
+
+</div>
+
+    
+
+</div>
+<div class="title">
+<div data-cmp-data-layer="{&#34;title-e106392f88&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/title&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-01T18:38:14Z&#34;,&#34;dc:title&#34;:&#34;Stock Price&#34;}}" id="title-e106392f88" class="cmp-title">
+    <h3 class="cmp-title__text">Stock Price</h3>
+</div>
+
+    
+
+</div>
+<div class="stock-ticker"><div class="cmp-stock-ticker stock-quote list-with-title" data-cmp-is="stock-ticker">
+    <p class="stock-quote-name">
+        <span class="stock-quote-symbol">BA</span> (NYSE)
+    </p>
+    <span class="stock-quote-img"></span>
+    <p class="stock-quote-price">
+    <span class="open" id="stockprice"></span>
+    <span class="stock-quote-change">
+        <span class="change" id="stockchange"></span>
+        <span id="stockper" class="pchange"></span>
+    </span>
+    </p>
+    <p class="stock-quote-dt" id="stockdate"></p>
+</div></div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-4a05bcb8cd" class="cmp-experiencefragment cmp-experiencefragment--sub-footer">
+
+
+    
+    <div id="container-57ae28756c" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="container responsivegrid cmp-sub-footer aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-70a4c15994" class="cmp-container">
+        
+        <div class="container responsivegrid cmp-sub-footer-copyright">
+
+    
+    
+    
+    <div id="container-10b8dfca42" class="cmp-container">
+        
+        <div class="super-embed embed">
+<div data-cmp-data-layer="{&#34;super-embed-7a8c94d6ea&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/super-embed&#34;,&#34;repo:modifyDate&#34;:&#34;2024-01-03T18:46:07Z&#34;}}" id="super-embed-7a8c94d6ea" class="cmp-embed">
+    
+    Copyright &copy; 1995 - <span id="footerCopyright"><script>document.getElementById('footerCopyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span> Boeing. All Rights Reserved.
+    
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid cmp-sub-footer-links">
+
+    
+    
+    
+    <div id="container-c0b8265af4" class="cmp-container">
+        
+        <div class="super-embed embed">
+<div data-cmp-data-layer="{&#34;super-embed-5fe4f90b32&#34;:{&#34;@type&#34;:&#34;theboeingcompany/components/super-embed&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-29T00:17:39Z&#34;}}" id="super-embed-5fe4f90b32" class="cmp-embed">
+    
+    <p><a href="/terms-of-submission-and-privacy-policy/site-terms">Site Terms</a>&nbsp;|&nbsp;<a href="/privacy-and-cookie-policy">Privacy and Cookie Statement</a>&nbsp;|&nbsp;<a href="/privacy-and-cookie-policy#IBA">Ad Choices</a>&nbsp;|&nbsp;<a class="ot-sdk-show-settings" href="javascript:void(0)">Cookie Settings</a></p>
+
+    
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</footer>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+
+              
+    
+    <script src="/etc.clientlibs/theboeingcompany/clientlibs/clientlib-site.min.js"></script>
+<script src="/etc.clientlibs/theboeingcompany/clientlibs/clientlib-jquery.min.js"></script>
+
+
+    
+
+    
+    <script async src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.min.js"></script>
+<script async src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.js"></script>
+<script async src="/etc.clientlibs/theboeingcompany/clientlibs/clientlib-base.min.js"></script>
+
+
+
+
+
+    
+
+    
+
+    
+    
+
+          
+      </body>
+  </html>

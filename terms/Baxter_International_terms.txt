@@ -1,0 +1,761 @@
+
+  
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="no-js">
+
+<head>
+  <meta charset="utf-8" />
+<link rel="canonical" href="https://www.baxter.com/terms-use" />
+<meta property="og:site_name" content="Baxter" />
+<meta property="og:url" content="https://www.baxter.com/terms-use" />
+<meta property="og:title" content="Terms of Use" />
+<meta property="og:image:url" content="https://www.baxter.com/sites/g/files/ebysai3896/files/styles/long_image/public/2018-05/MW4_0925.jpg?itok=UkTQgqz3" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1600" />
+<meta property="og:image:height" content="686" />
+<meta property="og:image:alt" content="Baxter Corporate Headquarters" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" hreflang="en" href="https://www.baxter.com/terms-use" />
+<link rel="icon" href="/core/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="/sites/g/files/ebysai3896/files/google_tag/baxter.com/google_tag.script.js?skmvz4" defer></script>
+
+  <title>Terms of Use | Baxter</title>
+  <link rel="preload" href="/profiles/custom/bax_base/themes/bax_base_theme/build/fonts/roboto/roboto-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/profiles/custom/bax_base/themes/bax_base_theme/build/fonts/geogrotesque/36876D_0_0.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/profiles/custom/bax_base/themes/bax_base_theme/build/fonts/geogrotesque/367E70_0_0.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/profiles/custom/bax_base/themes/bax_base_theme/build/fonts/geogrotesque/368766_0_0.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="/profiles/custom/bax_base/themes/bax_base_theme/build/fonts/icomoon/icomoon.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+<script>
+  // If fonts are cached, skip FFO.
+  if (sessionStorage.fontsLoaded === 'true') {
+    document.documentElement.classList.add('fonts-loaded');
+  }
+  else {
+    var script = document.createElement('script');
+    script.src = "/profiles/custom/bax_base/themes/bax_base_theme/build/scripts/fontloader.built.js";
+    script.async = true;
+    document.head.appendChild(script);
+  }
+</script>  <link rel="stylesheet" media="all" href="/sites/g/files/ebysai3896/files/css/css_1VlAJGUJ5QT7obeRuVAXA4YRH7pCZYZZAmLx7ycNACI.css?delta=0&amp;language=en&amp;theme=bax_commercial_theme&amp;include=eJxljUEOwyAMBD8E4UnRUlygMgHZpiq_r3poI6W31cxIm2BgLJIQqeBZu6jTpUYtRCi5iNf-GbsVahQe6u-9G8lVZO4R7NUW1yP_WWs-fZ_cgCALRtGQZA7wdpJtHmNGrlooOTVYVau3X3iSNzACSJM" />
+<link rel="stylesheet" media="all" href="/sites/g/files/ebysai3896/files/css/css_fO9oc7jti90wsEMH6o7r-d5G_X6zAsB_WueIn7LNSpw.css?delta=1&amp;language=en&amp;theme=bax_commercial_theme&amp;include=eJxljUEOwyAMBD8E4UnRUlygMgHZpiq_r3poI6W31cxIm2BgLJIQqeBZu6jTpUYtRCi5iNf-GbsVahQe6u-9G8lVZO4R7NUW1yP_WWs-fZ_cgCALRtGQZA7wdpJtHmNGrlooOTVYVau3X3iSNzACSJM" />
+
+  
+  <link rel="shortcut icon" href="/profiles/custom/bax_base/themes/bax_base_theme/build/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="/profiles/custom/bax_base/themes/bax_base_theme/build/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/profiles/custom/bax_base/themes/bax_base_theme/build/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/profiles/custom/bax_base/themes/bax_base_theme/build/favicon-16x16.png">
+<link rel="manifest" href="/profiles/custom/bax_base/themes/bax_base_theme/build/site.webmanifest">
+<link rel="mask-icon" href="/profiles/custom/bax_base/themes/bax_base_theme/build/safari-pinned-tab.svg" color="#154898">
+<meta name="msapplication-TileColor" content="#154898">
+<meta name="msapplication-config" content="/profiles/custom/bax_base/themes/bax_base_theme/build/browserconfig.xml">
+<meta name="theme-color" content="#154898">
+  <link rel="dns-prefetch" href="//players.brightcove.com">
+<link rel="dns-prefetch" href="//c.brightcove.com">
+<link rel="dns-prefetch" href="//edge.api.brightcove.com">
+<link rel="dns-prefetch" href="//f1.media.brightcove.com">
+<link rel="dns-prefetch" href="//vjs.zencdn.net">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+</head>
+
+<body class="path-node page-node-type-basic-content">
+
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJQK8KF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <ul class="skip" data-module="SkipLink">
+  <li>
+    <a href="#main-content">
+      Skip to main content
+    </a>
+  </li>
+</ul>
+
+    
+
+<header class="global-header">
+        
+  <div class="wrapper--wide">
+
+        <nav aria-labelledby="block-bax-commercial-utility-menu-menu-label"  id="block-bax-commercial-utility-menu" class="nav__utility">
+  <div class="visually-hidden" id="block-bax-commercial-utility-menu-menu-label">Utility Menu</div>
+        
+              <ul>
+              <li>
+        <a href="/baxter-newsroom" data-drupal-link-system-path="node/1996">News</a>
+      </li>
+          <li>
+        <a href="https://investor.baxter.com">Investors</a>
+      </li>
+          <li>
+        <a href="/careers" data-drupal-link-system-path="node/3001">Careers</a>
+      </li>
+          <li>
+        <a href="/partners-suppliers" data-drupal-link-system-path="node/1731">Partners and Suppliers</a>
+      </li>
+          <li>
+        <a href="/contact-us" data-drupal-link-system-path="node/1881">Contact Us</a>
+      </li>
+          <li>
+        <a href="/location-selector" data-drupal-link-system-path="node/2796">Global Site</a>
+      </li>
+        </ul>
+  
+
+
+  </nav>
+
+  
+          <div class="footer__lower">
+              <a href="/" title="Home" rel="home" class="logo center">
+    <svg xmlns="http://www.w3.org/2000/svg" version="1" viewBox="-.203 -.077 749 127"><path fill="#154898" fill-rule="evenodd" d="M442.803 20.213c13.998-2.363 29.496-1.557 44.05-3.216-.095 6.022-2.83 11.892-4.23 17.89l1.348.88 35.37-.238-3.92 14.927-36.65.58c-5.023 14.88-8.865 30.332-13.147 45.557.07 3.907 3.156 6.16 6.375 7.847 11.16 0 24.25 1.72 34.04-2.146l-4.627 17.02-60.897.485c-8.298-1.296-16.777-8.93-18.426-16.654l.347-10.97c7.115-23.76 13.497-48.015 20.37-71.963zM301.536 37.348c11.05 15.497 21.2 31.215 30.39 47.517-17.155 12.236-34.573 23.85-51.912 35.416l.038.9 28.54-.48 32.298-21.713c4.857 6.804 9.512 13.776 12.12 21.522l54.84-.573c-1.183-.3-2.143-1.702-3.103-2.39l-26.704-43.693 54.172-36.895-.05-.88-32.678 1.062c-8.14 10.027-20.53 15-30.778 22.4-4.496-7.338-10.673-13.958-11.78-22.584l-55.394.39zm354.315-2.253l.644 4.21-19.64 72.353-4.775 7.15h51.835l-1.087-5.79 12.712-48.902c.52-2.844 2.91-5.698 5.716-6.966 10.788.162 26.81-3.452 36.72 2.39l6.372-24.283c-16.218 2.525-38.136-7.336-47.482 9.775-1.55-2.81-.686-6.534-.902-9.912l-40.113-.025zM144.385 6L40 6.442l.174 8.134-26.8 94.527L6 122.603l111.555-.065c10.092.226 18.736-2.926 23.334-10.91 3.347-11.727 9.362-22.758 8.004-35.828-1.628-5.084-5.47-9.773-10.265-12.853 4.724-1.315 9.432-3.016 13.14-6.602 7.913-10 10.332-22.583 10.65-34.937-1.79-7.56-9.856-14.11-18.036-15.408zm-56.5 19.302l27.372.226c3.804 2.074 2.426 7.385 1.543 10.21-2.4 5.706-2.234 13.296-7.84 17.09l-31.39.136 10.315-27.662zM72.06 72.122l29.088-.12c4.028 1.707 3.01 7.186 1.912 10.22-3.686 6.6.554 16.764-7.305 20.44L64.1 102.62c1.35-10.1 5.316-20.38 7.958-30.498zm195.836-34.264l-91.567.298-6.463 15.433c22.074-3.18 45.925-1.06 68.017-1.64 1.922.878 2.91 2.788 3.135 4.72-.89 2.645-.64 6.185-3.85 7.653l-60.258 1.342-10.5 4.89c-8.555 8.814-10.42 20.154-11.156 31.973.514 6.88 5.377 13.182 11.684 16.787 14.04 4.166 33.698 2.12 50.3 1.64 3.812-.953 6.31-4.72 8.112-7.753 1.378 2.48 2.434 5.26 3.25 7.904l43.094.19-1.39-5.795 12.72-46.8c1.99-6.05 3.913-14.538-.398-19.945-2.91-5.43-8.993-8.88-14.728-10.897zm-34 42.93l-6.404 22.7-2.765 2.166-21.753.345c-9.365-5.13-.293-15.525.534-22.955l3.53-2.18 26.86-.076zm392.12-44.844l-82.648-.415c-6.243 1.15-11.86 4.764-15.7 10.1-5.717 17.752-11.08 35.696-14.296 54.433 1.46 8.653 8.406 17.158 17.94 19.143l90.737-.237 7.073-17.454-4.53 1.886-62.188.46-3.253-1.52c-4.996-5.747.943-11.658 1.583-17.522l74.84-1.19c2.047-11.87 10.326-23.652 4.24-36.46-2.558-5.083-8.277-9.75-13.8-11.226zm-52.87 15.32l20.055-.32c1.872.48 3.988 2.204 4.627 4.16-.146 4.21-.978 8.305-2.66 12.21l-29.486.49c2.564-5.526 1.65-13.09 7.463-16.54z"/></svg>
+  </a>
+
+    <nav aria-labelledby="block-bax-commercial-main-nav-menu-label" id="block-bax-commercial-main-nav" class="nav__primary" data-module="MegaNav">
+  <div class="visually-hidden" id="block-bax-commercial-main-nav-menu-label">Main Menu</div>
+        
+        <ul>
+          <li>
+        <a role="button" tabindex="0" aria-haspopup="true" aria-controls="d3eed8ab-6c19-4425-a4e2-a1101197b983" aria-expanded="false" data-menu="d3eed8ab-6c19-4425-a4e2-a1101197b983"  class="arrow-link down-arrow">Patients</a>
+      </li>
+          <li>
+        <a role="button" tabindex="0" aria-haspopup="true" aria-controls="acafacb6-05bc-4702-a5fc-65e374a0e17c" aria-expanded="false" data-menu="acafacb6-05bc-4702-a5fc-65e374a0e17c"  class="arrow-link down-arrow">Healthcare Professionals</a>
+      </li>
+          <li>
+        <a role="button" tabindex="0" aria-haspopup="true" aria-controls="aa43e5ff-af25-496f-aa75-d2786cc95ee9" aria-expanded="false" data-menu="aa43e5ff-af25-496f-aa75-d2786cc95ee9"  class="arrow-link down-arrow">Perspectives</a>
+      </li>
+          <li>
+        <a role="button" tabindex="0" aria-haspopup="true" aria-controls="37f3c650-b899-435c-80cd-9c26f5a81ed5" aria-expanded="false" data-menu="37f3c650-b899-435c-80cd-9c26f5a81ed5"  class="arrow-link down-arrow">Our Story</a>
+      </li>
+        </ul>
+  
+
+
+  </nav>
+
+     
+<nav class="nav__product-search" data-module="SearchToggle">
+                  <ul>
+                        <li>
+            <a href="/healthcare-professionals/our-products" data-menu="77f8904c-bc65-4fa1-b76c-41bb61783db4">Our Products </a>
+          </li>
+                            <li>
+          <button type="button" class="search">
+  <span class="visually-hidden">Search</span>
+  <span class="icon-search"></span>
+</button>
+        </li>
+          </ul>
+
+  </nav>
+
+
+
+
+
+    <button class="menu-toggle" aria-label="Menu" aria-controls="Mobile Navigation" aria-hidden="false">
+  <span class="menu-toggle-box">
+    <span class="menu-toggle-inner"></span>
+  </span>
+</button>
+        </div>
+      </div>
+        <div class="search-bar">
+  <div class="search-bar__inner wrapper--wide">
+          <form action="/search" method="get" id="global-search-form" accept-charset="UTF-8">
+                  <label for="search_api_fulltext" class="visually-hidden">Search</label>
+      <input id="search_api_fulltext" type="text" class="search-bar__input" name="search_api_fulltext" placeholder="Search...">
+            </form>
+  </div>
+</div>
+
+
+                    <div id="mega-nav" class="mega-nav">
+          <div class="mega-nav--inner wrapper--wide" id="navacafacb6-05bc-4702-a5fc-65e374a0e17c">
+    <div class="feature">
+          <h2 class="mega-nav__heading">Healthcare Professionals</h2>
+        <p>      Committed to helping you meet the evolving challenges and opportunities in patient care.
+  </p>
+          <a href="/healthcare-professionals" class="button arrow-link">Healthcare Professionals</a>
+      </div>
+                  <div class="links">
+          <ul>
+                            <li>
+          <a href="/healthcare-professionals/primary-care" class="arrow-link">      Primary Care
+  </a>
+        <p>      Supporting every aspect of your clinical practice, including physical exam, diagnostic cardiology, vitals monitoring and vision screening
+  </p>
+  </li>
+
+          <li>
+          <a href="/healthcare-professionals/hospital-care" class="arrow-link">      Hospital Care
+  </a>
+        <p>      Advancing products and technologies designed to speed patient recovery and streamline clinical workflows
+  </p>
+  </li>
+
+          <li>
+          <a href="/healthcare-professionals/surgical-care" class="arrow-link">      Surgical Care
+  </a>
+        <p>      Delivering innovations that enable reduced operating times, faster patient recovery and improved outcomes
+  </p>
+  </li>
+
+          <li>
+          <a href="/healthcare-professionals/kidney-care" class="arrow-link">      Kidney Care
+  </a>
+        <p>      Pioneering care in hemodialysis (HD), peritoneal dialysis (PD) and digital health to support better outcomes for your patients
+  </p>
+  </li>
+
+          <li>
+          <a href="/healthcare-professionals/nutritional-care" class="arrow-link">      Nutritional Care
+  </a>
+        <p>      Personalizing nutritional care designed to improve patients’ health in the hospital, the ICU and at home
+  </p>
+  </li>
+
+          <li>
+          <a href="/healthcare-professionals/respiratory-care" class="arrow-link">      Respiratory Care
+  </a>
+        <p>      Helping your patients with respiratory therapies designed to simplify delivery and improve mobility
+  </p>
+  </li>
+
+          <li>
+          <a href="/healthcare-professionals/our-products" class="arrow-link">      Our Products
+  </a>
+        <p>      Our portfolio of acute, nutritional, renal, hospital and surgical care products helps advance healthcare around the world.
+  </p>
+  </li>
+
+  
+              </ul>
+        </div>
+            </div>
+
+        <div class="mega-nav--inner wrapper--wide" id="navaa43e5ff-af25-496f-aa75-d2786cc95ee9">
+    <div class="feature">
+          <h2 class="mega-nav__heading">Perspectives</h2>
+        <p>      For nearly a century, we have worked at the intersection of saving and sustaining lives.
+  </p>
+          <a href="/perspectives" class="button arrow-link">Perspectives</a>
+      </div>
+                  <div class="links">
+          <ul>
+                            <li>
+          <a href="/perspectives/patients-stories" class="arrow-link">      Patients&#039; Stories 
+  </a>
+        <p>      Patients’ journeys inspire our work and drive our commitment.
+  </p>
+  </li>
+
+          <li>
+          <a href="/perspectives/healthcare-insights" class="arrow-link">      Healthcare Insights
+  </a>
+        <p>      We’re engaging with industry thought leaders to explore how science and innovation advance healthcare.
+  </p>
+  </li>
+
+          <li>
+          <a href="/perspectives/people-baxter" class="arrow-link">      People of Baxter
+  </a>
+        <p>      We are a community of diverse professionals working together to drive better healthcare options.
+  </p>
+  </li>
+
+          <li>
+          <a href="/perspectives/community-engagement" class="arrow-link">      Community Engagement 
+  </a>
+        <p>      Enriching the communities where we live and work.
+  </p>
+  </li>
+
+  
+              </ul>
+        </div>
+            </div>
+
+        <div class="mega-nav--inner wrapper--wide" id="nav37f3c650-b899-435c-80cd-9c26f5a81ed5">
+    <div class="feature">
+          <h2 class="mega-nav__heading">Our Story</h2>
+        <p>      Our 90-year heritage gives us distinct perspective on the needs of patients and caregivers. We lead today by putting those insights to work to deliver new, better healthcare solutions and access to care in the communities where we live and work.
+  </p>
+          <a href="/our-story" class="button arrow-link">Our Story</a>
+      </div>
+                  <div class="links">
+          <ul>
+                            <li>
+          <a href="/our-story/our-leadership" class="arrow-link">      Our Leadership
+  </a>
+        <p>      Our forward-looking leadership team is a driving force in ensuring we meet the needs of all our stakeholders – every day and everywhere.
+  </p>
+  </li>
+
+          <li>
+          <a href="/our-story/our-governance" class="arrow-link">      Our Governance
+  </a>
+        <p>      We are proud of our strong commitment to maintaining the highest standards of corporate governance.
+  </p>
+  </li>
+
+          <li>
+          <a href="/our-story/fueling-collaborative-innovation" class="arrow-link">      Fueling Collaborative Innovation
+  </a>
+        <p>      Nurturing a culture of innovation is critical to delivering on our mission to save and sustain lives. We partner with the healthcare community to continually find more efficient, smarter ways to help solve the world's most pressing healthcare challenges.
+  </p>
+  </li>
+
+          <li>
+          <a href="/our-story/corporate-responsibility-0" class="arrow-link">      Corporate Responsibility
+  </a>
+        <p>      We strive to create lasting value by empowering our patients, protecting our planet and championing our people and communities.
+  </p>
+  </li>
+
+          <li>
+          <a href="/careers/diversity-equity-inclusion" class="arrow-link">      Diversity, Equity &amp; Inclusion
+  </a>
+        <p>      We are committed to attracting, motivating and retaining an inclusive and diverse workforce.
+  </p>
+  </li>
+
+          <li>
+          <a href="/our-story/our-history" class="arrow-link">      Our History
+  </a>
+        <p>      For nearly a century, we’ve been focused on saving and sustaining lives and elevating patient care.
+  </p>
+  </li>
+
+  
+              </ul>
+        </div>
+            </div>
+
+        <div class="mega-nav--inner wrapper--wide" id="navd3eed8ab-6c19-4425-a4e2-a1101197b983">
+    <div class="feature">
+          <h2 class="mega-nav__heading">Patients</h2>
+        <p>      Helping you reach a healthy life, full of possibility.
+  </p>
+          <a href="/patients" class="button arrow-link">Patients</a>
+      </div>
+                  <div class="links">
+          <ul>
+                            <li>
+          <a href="/patients/general-healthcare" class="arrow-link">      General Healthcare
+  </a>
+        <p>      Whether you are receiving care in the hospital, at your doctor’s office or at home, we are here to support every step of your journey.
+  </p>
+  </li>
+
+          <li>
+          <a href="/patients/nutritional-care" class="arrow-link">      Nutritional Care
+  </a>
+        <p>      When medical conditions prevent you from adequately feeding yourself, we provide life-saving clinical nutrition options to help you regain your nutritional status.
+  </p>
+  </li>
+
+          <li>
+          <a href="/patients/kidney-care" class="arrow-link">      Kidney Care
+  </a>
+        <p>      Kidney disease is an ongoing journey for you and your family. While every journey is unique, Baxter is committed to supporting access to care options to meet your medical and lifestyle needs.
+  </p>
+  </li>
+
+          <li>
+          <a href="/patients/respiratory-care" class="arrow-link">      Respiratory Care
+  </a>
+        <p>      We are committed to helping you with innovative products that deliver effective, proven respiratory therapy in the hospital and at home.
+  </p>
+  </li>
+
+  
+              </ul>
+        </div>
+            </div>
+
+  </div>
+
+      
+  
+    <div class="mobile-nav" data-module="MobileNav">
+  <div class="mobile-nav__content">
+          <div class="search-bar">
+  <div class="search-bar__inner wrapper--wide">
+          <form action="/search" method="get" id="global-search-form" accept-charset="UTF-8">
+                  <label for="search_api_fulltext" class="visually-hidden">Search</label>
+      <input id="search_api_fulltext" type="text" class="search-bar__input" name="search_api_fulltext" placeholder="Search...">
+            </form>
+  </div>
+</div>
+
+    
+        <ul class="mobile-nav__items">
+                    <li class="mobile-nav__item">
+            <a href="/patients" data-drupal-link-system-path="node/5661">Patients</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/healthcare-professionals" data-drupal-link-system-path="node/5631">Healthcare Professionals</a>
+            </li>
+                <li class="mobile-nav__item has-children">
+            <a href="/perspectives" data-drupal-link-system-path="node/1711">Perspectives</a>
+              <span class="subnav__toggle arrow-link down-arrow"></span>
+                  <ul class="mobile-nav__items mobile-nav__subitems">
+                      <li class="mobile-nav__item">
+            <a href="/perspectives/community-engagement" data-drupal-link-system-path="node/1906">Community Engagement</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/perspectives/healthcare-insights" data-drupal-link-system-path="node/1901">Healthcare Insights</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/perspectives/patients-stories" data-drupal-link-system-path="node/1896">Patient Stories</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/perspectives/people-baxter" data-drupal-link-system-path="node/3436">People of Baxter</a>
+            </li>
+      </ul>
+    
+            </li>
+                <li class="mobile-nav__item has-children">
+            <a href="/our-story" data-drupal-link-system-path="node/1796">Our Story</a>
+              <span class="subnav__toggle arrow-link down-arrow"></span>
+                  <ul class="mobile-nav__items mobile-nav__subitems">
+                      <li class="mobile-nav__item">
+            <a href="/our-story/our-leadership" data-drupal-link-system-path="node/1826">Our Leadership</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/our-story/corporate-responsibility-0" data-drupal-link-system-path="node/5136">Corporate Responsibility</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/careers/diversity-equity-inclusion" data-drupal-link-system-path="node/1981">Inclusion &amp; Diversity</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/our-story/our-governance" data-drupal-link-system-path="node/2016">Our Governance</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/our-story/our-history" data-drupal-link-system-path="node/5521">Our History</a>
+            </li>
+      </ul>
+    
+            </li>
+      </ul>
+    
+
+
+    
+        <ul class="mobile-nav__items utility">
+                    <li class="mobile-nav__item">
+            <a href="/baxter-newsroom" class="arrow-link" data-drupal-link-system-path="node/1996">News</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="https://investor.baxter.com" class="arrow-link">Investors</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/careers" class="arrow-link" data-drupal-link-system-path="node/3001">Careers</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/partners-suppliers" class="arrow-link" data-drupal-link-system-path="node/1731">Partners and Suppliers</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/contact-us" class="arrow-link" data-drupal-link-system-path="node/1881">Contact Us</a>
+            </li>
+                  <li class="mobile-nav__item">
+            <a href="/location-selector" class="arrow-link" data-drupal-link-system-path="node/2796">Global Site</a>
+            </li>
+      </ul>
+    
+
+
+    
+        <ul class="mobile-nav__items utility">
+                    <li class="mobile-nav__item">
+            <a href="/healthcare-professionals/our-products" class="arrow-link" data-drupal-link-system-path="node/5741">Our Products </a>
+            </li>
+      </ul>
+    
+
+
+
+    </div>
+</div>
+
+    
+  
+  </header>
+
+<main class="main" id="main-content">
+            <header class="hero hero--has-image bp-c hero--short" style="background-image: url(/sites/g/files/ebysai3896/files/styles/long_image/public/2018-05/MW4_0925.jpg?itok=UkTQgqz3)">
+              <div class="hero-top wrapper--wide">
+                      <div id="block-bax-commercial-breadcrumbs">
+        <nav role="navigation" aria-labelledby="system-breadcrumb" class="breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ul>
+              <li>
+                      <a href="/">Home</a>
+                  </li>
+          </ul>
+  </nav>
+
+  </div>
+
+                  </div>
+        <div class="hero-content">
+          <div class="wrapper--wide">
+                                                      <div class="hero-text">
+                                                              
+  <h1 class="hero-heading">
+<span>Terms of Use</span>
+</h1>
+
+
+    
+                                                      </div>
+                                    </div>
+        </div>
+          </header>
+  
+      
+    <div class="wrapper--wide">
+                <div>
+              <div data-drupal-messages-fallback class="hidden"></div>
+
+          </div>
+  
+      
+                  <div>
+              <div id="block-bax-commercial-content">
+            <div class="bookmark">
+  <div class="bookmark--text">
+    
+<span>Terms of Use</span>
+
+  </div>
+</div>
+        
+    <div class="wrapper">
+                </div>
+      <section>
+  <div class="wrapper">
+          <div class="wysiwyg">
+        <!-- OneTrust Privacy Notice start --><!-- Container in which the privacy notice will be rendered -->
+<div class="otnotice" id="otnotice-3d37e27f-0c18-488a-b5ae-6b106c11ba22">
+<p>Welcome to the Baxter website. The information provided on this site is for general informational and educational purposes only.&nbsp;By using this site, you agree to be bound by, and to comply with, the Terms of Use on this page. Please read The Terms of Use carefully before accessing this website. By accessing or using this site, you agree without restriction to be bound by the Terms of Use Agreement. If you do not agree to follow and be bound by this Terms of Use Agreement, you may not access, use or download materials from this site. Baxter reserves the right to change the Terms of Use from time to time, as reasonably necessary.</p>
+
+<p>Nothing on this website should be construed as the giving of advice or the making of a recommendation regarding any decision or action related to your health or the health of others.&nbsp;If you are a patient, you should consult a doctor or other qualified health care professional regarding any questions you have about your health or before making any treatment decisions. If you are a doctor or other qualified health care professional, you should not allow the content of this site to substitute for your own medical judgment, which you should exercise in evaluating the information on this site.</p>
+
+<p>Baxter’s website may contain information about products, medical conditions and their treatment. Baxter makes no representation that material in the site is appropriate or available for use outside of the territory of the intended audience. Those who choose to access this site from other locations do so on their own initiative and are responsible for compliance with local laws, if and to the extent that local laws are applicable.&nbsp;Nothing herein should be construed as a solicitation or promotion for any product or for an indication for any product which is not authorized by the laws and regulations of the country where the reader resides.</p>
+
+<p>Baxter respects the privacy of its website users. Please refer to&nbsp;<a href="https://www.baxter.com/policies-positions/global-privacy-policy" rel="noopener noreferrer" target="_blank">Baxter’s&nbsp;Privacy Policy</a>&nbsp;that explains users' rights and responsibilities with respect to information that is disclosed on this site.</p>
+
+<p>While it has used reasonable efforts to ensure that the information on this website is accurate, complete, and current, Baxter expressly disclaims any warranty or representation regarding the accuracy, completeness, or currency of such information. WITHOUT LIMITING THE FOREGOING, THE CONTENT ON THIS WEBSITE IS PROVIDED ON AN "AS IS," "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND. THERE MAY BE DELAYS, OMISSIONS OR INACCURACIES IN THE CONTENT AND THE SITE. BAXTER AND ITS AFFILIATES DO NOT WARRANT THE ACCURACY, COMPLETENESS, TIMELINESS, NON-INFRINGEMENT, TITLE, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF THE CONTENT OR THE SITE ITSELF, AND WE HEREBY DISCLAIM ANY SUCH EXPRESS OR IMPLIED WARRANTIES. BAXTER DOES NOT REPRESENT OR WARRANT THAT THE CONTENT OF THIS SITE IS FREE OF VIRUSES THAT MAY INFECT, YOUR COMPUTER EQUIPMENT OR OTHER PROPERTY ON ACCOUNT OF YOUR ACCESS TO, USE OF, OR BROWSING IN THE SITE OR YOUR DOWNLOADING OF ANY MATERIALS, DATA, TEXT OR IMAGES OR YOUR VIEWING OF ANY VIDEO OR AUDIO FROM THE SITE.</p>
+
+<p>You agree to indemnify, defend and hold Baxter and its affiliates and their officers, directors, employees, and agents harmless from any and all claims, demands, losses, liabilities, and expenses (including attorneys' fees), arising out of or in connection with or resulting in any manner from (i) your breach of these Terms of Use, or (ii) your access to or use of the website and its content.</p>
+
+<p>This website may contain links or references to other websites maintained by third parties over whom Baxter has no control. Such links are provided merely as a convenience. Similarly, this site may be accessed from third party links over whom Baxter has no control. Baxter makes no warranties or representations of any kind as to the accuracy, currency, or completeness of any information contained in such websites and shall have no liability for any damages or injuries of any kind arising from such content or information. Inclusion of any third-party link does not imply an endorsement or recommendation by Baxter.</p>
+
+<p>Subject to any applicable terms and conditions set forth in our&nbsp;<a href="https://www.baxter.com/policies-positions/global-privacy-policy" rel="noopener noreferrer" target="_blank">Privacy Policy</a>, any communication or other material that you send to us through the Internet or post on a Baxter website by electronic mail or otherwise, such as any questions, comments, suggestions or the like, is and will be deemed to be non-confidential and Baxter shall have no obligation of any kind with respect to such information. Baxter shall be free to use any ideas, concepts, know-how or techniques contained in such communication for any purpose whatsoever, including but not limited to, developing, manufacturing and marketing products.</p>
+
+<p>All of the trademarks, service marks and logos displayed on this website (the "Trademark(s)") are registered and unregistered Trademarks of Baxter, its affiliates, or third parties. Nothing contained in this web site should be interpreted as granting, by implication, estoppel, or otherwise, any license or right in and to the Trademarks without the express written permission of Baxter or the applicable third party. The use or misuse of these Trademarks or any other materials, except as permitted herein, is expressly prohibited and may be in violation of copyright law, trademark law, the law of privacy and publicity, and communications regulations and statutes.</p>
+
+<p>You may not, distribute, modify, transmit, reuse, repost, or use the content of the website for public or commercial purposes, including the text, images, audio, or video, without the written permission of Baxter. Everything you see or read on this website should be assumed to be copyrighted unless otherwise noted and may not be used, except as provided in the Terms of Use or in the text on the website, without the written permission of Baxter. Baxter neither warrants nor represents that your use of materials displayed on the website will not infringe rights of third parties not owned by, or affiliated with, Baxter.&nbsp;Nothing contained herein shall be construed as conferring by implication, estoppel or otherwise any license or right under any patent or copyright of Baxter, or any third party.</p>
+
+<p><em>The matters discussed on this website that are not historical facts include forward-looking statements concerning the company’s financial results (including the outlook for third-quarter and full-year 2024) and business development and regulatory activities. These forward-looking statements are based on assumptions about many important factors, including the following, which could cause actual results to differ materially from those in the forward-looking statements: the company’s ability to execute and complete strategic initiatives, asset dispositions and other transactions and development activities, including the proposed separation of the company’s Kidney Care business, the company’s plans to simplify its manufacturing footprint and the timing for such transactions, the ability to satisfy any applicable conditions and the expected proceeds, consideration and realization of anticipated benefits; failure to accurately forecast or achieve the company’s short- and long-term financial performance and goals (including with respect to the company’s strategic initiatives and other actions) and related impacts on our liquidity; the company’s ability to execute on its capital allocation plans, including the company’s debt repayment plans, the timing and amount of any dividends, share repurchases and divestiture proceeds and, if the company proceeds with the separation of the Kidney Care business in the form of a spinoff, the capital structure of the public company that would be formed (and the resulting capital structure for the remaining company); the company’s ability to successfully integrate acquisitions; the impact of global economic conditions (including, among other things, inflation levels, interest rates, financial market volatility, banking crises, the potential for a recession, the war in Ukraine, the conflict in the Middle East (including attacks on merchant ships in the Red Sea), tensions amongst China, Taiwan and the U.S., and the potential for escalation of these conflicts, the related economic sanctions being imposed globally in response to the conflicts and potential trade wars and global public health crises, pandemics and epidemics or the anticipation of any of the foregoing, on the company’s operations and on the company’s employees, customers, suppliers, and foreign governments in countries in which the company operates; downgrades to the company’s credit ratings or ratings outlooks, or withdrawals by rating agencies from rating us and the company’s indebtedness, and the impact on the company’s funding costs and liquidity; the impact of any goodwill, intangible asset or other long-lived asset impairments on the company’s operating results; product development risks, including satisfactory clinical performance and obtaining and maintaining required regulatory approvals (including as a result of evolving regulatory requirements or the withdrawal or resubmission of any pending applications), the ability to manufacture at appropriate scale and the general unpredictability associated with the product development cycle; regulatory agency inspections, product quality or patient safety issues leading to product recalls, withdrawals, labeling changes, launch delays, warning letters, import bans, denial of import certifications, sanctions, seizures, litigation or declining sales, including the focus on evaluating product portfolios for the potential presence or formation of nitrosamines; future actions of, or failures to act or delays in acting by, FDA, the European Medicines Agency or any other regulatory body or government authority (including the SEC, Department of Justice or the Attorney General of any State) that could delay, limit or suspend product development, manufacturing or sale or result in seizures, recalls, injunctions, monetary sanctions or criminal or civil liabilities; demand and market acceptance risks for, and competitive pressures related to, new and existing products, challenges with the company’s ability to accurately predict changing consumer preferences and future expenditures and inventory levels, and challenges with the company’s ability to monetize new and existing products and services, the impact of those products on quality and patient safety concerns and the need for ongoing training and support for our products; breaches, including by cyber-attack, data leakage, unauthorized access or theft, or failures of or vulnerabilities in, the company’s information technology systems or products; the continuity, availability and pricing of acceptable raw materials and component parts, the company’s ability to pass some or all of these costs to the company’s customers through recent price increases or otherwise, and the related continuity of the company’s manufacturing and distribution and those of the company’s suppliers; inability to create additional production capacity in a timely manner or the occurrence of other manufacturing, sterilization or supply difficulties, including as a result of natural disaster, war, terrorism, global public health crises and epidemics/pandemics, regulatory actions or otherwise; the company’s ability to finance and develop new products or enhancements on commercially acceptable terms or at all; loss of key employees (including those involved with any key strategic actions), the occurrence of labor disruptions (including as a result of labor disagreements under bargaining agreements or national trade union agreements or disputes with works councils) or the inability to attract, develop, retain and engage employees; failures with respect to the company’s quality, compliance or ethics programs; future actions of third parties, including third-party payers and the company’s customers and distributors (including GPOs and IDNs); changes to legislation and regulation and other governmental pressures in United States and globally, including the cost of compliance and potential penalties for purported noncompliance thereof, including new or amended laws, rules and regulations as well as the impact of healthcare reform and its implementation, suspension, repeal, replacement, amendment, modification and other similar actions undertaken by the United States or foreign governments, including with respect to pricing, reimbursement, taxation and rebate policies; the outcome of pending or future litigation; the impact of competitive products and pricing, including generic competition, drug reimportation and disruptive technologies; global regulatory, trade and tax policies, including with respect to climate change and other sustainability matters; the ability to protect or enforce the company’s patents or other proprietary rights (including trademarks, copyrights, trade secrets and know-how) or where the patents of third parties prevent or restrict the company’s manufacture, sale or use of affected products or technology; fluctuations in foreign exchange and interest rates; any changes in law concerning the taxation of income (whether with respect to current or future tax reform); actions by tax authorities in connection with ongoing tax audits; and other risks identified in Baxter’s most recent filings on Form 10-K and Form 10-Q and other SEC filings, all of which are available on Baxter’s website. Baxter does not undertake to update its forward-looking statements unless otherwise required by the federal securities laws.</em></p>
+
+<p>Baxter, Dose IQ and Novum IQ are trademarks of Baxter International Inc. Any other trademarks or product brands appearing herein are the property of their respective owners.</p>
+
+<p>This Terms of Use Agreement and your use of the website shall be governed by the laws of the United States of America and the State of Illinois without regard to its conflicts of laws principles. Any legal action or proceeding related to this website shall be brought exclusively in a federal or state court of competent jurisdiction sitting in Illinois.</p>
+
+<p>If any provision of this Terms of Use Agreement is held to be unlawful, void or unenforceable, then such provision shall be severable without affecting the enforceability of all remaining provisions. Baxter reserves the right to alter or delete materials from this Web site at any time at its discretion.</p>
+</div>
+<!-- OneTrust Privacy Notice end -->
+  
+</div>
+      
+      </div>
+</section>
+  
+      
+    
+  
+  </div>
+
+          </div>
+  
+            </div>
+</main>
+        <div>
+              <div id="block-bax-commercial-default-footer">
+  
+    
+  <footer class="footer">
+  <div class="wrapper">
+        <div class="row footer--menu">
+            
+<div class="footer__links ">
+      <a href="/patients"><h2 class="footer__links-heading">Patients</h2></a>
+  
+  
+  <ul>
+      <li>
+  <a href="/patients/general-healthcare">General Healthcare</a></li>
+  <li>
+  <a href="/patients/nutritional-care">Nutritional Care</a></li>
+  <li>
+  <a href="/patients/kidney-care">Kidney Care</a></li>
+  <li>
+  <a href="/patients/respiratory-care">Respiratory Care</a></li>
+  </ul>
+  </div>
+      
+<div class="footer__links ">
+      <a href="/healthcare-professionals"><h2 class="footer__links-heading">Healthcare Professionals</h2></a>
+  
+  
+  <ul>
+      <li>
+  <a href="/healthcare-professionals/primary-care">Primary Care</a></li>
+  <li>
+  <a href="/healthcare-professionals/hospital-care">Hospital Care</a></li>
+  <li>
+  <a href="/healthcare-professionals/surgical-care">Surgical Care</a></li>
+  <li>
+  <a href="/healthcare-professionals/kidney-care">Kidney Care</a></li>
+  <li>
+  <a href="/healthcare-professionals/nutritional-care">Nutritional Care</a></li>
+  <li>
+  <a href="/healthcare-professionals/respiratory-care">Respiratory Care</a></li>
+  <li>
+  <a href="/healthcare-professionals/our-products">Our Products</a></li>
+  <li>
+  <a href="https://baxter.benchmarkdigital.com/baxter/ehs/msds/index.cfm?siteID=2&amp;pagetype=basic&amp;scopeappconfigid=3&amp;passCode=E9A1C7F528618141E3DE8FAA746E5508">Safety Data Sheets</a></li>
+  </ul>
+  </div>
+      
+<div class="footer__links ">
+      <a href="/perspectives"><h2 class="footer__links-heading">Perspectives</h2></a>
+  
+  
+  <ul>
+      <li>
+  <a href="/perspectives/patients-stories">Patients&#039; Stories </a></li>
+  <li>
+  <a href="/perspectives/healthcare-insights">Healthcare Insights</a></li>
+  <li>
+  <a href="/perspectives/people-baxter">People of Baxter</a></li>
+  <li>
+  <a href="/perspectives/community-engagement">Community Engagement </a></li>
+  </ul>
+  </div>
+      
+<div class="footer__links ">
+      <a href="/our-story"><h2 class="footer__links-heading">Our Story </h2></a>
+  
+  
+  <ul>
+      <li>
+  <a href="/our-story/our-leadership">Our Leadership </a></li>
+  <li>
+  <a href="/our-story/our-governance">Our Governance</a></li>
+  <li>
+  <a href="/our-story/fueling-collaborative-innovation">Fueling Collaborative Innovation</a></li>
+  <li>
+  <a href="/our-story/corporate-responsibility-0">Corporate Responsibility </a></li>
+  <li>
+  <a href="/careers/diversity-equity-inclusion">Diversity, Equity &amp; Inclusion</a></li>
+  <li>
+  <a href="/our-story/our-history">Our History</a></li>
+  <li>
+  <a href="/policies-positions">Policies &amp; Positions</a></li>
+  <li>
+  <a href="/product-security">Product Security</a></li>
+  </ul>
+  </div>
+      
+
+<div class="footer__links ">
+  
+      
+  </div>
+
+
+        </div>
+            <div class="row footer--social-selector">
+      <div class="footer__links">
+                      &nbsp;
+                </div>
+      <div class="footer__links">
+              <ul class="social-follow">
+                    <li>
+  <a href="https://www.linkedin.com/company/baxter-healthcare/?WT.svl=www.baxter.com" target="_blank" rel="noopener noreferrer" aria-label="linkedin">
+    <span class="icon-linkedin"></span>
+  </a>
+</li>
+
+        <li>
+  <a href="https://www.facebook.com/BaxterInternational/" target="_blank" rel="noopener noreferrer" aria-label="facebook">
+    <span class="icon-facebook"></span>
+  </a>
+</li>
+
+        <li>
+  <a href="https://twitter.com/baxter_intl?WT.svl=www.baxter.com" target="_blank" rel="noopener noreferrer" aria-label="twitter">
+    <span class="icon-twitter"></span>
+  </a>
+</li>
+
+        <li>
+  <a href="https://www.youtube.com/user/BaxterInternational?WT.svl=www.baxter.com" target="_blank" rel="noopener noreferrer" aria-label="youtube">
+    <span class="icon-youtube"></span>
+  </a>
+</li>
+
+  
+        </ul>
+          </div>
+    </div>
+                <div class="row footer--bottom">
+            <ul class="footer__utility">
+              <li>
+  <a href="/policies-positions/global-privacy-policy">Global Privacy Policy</a></li>
+  <li>
+  <a href="/us-privacy">US Privacy Policy</a></li>
+  <li>
+  <a href="/hipaa-notice-privacy-practices">HIPAA Notice of Privacy Practices</a></li>
+  <li>
+  <a href="/terms-use">Terms of Use</a></li>
+  <li>
+  <a href="/cookies">Cookies</a></li>
+  <li>
+  <a href="/site-map">Site Map</a></li>
+  <li>
+  <a href="https://www.baxter.com/us-privacy#how-to-opt-out">Do Not Sell/Share my Personal Information</a></li>
+
+        </ul>
+          <div class="footer__copyright">
+        <p>&copy;Copyright 2024 Baxter. All rights reserved.</p>
+                <p></p>
+              </div>
+    </div>
+      </div>
+</footer>
+
+<!-- Global script includes -->
+</div>
+
+          </div>
+  
+
+
+  </div>
+
+  <script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"","siteName":"Baxter","entityCreated":"1525718454","entityLangcode":"en","entityStatus":"1","entityUid":"56","entityUuid":"e28a465c-171e-45f0-aa41-7746a2509791","entityVid":"82531","entityName":"avoyles","entityType":"node","entityBundle":"basic_content","entityId":"2856","entityTitle":"Terms of Use","userUid":0});</script>
+
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2856","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"statistics":{"data":{"nid":"2856"},"url":"\/core\/modules\/statistics\/statistics.php"},"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"9e99a304635099305f93463e4ed5f89522038c15479f5967b99168fab0ab2511"}}</script>
+<script src="/sites/g/files/ebysai3896/files/js/js_I1TmxckiydCtsXs7RnOPJvebQ0iZ6XG6bm9RhT-RmYs.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=bax_commercial_theme&amp;include=eJxljUEOwyAMBD8E4UnRUlygMgHZpiq_r3poI6W31cxIm2BgLJIQqeBZu6jTpUYtRCi5iNf-GbsVahQe6u-9G8lVZO4R7NUW1yP_WWs-fZ_cgCALRtGQZA7wdpJtHmNGrlooOTVYVau3X3iSNzACSJM"></script>
+
+</body>
+
+</html>

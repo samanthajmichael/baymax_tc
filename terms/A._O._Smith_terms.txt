@@ -1,0 +1,494 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta charset="utf-8" /><title>
+	Terms and Conditions | A. O. Smith Corp.
+</title><meta name="viewport" content="initial-scale=1" /><link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,600,700" rel="stylesheet" type="text/css" /><link rel="stylesheet" href="/css/site.css" />
+    <link rel="stylesheet" href="/css/privacy-policy.css" />
+
+    <!--[if lte IE 9]>
+        <script src="/js/lib/html5shiv.js"></script>
+        <script src="/js/lib/respond.js"></script>
+        <script src="/js/lib/matchMedia_ie8.js"></script>
+        <script src="/js/lib/matchMedia.addListener.js"></script>
+    <![endif]-->
+    <meta name="description" content="Our website Terms and Conditions" />
+<meta name="keywords" content="Terms and Conditions" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KDLB2GZ');</script>
+<!-- End Google Tag Manager -->
+<meta name="google-site-verification" content="yQPPo6UhO6Wx0lwwWkET-oGoIHdSaIHuxRiIzzWQNCs" /></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KDLB2GZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <form method="post" action="/Utility-Pages/Terms-and-Conditions/" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTExMDYyOTQ1OA9kFgJmD2QWCAIBD2QWAgIIDxYCHgRUZXh0BYEEPCEtLSBHb29nbGUgVGFnIE1hbmFnZXIgLS0+CjxzY3JpcHQ+KGZ1bmN0aW9uKHcsZCxzLGwsaSl7d1tsXT13W2xdfHxbXTt3W2xdLnB1c2goeydndG0uc3RhcnQnOgpuZXcgRGF0ZSgpLmdldFRpbWUoKSxldmVudDonZ3RtLmpzJ30pO3ZhciBmPWQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF0sCmo9ZC5jcmVhdGVFbGVtZW50KHMpLGRsPWwhPSdkYXRhTGF5ZXInPycmbD0nK2w6Jyc7ai5hc3luYz10cnVlO2ouc3JjPQonaHR0cHM6Ly93d3cuZ29vZ2xldGFnbWFuYWdlci5jb20vZ3RtLmpzP2lkPScraStkbDtmLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKGosZik7Cn0pKHdpbmRvdyxkb2N1bWVudCwnc2NyaXB0JywnZGF0YUxheWVyJywnR1RNLUtETEIyR1onKTs8L3NjcmlwdD4KPCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPgo8bWV0YSBuYW1lPSJnb29nbGUtc2l0ZS12ZXJpZmljYXRpb24iIGNvbnRlbnQ9InlRUFBvNlVoTzZXeDBsd3dXa0VULW9Hb0lIZFNhSUh1eFJpSXp6V1FOQ3MiIC8+ZAIDDxYCHwAF8gE8IS0tIEdvb2dsZSBUYWcgTWFuYWdlciAobm9zY3JpcHQpIC0tPgo8bm9zY3JpcHQ+PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL25zLmh0bWw/aWQ9R1RNLUtETEIyR1oiCmhlaWdodD0iMCIgd2lkdGg9IjAiIHN0eWxlPSJkaXNwbGF5Om5vbmU7dmlzaWJpbGl0eTpoaWRkZW4iPjwvaWZyYW1lPjwvbm9zY3JpcHQ+CjwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAobm9zY3JpcHQpIC0tPmQCBRBkZBYEAgEPZBYCAgEPFgQeC18hSXRlbUNvdW50AgYeB1Zpc2libGVnFgwCAQ9kFgRmDxUEBy9BYm91dC8FQWJvdXQFX3NlbGYFQWJvdXRkAgEPFgIfAQIHFg4CAQ9kFgJmDxUEMC9BYm91dC9WYWx1ZXMtYW5kLUd1aWRpbmctUHJpbmNpcGxlcy9PdXItVmFsdWVzLwpPdXIgVmFsdWVzBV9zZWxmCk91ciBWYWx1ZXNkAgIPZBYCZg8VBA4vQWJvdXQvQnJhbmRzLwZCcmFuZHMFX3NlbGYGQnJhbmRzZAIDD2QWAmYPFQQPL0Fib3V0L0hpc3RvcnkvB0hpc3RvcnkFX3NlbGYHSGlzdG9yeWQCBA9kFgJmDxUEEi9BYm91dC9Hb3Zlcm5hbmNlLwpHb3Zlcm5hbmNlBV9zZWxmCkdvdmVybmFuY2VkAgUPZBYCZg8VBBIvQWJvdXQvTGVhZGVyc2hpcC8KTGVhZGVyc2hpcAVfc2VsZgpMZWFkZXJzaGlwZAIGD2QWAmYPFQQQL1N1c3RhaW5hYmlsaXR5Lw5TdXN0YWluYWJpbGl0eQVfc2VsZg5TdXN0YWluYWJpbGl0eWQCBw9kFgJmDxUEGi9BYm91dC8yMDIzLUFubnVhbC1SZXBvcnQvEjIwMjMgQW5udWFsIFJlcG9ydAVfc2VsZhIyMDIzIEFubnVhbCBSZXBvcnRkAgIPZBYEZg8VBBtodHRwOi8vaW52ZXN0b3IuYW9zbWl0aC5jb20JSW52ZXN0b3JzBV9zZWxmCUludmVzdG9yc2QCAQ8WAh8BAg0WGgIBD2QWAmYPFQQuaHR0cHM6Ly9pbnZlc3Rvci5hb3NtaXRoLmNvbS9zdG9jay1pbmZvcm1hdGlvbhFTdG9jayBJbmZvcm1hdGlvbgVfc2VsZhFTdG9jayBJbmZvcm1hdGlvbmQCAg9kFgJmDxUEKmh0dHBzOi8vaW52ZXN0b3IuYW9zbWl0aC5jb20vc3RvY2staGlzdG9yeQ1TdG9jayBIaXN0b3J5BV9zZWxmDVN0b2NrIEhpc3RvcnlkAgMPZBYCZg8VBClodHRwczovL2ludmVzdG9yLmFvc21pdGguY29tL2Z1bmRhbWVudGFscwxGdW5kYW1lbnRhbHMFX3NlbGYMRnVuZGFtZW50YWxzZAIED2QWAmYPFQQ1aHR0cHM6Ly9pbnZlc3Rvci5hb3NtaXRoLmNvbS9ldmVudHMtYW5kLXByZXNlbnRhdGlvbnMaRXZlbnRzICZhbXA7IFByZXNlbnRhdGlvbnMFX3NlbGYaRXZlbnRzICZhbXA7IFByZXNlbnRhdGlvbnNkAgUPZBYCZg8VBCtodHRwczovL2ludmVzdG9yLmFvc21pdGguY29tL3ByZXNzLXJlbGVhc2VzEkZpbmFuY2lhbCBSZWxlYXNlcwVfc2VsZhJGaW5hbmNpYWwgUmVsZWFzZXNkAgYPZBYCZg8VBC1odHRwczovL2ludmVzdG9yLmFvc21pdGguY29tL2RpdmlkZW5kLWhpc3RvcnkQRGl2aWRlbmQgSGlzdG9yeQVfc2VsZhBEaXZpZGVuZCBIaXN0b3J5ZAIHD2QWAmYPFQROaHR0cHM6Ly9pbnZlc3Rvci5hb3NtaXRoLmNvbS9zdGF0aWMtZmlsZXMvZDc3ZjFhYzAtZTg1My00NGEwLWI3NmMtMzBjNzBlNDAxNjlmBERSSVAFX3NlbGYERFJJUGQCCA9kFgJmDxUEJ2h0dHBzOi8vaW52ZXN0b3IuYW9zbWl0aC5jb20vbGl0ZXJhdHVyZQpMaXRlcmF0dXJlBV9zZWxmCkxpdGVyYXR1cmVkAgkPZBYCZg8VBCVodHRwczovL2ludmVzdG9yLmFvc21pdGguY29tL2FuYWx5c3RzCEFuYWx5c3RzBV9zZWxmCEFuYWx5c3RzZAIKD2QWAmYPFQQSL0Fib3V0L0dvdmVybmFuY2UvCkdvdmVybmFuY2UFX3NlbGYKR292ZXJuYW5jZWQCCw9kFgJmDxUEKGh0dHBzOi8vaW52ZXN0b3IuYW9zbWl0aC5jb20vc2VjLWZpbGluZ3MLU0VDIEZpbGluZ3MFX3NlbGYLU0VDIEZpbGluZ3NkAgwPZBYCZg8VBCtodHRwczovL2ludmVzdG9yLmFvc21pdGguY29tL3RyYW5zZmVyLWFnZW50DlRyYW5zZmVyIEFnZW50BV9zZWxmDlRyYW5zZmVyIEFnZW50ZAIND2QWAmYPFQQpaHR0cHM6Ly9pbnZlc3Rvci5hb3NtaXRoLmNvbS9lbWFpbC1hbGVydHMMRW1haWwgQWxlcnRzBV9zZWxmDEVtYWlsIEFsZXJ0c2QCAw9kFgRmDxUEF2h0dHA6Ly9qb2JzLmFvc21pdGguY29tB0NhcmVlcnMFX3NlbGYHQ2FyZWVyc2QCAQ8WBB8BZh8CaGQCBA9kFgRmDxUEBi9OZXdzLwROZXdzBV9zZWxmBE5ld3NkAgEPFgQfAWYfAmhkAgUPZBYEZg8VBAwvRm91bmRhdGlvbi8KRm91bmRhdGlvbgVfc2VsZgpGb3VuZGF0aW9uZAIBDxYEHwFmHwJoZAIGD2QWBGYPFQQJL2NvbnRhY3QvCkNvbnRhY3QgVXMFX3NlbGYKQ29udGFjdCBVc2QCAQ8WBB8BZh8CaGQCAw9kFgJmDxYEHwECBR8CZxYKAgEPZBYCZg8VBBAvUHJpdmFjeS1Qb2xpY3kvDlByaXZhY3kgUG9saWN5BV9zZWxmDlByaXZhY3kgUG9saWN5ZAICD2QWAmYPFQQkL1V0aWxpdHktUGFnZXMvVGVybXMtYW5kLUNvbmRpdGlvbnMvFFRlcm1zIGFuZCBDb25kaXRpb25zBV9zZWxmFFRlcm1zIGFuZCBDb25kaXRpb25zZAIDD2QWAmYPFQQWaHR0cDovL2h0d3RyLmNvL2Fvc3JlYwtSZWNhbGwgSW5mbwZfYmxhbmsLUmVjYWxsIEluZm9kAgQPZBYCZg8VBBcvVXRpbGl0eS1QYWdlcy9TaXRlbWFwLwdTaXRlbWFwBV9zZWxmB1NpdGVtYXBkAgUPZBYCZg8VBClodHRwczovL3RyYW5zcGFyZW5jeS1pbi1jb3ZlcmFnZS51aGMuY29tLxhUcmFuc3BhcmVuY3kgaW4gQ292ZXJhZ2UGX2JsYW5rGFRyYW5zcGFyZW5jeSBpbiBDb3ZlcmFnZWQCBw8WAh8ABSc8IS0tIFBhZ2UgU2NyaXB0cy1Cb2R5IEJvdHRvbSAobi9hKSAtLT5kZDqXy9Su+0trXDE/vlaSXjvcEnbxIIx6R3kP954YY0a5" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7650BFE2" />
+</div>
+        
+        
+            <header class="SiteHeader">
+                <div class="UtilRow">
+                    <div class="center-wide">
+                        <div class="visibleRow">
+                            <div id="StockTicker" data-webservice="/WebServices/StockTicker.asmx/GetTicker">
+                                <script id="StockTicker-Handlebars" type="text/x-handlebars-template">
+                                    <div class="stockTicker {{ Class }}">
+                                        <span class="title">{{ Title }}</span> 
+                                        <span class="worth">{{ Worth }}</span>
+                                        <span class="arrow"></span> 
+                                        <span class="diff">{{ Difference }}</span>
+                                    </div>
+                                </script>
+                            </div>
+                        </div>
+                        <div class="searchDrop">
+                            <div class="closeRow">
+                                
+                                    <a href="http://www.hotwater.com" target="_blank" class="waterHeaters utility-modal-btn" data-target="modal1">Looking for a Water Heater?</a>
+                                
+                                <button class="CloseSearchButton" type="button">CLOSE</button>
+                            </div>
+                            <div class="searchRow">
+                                <label class="sr-only" for="txtHeaderSearch_Mobile">
+                                    Search
+                                </label>
+                                <input type="text" class="txtSearch" id="txtHeaderSearch_Mobile" />
+                                <button type="button" class="SearchButton" id="btnHeaderSearch_Mobile">
+                                    Search
+                                </button>
+                            </div>
+                            <a href="https://aosnet.aosmith.com" title="Employee Login" target="_blank" class="login">Employee Login</a>
+                            
+                        </div>
+                    </div>
+                </div>
+                <div class="Nav center-wide">
+                    <div class="LogoRow" id="LogoRow">
+                        <div class="Logo">
+                            <a href="/" title=""><img src="/assets/0/112/89/9ce7d856-b9a3-460d-9e67-2ad2e26ada33.png?n=5978" alt="AO Smith Home" title="AO Smith Home" /></a>
+                        </div>
+                        <!--this is a poser search button-->
+                        <button class="MenuButton" type="button"></button>
+                        <button class="CloseMenuButton" type="button"></button>
+                        <a href="#" title="Search" class="OpenSearchButton" id="SearchDropdown"></a>
+                    </div>
+                    
+
+<div class="PrimaryNav">
+    
+            <ul class="primaryMenu">
+        
+                <li class="item"><a href="/About/" title="About" target="_self" class="link">About</a>
+                    <ul class="subMenu">
+                                <li class="subItem"><a href="/About/Values-and-Guiding-Principles/Our-Values/" title="Our Values" target="_self">Our Values</a></li>
+                        
+                                <li class="subItem"><a href="/About/Brands/" title="Brands" target="_self">Brands</a></li>
+                        
+                                <li class="subItem"><a href="/About/History/" title="History" target="_self">History</a></li>
+                        
+                                <li class="subItem"><a href="/About/Governance/" title="Governance" target="_self">Governance</a></li>
+                        
+                                <li class="subItem"><a href="/About/Leadership/" title="Leadership" target="_self">Leadership</a></li>
+                        
+                                <li class="subItem"><a href="/Sustainability/" title="Sustainability" target="_self">Sustainability</a></li>
+                        
+                                <li class="subItem"><a href="/About/2023-Annual-Report/" title="2023 Annual Report" target="_self">2023 Annual Report</a></li>
+                        </ul>
+                </li>
+        
+                <li class="item"><a href="http://investor.aosmith.com" title="Investors" target="_self" class="link">Investors</a>
+                    <ul class="subMenu">
+                                <li class="subItem"><a href="https://investor.aosmith.com/stock-information" title="Stock Information" target="_self">Stock Information</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/stock-history" title="Stock History" target="_self">Stock History</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/fundamentals" title="Fundamentals" target="_self">Fundamentals</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/events-and-presentations" title="Events &amp; Presentations" target="_self">Events &amp; Presentations</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/press-releases" title="Financial Releases" target="_self">Financial Releases</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/dividend-history" title="Dividend History" target="_self">Dividend History</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/static-files/d77f1ac0-e853-44a0-b76c-30c70e40169f" title="DRIP" target="_self">DRIP</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/literature" title="Literature" target="_self">Literature</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/analysts" title="Analysts" target="_self">Analysts</a></li>
+                        
+                                <li class="subItem"><a href="/About/Governance/" title="Governance" target="_self">Governance</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/sec-filings" title="SEC Filings" target="_self">SEC Filings</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/transfer-agent" title="Transfer Agent" target="_self">Transfer Agent</a></li>
+                        
+                                <li class="subItem"><a href="https://investor.aosmith.com/email-alerts" title="Email Alerts" target="_self">Email Alerts</a></li>
+                        </ul>
+                </li>
+        
+                <li class="item"><a href="http://jobs.aosmith.com" title="Careers" target="_self" class="link">Careers</a>
+                    
+                </li>
+        
+                <li class="item"><a href="/News/" title="News" target="_self" class="link">News</a>
+                    
+                </li>
+        
+                <li class="item"><a href="/Foundation/" title="Foundation" target="_self" class="link">Foundation</a>
+                    
+                </li>
+        
+                <li class="item"><a href="/contact/" title="Contact Us" target="_self" class="link">Contact Us</a>
+                    
+                </li>
+        
+            </ul>
+        
+</div>
+                    <div class="Desktop-Search">
+                        <label class="sr-only" for="txtHeaderSearch">
+                            Search
+                        </label>
+                        <input type="text" placeholder="Search" class="txtSearch" id="txtHeaderSearch" />
+                        <button type="button" class="SearchButton" id="btnHeaderSearch">
+                            <span class="sr-only">
+                                Search
+                            </span>
+                        </button>
+                    </div>
+                </div>
+            </header>
+
+            <main class="SiteMain">
+                
+    <div class="PrivacyPolicyTemplate"> 
+        
+            <div class="center"> 
+
+                <div class="heading-wrapper">  
+                
+                    <h1>Terms and Conditions</h1>
+
+                    
+                        <div class="policy-language">
+                            <label for="PolicyLanguageDropdown">Change Language</label>
+                            <select id="PolicyLanguageDropdown">
+                                
+                                    <option value="1031" >Deutsch</option>
+                                
+                                    <option value="1033" selected="selected">English</option>
+                                
+                                    <option value="2058" >Español</option>
+                                
+                                    <option value="1061" >Estonian</option>
+                                
+                                    <option value="1036" >Français</option>
+                                
+                                    <option value="1081" >Hindi</option>
+                                
+                                    <option value="1040" >Italiano</option>
+                                
+                                    <option value="1099" >Kannada</option>
+                                
+                                    <option value="1043" >Nederlands</option>
+                                
+                                    <option value="1045" >Polish</option>
+                                
+                                    <option value="2070" >Portuguese</option>
+                                
+                                    <option value="1053" >Swedish</option>
+                                
+                                    <option value="1055" >Turkish</option>
+                                
+                                    <option value="1066" >Vietnamese</option>
+                                
+                                    <option value="1049" >Русско</option>
+                                
+                                    <option value="1041" >日本語</option>
+                                
+                                    <option value="2052" >汉语</option>
+                                
+                                    <option value="1028" >漢語</option>
+                                
+                            </select>
+                        </div>
+                    
+                </div>
+
+                <hr/>
+
+                <div class="policy-text RTF">
+                    <p>Effective Date: November 1, 2021</p><p>THESE TERMS OF USE APPLY UNLESS EXPRESSLY PROHIBITED BY APPLICABLE LAW. IN SUCH CASE, THE PROHIBITED TERM SHALL BE NULL AND VOID BUT THE REMAINDER OF THE TERMS ARE NOT WAIVED AND SHALL REMAIN IN FORCE.</p><p>PLEASE CAREFULLY READ THESE TERMS OF USE AND OTHER POLICIES OR AGREEMENTS REFERENCED IN THESE TERMS OF USE BEFORE USING THE PRODUCTS OR “SERVICES.” PLEASE NOTE THAT THE “ARBITRATION AGREEMENT” IN SECTION 16 BELOW CONTAINS PROVISIONS THAT REQUIRE, TO THE EXTENT ALLOWED BY APPLICABLE LAW AND WITH LIMITED EXCEPTIONS: (i) ALL DISPUTES ARISING BETWEEN YOU AND THE COMPANY UNDER THIS AGREEMENT TO BE RESOLVED IN BINDING ARBITRATION, AND NOT IN COURT AND (ii) YOU AND THE COMPANY WAIVE THE RIGHT TO BRING OR PARTICIPATE IN A CLASS ACTION IN CONNECTION WITH SUCH DISPUTES. PLEASE SEE SECTION 16 BELOW TO REVIEW THE ARBITRATION AGREEMENT. BY USING THE SERVICES, YOU UNCONDITIONALLY AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS, INCLUDING THE ARBITRATION AGREEMENT. PLEASE READ IT CAREFULLY.<br/></p><p><b>1. Use of Material</b><br/></p><p>This page contains the Terms and Conditions under which you may use any website, app, or other product or service (including any product software or firmware) that is licensed, owned, or offered by A. O. Smith Corporation (the "Services"). Please read this page carefully before using the Services. If you do not accept the Terms and Conditions stated here, do not use the Services offered. By using the Services or clicking a box that states that you accept and agree to this Agreement on the app, you are indicating your acceptance to be bound by the terms of these Terms and Conditions and to abide by all applicable laws, rules and regulations (“Applicable Law”). A. O. Smith Corporation (the "Company"), the owner of the Services, may revise these Terms and Conditions at any time by updating this posting. You should visit this page periodically to review the Terms and Conditions, because they are binding on you. Your use of the Services is subject to your continued compliance with these Terms and Conditions. The terms "You" and "User" as used herein refer to all individuals and/or entities accessing this Website for any reason. </p><p>The contents of the Services, such as text, graphics, images, logos, button icons, software and other content (the "Material"), are protected under United States and foreign copyright, trademark and other laws. All Material is the property of the Company or its content suppliers or clients. The compilation (meaning the collection, arrangement and assembly) of all content on the Services is the exclusive property of the Company and protected by U.S. and international copyright laws. Unauthorized use of the Material may violate copyright, trademark and other laws. You must retain all copyright, trademark, service-mark and other proprietary notices contained in the original Material on any copy (permitted or not permitted) you make of any of the Company's Material. You may not sell or modify the Company's Material or reproduce, display, publicly perform, distribute or otherwise use the Company's Material in any way for any public or commercial purpose. The use of the Company's Material on any other website or in a networked computer environment for any purpose is prohibited. Further, the HTML code that is created by the Company while generating its pages is also protected by the Company's copyright. <br/></p><p>The Company reserves the right to terminate the accounts of Users who violate the Company's policy on infringement of copyright or other intellectual property rights of others. <br/></p><p>The Company and all of its affiliated companies respect the intellectual property of others, and we expect our users to do the same. The unauthorized reproduction, copying, distribution, modification, public display or public performance of copyrighted works constitutes infringement of the copyright owner's rights. As a condition to your use of the Services, you agree not to use the Services to infringe the intellectual property rights of others in any way. The Company will assist the respective owners of the various intellectual property in order that they may protect their rights to the fullest extent of both domestic and international law. We reserve the right to take these actions at any time, in our sole discretion, with or without notice and without any liability to any user.<br/></p><p><b>2. Acceptable Site Use</b><br/></p><p>The Services may be used only for lawful purposes by individuals seeking to find out more information, purchase the various products offered, or use A. O. Smith Services as described in any instruction manual or similar A. O. Smith documentation.  <br/></p><p><b>3. Prohibited Uses of the Services</b><br/></p><p><b>3.1 General Rules </b><br/></p><p>Users may not use or reference the Company's Services in order to transmit, distribute, store or destroy material (a) in violation of Applicable Law; (b) in a manner that will infringe the copyright, trademark, trade secret or other intellectual property rights of others or violate the privacy, publicity or other personal rights of others; or (c) that is defamatory, obscene, threatening, abusive or hateful.  <br/></p><p><b>3.2 Website Security Rules</b><br/></p><p>Users are prohibited from violating or attempting to violate the security of the Services, including, without limitation, (a) accessing data not intended for such user or logging into a server or account which the user is not authorized to access; (b) attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without proper authorization; (c) attempting to interfere with service to any user, host or network, including, without limitation, via means of submitting a virus to the Services, overloading, "flooding," "spamming," "mailbombing" or "crashing"; (d) sending unsolicited e-mail, including promotions and/or advertising of products or services; (e) forging any TCP/IP packet header or any part of the header information in any e-mail or newsgroup posting; or (f) reverse engineering or copying any firmware provided by A. O. Smith for any A. O. Smith product or service. Violations of system or network security may result in civil or criminal liability. The Company will investigate occurrences that may involve such violations and will cooperate with law enforcement authorities in prosecuting users who are involved in such violations. Furthermore, users of the Services are prohibited from the following: <br/></p><p>Using any device, software or routine to interfere or attempt to interfere with the proper working of the Services or any activity being conducted on the Services.<br/></p><p>Taking any action that imposes an unreasonable or disproportionately large load on the Website's infrastructure.<br/></p><p>Notwithstanding anything to the contrary contained herein, using or attempting to use any engine, software, tool, agent or other device or mechanism (including, without limitation, browsers, spiders, robots, avatars and intelligent agents) to navigate or search the Services other than the search engine and search agents available from the Company on the Services as well as generally available third-party Web browsers, such as Internet Explorer and Google Chrome.<br/></p><p>Attempting to decipher, decompile, disassemble or reverse-engineer any of the software comprising or in any way making up a part of the Services.<br/></p><p>Aggregating, copying or duplicating in any manner any of the materials or information available from the Services.<br/></p><p>Providing false information of any kind.  <br/></p><p>The Company reserves the right to terminate the accounts of Users found to be engaging in any of these prohibited uses.  <br/></p><p><b>4. User Information (Privacy Statement) </b><br/></p><p>You may be asked to provide the Company with certain information including, without limitation, personal information such as a valid e-mail address, telephone phone number and other contact and personal information (your "Personal Information"). Please review the Privacy Policy found at <a href="https://www.aosmith.com/Privacy-Policy/" ek-link="true" title="www.aosmith.com/privacy-policy">www.aosmith.com/privacy-policy</a> to understand how the Company uses your Personal Information. By agreeing to these Terms and Conditions, you acknowledge that your use of the Services is subject to the Company Privacy Policy in effect at the time of your use.<br/></p><p><b>5. Text Messages</b><br/></p><p>If you elect to receive marketing text messages from us, either via our website or by sending a text message indicating your consent, you are providing your prior express written consent to receive recurring marketing or promotional SMS text messages from us (each, a “Text Message”) sent through an automatic telephone dialing system. These may include cart abandon messages. Message frequency varies. This service is optional and is not a condition for purchase. You can opt out of receiving any further Text Messages from us at any time by replying “STOP” to any Text Message you receive from us. For help, reply “HELP” to any Text Message you receive from us or email our text message service provider Wunderkind at <a href="mailto:textsupport@wunderkind.co" ek-link="true" title="textsupport@wunderkind.co">textsupport@wunderkind.co</a>. In addition to any fee of which you are notified, your mobile provider’s message and data rates may apply to our confirmation Text Message and all subsequent Text Message correspondence according to your individual rate plan provided by your wireless carrier. Please consult your mobile service carrier’s pricing plan to determine the charges for browsing data and sending and receiving Text Messages. Under no circumstances will we or our affiliates or service providers be responsible for any SMS messaging or wireless charges incurred by you or by a person that has access to your wireless device or telephone number. If your carrier does not permit SMS messages, you may not receive the Text Messages. Neither we nor the wireless carriers (such as T-Mobile) or service providers will be liable for any delays in the receipt of, or failure to deliver, any Text Messages, as delivery is subject to effective transmission from your network operator. Text Message services are provided on an “AS IS” basis. Data obtained from you in connection with any Text Message services may include your cell phone number, your provider’s name and the date, time and content of your text messages. We may use this information in accordance with our Privacy Policy to contact you and to provide the services you request from us. For more information on how we use telephone numbers and other Personal Information, please read our Privacy Policy. If you change or deactivate the phone number you provided, you have an affirmative obligation to update your account information and the phone number(s) attached to your account to prevent us from inadvertently communicating with anyone who acquires any phone number(s) previously attributed to you, and any new phone number(s) you attach to your account may receive our standard marketing Text Messages unless you also unsubscribe via the above procedures.<br/></p><p><b>6. Disclaimer of Warranties, Limitation of Liability, and Indemnity </b></p><p><b>6.1 Disclaimer of Warranties</b><br/></p><p>EXCEPT AS MAY BE PROVIDED IN ANY EXPRESS PRODUCT WARRANTY PROVIDED BY A. O. SMITH, THE SERVICES, ARE PROVIDED “AS-IS” AND “AS AVAILABLE” AND THE COMPANY DOES NOT GUARANTEE OR PROMISE ANY SPECIFIC RESULTS FROM USE OF OR CONTINUOUS AVAILABILITY OF THE SERVICES. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE COMPANY EXPRESSLY DISCLAIMS ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, AND WARRANTIES IMPLIED FOR A COURSE OF PERFORMANCE OR COURSE OF DEALING. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, THE COMPANY MAKES NO WARRANTY THAT YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE, THAT DEFECTS TO THE SERVICES WILL BE CORRECTED, THAT THE SERVICES OR THE SERVERS ON WHICH THEY ARE AVAILABLE WILL BE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT ANY INFORMATION OBTAINED BY YOU ON, THROUGH OR IN CONNECTION WITH THE SERVICES WILL BE ACCURATE, RELIABLE, TIMELY OR COMPLETE. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE COMPANY WILL NOT BE RESPONSIBLE FOR ANY LOSS OR DAMAGE (INCLUDING BUT NOT LIMITED TO LOSS OF DATA, PROPERTY DAMAGE, PERSONAL INJURY OR DEATH) RESULTING FROM USE OF THE SERVICES, PROBLEMS OR TECHNICAL MALFUNCTION IN CONNECTION WITH USE OF THE SERVICES, ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED IN CONNECTION WITH THE SERVICES, OR THIRD-PARTY SERVICE TRANSMITTED ON, THROUGH OR IN CONNECTION WITH THE SERVICES, WHETHER ONLINE OR OFFLINE. YOUR USE THIRD-PARTY SERVICES AND THE GOODS OR SERVICES PROVIDED BY ANY THIRD-PARTIES IS SOLELY YOUR RESPONSIBILITY AND AT YOUR OWN RISK.<br/></p><p>YOU ACKNOWLEDGE AND AGREE THAT YOUR USE OF THE SERVICES, AND ANY INFORMATION TRANSMITTED OR RECEIVED IN CONNECTION THEREWITH, MAY NOT BE SECURE AND MAY BE INTERCEPTED BY UNAUTHORIZED PARTIES. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, YOU ASSUME RESPONSIBILITY FOR THE ENTIRE COST OF ANY MAINTENANCE, REPAIR OR CORRECTION TO YOUR COMPUTER SYSTEM, COMPATIBLE DEVICE OR OTHER PROPERTY OR RECOVERY OR RECONSTRUCTION OF LOST DATA NECESSITATED BY YOUR USE OF THE SERVICES.<br/></p><p><b>6.2 Limitation on Liability</b><br/></p><p>NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, COMPANY'S LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO COMPANY FOR THE COMPANY SERVICES DURING THE TERM OF YOUR USE OF THE COMPANY SERVICES. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, COMPANY WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DAMAGES OTHER THAN THE AMOUNT PAID, IF ANY, BY YOU TO COMPANY FOR THE COMPANY SERVICES DURING THE TERM OF YOUR USE OF THE COMPANY SERVICES, INCLUDING ANY OTHER GENERAL, DIRECT, INDIRECT, COMPENSATORY, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, AND INCLUDING, WITHOUT LIMITATION, LOST PROFIT DAMAGES, DAMAGES RESULTING FROM LOST DATA, AND BUSINESS INTERRUPTION ARISING FROM YOUR USE OF OR INABILITY TO USE THE COMPANY SERVICES. <br/></p><p>YOU ACKNOWLEDGE AND AGREE THAT ANY DAMAGES YOU INCUR ARISING OUT OF COMPANY’S ACTS OR OMISSIONS OR YOUR USE OF COMPANY SERVICES ARE NOT IRREPARABLE AND ARE INSUFFICIENT TO ENTITLE YOU TO AN INJUNCTION OR OTHER EQUITABLE RELIEF RESTRICTING THE AVAILABILITY OF OR ANY PERSON’S ABILITY TO ACCESS ANY PORTION OF THE COMPANY SERVICES.<br/></p><p>THE LIMITATIONS IN THIS SECTION APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH DAMAGES.<br/></p><p><b>6.3 Indemnity</b><br/></p><p>YOU AGREE TO INDEMNIFY AND HOLD THE COMPANY, SUBCONTRACTORS AND OTHER PARTNERS, AND THEIR RESPECTIVE OFFICERS, AGENTS, PARTNERS AND EMPLOYEES, HARMLESS FROM ANY LOSS, LIABILITY, CLAIM, OR DEMAND, INCLUDING, BUT NOT LIMITED TO, REASONABLE LEGAL AND ACCOUNTING FEES, MADE BY ANY THIRD-PARTY DUE TO OR ARISING OUT OF OR IN CONNECTION WITH YOUR BREACH OF YOUR REPRESENTATIONS, WARRANTIES, COVENANTS OR AGREEMENTS HEREUNDER; YOUR VIOLATION OF THESE TERMS AND CONDITIONS OR ANY LAW; YOUR USE OF THE SERVICES IN VIOLATION OF THESE TERMS AND CONDITIONS; ANY INFRINGEMENT OF COPYRIGHT, TRADEMARK, TRADE SECRET, TRADE DRESS, PATENT, PUBLICITY, PRIVACY OR OTHER RIGHT OF ANY PERSON OR ENTITY; AND ANY MISREPRESENTATION MADE BY YOU. YOU WILL COOPERATE AS FULLY AND AS REASONABLY REQUIRED IN THE COMPANY’S DEFENSE OF ANY CLAIM. THE COMPANY RESERVES THE RIGHT, AT ITS OWN EXPENSE, TO ASSUME THE EXCLUSIVE DEFENSE AND CONTROL OF ANY MATTER OTHERWISE SUBJECT TO INDEMNIFICATION BY YOU, AND YOU SHALL NOT IN ANY EVENT SETTLE ANY SUCH MATTER WITHOUT THE WRITTEN CONSENT OF THE COMPANY. <br/></p><p><b>7. Links to Other Sites </b><br/></p><p>The Services may provide, or third-parties may provide, links to other websites, apps, resources or other services created by third parties (collectively, “Third-Party Services”). When you engage with a Third-Party Service, you are interacting with the third-party, not with the Company. If you choose to use a Third-Party Service and share information with it, the Third-Party Services may use and share your information in accordance with the Third-Party Service's privacy policy and your privacy settings on such Third-Party Service. In addition, the third-party providing the Third-Party Service may use other parties to provide portions of the apps or service to you, such as technology, development or payment services. The Company is not responsible for and makes no warranties, express or implied, as to the Third-Party Services or the providers of such Third-Party Services (including, but not limited to, the accuracy or completeness of the information provided by such Third-Party Service or the privacy practices thereof). Inclusion of any Third-Party Service or a link thereto on the Services does not imply approval or endorsement of the Third-Party Service. The Company is not responsible for the content or practices of any websites other than the Services that link to the Terms and Conditions, even if the website links to the Services and even if it is operated by the Company or a company otherwise connected with the Company. By using the Services, you acknowledge and agree that the Company is not responsible or liable to you for any content or other materials hosted and served from any website, mobile site or app other than Services. When you access Third-Party Services, you do so at your own risk. The Company encourages you not to provide any personally identifiable information to or through any Third-Party Service unless you know and are comfortable with the party with whom you are interacting.<br/></p><p><b>8. No Resale or Unauthorized Commercial Use</b><br/></p><p>You agree not to resell or assign your rights or obligations under these Terms of Use. You also agree not to make any unauthorized commercial use of the Services. Further, since the Services are a source for reference only, you agree not to cite the Services as any type of authoritative or information source. The Company will not be liable or endorse any type of referral made to the Services.  <br/></p><p><b>9. Termination</b><br/></p><p>The Company reserves the right, at its sole discretion, to pursue all of its legal remedies (such as terminating use and/or license to use any of the programs) upon any breach by a User of these Terms and Conditions or if the Company is unable to verify or authenticate any information a User submits to the Services.  <br/></p><p><b>10. Reserved Right of Refusal</b><br/></p><p>The Company, in its sole discretion, reserves the right to refuse fulfillment of your order, or refuse you any involvement with A. O. Smith Corporation services, or to delete your assigned user name and password if you breach any of the terms of this agreement.  <br/></p><p><b>11. Modifications to Agreement</b><br/></p><p>Except as otherwise provided in this Agreement, you agree, during the term of this Agreement, that the Company may: (1) revise the terms and conditions of this Agreement; and/or (2) change part of the services provided under this Agreement at any time. Any such revision or change will be binding and effective immediately after posting of the revised Agreement or change to the service(s) on the Company's Services. You agree to periodically review our Services, including the current version of this Agreement available on our Services, to be aware of any such revisions. By continuing to use the Company's services after any revision to this Agreement or change in services, you agree to abide by and be bound by any such revisions or changes. The Company is not bound by nor should you rely on any representation by information posted on our Services of a general informational nature. No employee, contractor, agent or representative of the Company is authorized to alter or amend the terms and conditions of this Agreement.  <br/></p><p><b>12. General Terms</b><br/></p><p>These Services are controlled, operated and administered by the Company from its offices within the United States of America. The Company makes no representation that materials at these Services are appropriate or available for use at other locations outside of the United States and access to them from territories where their contents are illegal is prohibited. You may not use the Services to export the Materials in violation of U.S. export laws and regulations. If you access these Services from a location outside of the United States, you agree that you do so of your own initiative, and you are responsible for compliance with all local laws. <br/></p><p><b>13. Governing Law and Choice of Forum</b><br/></p><p>These Terms and Conditions are governed by the internal substantive laws of the State of Wisconsin. Jurisdiction for any claims arising under this agreement shall lie exclusively with the courts within Milwaukee County, and all parties submit to the jurisdiction of the venue of these courts. If any provision of these Terms and Conditions is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms and Conditions, which shall remain in full force and effect. No waiver of any term of these Terms and Conditions shall be deemed a further or continuing waiver of such term or any other term. Except as expressly provided in additional terms of use for areas of the Services, such as a particular legal notice or material on particular Web pages, these Terms and Conditions constitute the entire agreement between you and the Company with respect to the use of the Services. No changes to these Terms and Conditions shall be made except by a revised posting on this page.<br/></p><p><b>14. No Waiver/Reliance </b></p><p>The failure of the Company to exercise or enforce any right or provision of the Terms and Conditions will not operate as a waiver of such right or provision. If we fail to act in response to a violation of the Terms and Conditions, you should not assume that we do not object to the violation or even that we are aware of it. In addition, you may not construe a waiver of any provision of the Terms and Conditions with respect to any party as a waiver of that provision (or any other provision) with respect to either that party or any other party. Further, the Company’s decision to delay exercising or enforcing any right or remedy under the Terms and Conditions shall not constitute a waiver of such right or remedy. Even if the Company acts in a way that appears to you to be inconsistent with the Terms and Conditions, the Company’s action shall not be deemed a waiver or constructive amendment of the Terms and Conditions.<br/></p><p><b>15. Other </b><br/></p><p>The section titles in the Terms and Conditions are for convenience only and have no legal or contractual effect. The Terms and Conditions operate to the fullest extent permissible by Applicable Law. Except as otherwise expressly provided herein, if any provision of the Terms and Conditions is unlawful, void or unenforceable, that provision is deemed severable from the Terms and Conditions and does not affect the validity and enforceability of any remaining provisions.<br/></p><p><b>16. Arbitration Agreement and Class Action Waiver</b><br/></p><p>Notwithstanding any other provision in these Terms and Conditions, and, furthermore, without waiving section 6.1 (Disclaimer of Warranties) or 6.2 (Limitation on Liability) or any other provision in these Terms and Conditions, this Section 16 constitutes the Arbitration Agreement between the parties.<br/></p><p>(1) The Company, including its affiliates, agents, employees, predecessors in interest, successors, and assigns, and you agree that any Dispute (as defined herein) between you and the Company, regarding any aspect of your relationship with the Company, will be resolved in a binding, confidential, individual and fair arbitration process, and not in court. Each of you and the Company agrees to give up the right to sue in court. <br/></p><p>(2) The term “Dispute” is to be given the broadest possible meaning that will be enforced, and shall include any dispute, claim, demand, count, cause of action, or controversy between you and the Company, whether based in contract, statute, regulation, ordinance, tort (including, but not limited to, fraud, misrepresentation, fraudulent inducement, negligence, or any other intentional tort), or any other legal or equitable theory. The term “Dispute” specifically includes, but is not limited to, any disputes, actions, claims, or controversies between you and the Company that arise from or in any way relate to or concern any products or services provided by the Company including but not limited to the Company Services (as defined above), this Arbitration Agreement, any other aspect of these Terms and Conditions (including their applicability and their conformance to Applicable Law), any billing disputes, and any disputes relating to telephonic, text message, or any other communications either of us the Company from the other. The only exceptions to this Arbitration Agreement are that (i) each of you and the Company retains the right to sue in small claims court and (ii) each of you and the Company may bring suit in court against the other to enjoin infringement or other misuse of intellectual property rights. Disputes over whether these exceptions apply shall be resolved by the court in which such action has been brought; all other disputes over arbitrability shall be resolved by the arbitrator. <br/></p><p>(3) Each of you and the Company also agrees to give up the ability to seek to represent, in a class action or otherwise, anyone but each of you and the Company (see paragraph 9 below). <br/></p><p>(4) There is no judge or jury in arbitration, and court review of an arbitration award is limited. An arbitrator must follow this Arbitration Agreement. The arbitrator, however, can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief, or statutory damages); provided that they are recoverable under these Terms and Conditions. <br/></p><p>(5) These Terms and Conditions evidence a transaction in interstate commerce, and thus the Federal Arbitration Act, 9 U.S.C. §§ 1-16, governs the interpretation and enforcement of this Arbitration Agreement. This Arbitration Agreement shall survive termination of the Terms and Conditions.<br/></p><p>(6) Any arbitration between you and the Company will be conducted by the Judicial Arbitration and Mediation Services, Inc. (“JAMS”), pursuant to the JAMS Streamlined Arbitration Rules &amp; Procedures effective July 1, 2014 (the “JAMS Rules”), as modified by this agreement to arbitrate. The arbitration shall be conducted by a single, neutral arbitrator, and if you and the Company cannot agree on who that single arbitrator will be, the arbitrator will be appointed pursuant to the JAMS Rules, with the participation and involvement of the Company and you pursuant to JAMS Rule 12. The JAMS Rules are available on its website at <a href="http://www.jamsadr.com/rules-streamlined-arbitration/" ek-link="true" title="http://www.jamsadr.com/rules-streamlined-arbitration/">http://www.jamsadr.com/rules-streamlined-arbitration/</a>. The Consumer Arbitration Minimum Standards are available at <a href="https://www.jamsadr.com/consumer-minimum-standards/" ek-link="true" title="https://www.jamsadr.com/consumer-minimum-standards/">https://www.jamsadr.com/consumer-minimum-standards/</a>. The arbitrator is bound by these Terms and Conditions.<br/></p><p>(7) If either you or the Company wish to arbitrate a claim, you or the Company must first send by mail to the other a written Notice of Dispute (“Notice”) that sets forth the name, address, and contact information of the party giving notice, the specific facts giving rise to the Dispute, the Company Service to which the Notice relates, and the relief requested. Your Notice to the Company must be sent by mail to: General Counsel, A. O. Smith Corporation, 11270 West Park Place, Milwaukee, WI 53224. The Company will send any Notice to you at the contact information we may have for you or that you provide. It is the sender’s responsibility to ensure that the recipient receives the Notice. During the first 45 days after you or we send a Notice to the other, you and we may try to reach a settlement of the Dispute. <br/></p><p>(8) If you and the Company do not resolve the Dispute within 45 days, either you or the Company may initiate arbitration in accordance with the JAMS Rules. Further instructions on submitting a Demand for Arbitration may be found at <a href="http://www.jamsadr.com/files/Uploads/Documents/JAMS_Arbitration_Demand.pdf" ek-link="true" title="http://www.jamsadr.com/files/Uploads/Documents/JAMS_Arbitration_Demand.pdf">http://www.jamsadr.com/files/Uploads/Documents/JAMS_Arbitration_Demand.pdf</a>. In addition to filing this Demand for Arbitration with JAMS in accordance with its rules and procedures, you must send a copy of this completed Demand for Arbitration to the Company at the address listed above to which you sent your Notice of Dispute. <br/></p><p>(9) You and the Company acknowledge and agree to abide by the following rules for arbitration:<br/></p><p>(a) YOU AND THE COMPANY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, REPRESENTATIVE OR MULTI-CLAIMANT PROCEEDING, AND THE ARBITRATOR SHALL HAVE NO POWER TO AWARD CLASS-WIDE RELIEF; (b) the Company will pay arbitration costs as required by the JAMS Consumer Arbitration Minimum Standards and consistent with paragraph 6 above; (c) the arbitrator may award any individual relief or individual remedies that are permitted by applicable law and these Terms and Conditions; and (d) each side pays his, her or its own attorneys' fees, except as otherwise provided in paragraph 10 below.<br/></p><p>(10) JAMS charges filing and other fees to conduct arbitrations. Ordinarily, the claimant has to pay the filing fee to initiate arbitration, but if you wish to commence an arbitration against the Company, you and the Company acknowledge and agree to abide by the following:<br/></p><ul><li>All amounts listed herein are in United States dollars.<br/></li><li>If you are seeking to recover less than $10,000 (inclusive of attorneys’ fees), the Company will pay the filing fee on your behalf or reimburse your payment of it.<br/></li><li>If you are seeking to recover $10,000 or more, you will have to pay the filing fee charged by JAMS, but the Company will reimburse the filing fee if you prevail on all claims decided upon by the arbitrator.<br/></li><li>The Company and you agree that, if the claims to be arbitrated total less than $10,000 (inclusive of attorneys’ fees), the claim ordinarily should be decided on written submissions only, without a telephonic or in-person hearing. The Company will not request a hearing for any claims totaling less than $10,000. This provision shall not be construed by the arbitrator to deprive you of any rights you may have to a telephonic or in-person hearing in your hometown area pursuant to the JAMS Rules.<br/></li><li>The Company and you agree that, if the claims to be arbitrated total $10,000 or more, the arbitration will occur in a manner and place consistent with the JAMS Rules.<br/></li></ul><p>(11) Regardless of how the arbitration proceeds, each of you and the Company shall cooperate in good faith in the exchange of non-privileged documents and information as necessary in accordance with the JAMS Rules, and the arbitrator shall issue a reasoned written decision sufficient to explain his or her findings and conclusions.<br/></p><p>(12) Each of you and the Company may incur attorneys’ fees during the arbitration. Each side agrees to pay his, her or its own attorneys' fees unless the claim(s) at issue permit the prevailing party to be paid its attorneys' fees, and in such instance, the fees awarded shall be determined by the applicable law(s). In addition to whatever rights you may have to recover your attorneys’ fees under applicable law, if you prevail in the arbitration, and if the Company failed to make a settlement offer to you before the arbitration or the amount you win is at least 25% greater than the Company’s highest settlement offer, then the Company will pay your reasonable attorneys’ fees in addition to the amount the arbitrator awarded. If the Company wins the arbitration, you will be responsible for your own attorneys’ fees. In addition, if the arbitrator, at the request of the winning party, finds that the losing party brought a claim or asserted a defense frivolously or for an improper purpose, then regardless of the amount in dispute, the arbitrator must order the losing party to pay both sides’ arbitration fees and may order the losing party to pay the winning party’s reasonable attorneys’ fees, unless such an award of fees is prohibited by applicable law.<br/></p><p>(13) The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief, only to the extent necessary to provide relief warranted by that party's individual claim, only as permitted by applicable law, and only to the extent that declaratory and injunctive relief are permitted by these Terms and Conditions. The arbitrator shall have no authority to award punitive, exemplary, multiplied or consequential damages or any other relief not allowed under this Arbitration Agreement. The arbitrator also may not order the Company to pay any monies to or take any actions with respect to persons other than you, unless the Company explicitly consents in advance, after an arbitrator is selected, to permit the arbitrator to enter such an order. Further, unless the Company expressly agrees, the arbitrator may not consolidate other persons’ claims with yours, and may not otherwise preside over any form of a representative, multi-claimant or class proceeding. <br/></p><p>(14) You and the Company agree to maintain the confidential nature of the arbitration proceeding and shall not disclose the fact of the arbitration, any documents exchanged as part of any mediation, proceedings of the arbitration, the arbitrator’s decision and the existence or amount of any award, except as may be necessary to prepare for or conduct the arbitration (in which case anyone becoming privy to confidential information must undertake to preserve its confidentiality), or except as may be necessary in connection with a court application for a provisional remedy, a judicial challenge to an award or its enforcement, an order confirming the award, or unless otherwise required by law or court order. In keeping with the confidential nature of the arbitration, You and the Company agree that an order confirming award is only necessary if the obligations of the award have not been performed. Therefore, before taking any steps to confirm the arbitration award, the party seeking confirmation of the award must give the other party notice of its intention to confirm the award. If the party who would be the respondent in any such confirmation proceeding performs its obligation under the terms of the arbitration award within 15 business days of such notice, the party who gave notice of its intent to confirm the award shall not seek to confirm or otherwise enforce the award.<br/></p><p>(15) With the exception of subpart (a) in paragraph (9) (i.e., the waiver of the ability to proceed on behalf of multiple claimants or a purported class), if any part of this Arbitration Agreement is deemed invalid, unenforceable, or illegal, then the balance of this Arbitration Agreement shall remain in effect and be construed in accordance with its terms as if the invalid, unenforceable, or illegal provision were not contained. If, however, subpart (a) in paragraph (9) is found invalid, unenforceable or illegal, then the entirety of this Arbitration Agreement shall be null and void, but the rest of these Terms and Conditions, including the provisions governing where actions against the Company must be pursued, the choice of governing law, and our mutual waiver of the right to a trial by jury, will remain in effect and apply to any claim that, for this or any other reason, proceeds in court rather than in arbitration.<br/></p><p><b>17. License of Product Firmware or Other Software, Including Mobile Applications</b><br/></p><p>Subject to and conditioned upon user’s strict compliance with these Terms and Conditions, the Company hereby grants to you a non-exclusive, non-sublicensable, limited license during the possession of the Company’s products to use the software or firmware, solely as set forth in this section 17 and subject to all conditions and limitations set forth elsewhere in these Terms and Conditions. This license grants you the right to use and run the software or firmware as properly installed including necessary updates as pushed to your device from time to time (which updates you agree to accept) in accordance with these Terms and Conditions and any relevant A. O. Smith documentation, such as product manuals or instructions. The software and firmware are licensed, not sold. All rights in and to the software and firmware not expressly granted to you in these Terms and Conditions are expressly reserved for the Company and its licensors.</p>
+                </div>
+            
+            </div>
+        
+    </div>
+
+            </main>
+
+            
+    <footer class="SiteFooter">
+        <div class="footer-top">
+            <div class="top-wrapper">
+                
+                    <div class="logo">
+                        <a href="/" title=""><img src="/uploadedImages/Web_Assets/Images/AOS_logo_white.png?n=3582" alt="AOS_logo_white.png" /></a>
+                    </div>
+                
+                    <ul class="column-grid">
+                        
+                            <li class="column">
+                                
+                                            <a href="/About/" title="About" target="" class="title">About</a>
+                                            <ul class="subLinks">
+                                                
+                                                    <li class="subItem">
+                                                        <a href="/About/Values-and-Guiding-Principles/Our-Values/" title="Our Values" target="_self">Our Values</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="/About/Brands/" title="Brands" target="_self">Brands</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="/About/History/" title="History" target="_self">History</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="/About/Governance/" title="Governance" target="_self">Governance</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="/About/Leadership/" title="Leadership" target="_self">Leadership</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="/Sustainability/" title="Sustainability" target="_self">Sustainability</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="/About/2023-Annual-Report/" title="2023 Annual Report" target="_self">2023 Annual Report</a>
+                                                    </li>
+                                                
+                                            </ul>
+                                        
+                            </li>
+                        
+                            <li class="column">
+                                
+                                            <a href="http://investor.aosmith.com" title="Investors" target="" class="title">Investors</a>
+                                            <ul class="subLinks">
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/stock-information" title="Stock Information" target="_self">Stock Information</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/stock-history" title="Stock History" target="_self">Stock History</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/fundamentals" title="Fundamentals" target="_self">Fundamentals</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/events-and-presentations" title="Events &amp; Presentations" target="_self">Events &amp; Presentations</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/press-releases" title="Financial Releases" target="_self">Financial Releases</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/dividend-history" title="Dividend History" target="_self">Dividend History</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/static-files/d77f1ac0-e853-44a0-b76c-30c70e40169f" title="DRIP" target="_self">DRIP</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/literature" title="Literature" target="_self">Literature</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/analysts" title="Analysts" target="_self">Analysts</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="/About/Governance/" title="Governance" target="_self">Governance</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/sec-filings" title="SEC Filings" target="_self">SEC Filings</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/transfer-agent" title="Transfer Agent" target="_self">Transfer Agent</a>
+                                                    </li>
+                                                
+                                                    <li class="subItem">
+                                                        <a href="https://investor.aosmith.com/email-alerts" title="Email Alerts" target="_self">Email Alerts</a>
+                                                    </li>
+                                                
+                                            </ul>
+                                        
+                            </li>
+                        
+                            <li class="column">
+                                
+                                            <div class="section noItems">
+                                                <a href="http://jobs.aosmith.com" title="Careers" target="" class="title">Careers</a>
+                                            </div>
+                                        
+                                            <div class="section noItems">
+                                                <a href="/News/" title="News" target="" class="title">News</a>
+                                            </div>
+                                        
+                                            <div class="section noItems">
+                                                <a href="/Foundation/" title="Foundation" target="" class="title">Foundation</a>
+                                            </div>
+                                        
+                            </li>
+                        
+                            <li class="column">
+                                
+                                            <div class="section noItems">
+                                                <a href="/contact/" title="Contact Us" target="" class="title">Contact Us</a>
+                                            </div>
+                                        
+                                                <div class="questions">
+                                                    For questions about A. O. Smith products, technical support, warranty, or service needs, please visit <a href="https://www.hotwater.com">hotwater.com</a><br/><br/>
+If you are a California resident and want to understand your options under the California Consumer Privacy Act (CCPA), please refer to our <a href="/Privacy-Policy/#section07">Privacy Policy</a>.
+                                                </div>
+                                            
+                                                <a href="https://aosnet.aosmith.com" title="" target="_blank"><img src="/uploadedImages/Web_Assets/Images/footer-aosnet-logo.png" alt="Footer AOSnet logo" class="netLogo"/></a>
+                                            
+                            </li>
+                        
+                    </ul>
+                
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <div class="bottom-wrapper">
+                <div class="privacy">
+                    
+                            <ul class="footerLinks">
+                        
+                                <li><a href="/Privacy-Policy/" title="Privacy Policy" target="_self" class="link">Privacy Policy</a></li>
+                        
+                                <li><a href="/Utility-Pages/Terms-and-Conditions/" title="Terms and Conditions" target="_self" class="link">Terms and Conditions</a></li>
+                        
+                                <li><a href="http://htwtr.co/aosrec" title="Recall Info" target="_blank" class="link">Recall Info</a></li>
+                        
+                                <li><a href="/Utility-Pages/Sitemap/" title="Sitemap" target="_self" class="link">Sitemap</a></li>
+                        
+                                <li><a href="https://transparency-in-coverage.uhc.com/" title="Transparency in Coverage" target="_blank" class="link">Transparency in Coverage</a></li>
+                        
+                                <li><a class="optanon-toggle-display" style="cursor: pointer;">Do Not Sell Or Share My Info</a></li>
+                            </ul>
+                        
+                    
+                        <p class="copyright">&copy;2024 A. O. Smith, All rights reserved</p>
+                    
+                </div>
+                
+                    <div class="socialNav">
+                        <a href="https://www.facebook.com/AOSmithCorporation" title="Facebook" target="_blank" class="facebook-icon"></a>
+                        <a href="https://twitter.com/aosmithhotwater" target="_blank" class="twitter-icon"></a>
+                        <a href="http://www.linkedin.com/company/26676" target="_blank" class="linkedin-icon"></a>
+                        <a href="http://www.youtube.com/user/aosmithwaterproducts" target="_blank" class="youtube-icon"></a>
+                        <a href="http://vimeo.com/aosmith" target="_blank" class="vimeo-icon"></a>
+                        
+                    </div>
+                
+            </div>
+        </div>
+    </footer>
+
+        
+            <div class="Modal">
+                <button class="close" type="button">x</button>
+                <div class="image"></div>
+            </div>
+	    
+            
+	    	        <div class="Modal UtilityModal" data-id="modal1">
+		                <button class="close" type="button">x</button>
+		                <div class="content">
+                            
+		                        <div class="col"><div class="RTF"><h3>ProLine</h3><p>A. O. Smith ProLine water heaters are available through local plumbing contractors across the country.<br /><br />For more information about ProLine water heaters and installation options, visit <a href="https://www.hotwater.com/" title="www.hotwater.com">www.hotwater.com</a>.<br /><br /><a class="PrimaryButton" href="https://www.hotwater.com/" title="View ProLine" target="_blank">View ProLine</a><br /><br /></p></div></div>
+                            
+		                        <div class="col"><div class="RTF"><h3>Signature Series</h3><p>A. O. Smith Signature Series water heaters are exclusively available through Lowe's.<br /><br />For more information about Signature Series water heaters and installation options, visit <a href="https://www.aosmithatlowes.com/" title="www.hotwater.com">www.aosmithatlowes.com</a>.<br /><br /><a href="https://www.aosmithatlowes.com/" title="View ProLine" class="PrimaryButton" target="_blank">View Signature Series</a></p></div></div>
+                            
+		                </div>
+		            </div>
+                
+	    	        <div class="Modal UtilityModal" data-id="modal2">
+		                <button class="close" type="button">x</button>
+		                <div class="content">
+                            
+		                        <div class="col"><div class="RTF"><h3>DIY Series</h3><p>A. O. Smith's water treatment line is available exclusively at Lowe's.<br /><br />For more information about our water treatment products, including water filters and softeners, visit <a href="https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.aosmithatlowes.com&amp;data=02%7C01%7C%7Cbcd912f27697441ad7b508d7a40a1297%7Cd38f6e9b1b5d45cfbb8f92f46845a5ab%7C0%7C0%7C637158235486984298&amp;sdata=rB%2F8oUsGJFo1pfH7kYny7F48qzI9QzcGknoTKZ%2Ba%2Fmw%3D&amp;reserved=0">www.aosmithatlowes.com</a>.</p></div></div>
+                            
+		                        <div class="col"><div class="RTF"><h3>A. O Smith Pro</h3><p>The A. O. Smith Pro exclusive line, including water filtration and
+softening, is available through local wholesalers across the country.</p><p>For more information about our products, visit <a href="https://nam02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.aosmith.com%2Fwatertreatment&amp;data=02%7C01%7C%7Cbcd912f27697441ad7b508d7a40a1297%7Cd38f6e9b1b5d45cfbb8f92f46845a5ab%7C0%7C0%7C637158235486994289&amp;sdata=tlw%2FtwCuGy2jlIBsejC7q3KbbxGqCQHs4o5qR6%2BDyx0%3D&amp;reserved=0">www.aosmith.com/watertreatment</a>.</p></div></div>
+                            
+		                </div>
+		            </div>
+                
+	    	        <div class="Modal UtilityModal" data-id="modal3">
+		                <button class="close" type="button">x</button>
+		                <div class="content">
+                            
+		                        <div class="col"><div class="RTF"><p>Test content for <strong>Pop-up 3, Left side</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus posuere enim</p></div></div>
+                            
+		                        <div class="col"><div class="RTF"><p>Test content for <strong>Pop-up 3, Right side</strong></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras luctus posuere enim</p></div></div>
+                            
+		                </div>
+		            </div>
+                
+            <script id="ModalVideo" type="text/x-template">
+                <div class="ModalVideo" data-id="{{ id }}">
+                    <button class="close" type="button">x</button>
+                    <div class="video">
+                        <iframe id="player-{{ id }}" src="https://player.vimeo.com/video/{{ id }}?api=1&amp;player_id=player-{{ id }}&amp;color=fdcd18&amp;title=0&amp;byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                    </div>
+                </div>
+            </script>
+
+            <script src="/js/lib/jquery-1.11.0.js"></script>
+            <script src="/js/lib/handlebars.min.js"></script>
+            <script src="/js/lib/modernizr.js"></script>
+            <script src="/js/lib/fitvids.js"></script>
+            <script src="/js/lib/froogaloop.js"></script>
+            <script src="/js/lib/event-handler.js"></script>
+            <script src="/js/lib/modal-handler.js"></script>
+            <script src="/js/lib/MediaQueryImgAttrs.js"></script>
+            <script src="/js/lib/DynamicWidthImgAttrs.js"></script>
+            <script src="/js/lib/Dragger.js"></script>
+            <script src="/js/site.js"></script>
+            
+    <script src="/js/lib/query-string-handler.js"></script>
+    <script src="/js/privacy-policy.js"></script>
+
+        </form>
+    <!-- Page Scripts-Body Bottom (n/a) -->
+</body>
+</html>
