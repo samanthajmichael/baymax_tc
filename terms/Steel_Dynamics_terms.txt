@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head><style>img.lazy{min-height:1px}</style><link rel="preload" href="https://www.steeldynamics.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.steeldynamics.com/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+	
+	<title>Terms of Use | Steel Dynamics</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Steel Dynamics &raquo; Feed" href="https://www.steeldynamics.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Steel Dynamics &raquo; Comments Feed" href="https://www.steeldynamics.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.steeldynamics.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<meta content="FRESHROBOT CHILD v.1.0.0" name="generator"/><style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.steeldynamics.com/wp-includes/css/dist/block-library/style.min.css?ver=6.5.5' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:#ffffffa6}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:#ffffffa6}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ds_admin_module-css' href='https://www.steeldynamics.com/wp-content/plugins/cwp-divi-sumo//styles/admin-module-style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-jobs-general-css' href='https://www.steeldynamics.com/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=3.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-jobs-style-css' href='https://www.steeldynamics.com/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=3.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='et-divi-open-sans-css' href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-sumo-styles-css' href='https://www.steeldynamics.com/wp-content/plugins/cwp-divi-sumo/styles/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='supreme-modules-pro-for-divi-styles-css' href='https://www.steeldynamics.com/wp-content/plugins/supreme-modules-pro-for-divi/styles/style.min.css?ver=4.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Montserrat:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic&#038;subset=latin,latin-ext&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-job-pro-country-select-css' href='https://www.steeldynamics.com/wp-content/plugins/pro-pack-for-wp-job-openings/assets/css/intlTelInput.min.css?ver=17.0.16' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-job-pro-style-css' href='https://www.steeldynamics.com/wp-content/plugins/pro-pack-for-wp-job-openings/assets/css/style.min.css?ver=3.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-parent-css' href='https://www.steeldynamics.com/wp-content/themes/Divi/style-static.min.css?ver=4.27.1' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.steeldynamics.com/wp-content/themes/Divi-child/style.css?ver=4.27.1' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css' href='https://www.steeldynamics.com/wp-content/themes/Divi-child/style.css?ver=4.27.1' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/plugins/cwp-divi-sumo//custom-scripts/lottie-player.js?ver=initial" id="cwp_ds_lottie_script-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/plugins/b2i-investor-tools/js/wb_script.js?ver=1.0.7.6" id="whistleblower-js"></script>
+<link rel="https://api.w.org/" href="https://www.steeldynamics.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.steeldynamics.com/wp-json/wp/v2/pages/3827" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.steeldynamics.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.5" />
+<link rel="canonical" href="https://www.steeldynamics.com/terms-of-use/" />
+<link rel='shortlink' href='https://www.steeldynamics.com/?p=3827' />
+<link rel="alternate" type="application/json+oembed" href="https://www.steeldynamics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.steeldynamics.com%2Fterms-of-use%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.steeldynamics.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.steeldynamics.com%2Fterms-of-use%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><script>
+jQuery(function($){
+  $('.et_pb_toggle_title').click(function(){
+    var $toggle = $(this).closest('.et_pb_toggle');
+    if (!$toggle.hasClass('et_pb_accordion_toggling')) {
+      var $accordion = $toggle.closest('.et_pb_accordion');
+      if ($toggle.hasClass('et_pb_toggle_open')) {
+        $accordion.addClass('et_pb_accordion_toggling');
+        $toggle.find('.et_pb_toggle_content').slideToggle(700, function() { 
+          $toggle.removeClass('et_pb_toggle_open').addClass('et_pb_toggle_close'); 
+					
+        });
+      }
+      setTimeout(function(){ 
+        $accordion.removeClass('et_pb_accordion_toggling'); 
+      }, 750);
+    }
+  });
+});
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src=https://www.googletagmanager.com/gtag/js?id=G-91LPNXCYCZ></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+ 
+
+  gtag('config', 'G-91LPNXCYCZ');
+
+</script><link rel="icon" href="https://www.steeldynamics.com/wp-content/uploads/2021/06/cropped-favicon2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.steeldynamics.com/wp-content/uploads/2021/06/cropped-favicon2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.steeldynamics.com/wp-content/uploads/2021/06/cropped-favicon2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.steeldynamics.com/wp-content/uploads/2021/06/cropped-favicon2-270x270.png" />
+<style id="et-divi-customizer-global-cached-inline-styles">body,.et_pb_column_1_2 .et_quote_content blockquote cite,.et_pb_column_1_2 .et_link_content a.et_link_main_url,.et_pb_column_1_3 .et_quote_content blockquote cite,.et_pb_column_3_8 .et_quote_content blockquote cite,.et_pb_column_1_4 .et_quote_content blockquote cite,.et_pb_blog_grid .et_quote_content blockquote cite,.et_pb_column_1_3 .et_link_content a.et_link_main_url,.et_pb_column_3_8 .et_link_content a.et_link_main_url,.et_pb_column_1_4 .et_link_content a.et_link_main_url,.et_pb_blog_grid .et_link_content a.et_link_main_url,body .et_pb_bg_layout_light .et_pb_post p,body .et_pb_bg_layout_dark .et_pb_post p{font-size:14px}.et_pb_slide_content,.et_pb_best_value{font-size:15px}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}.cwp_image_wrapper{margin:0 auto}#gform_submit_button_4,#gform_submit_button_3{background:#000;color:#fff;padding:10px;border:none}#field_4_5 a,#field_3_5 a{color:#000}.contactfloatleft{float:left}.contactfloatright{float:right}.page-id-614 a{color:#000!important}span.contactus{color:#53C4FF!important}.et_pb_menu_1_tb_header .mobile_nav .mobile_menu_bar::before{color:#000!important;font-size:45px}.et_pb_accordion_item_0,h2.gform_title{display:none!important}.et_pb_accordion .et_pb_toggle_open .et_pb_toggle_title::before{display:block!important}.nav li ul{width:290px!important}.et-menu li li a{width:270px!important}.nav li ul{box-shadow:none!important;-webkit-box-shadow:none!important}.certi a:hover{color:#bcc5c9!important}</style></head>
+<body class="page-template-default page page-id-3827 et-tb-has-template et-tb-has-header et-tb-has-footer cookies-not-set et_pb_button_helper_class et_cover_background et_pb_gutter et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db">
+	<div id="page-container">
+<div id="et-boc" class="et-boc">
+			
+		<header class="et-l et-l--header">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0_tb_header et_pb_sticky_module et_section_regular et_pb_section--with-menu" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_header et_pb_row--with-menu">
+				<div class="et_pb_column et_pb_column_1_5 et_pb_column_0_tb_header  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0_tb_header">
+				
+				
+				
+				
+				<a href="https://www.steeldynamics.com/"><span class="et_pb_image_wrap "><img decoding="async" width="304" height="79" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20304%2079'%3E%3C/svg%3E" data-src="https://www.steeldynamics.com/wp-content/uploads/2021/08/SDI.jpg" alt="" title="SDI" data-srcset="https://www.steeldynamics.com/wp-content/uploads/2021/08/SDI.jpg 304w, https://www.steeldynamics.com/wp-content/uploads/2021/08/SDI-300x78.jpg 300w" data-sizes="(max-width: 304px) 100vw, 304px" class="wp-image-2393 lazy" /></span></a>
+			</div>
+			</div><div class="et_pb_column et_pb_column_3_5 et_pb_column_1_tb_header  et_pb_css_mix_blend_mode_passthrough et_pb_column--with-menu">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_menu et_pb_menu_0_tb_header et_pb_bg_layout_light  et_pb_text_align_right et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-left_aligned">
+					
+					
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-top-nav" class="et-menu nav"><li id="menu-item-4703" class="et_pb_menu_page_id-4680 menu-item menu-item-type-post_type menu-item-object-page menu-item-4703"><a href="https://www.steeldynamics.com/careersnew/">Careers</a></li>
+<li id="menu-item-1991" class="et_pb_menu_page_id-1991 menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a target="_blank" rel="noopener" href="https://benefits.steeldynamics.com/">Team Members</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</div>
+			</div>
+						</div>
+						
+					</div>
+				</div><div class="et_pb_module et_pb_menu et_pb_menu_1_tb_header et_pb_bg_layout_light  et_pb_text_align_right et_dropdown_animation_fade et_pb_menu--without-logo et_pb_menu--style-left_aligned">
+					
+					
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-nav" class="et-menu nav"><li class="et_pb_menu_page_id-612 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-618"><a href="https://www.steeldynamics.com/our-company/">Our Company</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-726 menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="https://www.steeldynamics.com/history/">History</a></li>
+	<li class="et_pb_menu_page_id-4740 menu-item menu-item-type-post_type menu-item-object-page menu-item-5019"><a href="https://www.steeldynamics.com/leadership/">Leadership</a></li>
+	<li class="et_pb_menu_page_id-732 menu-item menu-item-type-post_type menu-item-object-page menu-item-741"><a href="https://www.steeldynamics.com/awards/">Awards</a></li>
+	<li class="et_pb_menu_page_id-4680 menu-item menu-item-type-post_type menu-item-object-page menu-item-5047"><a href="https://www.steeldynamics.com/careersnew/">Careers</a></li>
+	<li class="et_pb_menu_page_id-5048 menu-item menu-item-type-custom menu-item-object-custom menu-item-5048"><a href="https://benefits.steeldynamics.com/Account/Login?ReturnUrl=%2f">Team Members</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-86 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86"><a href="#">Products</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-241 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-245"><a href="https://www.steeldynamics.com/steel/">Steel</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-284 menu-item menu-item-type-post_type menu-item-object-page menu-item-287"><a href="https://www.steeldynamics.com/flat-roll/">Flat Roll Steel</a></li>
+		<li class="et_pb_menu_page_id-436 menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="https://www.steeldynamics.com/long-products-steel/">Long Products Steel</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-437 menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="https://www.steeldynamics.com/steel-joist-and-decking/">Steel Joists and Deck</a></li>
+	<li class="et_pb_menu_page_id-438 menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a href="https://www.steeldynamics.com/recycled-metals/">Recycled Metals</a></li>
+	<li class="et_pb_menu_page_id-439 menu-item menu-item-type-post_type menu-item-object-page menu-item-448"><a href="https://www.steeldynamics.com/processed-copper/">Processed Copper</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-397 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-404"><a href="https://www.steeldynamics.com/sustainability/">Sustainability</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-398 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-405"><a href="https://www.steeldynamics.com/valuing-our-people/">Valuing People</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-399 menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="https://www.steeldynamics.com/health-and-safety/">Health and Safety</a></li>
+		<li class="et_pb_menu_page_id-495 menu-item menu-item-type-post_type menu-item-object-page menu-item-506"><a href="https://www.steeldynamics.com/talent-development/">Talent Development</a></li>
+		<li class="et_pb_menu_page_id-5606 menu-item menu-item-type-post_type menu-item-object-page menu-item-5725"><a href="https://www.steeldynamics.com/veteran-program/">Veteran Program</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-496 menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://www.steeldynamics.com/valuing-our-stakeholders/">Valuing Relationships</a></li>
+	<li class="et_pb_menu_page_id-497 menu-item menu-item-type-post_type menu-item-object-page menu-item-507"><a href="https://www.steeldynamics.com/valuing-our-environment/">Valuing the Environment</a></li>
+	<li class="et_pb_menu_page_id-498 menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="https://www.steeldynamics.com/sustainability-reporting/">Sustainability Reporting</a></li>
+	<li class="et_pb_menu_page_id-499 menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a href="https://www.steeldynamics.com/certifications/">Certifications, SDS &#038; EPDs</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-620 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-620"><a target="_blank" rel="noopener" href="https://ir.steeldynamics.com/">Investors</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-3519 menu-item menu-item-type-custom menu-item-object-custom menu-item-3519"><a href="https://ir.steeldynamics.com/press-releases/">Press Releases</a></li>
+	<li class="et_pb_menu_page_id-3520 menu-item menu-item-type-custom menu-item-object-custom menu-item-3520"><a href="https://ir.steeldynamics.com/events-presentations/">Events &#038; Presentations</a></li>
+	<li class="et_pb_menu_page_id-3521 menu-item menu-item-type-custom menu-item-object-custom menu-item-3521"><a href="https://ir.steeldynamics.com/annual-reports/">Annual Reports</a></li>
+	<li class="et_pb_menu_page_id-3522 menu-item menu-item-type-custom menu-item-object-custom menu-item-3522"><a href="https://ir.steeldynamics.com/sec-filings/">SEC Filings</a></li>
+	<li class="et_pb_menu_page_id-3711 menu-item menu-item-type-custom menu-item-object-custom menu-item-3711"><a href="https://ir.steeldynamics.com/stock-information/">Stock Information</a></li>
+	<li class="et_pb_menu_page_id-3523 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3523"><a href="#">Governance</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-3539 menu-item menu-item-type-custom menu-item-object-custom menu-item-3539"><a href="https://www.steeldynamics.com/leadership/">Management</a></li>
+		<li class="et_pb_menu_page_id-3540 menu-item menu-item-type-custom menu-item-object-custom menu-item-3540"><a href="https://ir.steeldynamics.com/governance#directors">Directors</a></li>
+		<li class="et_pb_menu_page_id-3541 menu-item menu-item-type-custom menu-item-object-custom menu-item-3541"><a href="https://ir.steeldynamics.com/governance#governance-documents">Governance Documents</a></li>
+		<li class="et_pb_menu_page_id-3542 menu-item menu-item-type-custom menu-item-object-custom menu-item-3542"><a href="https://ir.steeldynamics.com/governance#committee-composition">Committee Composition</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-3524 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3524"><a href="https://ir.steeldynamics.com/resources/">Resources</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-4510 menu-item menu-item-type-custom menu-item-object-custom menu-item-4510"><a href="https://ir.steeldynamics.com/resources#stockholder-information">Stockholder Information</a></li>
+		<li class="et_pb_menu_page_id-3544 menu-item menu-item-type-custom menu-item-object-custom menu-item-3544"><a href="https://ir.steeldynamics.com/resources#analyst-coverage">Analyst Coverage</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-3525 menu-item menu-item-type-custom menu-item-object-custom menu-item-3525"><a href="https://ir.steeldynamics.com/email-alerts/">Email Signup</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-614 menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="https://www.steeldynamics.com/contact-us/">Contact Us</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</div>
+			</div>
+						</div>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_column et_pb_column_1_5 et_pb_column_2_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_header  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><div id="QuoteDiv40" class="B2iQuoteContainer "></div>
+<script src="https://www.b2i.us/b2i/QuoteApi.asp?v=1.0.7.6" type="text/javascript"></script>
+<script type="text/javascript">
+oQuote.BizID="2197";
+oQuote.sKey="I2f7R8j5B8";
+oQuote.sDiv="QuoteDiv40";
+oQuote.Symbol="www";
+oQuote.sHttp="https";
+oQuote.Format="40";
+oQuote.Dollar="1";
+oQuote.DecLen="2";
+getQuoteData();
+</script>
+</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_2_tb_header et_section_regular et_pb_section--with-menu" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1_tb_header et_pb_row--with-menu">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3_tb_header  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column--with-menu">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_menu et_pb_menu_2_tb_header et_pb_bg_layout_light  et_pb_text_align_left et_dropdown_animation_fade et_pb_menu--with-logo et_pb_menu--style-left_aligned">
+					
+					
+					
+					
+					<div class="et_pb_menu_inner_container clearfix">
+						<div class="et_pb_menu__logo-wrap">
+			  <div class="et_pb_menu__logo">
+				<a href="https://www.steeldynamics.com/" ><img decoding="async" width="172" height="138" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20172%20138'%3E%3C/svg%3E" data-src="https://www.steeldynamics.com/wp-content/uploads/2021/03/mobile-logo.jpg" alt="" class="wp-image-90 lazy" /></a>
+			  </div>
+			</div>
+						<div class="et_pb_menu__wrap">
+							<div class="et_pb_menu__menu">
+								<nav class="et-menu-nav"><ul id="menu-nav-1" class="et-menu nav"><li class="et_pb_menu_page_id-612 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-618"><a href="https://www.steeldynamics.com/our-company/">Our Company</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-726 menu-item menu-item-type-post_type menu-item-object-page menu-item-738"><a href="https://www.steeldynamics.com/history/">History</a></li>
+	<li class="et_pb_menu_page_id-4740 menu-item menu-item-type-post_type menu-item-object-page menu-item-5019"><a href="https://www.steeldynamics.com/leadership/">Leadership</a></li>
+	<li class="et_pb_menu_page_id-732 menu-item menu-item-type-post_type menu-item-object-page menu-item-741"><a href="https://www.steeldynamics.com/awards/">Awards</a></li>
+	<li class="et_pb_menu_page_id-4680 menu-item menu-item-type-post_type menu-item-object-page menu-item-5047"><a href="https://www.steeldynamics.com/careersnew/">Careers</a></li>
+	<li class="et_pb_menu_page_id-5048 menu-item menu-item-type-custom menu-item-object-custom menu-item-5048"><a href="https://benefits.steeldynamics.com/Account/Login?ReturnUrl=%2f">Team Members</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-86 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-86"><a href="#">Products</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-241 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-245"><a href="https://www.steeldynamics.com/steel/">Steel</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-284 menu-item menu-item-type-post_type menu-item-object-page menu-item-287"><a href="https://www.steeldynamics.com/flat-roll/">Flat Roll Steel</a></li>
+		<li class="et_pb_menu_page_id-436 menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="https://www.steeldynamics.com/long-products-steel/">Long Products Steel</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-437 menu-item menu-item-type-post_type menu-item-object-page menu-item-446"><a href="https://www.steeldynamics.com/steel-joist-and-decking/">Steel Joists and Deck</a></li>
+	<li class="et_pb_menu_page_id-438 menu-item menu-item-type-post_type menu-item-object-page menu-item-447"><a href="https://www.steeldynamics.com/recycled-metals/">Recycled Metals</a></li>
+	<li class="et_pb_menu_page_id-439 menu-item menu-item-type-post_type menu-item-object-page menu-item-448"><a href="https://www.steeldynamics.com/processed-copper/">Processed Copper</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-397 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-404"><a href="https://www.steeldynamics.com/sustainability/">Sustainability</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-398 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-405"><a href="https://www.steeldynamics.com/valuing-our-people/">Valuing People</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-399 menu-item menu-item-type-post_type menu-item-object-page menu-item-406"><a href="https://www.steeldynamics.com/health-and-safety/">Health and Safety</a></li>
+		<li class="et_pb_menu_page_id-495 menu-item menu-item-type-post_type menu-item-object-page menu-item-506"><a href="https://www.steeldynamics.com/talent-development/">Talent Development</a></li>
+		<li class="et_pb_menu_page_id-5606 menu-item menu-item-type-post_type menu-item-object-page menu-item-5725"><a href="https://www.steeldynamics.com/veteran-program/">Veteran Program</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-496 menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://www.steeldynamics.com/valuing-our-stakeholders/">Valuing Relationships</a></li>
+	<li class="et_pb_menu_page_id-497 menu-item menu-item-type-post_type menu-item-object-page menu-item-507"><a href="https://www.steeldynamics.com/valuing-our-environment/">Valuing the Environment</a></li>
+	<li class="et_pb_menu_page_id-498 menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="https://www.steeldynamics.com/sustainability-reporting/">Sustainability Reporting</a></li>
+	<li class="et_pb_menu_page_id-499 menu-item menu-item-type-post_type menu-item-object-page menu-item-510"><a href="https://www.steeldynamics.com/certifications/">Certifications, SDS &#038; EPDs</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-620 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-620"><a target="_blank" rel="noopener" href="https://ir.steeldynamics.com/">Investors</a>
+<ul class="sub-menu">
+	<li class="et_pb_menu_page_id-3519 menu-item menu-item-type-custom menu-item-object-custom menu-item-3519"><a href="https://ir.steeldynamics.com/press-releases/">Press Releases</a></li>
+	<li class="et_pb_menu_page_id-3520 menu-item menu-item-type-custom menu-item-object-custom menu-item-3520"><a href="https://ir.steeldynamics.com/events-presentations/">Events &#038; Presentations</a></li>
+	<li class="et_pb_menu_page_id-3521 menu-item menu-item-type-custom menu-item-object-custom menu-item-3521"><a href="https://ir.steeldynamics.com/annual-reports/">Annual Reports</a></li>
+	<li class="et_pb_menu_page_id-3522 menu-item menu-item-type-custom menu-item-object-custom menu-item-3522"><a href="https://ir.steeldynamics.com/sec-filings/">SEC Filings</a></li>
+	<li class="et_pb_menu_page_id-3711 menu-item menu-item-type-custom menu-item-object-custom menu-item-3711"><a href="https://ir.steeldynamics.com/stock-information/">Stock Information</a></li>
+	<li class="et_pb_menu_page_id-3523 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3523"><a href="#">Governance</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-3539 menu-item menu-item-type-custom menu-item-object-custom menu-item-3539"><a href="https://www.steeldynamics.com/leadership/">Management</a></li>
+		<li class="et_pb_menu_page_id-3540 menu-item menu-item-type-custom menu-item-object-custom menu-item-3540"><a href="https://ir.steeldynamics.com/governance#directors">Directors</a></li>
+		<li class="et_pb_menu_page_id-3541 menu-item menu-item-type-custom menu-item-object-custom menu-item-3541"><a href="https://ir.steeldynamics.com/governance#governance-documents">Governance Documents</a></li>
+		<li class="et_pb_menu_page_id-3542 menu-item menu-item-type-custom menu-item-object-custom menu-item-3542"><a href="https://ir.steeldynamics.com/governance#committee-composition">Committee Composition</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-3524 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3524"><a href="https://ir.steeldynamics.com/resources/">Resources</a>
+	<ul class="sub-menu">
+		<li class="et_pb_menu_page_id-4510 menu-item menu-item-type-custom menu-item-object-custom menu-item-4510"><a href="https://ir.steeldynamics.com/resources#stockholder-information">Stockholder Information</a></li>
+		<li class="et_pb_menu_page_id-3544 menu-item menu-item-type-custom menu-item-object-custom menu-item-3544"><a href="https://ir.steeldynamics.com/resources#analyst-coverage">Analyst Coverage</a></li>
+	</ul>
+</li>
+	<li class="et_pb_menu_page_id-3525 menu-item menu-item-type-custom menu-item-object-custom menu-item-3525"><a href="https://ir.steeldynamics.com/email-alerts/">Email Signup</a></li>
+</ul>
+</li>
+<li class="et_pb_menu_page_id-614 menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="https://www.steeldynamics.com/contact-us/">Contact Us</a></li>
+</ul></nav>
+							</div>
+							
+							
+							<div class="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="mobile_menu_bar"></span>
+				</div>
+			</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</header>
+	<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-3827" class="post-3827 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1>Terms of Use</h1></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_2">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
+				
+				
+				
+				
+				
+			</div><div class="et_pb_with_border et_pb_column_1_2 et_pb_column et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+				
+				
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_3">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>These Terms of Use (the “Terms”) govern your access to and use of the websites of Steel Dynamics, Inc. and its subsidiaries (collectively, “Steel Dynamics,” “we,” “us,” “our”), and any information, text, graphics, photos, or other content uploaded to, downloaded from, or appearing on the Site (collectively, the “Materials”). By accessing or using the Site, which includes your access to and use of the Site, you agree to be bound by these Terms. Your access and use of the Site are conditioned on your acceptance of and compliance with these Terms. These Terms are an agreement between you and Steel Dynamics (“Steel Dynamics,” “we,” “us”).</p>
+<h3><strong>Scope</strong></h3>
+<p>These Terms apply to the websites and subdomains (collectively, the “Site”) of Steel Dynamics, Inc. and its subsidiaries, including, but not limited to, those listed below. These Terms apply regardless of the medium in which the Site is accessed by a user (e.g., via a web or mobile browser). <strong>In the event that a Steel Dynamics, Inc. subsidiary posts Terms of Use that are inconsistent or in conflict with these Terms, then the subsidiary’s Terms of Use will prevail and govern to the extent of the inconsistency or conflict in connection with the use of the subsidiary’s website.</strong></p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_4">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Subsidiary</h3>
+<ul>
+<li>New Millennium Building Systems, LLC</li>
+<li>OmniSource, LLC</li>
+<li>Vulcan Threaded Products, Inc.</li>
+<li>SWVA, Inc.</li>
+<li>SDI LaFarga, LLC</li>
+<li>Roanoke Electric Steel Corporation</li>
+</ul></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Website</h3>
+<ul>
+<li><a href="http://www.newmill.com" target="_blank" rel="noopener">www.newmill.com</a></li>
+<li><a href="http://www.omnisource.com" target="_blank" rel="noopener">www.omnisource.com</a></li>
+<li><a href="http://www.vulc.com" target="_blank" rel="noopener">www.vulc.com</a></li>
+<li><a href="http://www.swvainc.com" target="_blank" rel="noopener">www.swvainc.com</a></li>
+<li><a href="http://www.sdilafarga.com" target="_blank" rel="noopener">www.sdilafarga.com</a></li>
+<li><a href="http://www.roanokesteel.com" target="_blank" rel="noopener">www.roanokesteel.com</a></li>
+</ul></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_5  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Privacy Notice</h3>
+<p>We are committed to protecting the privacy of your information. Please review our Privacy Notice at <a href="https://www.steeldynamics.com/privacy-policy/">https://www.steeldynamics.com/privacy-policy/</a> for details about how we collect, use, and disclose your information in connection with your access and use of the Site.</p>
+<h3>Intellectual Property and Use of the Site</h3>
+<p>The Site and its Materials are protected by copyright, trademark, and other intellectual property rights and laws of the United States and other applicable countries. You agree to abide by all applicable proprietary rights and laws, as well as any trademark or copyright notices or restrictions contained in the Terms. The trademarks, service marks, slogans, logos, trade dress, and other identifiers (“Marks”) displayed in the Materials are our property, unless otherwise disclosed. You are prohibited from modifying, copying, displaying, distributing, transmitting, publishing, selling, licensing, creating derivative works from, or using any portions of the Materials for commercial or public purposes without our express authorization. You may not copy any material from the Materials without the express prior written authorization of Steel Dynamics and subject to our copyright notice being affixed to the copied material. Nothing contained herein shall be construed as conferring by implication, estoppel, or otherwise any license or right under any patent, trademark, copyright, or other proprietary right of Steel Dynamics.</p>
+<p>Except as otherwise indicated elsewhere on this Site, you may view, download, and print the Materials available on this Site subject to the following conditions:</p>
+<ul style="line-height: 2rem; padding-left: 55px; padding-top: 15px;">
+<li>The Materials may be used solely for personal, informational, internal, non-commercial purposes.</li>
+<li>The documents and information may not be modified or altered in any way.</li>
+<li>The documents and information on the Site may not be distributed.</li>
+<li>You may not remove any copyright or other proprietary notices contained in the documents and information.</li>
+<li>Steel Dynamics reserves the right to revoke the authorization to view, download, and print the Materials available on this Site at any time, and any such use shall be discontinued immediately upon written notice from Steel Dynamics.</li>
+<li>The rights granted to you constitute a license and not a transfer of title.</li>
+</ul>
+<p>The rights specified above to view, download, and print the documents and information available on this Site are not applicable to the design or layout of this Site. Elements of this Site are protected by trade dress and other laws and may not be copied or imitated in whole or in part.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_6  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Third-Party Content</h3>
+<p>We may display advertisements or other content from third parties on the Site, such as banner advertisements, pop-up windows, and links to third-party websites. We are not responsible for such advertisements and content, or for any products, services, or other materials relating to such advertisements or content. Your linking to any websites from the Site is at your own risk.</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Prohibited Communications</h3>
+<p>You are prohibited from using the Site to post or transmit any threatening, libelous, defamatory, obscene, scandalous, inflammatory, pornographic, or profane material; any material that is contrary to applicable local, federal, or international laws and regulations; or any material that could constitute or encourage unlawful conduct. We may from time to time monitor or review material transmitted or posted using the Site, and we reserve the right to delete any material our company deems inappropriate. We are under no obligation to do so and assume no responsibility or liability arising from any material transmitted or posted using the Site.</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_8  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>User Account</h3>
+<p>You are responsible for maintaining the confidentiality of your log-in credentials in connection with a user account you register using the Site (your “Account”). You represent and warrant that all required registration information you submit is truthful and accurate, and you will maintain the accuracy of such information. You are responsible for maintaining the confidentiality of your Account log-in credentials and are fully responsible for all activities that occur under your Account. You agree to immediately notify Steel Dynamics of any unauthorized use, or suspected unauthorized use, of your Account or any other compromise of security. Steel Dynamics cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.</p>
+<h3>Warranties and Disclaimers</h3>
+<p>Except as expressly provided otherwise in a written agreement between you and Steel Dynamics, THE SITE AND RELATED MATERIALS ARE PROVIDED “AS IS” WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AND STEEL DYNAMICS HEREBY DISCLAIMS ALL WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, and the warranty of non-infringement. Without limiting the foregoing, Steel Dynamics makes no warranty that (i) the Site and Materials will meet your requirements, (ii) the Site and Materials will be uninterrupted, timely, secure, or error-free, (iii) the results that may be obtained from the use of the Site or Materials will be effective, accurate, or reliable, and (iv) the quality of any Site or Materials purchased or obtained by you from the Site will meet your expectations. Some states or jurisdictions do not allow the exclusion of implied warranties or limitations on how long an implied warranty may last, so the above limitations may not apply to you. To the extent permissible, any implied warranties are limited to ninety (90) days.</p>
+<p>In no event shall Steel Dynamics be liable to you or any third party for any special, punitive, incidental, indirect, or consequential damages of any kind, or any damages whatsoever, including, without limitation, those resulting from loss of use, data, or profits, whether or not Steel Dynamics has been advised of the possibility of such damages, and on any theory of liability, arising out of or in connection with the use of this Site or of any website referenced or linked to from this Site. Some jurisdictions prohibit the exclusion or limitation of liability for consequential or incidental damages, so the above limitations may not apply to you.</p>
+<p>The use of the Site is done at your own discretion and risk. No advice or information, whether oral or written, obtained by you from Steel Dynamics or through or from the Site shall create any warranty not expressly stated in these Terms.<br />Indemnity</p>
+<h3>Indemnity</h3>
+<p>You agree to indemnify and hold Steel Dynamics, and its subsidiaries, affiliates, officers, agents, co-branders, or other partners, and employees, harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of content you submit, post to, or transmit through the Site, your connection to the Site, your use of the Site, your violation of these Terms, or your violation of any rights of another person or entity.</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Dispute Resolution; Binding Arbitration</h3>
+<p>PLEASE READ THE FOLLOWING SECTION CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE CERTAIN DISPUTES AND CLAIMS WITH STEEL DYNAMICS AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM US.</p>
+<p><em><span style="text-decoration: underline;">Binding Arbitration.</span></em> Except for any disputes, claims, suits, actions, causes of action, demands, or proceedings (collectively, “Disputes”) arising out of or related to a violation of these Terms or Disputes in which either party seeks to bring an individual action in small claims court or seeks injunctive or other equitable relief for the alleged unlawful use of intellectual property, including, without limitation, copyrights, trademarks, trade names, logos, trade secrets, or patents, you and Steel Dynamics agree (a) to waive your and Steel Dynamics&#8217; respective rights to have any and all Disputes arising from or related to this Agreement, or the Site, resolved in a court, and (b) to waive your and Steel Dynamics’ respective rights to a jury trial. Instead, you and Steel Dynamics agree to arbitrate Disputes through binding arbitration (which is the referral of a Dispute to one or more persons charged with reviewing the Dispute and making a final and binding determination to resolve it instead of having the Dispute decided by a judge or jury in court).</p>
+<p><em><span style="text-decoration: underline;">No Class Arbitrations, Class Actions or Representative Actions.</span></em> You agree that any Dispute arising out of or related to the Terms or the Site is personal to you and Steel Dynamics, and that such Dispute will be resolved solely through individual arbitration and will not be brought as a class arbitration, class action, or any other type of representative proceeding. You and Steel Dynamics agree that there will be no class arbitration or arbitration in which an individual attempts to resolve a Dispute as a representative of another individual or group of individuals. Further, you and Steel Dynamics agree that a Dispute cannot be brought as a class or other type of representative action, whether within or outside of arbitration, or on behalf of any other individual or group of individuals. The arbitrator does not have the power to vary these class action waiver provisions.</p>
+<p><em><span style="text-decoration: underline;">Federal Arbitration Act.</span></em> You agree that the Terms affect interstate commerce and the enforceability of the Dispute Resolution; Binding Arbitration Terms shall be both substantively and procedurally governed by and construed and enforced in accordance with the Federal Arbitration Act, 9 U.S.C. § 1 et seq. (the “FAA”), to the maximum extent permitted by applicable law.</p>
+<p><em><span style="text-decoration: underline;">Notice; Informal Dispute Resolution.</span></em> You and Steel Dynamics agree that each party will notify the other party in writing of any arbitrable or small claims Dispute within thirty (30) days of the date it arises, so that the parties can attempt in good faith to resolve the Dispute informally. Notice to Steel Dynamics shall be sent by certified mail or courier to 7575 West Jefferson Blvd., Fort Wayne, IN 46804, Attn: Corporate Legal Department. If you and Steel Dynamics cannot agree how to resolve the Dispute within thirty (30) days after the date notice is received by the applicable party, then either you or Steel Dynamics may, as appropriate and in accordance with these Terms, commence an arbitration proceeding or, to the extent specifically provided for in these Terms, file a claim in court.</p>
+<p><em><span style="text-decoration: underline;">Authority of Arbitrator.</span></em> As limited by the FAA and this Agreement, the arbitrator will have (a) the exclusive authority and jurisdiction to make all procedural and substantive decisions regarding a Dispute, including the determination of whether a Dispute is arbitrable, and (b) the authority to grant any remedy that would otherwise be available in court, provided, however, that the arbitrator does not have the authority to conduct a class arbitration or a representative action, which is prohibited by this Agreement. The arbitrator may only conduct an individual arbitration and may not consolidate more than one individual’s claims, preside over any type of class or representative proceeding, or preside over any proceeding involving more than one individual. Notwithstanding any other provision of this section of the Terms, any and all issues relating to the scope, interpretation, and enforceability of the class action waiver provisions contained in this section, are to be decided only by a court of competent jurisdiction, and not by the arbitrator.</p>
+<p><em><span style="text-decoration: underline;">Opt-Out Right.</span></em> You have the right to opt out of binding arbitration within thirty (30) days of the date you first accepted the Terms by writing to: Legal Department, Steel Dynamics, Inc., <strong>7575 West Jefferson Blvd., Fort Wayne, IN 46804</strong>. In order to be effective, the opt-out notice must include your full name and clearly indicate your intent to opt out of binding arbitration. By opting out of binding arbitration, you are agreeing to resolve Disputes in accordance with the section regarding “Governing Law and Venue” below.</p>
+<h3>Governing Law and Value</h3>
+<p>You agree that the laws of the State of Indiana, without regard to the conflict of laws principles, shall govern these Terms and any dispute arising out of your use of the Site or Materials that might arise between you and Steel Dynamics. The federal and state courts of the State of Indiana located in Allen County shall have exclusive jurisdiction over all claims. Notwithstanding the foregoing, you agree that we may, in our sole discretion, bring a claim in any forum in which personal jurisdiction can be exercised.</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Right of Modification and Termination</h3>
+<p>We may at any time revise these Terms by updating this posting. You are bound by such revisions and should therefore periodically visit this page to review the current Terms. Additionally, we may terminate this agreement at any time, without notice to you, if we believe, in our sole discretion, that you have breached, or may breach, any term or condition of the Terms, or we may terminate this agreement for our convenience. You may terminate this agreement at any time by destroying all information received from our Site and ceasing to use our Site.</p>
+<p>We reserve the right, without notice and for any reason, to remove any Materials from the Site, correct any errors, inaccuracies, or omissions in any Materials on the Site, change or update any Materials on the Site, and to deny access of any user(s) to all or any part of the Site at any time and without prior notice. We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Site (or any part thereof) with or without notice. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuance of the Site.</p>
+<p>&nbsp;</p>
+<h3>Severability</h3>
+<p>In the event that any provision of these Terms is determined to be unlawful, void, or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms, such determination shall not affect the validity and enforceability of any other remaining provisions.</p>
+<p>&nbsp;</p>
+<h3>Entire Agreement</h3>
+<p>Our failure to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. These Terms and any policies or operating rules posted by Steel Dynamics on the Site constitute the entire agreement and understanding between you and us, and govern your use of the Site, superseding any prior or contemporaneous agreements, communications, and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms). Any ambiguities in the interpretation of these Terms shall not be construed against the drafting party.</p>
+<p>&nbsp;</p>
+<h3>Questions</h3>
+<p>If you have any questions about these Terms, please contact us at <a href="tel:2609693500">(260) 969-3500</a>.</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+						</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0_tb_footer">
+				<div class="et_pb_column et_pb_column_2_3 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h3>Connect with Us</h3></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0_tb_footer clearfix  et_pb_bg_layout_light">
+				
+				
+				
+				
+				<li
+            class='et_pb_social_media_follow_network_0_tb_footer et_pb_social_icon et_pb_social_network_link  et-social-linkedin'><a
+              href='https://www.linkedin.com/company/steel-dynamics-inc/?viewAsMember=true'
+              class='icon et_pb_with_border'
+              title='Follow on LinkedIn'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li>
+			</ul><div class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h5>Follow Steel Dynamics</h5></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_1_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1_tb_footer">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><strong>Steel Dynamics<br />Corporate Office</strong><br /><a href="tel:2609693500">(260) 969-3500</a><br />7575 West Jefferson Boulevard<br />Fort Wayne, Indiana 46804</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_3_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>©2022 Steel Dynamics.<br />All Rights Reserved.<br /><a href="https://www.steeldynamics.com/privacy-policy/">Privacy Policy</a><br /><a href="https://www.steeldynamics.com/accessibility/">Accessibility Statement</a><br /><a href="https://www.steeldynamics.com/terms-of-use/">Terms of Use</a><br /><a href="https://www.steeldynamics.com/forward-looking-statements/">Forward-Looking Statements</a></p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_4_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_4_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><a href="#"></a><a href="https://www.steeldynamics.com/our-company/">Our Company</a></p>
+<p><a href="https://www.steeldynamics.com/sustainability/">Sustainability</a></p>
+<p><a href="https://ir.steeldynamics.com/" target="_blank" rel="noopener">Investors</a></p>
+<p><a href="https://www.steeldynamics.com/careersnew/" rel="noopener">Careers</a></p>
+<p><a href="https://benefits.steeldynamics.com/Account/Login?ReturnUrl=%2f" target="_blank" rel="noopener">Team Members</a></p>
+<p><a href="https://www.steeldynamics.com/transportation/">Transportation</a></p>
+<p><a href="https://www.steeldynamics.com/scrap-specifications/">Scrap Specifications</a></p>
+<p><a href="http://scrapportal.steeldynamics.com/" target="_blank" rel="noopener">Supplier Portal</a></p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_5_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0_tb_footer">
+				
+				
+				
+				
+				<a href="https://www.steeldynamics.com/"><span class="et_pb_image_wrap "><img decoding="async" width="197" height="60" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20197%2060'%3E%3C/svg%3E" data-src="https://www.steeldynamics.com/wp-content/uploads/2021/08/SDI-new.jpg" alt="" title="SDI-new" class="wp-image-2415 lazy" /></span></a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_1_tb_footer">
+				
+				
+				
+				
+				<a href="https://www.omnisource.com/" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" width="232" height="72" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20232%2072'%3E%3C/svg%3E" data-src="https://www.steeldynamics.com/wp-content/uploads/2023/03/Omni-232x72-1.jpg" alt="" title="Omni-232x72" class="wp-image-5227 lazy" /></span></a>
+			</div><div class="et_pb_module et_pb_image et_pb_image_2_tb_footer">
+				
+				
+				
+				
+				<a href="https://www.newmill.com/" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" width="800" height="306" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20306'%3E%3C/svg%3E" data-src="https://www.steeldynamics.com/wp-content/uploads/2024/05/New-Millennium-color-logo1.png" alt="" title="New-Millennium-color-logo1" class="wp-image-5633 lazy" /></span></a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</footer>
+		</div>
+
+			
+		</div>
+		</div>
+
+			<script>
+              (function(e){
+                  var el = document.createElement('script');
+                  el.setAttribute('data-account', 'BZ2K6BYAvL');
+                  el.setAttribute('src', 'https://cdn.userway.org/widget.js');
+                  document.body.appendChild(el);
+                })();
+              </script><script type="text/javascript" id="divisumo-script-js-extra">
+/* <![CDATA[ */
+var myScript = {"pluginsUrl":"https:\/\/www.steeldynamics.com\/wp-content\/plugins\/cwp-divi-sumo\/images"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/plugins/cwp-divi-sumo//scripts/image.js?ver=1.0.0" id="divisumo-script-js"></script>
+<script type="text/javascript" id="awsm-job-scripts-js-extra">
+/* <![CDATA[ */
+var awsmJobsPublic = {"ajaxurl":"https:\/\/www.steeldynamics.com\/wp-admin\/admin-ajax.php","is_tax_archive":"","is_search":"","job_id":"0","wp_max_upload_size":"67108864","deep_linking":{"search":true,"spec":true,"pagination":true},"i18n":{"loading_text":"Loading...","form_error_msg":{"general":"Error in submitting your application. Please refresh the page and retry.","file_validation":"The file you have selected is too large."}},"vendors":{"selectric":true,"jquery_validation":true}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/plugins/wp-job-openings/assets/js/script.min.js?ver=3.4.6" id="awsm-job-scripts-js"></script>
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.steeldynamics.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.steeldynamics.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.steeldynamics.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"b5595bdaea","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"fcca2c5f73","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"3827","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/www.steeldynamics.com\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#7EBEC5","waypoints_options":[]};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/themes/Divi/js/scripts.min.js?ver=4.27.1" id="divi-custom-script-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.27.1" id="fitvids-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-includes/js/comment-reply.min.js?ver=6.5.5" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.27.1" id="jquery-mobile-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/magnific-popup.js?ver=4.27.1" id="magnific-popup-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.27.1" id="easypiechart-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.27.1" id="salvattore-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/plugins/cwp-divi-sumo/scripts/frontend-bundle.min.js?ver=1.0.0" id="divi-sumo-frontend-bundle-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/plugins/supreme-modules-pro-for-divi/scripts/frontend-bundle.min.js?ver=4.0.1" id="supreme-modules-pro-for-divi-frontend-bundle-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.27.1" id="et-core-common-js"></script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/plugins/pro-pack-for-wp-job-openings/assets/js/intlTelInput.min.js?ver=17.0.16" id="awsm-job-pro-country-select-js"></script>
+<script type="text/javascript" id="awsm-job-pro-scripts-js-extra">
+/* <![CDATA[ */
+var awsmProJobsPublic = {"iti":{"show_country_code":false,"utils_url":"https:\/\/www.steeldynamics.com\/wp-content\/plugins\/pro-pack-for-wp-job-openings\/assets\/js\/intlTelInput-utils.min.js"},"i18n":{"repeater":{"add_more":"Add More","edit":"Edit","update":"Update","remove":"Delete"},"file_upload":{"uploading":"Uploading....","cancel_upload":"Cancel","upload_canceled":"Upload canceled.","cancel_upload_confirmation":"Are you sure you want to cancel this upload?","remove_file":"Remove","max_files":"You are not allowed to upload more than the file limit: {{maxFiles}}.","invalid_file_type":"You can't upload files of this type.","file_size":"File upload failed. Maximum allowed file size is {{maxFilesize}}MB"}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/plugins/pro-pack-for-wp-job-openings/assets/js/script.min.js?ver=3.3.0" id="awsm-job-pro-scripts-js"></script>
+<script type="text/javascript" id="et-builder-modules-script-motion-js-extra">
+/* <![CDATA[ */
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/motion-effects.js?ver=4.27.1" id="et-builder-modules-script-motion-js"></script>
+<script type="text/javascript" id="et-builder-modules-script-sticky-js-extra">
+/* <![CDATA[ */
+var et_pb_sticky_elements = {"et_pb_section_0_tb_header":{"id":"et_pb_section_0_tb_header","selector":".et_pb_section_0_tb_header","position":"top","topOffset":"0px","bottomOffset":"0px","topLimit":"none","bottomLimit":"none","offsetSurrounding":"on","transition":"on","styles":{"module_alignment":{"desktop":"","tablet":"","phone":""},"positioning":"relative"},"stickyStyles":{"position_origin_r":"top_left","horizontal_offset":"","vertical_offset":""}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.steeldynamics.com/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/sticky-elements.js?ver=4.27.1" id="et-builder-modules-script-sticky-js"></script>
+<style id="et-builder-module-design-tb-15-tb-23-3827-cached-inline-styles">.et_pb_section_0_tb_header{margin-top:0px;margin-bottom:0px;z-index:10;box-shadow:0px 12px 18px -6px rgba(0,0,0,0.1)}.et_pb_section_0_tb_header.et_pb_section{padding-top:0px;padding-bottom:0px}.et_pb_sticky.et_pb_section_0_tb_header{box-shadow:0px 12px 18px -6px rgba(0,0,0,0.1)}.et_pb_row_0_tb_header.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important;padding-top:0px;padding-bottom:0px}.et_pb_row_0_tb_header,body #page-container .et-db #et-boc .et-l .et_pb_row_0_tb_header.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_0_tb_header.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_0_tb_header.et_pb_row,.et_pb_row_1_tb_header,body #page-container .et-db #et-boc .et-l .et_pb_row_1_tb_header.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_1_tb_header.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_1_tb_header.et_pb_row{width:100%;max-width:100%}.et_pb_image_0_tb_header{margin-top:14px!important;margin-left:28px!important;width:200px;text-align:left;margin-left:0}.et_pb_menu_0_tb_header.et_pb_menu ul li a{font-weight:600;font-size:12px;color:#060000!important}.et_pb_menu_0_tb_header.et_pb_menu,.et_pb_menu_1_tb_header.et_pb_menu,.et_pb_column_2_tb_header{background-color:RGBA(0,0,0,0)}.et_pb_menu_0_tb_header{padding-top:5px;margin-bottom:0px!important}.et_pb_menu_0_tb_header.et_pb_menu ul li.current-menu-item a,.et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu a,.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu a,.et_pb_menu_1_tb_header.et_pb_menu .nav li ul.sub-menu a,.et_pb_menu_1_tb_header.et_pb_menu .et_mobile_menu a,.et_pb_menu_2_tb_header.et_pb_menu .nav li ul.sub-menu a,.et_pb_menu_2_tb_header.et_pb_menu .et_mobile_menu a{color:#060000!important}.et_pb_menu_0_tb_header.et_pb_menu .nav li ul{background-color:#FAFAFA!important;border-color:#AF1B29}.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu{border-color:#AF1B29}.et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu li.current-menu-item a,.et_pb_menu_1_tb_header.et_pb_menu ul li.current-menu-item a,.et_pb_menu_1_tb_header.et_pb_menu .nav li ul.sub-menu li.current-menu-item a{color:#AF1B29!important}.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu,.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu ul,.et_pb_menu_1_tb_header.et_pb_menu .et_mobile_menu,.et_pb_menu_1_tb_header.et_pb_menu .et_mobile_menu ul,.et_pb_menu_2_tb_header.et_pb_menu .et_mobile_menu,.et_pb_menu_2_tb_header.et_pb_menu .et_mobile_menu ul{background-color:#FAFAFA!important}.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,.et_pb_menu_0_tb_header .et_pb_menu__logo-slot,.et_pb_menu_1_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,.et_pb_menu_1_tb_header .et_pb_menu__logo-slot,.et_pb_menu_2_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,.et_pb_menu_2_tb_header .et_pb_menu__logo-slot{width:auto;max-width:100%}.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_menu_0_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img,.et_pb_menu_1_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_menu_1_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img,.et_pb_menu_2_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img,.et_pb_menu_2_tb_header .et_pb_menu__logo-slot .et_pb_menu__logo-wrap img{height:auto;max-height:none}.et_pb_menu_0_tb_header .mobile_nav .mobile_menu_bar:before,.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button,.et_pb_menu_0_tb_header .et_pb_menu__icon.et_pb_menu__cart-button,.et_pb_menu_1_tb_header .mobile_nav .mobile_menu_bar:before,.et_pb_menu_1_tb_header .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_menu_1_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button,.et_pb_menu_1_tb_header .et_pb_menu__icon.et_pb_menu__cart-button,.et_pb_menu_2_tb_header .et_pb_menu__icon.et_pb_menu__search-button,.et_pb_menu_2_tb_header .et_pb_menu__icon.et_pb_menu__close-search-button,.et_pb_menu_2_tb_header .et_pb_menu__icon.et_pb_menu__cart-button{color:#7EBEC5}.et_pb_menu_1_tb_header.et_pb_menu ul li a{font-weight:700;font-size:12px;color:#060000!important}.et_pb_menu_1_tb_header.et_pb_menu .nav li ul{background-color:#FAFAFA!important;border-color:RGBA(0,0,0,0)}.et_pb_menu_1_tb_header.et_pb_menu .et_mobile_menu{border-color:RGBA(0,0,0,0)}.et_pb_text_0_tb_header.et_pb_text{color:#FAFAFA!important}.et_pb_text_0_tb_header{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:700;background-color:#53C4FF;padding-top:11%!important;padding-right:5%!important;padding-bottom:11%!important}.et_pb_section_2_tb_header.et_pb_section{padding-top:0px;padding-bottom:0px;margin-top:0px;margin-bottom:0px}.et_pb_row_1_tb_header.et_pb_row{padding-right:4%!important;padding-left:4%!important;padding-right:4%;padding-left:4%}.et_pb_menu_2_tb_header.et_pb_menu ul li a{font-weight:700;font-size:15px;color:#060000!important}.et_pb_menu_2_tb_header.et_pb_menu{background-color:#ffffff}.et_pb_menu_2_tb_header.et_pb_menu ul li.current-menu-item a,.et_pb_menu_2_tb_header.et_pb_menu .nav li ul.sub-menu li.current-menu-item a{color:#53C4FF!important}.et_pb_menu_2_tb_header.et_pb_menu .nav li ul{background-color:#FAFAFA!important;border-color:#53C4FF}.et_pb_menu_2_tb_header.et_pb_menu .et_mobile_menu{border-color:#53C4FF}.et_pb_menu_2_tb_header .mobile_nav .mobile_menu_bar:before{font-size:50px;color:#AF1B29}@media only screen and (min-width:981px){.et_pb_section_2_tb_header{display:none!important}}@media only screen and (max-width:980px){.et_pb_image_0_tb_header .et_pb_image_wrap img{width:auto}.et_pb_menu_2_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap,.et_pb_menu_2_tb_header .et_pb_menu__logo-slot{max-width:70px}}@media only screen and (min-width:768px) and (max-width:980px){.et_pb_section_0_tb_header{display:none!important}}@media only screen and (max-width:767px){.et_pb_section_0_tb_header{display:none!important}.et_pb_image_0_tb_header .et_pb_image_wrap img{width:auto}}div.et_pb_section.et_pb_section_0_tb_footer{background-blend-mode:multiply;background-image:url(https://www.steeldynamics.com/wp-content/uploads/2021/12/Footer_Gray.png)!important}.et_pb_section_0_tb_footer.et_pb_section{padding-top:0px;padding-bottom:0px;margin-top:-5px;margin-bottom:-5px;background-color:RGBA(0,0,0,0)!important}.et_pb_text_0_tb_footer.et_pb_text{color:#FAFAFA!important}.et_pb_text_0_tb_footer{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-size:19px;padding-top:15px!important}.et_pb_text_0_tb_footer h3{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:34px;color:#FAFAFA!important}.et_pb_social_media_follow .et_pb_social_media_follow_network_0_tb_footer.et_pb_social_icon .icon:before{color:#53C4FF}ul.et_pb_social_media_follow_0_tb_footer{margin-top:10px!important;float:right}.et_pb_text_1_tb_footer h5{font-weight:700;color:#FAFAFA!important;text-align:left}.et_pb_text_1_tb_footer{padding-right:0px!important;padding-left:80px!important;margin-top:20px!important;margin-bottom:0px!important}div.et_pb_section.et_pb_section_1_tb_footer{background-blend-mode:overlay;background-image:url(https://www.steeldynamics.com/wp-content/uploads/2021/11/pexels-nell-odonnell-3129379_footer.png)!important}.et_pb_section_1_tb_footer.et_pb_section{background-color:rgba(250,250,250,0)!important}.et_pb_row_1_tb_footer.et_pb_row{padding-right:4%!important;padding-left:4%!important;padding-right:4%;padding-left:4%}.et_pb_row_1_tb_footer,body #page-container .et-db #et-boc .et-l .et_pb_row_1_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_1_tb_footer.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_1_tb_footer.et_pb_row{width:100%;max-width:100%}.et_pb_text_2_tb_footer.et_pb_text,.et_pb_text_3_tb_footer.et_pb_text,.et_pb_text_3_tb_footer.et_pb_text a,.et_pb_text_4_tb_footer.et_pb_text,.et_pb_text_4_tb_footer.et_pb_text a{color:#060000!important}.et_pb_text_2_tb_footer{line-height:2em;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-size:13px;line-height:2em}.et_pb_text_2_tb_footer.et_pb_text a{color:#423c3c!important}.et_pb_text_2_tb_footer a{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-size:13px}.et_pb_text_3_tb_footer{line-height:2.5em;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-size:12px;line-height:2.5em}.et_pb_text_3_tb_footer a,.et_pb_text_4_tb_footer a{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-size:12px;line-height:2em}.et_pb_text_4_tb_footer{line-height:2em;font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-size:10px;line-height:2em}.et_pb_image_0_tb_footer,.et_pb_image_1_tb_footer{filter:saturate(0%);backface-visibility:hidden;padding-bottom:9px;margin-bottom:0px!important;transition:filter 300ms ease 0ms;text-align:left;margin-left:0}html:not(.et_fb_edit_enabled) #et-fb-app .et_pb_image_0_tb_footer:hover,html:not(.et_fb_edit_enabled) #et-fb-app .et_pb_image_1_tb_footer:hover,html:not(.et_fb_edit_enabled) #et-fb-app .et_pb_image_2_tb_footer:hover{filter:saturate(0%)}.et_pb_image_0_tb_footer:hover,.et_pb_image_1_tb_footer:hover,.et_pb_image_2_tb_footer:hover{filter:saturate(100%);backface-visibility:hidden}html:not(.et_fb_edit_enabled) #et-fb-app .et_pb_image_0_tb_footer:hover:hover,html:not(.et_fb_edit_enabled) #et-fb-app .et_pb_image_1_tb_footer:hover:hover,html:not(.et_fb_edit_enabled) #et-fb-app .et_pb_image_2_tb_footer:hover:hover{filter:saturate(100%)}.et_pb_image_2_tb_footer{filter:saturate(0%);backface-visibility:hidden;padding-bottom:2px;margin-bottom:0px!important;transition:filter 300ms ease 0ms;text-align:left;margin-left:0}.et_pb_social_media_follow_network_0_tb_footer a.icon{background-color:#060000!important}@media only screen and (min-width:981px){.et_pb_image_2_tb_footer{width:220px}}@media only screen and (max-width:980px){.et_pb_text_1_tb_footer{margin-top:0px!important;margin-bottom:0px!important}.et_pb_section_1_tb_footer.et_pb_section{background-color:#fafafa!important}.et_pb_text_4_tb_footer a{line-height:2em}.et_pb_image_0_tb_footer .et_pb_image_wrap img,.et_pb_image_1_tb_footer .et_pb_image_wrap img,.et_pb_image_2_tb_footer .et_pb_image_wrap img{width:auto}.et_pb_image_2_tb_footer{width:220px}}@media only screen and (min-width:768px) and (max-width:980px){.et_pb_section_0_tb_footer{display:none!important}}@media only screen and (max-width:767px){.et_pb_section_0_tb_footer{display:none!important}.et_pb_section_1_tb_footer.et_pb_section{background-color:#fafafa!important}.et_pb_text_4_tb_footer a{line-height:0.9em}.et_pb_image_0_tb_footer .et_pb_image_wrap img,.et_pb_image_1_tb_footer .et_pb_image_wrap img,.et_pb_image_2_tb_footer .et_pb_image_wrap img{width:auto}.et_pb_image_2_tb_footer{width:225px}}div.et_pb_section.et_pb_section_0{background-image:url(https://www.steeldynamics.com/wp-content/uploads/2021/09/4L8A2216-scaled.jpg)!important}.et_pb_section_0.et_pb_section{padding-top:16%;padding-bottom:0px}.et_pb_text_1 h1{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:100px;color:#FAFAFA!important;letter-spacing:-4px}.et_pb_row_1.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important;margin-bottom:0px!important}.et_pb_row_1,body #page-container .et-db #et-boc .et-l .et_pb_row_1.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_1.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_1.et_pb_row,.et_pb_row_2,body #page-container .et-db #et-boc .et-l .et_pb_row_2.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_2.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_2.et_pb_row{width:100%;max-width:100%}.et_pb_row_2.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;margin-top:0px!important;margin-bottom:0px!important;padding-top:0px;padding-bottom:0px}.et_pb_text_2.et_pb_text,.et_pb_text_3.et_pb_text,.et_pb_text_5.et_pb_text,.et_pb_text_6.et_pb_text,.et_pb_text_7.et_pb_text,.et_pb_text_8.et_pb_text,.et_pb_text_9.et_pb_text,.et_pb_text_10.et_pb_text{color:#060000!important}.et_pb_text_2,.et_pb_text_3,.et_pb_text_4,.et_pb_text_5,.et_pb_text_6,.et_pb_text_7,.et_pb_text_8,.et_pb_text_9,.et_pb_text_10{font-family:'Montserrat',Helvetica,Arial,Lucida,sans-serif}.et_pb_text_3 h3,.et_pb_text_4 h3,.et_pb_text_5 h3,.et_pb_text_6 h3,.et_pb_text_7 h3,.et_pb_text_8 h3,.et_pb_text_9 h3,.et_pb_text_10 h3{font-weight:700}.et_pb_text_4.et_pb_text{color:#53C4FF!important;transition:color 300ms ease 0ms}.et_pb_text_4.et_pb_text:hover{color:#9CA7AC!important}div.et_pb_section.et_pb_section_2{background-image:url(https://www.steeldynamics.com/wp-content/uploads/2021/12/Footer_Gray.png)!important}.et_pb_section_2.et_pb_section{padding-top:0px;padding-bottom:0px;margin-top:0px;margin-bottom:0px}.et_pb_column_2{border-bottom-width:40px;border-bottom-color:#ffffff}@media only screen and (min-width:981px){.et_pb_section_2{display:none!important}}@media only screen and (max-width:980px){.et_pb_text_1 h1{font-size:65px}.et_pb_column_2{border-bottom-width:0px;border-bottom-color:#ffffff}}@media only screen and (min-width:768px) and (max-width:980px){.et_pb_section_2{display:none!important}}@media only screen and (max-width:767px){.et_pb_text_1 h1{font-size:45px}.et_pb_section_2{display:none!important}.et_pb_column_2{border-bottom-width:0px;border-bottom-color:#ffffff}}</style>	
+	<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="https://www.steeldynamics.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 565/761 objects using Disk
+Page Caching using Disk: Enhanced 
+Lazy Loading
+
+Served from: www.steeldynamics.com @ 2024-10-02 03:14:47 by W3 Total Cache
+-->
