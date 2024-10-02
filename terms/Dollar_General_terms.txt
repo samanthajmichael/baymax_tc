@@ -257,7 +257,6 @@
 <meta name="theme-color" content="#ffffff"/>
 <script>
     window.pageConfig = Object.assign(window.pageConfig || {}, {
-        googleApiKey: "AIzaSyDi0nb6nKeHaDJWFtAvbAIPKBrUuAc_mTY",
         isEditMode: "false"
     });
 </script>
