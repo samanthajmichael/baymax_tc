@@ -1,0 +1,2270 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+    <title>Terms of Use</title>
+    
+    <meta name="DESCRIPTION" content="Terms of Use"/>
+    <link rel="icon" type="image/png" href="/images/logo/onsemi_favicon_32.png"/>
+    <link rel="stylesheet" href="/css/default.css">
+    <script type="module" src="/js/default.js"></script>
+    <script src="/js/default-ie.js" defer></script>
+
+    <script src="/js/libraries/dk-hc.js"></script>
+    <script src="/js/libraries/dk-hc-oidc-client.js"></script>
+    <script src="/js/libraries/dk-hc-sso.js"></script>
+
+    <link rel="stylesheet" href="/css/libraries/jquery-ui-1.12.1.min.css">
+    <link rel="stylesheet" href="/css/libraries/jquery-ui-1.12.1.theme.min.css">
+    <script src="/js/libraries/jquery-1.12.4.min.js"></script>
+    <script src="/js/libraries/jquery-ui-1.12.1.min.js"></script>
+
+    <script type="text/javascript" src="https://cdn.wootric.com/wootric-sdk.js"></script>
+
+    <link rel="canonical" href="https://www.onsemi.com/terms-of-use"/>
+    <link href="https://www.onsemi.com/terms-of-use"
+          rel="alternate"
+          hreflang="x-default"/>
+
+    
+        
+            
+                <link rel="alternate"
+                      href="https://www.onsemi.com/terms-of-use"
+                      hreflang="en"/>
+            
+                <link rel="alternate"
+                      href="https://www.onsemi.cn/terms-of-use"
+                      hreflang="zh"/>
+            
+                <link rel="alternate"
+                      href="https://www.onsemi.jp/terms-of-use"
+                      hreflang="ja"/>
+            
+        
+    
+
+    
+    <script type="text/javascript">
+        //
+        let metadata = {
+            'title': 'Terms of Use',
+            
+            'description': 'Terms of Use',
+            'canonical': 'https://www.onsemi.com/terms-of-use',
+            'client_ip': '35.192.53.51',
+            'geo_location': '{"accuracy_radius":1000,"latitude":38.6583,"longitude":-77.2481,"time_zone":"America/New_York"}',
+            'geo_location_country': 'United States',
+            'geo_location_countryCode': 'US',
+            
+            'geo_location_state': 'Virginia',
+            'geo_location_stateCode': 'VA',
+            'geo_location_continent': 'North America',
+            'privacy_geo_eu': '0',
+            'privacy_geo_usa_ca': '0',
+            'language': 'en-US',
+            
+            'page_breadcrumbs': '/Terms of Use',
+            'page_section': 'Terms of Use',
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        }
+    </script>
+
+
+    
+        
+
+        <script>
+            window.mktLeadId = '';
+        </script>
+
+        <!-- End of global snippet: Please do not remove -->
+    
+    
+
+    
+        <script src="/js/trackingScripts.js"></script>
+
+    
+</head>
+
+
+
+    <!-- if security is on, then check for the user in the context, otherwise leave empty -->
+    <body data-layout="default" data-current-locale="en_US" data-ni-id="21183" data-ni-type="CONTENT">
+
+    
+
+    <header>
+
+    <!-- MAIN TOP NAVIGATION -->
+    <nav class="main-navigation bg-primary fixed-top">
+        <div class="container px-lg-0 h-100">
+            <div class="row h-100">
+                <div class="col-auto pe-md-0 d-flex align-items-center">
+                    <ul class="nav">
+                        <li class="nav-item d-flex d-xl-none align-items-center side-navigation-toggle" data-bs-toggle="offcanvas" data-bs-target="#side-navigation">
+                            <span class="nav-link py-0">
+                                <i class="bi bi-list position-absolute"></i>
+                                <i class="bi bi-x opacity-0"></i>
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col col-md-auto ps-md-0 justify-content-center d-flex align-items-center">
+                    <ul class="nav primary-navigation">
+                        <li class="nav-item d-flex align-items-center">
+                            <a href="https://www.onsemi.com/" class="nav-link" aria-label="onsemi Homepage">
+                                <img src="https://www.onsemi.com/images/logo/onsemi_logo_reverse.svg" alt="onsemi logo" class="img-fluid logo-img">
+                            </a>
+                        </li>
+                        <li class="nav-item d-none d-xl-flex">
+                            
+                            <button class="nav-link d-flex align-items-center py-0 btn-pure" data-bs-toggle="modal" data-bs-target="#main-navigation-modal-0">
+                                <span>Products</span>
+                            </button>
+                        </li>
+                        <li class="nav-item d-none d-xl-flex">
+                            
+                            <button class="nav-link d-flex align-items-center py-0 btn-pure" data-bs-toggle="modal" data-bs-target="#main-navigation-modal-1">
+                                <span>Solutions</span>
+                            </button>
+                        </li>
+                        <li class="nav-item d-none d-xl-flex">
+                            
+                            <button class="nav-link d-flex align-items-center py-0 btn-pure" data-bs-toggle="modal" data-bs-target="#main-navigation-modal-2">
+                                <span>Design</span>
+                            </button>
+                        </li>
+                        <li class="nav-item d-none d-xl-flex">
+                            
+                            <button class="nav-link d-flex align-items-center py-0 btn-pure" data-bs-toggle="modal" data-bs-target="#main-navigation-modal-3">
+                                <span>Support</span>
+                            </button>
+                        </li>
+                        <li class="nav-item d-none d-xl-flex">
+                            
+                            <button class="nav-link d-flex align-items-center py-0 btn-pure" data-bs-toggle="modal" data-bs-target="#main-navigation-modal-4">
+                                <span>Company</span>
+                            </button>
+                        </li>
+                        <li class="nav-item d-none d-xl-flex">
+                            
+                            <button class="nav-link d-flex align-items-center py-0 btn-pure" data-bs-toggle="modal" data-bs-target="#main-navigation-modal-5">
+                                <span>Careers</span>
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col col-search d-none d-md-flex align-items-center justify-content-end">
+                    <div class="nav-link nav-search-close me-auto py-0">
+                        <i class="bi bi-x text-white"></i>
+                    </div>
+                    <div id="header-search" class='w-100 CoveoSearchInterface' data-enable-history="true">
+                        <div class='coveo-search-section m-0 p-0'>
+                            <div class="CoveoSearchbox"
+                                 data-auto-trigger-query="false"
+                                 data-enable-omnibox="true"
+                                 data-enable-query-suggest-addon="true"
+                                 data-search-as-you-type-delay='453'
+                                 data-placeholder="Search for anything..."></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-auto d-flex ms-lg-auto">
+                    <ul class="nav secondary-navigation">
+                        <li class="nav-item nav-search d-flex d-md-none align-items-center">
+                            <span class="nav-link py-0">
+                                <i class="bi bi-search"></i>
+                            </span>
+                        </li>
+                        <li class="nav-item d-flex align-items-center" data-user-icon-element="DROPDOWN">
+                            <button class="myon-button-dropdown nav-link pe-2 ps-0 py-0 btn-pure"
+                                    data-bs-toggle="dropdown" data-bs-auto-close="outside" data-bs-offset="0,32" aria-expanded="false" aria-label="MyON dropdown button">
+                                <template><div class="myon-bubble myon-bubble-sm bg-secondary fs-8 fw-bold">
+    <span class="myon-bubble-text">JD</span>
+</div></template>
+                                <div><i class="bi bi-person-circle"></i></div>
+                            </button>
+                            <div class="myon-user-dropdown p-0 dropdown-menu dropdown-menu-end">
+    <template>
+<div class="myon-user-dropdown-card g-0">
+    <div id="myon-dropdown-main-carousel" class="carousel slide" data-bs-interval="false" data-bs-touch="false">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <div class="row p-6 text-center">
+                    <div class="col-12">
+                        <a class="myon-bubble bg-primary fs-2 fw-bold" href="https://www.onsemi.com/myon/my-account">
+                            <span class="myon-bubble-text">JS</span>
+                        </a>
+                    </div>
+                    <div class="col-12 mt-3">
+                        <span class="myon-name-text fs-5">Joe Smith</span>
+                    </div>
+                    <div class="col-12 mt-3">
+                        <a class="btn btn-outline-secondary" href="https://www.onsemi.com/myon">
+                            <span>MyON Dashboard</span>
+                        </a>
+                    </div>
+                    <div id="myOnAlerts" class="col-12">
+                        <div class="alert alert-danger w-100 mt-6 mb-0 d-none" role="alert">
+                            Error message
+                        </div>
+                        <div class="alert alert-success w-100 mt-6 mb-0 d-none" role="alert">
+                            Success message
+                        </div>
+                    </div>
+                </div>
+
+                <!--divider-->
+                <div class="pt-1 bg-secondary position-relative"></div>
+
+                <div class="row m-0 ps-2 pb-1 g-5 bg-section-light thin-scrollbar overflow-auto mh-rem-18">
+                    <div class="d-flex justify-content-end myon-shortcuts-edit-button mt-1 btn badge text-secondary">
+                        <i class="bi bi-gear fs-5" data-bs-toggle="tooltip" data-bs-placement="left" title="Edit Shortcuts"></i>
+                    </div>
+                    <div class="shortcuts-container-user mt-0">
+                        
+    <div class="w-100 d-flex h-100 align-items-center justify-content-center">
+        <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+
+                    </div>
+                </div>
+
+                <div class="row bg-light p-4 px-6 border-top">
+                    <div class="col-12 d-flex justify-content-between">
+                        <a href="https://www.onsemi.com/support" class="btn btn-outline-primary">
+                            <i class="mi-support text-secondary"></i>
+                            <span>Support</span>
+                        </a>
+                        <a href="https://www.onsemi.com/myon/logout">
+                            <button class="btn btn-outline-primary myon-logout-button">
+                                <i class="mi-logout text-secondary"></i>
+                                <span id="myonLogout-text">Logout</span>
+                                <span class="myon-loader spinner-grow spinner-grow-sm text-secondary d-none" role="status" aria-hidden="true"></span>
+                            </button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="carousel-item">
+                <div class="row p-6 text-center">
+                    <div class="col-12">
+                        <div class="myon-bubble bg-primary fs-2 fw-bold">
+                            <span><i class="bi bi-pencil-square"></i></span>
+                        </div>
+                    </div>
+                    <div class="col-12 mt-3">
+                        <span class="fs-5">Edit Shortcuts</span>
+                    </div>
+                    <div class="col-12 mt-3">
+                        <span class="fs-7">Select which shortcuts you want on your dashboard. Rearrange by clicking &amp; dragging.</span>
+                    </div>
+                </div>
+
+                <!--divider-->
+                <div class="pt-1 bg-secondary position-relative"></div>
+
+                <div class="row m-0 ps-2 pb-1 g-5 bg-section-light overflow-auto">
+                    <div class="mt-0 pt-5 thin-scrollbar shortcuts-container-all">
+                        
+    <div class="w-100 d-flex h-100 align-items-center justify-content-center">
+        <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+        </div>
+    </div>
+
+                    </div>
+                </div>
+
+                <div class="row bg-light p-4 px-6 border-top">
+                    <div class="col-12 d-flex justify-content-between">
+                        <div class="btn btn-outline-primary" data-bs-target="#myon-dropdown-main-carousel" data-bs-slide="prev">
+                            <span>Cancel</span>
+                        </div>
+                        <button id="myon-shortcuts-save-changes" class="btn btn-outline-secondary">
+                            <span>Save Changes</span>
+                            <span class="myon-loader spinner-grow spinner-grow-sm text-primary d-none" role="status" aria-hidden="true"></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</template>
+    <div>
+<div class="myon-user-dropdown-login row g-0">
+    <div class="col-8 d-none d-lg-block p-6 bg-primary text-light lh-base z-index-2">
+        
+            <p class="h4 lh-base border-bottom border-accent-1 pb-2 mb-4">Register now for exclusive benefits!</p>
+<div class="row g-5">
+
+    <!--Order product samples & evaluation boards-->
+    <div class="col-6">
+        <div class="d-flex align-items-center">
+            <i class="bi bi-truck fs-2 text-secondary me-4"></i>
+            <p class="flex-grow-1 mb-0">Order product samples & evaluation boards</p>
+        </div>
+    </div>
+
+    <!--Save/Email Interactive Block Diagram worksheets-->
+    <div class="col-6">
+        <div class="d-flex align-items-center">
+            <i class="bi bi-folder fs-2 text-secondary me-4"></i>
+            <p class="flex-grow-1 mb-0">Save/Email <a href="/design/tools-software/block-diagram" class="fw-bold text-white"
+                aria-label="Interactive Block Diagram">Interactive Block Diagram</a> worksheets</p>
+        </div>
+    </div>
+
+    <!--Save custom parametric search filters-->
+    <div class="col-6">
+        <div class="d-flex align-items-center">
+            <i class="bi bi-funnel fs-2 text-secondary me-4"></i>
+            <p class="flex-grow-1 mb-0">Save custom parametric search filters</p>
+        </div>
+    </div>
+    
+    <!--Watch Exclusive Webinars-->
+    <div class="col-6">
+        <div class="d-flex align-items-center">
+            <i class="bi bi-cast fs-2 text-secondary me-4"></i>
+            <p class="flex-grow-1 mb-0">Watch exclusive webinars and seminars</p>
+        </div>
+    </div>
+
+    <!--Join the conversation on Community Forums-->
+    <div class="col-6">
+        <div class="d-flex align-items-center">
+            <i class="bi bi-chat-right-dots fs-2 text-secondary me-4"></i>
+            <p class="flex-grow-1 mb-0">Join the conversation on <a href="/forum" class="fw-bold text-white"
+                aria-label="community forum">community forum</a></p>
+        </div>
+    </div>
+
+    <!--View browsing history & favorites using My History-->
+    <div class="col-6">
+        <div class="d-flex align-items-center">
+            <i class="bi bi-clock-history fs-2 text-secondary me-4"></i>
+            <p class="flex-grow-1 mb-0">View browsing history & favorites using My History</p>
+        </div>
+    </div>
+
+    <!--Utilize tools-->
+    <div class="col-6">
+        <div class="d-flex align-items-center">
+            <i class="bi bi-cpu fs-2 text-secondary me-4"></i>
+            <p class="flex-grow-1 mb-0">Utilize <a href="/design/tools-software/elite-power-simulator" class="fw-bold text-white" aria-label="Elite Power Simulator">Elite Power Simulator</a> & other developer tools</p>
+        </div>
+    </div>
+
+    <!--Gain access to system solution guides-->
+    <div class="col-6">
+        <div class="d-flex align-items-center">
+            <i class="bi bi-filetype-pdf fs-2 text-secondary me-4"></i>
+            <p class="flex-grow-1 mb-0">Gain access to our <a href="/design/system-solution-guides" class="fw-bold text-white" aria-label="system solution guides">system solution guides</a></p>
+        </div>
+    </div>
+</div>
+        
+    </div>
+    <div class="col-12 col-lg-4 gx-5 p-6 blur-5 z-index-0">
+        <div class="row">
+            <div class="col-12 h4 mb-6">
+                <i class="bi bi-person-circle fs-2 text-secondary"></i>
+                <span class="text-primary">Login</span>
+            </div>
+            <div class="col-12">
+                <div class="myon-login"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 bg-secondary bottom-line z-index-1"></div>
+</div>
+</div>
+</div>
+                        </li>
+                        <a class="nav-item d-flex align-items-center d-none" data-user-icon-element="LINK" href="https://www.onsemi.com/myon" target="_blank">
+                            <span class="nav-link py-0">
+                                <div><i class="bi bi-person-circle"></i></div>
+                            </span>
+                        </a>
+                        <a class="nav-item d-none d-md-flex align-items-center" href="https://www.onsemi.com/myon/my-account/shopping-cart" aria-label="Shopping Cart">
+                            <span class="nav-link px-3 py-0 position-relative">
+                                <i class="bi bi-cart"></i>
+                                <span id="cart-item-count-indicator" class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-secondary z-index-1 fs-8 d-none">1
+                                    <span class="visually-hidden">cart items</span>
+                                </span>
+                            </span>
+                        </a>
+                        <li class="nav-item d-none d-md-flex align-items-center">
+                            <span class="nav-link dropdown d-flex align-items-center ps-2 pe-0 py-0" data-bs-toggle="dropdown">
+                                <span>EN</span>
+                                <i class="bi bi-chevron-down ps-1"></i>
+                            </span>
+                            <!DOCTYPE html>
+
+
+<div class="language-select-dropdown dropdown-menu dropdown-menu-end" data-top-level-domain="com">
+    <a class="dropdown-item text-center" data-top-level-domain="cn" data-locale="zh_CN">
+        <span>CN</span>
+    </a><a class="dropdown-item text-center" data-top-level-domain="jp" data-locale="ja_JP">
+        <span>JP</span>
+    </a>
+</div>
+
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-navigation-modals">
+        
+            <div class="modal main-navigation-modal"
+                 id="main-navigation-modal-0" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="container">
+                    <div class="modal-dialog nav my-3 mw-100">
+                        <div class="modal-content">
+                            <div class="modal-header p-5">
+                                
+                                <a class="modal-title fs-4 fw-bold text-primary text-decoration-none"
+                                   href="https://www.onsemi.com/products">Products</a>
+                                <a class="btn btn-outline-primary rounded-pill"
+                                   href="https://www.onsemi.com/products">Explore</a>
+                            </div>
+                            <div class="modal-body p-0 d-flex">
+                                <div class="flex-grow-1">
+                                    
+                                        <div class="p-5" style="display: grid; grid-template-columns: 2fr 1fr;">
+                                            <div class="p-1">
+                                                
+                                                    <div class="fs-6 p-1 fw-bold text-primary">By Technology</div>
+                                                    <div class="break-children-avoid" style="columns: 2">
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/discrete-power-modules"
+                                                               class="nav-link fw-bold p-1">Discrete &amp; Power Modules</a>
+                                                            
+                                                                
+                                                                    <a href="https://www.onsemi.com/products/discrete-power-modules/mosfets"
+                                                                       class="nav-link ms-2 p-1">MOSFETs</a>
+                                                                
+                                                                    <a href="https://www.onsemi.com/products/discrete-power-modules/igbts"
+                                                                       class="nav-link ms-2 p-1">IGBTs</a>
+                                                                
+                                                                    <a href="https://www.onsemi.com/products/discrete-power-modules/silicon-carbide-sic"
+                                                                       class="nav-link ms-2 p-1">Silicon Carbide (SiC)</a>
+                                                                
+                                                                    <a href="https://www.onsemi.com/products/discrete-power-modules/power-modules"
+                                                                       class="nav-link ms-2 p-1">Power Modules</a>
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                <a class="nav-link ms-2 p-1"
+                                                                   href="https://www.onsemi.com/products/discrete-power-modules">All Others</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/power-management"
+                                                               class="nav-link fw-bold p-1">Power Management</a>
+                                                            
+                                                                
+                                                                    <a href="https://www.onsemi.com/products/power-management/gate-drivers"
+                                                                       class="nav-link ms-2 p-1">Gate Drivers</a>
+                                                                
+                                                                    <a href="https://www.onsemi.com/products/power-management/ac-dc-power-conversion"
+                                                                       class="nav-link ms-2 p-1">AC-DC Power Conversion</a>
+                                                                
+                                                                    <a href="https://www.onsemi.com/products/power-management/dc-dc-power-conversion"
+                                                                       class="nav-link ms-2 p-1">DC-DC Power Conversion</a>
+                                                                
+                                                                    <a href="https://www.onsemi.com/products/power-management/led-drivers"
+                                                                       class="nav-link ms-2 p-1">LED Drivers</a>
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                    
+                                                                
+                                                                <a class="nav-link ms-2 p-1"
+                                                                   href="https://www.onsemi.com/products/power-management">All Others</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/sensors"
+                                                               class="nav-link fw-bold p-1">Sensors</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/wireless-connectivity"
+                                                               class="nav-link fw-bold p-1">Wireless Connectivity</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/signal-conditioning-control"
+                                                               class="nav-link fw-bold p-1">Signal Conditioning &amp; Control</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/motor-control"
+                                                               class="nav-link fw-bold p-1">Motor Control</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/custom-assp"
+                                                               class="nav-link fw-bold p-1">Custom &amp; ASSP</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/interfaces"
+                                                               class="nav-link fw-bold p-1">Interfaces</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/timing-logic-memory"
+                                                               class="nav-link fw-bold p-1">Timing, Logic &amp; Memory</a>
+                                                            
+                                                        </div>
+                                                    </div>
+                                                
+                                            </div>
+                                            <div class="p-1">
+                                                
+                                                    <div class="fs-6 p-1 fw-bold text-primary">By Solution</div>
+                                                    <div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/automotive"
+                                                               class="nav-link fw-bold p-1">Automotive</a>
+                                                            
+                                                                
+                                                                
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/industrial"
+                                                               class="nav-link fw-bold p-1">Industrial</a>
+                                                            
+                                                                
+                                                                
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/cloud"
+                                                               class="nav-link fw-bold p-1">Cloud</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/products/mobile"
+                                                               class="nav-link fw-bold p-1">Mobile</a>
+                                                            
+                                                        </div>
+                                                        <div>
+                                                            
+                                                            
+                                                        </div>
+                                                    </div>
+                                                
+                                            </div>
+                                            <div class="p-1">
+                                                
+                                            </div>
+                                            <div class="p-1">
+                                                
+                                            </div>
+                                        </div>
+                                    
+                                    
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+                                </div>
+                                
+                                    <div class="border-start" style="max-width: 400px"><div class="row g-0 bg-section-light">
+
+    <!-- BODY -->
+    <div class="col-12 px-7 py-6 h-100">
+        <i class="bi bi-cpu text-accent-1 fs-2"></i>
+        <p class="h3 mb-4 mt-5">Find the <br> Right Product</p>
+        <p class="mb-5 fs-7">Utilize our PRT+ tool to identify the ideal <b>onsemi</b> product for your specific application with
+            maximum efficiency.</p>
+        <a href="/design/tools-software/product-recommendation-tools-plus" class="btn btn-secondary"
+            aria-label="Find Products">Find Products</a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/products/new" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="New Products">
+            <span>New Products</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/products/product-services" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="Product Services">
+            <span>Product Services</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+</div></div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="modal main-navigation-modal"
+                 id="main-navigation-modal-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="container">
+                    <div class="modal-dialog nav my-3 mw-100">
+                        <div class="modal-content">
+                            <div class="modal-header p-5">
+                                <span class="modal-title fs-4 fw-bold text-primary">Solutions</span>
+                                
+                                
+                            </div>
+                            <div class="modal-body p-0 d-flex">
+                                <div class="flex-grow-1">
+                                    
+                                    
+                                        <div class="p-5">
+                                            <div class="p-1">
+                                                <div class="fs-6 p-1 fw-bold text-primary">By Market</div>
+                                                <div style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
+                                                    
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/solutions/automotive"
+                                                               class="nav-link fw-bold p-1">Automotive</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/automotive/body-electronics-and-led-lighting"
+                                                                   class="nav-link ms-2 p-1">Body Electronics and LED Lighting</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/automotive/powertrain-safety-and-security"
+                                                                   class="nav-link ms-2 p-1">Powertrain, Safety and Security</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/automotive/vehicle-electrification"
+                                                                   class="nav-link ms-2 p-1">Vehicle Electrification</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/automotive/adas"
+                                                                   class="nav-link ms-2 p-1">ADAS</a>
+                                                            
+                                                        </div>
+                                                    
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/solutions/industrial"
+                                                               class="nav-link fw-bold p-1">Industrial</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/industrial/industrial-automation"
+                                                                   class="nav-link ms-2 p-1">Industrial Automation</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/industrial/smart-buildings"
+                                                                   class="nav-link ms-2 p-1">Smart Buildings</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/industrial/energy-infrastructure"
+                                                                   class="nav-link ms-2 p-1">Energy Infrastructure</a>
+                                                            
+                                                        </div>
+                                                    
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/solutions/5g-cloud-power"
+                                                               class="nav-link fw-bold p-1">5G &amp; Cloud Power</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/5g-cloud-power/server-power"
+                                                                   class="nav-link ms-2 p-1">Server Power</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/5g-cloud-power/telecom-infrastructure"
+                                                                   class="nav-link ms-2 p-1">Telecom Infrastructure</a>
+                                                            
+                                                        </div>
+                                                    
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/solutions/medical"
+                                                               class="nav-link fw-bold p-1">Medical</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/medical/audiology"
+                                                                   class="nav-link ms-2 p-1">Audiology</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/medical/clinical"
+                                                                   class="nav-link ms-2 p-1">Clinical</a>
+                                                            
+                                                        </div>
+                                                    
+                                                        <div>
+                                                            <a href="https://www.onsemi.com/solutions/aerospace-defense"
+                                                               class="nav-link fw-bold p-1">Aerospace &amp; Defense</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/aerospace-defense/rad-hard-space-hi-rel-asics"
+                                                                   class="nav-link ms-2 p-1">Rad Hard Space &amp; Hi-Rel ASICs</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/aerospace-defense/anti-tamper-active-shield"
+                                                                   class="nav-link ms-2 p-1">Anti-Tamper Active Shield</a>
+                                                            
+                                                                <a href="https://www.onsemi.com/solutions/aerospace-defense/rad-hard-aerospace-asics"
+                                                                   class="nav-link ms-2 p-1">Rad Hard Aerospace ASICs</a>
+                                                            
+                                                        </div>
+                                                    
+                                                        
+                                                    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                    
+
+                                    
+
+                                    
+                                        <div class="border-top p-5"><div class="fs-6 p-1 fw-bold text-primary">By Technology</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
+    <div class="d-block">
+        <a href="https://www.onsemi.com/solutions/technology/silicon-carbide-sic" class="nav-link py-1 ps-3 pe-1">Silicon Carbide (SiC)</a>
+        <a href="https://www.onsemi.com/solutions/technology/hayabusa-family" class="nav-link py-1 ps-3 pe-1">
+            Hayabusa
+            Family
+        </a>
+    </div>
+    <div class="d-block">
+        <a href="https://www.onsemi.com/solutions/technology/hyperlux" class="nav-link py-1 ps-3 pe-1">Hyperlux Sensors</a>
+    </div>
+    <div class="d-block">
+        <a href="https://www.onsemi.com/solutions/technology/gate-driver-solutions" class="nav-link py-1 ps-3 pe-1">
+            Gate
+            Drivers
+        </a>
+    </div>
+</div>
+</div>
+                                    
+                                </div>
+                                
+                                    <div class="border-start" style="max-width: 400px"><div class="row g-0 bg-section-light">
+
+    <!-- BODY -->
+    <div class="col-12 px-7 pb-sm-8 py-6 h-100">
+        <i class="bi bi-diagram-2 text-accent-1 fs-2"></i>
+        <p class="h3 mb-4 mt-5">Find the <br> Ideal Solution</p>
+        <p class="mb-5 fs-7">Our user-friendly system solution guides, invaluable resources that explain <b>onsemi</b>'s  product range for different applications.</p>
+        <a href="/design/system-solution-guides" class="btn btn-secondary"
+            aria-label="Explore Now">Explore Now</a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/solutions/technology/silicon-carbide-sic" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="Silicon Carbide (SiC)">
+            <span>Silicon Carbide (SiC)</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/products" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="All Products">
+            <span>All Products</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+</div></div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="modal main-navigation-modal"
+                 id="main-navigation-modal-2" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="container">
+                    <div class="modal-dialog nav my-3 mw-100">
+                        <div class="modal-content">
+                            <div class="modal-header p-5">
+                                <span class="modal-title fs-4 fw-bold text-primary">Design</span>
+                                
+                                
+                            </div>
+                            <div class="modal-body p-0 d-flex">
+                                <div class="flex-grow-1">
+                                    
+                                    
+                                    
+                                        <div class="p-5" style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/design/system-solution-guides">System Solution Guides</a>
+                                                    <a href="https://www.onsemi.com/download/collateral-brochure/pdf/brd8217-d.pdf"
+                                                       class="nav-link ms-2 p-1">48V Powernet Trends</a><a href="https://www.onsemi.com/download/collateral-brochure/pdf/brd8216-d.pdf"
+                                                       class="nav-link ms-2 p-1">Industrial Motor Drive</a><a href="https://www.onsemi.com/download/collateral-brochure/pdf/brd8218-d.pdf"
+                                                       class="nav-link ms-2 p-1">Advanced Driver Assistance System (ADAS)</a><a href="https://www.onsemi.com/download/collateral-brochure/pdf/brd8215-d.pdf"
+                                                       class="nav-link ms-2 p-1">Battery-powered Tools</a>
+                                                </div>
+                                                
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/design/resources">Resources</a>
+                                                    <a href="https://www.onsemi.com/design/resources/power-seminars"
+                                                       class="nav-link ms-2 p-1">Power Seminars</a><a href="https://www.onsemi.com/design/resources/power-webinars"
+                                                       class="nav-link ms-2 p-1">Power Webinars</a><a href="https://www.onsemi.com/design/resources/technical-documentation#ZHQ9TW9kZWxzOw=="
+                                                       class="nav-link ms-2 p-1">Simulation/SPICE Models</a><a href="https://www.onsemi.com/design/resources/technical-documentation"
+                                                       class="nav-link ms-2 p-1">Technical Documentation</a><a href="https://www.onsemi.com/design/resources/video-library"
+                                                       class="nav-link ms-2 p-1">Video Library</a><a href="https://www.onsemi.com/design/resources/software-library"
+                                                       class="nav-link ms-2 p-1">Software Library</a>
+                                                </div>
+                                                
+                                            
+                                                
+                                                
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/design/tools-software">Tools &amp; Software</a>
+                                                    <a href="https://www.onsemi.com/design/tools-software/webdesigner+"
+                                                       class="nav-link ms-2 p-1">WebDesigner+ Design Tools</a><a href="https://www.onsemi.com/design/tools-software/self-service-plecs-model-generator"
+                                                       class="nav-link ms-2 p-1">Self-Service PLECS Model Generator</a><a href="https://www.onsemi.com/design/tools-software/elite-power-simulator"
+                                                       class="nav-link ms-2 p-1">Elite Power Simulator</a><a href="https://www.onsemi.com/design/tools-software/fpga-power-tree"
+                                                       class="nav-link ms-2 p-1">FPGA Power Tree</a><a href="https://www.onsemi.com/design/tools-software/product-recommendation-tools-plus"
+                                                       class="nav-link ms-2 p-1">Product Recommendation Tools+</a><a href="https://www.onsemi.com/design/tools-software/block-diagram"
+                                                       class="nav-link ms-2 p-1">Interactive Block Diagrams</a><a href="https://www.onsemi.com/design/tools-software/evaluation-board"
+                                                       class="nav-link ms-2 p-1">Evaluation/Development Tools</a>
+                                                </div>
+                                                
+                                            
+                                        </div>
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+                                </div>
+                                
+                                    <div class="border-start" style="max-width: 400px"><div class="row g-0 bg-section-light">
+
+    <!-- BODY -->
+    <div class="col-12 px-7 py-6 h-100">
+        <i class="bi bi-filetype-pdf text-accent-1 fs-2"></i>
+        <p class="h3 mb-4 mt-5">Find the <br> Right Document</p>
+        <p class="mb-5 fs-7">Search through datasheets, application notes, and white papers to locate the relevant information.</p>
+        <a href="/design/resources/technical-documentation" class="btn btn-secondary"
+            aria-label="Find Documents">Find Documents</a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/design/tools-software/block-diagram" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="Interactive Block Diagrams">
+            <span>Interactive Block Diagrams</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/design/tools-software/product-recommendation-tools-plus" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="Product Suggestions">
+            <span>Product Suggestions</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+</div></div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="modal main-navigation-modal"
+                 id="main-navigation-modal-3" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="container">
+                    <div class="modal-dialog nav my-3 mw-100">
+                        <div class="modal-content">
+                            <div class="modal-header p-5">
+                                
+                                <a class="modal-title fs-4 fw-bold text-primary text-decoration-none"
+                                   href="https://www.onsemi.com/support">Support</a>
+                                <a class="btn btn-outline-primary rounded-pill"
+                                   href="https://www.onsemi.com/support">Explore</a>
+                            </div>
+                            <div class="modal-body p-0 d-flex">
+                                <div class="flex-grow-1">
+                                    
+                                    
+                                    
+
+                                    
+                                        <div class="p-5" style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
+                                            
+                                                <div>
+
+                                                    <a class="nav-link fw-bold p-1"
+                                                       target="_blank"
+                                                       href="https://www.onsemi.com/support/technical-support-center">Technical Support Center</a>
+
+                                                    
+                                                    
+                                                        <a target="_blank"
+                                                           href="https://www.onsemi.com/forum"
+                                                           class="nav-link ms-2 p-1">Community Forums</a>
+                                                        
+                                                        
+                                                    
+                                                        <a target="_blank"
+                                                           href="https://www.onsemi.com/support/help-library"
+                                                           class="nav-link ms-2 p-1">Help Library</a>
+                                                        
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        <a style="display:none;"
+                                                           id="chat_link"
+                                                           href="https://www.onsemi.com/support/chat"
+                                                           class="nav-link ms-2 p-1">AI Chat</a>
+                                                    
+                                                        
+                                                        <a style="display:none;"
+                                                           id="resource_link"
+                                                           href="https://www.onsemi.com/support/resources"
+                                                           class="nav-link ms-2 p-1">Resources</a>
+                                                        
+                                                    
+                                                </div>
+                                                
+                                            
+                                                <div>
+
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/support/contact-us">Contact Us</a>
+
+                                                    
+                                                        <a href="https://www.onsemi.com/support/contact-us/supplier-services"
+                                                           class="nav-link ms-2 p-1">Supplier Services</a>
+                                                    
+                                                    
+                                                </div>
+                                                
+                                            
+                                                
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/support/sales">Sales Offices &amp; Distributor Network</a><a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/company/about-onsemi/quality-and-reliability/quality-contacts-support">Quality Contacts</a><a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/support/product-security-vulnerability">Product Security Vulnerability</a>
+                                                </div>
+                                            
+                                        </div>
+                                    
+
+                                    
+                                        
+                                    
+                                </div>
+                                
+                                    <div class="border-start" style="max-width: 400px"><div class="row g-0 bg-section-light">
+
+    <!-- BODY -->
+    <div class="col-12 px-7 py-6 h-100">
+        <i class="bi bi-envelope text-accent-1 fs-2"></i>
+        <p class="h3 mb-4 mt-5">Talk to Our <br> Sales Team</p>
+        <p class="mb-5 fs-7">Have questions about our products and services, or need help with a design? Our sales support team is here to help!</p>
+        <a href="/support/sales" class="btn btn-secondary"
+            aria-label="Contact Sales">Contact Sales</a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/support" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="Support Options">
+            <span>Support Options</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/subscribe" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="Newsletter">
+            <span>Newsletter</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+</div></div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="modal main-navigation-modal"
+                 id="main-navigation-modal-4" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="container">
+                    <div class="modal-dialog nav my-3 mw-100">
+                        <div class="modal-content">
+                            <div class="modal-header p-5">
+                                <span class="modal-title fs-4 fw-bold text-primary">Company</span>
+                                
+                                
+                            </div>
+                            <div class="modal-body p-0 d-flex">
+                                <div class="flex-grow-1">
+                                    
+                                    
+                                    
+                                        <div class="p-5" style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/company/events">Events</a>
+                                                    <a href="https://www.onsemi.com/company/events/webinars"
+                                                       class="nav-link ms-2 p-1">Webinars</a><a href="https://www.onsemi.com/company/events/tradeshows"
+                                                       class="nav-link ms-2 p-1">Tradeshows</a>
+                                                </div>
+                                                
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/company/about-onsemi">About onsemi</a>
+                                                    <a href="https://www.onsemi.com/company/about-onsemi/locations"
+                                                       class="nav-link ms-2 p-1">Locations</a><a href="https://www.onsemi.com/company/about-onsemi/leadership"
+                                                       class="nav-link ms-2 p-1">Leadership</a><a href="https://www.onsemi.com/company/about-onsemi/company-overview"
+                                                       class="nav-link ms-2 p-1">Company Overview</a><a href="https://www.onsemi.com/company/about-onsemi/company-history"
+                                                       class="nav-link ms-2 p-1">Company History</a><a href="https://www.onsemi.com/company/about-onsemi/quality-and-reliability"
+                                                       class="nav-link ms-2 p-1">Quality and Reliability</a><a href="https://www.onsemi.com/company/about-onsemi/intellectual-property"
+                                                       class="nav-link ms-2 p-1">Intellectual Property</a><a href="https://www.onsemi.com/company/about-onsemi/ecosystem-partners"
+                                                       class="nav-link ms-2 p-1">Ecosystem Partners</a>
+                                                </div>
+                                                
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/company/environmental-social-and-governance">Environmental, Social and Governance</a>
+                                                    <a href="https://www.onsemi.com/company/environmental-social-and-governance/annual-sustainability-report"
+                                                       class="nav-link ms-2 p-1">Annual Sustainability Report</a><a href="https://www.onsemi.com/company/environmental-social-and-governance/social-responsibility"
+                                                       class="nav-link ms-2 p-1">Social Responsibility</a><a href="https://investor.onsemi.com/governance/documents"
+                                                       class="nav-link ms-2 p-1">Governance</a><a href="https://www.onsemi.com/company/environmental-social-and-governance/diversity-equity-and-inclusion"
+                                                       class="nav-link ms-2 p-1">Diversity, Equity and Inclusion</a><a href="https://www.onsemi.com/company/environmental-social-and-governance/giving-now-program"
+                                                       class="nav-link ms-2 p-1">Giving Now Program</a>
+                                                </div>
+                                                
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/company/ethics-compliance">Ethics &amp; Compliance</a>
+                                                    <a href="https://www.onsemi.com/company/ethics-compliance/how-to-report-a-concern-or-incident"
+                                                       class="nav-link ms-2 p-1">How to Report a Concern or Incident</a><a href="https://www.onsemi.com/company/ethics-compliance/code-of-business-conduct"
+                                                       class="nav-link ms-2 p-1">Code of Business Conduct</a><a href="https://www.onsemi.com/company/ethics-compliance/protection-from-retaliation"
+                                                       class="nav-link ms-2 p-1">Protection from Retaliation</a>
+                                                </div>
+                                                
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://investor.onsemi.com/">Investor Relations</a>
+                                                    <a href="https://investor.onsemi.com/financials"
+                                                       class="nav-link ms-2 p-1">Financial Results</a><a href="https://investor.onsemi.com/stock-info"
+                                                       class="nav-link ms-2 p-1">Stock Performance</a><a href="https://investor.onsemi.com/governance/documents"
+                                                       class="nav-link ms-2 p-1">Corporate Governance</a><a href="https://investor.onsemi.com/events"
+                                                       class="nav-link ms-2 p-1">Investor Events</a><a href="https://investor.onsemi.com/news"
+                                                       class="nav-link ms-2 p-1">Investor News</a><a href="https://investor.onsemi.com/resources/investor-faqs"
+                                                       class="nav-link ms-2 p-1">Investor FAQs</a>
+                                                </div>
+                                                
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/company/news-media">News &amp; Media</a>
+                                                    <a href="https://www.onsemi.com/company/news-media/press-announcements"
+                                                       class="nav-link ms-2 p-1">Press Announcements</a><a href="https://www.onsemi.com/company/news-media/in-the-news"
+                                                       class="nav-link ms-2 p-1">In The News</a><a href="https://www.onsemi.com/company/news-media/blog"
+                                                       class="nav-link ms-2 p-1">Blog</a><a href="https://www.onsemi.com/company/news-media/media-contacts"
+                                                       class="nav-link ms-2 p-1">Media Contacts</a>
+                                                </div>
+                                                
+                                            
+                                                
+                                                
+                                            
+                                                
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/support/contact-us">Contact Us</a>
+                                                </div>
+                                            
+                                        </div>
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+                                </div>
+                                
+                                    <div class="border-start" style="max-width: 400px"><div class="row g-0 bg-section-light">
+
+    <!-- BODY -->
+    <div class="col-12 px-7 pb-sm-8 py-6 h-100">
+        <i class="bi bi-plug text-accent-1 fs-2"></i>
+        <p class="h3 mb-4 mt-5">Annual Sustainability Report 2023</p>
+        <p class="mb-5 fs-7">Our 2023 sustainability report details our efforts concerning environmental, social and governance initiatives.</p>
+        <a ga-on="click" ga-event-category="DOWNLOAD" ga-event-action="Collateral-2023 Sustainability Report" ga-event-label="Sustainability Report" href="https://www.onsemi.com/site/pdf/sustainability-report.pdf" target="_blank" class="btn btn-secondary"><i class="bi bi-file-earmark-pdf"></i> Read Report</a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/company/about-onsemi/quality-and-reliability" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="Quality & Reliabilityi">
+            <span>Quality & Reliability</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/company/environmental-social-and-governance" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="ESG">
+            <span>ESG</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+</div></div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="modal main-navigation-modal"
+                 id="main-navigation-modal-5" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="container">
+                    <div class="modal-dialog nav my-3 mw-100">
+                        <div class="modal-content">
+                            <div class="modal-header p-5">
+                                
+                                <a class="modal-title fs-4 fw-bold text-primary text-decoration-none"
+                                   href="https://www.onsemi.com/careers">Careers</a>
+                                <a class="btn btn-outline-primary rounded-pill"
+                                   href="https://www.onsemi.com/careers">Explore</a>
+                            </div>
+                            <div class="modal-body p-0 d-flex">
+                                <div class="flex-grow-1">
+                                    
+                                    
+                                    
+                                        <div class="p-5" style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
+                                            
+                                                
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/careers/early-careers">Early Careers</a><a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/careers/experienced-careers">Experienced Careers</a><a class="nav-link fw-bold p-1"
+                                                       href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001">Search  &amp;  Apply</a><a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/careers/who-we-are">Who We Are</a>
+                                                </div>
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/careers/where-we-are">Where We Are</a>
+                                                    
+                                                </div>
+                                                
+                                            
+                                                
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/careers/career-benefits">Career Benefits</a>
+                                                </div>
+                                            
+                                                <div>
+                                                    <a class="nav-link fw-bold p-1"
+                                                       href="https://www.onsemi.com/careers/internships">Internships</a>
+                                                    <a href="https://www.onsemi.com/careers/internships/frequently-asked-questions"
+                                                       class="nav-link ms-2 p-1">Frequently Asked Questions</a><a href="https://www.onsemi.com/careers/internships/university-relations"
+                                                       class="nav-link ms-2 p-1">University Relations</a><a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?keyword=Intern"
+                                                       class="nav-link ms-2 p-1">Apply For Internships</a>
+                                                </div>
+                                                
+                                            
+                                        </div>
+                                    
+
+                                    
+
+                                    
+                                        
+                                    
+                                </div>
+                                
+                                    <div class="border-start" style="max-width: 400px"><div class="row g-0 bg-section-light">
+
+    <!-- BODY -->
+    <div class="col-12 px-7 pb-sm-8 py-6 h-100">
+        <i class="bi bi-person-up text-accent-1 fs-2"></i>
+        <p class="h3 mb-4 mt-5">Transform Your Future at onsemi</p>
+        <p class="mb-5 fs-7">Join a team where cutting-edge intelligent technologies enable world-leading innovators and shape the future.</p>
+        <a href="/careers" class="btn btn-secondary" aria-label="Learn More">Learn More</a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="Jobs Listing">
+            <span>Jobs Listing</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+    <!-- LINK -->
+    <div class="col-12 px-7 py-4 border-accent-2 border-top">
+        <a href="/careers/career-benefits" class="fw-bold fs-6 d-flex justify-content-between text-link"
+            aria-label="Benefits">
+            <span>Benefits</span>
+            <i class="bi bi-caret-right-fill"></i>
+        </a>
+    </div>
+
+</div></div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+    </div>
+
+    <!-- SIDE MOBILE NAVIGATION -->
+    <nav class="side-navigation offcanvas offcanvas-start" id="side-navigation" data-locale="en-us">
+
+        <div class="offcanvas-body position-relative py-0 overflow-hidden">
+            <div class="d-flex justify-content-center">
+                <div class="spinner-grow text-primary"></div>
+            </div>
+        </div>
+
+        <div class="offcanvas-footer text-center border-top bg-light">
+            <div class="container">
+                <div class="row">
+                    <a class="col d-flex flex-column py-3 text-decoration-none" href="https://www.onsemi.com/myon">
+                        <i class="bi bi-person-circle fs-4"></i>
+                        <span class="fw-bold fs-8">MyON</span>
+                    </a>
+                    <a class="col d-flex flex-column py-3 text-decoration-none" href="https://www.onsemi.com/myon/my-account/shopping-cart">
+                        <i class="bi bi-cart-fill fs-4"></i>
+                        <span class="fw-bold fs-8">Cart</span>
+                    </a>
+                    <div class="col d-flex flex-column py-3 text-decoration-none" data-bs-toggle="dropdown">
+                        <i class="bi bi-globe fs-4"></i>
+                        <span class="fw-bold fs-8">Language</span>
+                    </div>
+                    <!DOCTYPE html>
+
+
+<div class="language-select-dropdown dropdown-menu dropdown-menu-end" data-top-level-domain="com">
+    <a class="dropdown-item text-center" data-top-level-domain="cn" data-locale="zh_CN">
+        <span>CN</span>
+    </a><a class="dropdown-item text-center" data-top-level-domain="jp" data-locale="ja_JP">
+        <span>JP</span>
+    </a>
+</div>
+
+
+                </div>
+            </div>
+        </div>
+    </nav>
+
+</header>
+    <div class="container">
+        <div class="row py-3 border-bottom">
+            <div class="col">
+                
+                    
+    
+        
+            <!DOCTYPE html>
+
+<nav class="mb-0 d-none d-sm-block">
+    <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+            <a href="/">
+                <i class="bi bi-house"></i>
+            </a>
+        </li>
+        
+        
+    <li class="breadcrumb-item">
+        
+            <a href="/terms-of-use"
+               class="text-decoration-none fw-bold text-muted">
+                <span>Terms of Use</span>
+                
+            </a>
+            
+        
+        
+    </li>
+
+    </ol>
+</nav>
+
+        
+    
+    <h1 class="mt-4">Terms of Use</h1>
+    
+
+                
+                
+            </div>
+        </div>
+        <div class="row">
+            
+                
+            
+            <div class="col main-element-default">
+                <main><div class="row">
+    <div class="col-12 p-sm-7 px-4 py-7">
+        <h2>
+            <strong>Please read these Terms of Use carefully before using <a
+                    href="http://www.onsemi.com">onsemi.com</a>.</strong>
+        </h2>
+        <p>
+            By accessing, browsing, and/or using this Site, you agree for yourself, and the Company you represent, to be bound by the following Terms of Use (these "Terms") and to comply with all applicable laws and regulations, including without limitation, U.S. export and re-export control laws and regulations. If you disagree with these Terms, do not use this Site.
+        </p>
+        <p>
+            Semiconductor Components Industries, L.L.C. d/b/a <strong>onsemi</strong> maintains <a
+                href="http://www.onsemi.com">onsemi.com</a> and other <strong>onsemi</strong> websites that are linked
+            to this website (collectively "Site") and all the information, communications, software, scripting, photos,
+            text, video, graphics, music, sounds, images, design tools and other materials and services found on this
+            Site (collectively "Content"), for the use, convenience and other lawful purposes of its customers,
+            employees, and members of the general public.
+        </p>
+        <p class="mb-0">
+            This Site is controlled and operated in whole or in part by <strong>onsemi</strong> from its offices within
+            the United
+            States. By accessing the Site, you agree that the statutes and laws of the United States and the state of
+            Arizona, U.S.A., without regard to conflicts of laws principles, will apply to all matters relating to use
+            of the Site, and you agree that any litigation shall be subject to the exclusive jurisdiction of the state
+            or federal courts in Arizona, U.S.A. Those who access this Site from other locations do so at their own risk
+            and are responsible for compliance with applicable local laws. <strong>onsemi</strong> makes no
+            representation that the
+            Content in this Site is appropriate or available for use in other locations, and access to it from
+            territories where the Content is illegal is prohibited. You acknowledge that <strong>onsemi</strong>
+            reserves the right in
+            its sole discretion to refuse or terminate access to this Site by you at any time.
+        </p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7 bg-section-light">
+        <h2>Use of Communication Services; Submissions of Information</h2>
+        <p>
+            This Site may contain forums, bulletin board services, chat areas, message boards, news feeds, news groups,
+            communities, calendars, and/or other message or communication facilities designed to allow you to
+            communicate with representatives of <strong>onsemi</strong> or with a group (collectively, “Communications
+            Services”). You agree to use the Communication Services only to post, send,
+            and receive
+            messages and content that are considered proper and related to the particular Communication Service. Other
+            than personally identifiable information, which is governed by <strong>onsemi</strong>'s <a
+                href="https://www.onsemi.com/privacy">Privacy Policy</a>, any information, material or communications
+            you send to <strong>onsemi</strong> through this Site, including the
+            Communication Services will be treated as non-confidential ("information"). For any information you do send,
+            you hereby agree that <strong>onsemi</strong> is free to use any ideas, concepts, suggestions, know-how,
+            techniques, and
+            other information that you send to <strong>onsemi</strong> for any purpose without compensation. For any
+            such
+            non-confidential information you do send, and under any patent or copyright granted therefrom, you hereby
+            grant and agree to grant <strong>onsemi</strong> an unrestricted, life-time, world-wide, royalty-free, right
+            and license,
+            with right to sublicense, to (1) make, have made, use, sell, offer for sale, import, and otherwise dispose
+            of any product, and (2) use, disclose, reproduce, distribute, and make derivative works of the
+            non-confidential information.
+        </p>
+        <p>
+            Among other actions, when using this Site and Communication Service, you agree that you will not post, send,
+            submit, publish, or transmit in connection with this Site, or cause to be posted, sent, submitted, published
+            or transmitted, any material that could give rise to any civil or criminal liability under the law,
+            including without limitation, any material that:
+        </p>
+        <ol>
+            <li>you do not have the right to post, including without limitation any proprietary material of any third
+                party protected by intellectual property laws (or by rights of privacy or publicity);</li>
+            <li>advocates or could reasonably serve to encourage, either directly or indirectly, any illegal or immoral
+                activity, or discusses an intent to commit an illegal act or violate any law, rule, or regulation;</li>
+            <li>is vulgar, obscene, pornographic, incendiary, or indecent;</li>
+            <li>threatens or abuses others;</li>
+            <li>is libelous, defamatory towards others, racist, abusive, harassing, threatening or offensive;</li>
+            <li>seeks to exploit or harm children by exposing them to inappropriate content, or asking for personally
+                identifiable details or information;</li>
+            <li>harvests or otherwise collects information about others, including e-mail addresses, financial
+                information or other personally identifying information, without their prior express consent in each
+                instance;</li>
+            <li>impersonates or misrepresents your connection to any other entity or person or otherwise manipulates or
+                forges headers or identifiers to disguise the origin of content;</li>
+            <li>falsifies or deletes any author attributions, legal or other proper notices or proprietary designations
+                or labels of the origin or source of software or other material contained in a file that is permissibly
+                uploaded (e.g., copyright, trademark or patent notices);</li>
+            <li>advertises any commercial endeavor (e.g., offering for sale products or services) or otherwise engages
+                in any commercial activity (e.g., conducting raffles or contests, displaying sponsorship banners, and/or
+                soliciting goods or services) except as may be specifically authorized on this Site;</li>
+            <li>solicits funds, advertisers or sponsors for any purpose;</li>
+            <li>includes programs that contain viruses, worms and/or Trojan horses or any other computer code, files, or
+                programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware
+                or telecommunications device;</li>
+            <li>disrupts the normal flow of dialogue, causes a screen to scroll faster than other users are able to
+                type, or otherwise acts in a way which affects the ability of other people to engage in real-time
+                activities via this Site;</li>
+            <li>amounts to a pyramid or other like scheme, including without limitation contests, chain letters, and
+                surveys;</li>
+            <li>disobeys any policy or regulations including any code of conduct or other guidelines established from
+                time to time regarding the use of this Site and/or any networks connected to this Site; or</li>
+            <li>contains hyperlinks to other sites that contain content that falls within the scope of this Section.
+            </li>
+        </ol>
+        <p>You acknowledge that any materials uploaded to the Communication Service may be subject to posted limits on
+            use, reproduction, and/or dissemination, and you are responsible for abiding by such limitations with
+            respect to your submissions, including any downloaded materials. Notwithstanding these rights, you remain
+            solely responsible for the content of your submissions. You acknowledge and agree that neither
+            <strong>onsemi</strong> nor
+            any third party that provides Content to <strong>onsemi</strong> will assume or have any liability for any
+            action made by
+            <strong>onsemi</strong> or such third party with respect to any submission.
+        </p>
+        <p><strong>onsemi</strong> reserves the right at any time and from time to time to modify or discontinue,
+            temporarily or
+            permanently, the Communication Services (or any part thereof) with or without notice. You agree that this
+            Site will not be liable to you or any third party for any modification, suspension, or discontinuance of the
+            Communication Services.</p>
+        <p>WHILE <strong>onsemi</strong> EXPLICITLY PROHIBITS THE ABOVE CONDUCT, YOU ACKNOWLEDGE AND AGREE THAT YOU MAY
+            BE EXPOSED TO
+            SUCH CONDUCT AND CONTENT, AND THAT YOUR USE OF THIS SITE IS ENTIRELY AT YOUR OWN RISK, AND THAT THIS SITE
+            SHALL HAVE NO LIABILITY OF ANY KIND FOR SUCH CONDUCT.</p>
+        <p class="mb-0">YOU UNDERSTAND AND AGREE THAT IF YOUR USE OF COMMUNICATIONS SERVICES VIOLATES ANY OF THE ABOVE
+            CODES OF
+            CONDUCT, <strong>onsemi</strong> CAN SUSPEND AND/OR TERMINATE YOUR USE OF THIS SITE IMMEDIATELY WITHOUT
+            PRIOR NOTICE AND
+            WITHOUT ANY RIGHT OF REFUND, SET-OFF, OR HEARING.</p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7">
+        <h2>Disclaimer of Warranty</h2>
+        <p>
+            <strong>onsemi</strong> DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE USE, VALIDITY, ACCURACY,
+            OR RELIABILITY
+            OF, OR THE RESULTS OF THE USE OF, OR OTHERWISE RESPECTING, THE CONTENT OF THIS SITE OR ANY OTHER WEBSITES
+            LINKED TO OR FROM THIS SITE. THE CONTENT OF THIS SITE IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND
+            EITHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT POSSIBLE PURSUANT TO APPLICABLE LAW,
+            <strong>onsemi</strong> DISCLAIMS ALL
+            WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY,
+            FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHER VIOLATION OF RIGHTS. IN NO EVENT WILL
+            <strong>onsemi</strong> BE
+            LIABLE FOR ANY ACTUAL, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR INDIRECT DAMAGES, HOWEVER CAUSED, BASED ON ANY
+            THEORY OF LIABILITY, ARISING OUT THE USE OF THIS SITE OR THE CONTENT THEREIN.
+        </p>
+        <p>
+            SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, OR
+            LIMITATION ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY.
+        </p>
+        <p class="mb-0">Any and all products sold by <strong>onsemi</strong> shall be governed by the
+            <strong>onsemi</strong> <a href="https://www.onsemi.com/terms-of-sale">Terms of Sale</a>.
+        </p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7 bg-section-light">
+        <h2>Design Tools, Software and Chat AI</h2>
+        <p class="mb-0">
+            <strong>onsemi</strong>’s design tools software and Chat AI (collectively “Tools”) are intended to assist
+            designers who are
+            developing systems that incorporate <strong>onsemi</strong> products including by recreating the performance
+            of circuits on a
+            web-based tool or providing AI-generated answers to questions. <strong>onsemi</strong> makes no warranty on
+            the use of these
+            Tools and the use of the Tools does not expand the warranty offered by <strong>onsemi</strong> on its
+            products which is found
+            in the Terms of Sale. While <strong>onsemi</strong> will make every effort to keep all Tools accurate and up
+            to date, the
+            performance or functionality of an <strong>onsemi</strong> product in the real world may differ from any
+            simulation performed
+            on the Tools or any guidance provided by our Chat AI. <strong>onsemi</strong> reserves the right to change
+            the Tools at any
+            time. Any user of these Tools bears responsibility for testing the recommended <strong>onsemi</strong>
+            products within their
+            own systems, and the users are responsible for the safety and regulatory compliance of their systems. Use of
+            the Tools is subject to these Terms and the Privacy Policy.
+        </p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7">
+        <h2>Revisions</h2>
+        <p class="mb-0">
+            <strong>onsemi</strong> may revise or withdraw the Content, in whole or in part, at any time without notice.
+            <strong>onsemi</strong> may at
+            any time revise these Terms by updating this posting. By using this Site, you agree to be bound by any such
+            revisions and you agree to periodically visit this page to determine the then current Terms of Use to which
+            you are bound.
+        </p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7 bg-section-light">
+        <h2>Links to Third Party Websites</h2>
+        <p class="mb-0">
+            <strong>onsemi</strong> makes no representations whatsoever about any other website which you may access
+            through this Site.
+            When you access a non-<strong>onsemi</strong> website, please understand that it is independent from
+            <strong>onsemi</strong>, and that <strong>onsemi</strong>
+            has no control over the content on that website. In addition, a link to a non-<strong>onsemi</strong>
+            website does not mean
+            that <strong>onsemi</strong> endorses or accepts any responsibility for the content, or the use, of such
+            website. It is up to
+            you to take precautions to ensure that whatever you select for your use is free of such items as viruses,
+            worms, trojan horses and other items of a destructive nature. <strong>onsemi</strong> makes no
+            representation or warranty as
+            to any third party products.
+        </p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7">
+        <h2>Indemnity</h2>
+        <p class="mb-0">
+            YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD <strong>onsemi</strong>, ITS SUBSIDIARIES, AFFILIATES, LICENSORS,
+            CONTENT PROVIDERS,
+            SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, DIRECTORS, AND CONTRACTORS (COLLECTIVELY, THE “INDEMNIFIED
+            PARTIES”) HARMLESS FROM ANY BREACH OF THESE TERMS BY YOU, INCLUDING ANY USE OF CONTENT OTHER THAN AS
+            EXPRESSLY AUTHORIZED IN THESE TERMS. YOU AGREE THAT THE INDEMNIFIED PARTIES WILL HAVE NO LIABILITY IN
+            CONNECTION WITH ANY SUCH BREACH OR UNAUTHORIZED USE, AND YOU AGREE TO INDEMNIFY ANY AND ALL RESULTING LOSS,
+            DAMAGES, JUDGMENTS, AWARDS, COSTS, EXPENSES, AND ATTORNEYS' FEES OF THE INDEMNIFIED PARTIES IN CONNECTION
+            THEREWITH. YOU WILL ALSO INDEMNIFY, DEFEND, AND HOLD THE INDEMNIFIED PARTIES HARMLESS FROM AND AGAINST ANY
+            CLAIMS BROUGHT BY THIRD PARTIES ARISING OUT OF YOUR USE OF THE INFORMATION ACCESSED FROM THIS SITE.
+        </p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7 bg-section-light">
+        <h2>Limitation of Liability</h2>
+        <p>
+            <strong>onsemi</strong> WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING OUT OF OR RELATING TO THE USE
+            OR THE INABILITY
+            TO USE THE COMMUNICATION SERVICES, THIS SITE, ITS CONTENT OR LINKS, INCLUDING, BUT NOT LIMITED TO, SPECIAL,
+            INCIDENTAL OR CONSEQUENTIAL DAMAGES.
+        </p>
+        <p class="mb-0">
+            SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE
+            ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+        </p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7">
+        <h2>Copyright, Trademarks, and Service Marks</h2>
+        <p>
+            Semiconductor Components Industries, L.L.C., 1999-2001. All Rights Reserved.
+            This Site is protected under Title 17 of United State Code (US Copyright Laws), Title 15 of United State
+            Code (US Trademark Laws), and other treaties, conventions, foreign laws, and other proprietary rights laws
+            (collectively "Rights").
+
+        </p>
+        <p>
+            In addition to <strong>onsemi</strong>'s Rights in individual elements of the Content, <strong>onsemi</strong> or its licensors own
+            copyright(s) in the selection, coordination and arrangement of the Content. No information from this Site
+            may be reproduced or transmitted in any form, in whole or in part, by any means, except for purpose of (1)
+            printing or storing one copy of the Content for non-commercial personal use which does not involve any use
+            opposing the interests of <strong>onsemi</strong>, or (2) <strong>onsemi</strong>'s customers ordering products or services directly from this
+            Site.
+        </p>
+        <p>
+            <strong>onsemi</strong> and the ON button ("ON" enclosed by solid circle), and other <strong>onsemi</strong> marks and product and service
+            names profiled herein, are trademarks of Semiconductor Components Industries, L.L.C. The names of actual
+            companies and other products, and marks mentioned herein may be the trademarks of their respective owners.
+            Your use of <strong>onsemi</strong> trademarks is limited to factual statements, which make no representation or association
+            between <strong>onsemi</strong> trademarks and your product or service, and requires an accompanying statement that the
+            trademarks belong to Semiconductor Components Industries, L.L.C.
+        </p>
+        <p class="mb-0">
+            <a href="/site/pdf/Trademark_Summary.pdf" target="_blank">Specific <strong>onsemi</strong> Trademark Information</a>
+        </p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7 bg-section-light">
+        <h2>Other Commonly Used Trademarks</h2>
+        <p class="mb-0">
+            Buffalo, CDA, Ceff-PGA, Cheval, CMTL, Customer Defined Array, DECAL, DIMMIC, DSPRAM, E-POWER, FIRsT, FLEX
+            Alphanumeric Chip, FLEX Chip, FLEX Numeric Chip, FLEX
+            Stack, GEL-PAK, GlobalOptoisolator, GreenLine, HDC, H4C Series, H4C Plus, HYPERformance, MAACPAC, MCML,
+            M·CORE, MECL 10K, MECL 10H, MECL III, Media Engine,
+            Memorist, MicroCool, MicroSIMM, MONOMAX, MOSAIC I, MOSAIC II, MOSAIC III, MOSAIC IV, MOSAIC V, MUSCLE,
+            Mustang, OACS, OnCE, PHACT, Power Manager, POWER OPTO,
+            Predix, PRISMCard, QUIL, Senseon, µSIMM, SMARTMOS, SORF, Symmetric Superscalar, TestPAS, Thermopad II, TMOS
+            V, VECOMP, VersaPower and X-ducer are trademarks of
+            Motorola, Inc. <br />
+            <br />
+            C-QUAM and MOSAIC are registered trademarks of Motorola, Inc.
+            <br />
+            Apollo is a registered trademark of Hewlett Packard Inc.
+            <br />
+            AutoLogic, NetEd, QuickSim II, QuickPath and Falcon Framework are trademarks of Mentor Graphics Corp.<br />
+            ChipFET is a trademark of Vishay Siliconix. <br />
+            Cho-Therm is a registered trademark of Chromerics, Inc. <br />
+            Concept, Gate Ensemble, Verilog-XL, Veritime and Dracula are trademarks of Cadence Design Systems, Inc.
+            <br />
+            Daisy is a trademark of Daisy Systems Corporation. DDCMP and VAX are trademarks of Digital Equipment
+            Corporation. <br />
+            Design Compiler, HDL Compiler, Test Compiler and DesignWave are trademarks of Synopsys, Inc. <br />
+            Echelon, LON, LONWORKS and NEURON are registered trademarks of Echelon Corporation.<br />
+            ETHERNET is a trademark of Xerox Corporation. <br />
+            FACT and FAST are trademarks of National Semiconductor Corporation. <br />
+            FETKY is a registered trademark of International Rectifier Corporation.
+            <br />
+            Micro8 is a trademark of International Rectifier Corporation.
+            <br />
+            FIDE is a trademark of Aptronix. GED is a trademark of Valid Logic Systems Inc. <br />
+            Grafoil is a registered trademark of Union Carbide. <br />
+            HP/Apollo is a registered trademark of Hewlett-Packard Inc.
+            <br />
+            IBM, IBM PC, PowerPC and SDLC are trademarks of International Business Machines Corporation.<br />
+            InterTools is a trademark of Intermetrics, Inc. Isotop is a trademark of SGS-Thomson Microelectronics.
+            <br />
+            Kapton and Teflon are registered trademarks of du Pont de Nemours & Co., Inc. <br />
+            Kon-Dux and Rubber-Duc are Trademarks of Aavid Thermal Technologies, Inc.
+            <br />
+            LONBUILDER and LONTALK are trademarks of Echelon Corporation. Macintosh is a trademark of Apple Computer,
+            Inc. Mentor Graphics is a trademark of Mentor Graphics
+            Corporation. <br />
+            MOTIVE is a registered trademark of Quad Design. <br />
+            NeXT is a trademark of NeXT Computer, Inc. <br />
+            Pentium is a registered trademark of Intel Corporation. <br />
+            PowerFLEX is a trademark of Texas Instruments Incorporated.
+            <br />
+            POWERMITE and COOLPACK are registered trademarks of and used under a license from Microsemi Corporation.
+            <br />
+            ROM68K and SmartROM are trademarks of Integrated Systems, Inc.
+            <br />
+            Sil Pad is a trademark of the Bergquist Company. <br />
+            SPARC is a trademark of SPARC International, Inc. <br />
+            Sun-4 is a trademark of Sun Microsystems Inc. <br />
+            Sync-Nut is a trademark of ITW Shakeproof.<br />
+            Thermal Clad is a registered trademark of the Bergquist Company. <br />
+            Thermasil is a registered trademark and Thermafilm is a trademark of Thermalloy, Inc. <br />
+            UNIX is a registered trademark of X/Open Company, Ltd. <br />
+            V2 is a trademark of Switch Power, Inc. <br />
+            Virtex is a registered Trademark of Xilinx, Inc. <br />
+            ZBT and Zero Bus Turnaround are trademarks of Integrated Device Technology, Inc. and the architecture is
+            supported by Micron Technology, Inc. and Motorola, Inc.<br />
+        </p>
+    </div>
+    <div class="col-12 p-sm-7 px-4 py-7">
+        <h2>Inter Font</h2>
+        <p>
+            Inter is a variable font licensed under the SIL Open Font License Version 1.1 available at:
+            <a href="http://scripts.sil.org/OFL">http://scripts.sil.org/OFL</a>
+            and copied below. Inter is a reserved font name. Copyright (c) 2016-2020 The Inter Project Authors. Any use
+            of the font is subject to the SIL Open Font License
+            Version 1.1.
+        </p>
+        <p>SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007</p>
+        <h5>PREAMBLE</h5>
+        <p>
+            The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font
+            projects, to support the font creation efforts of academic
+            and linguistic communities, and to provide a free and open framework in which fonts may be shared and
+            improved in partnership with others.
+        </p>
+        <p>
+            The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are
+            not sold by themselves. The fonts, including any
+            derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any
+            reserved names are not used by derivative works. The
+            fonts and derivatives, however, cannot be released under any other type of license. The requirement for
+            fonts to remain under this license does not apply to any
+            document created using the fonts or their derivatives.
+        </p>
+        <h5>DEFINITIONS</h5>
+        <p>
+            "Font Software" refers to the set of files released by the Copyright Holder(s) under this license and
+            clearly marked as such. This may include source files, build
+            scripts and documentation.
+        </p>
+        <p>"Reserved Font Name" refers to any names specified as such after the copyright statement(s).</p>
+        <p>"Original Version" refers to the collection of Font Software components as distributed by the Copyright
+            Holder(s).</p>
+        <p>
+            "Modified Version" refers to any derivative made by adding to, deleting, or substituting -- in part or in
+            whole -- any of the components of the Original Version,
+            by changing formats or by porting the Font Software to a new environment.
+        </p>
+        <p>"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to
+            the Font Software.</p>
+        <h5>PERMISSION AND CONDITIONS</h5>
+        <p>
+            Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use,
+            study, copy, merge, embed, modify, redistribute, and
+            sell modified and unmodified copies of the Font Software, subject to the following conditions:
+        </p>
+        <p><b>1)</b> Neither the Font Software nor any of its individual components, in Original or Modified Versions,
+            may be sold by itself.</p>
+        <p>
+            <b>2)</b> Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with
+            any software, provided that each copy contains the
+            above copyright notice and this license. These can be included either as stand-alone text files,
+            human-readable headers or in the appropriate machine-readable
+            metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+        </p>
+        <p>
+            <b>3)</b> No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written
+            permission is granted by the corresponding Copyright
+            Holder. This restriction only applies to the primary font name as presented to the users.
+        </p>
+        <p>
+            <b>4)</b> The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to
+            promote, endorse or advertise any Modified Version,
+            except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their
+            explicit written permission.
+        </p>
+        <p>
+            <b>5)</b> The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under
+            this license, and must not be distributed under any
+            other license. The requirement for fonts to remain under this license does not apply to any document created
+            using the Font Software.
+        </p>
+        <h5>TERMINATION</h5>
+        <p>This license becomes null and void if any of the above conditions are not met.</p>
+        <h5>DISCLAIMER</h5>
+        <p class="mb-0">
+            THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+            LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS
+            FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT
+            SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+            DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES,
+            WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+            ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT
+            SOFTWARE.
+        </p>
+    </div>
+</div></main>
+            </div>
+        </div>
+    </div>
+    <footer class="bg-primary">
+    <div class="container">
+        <div class="row py-6">
+            <!--Logo and Connections-->
+            <div class="logo-border col-12 col-xl-3 order-1 order-md-1 order-xl-0 pt-6 pt-xl-0">
+                <div class="row align-items-center justify-content-center">
+                    <div class="col-12 col-md-4 col-xl-12 g-0">
+                        <div class="px-8 px-md-6 ps-lg-0 pt-xl-0 mb-4 mb-md-0 mb-xl-4 d-flex justify-content-center justify-content-lg-start">
+                            <img src="https://www.onsemi.com/images/logo/onsemi_logo_reverse.svg" class="img-fluid logo-img" alt="onsemi logo">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-4 col-xl-12 g-0 text-center text-xl-start">
+                        <div class="text-secondary">Connect with us</div>
+                        <div class="footer-media-links fs-5 mt-4">
+                            <a class="me-4" href="https://www.linkedin.com/company/on-semiconductor" target="_blank" aria-label="LinkedIn">
+                                <i class="bi bi-linkedin"></i>
+                            </a>
+                            <a class="me-4" href="https://www.youtube.com/user/ONSemiconductor" target="_blank" aria-label="Youtube">
+                                <i class="bi bi-youtube"></i>
+                            </a>
+                            <a class="me-4" href="https://twitter.com/onsemi" target="_blank" aria-label="X/Twitter">
+                                <i class="bi bi-twitter-x"></i>
+                            </a>
+                            <a class="me-4" href="https://www.facebook.com/onsemi" target="_blank" aria-label="Facebook">
+                                <i class="bi bi-facebook"></i>
+                            </a>
+                            <a href="https://www.instagram.com/onsemi_official" target="_blank" aria-label="Instagram">
+                                <i class="bi bi-instagram"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-4 col-xl-12 g-0 mt-4 mt-lg-0 mt-xl-4">
+                        <div class="row gx-0 justify-content-center justify-content-lg-end justify-content-xl-start">
+                            <div class="col-auto">
+                                <button class="btn btn-primary rounded-pill border" data-bs-toggle="dropdown">
+                                    <i class="bi bi-globe"></i>
+                                    <span>Language</span>
+                                    <i class="bi bi-chevron-down"></i>
+                                </button>
+                                <!DOCTYPE html>
+
+
+<div class="language-select-dropdown dropdown-menu dropdown-menu-end" data-top-level-domain="com">
+    <a class="dropdown-item text-center" data-top-level-domain="cn" data-locale="zh_CN">
+        <span>CN</span>
+    </a><a class="dropdown-item text-center" data-top-level-domain="jp" data-locale="ja_JP">
+        <span>JP</span>
+    </a>
+</div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--Links Block-->
+            <div class="links-border col-12 col-xl-9 order-0 order-xxl-1 pb-3 ps-xl-7">
+                <div class="footer-custom-pages-links row row-cols-2 row-cols-md-3 row-cols-lg-4">
+                    <!--About Onsemi-->
+                    
+        
+            <div class="col">
+                <a class="nav-link text-secondary fs-6 mb-4"
+                   href="https://www.onsemi.com/company/about-onsemi">About onsemi</a>
+                <a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/about-onsemi/locations">Locations</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/about-onsemi/leadership">Leadership</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/about-onsemi/company-overview">Company Overview</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/about-onsemi/company-history">Company History</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/about-onsemi/quality-and-reliability">Quality and Reliability</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/about-onsemi/intellectual-property">Intellectual Property</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/about-onsemi/ecosystem-partners">Ecosystem Partners</a>
+            </div>
+        
+    
+                    <!--Investor Relations-->
+                    
+        
+            <div class="col">
+                <a class="nav-link text-secondary fs-6 mb-4"
+                   href="https://investor.onsemi.com/">Investor Relations</a>
+                <a class="nav-link mb-4"
+                   href="https://investor.onsemi.com/financials">Financial Results</a><a class="nav-link mb-4"
+                   href="https://investor.onsemi.com/stock-info">Stock Performance</a><a class="nav-link mb-4"
+                   href="https://investor.onsemi.com/governance/documents">Corporate Governance</a><a class="nav-link mb-4"
+                   href="https://investor.onsemi.com/events">Investor Events</a><a class="nav-link mb-4"
+                   href="https://investor.onsemi.com/news">Investor News</a><a class="nav-link mb-4"
+                   href="https://investor.onsemi.com/resources/investor-faqs">Investor FAQs</a>
+            </div>
+        
+    
+                    <!--News and Media-->
+                    
+        
+            <div class="col">
+                <a class="nav-link text-secondary fs-6 mb-4"
+                   href="https://www.onsemi.com/company/news-media">News &amp; Media</a>
+                <a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/news-media/press-announcements">Press Announcements</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/news-media/in-the-news">In The News</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/news-media/blog">Blog</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/company/news-media/media-contacts">Media Contacts</a>
+            </div>
+        
+    
+                    <!--Careers -->
+                    
+        
+            <div class="col">
+                <a class="nav-link text-secondary fs-6 mb-4"
+                   href="https://www.onsemi.com/careers">Careers</a>
+                <a class="nav-link mb-4"
+                   href="https://www.onsemi.com/careers/early-careers">Early Careers</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/careers/experienced-careers">Experienced Careers</a><a class="nav-link mb-4"
+                   href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001">Search  &amp;  Apply</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/careers/who-we-are">Who We Are</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/careers/where-we-are">Where We Are</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/careers/career-benefits">Career Benefits</a><a class="nav-link mb-4"
+                   href="https://www.onsemi.com/careers/internships">Internships</a>
+            </div>
+        
+    
+                    <!--Support-->
+                    
+        
+            
+        
+    
+                </div>
+            </div>
+            <!--Copyright and Bottom Links Block-->
+            <div class="col-12 g-sm-0 order-2 text-center text-lg-start mt-6">
+                <div class="nav sub-navigation justify-content-center justify-content-lg-start">
+                    <a class="nav-link p-0 px-2 ps-0 "
+                       href="https://www.onsemi.com/accessibility">Accessibility</a><a class="nav-link p-0 px-2  "
+                       href="https://www.onsemi.com/do-not-sell-or-share-my-personal-information">Do Not Sell or Share My Personal Information</a><a class="nav-link p-0 px-2  "
+                       href="https://www.onsemi.com/terms-of-use">Terms of Use</a><a class="nav-link p-0 px-2  "
+                       href="https://www.onsemi.com/terms-of-sale">Terms of Sale</a><a class="nav-link p-0 px-2  "
+                       href="https://www.onsemi.com/cookie-policy">Cookie Policy</a><a class="nav-link p-0 px-2  "
+                       href="https://www.onsemi.com/privacy">Privacy</a><a class="nav-link p-0 px-2  "
+                       href="https://www.onsemi.com/subscribe">Subscribe</a><a class="nav-link p-0 px-2  pe-0"
+                       href="https://www.onsemi.com/site-map">Site Map</a>
+                </div>
+                
+
+                <div class="col-12 mt-5">© Copyright 1999-2024 Semiconductor Components Industries, LLC</div>
+            </div>
+        </div>
+    </div>
+    
+        <!-- this condition is used because we want to remove these buttons from footer for 3rd party services, however we need to keep them as a part of the footer for our prehistorical app -->
+        <button id="backToTop" title="Go to top" class="btn btn-dark position-fixed m-3 z-index-1">
+    <i class="bi bi-arrow-up"></i>
+</button>
+        <div class="floating-buttons">
+            <!DOCTYPE html>
+
+
+<div id="live-chat-button" class="floating-button">
+    <div class="floating-button-icon" style="background-image: url(&quot;data:image/svg+xml,%3Csvg id='eKxNOdlYHjC1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 57.2 54.4' shape-rendering='geometricPrecision' text-rendering='geometricPrecision'%3E%3Cstyle%3E%3C!%5BCDATA%5B%23eKxNOdlYHjC7_to %7Banimation: eKxNOdlYHjC7_to__to 3000ms linear infinite normal forwards%7D@keyframes eKxNOdlYHjC7_to__to %7B 0%25 %7Btransform: translate(16.74px,20.26px)%7D 3.333333%25 %7Btransform: translate(16.74px,19.26px)%7D 6.666667%25 %7Btransform: translate(16.74px,18.26px)%7D 10%25 %7Btransform: translate(16.74px,17.26px)%7D 13.333333%25 %7Btransform: translate(16.74px,16.26px)%7D 16.666667%25 %7Btransform: translate(16.74px,17.26px)%7D 20%25 %7Btransform: translate(16.74px,18.26px)%7D 23.333333%25 %7Btransform: translate(16.74px,19.26px)%7D 26.666667%25 %7Btransform: translate(16.74px,20.26px)%7D 100%25 %7Btransform: translate(16.74px,20.26px)%7D%7D %23eKxNOdlYHjC8_to %7Banimation: eKxNOdlYHjC8_to__to 3000ms linear infinite normal forwards%7D@keyframes eKxNOdlYHjC8_to__to %7B 0%25 %7Btransform: translate(22.569999px,20.26px)%7D 6.666667%25 %7Btransform: translate(22.569999px,20.26px)%7D 10%25 %7Btransform: translate(22.569999px,19.26px)%7D 13.333333%25 %7Btransform: translate(22.569999px,18.26px)%7D 16.666667%25 %7Btransform: translate(22.569999px,17.26px)%7D 20%25 %7Btransform: translate(22.569999px,16.26px)%7D 23.333333%25 %7Btransform: translate(22.569999px,17.26px)%7D 26.666667%25 %7Btransform: translate(22.569999px,18.26px)%7D 30%25 %7Btransform: translate(22.569999px,19.26px)%7D 33.333333%25 %7Btransform: translate(22.569999px,20.26px)%7D 100%25 %7Btransform: translate(22.569999px,20.26px)%7D%7D %23eKxNOdlYHjC9_to %7Banimation: eKxNOdlYHjC9_to__to 3000ms linear infinite normal forwards%7D@keyframes eKxNOdlYHjC9_to__to %7B 0%25 %7Btransform: translate(28.4px,20.26px)%7D 13.333333%25 %7Btransform: translate(28.4px,20.26px)%7D 16.666667%25 %7Btransform: translate(28.4px,19.26px)%7D 20%25 %7Btransform: translate(28.4px,18.26px)%7D 23.333333%25 %7Btransform: translate(28.4px,17.26px)%7D 26.666667%25 %7Btransform: translate(28.4px,16.26px)%7D 30%25 %7Btransform: translate(28.4px,17.26px)%7D 33.333333%25 %7Btransform: translate(28.4px,18.26px)%7D 36.666667%25 %7Btransform: translate(28.4px,19.26px)%7D 40%25 %7Btransform: translate(28.4px,20.26px)%7D 100%25 %7Btransform: translate(28.4px,20.26px)%7D%7D%5D%5D%3E%3C/style%3E%3Cg id='eKxNOdlYHjC2' transform='matrix(1 0 0 1 6 6)'%3E%3Cg id='eKxNOdlYHjC3' transform='matrix(1 0 0 1 -6 -6)'%3E%3Cpath id='eKxNOdlYHjC4' d='M28.6,6C16.1,6,6,15.3,6,26.7C6,31.4,7.7,37.8,10.7,41.3L6,48.4L28.6,48.4C41.1,48.4,51.2,38.1,51.2,26.7C51.2,15.3,41.1,6,28.6,6Z' transform='matrix(1 0 0 1 -0.03 0)' fill='rgb(245,129,52)' stroke='none' stroke-width='1'/%3E%3C/g%3E%3Cg id='eKxNOdlYHjC5'%3E%3Cg id='eKxNOdlYHjC6'%3E%3Cg id='eKxNOdlYHjC7_to' transform='translate(16.74,20.26)'%3E%3Ccircle id='eKxNOdlYHjC7' r='1.94' transform='translate(0,0)' fill='rgb(255,255,255)' stroke='none' stroke-width='1'/%3E%3C/g%3E%3Cg id='eKxNOdlYHjC8_to' transform='translate(22.569999,20.26)'%3E%3Ccircle id='eKxNOdlYHjC8' r='1.94' transform='translate(0.000001,0)' fill='rgb(255,255,255)' stroke='none' stroke-width='1'/%3E%3C/g%3E%3Cg id='eKxNOdlYHjC9_to' transform='translate(28.4,20.26)'%3E%3Ccircle id='eKxNOdlYHjC9' r='1.94' transform='translate(0,0)' fill='rgb(255,255,255)' stroke='none' stroke-width='1'/%3E%3C/g%3E%3C/g%3E%3Cpath id='eKxNOdlYHjC10' d='M27.99,11.27L17.21,11.27C12.81,11.27,9.25,14.83,9.25,19.23C9.25,23.53,12.66,27.03,16.93,27.18L16.93,31.13L20.8,27.2L27.99,27.2C32.39,27.2,35.95,23.64,35.95,19.24C35.95,14.84,32.39,11.27,27.99,11.27Z' fill='none' stroke='rgb(255,255,255)' stroke-width='2' stroke-miterlimit='10'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E&quot;);"></div>
+    <div class="floating-button-loader d-none">
+        <div class="spinner-border"></div>
+    </div>
+    <span class="floating-button-tooltip-text">
+        <span>Live Chat</span>
+    </span>
+</div>
+
+
+
+
+
+            <!DOCTYPE html>
+
+
+<div id="feedback-button" class="floating-button">
+    <span class="floating-button-icon" style="background: url('/images/feedback/Feedback_Thumbsup_Solid.svg');" data-bs-toggle="modal" data-bs-target="#feedbackModal"></span>
+    <span class="floating-button-tooltip-text">
+        <span>Give Feedback</span>
+    </span>
+</div>
+
+
+        </div>
+        <!DOCTYPE>
+
+<div class="modal fade" id="feedbackModal"  role="dialog" tabindex="-1" aria-labelledby="feedbackModalLabel" aria-hidden="true" >
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <div class="d-flex w-100 px-4 align-items-center">
+                    <span id="feedbackHeaderThumbIcon" class="fs-4 pe-4"></span>
+                    <h5 class="modal-title pl-3 fs-4" id="feedbackModalLabel" >Give Feedback</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+            </div>
+            <div class="modal-body">
+            <!-- screen 1 -->
+            <div id="initFeedbackForm" class="collapse show px-4">
+                <form class="needs-validation" id="feedbackForm" action="#" novalidate>
+                <label for="feedback-rating-stars" class="fw-bolder py-4">How would you rate your experience?</label>
+                <br />
+                <div id="feedback-rating-stars"  class="d-flex w-75 justify-content-between border border-0 rounded" data-fb-rating-value="0" >
+                    <i data-value="1" class="bi bi-star-fill text-black-50 align-middle feedback-rating-star display-6"></i>
+                    <i data-value="2" class="bi bi-star-fill text-black-50 align-middle feedback-rating-star display-6"></i>
+                    <i data-value="3" class="bi bi-star-fill text-black-50 align-middle feedback-rating-star display-6"></i>
+                    <i data-value="4" class="bi bi-star-fill text-black-50 align-middle feedback-rating-star display-6"></i>
+                    <i data-value="5" class="bi bi-star-fill text-black-50 align-middle feedback-rating-star display-6"></i>
+                    <div><i id="validationIcon" class="bi bi-exclamation-circle text-danger px-2 d-none"></i></div>
+                </div>
+                <br />
+                <div class="form-group">
+                    <label for="feedbackTextInput" class="fw-bolder">Please tell us more</label>
+                    <textarea id="feedbackTextInput" required class="mt-2 mb-2 form-control" placeholder="We&#39;d love to hear your suggestions" ></textarea>
+
+                </div>
+                <div class="form-group mt-3" >
+                    <input id="feedbackEmailInput" name ="feedbackEmail"  type="email" required class="mb-2 form-control" placeholder="Email" >
+                    <div class="fs-9 px-1 text-dark">Your email address will not be added to our database or used for Marketing purposes. We will only use it to communicate with you in order to understand the issue and let you know when it is resolved.</div>
+
+
+                </div>
+
+                <div id="feedbackFileUploadComponent" class="collapse pt-3">
+                    <input type="file" id="feedbackFile" accept="image/*">
+                </div>
+                </form>
+            </div>
+            <!-- screen 2 -->
+            <div id="submitSuccess" class="collapse px-4 text-center">
+                <p>
+                    <span class="lh-lg">
+                        <span class="feedback-checkmark"></span>
+                    </span>
+                    <br />
+                    <span class="text-primary lh-lg fw-bolder fs-5">Submission Successful!</span>
+                    <br />
+                    <span class="text-primary fw-bolder fs-5">Thank you for your feedback.</span>
+                </p>
+            </div>
+            <!-- screen 3 -->
+            <div id="feedbackDetailQuestionary" class="collapse px-4">
+                <p class="fw-bolder py-4 fs-6">Please tell us a bit more about your experience</p>
+                <form id="feedbackQuestionary1" class="needs-validation" action="#" novalidate>
+                <div class="form-group">
+                    <select id="jobFunctionSelect" data-question="What is your job function?" class="form-control form-select mb-3" required>
+                        <option value="" selected disabled>What is your job function?</option>
+                        <option value="Design Engineering">Design Engineering</option>
+                        <option value="Other Engineering">Other Engineering</option>
+                        <option value="Engineering Management">Engineering Management</option>
+                        <option value="Procurement">Procurement</option>
+                        <option value="Purchasing">Purchasing</option>
+                        <option value="Distribution Channel">Distribution Channel</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <select id="frequencyVisitsSelect"  data-question="Frequency of visits to onsemi.com" required class="form-control form-select my-3">
+                        <option value="" selected disabled>Frequency of visits to onsemi.com</option>
+                        <option value="1st time visitor">1st time visitor</option>
+                        <option value="Once a week, or more">Once a week, or more</option>
+                        <option value="Several times a month">Several times a month</option>
+                        <option value="Once a month">Once a month</option>
+                        <option value="Several times a year">Several times a year</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <select id="reasonWhyTodaySelect" data-question="What brought you to the site today?" required class="form-control form-select my-3">
+                        <option value="" selected disabled>What brought you to the site today?</option>
+                        <option value="Search engine">Search engine</option>
+                        <option value="Link from other web site">Link from other web site</option>
+                        <option value="Online advertisement">Online advertisement</option>
+                        <option value="Social media">Social media</option>
+                        <option value="Email/newsletter/announcement">Email/newsletter/announcement</option>
+                        <option value="Recommendation">Recommendation</option>
+                        <option value="Bookmark">Bookmark</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <select id="purposeSelect" data-question="What was the purpose of the visit?" required class="form-control form-select my-3">
+                        <option value="" selected disabled>What was the purpose of the visit?</option>
+                        <option value="Look for product information">Look for product information</option>
+                        <option value="Look for applications or solution information">Look for applications or solution information</option>
+                        <option value="Pricing and availability information, samples, or purchasing">Pricing and availability information, samples, or purchasing</option>
+                        <option value="Company or investor information">Company or investor information</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <select id="nextStepsSelect" data-question="What are your next steps?" required class="form-control form-select my-3">
+                        <option value="" selected disabled>What are your next steps?</option>
+                        <option value="Accomplished objective; no immediate further action">Accomplished objective; no immediate further action</option>
+                        <option value="Review information; no immediate further action">Review information; no immediate further action</option>
+                        <option value="Review information; return to onsemi.com for further evaluation">Review information; return to onsemi.com for further evaluation</option>
+                        <option value="Visit supply channel site">Visit supply channel site</option>
+                        <option value="Visit competitor site">Visit competitor site</option>
+                        <option value="Contact sales or distributors">Contact sales or distributors</option>
+                        <option value="Other">Other</option>
+                    </select>
+                </div>
+            </form>
+            </div>
+            <!-- screen 4 -->
+            <div id="feedbackDetailquestionaryFinal" class="collapse px-4">
+                    <p class="fw-bolder fs-6">Please tell us a bit more about your experience</p>
+                <form id="feedbackQuestionary2" class="needs-validation" action="#" novalidate>
+                    <div class="feedback-radiogroup-wrapper my-6 " data-question="Overall, how satisfied are you with onsemi.com" data-chosen-value="0">
+                        <p class="fw-bolder">Overall, how satisfied are you with onsemi.com</p>
+                        <div class="d-flex w-100 justify-content-between flex-wrap">
+
+                            <input  type="radio" class="btn-check form-check-input" name="visit" id="feedbackoption1" autocomplete="off" required>
+                            <label data-value="1" class="form-check-label btn btn-outline-primary" for="feedbackoption1">1</label>
+
+                            <input type="radio" class="btn-check form-check-input" name="visit" id="feedbackoption2" autocomplete="off" required>
+                            <label data-value="2"class="form-check-label btn btn-outline-primary" for="feedbackoption2">2</label>
+
+                            <input  type="radio" class="btn-check form-check-input" name="visit" id="feedbackoption3" autocomplete="off" required>
+                            <label data-value="3" class="form-check-label btn btn-outline-primary" for="feedbackoption3">3</label>
+
+                            <input  type="radio" class="btn-check form-check-input" name="visit" id="feedbackoption4" autocomplete="off" required>
+                            <label data-value="4" class="form-check-label btn btn-outline-primary" for="feedbackoption4">4</label>
+
+                            <input  type="radio" class="btn-check form-check-input" name="visit" id="feedbackoption5" autocomplete="off" required>
+                            <label data-value="5" class="form-check-label btn btn-outline-primary" for="feedbackoption5">5</label>
+
+                            <input  type="radio" class="btn-check form-check-input" name="visit" id="feedbackoption6" autocomplete="off" required>
+                            <label data-value="6" class="form-check-label btn btn-outline-primary" for="feedbackoption6">6</label>
+
+                            <input  type="radio" class="btn-check form-check-input" name="visit" id="feedbackoption7" autocomplete="off" required>
+                            <label data-value="7" class="form-check-label btn btn-outline-primary" for="feedbackoption7">7</label>
+
+                        <div class="break"></div>
+                            <div><span>Not at all<br /> successful</span></div>
+                            <div class="text-end"><span>Very <br />successful</span></div>
+                        </div>
+                    </div>
+
+                    <div class="my-6 feedback-radiogroup-wrapper" data-question="How successful was your current visit?" data-chosen-value="0">
+                        <p class="fw-bolder">How successful was your current visit?</p>
+                        <div class="d-flex w-100 justify-content-between flex-wrap">
+                            <input type="radio"  class="btn-check form-check-input" name="success" id="feedbackoption8" autocomplete="off" required>
+                            <label data-value="1" class="form-check-label btn btn-outline-primary" for="feedbackoption8">1</label>
+
+                            <input type="radio"  class="btn-check form-check-input" name="success" id="feedbackoption9" autocomplete="off" required>
+                            <label data-value="2" class="form-check-label btn btn-outline-primary" for="feedbackoption9">2</label>
+
+                            <input type="radio" class="btn-check form-check-input" name="success" id="feedbackoption10" autocomplete="off" required>
+                            <label data-value="3" class="form-check-label btn btn-outline-primary" for="feedbackoption10">3</label>
+
+                            <input type="radio"  class="btn-check form-check-input" name="success" id="feedbackoption11" autocomplete="off" required>
+                            <label data-value="4" class="form-check-label btn btn-outline-primary" for="feedbackoption11">4</label>
+
+                            <input type="radio"  class="btn-check form-check-input" name="success" id="feedbackoption12" autocomplete="off" required>
+                            <label data-value="5" class="form-check-label btn btn-outline-primary" for="feedbackoption12">5</label>
+
+                            <input type="radio"  class="btn-check form-check-input" name="success" id="feedbackoption13" autocomplete="off" required>
+                            <label data-value="6" class="form-check-label btn btn-outline-primary" for="feedbackoption13">6</label>
+
+                            <input type="radio"  class="btn-check form-check-input" name="success" id="feedbackoption14" autocomplete="off" required>
+                            <label data-value="7" class="form-check-label btn btn-outline-primary" for="feedbackoption14">7</label>
+                        <div class="break"></div>
+                            <div><span >Not at all<br />satisfied</span></div>
+                            <div class="text-end"><span>Very <br />satisfied</span></div>
+                        </div>
+                    </div>
+                </form>
+                </div>
+
+            </div>
+            <div class="modal-footer border-0">
+                <!-- footer 1 -->
+                <div class="collapse show w-100 px-4 justify-content-between mb-4" id="initFeedbackFooter">
+                    <button type="button" data-toggle="collapse" data-target="#feedbackFileUploadComponent" aria-expanded="false" aria-controls="feedbackFileUploadComponent" id="feedbackAddFilesButton" class="btn btn-outline-primary ">Add Screenshot(Optional)</button>
+                    <button type="button" id="feedbackModalSubmitButton"  class="btn btn-secondary ms-auto">Submit</button><br />
+<!--                    <div id="feedback-grecaptcha" class="recaptcha-el" data-callback="recaptchaSendRating"></div>-->
+                </div>
+                <!-- footer 2 -->
+                <div class="collapse w-100 px-4 flex-wrap" id="submitSuccessFooter">
+                    <p class="text-primary text-center fw-bolder">Would you take a few moments to answer a few additional questions about your experience on our site?</p>
+                    <div class="break"></div>
+                    <div class="w-100 justify-content-center d-flex">
+                        <button type="button" data-bs-dismiss="modal" class="btn btn-primary">No, Thank you</button>
+                        <button type="button" id="feedbackModalContinueButton" class="btn btn-secondary mx-4">Yes</button>
+                    </div>
+                </div>
+
+                <!-- footer 3 -->
+                <div class="collapse w-100 justify-content-center" id="questionaryFirstFooter">
+                    <button type="button" data-bs-dismiss="modal" class="btn btn-primary ">Cancel</button>
+                    <button type="button" id="feedbackQuestionaryNextButton" class="btn btn-secondary mx-4">next</button><br />
+                </div>
+                <!-- footer 4 -->
+
+                <div class="collapse w-100 justify-content-center" id="questionarySecondFooter">
+                    <button type="button" id="feedbackQuestionaryBackButton" class="btn btn-primary">Back</button>
+                    <button type="button" id="feedbackQuestionaryFinalButton" class="btn btn-secondary mx-4">Submit</button><br />
+
+                </div>
+                <!-- footer 5 -->
+                <div class="collapse w-100 justify-content-center" id="questionaryCloseFooter">
+                    <button type="button" data-bs-dismiss="modal" class="btn btn-primary" >Close</button>
+                </div>
+                <p id="footerContactDetail" class="text-center fw-bold w-100" ><span>Need Further Assistance?</span><a href="/support/technical-support" class="m-3">Technical Support</a></p>
+<!--                <p id="feedbackRecaptchaDetail" class="text-center fs-8 w-100 text-muted" th:utext="${@keyword.get(@keywordPaths.KEYWORDS, 'grecaptchaPolicy')}"></p>-->
+            </div>
+        </div>
+    </div>
+</div>
+<!--<div id="questionary-grecaptcha" class="recaptcha-el" data-callback="recaptchaSendQuestionary"></div>-->
+
+    
+</footer>
+    <div>
+    <div class="modal fade" id="addToCartModal" tabindex="-1" aria-labelledby="addToCartModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header border-bottom-0">
+                    <h5 class="modal-title" id="addToCartModalLabel"><span class="modal-title-product-name">Item Name</span> New message</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="text-center modal-body-spinner">
+                        <div class="spinner-grow" role="status">
+                            <span class="visually-hidden">Loading...</span>
+                        </div>
+                    </div>
+                    <p>Adding additional <span class="modal-body-item-count">2</span> items in your cart</p>
+                    <button type="button" class="btn btn-primary" data-bs-dismiss="modal" aria-label="Close"><i class=""></i> Continue Shopping</button>
+                    <a href="/myon/my-account/checkout" class="btn btn-secondary">Checkout</a>
+                    <a href="/myon/my-account/shopping-cart" class="btn btn-primary">Cart</a>
+                </div>
+
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+    </body>
+
+
+</html>

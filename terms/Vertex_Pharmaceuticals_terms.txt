@@ -1,0 +1,2281 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" charset="UTF-8" type="text/javascript" data-domain-script="55293c39-90c9-481e-be5a-a536e7236802" data-document-language="true"></script>
+<script type="text/javascript">function OptanonWrapper() {
+      var countryCode = OneTrust.getGeolocationData().country;
+      dataLayer.push({event:"GACountry", OneTrustCountryCode: countryCode});
+    }</script>
+<meta name="description" content="Read the following terms and conditions of use for the Vertex Pharmaceuticals Website." />
+<link rel="canonical" href="https://www.vrtx.com/terms-and-conditions/" />
+<meta property="og:site_name" content="Vertex" />
+<meta property="og:url" content="https://www.vrtx.com/terms-and-conditions/" />
+<meta property="og:title" content="Vertex Pharmaceuticals | Terms and Conditions of Website Use" />
+<meta property="og:description" content="Read the following terms and conditions of use for the Vertex Pharmaceuticals Website." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@VertexPharma" />
+<meta name="twitter:title" content="Terms and conditions of website use" />
+<meta name="twitter:image:alt" content="Terms and conditions of website use" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/hogarth4/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.vrtx.com/terms-and-conditions/" />
+
+    <title>Vertex Pharmaceuticals | Terms and Conditions of Website Use</title>
+    <link rel="stylesheet" media="all" href="/sites/global/files/css/css_ABCj5KfVzZn45JZz7UknHLeJBKLs0qPEyIr29NKYIpE.css?delta=0&amp;language=en&amp;theme=hogarth4&amp;include=eJxtkMF2xCAIRX_IxE37PR6SUDWjYEE7k359bRZJM50d7wKH98BHRSFILkW6qQtAS0Kx-BKbmQXt-tlQtnFmvkU04X53QMSNZsxI1RUurdjXeJ8W_EDBztVepdFNK2Y7gaKZmKtWgfL-T2dUBd_ndzvEkiHF7-vKUQ6rDgkqav3b94knSIPWrQf0JrAHqeHtmXtmn9BV8NbXfJXgn_UIKzz2iBqgOzsqU0DA98NB7SKtQBpPMjYqbUpRAy6nkQyRHMFX9FAj09n4XUyp3znSuAlEIvdHLPgD2-61mg" />
+<link rel="stylesheet" media="all" href="/sites/global/files/css/css_rpijGiM7XJji4iOgGNhaabgzu_IqgK1pI2lumNoR_P0.css?delta=1&amp;language=en&amp;theme=hogarth4&amp;include=eJxtkMF2xCAIRX_IxE37PR6SUDWjYEE7k359bRZJM50d7wKH98BHRSFILkW6qQtAS0Kx-BKbmQXt-tlQtnFmvkU04X53QMSNZsxI1RUurdjXeJ8W_EDBztVepdFNK2Y7gaKZmKtWgfL-T2dUBd_ndzvEkiHF7-vKUQ6rDgkqav3b94knSIPWrQf0JrAHqeHtmXtmn9BV8NbXfJXgn_UIKzz2iBqgOzsqU0DA98NB7SKtQBpPMjYqbUpRAy6nkQyRHMFX9FAj09n4XUyp3znSuAlEIvdHLPgD2-61mg" />
+<link rel="stylesheet" media="all" href="/themes/custom/hogarth4/css/components.css?skf3o2" />
+
+    
+      </head>
+  <body class="terms-and-conditions path-node node--type-page">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PFK4NQK"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" aria-label="Site header">
+                      <div class="container">
+        <div class="header-container">
+                        
+              
+
+
+<div class="top-menu-wrap">
+  
+<nav  id="block-topnavigation" class="block block-menu navigation menu--top-navigation navbar navbar-expand-lg">
+            
+  <p class="sr-only" id="block-topnavigation-menu">Top Navigation</p>
+  
+        
+
+  <ul class="menu menu-level-0">
+            
+      <li class="menu-item">
+        <a href="https://news.vrtx.com/" target="_blank">News</a>
+                          
+  
+  <div class="menu_link_content menu-link-contenttop-navigation view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item">
+        <a href="https://investors.vrtx.com/" target="_blank">Investors</a>
+                          
+  
+  <div class="menu_link_content menu-link-contenttop-navigation view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item">
+        <a href="/stories/" data-drupal-link-system-path="node/90">Stories</a>
+                          
+  
+  <div class="menu_link_content menu-link-contenttop-navigation view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item">
+        <a href="https://clinicaltrials.vrtx.com/" target="_blank">Clinical Trials</a>
+                          
+  
+  <div class="menu_link_content menu-link-contenttop-navigation view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item">
+        <a href="/our-science/partner-with-us/" data-drupal-link-system-path="node/46">Partners</a>
+                          
+  
+  <div class="menu_link_content menu-link-contenttop-navigation view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+  </nav>
+
+  <div class="flag-img">
+  <p>Global</p>
+  <picture>
+    <source srcset="/sites/global/files/Globe48x48.png" >
+    <img src="/sites/global/files/Globe48x48.png" alt="Flag">
+  </picture>
+</div>
+<nav  id="block-regionmenu">
+  <a class="navbar-brand-second" href="/" title="Redesign Home" rel="home">
+    <img src="/themes/custom/hogarth4/images/vertex-logo.svg" alt="Home"/>
+  </a>
+        <span class="close-btn">
+    <img src="/themes/custom/hogarth4/images/icons-close-menu.svg" alt="close-btn">
+  </span>
+  
+  <div class="nav-container">
+    
+    <div class="region-top">
+      <p>
+        Choose your region
+      </p>
+    </div>
+            
+
+  <ul class="menu menu-level-0">
+            
+      <li class="menu-item menu-item--expanded">
+        <span>Americas</span>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+
+
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item">
+        <a href="https://www.vrtx.ca/" target="_blank">Canada</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+            <div class="field field--name-field-header-custom-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/2021-04/icons-flags-ca%402x_0_1.png" width="48" height="34" alt="canada-flag" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item">
+        <a href="/en-us" target="_blank">United States</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+            <div class="field field--name-field-header-custom-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/flag-usa.png" width="48" height="34" alt="Flag of USA" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded">
+        <span>Asia Pacific</span>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+
+
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item">
+        <a href="/en-au" target="_blank">Australia</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+            <div class="field field--name-field-header-custom-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/icons-flags-australia.png" width="48" height="34" alt="Australian Flag" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded">
+        <span>Europe</span>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+
+
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item">
+        <a href="/fr-fr" target="_blank">France</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+            <div class="field field--name-field-header-custom-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/French_flag_0.png" width="48" height="34" alt="Flag of France" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item">
+        <a href="/de-de" target="_blank">Germany</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+            <div class="field field--name-field-header-custom-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/2021-04/icons-flags-germany%402x_1.png" width="48" height="34" alt="de-flag" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item">
+        <a href="/it-it" target="_blank">Italy</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+            <div class="field field--name-field-header-custom-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/icons-flags-italy.png" width="48" height="34" alt="Italy&#039;s flag" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item">
+        <a href="/en-gb" target="_blank">United Kingdom</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+            <div class="field field--name-field-header-custom-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/2021-04/icons-flags-uk%402x_1.png" width="48" height="34" alt="uk-flag" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded">
+        <span>Rest of the world</span>
+                          
+
+<div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+        
+
+
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Global / EN</a>
+                          
+  
+  <div class="menu_link_content menu-link-contentregion-menu view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+            <div class="field field--name-field-header-custom-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/Globe34x34.png" width="34" height="34" alt="Global Flag" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+      <p class="bottom-text">Don't see your region/country<br />
+listed?&nbsp;<a href="https://www.vrtx.com/" target="_blank">Visit our global website</a></p>
+
+  </div>
+              </li>
+        </ul>
+
+
+      </div>
+</nav>
+
+  
+  <div class="active-language">
+    <span>English</span>
+  </div>
+</div>
+
+                                                          
+
+
+  
+          <a class="navbar-brand" href="/" rel="home">
+        <img src="/sites/global/files/vertex-logo_2.png" alt="Vertex logo"/>
+      </a>
+          <div class="header-mobile no-language">
+        <button class="menu toggle-menu" aria-label="Toggle menu" title="Toggle menu">
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+          <a class="logo navbar-btn pull-left" href="/" title="Home page logo" rel="home">
+        <img src="/sites/global/files/vertex-logo_2.png" alt="Home"/>
+      </a>
+        <div class="search">
+              <form action="/search" method="get" accept-charset="UTF-8">
+        
+        <button class="search-button" type="submit"><span class="sr-only">Search</span></button>
+        <div class="search-box">
+          <input id="search-mobile" class="form-control" name="query" value="" type="text" placeholder="Search this site"/>
+        </div>
+      </form>
+    </div>
+  </div>
+  
+<nav  id="block-mainnavigation" class="block block-menu navigation menu--main navbar navbar-expand-lg">
+            
+  
+
+        
+<div class="search">
+      <form action="/search" method="get" accept-charset="UTF-8">
+      <button class="search-button" type="submit" tabindex="-1">
+      <span class="sr-only">Search button</span>
+    </button>
+    <div class="search-box">
+      <input id="search-desktop" class="form-control" name="query" value="" type="text" aria-labelledby="search-desktop" tabindex="-1" placeholder="Search the site "/>
+    </div>
+  </form>
+</div>
+<ul data-region="header" data-block="header" data-lang-prefix="" class="nav navbar-nav">
+            <li class="nav-item menu-item--expanded dropdown">
+           <a href="/our-company/" class="nav-link dropdown-toggle nav-link--our-company-" title="Our Company Overview" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/6">    <span>Our Company</span>
+  </a>
+   <div class="container-views">
+      <ul class="menu menu-level-1">
+         <li class="menu-level-actions">
+     <a href="#" class="visible-xs toggle-current-menu">Back</a>
+   </li>
+            <li class="dropdown-item">
+             <a href="/our-company/" target="_self" class="nav-link--our-company-" title="Our Company" data-drupal-link-system-path="node/6">    <span>Our Company</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-company/" target="_self" class="nav-link--our-company-" title="Overview" data-drupal-link-system-path="node/6">    <span>Overview</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-company/leadership/" target="_self" class="nav-link--our-company-leadership-" title="Leadership" data-drupal-link-system-path="node/22">    <span>Leadership</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-company/our-locations/" target="_self" class="nav-link--our-company-our-locations-" title="Our Locations" data-drupal-link-system-path="node/55">    <span>Our Locations</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="https://news.vrtx.com/" target="_blank" class="nav-link-https--newsvrtxcom-" title="News">    <span>News</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="https://investors.vrtx.com/" target="_blank" class="nav-link-https--investorsvrtxcom-" title="Investors">    <span>Investors</span>
+  </a>
+      </li>
+   </ul>
+
+        <div class="view-desktop">
+          <button class="header-close-btn" tabindex="0"><span class="sr-only">Our Company</span>&times;</button>
+                      <p class="view-title">Related content</p>
+                    <div class="container-stories container">
+            <div class="row">
+              
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/stories/living-our-culture-delivering-patients/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/VertexStories_hero_Culture_810x360-2.jpg?h=5e83a4aa&amp;itok=l3Lv76yW 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/VertexStories_hero_Culture_810x360-2.jpg?h=5e83a4aa&amp;itok=o41WsR7f 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/VertexStories_hero_Culture_810x360-2.jpg?h=5e83a4aa&amp;itok=o41WsR7f 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/VertexStories_hero_Culture_810x360-2.jpg?h=5e83a4aa&amp;itok=o41WsR7f" width="334" height="182" alt="An image of Stephanie Franklin, Chief Human Resource Officer at Vertex Pharmaceuticals, with purple watercolor designs on either side of her" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Living Our Culture, Delivering For Patients</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Chief Human Resources Officer Stephanie Franklin discusses our unique culture at Vertex and how we bring our culture to life.</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/stories/living-our-culture-delivering-patients/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/stories/rethinking-education-and-future-work/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/Year-Up-interns_hero.jpg?h=6fe97ef1&amp;itok=o-fJZgOb 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Year-Up-interns_hero.jpg?h=6fe97ef1&amp;itok=7SaTD-Mu 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Year-Up-interns_hero.jpg?h=6fe97ef1&amp;itok=7SaTD-Mu 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/Year-Up-interns_hero.jpg?h=6fe97ef1&amp;itok=7SaTD-Mu" width="334" height="182" alt="A class of students paying attention to the teacher" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Rethinking Education and the Future of Work</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Our CEO and President, Reshma Kewalramani shares her thoughts on how Vertex is rethinking work and education in an extremely competitive talent market</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/stories/rethinking-education-and-future-work/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/stories/global-day-service-15-years-impact/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/DOS_VertexStories.jpg?itok=oRu9BPZB 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/DOS_VertexStories.jpg?itok=M-uq_fKG 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/DOS_VertexStories.jpg?itok=M-uq_fKG 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/DOS_VertexStories.jpg?itok=M-uq_fKG" width="334" height="182" alt="An image with a purple background that has the names of Vertex office locations written in faded text in the background. In the foreground, there is text reading &quot;15 years of day of service&quot; and the Vertex and Vertex Foundation logos above it." typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Global Day of Service: 15 years of impact</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Join us as we celebrate 15 years of giving back at Vertex.</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/stories/global-day-service-15-years-impact/">Learn more</a></div>
+      
+      </div>
+
+            </div>
+          </div>
+        </div>
+   </div>
+      </li>
+         <li class="nav-item menu-item--expanded dropdown">
+           <a href="/our-science/" class="nav-link dropdown-toggle nav-link--our-science-" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/19">    <span>Our Science</span>
+  </a>
+   <div class="container-views">
+      <ul class="menu menu-level-1">
+         <li class="menu-level-actions">
+     <a href="#" class="visible-xs toggle-current-menu">Back</a>
+   </li>
+            <li class="dropdown-item">
+             <a href="/our-science/" target="_self" class="nav-link--our-science-" title="Our Science" data-drupal-link-system-path="node/19">    <span>Our Science</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-science/" target="_self" class="nav-link--our-science-" title="Overview" data-drupal-link-system-path="node/19">    <span>Overview</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-science/pipeline/" target="_self" class="nav-link--our-science-pipeline-" title="R&amp;D Pipeline" data-drupal-link-system-path="node/21">    <span>R&amp;D Pipeline</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-science/video-series/" class="nav-link--our-science-video-series-" data-drupal-link-system-path="node/32">    <span>Vertex Forward: Our Animated Video Series</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-science/rd-locations/" target="_self" class="nav-link--our-science-rd-locations-" title="Research &amp; Development Locations" data-drupal-link-system-path="node/40">    <span>R&amp;D Locations</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-science/research-with-us/" target="_self" class="nav-link--our-science-research-with-us-" title="Research With Us" data-drupal-link-system-path="node/41">    <span>Research With Us</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-science/partner-with-us/" target="_self" class="nav-link--our-science-partner-with-us-" title="Partner With Us" data-drupal-link-system-path="node/46">    <span>Partner With Us</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/our-science/clinical-trials-data-sharing/" target="_self" class="nav-link--our-science-clinical-trials-data-sharing-" title="Clinical Trials and Data Sharing" data-drupal-link-system-path="node/42">    <span>Clinical Trials and Data Sharing</span>
+  </a>
+      </li>
+   </ul>
+
+        <div class="view-desktop">
+          <button class="header-close-btn" tabindex="0"><span class="sr-only">Our Science</span>&times;</button>
+                      <p class="view-title">In this section</p>
+                    <div class="container-stories container">
+            <div class="row">
+              
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/our-science/pipeline/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/OS_PIPE_LAND3.jpg?h=290f19f8&amp;itok=-6V3XbuM 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/OS_PIPE_LAND3.jpg?h=290f19f8&amp;itok=gKQhf91h 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/OS_PIPE_LAND3.jpg?h=290f19f8&amp;itok=gKQhf91h 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/OS_PIPE_LAND3.jpg?h=290f19f8&amp;itok=gKQhf91h" width="334" height="182" alt="Illustration of a scientist holding a beaker" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">R&amp;D Pipeline</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Our scientists don’t see the impossible as an obstacle; they see it as a good place to start</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/our-science/pipeline/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/our-science/rd-locations/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/RD_LOC_HERO.jpg?h=a63faa0d&amp;itok=fLAchejd 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/RD_LOC_HERO.jpg?h=a63faa0d&amp;itok=oy6dSAd0 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/RD_LOC_HERO.jpg?h=a63faa0d&amp;itok=oy6dSAd0 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/RD_LOC_HERO.jpg?h=a63faa0d&amp;itok=oy6dSAd0" width="334" height="182" alt="A Vertex scientist operating equipment in the lab" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">R&amp;D Locations</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>See where our scientific discoveries happen</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/our-science/rd-locations/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="https://clinicaltrials.vrtx.com/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/OS_Clin_Trial_clintrial.jpeg?h=69d69aab&amp;itok=9_9DgIZr 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/OS_Clin_Trial_clintrial.jpeg?h=69d69aab&amp;itok=wKTzL6Vj 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/OS_Clin_Trial_clintrial.jpeg?h=69d69aab&amp;itok=wKTzL6Vj 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/OS_Clin_Trial_clintrial.jpeg?h=69d69aab&amp;itok=wKTzL6Vj" width="334" height="182" alt="An image of a doctor in a white coat reviewing information on a tablet with a woman" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Find a Vertex Clinical Trial</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Volunteers who participate in clinical trials help make new medicines a reality</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="https://clinicaltrials.vrtx.com/" target="_blank">Learn more</a></div>
+      
+      </div>
+
+            </div>
+          </div>
+        </div>
+   </div>
+      </li>
+         <li class="nav-item menu-item--expanded dropdown">
+           <a href="/medicines/our-approved-medicines/" class="nav-link dropdown-toggle nav-link--medicines-our-approved-medicines-" title="Medicines Overview" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/47">    <span>Medicines</span>
+  </a>
+   <div class="container-views">
+      <ul class="menu menu-level-1">
+         <li class="menu-level-actions">
+     <a href="#" class="visible-xs toggle-current-menu">Back</a>
+   </li>
+            <li class="dropdown-item">
+             <a href="/medicines/our-approved-medicines/" target="_self" class="nav-link--medicines-our-approved-medicines-" title="Medicines" data-drupal-link-system-path="node/47">    <span>Medicines</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/medicines/our-approved-medicines/" class="nav-link--medicines-our-approved-medicines-" title="Our Approved Medicines" data-drupal-link-system-path="node/47">    <span>Our Approved Medicines</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/medicines/early-access/" target="_self" class="nav-link--medicines-early-access-" title="Early Access" data-drupal-link-system-path="node/50">    <span>Early Access</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/medicines/cystic-fibrosis-facts-and-figures/" class="nav-link--medicines-cystic-fibrosis-facts-and-figures-" data-drupal-link-system-path="node/565">    <span>CF Facts and Figures</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/medicines/reporting-adverse-events-product-complaints/" class="nav-link--medicines-reporting-adverse-events-product-complaints-" title="Reporting adverse events (i.e., side effects) and/or product complaints" data-drupal-link-system-path="node/154">    <span>Reporting Adverse Events and/or Product Complaints</span>
+  </a>
+      </li>
+   </ul>
+
+        <div class="view-desktop">
+          <button class="header-close-btn" tabindex="0"><span class="sr-only">Medicines</span>&times;</button>
+                      <p class="view-title">In this section</p>
+                    <div class="container-stories container">
+            <div class="row">
+              
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/medicines/early-access/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/Early_Access.png?itok=r3nYsA0t 1x" media="(min-width: 993px)" type="image/png" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Early_Access.png?itok=MA4CCo6p 1x" media="(max-width: 992px)" type="image/png" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Early_Access.png?itok=MA4CCo6p 1x" media="(max-width: 767px)" type="image/png" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/Early_Access.png?itok=MA4CCo6p" width="334" height="182" alt="Image of a Vertex lab coat with pens in the pocket" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Early Access</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Information about our Early Access program and how we evaluate requests</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/medicines/early-access/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/medicines/cystic-fibrosis-facts-and-figures/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/Med_Facts-Figures_thumb.jpeg?itok=fjdUnOjX 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Med_Facts-Figures_thumb.jpeg?itok=d9OH_clA 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Med_Facts-Figures_thumb.jpeg?itok=d9OH_clA 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/Med_Facts-Figures_thumb.jpeg?itok=d9OH_clA" width="334" height="182" alt="An image of the top part of a globe" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">CF Facts and Figures</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Facts about cystic fibrosis (CF), including prevalence and the numbers of people with CF around the world estimated to be on CFTR modulators</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/medicines/cystic-fibrosis-facts-and-figures/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/medicines/reporting-adverse-events-product-complaints/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/Report_AE_PC.png?h=bb71c7a8&amp;itok=OVneSytQ 1x" media="(min-width: 993px)" type="image/png" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Report_AE_PC.png?h=bb71c7a8&amp;itok=8zRTfsG6 1x" media="(max-width: 992px)" type="image/png" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Report_AE_PC.png?h=bb71c7a8&amp;itok=8zRTfsG6 1x" media="(max-width: 767px)" type="image/png" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/Report_AE_PC.png?h=bb71c7a8&amp;itok=8zRTfsG6" width="334" height="182" alt="A woman typing on her laptop" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Reporting Adverse Events and/or Product Complaints</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Instructions on how to submit a report</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/medicines/reporting-adverse-events-product-complaints/">Learn more</a></div>
+      
+      </div>
+
+            </div>
+          </div>
+        </div>
+   </div>
+      </li>
+         <li class="nav-item menu-item--expanded dropdown">
+           <a href="/patients/" class="nav-link dropdown-toggle nav-link--patients-" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/51">    <span>Patients</span>
+  </a>
+   <div class="container-views">
+      <ul class="menu menu-level-1">
+         <li class="menu-level-actions">
+     <a href="#" class="visible-xs toggle-current-menu">Back</a>
+   </li>
+            <li class="dropdown-item">
+             <a href="/patients/" target="_self" class="nav-link--patients-" title="Patients" data-drupal-link-system-path="node/51">    <span>Patients</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/patients/" class="nav-link--patients-" title="Patients Overview" data-drupal-link-system-path="node/51">    <span>Overview</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/patients/apol1-mediated-kidney-disease/" class="nav-link--patients-apol1-mediated-kidney-disease-" title="APOL1-Mediated Kidney Disease" data-drupal-link-system-path="node/306">    <span>APOL1-Mediated Kidney Disease</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/patients/beta-thalassemia/" class="nav-link--patients-beta-thalassemia-" title="Beta Thalassemia" data-drupal-link-system-path="node/307">    <span>Beta Thalassemia</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/patients/cystic-fibrosis/" class="nav-link--patients-cystic-fibrosis-" title="Cystic Fibrosis" data-drupal-link-system-path="node/304">    <span>Cystic Fibrosis</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/patients/pain/" class="nav-link--patients-pain-" title="Pain" data-drupal-link-system-path="node/308">    <span>Pain</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/patients/sickle-cell-disease/" class="nav-link--patients-sickle-cell-disease-" title="Sickle Cell Disease" data-drupal-link-system-path="node/309">    <span>Sickle Cell Disease</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/patients/type-1-diabetes/" class="nav-link--patients-type-1-diabetes-" title="Type 1 Diabetes" data-drupal-link-system-path="node/310">    <span>Type 1 Diabetes</span>
+  </a>
+      </li>
+   </ul>
+
+        <div class="view-desktop">
+          <button class="header-close-btn" tabindex="0"><span class="sr-only">Patients</span>&times;</button>
+                      <p class="view-title">In this section</p>
+                    <div class="container-stories container">
+            <div class="row">
+              
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/patients/apol1-mediated-kidney-disease/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/APOL1-hero_image-vrtx%20copy.jpg?h=34989674&amp;itok=Ii1PXq2i 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/APOL1-hero_image-vrtx%20copy.jpg?h=34989674&amp;itok=TbX3ctZp 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/APOL1-hero_image-vrtx%20copy.jpg?h=34989674&amp;itok=TbX3ctZp 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/APOL1-hero_image-vrtx%20copy.jpg?h=34989674&amp;itok=TbX3ctZp" width="334" height="182" alt="A man rides a bicycle while wearing a helmet" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">APOL1-Mediated Kidney Disease</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>We work with the kidney disease community to ensure their voices are represented in all that we do</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/patients/apol1-mediated-kidney-disease/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/patients/sickle-cell-disease/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/Kevin-Wake_SCD_Menu.jpg?itok=5GGa7TP_ 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Kevin-Wake_SCD_Menu.jpg?itok=P4YiHIOL 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Kevin-Wake_SCD_Menu.jpg?itok=P4YiHIOL 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/Kevin-Wake_SCD_Menu.jpg?itok=P4YiHIOL" width="334" height="182" alt="An image of Kevin Wake, a person living with sickle cell disease, smiling at the camera" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Sickle Cell Disease</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>See how we're engaging with the sickle cell disease community</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/patients/sickle-cell-disease/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="https://clinicaltrials.vrtx.com/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/OS_Clin_Trial_clintrial_0.jpeg?h=b258e33a&amp;itok=VaLSUGFG 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/OS_Clin_Trial_clintrial_0.jpeg?h=b258e33a&amp;itok=uCZCwHiR 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/OS_Clin_Trial_clintrial_0.jpeg?h=b258e33a&amp;itok=uCZCwHiR 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/OS_Clin_Trial_clintrial_0.jpeg?h=b258e33a&amp;itok=uCZCwHiR" width="334" height="182" alt="An image of a doctor in a white coat reviewing information on a tablet with a woman" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Find a Vertex Clinical Trial</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Volunteers who participate in clinical trials help make new medicines a reality</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="https://clinicaltrials.vrtx.com/" target="_blank">Learn more</a></div>
+      
+      </div>
+
+            </div>
+          </div>
+        </div>
+   </div>
+      </li>
+         <li class="nav-item menu-item--expanded dropdown">
+           <a href="/responsibility/" class="nav-link dropdown-toggle nav-link--responsibility-" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/60">    <span>Responsibility</span>
+  </a>
+   <div class="container-views">
+      <ul class="menu menu-level-1">
+         <li class="menu-level-actions">
+     <a href="#" class="visible-xs toggle-current-menu">Back</a>
+   </li>
+            <li class="dropdown-item">
+             <a href="/responsibility/" class="nav-link--responsibility-" title="Responsibility" data-drupal-link-system-path="node/60">    <span>Responsibility</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/responsibility/" target="_self" class="nav-link--responsibility-" title="Responsibility Overview" data-drupal-link-system-path="node/60">    <span>Overview</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="https://www.vertexfoundation.org/" target="_self" class="nav-link-https--wwwvertexfoundationorg-" title="The Vertex Foundation">    <span>The Vertex Foundation</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/responsibility/our-steam-commitment/" target="_self" class="nav-link--responsibility-our-steam-commitment-" title="Our STEAM Commitment" data-drupal-link-system-path="node/61">    <span>Our STEAM Commitment</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/responsibility/environmental-sustainability/" target="_self" class="nav-link--responsibility-environmental-sustainability-" title="Environmental Sustainability" data-drupal-link-system-path="node/62">    <span>Environmental Sustainability</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/responsibility/vertex-volunteers-and-employee-giving/" target="_self" class="nav-link--responsibility-vertex-volunteers-and-employee-giving-" title="Vertex Volunteers and Employee Giving" data-drupal-link-system-path="node/63">    <span>Vertex Volunteers and Employee Giving</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/responsibility/grants-and-giving/" target="_self" class="nav-link--responsibility-grants-and-giving-" title="Grants and Giving" data-drupal-link-system-path="node/64">    <span>Grants and Giving</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/responsibility/reports-position-statements-and-programs/" target="_self" class="nav-link--responsibility-reports-position-statements-and-programs-" title="Reports, Position Statements and Programs" data-drupal-link-system-path="node/135">    <span>Reports, Position Statements and Programs</span>
+  </a>
+      </li>
+   </ul>
+
+        <div class="view-desktop">
+          <button class="header-close-btn" tabindex="0"><span class="sr-only">Responsibility</span>&times;</button>
+                      <p class="view-title">In this section</p>
+                    <div class="container-stories container">
+            <div class="row">
+              
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/sites/global/files/2023_Vertex_Corporate_Responsibility_Report.pdf" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/2023_CR-Menu_Thumb.jpg?h=f556acce&amp;itok=Q41Sxcms 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/2023_CR-Menu_Thumb.jpg?h=f556acce&amp;itok=7LqeISQz 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/2023_CR-Menu_Thumb.jpg?h=f556acce&amp;itok=7LqeISQz 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/2023_CR-Menu_Thumb.jpg?h=f556acce&amp;itok=7LqeISQz" width="334" height="182" alt="A Vertex scientist wearing a lab coat, goggles and gloves holds up a beaker with liquid in it" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">2023 Corporate Responsibility Report</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Read more about how we operate our business responsibly, and how in 2023 we created more ways to positively impact patients, employees, our communities and the environment</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/sites/global/files/2023_Vertex_Corporate_Responsibility_Report.pdf" target="_blank">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/responsibility/our-steam-commitment/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/CR_STEAM_hero.jpg?h=a725c10e&amp;itok=qOLka0yZ 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/CR_STEAM_hero.jpg?h=a725c10e&amp;itok=GWncRXYt 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/CR_STEAM_hero.jpg?h=a725c10e&amp;itok=GWncRXYt 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/CR_STEAM_hero.jpg?h=a725c10e&amp;itok=GWncRXYt" width="334" height="182" alt="Several STEM students use microscopes in the Vertex Learning Lab" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Our STEAM Commitment</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Discover how we're inspiring and equipping the next generation to love science and pursue a career in STEM</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/responsibility/our-steam-commitment/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/responsibility/environmental-sustainability/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/RES_Sus_HERO.jpg?h=a725c10e&amp;itok=vM7d2_2e 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/RES_Sus_HERO.jpg?h=a725c10e&amp;itok=3-OQzcF1 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/RES_Sus_HERO.jpg?h=a725c10e&amp;itok=3-OQzcF1 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/RES_Sus_HERO.jpg?h=a725c10e&amp;itok=3-OQzcF1" width="334" height="182" alt="A Vertex employee rides a bicycle outside a Vertex office" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Environmental Sustainability</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Explore our commitment to limiting our environmental impacts and operating our business in a sustainable manner</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/responsibility/environmental-sustainability/">Learn more</a></div>
+      
+      </div>
+
+            </div>
+          </div>
+        </div>
+   </div>
+      </li>
+         <li class="nav-item menu-item--expanded dropdown">
+           <a href="/careers/" class="nav-link dropdown-toggle nav-link--careers-" data-toggle="dropdown" aria-expanded="false" aria-haspopup="true" data-drupal-link-system-path="node/12">    <span>Careers</span>
+  </a>
+   <div class="container-views">
+      <ul class="menu menu-level-1">
+         <li class="menu-level-actions">
+     <a href="#" class="visible-xs toggle-current-menu">Back</a>
+   </li>
+            <li class="dropdown-item">
+             <a href="/careers/" target="_self" class="nav-link--careers-" title="Careers" data-drupal-link-system-path="node/12">    <span>Careers</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/careers/" target="_self" class="nav-link--careers-" title="Careers Overview" data-drupal-link-system-path="node/12">    <span>Overview</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/careers/career-growth-and-opportunities/" target="_self" class="nav-link--careers-career-growth-and-opportunities-" data-drupal-link-system-path="node/161">    <span>Career Growth and Opportunities</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/careers/innovation-programs/" class="nav-link--careers-innovation-programs-" title="Innovation Programs" data-drupal-link-system-path="node/162">    <span>Innovation Programs</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/careers/inclusion-diversity-and-equity/" target="_self" class="nav-link--careers-inclusion-diversity-and-equity-" title="Diversity &amp; Inclusion" data-drupal-link-system-path="node/169">    <span>Inclusion, Diversity and Equity</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/careers/rewards-and-recognition/" target="_self" class="nav-link--careers-rewards-and-recognition-" title="Rewards and Recognition" data-drupal-link-system-path="node/163">    <span>Rewards and Recognition</span>
+  </a>
+      </li>
+         <li class="dropdown-item">
+             <a href="/careers/benefits/" class="nav-link--careers-benefits-" title="Benefits" data-drupal-link-system-path="node/165">    <span>Benefits</span>
+  </a>
+      </li>
+   </ul>
+
+        <div class="view-desktop">
+          <button class="header-close-btn" tabindex="0"><span class="sr-only">Careers</span>&times;</button>
+                      <p class="view-title">Related content</p>
+                    <div class="container-stories container">
+            <div class="row">
+              
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/stories/caring-our-people-helping-improve-lives/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/Vertex_Stories_Benefits.jpg?h=ec93d8d8&amp;itok=F0iZl04Z 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Vertex_Stories_Benefits.jpg?h=ec93d8d8&amp;itok=x6S0j-G7 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/Vertex_Stories_Benefits.jpg?h=ec93d8d8&amp;itok=x6S0j-G7 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/Vertex_Stories_Benefits.jpg?h=ec93d8d8&amp;itok=x6S0j-G7" width="334" height="182" alt="An image of a child on top of his father&#039;s shoulders while his mother stands next to them both while smiling" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Caring For Our People; Helping Improve Lives</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Chief Human Resources Officer Stephanie Franklin discusses Vertex’s inclusive benefits and how they are helping Vertexians.</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/stories/caring-our-people-helping-improve-lives/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/stories/living-our-culture-delivering-patients/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/VertexStories_hero_Culture_810x360-2_0.jpg?h=5e83a4aa&amp;itok=N5RvrNnK 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/VertexStories_hero_Culture_810x360-2_0.jpg?h=5e83a4aa&amp;itok=U3-bhZHd 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/VertexStories_hero_Culture_810x360-2_0.jpg?h=5e83a4aa&amp;itok=U3-bhZHd 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/VertexStories_hero_Culture_810x360-2_0.jpg?h=5e83a4aa&amp;itok=U3-bhZHd" width="334" height="182" alt="An image of Stephanie Franklin, Chief Human Resource Officer at Vertex Pharmaceuticals, with purple watercolor designs on either side of her" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Living Our Culture, Delivering For Patients</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Chief Human Resources Officer Stephanie Franklin discusses our unique culture at Vertex and how we bring our culture to life.</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/stories/living-our-culture-delivering-patients/">Learn more</a></div>
+      
+      </div>
+
+  <div  class="paragraph paragraph--type--hww-related-link paragraph--view-mode--default related-story-col col-md-12 col-lg-4">
+          <a href="/stories/vertexs-inclusion-diversity-and-equity-priorities/" class="wrapper-description--related-stories">
+        
+            <div class="field field--name-field-hww-rl-image field--type-entity-reference field--label-hidden field__item"><article class="media media--type-related-link media--view-mode-default">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/global/files/styles/related_stories_desktop/public/vertex_stories_ide_0.jpeg?h=aa6836f0&amp;itok=Ozgb7fY9 1x" media="(min-width: 993px)" type="image/jpeg" width="264" height="144"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/vertex_stories_ide_0.jpeg?h=aa6836f0&amp;itok=cH8ke4rT 1x" media="(max-width: 992px)" type="image/jpeg" width="334" height="182"/>
+              <source srcset="/sites/global/files/styles/related_stories_tablet/public/vertex_stories_ide_0.jpeg?h=aa6836f0&amp;itok=cH8ke4rT 1x" media="(max-width: 767px)" type="image/jpeg" width="334" height="182"/>
+                  <img loading="eager" src="/sites/global/files/styles/related_stories_tablet/public/vertex_stories_ide_0.jpeg?h=aa6836f0&amp;itok=cH8ke4rT" width="334" height="182" alt="An image of pink and purple silhouetted heads" typeof="foaf:Image" class="img-fluid" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-title field--type-text field--label-hidden field__item">Vertex’s Inclusion, Diversity and Equity Priorities</div>
+      
+        
+            <div class="clearfix text-formatted field field--name-field-hww-rl-summary field--type-text-long field--label-hidden field__item"><p>Our commitment to inclusion, diversity and equity (ID&amp;E) is longstanding and achieving our ambition takes collective action and shared ownership. Learn more about our approach from Vice President of Talent and ID&amp;E Diana Cruz Solash.</p>
+</div>
+      
+      </a>
+      
+            <div class="field field--name-field-hww-rl-cta field--type-link field--label-hidden field__item"><a href="/stories/vertexs-inclusion-diversity-and-equity-priorities/">Learn more</a></div>
+      
+      </div>
+
+            </div>
+          </div>
+        </div>
+   </div>
+      </li>
+   </ul>
+
+
+  </nav>
+
+
+                                          </div>
+      </div>
+          </header>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+              <div id="main" class="container-fluid">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main>
+                <section class="section">
+                  <a id="main-content" tabindex="-1"></a>
+                      <div data-drupal-messages-fallback class="hidden"></div><div id="block-hogarth4-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+<article data-history-node-id="156" about="/terms-and-conditions/" typeof="schema:WebPage" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+          <span property="schema:name" content="Terms and Conditions" class="hidden"></span>
+
+      </header>
+          <div class="node__content clearfix">
+    
+  <div class="field field--name-field-content field--type-entity-reference-revisions field--label-hidden field--items">
+          
+      <div class="field--item hww_hero_title_img">
+<div id="modal-variation-media--46463587"  class="modal fade"  tabindex="0">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Terms and conditions of website use
+"><span class="sr-only">Terms and conditions of website use
+</span></button>
+      </div>
+      <div class="modal-body">
+        <div class="modal-video">
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe title="variation-6 modal" class="embed-responsive-item" allowfullscreen="allowfullscreen" allow="autoplay;"></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div  class="paragraph paragraph--type--hww-hero-title-img component-variation-6">
+  <div class="variation6-component">
+    <div class="gradient-variation6"></div>
+    <div class="container-variation6 container">
+      <div class="row main-container">
+        <div class="text-container col-md-7">
+          
+            <div class="clearfix text-formatted field field--name-field-hww-title-formatted field--type-text-long field--label-hidden field__item"><h1>Terms and conditions of website use</h1>
+</div>
+      
+          
+          <div class="cta"></div>
+        </div>
+                <div class="description-mobile col-sm-12">
+          
+          <div class="cta"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal"><strong>Effective Date: February 2024</strong></p>
+
+<p class="body-normal">Please read the following terms and conditions of use (the “Terms of Use”) carefully before using this website or its subdomains (this “Website”). Your use of this Website is subject to, and constitutes acceptance of, the conditions included in these Terms of Use. If you do not agree to these Terms of Use, you should exit this Website now.</p>
+
+<p class="body-normal"><br>
+<strong>Click on the links below to jump to sections of the Terms of Use:</strong></p>
+
+<ul>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#general">General</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#dated-information">Dated Information</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#forward-looking-statements">Forward-Looking Statements</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#copyright-and-trademarks">Copyright and Trademarks</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#your-use-of-the-website">Your Use of the Website</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#submission-of-information">Submission of Information</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#privacy">Privacy</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#disclaimer">Disclaimer</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#links-to-other-websites">Links to Other Websites</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#links-to-this-website">Links to This Website</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#applicable-law">Applicable Law</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#changes-to-this-notice">Changes to This Notice</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#miscellaneous">Miscellaneous</a></p>
+	</li>
+	<li>
+	<p class="body-normal"><a class="anchor" href="#additional-information">Additional Information</a></p>
+	</li>
+</ul>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="general">General</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">This Website is provided by Vertex Pharmaceuticals Incorporated (“Vertex”) for &nbsp;information purposes. Nothing on this Website should be construed as an offer to form a binding contract, or as granting any license or transfer of intellectual property. Your use of this site is at your own risk. Notwithstanding any other provision herein, Vertex reserves the right, in the event of a violation of these Terms of Use, to protect its rights, property and interests to the maximum extent of the law. Further, Vertex may suspend, discontinue or modify the Website at any time for any reason, without notice or any other obligation to you.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="dated-information">Dated Information</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">While Vertex may periodically update or correct information presented on this Website, the information presented on this Website may include typographical errors and/or technical inaccuracies and/or omissions. Vertex makes no representation or warranty as to the accuracy of any information at this Website and expressly disclaims any obligation to update such information. Vertex also reserves the right to make additions, deletions or modifications to any information on the Website at any time and from time to time without any prior notice.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="forward-looking-statements">Forward-Looking Statements</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">This Website contains forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995, as amended, including, without limitation, statements regarding: information pertaining to our products and the ongoing discovery, development and commercialization of our product candidates; our expectations regarding clinical trials, development timelines and discussions with regulatory authorities related to product candidates under development by us and our collaborators; our expectations about the number of patients that will be evaluated, the anticipated date by which enrollment will be completed and the data that will be generated by ongoing and planned clinical trials, and the ability to use that data for the design and initiation of further clinical trials; our expectations regarding the scope and timing of ongoing and potential future clinical trials; and our strategy, future operations, future financial position, future revenue, projected costs, prospects, plans and objectives. Without limiting the foregoing, the words “believes,” “anticipates,” “plans,” “expects,” “intends,” “outlook,” “forecast” and similar expressions are intended to identify forward-looking statements. While we believe the forward-looking statements contained in this Website are accurate, there are a number of risks and uncertainties that could cause actual events or results to differ materially from those expressed or implied by such forward-looking statements. Those risks and uncertainties include, among other things, that the outcomes for each of our planned clinical trials and studies may not be favorable, that one or more of our internal or external product development programs will not proceed as planned for technical, scientific or commercial reasons, that future competitive or other market factors may adversely affect the commercial potential for our product and/or product candidates, and other risks listed under “Risk Factors” in Vertex’s most recent annual report and subsequent quarterly reports filed with the Securities and Exchange Commission (SEC), and available through this Website and on the SEC’s website at <a href="https://www.sec.gov/">www.sec.gov</a>. None of the information contained herein is intended to be, and shall not be deemed to be, incorporated into any of Vertex’s securities-related filings or statements. You should not place undue reliance on the statements or the scientific data presented on this Website. We disclaim any obligation to update any forward-looking statements contained on this Website as a result of new information, developments occurring after the date such statement was first made or otherwise.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="copyright-and-trademarks">Copyright and Trademarks</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">This Website, and the information which it contains, is the property of Vertex and its affiliates and licensors, and is protected from unauthorized copying and dissemination by United States copyright law, international conventions and other intellectual property laws. The trademarks and logos displayed on this Website are trademarks of Vertex except as otherwise noted. In particular, Vertex and the Vertex logo, to the extent used on the Website, are registered trademarks of Vertex Pharmaceuticals Incorporated. All other trademarks referenced herein are the properties of their respective owners. Nothing on this Website should be construed to grant any license or right in or to any trademarks, logos or other intellectual property rights. All rights are reserved by the owners of each trademark, service mark, logo, or other intellectual property, except as otherwise described in this notice.</p>
+
+<p class="body-normal">You may not access, monitor or copy any content or information on the Website using any robot, spider, scraper, web crawler or other automated means or any similar manual process. No part of the Website may be reproduced or transmitted in any form, by any means, electronic or mechanical, including photocopying and recording, or used to create derivative works, except that we authorize you to view, copy, download and print Vertex documents that are made available on the Website; provided that (i) such documents shall be used solely for noncommercial, informational purposes; (ii) such documents shall not be modified; and, (iii) no copyright, trademark or other proprietary notices shall be removed, altered or added to such documents.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="your-use-of-the-website">Your Use of the Website</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">You represent, warrant and covenant that you shall use the Website only as set forth in these Terms of Use. You agree to comply with any other applicable terms and conditions of use set forth on the Website. You may not violate the security of the Website or attempt to gain unauthorized access to the Website or computer systems or networks connected to the Website through any means.</p>
+
+<p class="body-normal">In the event you gain access to information or materials not intended to be accessed by you, you agree that you will immediately notify Vertex and destroy all copies of such information in your possession.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="submission-of-information">Submission of Information</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">You are solely responsible for any information you send to Vertex, including without limitation accuracy, truthfulness and non-infringement or other violation of any other person's legal rights. Any communication or material that you transmit to our Website by electronic mail or otherwise, including any data, questions, comments, suggestions or the like, is, and will be treated as, non-confidential and nonproprietary information. Vertex and its affiliates may use such communication or material for any purpose including, but not limited to, reproduction, disclosure, transmission, publication, broadcast and further posting. Further, Vertex and its affiliates are free, without payment of compensation to you, to use any ideas, concepts, know-how or techniques contained in any communication or material you send to us, whether through our Website, phone, e-mail or otherwise, for any purpose.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="privacy">Privacy</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">If you submit any information (including personal information) at this Website, such information will be subject to the Vertex privacy policy, which is available at <a href="/international-privacy">https://www.vrtx.com/international-privacy</a>. The sender of any information to Vertex is solely responsible for its content, including, without limitation, its accuracy, truthfulness and non-infringement of any laws or other person's legal rights, including with respect to privacy.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="disclaimer">Disclaimer</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">Any medical information contained on this Website is general in nature and for informational purposes only. We do not offer medical diagnosis or treatment from this Website, and none of the information contained on this Website should be construed as providing medical advice or services of any kind. You should not use the information contained herein for diagnosing a health problem or disease; Vertex makes no representations or warranties as to its accuracy.</p>
+
+<p class="body-normal">Your use of this Website and any linked websites is at your own risk. Neither Vertex not its affiliates or any other party involved in creating, producing or delivering this Website shall be liable for any direct, indirect, incidental or consequential damages arising out of your access to, or use of, this Website or any linked website. This includes damage due to viruses or other harmful or malicious code that may infect your computer equipment.&nbsp;</p>
+
+<p class="body-normal">WITHOUT LIMITING THE FOREGOING, EVERYTHING AT THIS WEBSITE IS PROVIDED TO YOU "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SPECIFICALLY, BUT WITHOUT LIMITATION VERTEX DOES NOT WARRANT THAT: (A) THE MATERIALS, FUNCTIONS OR SERVICES PROVIDED BY THIS WEBSITE WILL BE UNINTERRUPTED OR ERROR-FREE; (B) DEFECTS WILL BE CORRECTED; OR (C) THAT THIS WEBSITE OR THE SERVER(S) THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.</p>
+
+<p class="body-normal">VERTEX AND ITS AFFILIATES AND LICENSORS CANNOT AND DO NOT GUARANTEE THAT ANY PERSONAL INFORMATION SUPPLIED BY YOU TO VERTEX THROUGH THE WEBSITE (OR THE CONTACT INFORMATION ON THE WEBSITE) WILL NOT BE MISAPPROPRIATED, INTERCEPTED, DELETED, DESTROYED OR USED BY OTHERS.</p>
+
+<p class="body-normal">VERTEX’S AGGREGATE LIABILITY FOR ALL CLAIMS ARISING FROM YOUR ACCESS TO OR USE OF THE WEBSITE SHALL NOT EXCEED $1.00.</p>
+
+<p class="body-normal">Because some jurisdictions do not permit certain limitations or disclaimers of liability, some of the above limitations may not apply to you.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="links-to-other-websites">Links to Other Websites</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">This Website may contain links to websites maintained by other companies. Vertex is providing these links to you only as a convenience. Vertex has not reviewed all of the third-party websites that may be linked from this Website and is not responsible for the context of such other websites linked from the Website. The inclusion of any such link to another website does not imply that Vertex endorses any third-party website or third-party company or product. Vertex does not have any control over the content of such third-party websites and assumes no responsibility whatsoever for the functionality of such websites or for the accuracy of any information presented at such other websites. Use of any such linked website is at your own risk and is subject to the terms of use of that website.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="links-to-this-website">Links to This Website</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">Links to any document published by Vertex on this Website should be made to the home page only, without deleting any frames, or our URL address.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="applicable-law">Applicable Law</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">This Website can be accessed from every U.S. state, as well as from other countries around the world. Each of those places has laws that may differ from those of Massachusetts, where Vertex is located. By accessing this Website you and Vertex agree that the laws of the Commonwealth of Massachusetts, without regard to its conflicts of laws principles, will apply to all disputes based on, arising out of, or relating to your use of this Website or any information it contains. With respect to such disputes, you and Vertex also agree and hereby submit to the exclusive personal jurisdiction and venue of any court located in Boston, Massachusetts.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 class="heading" id="changes-to-this-notice">Changes to This Notice</h5>
+</div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">Vertex may revise these terms at any time without prior notice, which shall be effected by posting of the updated Terms of Use to this Website; provided that any such changes shall only apply to your use of this Website after the date of such change, unless you expressly accept retroactive application of such changes, via click-through, signed agreement or otherwise. You should visit this page each time you access this Website to review the then-current conditions applicable to your use of this Website.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="miscellaneous">Miscellaneous</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">We and you are independent contractors and are not partners, joint venturers, agents, employees or representatives of the other party. The headings and captions used in these Terms of Use are used for convenience only and are not to be considered in construing or interpreting these Terms of Use. If any part of these Terms of Use is held to be unlawful, void or unenforceable, that part will be deemed severable and shall not affect the validity and enforceability of the remaining provisions.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+                
+      <div class="field--item hww_content_block">
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><h5 id="additional-information">Additional Information</h5></div>
+      
+</div>
+</div>
+                
+      <div class="field--item grid_layout_v2">
+  <div class="container-grid-layout" >
+    <div class="paragraph paragraph--type--grid-layout-v2 paragraph--view-mode--default">
+              <div class="row">
+          
+
+      
+<div class="col-sm-12 col-md-9 col-lg-9 paragraph paragraph--type--grid-layout-v2-column paragraph--view-mode--default">
+  
+
+      
+<div  class="paragraph content-block-container container paragraph--type--hww-content-block align-">
+      
+            <div class="clearfix text-formatted field field--name-field-hww-body field--type-text-long field--label-hidden field__item"><p class="body-normal">If you have any questions about these Terms of Use, please contact us at: Vertex Pharmaceuticals Incorporated, 50 Northern Avenue Boston, MA 02210 or via <a href="/contact-us">www.vrtx.com/contact-us</a>.</p>
+</div>
+      
+</div>
+
+  
+</div>
+
+  
+        </div>
+          </div>
+  </div>
+  <div class="cta-learn">
+    <a class="learn">Show All</a>
+  </div>
+</div>
+            </div>
+
+  </div>
+</article>
+
+    </div>
+  </div>
+
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+          </div>
+        <footer>
+      <div class="side-splash"></div>
+              <div class="container">
+                      <div class="site-footer__top clearfix">
+                  
+<nav  id="block-footer" class="block block-menu navigation menu--footer navbar navbar-expand-lg">
+            
+  
+
+        
+              <ul data-region="footer_first" data-block="footer_first" class="nav navbar-nav footer-nav pl-0 flex-lg-row">
+                    <li class="nav-item">
+                <a href="/international-privacy/" class="nav-link nav-link--international-privacy-" data-drupal-link-system-path="node/260">Privacy</a>
+              </li>
+                <li class="nav-item">
+                <a href="/terms-and-conditions/" class="nav-link nav-link--terms-and-conditions- is-active" data-drupal-link-system-path="node/156">Terms of Use</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://www.vrtxspendtransparency.com/" target="_blank" class="nav-link nav-link-https--wwwvrtxspendtransparencycom-">Transparency</a>
+              </li>
+                <li class="nav-item">
+                <a href="/contact-us/" class="nav-link nav-link--contact-us-" data-drupal-link-system-path="node/160">Contact</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-getintouch" class="block-content--get-in-touch block-type-block-content block block-block-content block-block-contentf5ed8325-9c54-4d2d-b1db-ba5d4229be52">
+  <div class="content">
+    <div class="col-sm-12 mt-3 mt-lg-0">
+  
+    
+        
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="tel:+16173416100"><img alt="phone" data-entity-type="file" data-entity-uuid="58902c42-c271-43fc-8baf-586e6fc02f8b" src="/sites/global/files/inline-images/phone%403x.png" class="align-left" width="96" height="96" loading="lazy">+1.617.341.6100</a></p>
+</div>
+      
+    </div>
+    </div>
+  </div>
+<div id="block-socialshare">
+  <div class="content">
+      <div class="col-sm-12 mt-3 mt-lg-0">
+        
+                
+                
+
+  <ul class="menu menu-level-0">
+            
+      <li class="menu-item">
+        <a href="https://twitter.com/VertexPharma" rel="noopener">
+                                
+  
+  <div class="menu_link_content menu-link-contentsocial-share view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-social-share-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/X_icon_1.png" width="133" height="133" alt="X icon" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+                  </a>
+      </li>
+                
+      <li class="menu-item">
+        <a href="https://linkedin.com/company/vertex-pharmaceuticals" rel="noopener">
+                                
+  
+  <div class="menu_link_content menu-link-contentsocial-share view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-social-share-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/linked-in.svg" alt="linked-in" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+                  </a>
+      </li>
+                
+      <li class="menu-item">
+        <a href="https://youtube.com/channel/UCrNu_QIE9exwVQnWKgr1toQ/featured" rel="noopener">
+                                
+  
+  <div class="menu_link_content menu-link-contentsocial-share view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+            <div class="field field--name-field-social-share-icon field--type-image field--label-hidden field__item">  <img src="/sites/global/files/youtube.svg" alt="Youtube" loading="lazy" typeof="foaf:Image" class="img-fluid" />
+
+</div>
+      
+      </div>
+
+
+
+                  </a>
+      </li>
+        </ul>
+
+
+
+      </div>
+  </div>
+  </div>
+<div id="block-cookiepreferencescenterblock" class="block block-hww-onetrust block-cookie-preferences-center-block">
+  
+    
+      <div class="content">
+      <!-- OneTrust Cookies Settings button start -->
+<button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Preferences</button>
+<!-- OneTrust Cookies Settings button end -->
+
+    </div>
+  </div>
+
+
+            </div>
+                  </div>
+                  <div class="site-footer__bottom footer-bottom">
+                <div id="block-featuredfooter" class="block-content--featured-footer block-type-block-content block block-block-content block-block-content2019938f-c46e-4b2a-b8b6-9c582937d61d">
+  
+    
+      <div class="content">
+      
+      <div class="field field--name-field-featured-components field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="paragraph paragraph--type--multiple-featured-content-block paragraph--view-mode--default">
+          
+      <div class="field field--name-field-featured-contents field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+<div  class="paragraph paragraph--type--hww-featured-content-block component-featured-only-text">
+  <div class="container container-feature2">
+    <div class="row">
+                                                                                                                                                                                                                                          <div class="col-lg-4">
+            
+            <a href="https://news.vrtx.com/" >
+              <div class="card">
+                <div class="feature-body">
+                  <div class="sub-container d-flex">
+                    <div class="card-title"><p>News</p>
+</div>
+                    <div class="cta-arrow">
+                      <picture>
+                        <source srcset="/themes/custom/hogarth4/images/arrow-purple.svg">
+                        <img src="/themes/custom/hogarth4/images/arrow-purple.svg" alt="arrow purple" style="width: auto;">
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="card-text"><p>Stay current on all things Vertex and discover the latest news,<em><strong> </strong></em>information<em><strong> </strong></em>and updates on our company.</p>
+
+<p><em>Intended for media</em></p>
+</div>
+                </div>
+              </div>
+            </a>
+          </div>
+                                <div class="col-lg-4">
+            
+            <a href="https://investors.vrtx.com/" >
+              <div class="card">
+                <div class="feature-body">
+                  <div class="sub-container d-flex">
+                    <div class="card-title"><p>Investors</p>
+</div>
+                    <div class="cta-arrow">
+                      <picture>
+                        <source srcset="/themes/custom/hogarth4/images/arrow-purple.svg">
+                        <img src="/themes/custom/hogarth4/images/arrow-purple.svg" alt="arrow purple" style="width: auto;">
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="card-text"><p>Through our transformative medicines for patients, we drive value for our company, shareholders and society.</p>
+</div>
+                </div>
+              </div>
+            </a>
+          </div>
+                                <div class="col-lg-4">
+            
+            <a href="/stories/" >
+              <div class="card">
+                <div class="feature-body">
+                  <div class="sub-container d-flex">
+                    <div class="card-title"><p>Stories</p>
+</div>
+                    <div class="cta-arrow">
+                      <picture>
+                        <source srcset="/themes/custom/hogarth4/images/arrow-purple.svg">
+                        <img src="/themes/custom/hogarth4/images/arrow-purple.svg" alt="arrow purple" style="width: auto;">
+                      </picture>
+                    </div>
+                  </div>
+                  <div class="card-text"><p>Discover more about our relentless efforts to improve the lives of patients, employees and our communities.</p>
+</div>
+                </div>
+              </div>
+            </a>
+          </div>
+                                              </div>
+  </div>
+</div>
+</div>
+          </div>
+  
+      </div>
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+
+            
+            
+          </div>
+        
+                  <div class="container">
+            <div class="site-footer-fifth">
+                  <div id="block-footercopyrighttext" class="block-content--footer-copyright-text block-type-block-content block block-block-content block-block-contentdde42e50-f45e-474d-94e2-5b21e4628b81">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>© 2024 Vertex Pharmaceuticals Incorporated</p>
+</div>
+      
+    </div>
+  </div>
+
+
+            </div>
+          </div>
+        
+          </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/156","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_environment":false},"tagIds":["GTM-PFK4NQK"]},"gtag":{"tagId":"","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJxtkdFuwzAIRX_IiV-277FwwmynDnhgr02_fl40pWnVF8Q9F4EAz1y1CpRP60HR-JM-0mHRIUNFrWc_ZPaQB61bThTOzoqqEFAfzHkQSWyJZzQTC9rlu6Fs48R8Sf-IWFbI6Y4GbxWFILve-aIuAs0Zxb7HJjCHjK5CsKGHVz3CArdnuJrIAaTGj9ctDr5CIkfwkwLUxPQwCgjk3DvG69UBETeacEWqrnBpxb7He7XgFwp2rvZZ7q5G6Ec4MvM3KPTbRbWztAJ5fJCxUWk-J404G9204rr_7xexH7Wa","theme":"hogarth4","theme_token":null},"ajaxTrustedUrl":[],"external_links_handler":{"title":"External Link","message":{"value":"\u003Cp\u003EYou are about to leave the Vertex website.\u0026nbsp;Vertex assumes no responsibility for information or statements you may encounter on the Internet outside of Vertex\u0027s website.\u003C\/p\u003E\r\n","format":"full_html"},"whitelist":"news.vrtx.com,www.vrtxspendtransparency.com,vrtxpharma.co.uk,www.vrtx.de,www.vrtx.fr,vrtx.ca,vertexfoundation.org,vertexgps.com,vertexmedinfo.com,kalydeco.com,orkambi.com,symdeko.com,trikafta.com,cfsource.cz,cfsource-arabic.com,cfsource.fi,cfsource.se,cfsource.se,cfsource.ch,cfsource.at,cfsource.com.au,cfsource.be,cfsource.com.br,cfsource.dk,cfsource.fr,cfsource.de,cfsource.ie,cfsource.co.il,cfsource.it,cfsource.nl,cfsource.no,cfsource.pl,cfsource.pt,cfsource.es,cfsource.se,cfsource.co.uk,everyday-cf.com,flows.beamery.com,investors.vrtx.com,vrtx.wd5.myworkdayjobs.com,www.vertexmedinfo.com,www.vertexfoundation.org,vrtxglobalaccess.com,interestedinvestigator.vrtx.com,www.news.vrtx.com,vrtxspendtransparency.com,www.vrtxpharma.co.uk,vrtx.de,vrtx.fr,www.vrtx.ca,www.vertexfoundation.org,www.vertexgps.com,www.vertexmedinfo.com,www.kalydeco.com,www.orkambi.com,www.symdeko.com,www.trikafta.com,www.cfsource.cz,www.cfsource-arabic.com,www.cfsource.fi,www.cfsource.se,www.cfsource.se,www.cfsource.ch,www.cfsource.at,www.cfsource.com.au,www.cfsource.be,www.cfsource.com.br,www.cfsource.dk,www.cfsource.fr,www.cfsource.de,www.cfsource.ie,www.cfsource.co.il,www.cfsource.it,www.cfsource.nl,www.cfsource.no,www.cfsource.pl,www.cfsource.pt,www.cfsource.es,www.cfsource.se,www.cfsource.co.uk,www.everyday-cf.com,www.flows.beamery.com,www.investors.vrtx.com,www.vrtx.wd5.myworkdayjobs.com,www.vertexmedinfo.com,www.vertexfoundation.org,www.vrtxglobalaccess.com,www.interestedinvestigator.vrtx.com,www.vrtx.com,vertexcareers-atriumworks.icims.com,","sets":[{"domains":"https:\/\/clinicaltrials.vrtx.com\/,clinicaltrials.vrtx.com","pages":"","message":{"value":"\u003Cstyle type=\u0022text\/css\u0022\u003E#elh-popup .modal-dialog a.external-link-anchor {\r\n    background-color: initial;\r\n    padding: 0;\r\n    transition: none;\r\n    border: none;\r\n    text-decoration: underline;\r\n}\r\n\u003C\/style\u003E\r\n\u003Cp\u003EYou are about to leave Vertex\u2019s global website and be directed to Vertex\u2019s clinical trial website, which is intended for a U.S. audience only.\u003C\/p\u003E\r\n\r\n\u003Cp\u003E\u0026nbsp;\u003C\/p\u003E\r\n\r\n\u003Cp\u003EOther audiences may visit \u003Ca class=\u0022external-link-anchor\u0022 href=\u0022https:\/\/clinicaltrials.gov\/\u0022 target=\u0022_blank\u0022\u003Eclinicaltrials.gov\u003C\/a\u003E. This is a third-party website; Vertex assumes no responsibility for information or statements you may encounter on the Internet outside of Vertex\u2019s website.\u003C\/p\u003E\r\n","format":"full_html"}}],"confirm":"OK","cancel":"Cancel","target":"_blank","pages":null},"hww_announcement_popup":{"title":"","body":"","cta_label":"","cta_url":"","cta_target":"","cookie_time":""},"user":{"uid":0,"permissionsHash":"eb36e0f35a30a9a40215f409397ac89a059dfda307dc80dc7fb4a1251a299b14"}}</script>
+<script src="/sites/global/files/js/js_vdmJOJGesleLG4h5iFYO5XVb01Vfas3ekS3hdv2alv4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=hogarth4&amp;include=eJxtkMF2xCAIRX_IxE37PR6SUDWjYEE7k359bRZJM50d7wKH98BHRSFILkW6qQtAS0Kx-BKbmQXt-tlQtnFmvkU04X53QMSNZsxI1RUurdjXeJ8W_EDBztVepdFNK2Y7gaKZmKtWgfL-T2dUBd_ndzvEkiHF7-vKUQ6rDgkqav3b94knSIPWrQf0JrAHqeHtmXtmn9BV8NbXfJXgn_UIKzz2iBqgOzsqU0DA98NB7SKtQBpPMjYqbUpRAy6nkQyRHMFX9FAj09n4XUyp3znSuAlEIvdHLPgD2-61mg"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?skf3o2"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?skf3o2"></script>
+<script src="/sites/global/files/js/js_aRXXnpOp27LGifjmBfuygdsZ_kHXJHT8prM5yfLg5jc.js?scope=footer&amp;delta=3&amp;language=en&amp;theme=hogarth4&amp;include=eJxtkMF2xCAIRX_IxE37PR6SUDWjYEE7k359bRZJM50d7wKH98BHRSFILkW6qQtAS0Kx-BKbmQXt-tlQtnFmvkU04X53QMSNZsxI1RUurdjXeJ8W_EDBztVepdFNK2Y7gaKZmKtWgfL-T2dUBd_ndzvEkiHF7-vKUQ6rDgkqav3b94knSIPWrQf0JrAHqeHtmXtmn9BV8NbXfJXgn_UIKzz2iBqgOzsqU0DA98NB7SKtQBpPMjYqbUpRAy6nkQyRHMFX9FAj09n4XUyp3znSuAlEIvdHLPgD2-61mg"></script>
+
+  <script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1358943723" async></script></body>
+</html>

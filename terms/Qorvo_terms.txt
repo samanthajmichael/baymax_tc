@@ -1,0 +1,1760 @@
+
+
+
+
+
+<!DOCTYPE HTML>
+<!--[if lt IE 7]>
+<html lang="en" id="lt-ie10" class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7">
+<![endif]-->
+<!--[if IE 7]>
+<html lang="en" id="lt-ie10" class="no-js lt-ie10 lt-ie9 lt-ie8">
+<![endif]-->
+<!--[if IE 8]>
+<html lang="en" id="lt-ie10" class="no-js lt-ie10 lt-ie9">
+<![endif]-->
+<!--[if IE 9]>
+<html lang="en" id="lt-ie10" class="no-js lt-ie10">
+<![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-language" content="en">
+    <meta name="google" content="notranslate">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Terms of Use - Qorvo </title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="View our terms for using this website." />
+    <meta name="robots" content="index,follow" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+            <meta property="og:type" content="website">
+            <meta property="og:url" content="https//www.qorvo.com/terms-of-use">
+
+    <!--Favicon-->
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/Content/QorvoPublic/images/Favicon/apple-touch-icon-57x57-bw.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/Content/QorvoPublic/images/Favicon/apple-touch-icon-114x114-bw.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Content/QorvoPublic/images/Favicon/apple-touch-icon-72x72-bw.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Content/QorvoPublic/images/Favicon/apple-touch-icon-144x144-bw.png">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="/Content/QorvoPublic/images/Favicon/apple-touch-icon-60x60-bw.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/Content/QorvoPublic/images/Favicon/apple-touch-icon-120x120-bw.png">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="/Content/QorvoPublic/images/Favicon/apple-touch-icon-76x76-bw.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/Content/QorvoPublic/images/Favicon/apple-touch-icon-152x152-bw.png">
+    <link rel="icon" type="image/png" href="/Content/QorvoPublic/images/Favicon/favicon-196x196.png" sizes="196x196">
+    <link rel="icon" type="image/png" href="/Content/QorvoPublic/images/Favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/Content/QorvoPublic/images/Favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/Content/QorvoPublic/images/Favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/Content/QorvoPublic/images/Favicon/favicon-128.png" sizes="128x128">
+    <link rel="shortcut icon" type="image/x-icon" href="/Content/QorvoPublic/images/Favicon/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="/Content/QorvoPublic/images/Favicon/favicon.ico">
+    <meta name="application-name" content="Qorvo - RF solutions for mobile, infrastructure and defense">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="/Content/QorvoPublic/images/Favicon/mstile-144x144.png">
+    <meta name="msapplication-square70x70logo" content="/Content/QorvoPublic/images/Favicon/mstile-70x70.png">
+    <meta name="msapplication-square150x150logo" content="/Content/QorvoPublic/images/Favicon/mstile-150x150.png">
+    <meta name="msapplication-wide310x150logo" content="/Content/QorvoPublic/images/Favicon/mstile-310x150.png">
+    <meta name="msapplication-square310x310logo" content="/Content/QorvoPublic/images/Favicon/mstile-310x310.png">
+    <!--End Favicon-->
+    <!-- Load the CSS Bundle -->
+    <link href="/content/QorvoPublic/css/main?v=O0HhKgNi9tIwM4plR0tQ3_EYthffD8EOuMVvA9EdfAw1" rel="stylesheet"/>
+
+    <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/94d25f4a-3ba1-4f5f-a1db-65f1a3183353.css">
+    <script src="/bundles/modernizer?v=inCVuEFe6J4Q07A0AcRsbJic_UE5MwpRMNGcOtk94TE1"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/noUiSlider/8.4.0/nouislider.min.js"></script>
+    <!--[if lt IE 9]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/selectivizr/1.0.2/selectivizr-min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+        <script src="/scripts/QorvoPublic/nouislider-noop.js"></script>
+    <![endif]-->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries-->
+    <!--[if lt IE 9]>
+        <script src="/scripts/QorvoPublic/shims.js"></script>
+        <script src="//vjs.zencdn.net/ie8/1.1.1/videojs-ie8.min.js"></script>
+        <script>
+            window.isIE8 = true;
+        </script>
+    <![endif]-->
+
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-54970434-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-0QB2C5SYGN"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-0QB2C5SYGN' );
+	</script>
+
+    <!--Browser-Update.org Message Service-->
+    <script>
+        var $buoop = {
+            vs: { i: 7, f: 25, o: 12.1, s: 7 }, c: 2,
+            reminder: 0,
+            text: 'Outdated browser detected. Your browser (%s) may not display all of the features of this website. For a better experience, please click here to <a%s>update</a> your browser.'
+        };
+        function $buo_f() {
+            var e = document.createElement("script");
+            e.src = "//browser-update.org/update.min.js";
+            document.body.appendChild(e);
+        };
+        try { document.addEventListener("DOMContentLoaded", $buo_f, false) }
+        catch (e) { window.attachEvent("onload", $buo_f) }
+
+    </script>
+
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+
+    </script>
+    <!--Twitter-->
+    <script>
+        window.twttr = (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0],
+            t = window.twttr || {};
+            if (d.getElementById(id)) return t;
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "https://platform.twitter.com/widgets.js";
+            fjs.parentNode.insertBefore(js, fjs);
+            t._e = [];
+            t.ready = function (f) {
+                t._e.push(f);
+            };
+            return t;
+        }(document, "script", "twitter-wjs"));
+    </script>
+    
+    
+    <!-- MARKETO ASYNCHRONOUS MUNCHKIN -->
+    <script type="text/javascript">
+    (function() {
+      var didInit = false;
+      function initMunchkin() {
+        if(didInit === false) {
+          didInit = true;
+          Munchkin.init('071-KGT-834');
+        }
+      }
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//munchkin.marketo.net/munchkin.js';
+      s.onreadystatechange = function() {
+        if (this.readyState == 'complete' || this.readyState == 'loaded') {
+          initMunchkin();
+        }
+      };
+      s.onload = initMunchkin;
+      document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+    </script>
+    <!-- /MARKETO ASYNCHRONOUS MUNCHKIN -->
+
+    <!-- DRIFT ASYNC CODE -->
+    <script>
+    "use strict";
+
+    function LoadDriftWidget() {
+      var t = window.driftt = window.drift = window.driftt || [];
+      if (!t.init) {
+        if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+        t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+        t.factory = function(e) {
+          return function() {
+            var n = Array.prototype.slice.call(arguments);
+            return n.unshift(e), t.push(n), t;
+          };
+        }, t.methods.forEach(function(e) {
+          t[e] = t.factory(e);
+        }), t.load = function(t) {
+          var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+          o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+          var i = document.getElementsByTagName("script")[0];
+          i.parentNode.insertBefore(o, i);
+        };
+      }
+      drift.SNIPPET_VERSION = '0.3.1';
+      drift.load('633p34tteasp');
+    };
+    setTimeout(LoadDriftWidget, 1500);
+    </script>
+    <!-- /DRIFT ASYNC CODE -->
+
+</head>
+
+<body data-content-nav="true">
+
+
+
+<div class="cn-main hide-for-sm">
+  <div class="cn-owrap">
+    <div class="cn-dyn-inner">
+      <ul></ul>
+    </div>
+    <div class="cn-static-inner">
+      <ul>
+        <li data-cn-count="" class="cn-noshow">
+          <button><span class="cn-wrap"><span class="u-none cn-txt"><span class="cn-noshow-count"></span>Other Items...</span><span class="cn-icon"><i class="icon-dot"></i></span></span></button>
+        </li>
+        <li class="cn-top">
+          <button data-cn-act="top"><span class="cn-wrap"><span class="u-none cn-txt">Back to Top</span><span class="cn-icon"><i class="icon-up-arrow"></i></span></span></button>
+        </li>
+          <li class="social-wrap">
+            <div class="social-btn">
+              <div class="social-api-btn">
+                <div data-href="https://www.qorvo.com/terms-of-use" data-layout="button" data-size="small" data-mobile-iframe="true" class="fb-share-button"></div>
+              </div><span class="cn-icon"><i class="icon-facebook"></i></span>
+            </div>
+          </li>
+          <li class="social-wrap">
+            <div class="social-btn">
+              <div class="social-api-btn"><a href="https://twitter.com/intent/tweet" class="twitter-share-button"></a></div><span class="cn-icon"><i class="icon-twitter"></i></span>
+            </div>
+          </li>
+          <li class="social-wrap">
+            <div class="social-btn">
+              <div class="social-api-btn">
+                <script src="//platform.linkedin.com/in.js" type="text/javascript">
+                  <lang>
+                    <en_US></en_US>
+                  </lang>
+                </script>
+                <script type="IN/Share">
+                </script>
+              </div><span class="cn-icon"><i class="icon-linkedin">                   </i></span>
+            </div>
+          </li>
+        <li>
+          <button><span class="cn-wrap"><span class="u-none cn-txt">Print</span><span class="cn-icon"><i class="icon-print"></i></span></span></button>
+        </li>
+        <li>
+          <button><a href="/contact-us" class="cn-wrap cn-contact"><span class="u-none cn-txt">Go to &quot;Contact Us&quot; Page</span><span class="cn-icon"><i class="icon-nav-support"></i></span></a></button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+    
+<nav class="pri-nav no-eq">
+    <div class="container-fluid">
+        <div class="row pri-nav-btmb">
+            <div class="columns twelve">
+                <div class="container">
+                    <div class="row pri-nav-tr hide-for-sm">
+                        <!--*** L/M TOP ROW-->
+                        <div class="columns three pri-nav-lt hide-for-sm">
+                            <a href="/">
+                                <h1>Qorvo</h1>
+                            </a>
+                        </div>
+                        <!--*** L/M QUICK LINKS-->
+                            <div class="columns nine pri-nav-ql u-fs-7 u-text-right hide-for-sm">
+        <ul class="u-text-right a-black-hover a-white">
+                    <li><a href='https://orders.qorvo.com/' title='Sign In' >Sign In</a></li>
+                    <li><a href='/support/how-to-buy' class='htb-link' title='How To Buy' >How To Buy</a></li>
+                    <li><a href='http://ir.qorvo.com' title='Investors' >Investors</a></li>
+                    <li><a href='/support' title='Support' >Support</a></li>
+                    <li><a href='/careers' title='Careers' >Careers</a></li>
+
+                <li><a href="https://cn.qorvo.com:443/" target="_self">中文</a></li>
+        </ul>
+    </div>
+    <div class="htb-menu-arrow"></div>
+    <div class="htb-menu">
+        <div class="htb-holder">
+            <p>
+            <a href="https://store.qorvo.com" target="_blank">Buy Online</a><br />
+            <a href="/support/how-to-buy#channelpartner">Buy from an Authorized Channel Partner</a><br />
+            <a href="/support/how-to-buy#qorvosales">Buy Direct from Qorvo Sales</a><br />
+            <a href="/support/how-to-buy/contact-a-sales-rep">Contact a Sales Representative</a><br />
+            <a href="/support/how-to-buy/request-a-quote">Request a Quote</a><br />
+            <a href="/support/how-to-buy/request-a-sample">Request a Sample</a><br />
+            <a href="/support/how-to-buy">See All Buying Options</a><br />
+            </p>
+        </div>
+    </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="columns twelve">
+                <div class="container pri-nav-bt-container">
+                    <div class="row pri-nav-bt">
+                        <!--*** L/M TOP LOGO-->
+                        <div class="columns three pri-nav-lb u-sm pull-left">
+                            <a href="/">
+                                <h2>All Around You</h2>
+                            </a>
+                        </div>
+                        <div class="columns two pri-nav-menubtn u-text-white">
+                            <button class="mn-open">
+                                <i class="icon-menu"></i>
+                                <span class="hide-for-sm u-fs-4 pri-nav-menu-txt">
+                                    MENU
+                                </span>
+                            </button>
+                        </div>
+                        
+
+<div class="columns seven pri-nav-search hide-for-sm u-text-white">
+    <div class="pri-nav-search-inner">
+        <input type="hidden" id="GlobalSearchValidationErrorMessage" value="Please enter a search term" />
+        <input type="hidden" id="GlobalSearchValidationErrorMessageMinimum" value="Your search term must have at least 2 characters" />
+        <input type="hidden" id="GlobalSearchPlaceholder" value="Enter Keyword or Part Number" />
+        <form id="globalSearchForm" action="/search">
+            <button type="submit" class="pri-nav-searchbtn" id="GlobalSearch" value="/search"> <i class="icon-search-icon"></i></button>
+            <input type="search" id="SearchTerm" placeholder="Enter Keyword or Part Number" class="pri-nav-searchinp" autocomplete="off" />
+            <div class="pri-nav-type">
+                <input type="hidden" name="mode" id="global-search-value" value="1" />
+                <div class="select-bg">
+                    <input type="hidden" name="search-value" value="1" />
+                    <select id="searchMode"></select>
+                    <div class="pri-nav-typedir up"><i class="icon-chevron-thin-down"></i></div>
+                </div>
+                <ul>
+                    <li>
+                        <button value="1" id="esGlobal" type="button" data-placeholder="Enter Keyword or Part Number">Entire Site</button>
+                    </li>
+                    <li>
+                        <button value="2" id="pidGlobal" type="button" data-placeholder="Enter Product ID">Products by Part #</button>
+                    </li>
+                    <li>
+                        <button value="3" id="pdesGlobal" type="button" data-placeholder="Enter Keyword Description">Products by Description</button>
+                    </li>
+                    <li>
+                        <button value="4" id="docGlobal" type="button" data-placeholder="Enter Document Keyword">Documents</button>
+                    </li>
+                </ul>
+            </div>
+        </form>
+        <div class="ta-conatiner u-fs-7" id="suggestedTerms" style="display:none">
+            
+        </div>
+    </div>
+</div>
+<script>
+    var suggestedListUrl = '/QorvoPublic/Search/SuggestedSearchTerms';
+    var language = 'en';
+    var SearchResultsPage = '/search';
+    var searchTextLength = 2;
+    var searchBoxValidationUrl = '/QorvoPublic/Search/SearchBoxValidation';
+</script>
+
+                    </div>
+
+                    <!--To Do: Move the below div to a new rendering while working on Mobile Search
+                        component and uncomment static rendering-->
+                    
+<div class="columns six pri-nav-search u-text-white pri-mobile-nav-search">
+    <div class="pri-nav-search-inner">
+        <input type="hidden" id="MobileGlobalSearchValidationErrorMessage" value="Please enter a search term" />
+        <input type="hidden" id="MobileGlobalSearchPlaceholder" value="Enter Keyword or Part Number" />
+        <input type="hidden" id="GlobalSearchValidationErrorMessageMinimum" value="Your search term must have at least 2 characters" />
+        <form id="mobileGlobalSearch" action="/search">
+            <button type="submit" class="pri-nav-searchbtn" id="mobileGlobalSearch" value="/search"> <i class="icon-search-icon"></i></button>
+            <input type="search" id="mobileSearchTerm" placeholder="Enter Keyword or Part Number" class="pri-nav-searchinp" name="es" autocomplete="off" />
+
+            <div class="pri-nav-type" style="display:none">
+                <input type="hidden" name="mode" id="global-search-value" value="1">
+                <button type="button" class="pri-nav-typeval pri-nav-txtval">
+                    
+                    Entire Site
+                </button>
+                <ul>
+                    <li style="display:none">
+                        <button value="1" id="esGlobal" type="button" data-placeholder="Enter Keyword or Part Number" onclick="setGlobalMode(1)">Entire Site</button>
+                    </li>
+                </ul>
+            </div>
+
+
+        </form>
+        <div class="ta-conatiner u-fs-7" id="mobileSuggestedTerms" style="display:none">
+            
+        </div>
+    </div>
+</div>
+
+<script>
+    var searchBoxValidationUrl = '/QorvoPublic/Search/SearchBoxValidation';
+    var suggestedListUrl = '/QorvoPublic/Search/SuggestedSearchTerms';
+</script>
+
+                </div>
+            </div>
+        </div>
+        
+<div style="display:none;" class="row mn-out mn u-none u-fs-6">
+    <div class="columns twelve">
+        <div class="container mn-inner-container">
+            <div class="arrow-up"></div>
+            <div class="row mn-content">
+                <div class="columns three mn-col-1 a-black a-blue-hover">
+                    <!--*** MEGA NAV COL ONE-->
+                    <!-- First view in mobile-->
+                    <div class="row hide-for-lg hide-for-md mmn-col-1">
+                        <div class="columns twelve">
+                            <div class="row">
+                                    
+                                    <div class="mmn-close">
+                                        <button class="close-mn icon-close"></button>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mmn-title hide-for-lg hide-for-md hide-for-sm">
+                        <div class="columns twelve">
+                            <div class="mmn-back">
+                                <button class="icon-chevron-small-left"></button>
+                            </div>
+                            <div class="mmn-text"></div>
+                            <div class="mmn-close">
+                                <button class="close-mn icon-close"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- For cta/promo attrib order is "promo,cta"-->
+                    <ul>
+                                    <li>
+                                        <button data-mn-target="#Products-menu"
+                                                data-mn-depth="1"
+                                                data-mn-obj="#Products-promo1"
+                                                data-mn-default="true">
+                                            <span class="mn-co-ico"><i class="icon-nav-products"></i></span><span class="mn-col-1-txt">Products<i style="padding-right:10px;" class="hide-for-md hide-for-lg icon-chevron-thin-right u-pull-right"></i></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button data-mn-target="#Applications-menu"
+                                                data-mn-depth="1"
+                                                data-mn-obj="#Applications-promo1"
+                                                data-mn-default="">
+                                            <span class="mn-co-ico"><i class="icon-nav-applications"></i></span><span class="mn-col-1-txt">Applications<i style="padding-right:10px;" class="hide-for-md hide-for-lg icon-chevron-thin-right u-pull-right"></i></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button data-mn-target="#Foundry-menu"
+                                                data-mn-depth="1"
+                                                data-mn-obj="#Foundry-promo1"
+                                                data-mn-default="">
+                                            <span class="mn-co-ico"><i class="icon-nav-foundry"></i></span><span class="mn-col-1-txt">Foundry<i style="padding-right:10px;" class="hide-for-md hide-for-lg icon-chevron-thin-right u-pull-right"></i></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button data-mn-target="#design-hub-menu"
+                                                data-mn-depth="1"
+                                                data-mn-obj="#design-hub-promo1"
+                                                data-mn-default="">
+                                            <span class="mn-co-ico"><i class="icon-nav-design-hub"></i></span><span class="mn-col-1-txt">Design Hub<i style="padding-right:10px;" class="hide-for-md hide-for-lg icon-chevron-thin-right u-pull-right"></i></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button data-mn-target="#Innovation-menu"
+                                                data-mn-depth="1"
+                                                data-mn-obj="#Innovation-promo1"
+                                                data-mn-default="">
+                                            <span class="mn-co-ico"><i class="icon-nav-innovation"></i></span><span class="mn-col-1-txt">Innovation<i style="padding-right:10px;" class="hide-for-md hide-for-lg icon-chevron-thin-right u-pull-right"></i></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button data-mn-target="#Support-menu"
+                                                data-mn-depth="1"
+                                                data-mn-obj="#Support-promo1"
+                                                data-mn-default="">
+                                            <span class="mn-co-ico"><i class="icon-nav-support"></i></span><span class="mn-col-1-txt">Support<i style="padding-right:10px;" class="hide-for-md hide-for-lg icon-chevron-thin-right u-pull-right"></i></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button data-mn-target="#About-Us-menu"
+                                                data-mn-depth="1"
+                                                data-mn-obj="#About-Us-promo1"
+                                                data-mn-default="">
+                                            <span class="mn-co-ico"><i class="icon-nav-about-us"></i></span><span class="mn-col-1-txt">About Us<i style="padding-right:10px;" class="hide-for-md hide-for-lg icon-chevron-thin-right u-pull-right"></i></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button data-mn-target="#Newsroom-menu"
+                                                data-mn-depth="1"
+                                                data-mn-obj="#Newsroom-promo1"
+                                                data-mn-default="">
+                                            <span class="mn-co-ico"><i class="icon-nav-press"></i></span><span class="mn-col-1-txt">Newsroom<i style="padding-right:10px;" class="hide-for-md hide-for-lg icon-chevron-thin-right u-pull-right"></i></span>
+                                        </button>
+                                    </li>
+                                    <li>
+                                        <button data-mn-target="#Careers-menu"
+                                                data-mn-depth="1"
+                                                data-mn-obj="#Careers-promo1"
+                                                data-mn-default="">
+                                            <span class="mn-co-ico"><i class="icon-nav-careers"></i></span><span class="mn-col-1-txt">Careers<i style="padding-right:10px;" class="hide-for-md hide-for-lg icon-chevron-thin-right u-pull-right"></i></span>
+                                        </button>
+                                    </li>
+
+                    </ul>
+
+                </div>
+                <div class="columns three mn-col-2 u-rm-gut-l a-black a-blue-hover">
+                    <!--*** MEGA NAV COL TWO-->
+                            <ul id="Products-menu" class="u-none sub-menu">
+                                <li>
+                                    <a href="/products" data-mn-depth="2">
+                                        <span class="col-two-text u-text-bold u-text-blue">Go to Products</span>
+                                    </a>
+                                </li>
+
+                                    <li>
+                                            <button data-mn-target="#Active-Antenna-Systems-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Active Antenna Systems</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Amplifiers-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Amplifiers</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Control-Products-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Control Products</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Discrete-Transistors-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Discrete Transistors</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Filters-Duplexers-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Filters & Duplexers</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Frequency-Converters-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Frequency Converters & Sources</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Integrated-Products-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Integrated Products</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Optical-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Optical</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Passives-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Passives</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Power-Solutions-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Power Solutions</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Switches-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Switches</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Wireless-Connectivity-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Wireless Connectivity</span>
+                                            </button>
+                                    </li>
+                            </ul>
+                            <ul id="Applications-menu" class="u-none sub-menu">
+                                <li>
+                                    <a href="/applications" data-mn-depth="2">
+                                        <span class="col-two-text u-text-bold u-text-blue">Go to Applications</span>
+                                    </a>
+                                </li>
+
+                                    <li>
+                                            <button data-mn-target="#automotive-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Automotive</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#consumer-goods-electronics-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Consumer Goods & Electronics</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <a href="/applications/customer-premises-equipment" data-mn-depth="2">
+                                                <span class="col-two-text">Customer Premises Equipment</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#defense-aerospace-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Defense and Aerospace</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#industrial-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Industrial</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#information-technology-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Information Technology</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Internet-of-Things-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Internet of Things</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Mobile-Products-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Mobile Products</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Network-Infrastructure-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Network Infrastructure</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#renewables-power-lighting-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Renewables, Power & Lighting</span>
+                                            </button>
+                                    </li>
+                            </ul>
+                            <ul id="Foundry-menu" class="u-none sub-menu">
+                                <li>
+                                    <a href="/foundry" data-mn-depth="2">
+                                        <span class="col-two-text u-text-bold u-text-blue">Go to Foundry</span>
+                                    </a>
+                                </li>
+
+                            </ul>
+                            <ul id="design-hub-menu" class="u-none sub-menu">
+                                <li>
+                                    <a href="/design-hub" data-mn-depth="2">
+                                        <span class="col-two-text u-text-bold u-text-blue">Go to Design Hub</span>
+                                    </a>
+                                </li>
+
+                                    <li>
+                                            <a href="/design-hub/block-diagrams" data-mn-depth="2">
+                                                <span class="col-two-text">Block Diagrams</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Design-Tools-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Design Tools</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <a href="/design-hub/blog" data-mn-depth="2">
+                                                <span class="col-two-text">Blog</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/design-hub/brochures" data-mn-depth="2">
+                                                <span class="col-two-text">Brochures</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/design-hub/infographics" data-mn-depth="2">
+                                                <span class="col-two-text">Infographics</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#eBooks-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">E-Books</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <a href="/design-hub/technical-articles" data-mn-depth="2">
+                                                <span class="col-two-text">Technical Articles</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/design-hub/videos" data-mn-depth="2">
+                                                <span class="col-two-text">Videos</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/design-hub/webinars" data-mn-depth="2">
+                                                <span class="col-two-text">Webinars</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/design-hub/white-papers" data-mn-depth="2">
+                                                <span class="col-two-text">White Papers</span>
+                                            </a>
+                                    </li>
+                            </ul>
+                            <ul id="Innovation-menu" class="u-none sub-menu">
+                                <li>
+                                    <a href="/innovation" data-mn-depth="2">
+                                        <span class="col-two-text u-text-bold u-text-blue">Go to Innovation</span>
+                                    </a>
+                                </li>
+
+                                    <li>
+                                            <a href="/innovation/5g" data-mn-depth="2">
+                                                <span class="col-two-text">5G The Future of RF</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Customer-Stories-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Customer Stories</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <a href="/innovation/matter" data-mn-depth="2">
+                                                <span class="col-two-text">The Matter-Enabled IoT</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/innovation/sensors" data-mn-depth="2">
+                                                <span class="col-two-text">Sensors</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#power-solutions-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Power Solutions</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Technology-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Technology</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Ultra-Wideband-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Ultra-Wideband</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <a href="/innovation/wi-fi" data-mn-depth="2">
+                                                <span class="col-two-text">Wi-Fi</span>
+                                            </a>
+                                    </li>
+                            </ul>
+                            <ul id="Support-menu" class="u-none sub-menu">
+                                <li>
+                                    <a href="/support" data-mn-depth="2">
+                                        <span class="col-two-text u-text-bold u-text-blue">Go to Support</span>
+                                    </a>
+                                </li>
+
+                                    <li>
+                                            <a href="/support/how-to-buy" data-mn-depth="2">
+                                                <span class="col-two-text">How to Buy</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/support/technical-support" data-mn-depth="2">
+                                                <span class="col-two-text">Technical Support</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/support/samples-and-evaluation-boards" data-mn-depth="2">
+                                                <span class="col-two-text">Samples & Eval Boards</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/support/product-lifecycle-information" data-mn-depth="2">
+                                                <span class="col-two-text">Product Life Cycle Information</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/support/supplier-resources" data-mn-depth="2">
+                                                <span class="col-two-text">Supplier Resources</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/support/subscription-center" data-mn-depth="2">
+                                                <span class="col-two-text">Subscription Center</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/support/longevity" data-mn-depth="2">
+                                                <span class="col-two-text">Product Longevity Program</span>
+                                            </a>
+                                    </li>
+                            </ul>
+                            <ul id="About-Us-menu" class="u-none sub-menu">
+                                <li>
+                                    <a href="/about-us" data-mn-depth="2">
+                                        <span class="col-two-text u-text-bold u-text-blue">Go to About Us</span>
+                                    </a>
+                                </li>
+
+                                    <li>
+                                            <a href="/about-us/executive-leadership" data-mn-depth="2">
+                                                <span class="col-two-text">Executive Leadership</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/about-us/board-of-directors" data-mn-depth="2">
+                                                <span class="col-two-text">Board of Directors</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/about-us/our-history" data-mn-depth="2">
+                                                <span class="col-two-text">Our History</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/about-us/our-communities" data-mn-depth="2">
+                                                <span class="col-two-text">Our Communities</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/about-us/awards" data-mn-depth="2">
+                                                <span class="col-two-text">Awards</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Quality-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Quality</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Corporate-Social-Responsibility-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Corporate Social and Environmental Responsibility</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <a href="/about-us/locations" data-mn-depth="2">
+                                                <span class="col-two-text">Locations</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/about-us/corporate-resources" data-mn-depth="2">
+                                                <span class="col-two-text">Corporate Resources</span>
+                                            </a>
+                                    </li>
+                            </ul>
+                            <ul id="Newsroom-menu" class="u-none sub-menu">
+                                <li>
+                                    <a href="/newsroom" data-mn-depth="2">
+                                        <span class="col-two-text u-text-bold u-text-blue">Go to Newsroom</span>
+                                    </a>
+                                </li>
+
+                                    <li>
+                                            <a href="/newsroom/news" data-mn-depth="2">
+                                                <span class="col-two-text">News</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/newsroom/media-contacts" data-mn-depth="2">
+                                                <span class="col-two-text">Media Contacts</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Media-Resources-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Media Resources</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Newsletters-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Newsletters</span>
+                                            </button>
+                                    </li>
+                                    <li>
+                                            <button data-mn-target="#Trade-Shows-submenu" data-mn-depth="2">
+                                                <span class="col-two-text">Events and Trade Shows</span>
+                                            </button>
+                                    </li>
+                            </ul>
+                            <ul id="Careers-menu" class="u-none sub-menu">
+                                <li>
+                                    <a href="/careers" data-mn-depth="2">
+                                        <span class="col-two-text u-text-bold u-text-blue">Go to Careers</span>
+                                    </a>
+                                </li>
+
+                                    <li>
+                                            <a href="/careers/engineering-careers" data-mn-depth="2">
+                                                <span class="col-two-text">Engineering Careers</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/careers/diversity-inclusion" data-mn-depth="2">
+                                                <span class="col-two-text">Diversity, Equity & Inclusion</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/careers/veterans" data-mn-depth="2">
+                                                <span class="col-two-text">Veterans</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/careers/women-in-tech" data-mn-depth="2">
+                                                <span class="col-two-text">Women in Tech</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/careers/internships-recent-college-grads" data-mn-depth="2">
+                                                <span class="col-two-text">Internships & Recent College Graduates</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/careers/life-at-qorvo" data-mn-depth="2">
+                                                <span class="col-two-text">Life at Qorvo</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/careers/locations" data-mn-depth="2">
+                                                <span class="col-two-text">Our Locations</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/careers/top-reasons-to-work-at-qorvo" data-mn-depth="2">
+                                                <span class="col-two-text">Top Reasons to Work at Qorvo</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/careers/interviewing-at-qorvo" data-mn-depth="2">
+                                                <span class="col-two-text">Interviewing at Qorvo</span>
+                                            </a>
+                                    </li>
+                                    <li>
+                                            <a href="/careers/recruiting-agencies" data-mn-depth="2">
+                                                <span class="col-two-text">Recruiting Agencies</span>
+                                            </a>
+                                    </li>
+                            </ul>
+                </div>
+                <div class="columns three mn-col-3 u-rm-gut-l a-black a-blue-hover">
+                    <!-- Anything in the third column should take the user to another page -->
+                                <ul id="Active-Antenna-Systems-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/active-antenna-systems"><span class="col-three-text u-text-bold u-text-blue">Go to Active Antenna Systems</span></a></li>
+
+                                        <li><a href="/products/active-antenna-systems/beamformers"><span class="col-three-text">Beamformers</span></a></li>
+                                        <li><a href="/products/active-antenna-systems/front-end-modules"><span class="col-three-text">Front End Modules</span></a></li>
+                                        <li><a href="/products/active-antenna-systems/if-transceivers"><span class="col-three-text">IF Transceivers</span></a></li>
+                                </ul>
+                                <ul id="Amplifiers-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/amplifiers"><span class="col-three-text u-text-bold u-text-blue">Go to Amplifiers</span></a></li>
+
+                                        <li><a href="/products/amplifiers/catv-amplifiers"><span class="col-three-text">CATV Amplifiers</span></a></li>
+                                        <li><a href="/products/amplifiers/distributed-amplifiers"><span class="col-three-text">Distributed Amplifiers</span></a></li>
+                                        <li><a href="/products/amplifiers/driver-amplifiers"><span class="col-three-text">Driver Amplifiers (< 3 W)</span></a></li>
+                                        <li><a href="/products/amplifiers/gain-block-amplifiers"><span class="col-three-text">Gain Block Amplifiers</span></a></li>
+                                        <li><a href="/products/amplifiers/high-frequency-amplifiers"><span class="col-three-text">High Frequency Amplifiers (> 6 GHz)</span></a></li>
+                                        <li><a href="/products/amplifiers/low-noise-amplifiers"><span class="col-three-text">Low Noise Amplifiers (NF < 3 dB)</span></a></li>
+                                        <li><a href="/products/amplifiers/low-phase-noise-amplifiers"><span class="col-three-text">Low Phase Noise Amplifiers</span></a></li>
+                                        <li><a href="/products/amplifiers/mobile-amplifiers"><span class="col-three-text">Mobile Amplifiers</span></a></li>
+                                        <li><a href="/products/amplifiers/power-amplifiers"><span class="col-three-text">Power Amplifiers (> 3 W)</span></a></li>
+                                        <li><a href="/products/amplifiers/spatium"><span class="col-three-text">Spatium® SSPA</span></a></li>
+                                        <li><a href="/products/amplifiers/variable-gain-amplifiers"><span class="col-three-text">Variable Gain Amplifiers</span></a></li>
+                                        <li><a href="/products/amplifiers/wifi-network-equipment-amplifiers"><span class="col-three-text">Wi-Fi Network Equipment Amplifiers</span></a></li>
+                                </ul>
+                                <ul id="Control-Products-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/control-products"><span class="col-three-text u-text-bold u-text-blue">Go to Control Products</span></a></li>
+
+                                        <li><a href="/products/control-products/attenuators"><span class="col-three-text">Attenuators</span></a></li>
+                                        <li><a href="/products/control-products/limiters"><span class="col-three-text">Limiters</span></a></li>
+                                        <li><a href="/products/control-products/phase-shifters"><span class="col-three-text">Phase Shifters</span></a></li>
+                                        <li><a href="/products/control-products/programmable-capacitor-arrays"><span class="col-three-text">Programmable Capacitor Arrays</span></a></li>
+                                </ul>
+                                <ul id="Discrete-Transistors-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/discrete-transistors"><span class="col-three-text u-text-bold u-text-blue">Go to Discrete Transistors</span></a></li>
+
+                                        <li><a href="/products/discrete-transistors/gaas-phemts"><span class="col-three-text">GaAs pHEMTs</span></a></li>
+                                        <li><a href="/products/discrete-transistors/gan-hemts"><span class="col-three-text">GaN HEMTs</span></a></li>
+                                        <li><a href="/products/discrete-transistors/sic-fets"><span class="col-three-text">SiC FETs</span></a></li>
+                                        <li><a href="/products/discrete-transistors/sic-jfets"><span class="col-three-text">SiC JFETs</span></a></li>
+                                </ul>
+                                <ul id="Filters-Duplexers-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/filters-duplexers"><span class="col-three-text u-text-bold u-text-blue">Go to Filters & Duplexers</span></a></li>
+
+                                        <li><a href="/products/filters-duplexers/antennaplexers"><span class="col-three-text">Antennaplexers</span></a></li>
+                                        <li><a href="/products/filters-duplexers/diplexers"><span class="col-three-text">Diplexers</span></a></li>
+                                        <li><a href="/products/filters-duplexers/duplexers"><span class="col-three-text">Duplexers</span></a></li>
+                                        <li><a href="/products/filters-duplexers/lowdrift-nodrift-filters"><span class="col-three-text">LowDrift™ and NoDrift™ Filters</span></a></li>
+                                        <li><a href="/products/filters-duplexers/multiplexers"><span class="col-three-text">Multiplexers</span></a></li>
+                                        <li><a href="/products/filters-duplexers/notch-filters"><span class="col-three-text">Notch Filters</span></a></li>
+                                        <li><a href="/products/filters-duplexers/rf-filters"><span class="col-three-text">RF Filters</span></a></li>
+                                </ul>
+                                <ul id="Frequency-Converters-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/frequency-converters"><span class="col-three-text u-text-bold u-text-blue">Go to Frequency Converters & Sources</span></a></li>
+
+                                        <li><a href="/products/frequency-converters/integrated-synthesizers-with-mixers"><span class="col-three-text">Integrated Synthesizers with Mixers</span></a></li>
+                                        <li><a href="/products/frequency-converters/mixers"><span class="col-three-text">Mixers</span></a></li>
+                                        <li><a href="/products/frequency-converters/modulators"><span class="col-three-text">Modulators</span></a></li>
+                                        <li><a href="/products/frequency-converters/multipliers"><span class="col-three-text">Multipliers</span></a></li>
+                                        <li><a href="/products/frequency-converters/upconverters-downconverters"><span class="col-three-text">Upconverters / Downconverters</span></a></li>
+                                </ul>
+                                <ul id="Integrated-Products-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/integrated-products"><span class="col-three-text u-text-bold u-text-blue">Go to Integrated Products</span></a></li>
+
+                                        <li><a href="/products/integrated-products/automotive"><span class="col-three-text">Automotive</span></a></li>
+                                        <li><a href="/products/integrated-products/catv-hybrid-amplifiers"><span class="col-three-text">CATV Hybrid Amplifiers</span></a></li>
+                                        <li><a href="/products/integrated-products/defense-aerospace"><span class="col-three-text">Defense & Aerospace</span></a></li>
+                                        <li><a href="/products/integrated-products/internet-of-things"><span class="col-three-text">Internet of Things</span></a></li>
+                                        <li><a href="/products/integrated-products/mobile"><span class="col-three-text">Mobile</span></a></li>
+                                        <li><a href="/products/integrated-products/wifi"><span class="col-three-text">Wi-Fi</span></a></li>
+                                        <li><a href="/products/integrated-products/wireless-infrastructure"><span class="col-three-text">Wireless Infrastructure</span></a></li>
+                                </ul>
+                                <ul id="Optical-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/optical"><span class="col-three-text u-text-bold u-text-blue">Go to Optical</span></a></li>
+
+                                        <li><a href="/products/optical/bessel-filters-through-lines"><span class="col-three-text">Bessel Filters & Through Lines</span></a></li>
+                                        <li><a href="/products/optical/modulator-drivers"><span class="col-three-text">Modulator Drivers</span></a></li>
+                                        <li><a href="/products/optical/power-amplifiers-clock-drivers"><span class="col-three-text">Power Amplifiers / Clock Drivers</span></a></li>
+                                        <li><a href="/products/optical/receivers"><span class="col-three-text">Receivers</span></a></li>
+                                        <li><a href="/products/optical/transimpedance-amplifiers"><span class="col-three-text">Transimpedance Amplifiers</span></a></li>
+                                </ul>
+                                <ul id="Passives-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/passives"><span class="col-three-text u-text-bold u-text-blue">Go to Passives</span></a></li>
+
+                                        <li><a href="/products/passives/bessel-filters-through-lines"><span class="col-three-text">Bessel Filters & Through Lines</span></a></li>
+                                        <li><a href="/products/passives/esd-protection-circuits"><span class="col-three-text">ESD Protection Circuits</span></a></li>
+                                        <li><a href="/products/passives/fixed-attenuators"><span class="col-three-text">Fixed Attenuators</span></a></li>
+                                        <li><a href="/products/passives/limiters"><span class="col-three-text">Limiters</span></a></li>
+                                        <li><a href="/products/passives/transformers"><span class="col-three-text">Transformers</span></a></li>
+                                </ul>
+                                <ul id="Power-Solutions-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/power-solutions"><span class="col-three-text u-text-bold u-text-blue">Go to Power Solutions</span></a></li>
+
+                                        <li><a href="/products/power-solutions/battery-management-devices"><span class="col-three-text">Battery Management Devices</span></a></li>
+                                        <li><a href="/products/power-solutions/dc-dc-converters"><span class="col-three-text">DC/DC Converters</span></a></li>
+                                        <li><a href="/products/power-solutions/intelligent-motor-controllers"><span class="col-three-text">Intelligent Motor Controllers</span></a></li>
+                                        <li><a href="/products/power-solutions/power-loss-protection-devices"><span class="col-three-text">Power Loss Protection Devices</span></a></li>
+                                        <li><a href="/products/power-solutions/power-management-for-rf"><span class="col-three-text">Power Management for RF</span></a></li>
+                                        <li><a href="/products/power-solutions/power-management-ics"><span class="col-three-text">Power Management ICs (PMICs)</span></a></li>
+                                        <li><a href="/products/power-solutions/sic-diodes"><span class="col-three-text">SiC Diodes</span></a></li>
+                                        <li><a href="/products/power-solutions/sic-fets"><span class="col-three-text">SiC FETs</span></a></li>
+                                        <li><a href="/products/power-solutions/sic-jfets"><span class="col-three-text">SiC JFETs</span></a></li>
+                                        <li><a href="/products/power-solutions/sic-modules"><span class="col-three-text">SiC Modules</span></a></li>
+                                </ul>
+                                <ul id="Switches-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/switches"><span class="col-three-text u-text-bold u-text-blue">Go to Switches</span></a></li>
+
+                                        <li><a href="/products/switches/antenna-switch-modules"><span class="col-three-text">Antenna Switch Modules</span></a></li>
+                                        <li><a href="/products/switches/discrete-switches"><span class="col-three-text">Discrete Switches</span></a></li>
+                                        <li><a href="/products/switches/diversity-switches"><span class="col-three-text">Diversity Switches</span></a></li>
+                                </ul>
+                                <ul id="Wireless-Connectivity-submenu" class="u-none sub-menu">
+                                    <li><a href="/products/wireless-connectivity"><span class="col-three-text u-text-bold u-text-blue">Go to Wireless Connectivity</span></a></li>
+
+                                        <li><a href="/products/wireless-connectivity/low-power-iot"><span class="col-three-text">Low Power IoT</span></a></li>
+                                        <li><a href="/products/wireless-connectivity/ultra-wideband"><span class="col-three-text">Ultra-Wideband</span></a></li>
+                                        <li><a href="/products/wireless-connectivity/wifi"><span class="col-three-text">Wi-Fi</span></a></li>
+                                </ul>
+                                <ul id="automotive-submenu" class="u-none sub-menu">
+                                    <li><a href="/applications/automotive"><span class="col-three-text u-text-bold u-text-blue">Go to Automotive</span></a></li>
+
+                                        <li><a href="/applications/automotive/antennas"><span class="col-three-text">Automotive Antennas</span></a></li>
+                                        <li><a href="/applications/automotive/ev-charging"><span class="col-three-text">EV Charging</span></a></li>
+                                        <li><a href="/applications/automotive/ev-powertrains"><span class="col-three-text">EV Powertrains</span></a></li>
+                                        <li><a href="/applications/automotive/infotainment"><span class="col-three-text">Infotainment</span></a></li>
+                                        <li><a href="/applications/automotive/in-vehicle-chargers-adapters"><span class="col-three-text">In-Vehicle Chargers / Adapters</span></a></li>
+                                        <li><a href="/applications/automotive/light-electric-vehicles"><span class="col-three-text">Light Electric Vehicles</span></a></li>
+                                        <li><a href="/applications/automotive/telematics"><span class="col-three-text">Telematics</span></a></li>
+                                </ul>
+                                <ul id="consumer-goods-electronics-submenu" class="u-none sub-menu">
+                                    <li><a href="/applications/consumer-goods-electronics"><span class="col-three-text u-text-bold u-text-blue">Go to Consumer Goods & Electronics</span></a></li>
+
+                                        <li><a href="/applications/consumer-goods-electronics/battery-chargers"><span class="col-three-text">Battery Chargers</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/battery-packs-power-banks"><span class="col-three-text">Battery Packs / Power Banks</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/bluetooth-speakers"><span class="col-three-text">Bluetooth Speakers</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/drones-rc-devices"><span class="col-three-text">Drones / RC Devices</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/garden-tools"><span class="col-three-text">Garden Tools</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/home-appliances-white-goods"><span class="col-three-text">Home Appliances / White Goods</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/home-medical-devices"><span class="col-three-text">Home Medical Devices</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/portable-electronics"><span class="col-three-text">Portable Consumer Electronics</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/power-tools"><span class="col-three-text">Power Tools</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/usb-charging-hubs"><span class="col-three-text">USB Charging Hubs</span></a></li>
+                                        <li><a href="/applications/consumer-goods-electronics/wearables"><span class="col-three-text">Wearables</span></a></li>
+                                </ul>
+                                <ul id="defense-aerospace-submenu" class="u-none sub-menu">
+                                    <li><a href="/applications/defense-aerospace"><span class="col-three-text u-text-bold u-text-blue">Go to Defense and Aerospace</span></a></li>
+
+                                        <li><a href="/applications/defense-aerospace/communications"><span class="col-three-text">Communications</span></a></li>
+                                        <li><a href="/applications/defense-aerospace/electronic-warfare"><span class="col-three-text">Electronic Warfare</span></a></li>
+                                        <li><a href="/applications/defense-aerospace/radar"><span class="col-three-text">Radar</span></a></li>
+                                        <li><a href="/applications/defense-aerospace/space"><span class="col-three-text">Space</span></a></li>
+                                </ul>
+                                <ul id="industrial-submenu" class="u-none sub-menu">
+                                    <li><a href="/applications/industrial"><span class="col-three-text u-text-bold u-text-blue">Go to Industrial</span></a></li>
+
+                                        <li><a href="/applications/industrial/ac-powered-fans"><span class="col-three-text">AC Powered Fans</span></a></li>
+                                        <li><a href="/applications/industrial/industrial-battery-chargers"><span class="col-three-text">Industrial Battery Chargers</span></a></li>
+                                        <li><a href="/applications/industrial/pumps-compressors"><span class="col-three-text">Pumps & Compressors</span></a></li>
+                                        <li><a href="/applications/industrial/robotics"><span class="col-three-text">Robotics</span></a></li>
+                                        <li><a href="/applications/industrial/solid-state-circuit-breakers-relays"><span class="col-three-text">Solid-State Circuit Breakers & Relays</span></a></li>
+                                </ul>
+                                <ul id="information-technology-submenu" class="u-none sub-menu">
+                                    <li><a href="/applications/information-technology"><span class="col-three-text u-text-bold u-text-blue">Go to Information Technology</span></a></li>
+
+                                        <li><a href="/applications/information-technology/barcode-scanners-printers"><span class="col-three-text">Barcode Scanners & Printers</span></a></li>
+                                        <li><a href="/applications/information-technology/hot-plug-devices"><span class="col-three-text">Hot Plug Devices</span></a></li>
+                                        <li><a href="/applications/information-technology/point-of-sale-terminals"><span class="col-three-text">Point Of Sale Terminals</span></a></li>
+                                        <li><a href="/applications/information-technology/processors"><span class="col-three-text">Processors</span></a></li>
+                                        <li><a href="/applications/information-technology/server-telecom-fans"><span class="col-three-text">Server & Telecom Fans</span></a></li>
+                                        <li><a href="/applications/information-technology/server-telecom-power-supplies"><span class="col-three-text">Server & Telecom Power Supplies</span></a></li>
+                                        <li><a href="/applications/information-technology/solid-state-drives"><span class="col-three-text">Solid-State Drives</span></a></li>
+                                </ul>
+                                <ul id="Internet-of-Things-submenu" class="u-none sub-menu">
+                                    <li><a href="/applications/internet-of-things"><span class="col-three-text u-text-bold u-text-blue">Go to Internet of Things</span></a></li>
+
+                                        <li><a href="/applications/internet-of-things/distributed-wifi"><span class="col-three-text">Distributed Wi-Fi</span></a></li>
+                                        <li><a href="/applications/internet-of-things/industrial-scientific-medical"><span class="col-three-text">Industrial, Scientific & Medical</span></a></li>
+                                        <li><a href="/applications/internet-of-things/lifestyle-systems"><span class="col-three-text">Lifestyle Systems</span></a></li>
+                                        <li><a href="/applications/internet-of-things/remote-controls"><span class="col-three-text">Remote Controls</span></a></li>
+                                        <li><a href="/applications/internet-of-things/smart-energy"><span class="col-three-text">Smart Energy</span></a></li>
+                                        <li><a href="/applications/internet-of-things/smart-home"><span class="col-three-text">Smart Home</span></a></li>
+                                </ul>
+                                <ul id="Mobile-Products-submenu" class="u-none sub-menu">
+                                    <li><a href="/applications/mobile-products"><span class="col-three-text u-text-bold u-text-blue">Go to Mobile Products</span></a></li>
+
+                                        <li><a href="/applications/mobile-products/5g-uhb-fem"><span class="col-three-text">5G / UHB FEM</span></a></li>
+                                        <li><a href="/applications/mobile-products/carrier-aggregation"><span class="col-three-text">Carrier Aggregation</span></a></li>
+                                        <li><a href="/applications/mobile-products/dual-uplink"><span class="col-three-text">Dual Uplink</span></a></li>
+                                        <li><a href="/applications/mobile-products/mobile-5g"><span class="col-three-text">Mobile 5G</span></a></li>
+                                        <li><a href="/applications/mobile-products/advanced-filter-solutions"><span class="col-three-text">Mobile Filters</span></a></li>
+                                        <li><a href="/applications/mobile-products/mobile-wifi"><span class="col-three-text">Mobile Wi-Fi</span></a></li>
+                                        <li><a href="/applications/mobile-products/rf-flex"><span class="col-three-text">RF Flex™</span></a></li>
+                                        <li><a href="/applications/mobile-products/rf-fusion"><span class="col-three-text">RF Fusion™</span></a></li>
+                                        <li><a href="/applications/mobile-products/antenna-control-solutions"><span class="col-three-text">Antenna Control Solutions</span></a></li>
+                                </ul>
+                                <ul id="Network-Infrastructure-submenu" class="u-none sub-menu">
+                                    <li><a href="/applications/network-infrastructure"><span class="col-three-text u-text-bold u-text-blue">Go to Network Infrastructure</span></a></li>
+
+                                        <li><a href="/applications/network-infrastructure/broadband"><span class="col-three-text">Broadband Access</span></a></li>
+                                        <li><a href="/applications/network-infrastructure/gps"><span class="col-three-text">GPS</span></a></li>
+                                        <li><a href="/applications/network-infrastructure/optical"><span class="col-three-text">Optical</span></a></li>
+                                        <li><a href="/applications/network-infrastructure/point-to-point-radio"><span class="col-three-text">Point-to-Point Radio</span></a></li>
+                                        <li><a href="/applications/network-infrastructure/satellite-communications"><span class="col-three-text">Satellite Communications</span></a></li>
+                                        <li><a href="/applications/network-infrastructure/wireless"><span class="col-three-text">Wireless Infrastructure</span></a></li>
+                                </ul>
+                                <ul id="renewables-power-lighting-submenu" class="u-none sub-menu">
+                                    <li><a href="/applications/renewables-power-lighting"><span class="col-three-text u-text-bold u-text-blue">Go to Renewables, Power & Lighting</span></a></li>
+
+                                        <li><a href="/applications/renewables-power-lighting/ac-dc-high-voltage-dc-dc-power-supplies"><span class="col-three-text">AC/DC & High-Voltage DC/DC Power Supplies</span></a></li>
+                                        <li><a href="/applications/renewables-power-lighting/backup-power-ups"><span class="col-three-text">Backup Power Systems / UPS Units</span></a></li>
+                                        <li><a href="/applications/renewables-power-lighting/energy-storage-systems"><span class="col-three-text">Energy Storage Systems</span></a></li>
+                                        <li><a href="/applications/renewables-power-lighting/solar-power"><span class="col-three-text">Solar Power</span></a></li>
+                                        <li><a href="/applications/renewables-power-lighting/solid-state-lighting"><span class="col-three-text">Solid-State Lighting</span></a></li>
+                                </ul>
+                                <ul id="Design-Tools-submenu" class="u-none sub-menu">
+                                    <li><a href="/design-hub/design-tools"><span class="col-three-text u-text-bold u-text-blue">Go to Design Tools</span></a></li>
+
+                                        <li><a href="/design-hub/design-tools/evaluation-tools"><span class="col-three-text">Evaluation Tools</span></a></li>
+                                        <li><a href="/design-hub/design-tools/interactive"><span class="col-three-text">Interactive Tools & Calculators</span></a></li>
+                                        <li><a href="/design-hub/design-tools/simulation-model-libraries"><span class="col-three-text">Simulation Model Libraries</span></a></li>
+                                </ul>
+                                <ul id="eBooks-submenu" class="u-none sub-menu">
+                                    <li><a href="/design-hub/ebooks"><span class="col-three-text u-text-bold u-text-blue">Go to E-Books</span></a></li>
+
+                                        <li><a href="/design-hub/ebooks/5g-rf-for-dummies"><span class="col-three-text">5G RF For Dummies® 2nd Edition</span></a></li>
+                                        <li><a href="/design-hub/ebooks/antenna-aperture-tuning"><span class="col-three-text">Antenna Aperture Tuning E-Guide</span></a></li>
+                                        <li><a href="/design-hub/ebooks/ultra-wideband-ccc-digital-key"><span class="col-three-text">Ultra-Wideband & CCC® Digital Key E-Guide</span></a></li>
+                                        <li><a href="/design-hub/ebooks/comprehensive-guide-to-mmwave-solutions"><span class="col-three-text">A Comprehensive Guide to mmWave Solutions</span></a></li>
+                                        <li><a href="/design-hub/ebooks/connected-car-for-dummies"><span class="col-three-text">Connected Car For Dummies® Qorvo 2nd Special Edition</span></a></li>
+                                        <li><a href="/design-hub/ebooks/filters-for-dummies"><span class="col-three-text">Filters For Dummies® 2nd Edition</span></a></li>
+                                        <li><a href="/design-hub/ebooks/gan-for-dummies"><span class="col-three-text">GaN For Dummies® 2nd Edition</span></a></li>
+                                        <li><a href="/design-hub/ebooks/internet-of-things-for-dummies"><span class="col-three-text">Internet of Things For Dummies® 2nd Edition</span></a></li>
+                                        <li><a href="/design-hub/ebooks/ultra-wideband-for-dummies"><span class="col-three-text">Ultra-Wideband For Dummies®</span></a></li>
+                                        <li><a href="/design-hub/ebooks/motor-control-for-dummies"><span class="col-three-text">Motor Control For Dummies®</span></a></li>
+                                        <li><a href="/design-hub/ebooks/power-management-for-dummies"><span class="col-three-text">Power Management For Dummies®</span></a></li>
+                                </ul>
+                                <ul id="Customer-Stories-submenu" class="u-none sub-menu">
+                                    <li><a href="/innovation/customer-stories"><span class="col-three-text u-text-bold u-text-blue">Go to Customer Stories</span></a></li>
+
+                                        <li><a href="/innovation/customer-stories/pre-switch-cleanwave200-dc-to-ac-power-block"><span class="col-three-text">Pre-Switch CleanWave200 DC to AC Power Block</span></a></li>
+                                        <li><a href="/innovation/customer-stories/ac-propulsion-power-module-for-200kw-drive-unit-inverter"><span class="col-three-text">AC Propulsion Power Module for 200kW Drive Unit Inverter</span></a></li>
+                                        <li><a href="/innovation/customer-stories/wireless-led-driver-platform-advances-and-future-proofs-commercial-lighting-applications"><span class="col-three-text">New Wireless LED Driver Platform Advances and Future Proofs Commercial Lighting Applications</span></a></li>
+                                        <li><a href="/innovation/customer-stories/quasar-bi-directional-dc-charger"><span class="col-three-text">Quasar Bi-directional DC Charger</span></a></li>
+                                        <li><a href="/innovation/customer-stories/semipowerex-sic-power-modules"><span class="col-three-text">SemiPowerEx SiC Power Modules</span></a></li>
+                                        <li><a href="/innovation/customer-stories/signet-ev-fast-battery-chargers"><span class="col-three-text">SIGNET EV Fast Battery Chargers</span></a></li>
+                                        <li><a href="/innovation/customer-stories/people-power-and-qorvo-deliver-smart-internet-of-things-systems"><span class="col-three-text">People Power and Qorvo Deliver Smart Internet of Things Systems</span></a></li>
+                                </ul>
+                                <ul id="power-solutions-submenu" class="u-none sub-menu">
+                                    <li><a href="/innovation/power-solutions"><span class="col-three-text u-text-bold u-text-blue">Go to Power Solutions</span></a></li>
+
+                                        <li><a href="/innovation/power-solutions/power-management"><span class="col-three-text">Power Management</span></a></li>
+                                        <li><a href="/innovation/power-solutions/sic-power"><span class="col-three-text">SiC Power</span></a></li>
+                                </ul>
+                                <ul id="Technology-submenu" class="u-none sub-menu">
+                                    <li><a href="/innovation/technology"><span class="col-three-text u-text-bold u-text-blue">Go to Technology</span></a></li>
+
+                                        <li><a href="/innovation/technology/advanced-packaging"><span class="col-three-text">Advanced Packaging</span></a></li>
+                                        <li><a href="/innovation/technology/baw"><span class="col-three-text">Bulk Acoustic Wave (BAW)</span></a></li>
+                                        <li><a href="/innovation/technology/gan"><span class="col-three-text">Gallium Nitride (GaN)</span></a></li>
+                                        <li><a href="/innovation/technology/rf-integration"><span class="col-three-text">RF Integration</span></a></li>
+                                </ul>
+                                <ul id="Ultra-Wideband-submenu" class="u-none sub-menu">
+                                    <li><a href="/innovation/ultra-wideband"><span class="col-three-text u-text-bold u-text-blue">Go to Ultra-Wideband</span></a></li>
+
+                                        <li><a href="/innovation/ultra-wideband/technology"><span class="col-three-text">Technology</span></a></li>
+                                        <li><a href="/innovation/ultra-wideband/markets-applications"><span class="col-three-text">Markets & Applications</span></a></li>
+                                        <li><a href="/innovation/ultra-wideband/products"><span class="col-three-text">Products</span></a></li>
+                                        <li><a href="/innovation/ultra-wideband/resources"><span class="col-three-text">Resources</span></a></li>
+                                        <li><a href="/innovation/ultra-wideband/partners"><span class="col-three-text">Partners</span></a></li>
+                                        <li><a href="/innovation/ultra-wideband/community-forum"><span class="col-three-text">Community Forum</span></a></li>
+                                </ul>
+                                <ul id="Quality-submenu" class="u-none sub-menu">
+                                    <li><a href="/about-us/quality"><span class="col-three-text u-text-bold u-text-blue">Go to Quality</span></a></li>
+
+                                        <li><a href="/about-us/quality/certifications"><span class="col-three-text">Certifications</span></a></li>
+                                        <li><a href="/about-us/quality/product-change-notices"><span class="col-three-text">Product Change Notices</span></a></li>
+                                </ul>
+                                <ul id="Corporate-Social-Responsibility-submenu" class="u-none sub-menu">
+                                    <li><a href="/about-us/corporate-social-responsibility"><span class="col-three-text u-text-bold u-text-blue">Go to Corporate Social and Environmental Responsibility</span></a></li>
+
+                                        <li><a href="/about-us/corporate-social-responsibility/our-program"><span class="col-three-text">CS & ER Program</span></a></li>
+                                        <li><a href="/about-us/corporate-social-responsibility/supplier-responsibility"><span class="col-three-text">Supplier Responsibility</span></a></li>
+                                </ul>
+                                <ul id="Media-Resources-submenu" class="u-none sub-menu">
+                                    <li><a href="/newsroom/media-resources"><span class="col-three-text u-text-bold u-text-blue">Go to Media Resources</span></a></li>
+
+                                        <li><a href="/newsroom/media-resources/management-photos"><span class="col-three-text">Management Photos</span></a></li>
+                                </ul>
+                                <ul id="Newsletters-submenu" class="u-none sub-menu">
+                                    <li><a href="/newsroom/newsletters"><span class="col-three-text u-text-bold u-text-blue">Go to Newsletters</span></a></li>
+
+                                        <li><a href="/newsroom/newsletters/new-product-announcements"><span class="col-three-text">New Product Announcements</span></a></li>
+                                        <li><a href="/newsroom/newsletters/quarterly-newsletters"><span class="col-three-text">Quarterly Newsletters</span></a></li>
+                                </ul>
+                                <ul id="Trade-Shows-submenu" class="u-none sub-menu">
+                                    <li><a href="/newsroom/trade-shows"><span class="col-three-text u-text-bold u-text-blue">Go to Events and Trade Shows</span></a></li>
+
+                                        <li><a href="/newsroom/trade-shows/archive"><span class="col-three-text">Past Trade Shows</span></a></li>
+                                </ul>
+                </div>
+                <div class="columns three mn-col-4 u-rm-gut-l u-pull-right a-black a-blue-hover">
+                            <div id="Products-promo1" class="u-none">
+                                <h3 class="ul-black">New Products</h3>
+                                <img src='/-/media/images/qorvopublic/megamenu/qorvo-products.png?h=141&amp;w=141&amp;la=en&amp;hash=79B551B6D6495E7E517AF2D7D59C6D19B1C6754D' maxwidth='200' alt='Qorvo Products' />
+                                <p>Explore the latest additions to our product portfolio.</p>
+                                <a href='/products/new-products' class='btn white' >Learn More</a>
+                                <ul>
+    <li><span class="col-three-text"><a href="/products/new-products">New Products</a></span></li>
+</ul>
+                            </div>
+                            <div id="Applications-promo1" class="u-none">
+                                <h3 class="ul-black">5G Innovation</h3>
+                                <img src='/-/media/images/qorvopublic/innovation/5g-hero-image_320x180.png?h=180&amp;w=320&amp;la=en&amp;hash=4F52D133176FB182401B12F6513EA1BEE70968A6' maxwidth='200' alt='5G: The Future of RF' />
+                                <p>Qorvo is paving a path to 5G.</p>
+                                <a href='/innovation/5g' class='btn white' >Learn More</a>
+                                
+                            </div>
+                            <div id="Foundry-promo1" class="u-none">
+                                <h3 class="ul-black">Foundry Technologies</h3>
+                                <img src='/-/media/images/qorvopublic/common/amma_320x180.jpg?h=180&amp;w=320&amp;la=en&amp;hash=65BCD0C7C6E39BA3947708DB8E02083E32081D2D' maxwidth='200' alt='AMMA' />
+                                <p>Learn about our cutting-edge foundry technologies!</p>
+                                <a href='/innovation/technology' class='btn white' >Learn More</a>
+                                
+                            </div>
+                            <div id="design-hub-promo1" class="u-none">
+                                <h3 class="ul-black">Free E-Book: 5G RF For Dummies&reg; 2nd Edition</h3>
+                                <img src='/-/media/images/qorvopublic/dummies-thumbnail/5g-rf-for-dummies-masonry_294x166.png?h=166&amp;w=294&amp;la=en&amp;hash=5F64620A0E95A6D48D3C2E3950979F5FF966DFAF' maxwidth='200' alt='5G RF For Dummies®, Qorvo Special Edition' />
+                                <p>Get ready for the future of IoT and mobile communication.</p>
+                                <a href='/design-hub/ebooks/5g-rf-for-dummies' class='btn white' >Learn More</a>
+                                
+                            </div>
+                            <div id="Innovation-promo1" class="u-none">
+                                <h3 class="ul-black">GaN Innovation</h3>
+                                <img src='/-/media/images/qorvopublic/common/gan-innovation_320x180.png?h=180&amp;w=320&amp;la=en&amp;hash=12026FEB10154FFE9A92E17FC3F94641908CAFD6' maxwidth='200' alt='GaN Innovation' />
+                                <p>Qorvo's GaN technology helps keep you connected and protected.</p>
+                                <a href='/innovation/technology/gan' class='btn white' >Learn More</a>
+                                
+                            </div>
+                            <div id="Support-promo1" class="u-none">
+                                <h3 class="ul-black">Get in Touch</h3>
+                                <img src='/-/media/images/qorvopublic/common/support_320x180.png?h=180&amp;w=320&amp;la=en&amp;hash=6C44BA3EFCA43AAB9820F4DBDEB8E1EDE6FEAE45' maxwidth='200' alt='Get in Touch with Qorvo' />
+                                <p>Contact Qorvo via phone, email or form.</p>
+                                <a href='/support' class='btn white' >Learn More</a>
+                                
+                            </div>
+                            <div id="About-Us-promo1" class="u-none">
+                                <h3 class="ul-black">Qorvo's Vision</h3>
+                                <img src='/-/media/images/qorvopublic/video-poster-image/2022-qorvo-corporate-overview-1000x563.jpg?h=563&amp;w=1000&amp;la=en&amp;hash=5FFC3270D1C67A069315004FFAFF92CA043F63E5' maxwidth='200' alt='' />
+                                <p>Creating innovative solutions that connect, protect and power our planet.</p>
+                                <a href='/design-hub/videos/qorvo-corporate-overview' class='btn white' >Learn More</a>
+                                
+                            </div>
+                            <div id="Newsroom-promo1" class="u-none">
+                                <h3 class="ul-black">Qorvo Blog</h3>
+                                <img src='/-/media/images/qorvopublic/blog/blog-320x180.png?h=180&amp;w=320&amp;la=en&amp;hash=EFC11B9DE4E9EE69CADC3B2118699E840495A117' maxwidth='200' alt='Qorvo Blog' />
+                                <p>Read the latest RF trends, how-to articles, design tips and more from Qorvo experts.</p>
+                                <a href='/design-hub/blog' class='btn white' >Learn More</a>
+                                
+                            </div>
+                            <div id="Careers-promo1" class="u-none">
+                                <h3 class="ul-black">Why Qorvo?</h3>
+                                <img src='/-/media/images/qorvopublic/careers/jj_320x180.jpg?h=180&amp;w=320&amp;la=en&amp;hash=4751D7CCF3BA464A614DD61A1559AD526BE73F57' maxwidth='200' alt='' />
+                                <p>See the top reasons to work at Qorvo.</p>
+                                <a href='/careers/top-reasons-to-work-at-qorvo' class='btn white' >Learn More</a>
+                                
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+    </div>
+</nav>
+
+    <div class="content-wrap">
+        
+    <header class="t2-page-header">
+        <div style="" class="container-fluid page-header">
+            <div class="container-fluid page-header-no-bg">
+                    <!-- breadcrumbs.mixin.jade -->
+    <!-- Start breadcrumbs-->
+    <div class="container">
+        <div class="row">
+            <div class="column twelve">
+                    <div class="breadcrumbs u-fs-6">&nbsp;</div>
+            </div>
+        </div>
+    </div>
+        <!-- End breadcrumbs-->
+
+
+
+                <div class="container">
+                    <div class="row">
+                        <div class="columns twelve">
+                            <h1>Terms of Use</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid page-header-content-holder read-more-container t2-read-more">
+                <div class="container">
+                    <div class="row">
+                        <div class="header-copy columns eight">
+                            <div class="rich-text">
+                                
+                            </div>
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+    <div class="container u-section-container">
+        
+<style>
+    h5
+    {
+        margin-bottom:5px;
+        margin-top:10px;
+    }
+    h4
+    {
+        margin-bottom:5px;
+        margin-top:15px;
+    }
+</style>
+<div class="rich-text">
+    <p><em>Last Modified: December 30, 2022</em></p>
+    <p>
+        Qorvo Inc. and all of its affiliates, subsidiaries, and related entities (listed here) ( collectively "Qorvo" or "we" or "us" or “our”) agrees to offer access to websites that it owns and operates (collectively and individually referred to as the "Website" herein) that link to this that link to these terms and conditions for the use of our websites (“Terms of Use”) in exchange for the opportunity to inform individuals about Qorvo, our products, our company, and our affiliates. The User of the Website (“User” or “you” or “your”) accepts the conditions set forth in these Terms of Use and the Privacy Notice, which is available at <a href="https://www.qorvo.com/privacy-notice" target="_blank">www.qorvo.com/privacy-notice</a> and incorporated into these Terms of Use by reference. By using the site, you agree to all terms included therein.
+    </p>
+    
+
+    <h4 class="u-not-uppercase dinn-medium">Acceptance of the Terms of Use</h4>
+    <p>
+        You accept and consent to this contract whereby you are permitted to use the Website in exchange for the use being governed by these Terms of Use and the Privacy Notice. For Users residing in jurisdictions which require explicit or affirmative consent for the terms of the Privacy Notice to be effective, you will be given the opportunity to affirmatively consent to such policies when you arrive on the Website, unless we are relying on a lawful basis other than that affirmative consent for processing Personal Data. In the event a User in such a jurisdiction declines to provide affirmative or explicit consent to the Privacy Notice but chooses to continue use of the Website, we will continue to process your personal information under these Terms of Use and consistent with the Privacy Notice: 1) to the minimum extent necessary to display the Website, 2) as appropriate in our legitimate interest, and/or 3) to perform any contract, including these Terms of Use. However, some functionality may be impeded in the event you decline to consent to the terms of the Privacy Notice.
+    </p>
+    <p>
+        We may also collect information on the commercial entity you work for or are operating on behalf of, and you understand and agree that such collection and any uses of such data that are not reasonably associated with you as a natural person are outside the scope of this Privacy Notice. 
+    </p>
+
+
+    <h4 class="u-not-uppercase dinn-medium">Changes to the Terms of Use and Website</h4>
+    <p>
+        We may revise and update these Terms of Use from time to time in our sole discretion. All changes are effective immediately when we post them and apply to all access to and use of the Website thereafter. 
+    </p>
+    <p>
+        Your continued use of the Website following the posting of revised Terms of Use means that you accept and agree to the changes. You are expected to and agree to check this page each time you access this Website so you are aware of any changes, as they are binding on you. You can determine the last point at which these Terms of Use or the Privacy Notices were updated by the date at the top of each respective page.
+    </p>
+    <p>
+        Additionally, we may update the content on this Website from time to time, but its content is not necessarily complete or up-to-date. Any of the material on the Website may be out of date at any given time, and we are under no obligation to update such material.
+    </p>
+
+
+    <h4 class="u-not-uppercase dinn-medium">Accessing Website</h4>
+    <p>
+        We reserve the right to withdraw or amend this Website, and any service or material we provide on the Website, in our sole discretion without notice. We will not be liable if for any reason all or any part of the Website is unavailable at any time or for any period. From time to time, we may restrict access to some parts of the Website, or the entire Website, to users, including registered users.
+    </p>
+    <p>
+        You are responsible for both:
+    </p>
+    <ul>
+        <li>Making all arrangements necessary for you to have access to the Website.</li>
+        <li>Ensuring that all persons who access the Website through your internet connection are aware of these Terms of Use and comply with them.</li>
+    </ul>
+    <p>
+        To access some of the parts that make up the Website or some of the products and services the Website offers, you may be asked to create an account and/or provide registration, purchase order details or other information. Creating such an account may also be required for certain purchases. Upon creation, these Terms of Use and the Privacy Notice shall be deemed an integrated part of the contract entered into to allow creation of the account.
+    </p>
+    <p>
+        If you choose—or are provided with—login credentials in the creation of an account (e.g. usernames and initial passwords), it is your responsibility to maintain the security of such credentials. You hereby waive all claims and damages which may arise from unauthorized disclosures of or access to such credentials. You hereby expressly agree to compensate Qorvo for all costs reasonably traceable to breaches in your responsibility to maintain the security of such credentials.
+    </p>
+
+
+    <h4 class="u-not-uppercase dinn-medium">Acceptable Uses of Website</h4>
+    <p>
+        You are permitted to use the Website for legitimate and legal purposes that do not infringe on Qorvo’s business interests or intellectual property rights.
+    </p>
+
+
+    <h4 class="u-not-uppercase dinn-medium">User Contribution and Content Standards</h4>
+    <p>
+        The Website may now or in the future contain message boards, chat rooms, forums, bulletin boards, comments, contact forms and other interactive features that allow users to post, submit, publish, display, or transmit content to the Website or other users or persons, including to members of Qorvo’s workforce, (hereinafter, "post") content or materials (collectively, "User Contributions") on or through the Website.
+    </p>
+    <p>
+        All User Contributions must comply with the content standards set out in these Terms of Use. These content standards include the requirement that User Contributions must be decent, as determined in Qorvo’s sole discretion. Qorvo may remove any User Contributions from the Website for any reason or no reason. 
+    </p>
+    <p>
+        Any User Contribution you post to the site will be considered non-confidential and non-proprietary. By providing any User Contribution on the Website, you grant us and our licensees, successors, and assigns the right to use, reproduce, modify, perform, display, distribute, and otherwise disclose to third parties any such material for any purpose.
+    </p>
+    <p>
+        You represent and warrant that:
+    </p>
+    <ul>
+        <li>You own or control all rights in and to the User Contributions and have the right to grant the license granted above to us and our licensees, successors, and assigns.</li>
+        <li>All of your User Contributions do and will comply with these Terms of Use.</li>
+    </ul>
+    <p>
+        You understand and acknowledge that you are responsible for any User Contributions you submit or contribute, and you, not Qorvo, have full responsibility for such content, including its legality, reliability, accuracy, and appropriateness.
+    </p>
+    <p>
+        We are not responsible or liable to any third party for the content or accuracy of any User Contributions posted by you or any other user of the Services.
+    </p>
+
+
+    <h4 class="u-not-uppercase dinn-medium">Website Monitoring</h4>
+    <p>
+        We have the right to:
+    </p>
+    <ul>
+        <li>Remove or refuse to post any User Contributions for any or no reason in our sole discretion.</li>
+        <li>Take any action with respect to any User Contribution that we deem necessary or appropriate in our sole discretion, including if we believe that such User Contribution violates the Terms of Use, including the content standards, infringes any intellectual property right or other right of any person or entity, threatens the personal safety of users of the Website or the public, or could create liability for Qorvo.</li>
+        <li>Disclose your identity or other information about you to any third party—when permitted by law and our Privacy Notice—who claims that material posted by you violates their rights, including their intellectual property rights or their right to privacy.</li>
+        <li>Take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of the Website.</li>
+        <li>Terminate or suspend your access to all or part of the Services for any or no reason, including without limitation, any violation of these Terms of Use.</li>
+    </ul>
+    <p>
+        Without limiting the foregoing, we have the right to cooperate fully with any law enforcement authorities or court order requesting or directing us to disclose the identity or other information of anyone posting any materials on or through the Services. YOU WAIVE AND HOLD HARMLESS QORVO FROM ANY CLAIMS ARISING FROM YOUR USE OF THE WEBSITE RESULTING FROM ANY ACTION TAKEN BY QORVO DURING, OR TAKEN AS A CONSEQUENCE OF, INVESTIGATIONS BY EITHER QORVO OR LAW ENFORCEMENT AUTHORITIES.
+    </p>
+    <p>
+        However, we do not undertake to review material before it is posted on the Services, and cannot ensure prompt removal of objectionable material after it has been posted. Accordingly, we assume no liability for any action or inaction regarding transmissions, communications, or content provided by any user or third party. We have no liability or responsibility to anyone for performance or nonperformance of the activities described in this section.
+    </p>
+
+
+    <h4 class="u-not-uppercase dinn-medium">Commercial Terms</h4>
+    <p>
+        If you wish to purchase any product or service made available through the Website (each such purchase, a "Transaction"), you may be asked to supply certain information relevant to your Transaction including, without limitation, information about your method of payment (such as your payment card number and expiration date), your billing address, and your shipping information. YOU REPRESENT AND WARRANT THAT YOU HAVE THE LEGAL RIGHT TO USE ANY PAYMENT CARD(S) OR OTHER PAYMENT METHOD(S) UTILIZED IN CONNECTION WITH ANY TRANSACTION. By submitting such information, you grant to Qorvo the right to provide such information to third parties for purposes of facilitating the completion of Transactions initiated by you or on your behalf. Verification of information may be required prior to the acknowledgment or completion of any Transaction. 
+    </p>
+    <p>
+        <b><u>AFTER SUBMITTING AN ORDER THROUGH THE WEBSITE, YOU WAIVE ALL RIGHT TO WITHDRAW THE ORDER AS SOON AS PROCESSING OF YOUR ORDER BEGINS. ORDERS THROUGH THE WEBSITE ARE NOT FINAL UNTIL THE PRODUCTS HAVE SHIPPED. UPON THE SHIPPING OF THE PRODUCTS, ALL RIGHT, TITLE, AND INTEREST IN THE PRODUCTS SHALL PASS TO THE BUYER.</u></b>
+    </p>
+    <p>
+        In the event the Transaction is associated with a separate purchase order or purchase agreement, the terms of that purchase order or purchase agreement shall control and have priority over the terms in this section of the Terms of Use.
+    </p>
+    
+
+    <h4 class="u-not-uppercase dinn-medium">Indemnification</h4>
+    <p>
+        You agree to defend, indemnify, and hold harmless Qorvo, its affiliates, licensors, and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or relating to your violation of these Terms of Use or your use of the Website, including, but not limited to, your User Contributions, any use of the Website's content, services, and products other than as expressly authorized in these Terms of Use, or your use of any information obtained from the Website.
+    </p>
+
+
+    <h4 class="u-not-uppercase dinn-medium">Indemnification</h4>
+    <p>
+        The Website and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by Qorvo, its licensors (if any), or other providers of such material (if any) and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+    </p>
+    <p>
+        These Terms of Use permit you to use the Website for legitimate and legal purposes that do not infringe on Qorvo’s business interests or intellectual property rights. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store, or transmit any of the material on our Website, except as follows: 
+    </p>
+    <ul>
+        <li>
+            Your computer may temporarily store copies of such materials in RAM incidental to your accessing and viewing those materials.
+        </li>
+        <li>
+            You may store files that are automatically cached by your Web browser for display enhancement purposes.
+        </li>
+        <li>
+            You may print or download one copy of a reasonable number of pages of the Website for your own legitimate and legal purposes that do not infringe on Qorvo’s business interests or intellectual property rights and not for further reproduction, publication, or distribution.
+        </li>
+        <li>
+            If we provide social media features with certain content, you may take such actions as are enabled by such features.
+        </li>
+    </ul>
+    <p>
+        You must not:
+    </p>
+    <ul>
+        <li>
+            Modify copies of any materials from this site.
+        </li>
+        <li>
+            Delete or alter any copyright, trademark, or other proprietary rights notices from copies of materials from this site.
+        </li>
+        <li>
+            Use any illustrations, photographs, video or audio sequences, or any graphics separately from the accompanying text.
+        </li>
+    </ul>
+    <p>
+        You must not access or use for any purposes any part of the Website or any services or materials available through the Website except for your legitimate and legal purposes that do not infringe on Qorvo’s business interests or intellectual property rights. 
+    </p>
+    <p>
+        No right, title, or interest in or to the Website or any content on the Website is transferred to you, and all rights not expressly granted are reserved by Qorvo. Any use of the Website not expressly permitted by these Terms of Use is a breach of these Terms of Use and may violate copyright, trademark, and other laws.
+    </p>
+
+
+
+    <h4 class="u-not-uppercase dinn-medium">Trademarks</h4>
+    <p>
+        All rights to the Qorvo name, the Qorvo logo, and all related names, logos, product and service names, designs and slogans, and brand names belong to Qorvo, its affiliates, or licensors. You must not use such marks without Qorvo's prior written consent. All other names, logos, product and service names, designs, and slogans on this Website are the trademarks of their respective owners.
+    </p>
+
+    
+    <h4 class="u-not-uppercase dinn-medium">Reliance on Information Posted</h4>
+    <p>
+        No oral or written information or advice given by Qorvo or its distributors, agents, representatives or employees will operate as a warranty or guarantee. We take reasonable efforts to make sure that the information posted on the Website is complete and correct. However, we make no promise that the information on the Website is complete or correct at any given time. Documents and information posted on the Website represent an effort by Qorvo to offer convenience for the User. For the guaranteed complete and correct version of our filings with the Securities and Exchange Commission, please email us at Investor.Relations@qorvo.com or use the Electronic Data Gathering, Analysis, and Retrieval (aka EDGAR) system on www.sec.gov. For all other related inquiries or to solicit the most complete and accurate information, please reach out to us using our Contact Us form at <a href="https://www.qorvo.com/contact-us" target="_blank">www.qorvo.com/contact-us</a>
+    </p>
+
+
+
+    <h4 class="u-not-uppercase dinn-medium">Links from Website</h4>
+    <p>
+        If the Website contains links to other sites and resources provided by third parties, these links are provided for your convenience only. We have no control over the contents of those sites or resources—including no control over the terms of use and privacy conditions of those sites—and accept no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third-party websites linked to this Website, you do so entirely at your own risk.
+    </p>
+
+
+
+    <h4 class="u-not-uppercase dinn-medium">Governing Law</h4>
+    <p>
+        All matters relating to the Website and these Terms of Use shall be governed by and construed according to the laws of the State of Delaware, U.S.A., without regard to laws concerning conflicts of laws. The Parties each submit themselves to the exclusive jurisdiction and venue of the State or Federal courts in Wilmington, Delaware, U.S.A. for the purpose of any action in connection with this Agreement. Each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law. The provisions of the United Nations Convention on Contracts for the International Sale of Goods shall not apply to this Agreement.
+    </p>
+
+
+
+    <h4 class="u-not-uppercase dinn-medium">Limitation of Liability</h4>
+    <p>
+        TO THE FULLEST EXTENT PROVIDED BY LAW, IN NO EVENT WILL QORVO, ITS AFFILIATES, OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS, OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE WEBSITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE WEBSITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT, OR OTHERWISE, EVEN IF FORESEEABLE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.. THE FOREGOING DOES NOT AFFECT ANY LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+    </p>
+
+
+
+    <h4 class="u-not-uppercase dinn-medium">Disclaimer of Warranties</h4>
+    <p>
+        YOU ACKNOWLEDGE AND AGREE THE SERVICES, INCLUDING WITHOUT LIMITATION, ANY PRODUCTS, GOODS, SERVICES, WEBSITES, OR ANY OTHER INFORMATION PROVIDED THEREIN ARE PROVIDED “AS IS” AND “AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, EXCEPT AS MAY BE PROVIDED IN ANY SEPARATE PURCHASE ORDER OR PURCHASE AGREEMENT. NEITHER QORVO NOR ANY PERSON ASSOCIATED WITH QORVO MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY, OR AVAILABILITY OF THE SERVICES. WITHOUT LIMITING THE FOREGOING, NEITHER QORVO NOR ANYONE ASSOCIATED WITH QORVO REPRESENTS OR WARRANTS THAT THE SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE WILL BE ACCURATE, RELIABLE, ERROR-FREE, OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR WEBSITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR THAT THE SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS.
+    </p>
+    <p>
+        TO THE FULLEST EXTENT PROVIDED BY LAW, QORVO HEREBY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, AND FITNESS FOR PARTICULAR PURPOSE.
+    </p>
+    <p>
+        YOU WILL NOT HOLD QORVO OR ITS THIRD-PARTY SERVICE PROVIDERS, LICENSORS AND SUPPLIERS, AS APPLICABLE, RESPONSIBLE FOR ANY LOSS OR DAMAGE THAT RESULTS FROM YOUR ACCESS TO OR USE OF THE SERVICES, INCLUDING WITHOUT LIMITATION ANY LOSS OR DAMAGE TO ANY OF YOUR COMPUTERS OR DATA, AS THE SERVICES MAY CONTAIN BUGS, ERRORS, PROBLEMS OR OTHER LIMITATIONS.
+    </p>
+    <p>
+        THE FOREGOING DOES NOT AFFECT ANY WARRANTIES THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
+    </p>
+
+
+
+    <h4 class="u-not-uppercase dinn-medium">Waiver and Severability</h4>
+    <p>
+        No waiver by Qorvo of any term or condition set out in these Terms of Use, the Privacy Notice, or any purchase order or purchase agreement shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of Qorvo to assert a right or provision under these Terms of Use shall not constitute a waiver of such right or provision.
+    </p>
+    <p>
+        If any provision of these Terms of Use is held by a court or other tribunal of competent jurisdiction to be invalid, illegal, or unenforceable for any reason, such provision shall be limited to the minimum extent such that the remaining provisions of the Terms of Use will continue in full force and effect and if no such limitation is possible, such provision will be eliminated.
+    </p>
+
+
+
+    <h4 class="u-not-uppercase dinn-medium">Communications</h4>
+    <p>
+        All feedback, comments, requests for technical support, and other communications relating to the Services should be directed to privacy@qorvo.com. 
+    </p>
+
+</div>
+
+    </div>
+
+    </div>
+
+    <!-- -BEGIN Footer-->
+<footer class="pf u-fs-6">
+    <div class="container">
+        <div class="row pf-tr pf-ql">
+<div class="columns two">
+<h5 class="dinn-medium">Products</h5>
+<ul>
+    <li> <a href="/products">Products</a></li>
+    <li> <a href="/applications">Applications</a></li>
+    <li> <a href="/products/new-products">New Products</a></li>
+    <li><a href="/about-us/corporate-social-responsibility/our-program">Product Compliance</a></li>
+</ul>
+</div>
+<div class="columns two">
+<h5 class="dinn-medium">News &amp; Resources</h5>
+<ul>
+    <li> <a href="/newsroom">Newsroom</a></li>
+    <li> <a href="/newsroom/trade-shows">Events &amp; Trade Shows</a></li>
+    <li> <a href="/support/subscription-center">Subscription Center</a></li>
+    <li> <a href="/design-hub">Design Hub</a></li>
+    <li> <a href="/design-hub/blog">Blog</a></li>
+    <li> <a href="/design-hub/brochures">Brochures</a></li>
+    <li> <a href="/design-hub/videos">Videos</a></li>
+</ul>
+</div>
+<div class="columns two">
+<h5 class="dinn-medium">Company</h5>
+<ul>
+    <li> <a href="/about-us">About Us</a></li>
+    <li> <a href="/about-us/quality">Quality</a></li>
+    <li> <a href="/about-us/locations">Locations</a></li>
+    <li> <a href="/innovation">Innovation</a></li>
+    <li> <a href="/careers">Careers</a></li>
+    <li> <a href="http://ir.qorvo.com/">Investors</a></li>
+    <li> <a href="http://cn.qorvo.com/">简体中文</a></li>
+</ul>
+</div>
+<div class="columns two">
+<h5 class="dinn-medium">Support</h5>
+<ul>
+    <li> <a href="/support/how-to-buy">How to Buy</a></li>
+    <li> <a href="/support">Support</a></li>
+    <li> <a href="/portals">Portals</a></li>
+    <li> <a href="/contact-us">Contact Us</a></li>
+</ul>
+</div>
+<div class="four columns pf-sc">
+<h5 class="dinn-medium">Stay Connected</h5>
+<ul class="horizontal-ul u-fs-7 a-hover-white pf-sc-1">
+    <li class="pf-so-ico"> <a href="http://www.facebook.com/Qorvo" class="icon-facebook"></a></li>
+    <li class="pf-so-ico"> <a href="https://twitter.com/QorvoInc" class="icon-twitter"></a></li>
+    <li class="pf-so-ico"><a href="https://www.linkedin.com/company/qorvo" class="icon-linkedin"></a></li>
+    <li class="pf-so-ico"> <a href="https://www.youtube.com/c/qorvo" class="icon-youtube"></a></li>
+    <!-- <li class="pf-so-ico"> <a href="https://plus.google.com/+Qorvo" class="icon-google-plus"></a></li> -->
+</ul>
+<ul class="horizontal-ul u-fs-7 a-hover-white pf-sc-2">
+    <li>   <a href="http://visitor.r20.constantcontact.com/d.jsp?llr=r4iqtwrab&amp;p=oi&amp;m=1118523892721&amp;sit=8h8onccjb&amp;f=7264ba9a-f10b-49ca-ad31-7157f3ecf4c1"><em class="icon-newsletter"></em><span class="pf-sc-2-ico" style="font-size: 10px;">Newsletter Sign Up  </span></a></li>
+    <li><a href="/rss-feeds"><em class="icon-rss u-f-med-1"></em><span style="margin-left: 9px; font-size: 10px;">RSS</span></a></li>
+</ul>
+</div>
+</div>
+<div class="row pf-br">
+	<div class="nine columns pf-sl u-fs-8">
+		<ul class="horizontal-ul">
+			<li>
+				<a href="/site-map">Site
+				Map</a>
+			</li>
+			<li>
+				<a href=
+				"mailto:webmaster@qorvo.com?subject=Website%20Feedback">Feedback</a>
+			</li>
+			<li>
+				<a href="/terms-of-use">Terms
+				of Use</a>
+			</li>
+			<li>
+				<a href="/privacy-notice">Privacy
+				Notice</a>
+			</li>
+			<li>
+				<a href=
+				"/customer-terms">Customer
+				Terms</a>
+			</li>
+			<li>
+				<a href="/about-us/corporate-social-responsibility/our-program">Supply
+				Chain Transparency</a>
+			</li>
+		</ul>
+	</div>
+	<div class="three columns pf-c u-text-right u-fs-7">
+		<span>&copy; 2024 Qorvo, Inc <span class="pipe">|</span></span> 1-833-641-3810
+	</div>
+</div>    </div>
+</footer>
+<!-- -END footer-->
+
+    <div id="privacy-popup" title="" style="display: none;">
+        <div class="holder">
+            <div class="left">
+                <p>Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our <a class="hidelink" href="/privacy-notice">Privacy Notice</a>.</p>
+            </div>
+            <div class="right">
+                <button id="privacy-popup-accept" class="btn primary">Accept</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="covid-popup" title="" style="display: none;">
+        <div class="holder">
+            <div class="left">
+                <p><a href="/feature/covid-19-update" class="hidelink">COVID-19 Update</a></p>
+            </div>
+            <div class="right">
+                <button id="covid-popup-dismiss" class="btn primary">Dismiss</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/bundles/js-common?v=Ncr2YIw7Ga3757UW2PUKvvQfe_NON8tfSdMFqFbYI5I1"></script>
+
+    <script type='text/javascript' src='/bundles/js-global-search?v=8b6FaK5SEfj7iAvrxGsfT2nIew4E7pwOf1XPKZh7Lwc1?v=0'></script>
+<script type='text/javascript' src='/bundles/js-mobile-global-search?v=ot2DuhH8S8oeL2gD_QNmhVzVs-JGsQcevwF5z5yRT5Y1?v=0'></script>
+
+    <script type="text/javascript">
+        
+    </script>
+
+        <!-- LinkedIn Insight Tag -->
+        <script type="text/javascript">
+        _linkedin_partner_id = "1041756";
+        window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+        window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+        </script><script type="text/javascript">
+        (function(){var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);})();
+        </script>
+        <noscript>
+        <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=1041756&fmt=gif" />
+        </noscript>
+        <!-- /LinkedIn Insight Tag -->
+</body>
+</html>

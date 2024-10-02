@@ -1,0 +1,1769 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        !function () {
+            if ('PerformanceLongTaskTiming' in window) {
+                var g = window.__tti = { e: [] };
+                g.o = new PerformanceObserver(function (l) { g.e = g.e.concat(l.getEntries()) });
+                g.o.observe({ entryTypes: ['longtask'] })
+            }
+        }();
+    </script>
+    <script>
+        // set build number as JS variable for tracking performance over time in mPulse
+        const buildVer = "1.0.9040.43130";
+        const lang = "en";
+    </script>
+    <!-- Do not execute any jQuery code until jQuery is loaded.
+     If you need to add jQuery code in components or inline, wrap it in
+    jQuery(function () { ..code goes here...  }); and it will execute after jQuery is loaded-->
+    <script>
+        window.jQueryQ = window.jQueryQ || [];
+        window.$ = window.jQuery = function () {
+            window.jQueryQ.push(arguments);
+        };
+    </script>
+    <script>
+      /** Global vars shared between Masthead and Search **/
+      /** Search Token generated from server by calling Coveo search API **/
+      const searchToken = "eyJhbGciOiJIUzI1NiJ9.eyJ2OCI6dHJ1ZSwidG9rZW5JZCI6Inh4a3V3M2M1eTI1YnJ2eDRjN2plbnJjZmlxIiwib3JnYW5pemF0aW9uIjoibmV0YXBwcHJvZHVjdGlvbm81czN2emtwIiwidXNlcklkcyI6W3sidHlwZSI6IlVzZXIiLCJuYW1lIjoiYW5vbnltb3VzQGNvdmVvLmNvbSIsInByb3ZpZGVyIjoiRW1haWwgU2VjdXJpdHkgUHJvdmlkZXIifV0sInJvbGVzIjpbInF1ZXJ5RXhlY3V0b3IiXSwiaXNzIjoiU2VhcmNoQXBpIiwiZXhwIjoxNzI3OTE0NDE3LCJpYXQiOjE3Mjc4MjgwMTd9.bxCgzuoqeVNz5VJit_N6lFyMBrjBRSvCu5ErKCl8HGM";
+      let cond = false;
+      /** Org ID differnt production **/
+      var organizationId;
+      if (cond) {
+          organizationId = "netappproductiono5s3vzkp";
+      } else {
+          organizationId = "netappproductiono5s3vzkp";
+      }
+      const envOrgId = organizationId;
+    </script>
+   
+    <script>
+        //remove heading tags from cookie banner
+        const cookieLaw = {};
+        cookieLaw.replaceTag = function (e) { let t = e, r = t.id, a = e.nodeName, n = document.createElement("div"); switch ("ot-category-title" === r && (n = document.createElement("span")), n.setAttribute("role", "heading"), a) { case "H2": n.setAttribute("aria-level", "2"); break; case "H3": n.setAttribute("aria-level", "3"); break; case "H4": n.setAttribute("aria-level", "4") }if (t && t.hasAttributes()) { let s = t.attributes; for (let o = s.length - 1; o >= 0; o--)n.setAttribute(s[o].name, s[o].value) } t && t.firstChild && (n.appendChild(t.firstChild), t.parentNode.replaceChild(n, t)) };
+        function OptanonWrapper() {
+            let e = document.querySelectorAll("#onetrust-banner-sdk h1, #onetrust-banner-sdk h2, #onetrust-banner-sdk h3, #onetrust-banner-sdk h4, #onetrust-banner-sdk h5"), t = document.querySelectorAll("#onetrust-pc-sdk h1, #onetrust-pc-sdk h2, #onetrust-pc-sdk h3, #onetrust-pc-sdk h4, #onetrust-pc-sdk h5"); e.forEach(e => { cookieLaw.replaceTag(e) }), t.forEach(e => { cookieLaw.replaceTag(e) });
+            if (typeof OnetrustActiveGroups !== 'undefined' && !OnetrustActiveGroups.includes("C0002")) {
+                window.disableCoveoAnalytics = true;
+            }
+            if (typeof nOneTrustDrift !== 'undefined') {
+                nOneTrustDrift.loadDriftBasedOnOneTrustConsent();
+            }
+        }
+	</script>
+    <!--conditional rendering for Coveo -->
+        <link rel="stylesheet" href="/static/css/coveo-searchbox.min.css?v=638634239620000000">
+    <link rel="stylesheet" href="/static/css/critical.min.css?v=638634239620000000">
+    <link rel="stylesheet" href="/static/css/non-critical.min.css?v=638634239620000000" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="/static/css/utility.min.css?v=638634239620000000">
+        <style>
+        /* This style is required to show 'Chat' beneath 'Cookie notification' */
+        .drift-conductor-item {
+            z-index: 999 !important;
+        }
+        /* OneTrust styles for heading updates */
+        #onetrust-pc-sdk #ot-category-title {
+            color: #000 !important;
+        }
+
+        #onetrust-pc-sdk .ot-accordion-layout .ot-cat-header {
+            color: #000 !important;
+        }
+    </style>
+    <!--<script defer>
+        const referrer = document.referrer;
+        
+        if(referrer.indexOf("netapp.com") > -1 && 
+            referrer.indexOf("www.netapp.com") === -1 && 
+            referrer.indexOf("signin.b2c.netapp.com") === -1 && 
+            lang == "en") {
+                window.location.href = "/silentSignInSignOut/SilentLogin";
+            }
+    </script>-->
+    <!-- OneTrust Cookies Consent Notice start for netapp.com -->
+        <script defer src="https://cdn.cookielaw.org/consent/72570c5c-fe30-465f-b0e0-b77f7fb4ae34/OtAutoBlock.js"></script>
+        <script defer src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" charset="UTF-8" data-domain-script="72570c5c-fe30-465f-b0e0-b77f7fb4ae34"></script>
+
+    <!-- OneTrust Cookies Consent Notice end for netapp.com -->
+    <script defer src="/static/js/jquery.min.js?v=638634239620000000"></script>
+    <script defer src="/static/js/lazy-load.min.js?v=638634239620000000"></script>
+    <script defer src="/static/js/a11y-dialog.min.js?v=638634239620000000"></script>
+    <script defer src="/static/js/hammer.min.js?v=638634239620000000"></script>
+    <script defer src="/static/js/index.min.js?v=638634239620000000"></script>
+            <script defer class="coveo-script" src="/static/js/coveo/CoveoJsSearch.Lazy.min.js"></script>
+        <script defer src="/static/js/load-drift.min.js?v=638634239620000000"></script>
+    <script defer src="/static/js/adobe-analytics.min.js?v=638634239620000000"></script>
+    <!-- Adobe DTM/Launch -->
+        <script defer src="//assets.adobedtm.com/60287eadf1ee/29b76ec16604/launch-145d1b654f79.min.js"></script>
+        
+    
+    
+    <script type="application/ld+json">
+    {
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "position": 1,
+      "@type": "ListItem",
+      "name": "Home",
+      "item": "https://www.netapp.com/"
+    },
+    {
+      "position": 2,
+      "@type": "ListItem",
+      "name": "Company",
+      "item": "https://www.netapp.com/company/"
+    },
+    {
+      "position": 3,
+      "@type": "ListItem",
+      "name": "Legal",
+      "item": "https://www.netapp.com/company/legal/"
+    },
+    {
+      "position": 4,
+      "@type": "ListItem",
+      "name": "Terms of Use"
+    }
+  ]
+};
+    </script>
+
+
+
+    <meta name="format-detection" content="telephone=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<!-- PageSeoMetadata View -->
+        <meta name="AssetType" content="Webpage" />
+    <meta name="ProgramTopic" content="Company" />
+    <meta name="pageNavigationOption" content="Breadcrumb" />
+    <meta name="inputTo" content="Site Map" />
+    <meta property="article:section" content="Company" />
+
+        <!-- PageSeoMetadata Partial View -->
+        <title >Terms of Use | NetApp</title>
+        <meta property="og:type" content="webPage" />
+        <meta property="og:locale" content="en-US" />
+        <meta name="description" content="The content on this site is not provided, reviewed, approved or endorsed by NetApp, Inc. (NetApp) and is provided solely as a convenience of our customers. All postings and use of the content on this site are subject to the Terms of Use of the site." />
+
+                
+        <meta property="og:description" content="The content on this site is not provided, reviewed, approved or endorsed by NetApp, Inc. (NetApp) and is provided solely as a convenience of our customers. All postings and use of the content on this site are subject to the Terms of Use of the site." />
+            <meta property="og:title" content="Terms of Use | NetApp" />
+            <meta property="og:image" content="https://www.netapp.com/media/Manufacturing-Social-Share-1024x512_tcm19-6490.jpg" />
+            <meta property="og:url" content="https://www.netapp.com/company/legal/terms-of-use/" />
+        <!-- Twitter tags -->
+        <meta name="twitter:card" content="summary_large_image" />
+
+        <meta name="twitter:title" content="Terms of Use | NetApp" />
+            <meta name="twitter:description" content="The content on this site is not provided, reviewed, approved or endorsed by NetApp, Inc. (NetApp) and is provided solely as a convenience of our customers. All postings and use of the content on this site are subject to the Terms of Use of the site." />
+            <!-- Twitter card image -->
+        <meta name="twitter:image" content="https://www.netapp.com/media/Manufacturing-Social-Share-1024x512_tcm19-6490.jpg" />
+
+        <meta name="twitter:image:alt" content="Manufacturing Social" />
+        <script type="application/ld+json">
+        {
+        "@context":"http://schema.org",
+        "@type":"WebPage",
+        "image": "https://www.netapp.com/media/Manufacturing-Social-Share-1024x512_tcm19-6490.jpg",
+        "author": "NetApp",
+        "datePublished": "2020-09-22T14:39:15.0000000Z",
+        "dateModified":"2022-08-15T18:02:11.0000000Z",
+        "mainEntityOfPage":{
+        "@type":"WebPage",
+        "@id":"https://www.netapp.com/company/legal/terms-of-use/"
+        },
+        "headline":"Terms of Use | NetApp",
+        "publisher":{
+        "@type":"Organization",
+        "name":"NetApp",
+        "logo":{
+        "@type":"ImageObject",
+        "url":"https://www.netapp.com/media/na_logo_black_rgb_reg-mark_tcm19-21014.jpg"
+        },
+        "description":"The content on this site is not provided, reviewed, approved or endorsed by NetApp, Inc. (NetApp) and is provided solely as a convenience of our customers. All postings and use of the content on this site are subject to the Terms of Use of the site. "
+        }
+        }
+</script>
+
+
+
+
+
+
+        <link rel="canonical" href="https://www.netapp.com/company/legal/terms-of-use/" />
+
+    
+    <link rel="alternate" href="https://www.netapp.com/company/legal/terms-of-use/" hreflang="en" />
+    <link rel="alternate" href="https://www.netapp.com/company/legal/terms-of-use/" hreflang="x-default" />
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="6FSMF-C9TB6-XLEBP-V5VVN-JCRY5",function(){function e(){if(!r){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.appendChild(e),r=!0}}function t(e){r=!0;var n,t,a,i,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",i=(a.frameElement||a).style,i.width=0,i.height=0,i.border=0,i.display="none",o.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void 0;",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=14,window.BOOMR.url=n+"6FSMF-C9TB6-XLEBP-V5VVN-JCRY5";var i=document.currentScript||document.getElementsByTagName("script")[0],o=i.parentNode,r=!1,d=document.createElement("link");if(d.relList&&"function"==typeof d.relList.supports&&d.relList.supports("preload")&&"as"in d)window.BOOMR.snippetMethod="p",d.href=window.BOOMR.url,d.rel="preload",d.as="script",d.addEventListener("load",e),d.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!r)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.appendChild(d);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="epadkmyxgqvnczx4zckq-f-4806df102-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"85238","ak.ai":parseInt("158315",10),"ak.ol":"0","ak.cr":10,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"1660d7cf","ak.r":42313,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"35.192.53.0","ak.cport":33080,"ak.gh":"23.52.41.209","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727842453","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==BU/PkLwcjrjZuxDmPUEMbgNW1CMU5Auma+SrhdyY0OKta4+XX/o5jh2eE4FRrUFuIO52jAgY9fC2VewwVwOxNOXleAhqyFus17z7p8O08dcr32unuE0h8dLTau4HkNbEBlwFb+al5wqWGYITwPsismqOPPwNNrUY+jlMaKHI3Q1KIVre91hZmbyDCF//uYH0viSsCUm0/rK+vku18ZWiZCe0OK96gjWBQ5eg0v2LcuN4bM9mrxwr+6QCWO8VXtBKXmNk9kZwiMQ6v8GyIaZpkMiSZ3Po9uQtGME+Z/BHxOMovCVUJyRue86q2gOwN9UC+bYw8E6MarfOVfHSWJSMFTLAe8lfonkqnvnpVHtY9hSSoFf3XjNMyP32/U7l/3AD/2M2gd60ThUGOl01ZwBG+ndtFpSQiQDH/wGBZwpQ1iQ=","ak.pv":"645","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body >
+        <script>
+        ntapDevice = 'desktop';
+        ntapIsMobile = 'False';
+    </script>
+
+<n-page>
+        
+<n-notifications-region typeof="Region" resource="GlobalNotification">
+    
+<n-main-content-region typeof="Region" resource="Main">
+    <!-- ESB -->
+<style>
+  @media (min-width: 768px) {
+    .n-all-netapp n-secondary ul li a {
+        white-space: nowrap;
+    }
+  }
+</style>
+
+<script>
+$(function () {
+    // desktop
+    $('.n-account-dropdown--signed-out li:first-of-type n-xpm-text').html('Sign in to my account');
+$('.n-account-dropdown--signed-out n-button-group li:last-of-type').replaceWith(`<li style="flex-direction: column;"><p style="font-weight: normal;margin-top: 0;">Don't have an account?</p><a class="cta cta--button-outline" href="https://mysupport.netapp.com/site/user/registration" title="Create an account"><n-xpm-text>Create an account</n-xpm-text><svg aria-hidden="true"><use xlink:href="/static/images/sprite.svg#arrow_forward"></use></svg></a></li>`);
+    // mobile
+    $('n-universal-navigation-mobile-container a:first-of-type n-xpm-text').html('Sign in to my account');
+    $('n-universal-navigation-mobile-container .cta.cta--button-outline').replaceWith(`<span><p>Don't have an account?</p><a class="cta cta--button-outline" href="https://mysupport.netapp.com/site/user/registration" title="Create an account"><n-xpm-text>Create an account</n-xpm-text><svg aria-hidden="true"><use xlink:href="/static/images/sprite.svg#arrow_forward"></use></svg></a></span>`);
+});
+</script>
+<!-- ESB -->
+<script>
+var url = document.location.href;
+var heroBanner = $('n-hero-region n-hero');
+if(url.indexOf('/hybrid-cloud/redhat/openstack-private-cloud/') > -1 ||
+url.indexOf('/services/residency/') > -1 ||
+url.indexOf('/cyber-resilience/data-protection/storage-encryption/') > -1 ||
+url.indexOf('/data-management-solutions/') > -1 ||
+url.indexOf('/industries/automotive/') > -1 ||
+url.indexOf('/data-management/global-file-cache/') > -1 ||
+url.indexOf('/hybrid-cloud-storage-vendors/') > -1 ||
+url.indexOf('/data-storage/ef-series/') > -1 ||
+url.indexOf('/support-and-training/risk-free-renewal/specialist/') > -1 ||
+(url.indexOf('/services/support/active-iq/') > -1 && lang !== 'en') ||
+url.indexOf('/support-and-training/netapp-learning-services/learn-cloud/') > -1 ||
+url.indexOf('/aws/fsx-ontap/esg-white-paper/') > -1 ||
+url.indexOf('/data-management/ontap-data-management-software/') > -1 ||
+url.indexOf('/customers/st-lukes/') > -1 ||
+url.indexOf('/data-storage/aff-a-series/aff-a150/') > -1 ||
+url.indexOf('/data-management/ontap-data-management-software/') > -1 ||
+url.indexOf('/google-cloud/cyber-resilience/') > -1 ||
+url.indexOf('/sap-solutions/sap-insider-promo/') > -1 ||
+url.indexOf('/data-management/oncommand-insight/') > -1 ||
+url.indexOf('/cyber-resilience/data-protection/ontap-security/') > -1 ||
+(lang !== 'en' && (url.indexOf('/artificial-intelligence/ai-in-government/') > -1 || 
+url.indexOf('/artificial-intelligence/big-data-analytics/') > -1 || 
+url.indexOf('/data-storage/nvme/') > -1) || 
+url.indexOf('/data-storage/flexpod/cooperative-support/') > -1 ||
+url.indexOf('/dell-vs-netapp/future-data-storage/') > -1 ||
+url.indexOf('/data-storage/aff-a-series/aff-a400/') > -1 ||
+url.indexOf('/data-storage/e-series/e5700/') > -1 ||
+url.indexOf('/data-storage/aff-a-series/aff-a800/') > -1 ||
+url.indexOf('/azure/azure-netapp-files/database-migration/') > -1 ||
+url.indexOf('/company/history/') > -1 ||
+url.indexOf('/artificial-intelligence/ai-in-medicine/') > -1 ||
+url.indexOf('/services/keystone/') > -1 ||
+url.indexOf('/google-cloud/vmware-strategy-session/') > -1 ||
+url.indexOf('/aws/cyber-resilience/') > -1 ||
+url.indexOf('/google-cloud/cloud-strategy/') > -1 ||
+url.indexOf('/aws/summit/') > -1 ||
+url.indexOf('/esg/sustainability/') > -1 ||
+url.indexOf('/artificial-intelligence/ai-for-financial-services/') > -1 ||
+url.indexOf('/cyber-resilience/data-governance/') > -1 ||
+url.indexOf('/data-storage/fas/netapp-fas500f/') > -1 ||
+url.indexOf('/company/accolades/') > -1 ||
+url.indexOf('/dell-vs-netapp/oracle-database/') > -1 ||
+url.indexOf('/cloud-services/data-tiering/') > -1 ||
+url.indexOf('hybrid-cloud/service-provider-infrastructure/') > -1 ||
+url.indexOf('/google-cloud/windows/') > -1 ||
+url.indexOf('/google-cloud/sap/') > -1 ||
+url.indexOf('/company/executive-briefing-center/') > -1 ||
+url.indexOf('/data-storage/e-series/e2800/') > -1 ||
+url.indexOf('/cyber-resilience/data-protection/data-backup-recovery/') > -1 ||
+url.indexOf('/data-management/santricity/') > -1 ||
+url.indexOf('/pure-storage-vs-netapp/future-data-storage/') > -1 ||
+url.indexOf('/data-storage/fas/netapp-fas2750-fas2820/') > -1 ||
+url.indexOf('/esg/diversity-inclusion-belonging/') > -1 ||
+url.indexOf('/partners/azure/') > -1 ||
+url.indexOf('/cyber-resilience/data-protection/data-backup-recovery/snapmirror-data-replication/') > -1 ||
+url.indexOf('/google-cloud/sap/') > -1 ||
+url.indexOf('/data-storage/all-flash-leadership-award/') > -1 ||
+url.indexOf('/data-management/virtual-infrastructure-management/') > -1 ||
+url.indexOf('/cyber-resilience/data-protection/snapcenter/') > -1 ||
+url.indexOf('/data-storage/aff-a-series/aff-a900/') > -1 ||
+url.indexOf('/azure/vmware-strategy-session/') > -1 ||
+url.indexOf('/data-storage/fas/netapp-fas9500-fas8700-fas8300/') > -1 ||
+url.indexOf('/data-management/workflow-automation/') > -1 ||
+url.indexOf('/partners/google-cloud/') > -1 ||
+url.indexOf('/industries/game-development/') > -1 ||
+url.indexOf('/industries/manufacturing/') > -1 ||
+url.indexOf('/cloud-services/cloud-erp/') > -1 ||
+url.indexOf('/esg/sustainable-tech/') > -1 ||
+url.indexOf('/cloud-services/cloud-volumes-edge-cache/') > -1 ||
+url.indexOf('/aws/migration/') > -1 ||
+url.indexOf('/partners/aws/') > -1 ||
+url.indexOf('/es/industries/healthcare/telehealth/') > -1 ||
+url.indexOf('/ja/industries/financial-services/') > -1 ||
+url.indexOf('/industries/financial-services/hybrid-cloud-in-banking/') > -1 ||
+url.indexOf('/ja/support-and-training/risk-free-renewal/') > -1 ||
+url.indexOf('/partners/resources/') > -1 ||
+url.indexOf('/cyber-resilience/data-protection/disaster-recovery/') > -1 ||
+url.indexOf('/company/careers/early-in-career-program/') > -1 ||
+url.indexOf('/ja/data-storage/all-flash-storage-form/') > -1 ||
+url.indexOf('/ja/customers/yamaguchi-university/') > -1) ||
+(url.indexOf('/customers') > -1 && typeof heroBanner === 'object' && heroBanner.length > 0)) {
+ const heroComponentStyle = document.createElement('style');
+ heroComponentStyle.type = 'text/css';
+ heroComponentStyle.textContent = '@media (min-width:1400px){n-hero:not(.n-hero-animated),n-hero:not(.n-hero-animated) n-hero-image-container {align-items:normal !important;display:grid !important;justify-content:normal !important;min-height:0px !important;}n-hero:not(.n-hero-animated) n-grid-container {width: auto !important;}}';
+ document.head.appendChild(heroComponentStyle);
+}
+</script>
+<!-- ESB -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var elements = document.querySelectorAll('n-esb-video-player, n-esb-video-player-full-width');
+    elements.forEach(function(element) {
+        var videos = element.querySelectorAll('video');
+        videos.forEach(function(video) {
+            video.removeAttribute('loop');
+        });
+    });
+});
+</script>
+<!-- ESB -->
+<style>
+.n-mega-menu__primary-navigation ul { margin-left: 0;}
+ul.n-mega-menu__secondary-navigation { gap: 0}
+</style>
+
+</n-main-content-region>
+
+    
+</n-notifications-region>
+    
+<n-header-region id="nHeaderRegion">
+        <n-universal-navigation>
+            
+    <nav aria-label="Universal navigation">
+        <ul>
+            <li>
+                
+
+    <button id="sign-in-button" href="#" target="_blank" rel="noopener noreferrer" title="Sign in">
+        <svg aria-hidden="true">
+            <use xlink:href="/static/images/sprite.svg#account16"></use>
+        </svg>
+        <span>Sign in</span>
+    </button>
+    <!-- START: Signed-out dropdown -->
+    <div class="n-account-dropdown n-account-dropdown--signed-out" n-theme="n-light-bg--green-cta">
+        <header>Welcome!</header>
+        <p>An account will enable you to access:</p>
+          <ul>
+            <li>
+              <svg class="icon--check" aria-hidden="true">
+                <use xlink:href="/static/images/sprite.svg#check"></use>
+              </svg>
+              NetApp support's essential features
+            </li>
+            <li>
+              <svg class="icon--check" aria-hidden="true">
+                <use xlink:href="/static/images/sprite.svg#check"></use>
+              </svg>
+              NetApp communities
+            </li>
+            <li>
+              <svg class="icon--check" aria-hidden="true">
+                <use xlink:href="/static/images/sprite.svg#check"></use>
+              </svg>
+              NetApp training
+            </li>
+          </ul>
+        <n-button-group>
+            <ul>
+                <li>
+                    <a class="cta cta--button" href="/LoginEntity/SignIn" title="Sign in">
+                        <n-xpm-text>Sign in to my dashboard</n-xpm-text>
+                        <svg aria-hidden="true">
+                            <use xlink:href="/static/images/sprite.svg#arrow_forward"></use>
+                        </svg>
+                    </a>
+                </li>
+                        <li>
+                            <a class="cta cta--button-outline" href="https://mysupport.netapp.com/site/user/registration" title="Create an account">
+                                <n-xpm-text>Create an account</n-xpm-text>
+                                <svg aria-hidden="true">
+                                    <use xlink:href="/static/images/sprite.svg#arrow_forward"></use>
+                                </svg>
+                            </a>
+                        </li>
+            </ul>
+        </n-button-group>
+    </div>
+    <!-- END: Signed-out dropdown -->
+    <!-- START: Signed-in dropdown -->
+    <div class="n-account-dropdown n-account-dropdown--signed-in" n-theme="n-light-bg--green-cta">
+        <header>NetApp account</header>
+        <ul>
+                    <li>
+                        <svg class="icon--account" aria-hidden="true">
+                            <use xlink:href="/static/images/sprite.svg#universal_netapp"></use>
+                        </svg>
+                        <a href="/account/">NetApp dashboard</a>
+                    </li>
+            <li>
+                <svg class="icon--sign-out" aria-hidden="true">
+                    <use xlink:href="/static/images/sprite.svg#sign_out"></use>
+                </svg>
+                <a href="/LoginEntity/SignOut">Sign out</a>
+            </li>
+        </ul>
+    </div>
+    <!-- END: Signed-in dropdown -->
+
+            </li>
+            <li>
+                
+    
+    
+
+    <li>
+        <button rel="noopener noreferrer" title="English">
+            <svg aria-hidden="true">
+                <use xlink:href="/static/images/sprite.svg#language16"></use>
+            </svg>
+            <span>English</span>
+        </button>
+        <!-- START - Shared language selector dropdown content partial -->
+        <div class="n-language-select">
+            <header>Language</header>
+                <nav>
+                    <ul>
+                                <li>
+                                    <a href="/company/legal/terms-of-use/">English</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.netapp.com/de/">Deutsch</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.netapp.com/es/">Espa&#241;ol</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.netapp.com/fr/">Fran&#231;ais</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.netapp.com/it/">Italiano</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.netapp.com/pt/">Portugu&#234;s</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.netapp.com/ja/">日本語</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.netapp.com/ko/">한국어</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.netapp.com/zh-hans/">简体中文</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.netapp.com/zh-hant/">繁體中文</a>
+                                </li>
+                    </ul>
+                </nav>
+                            <div class="n-ls-footer">
+                    <a href="/company/contact-us/"> See your global contacts</a>
+                </div>
+            </div>
+        <!-- END - Shared language selector dropdown content partial -->
+    </li>
+
+
+
+            </li>
+            <li>
+                
+    
+    <button href="#" target="#" rel="noopener noreferrer" title="All NetApp">
+    <svg aria-hidden="true">
+        <use xlink:href="/static/images/sprite.svg#grid16"></use>
+    </svg>
+    <span>All NetApp</span>
+</button>
+<!-- START - All NetApp dropdown content partial -->
+<div class="n-all-netapp">
+        <n-primary>
+            <ul>
+                        <li>
+                            <svg class="icon--universal_netapp" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#universal_netapp"></use></svg>
+
+                            <a href="https://www.netapp.com/" target="_blank" rel="noopener">NetApp.com</a>
+                        </li>
+                        <li>
+                            <svg class="icon--universal_blue_xp" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#universal_blue_xp"></use></svg>
+
+                            <a href="https://bluexp.netapp.com/" target="_blank" rel="nofollow noopener">BlueXP</a>
+                        </li>
+                        <li>
+                            <svg class="icon--logo_cloud_insights" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#logo_cloud_insights"></use></svg>
+
+                            <a href="/cloud-services/cloud-insights/" target="_blank" rel="noopener">Cloud Insights</a>
+                        </li>
+                        <li>
+                            <svg class="icon--universal_spot_io" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#universal_spot_io"></use></svg>
+
+                            <a href="https://spot.io/" target="_blank" rel="nofollow noopener">Spot.io</a>
+                        </li>
+            </ul>
+        </n-primary>
+            <n-secondary>
+                <div>
+                    <header>Learn</header>
+                        <ul>
+                                    <li><a href="https://mysupport.netapp.com/" target="_blank" rel="nofollow noopener">Support</a></li>
+                                    <li><a href="/support-and-training/documentation/" target="_blank" rel="noopener">Documentation</a></li>
+                                    <li><a href="https://kb.netapp.com/" target="_blank" rel="nofollow noopener">Knowledge Base</a></li>
+                                    <li><a href="/support-and-training/netapp-learning-services/" target="_blank" rel="noopener">Learning Services</a></li>
+                        </ul>
+                </div>
+                <div>
+                    <header>Browse</header>
+                        <ul>
+                                    <li><a href="https://community.netapp.com/" target="_blank" rel="nofollow noopener">Community</a></li>
+                                    <li><a href="https://hwu.netapp.com/" target="_blank" rel="nofollow noopener">Hardware Universe</a></li>
+                                    <li><a href="https://partnerhub.netapp.com" target="_blank" rel="nofollow noopener">Partner Hub</a></li>
+                        </ul>
+                </div>
+        </n-secondary>
+</div>
+<!-- END - All NetApp dropdown content partial -->
+
+
+
+            </li>
+        </ul>
+    </nav>
+
+        </n-universal-navigation>
+
+    
+    
+
+    <div class="n-masthead-container" >
+        <!-- START n-masthead -->
+        <div class="n-masthead" data-n-hamburger-threshold="1340">
+
+            <!-- ESB -->
+    
+    <div class="n-masthead__property-mark">
+      <a href="https://www.netapp.com/" title="NetApp">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1008 181.536" class="netapp-logo">
+  <path fill="#0067C5" d="M0 0v147.978h69.062V59.187h39.462v88.791h69.048V0z"></path>
+  <path fill="#010101" d="M256.498.021h29.832l68.817 91.481V.021h31.898v147.937h-27.477l-71.159-93.403v93.411h-31.913L256.498.021zm146.066 92.327c0 34.43 24.973 58.139 58.786 58.139 20.335 0 35.446-7.979 45.908-21.004l-18.23-16.16c-8.81 8.199-16.571 11.562-27.265 11.562-14.3 0-24.342-7.559-27.497-22.037h78.266c.244-2.926.43-5.898.43-8.377 0-31.912-17.207-61.078-54.743-61.078-32.749 0-55.641 26.438-55.641 58.516v.439m31.247-9.455c2.507-14.453 11.121-23.932 24.379-23.932 13.401 0 21.812 9.639 23.69 23.932h-48.069zm99.045 33.149c0 26.027 13.216 33.793 32.694 33.793 10.707 0 18.512-2.518 25.225-6.51v-25.621c-4.632 2.559-9.87 4.041-15.766 4.041-7.106 0-10.268-3.596-10.268-10.943V62.743h26.456v-27.27h-26.456V6.726h-31.888v28.748H519.44v27.27h13.427l.003 53.298m225.878 65.494h31.866v-48.26c7.558 9.008 18.054 16.783 35.046 16.783 26.678 0 51.229-20.564 51.229-58.154v-.4c0-37.566-24.962-58.117-51.229-58.117-16.562 0-27.271 7.738-35.046 18.235V35.477h-31.866v146.059zm86.194-89.629c0 18.889-12.576 31.086-27.469 31.086-14.896 0-27.271-12.402-27.271-31.086v-.402c0-18.679 12.388-31.05 27.271-31.05 14.893 0 27.469 12.371 27.469 31.05v.402m44.912 89.629h31.895v-48.26c7.543 9.008 18.045 16.783 35.066 16.783 26.627 0 51.186-20.564 51.186-58.154v-.4c0-37.566-24.961-58.117-51.186-58.117-16.584 0-27.297 7.738-35.066 18.235V35.477h-31.895v146.059zm86.265-89.629c0 18.889-12.619 31.086-27.52 31.086-14.855 0-27.271-12.402-27.271-31.086v-.402c0-18.679 12.412-31.05 27.271-31.05 14.899 0 27.52 12.371 27.52 31.05v.402m-377.165 56.056h32.938l13.438-32.975h58.239l13.524 32.975h33.666L689.376.006h-29.051l-61.371 147.957zm55.965-61.459l19.534-47.701 19.513 47.701h-39.047z"></path>
+</svg>
+
+        
+        <!-- <div class="n-masthead__property-moniker"><div>Support</div></div> -->
+      </a>
+    </div>
+    
+    <div class="n-masthead__search">
+      <div class="coveo-standalone-search-box">
+        <div id="standaloneSearchbox" data-pipeline="NetApp Marketing Search Pipeline" class="">
+          <div class='CoveoAnalytics' data-search-hub="NetApp Marketing Search Hub"></div>
+          <div class="coveo-search-section"></div>
+          <!-- Setting `data-enable-omnibox` and `data-enable-query-suggest-addon` to `true` is not necessary in version 2.x -->
+          <div class="CoveoSearchbox" data-enable-omnibox="true" data-enable-wildcards='true' data-trigger-query-on-clear='true' data-enable-query-syntax='true' role='search' data-placeholder="What are you looking for?"></div>
+        </div>
+      </div>
+    </div>
+    
+   
+
+            
+
+    <nav aria-label="Primary navigation">
+        <ul class="n-masthead__primary-navigation">
+            
+
+<li>
+    <a href="#">
+        <span role="heading" aria-level="1">
+Solutions &amp; Products        </span>
+        <svg class="icon mobile" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#arrow_forward"></use></svg>
+        <svg class="icon desktop" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#chevron_right"></use></svg>
+    </a>
+
+    <div class="n-mega-menu">
+        <a class="return-button" href="#" title="Solutions &amp; Products">
+            <svg class="icon back" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#arrow_back"></use></svg>
+            Solutions &amp; Products
+        </a>
+
+        <!--Embedded CTA List-->
+        <div class="n-mega-menu__primary-navigation">
+                        <section>
+                            
+
+    <div class="n-mega-menu__subsection-heading" role="heading" aria-level="2">Data Storage</div>
+    <ul>
+                    <li>
+                        <a href="/unified-storage/"  title="Unified Data Storage">
+                            <span role="heading" aria-level="3">Unified Data Storage</span><br>
+                            <span>Store any data for any workload anywhere</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/data-storage/"  title="Storage Systems">
+                            <span role="heading" aria-level="3">Storage Systems</span><br>
+                            <span>Modernize and simplify your storage environment</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/services/keystone/"  title="Storage as a Service">
+                            <span role="heading" aria-level="3">Storage as a Service</span><br>
+                            <span>Flexible pay-as-you-go consumption models</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/cloud-services/"  title="Public Clouds">
+                            <span role="heading" aria-level="3">Public Clouds</span><br>
+                            <span>Simplify your cloud management landscape</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                            <li class="n-mega-menu__small-item">
+                              <a href="/aws/" target = "_self" title="AWS">AWS</a>
+                            </li>
+                            <li class="n-mega-menu__small-item">
+                              <a href="/google-cloud/" target = "_self" title="Google Cloud">Google Cloud</a>
+                            </li>
+                            <li class="n-mega-menu__small-item">
+                              <a href="/azure/" target = "_self" title="Microsoft Azure">Microsoft Azure</a>
+                            </li>
+    </ul>
+
+                        </section>
+                        <section>
+                            
+
+    <div class="n-mega-menu__subsection-heading" role="heading" aria-level="2">Data Management</div>
+    <ul>
+                    <li>
+                        <a href="/intelligent-services/"  title="Intelligent Services">
+                            <span role="heading" aria-level="3">Intelligent Services</span><br>
+                            <span>Manage any storage, any cloud, anywhere</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/artificial-intelligence/"  title="Artificial Intelligence">
+                            <span role="heading" aria-level="3">Artificial Intelligence</span><br>
+                            <span>Enable efficient data collection and workloads</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/cyber-resilience/"  title="Cyber Resilience">
+                            <span role="heading" aria-level="3">Cyber Resilience</span><br>
+                            <span>Protect and secure your sensitive company data</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/data-management/"  title="Data Services">
+                            <span role="heading" aria-level="3">Data Services</span><br>
+                            <span>Maintain complete control over your data</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/devops-solutions/"  title="DevOps">
+                            <span role="heading" aria-level="3">DevOps</span><br>
+                            <span>Reduce friction, accelerate development and productivity</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/enterprise-applications/"  title="Enterprise Applications">
+                            <span role="heading" aria-level="3">Enterprise Applications</span><br>
+                            <span>Modernize and migrate apps, improve quality, reduce risk</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/infrastructure-workload-services/"  title="Infrastructure and Workload Services">
+                            <span role="heading" aria-level="3">Infrastructure and Workload Services</span><br>
+                            <span>Optimize performance, efficiency, and availability</span>
+                            <svg aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#"></use>
+                            </svg>
+                        </a>
+                    </li>
+    </ul>
+
+                        </section>
+        </div>
+        <!--Additional Links -->
+
+
+
+            <n-button-group>
+                    <ul class="n-mega-menu__secondary-navigation">
+                            <li>
+                            <a class="cta cta-text-link" href="/bluexp/" target = "_self" title="BlueXP">
+                                <n-xpm-text>BlueXP</n-xpm-text>
+                                <svg aria-hidden="true">
+                                    <use xlink:href="/static/images/sprite.svg#arrow_forward"></use>
+                                </svg>
+                            </a>
+                            </li>
+                            <li>
+                            <a class="cta cta-text-link" href="/storage-solutions/" target = "_self" title="View solutions">
+                                <n-xpm-text>View solutions</n-xpm-text>
+                                <svg aria-hidden="true">
+                                    <use xlink:href="/static/images/sprite.svg#arrow_forward"></use>
+                                </svg>
+                            </a>
+                            </li>
+                            <li>
+                            <a class="cta cta-text-link" href="/services/" target = "_self" title="View services">
+                                <n-xpm-text>View services</n-xpm-text>
+                                <svg aria-hidden="true">
+                                    <use xlink:href="/static/images/sprite.svg#arrow_forward"></use>
+                                </svg>
+                            </a>
+                            </li>
+                            <li>
+                            <a class="cta cta-text-link" href="/products-a-z/" target = "_self" title="View products A-Z">
+                                <n-xpm-text>View products A-Z</n-xpm-text>
+                                <svg aria-hidden="true">
+                                    <use xlink:href="/static/images/sprite.svg#arrow_forward"></use>
+                                </svg>
+                            </a>
+                            </li>
+                            <li>
+                            <a class="cta cta-text-link" href="/product-updates/" target = "_self" title="Product updates">
+                                <n-xpm-text>Product updates</n-xpm-text>
+                                <svg aria-hidden="true">
+                                    <use xlink:href="/static/images/sprite.svg#arrow_forward"></use>
+                                </svg>
+                            </a>
+                            </li>
+
+                    </ul>
+            </n-button-group>
+    </div>
+</li>
+<li class="n-masthead__simpler">
+
+    <a href="#">
+        <span role="heading" aria-level="1">
+            Explore NetApp
+        </span>
+            <svg class="icon mobile" aria-hidden="true"><use xlink:href=/static/images/sprite.svg#arrow_forward></use></svg>
+                    <svg class="icon desktop" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#chevron_right"></use></svg>
+    </a>
+    <div class="n-mega-menu">
+                <a class="return-button" href="#" title="Explore NetApp">
+                    <svg class="icon back" aria-hidden="true">
+                        <use xlink:href="/static/images/sprite.svg#arrow_back"></use>
+                    </svg>
+                    Explore NetApp
+                </a>
+
+        <div>
+                <section class="n-mega-menu__callout">
+                    <a href="/intelligent-data-infrastructure/" target = "_self" title="The intelligent data infrastructure company">
+
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" data-src="/media/IDI_tcm19-108413.jpg" />
+                        <span role="heading" aria-level="2">
+                            The intelligent data infrastructure company
+                            <svg aria-hidden="true">
+                                <use xlink:href=/static/images/sprite.svg#arrow_forward></use>
+                            </svg>
+                        </span>
+                        <p><p>Explore innovative solutions that transform how businesses harness the power of data.</p></p>
+                    </a>
+                </section>
+
+                <section class="n-mega-menu__primary-navigation">
+                        <div class="n-mega-menu__subsection-heading" role="heading" aria-level="2">Built for you</div>
+                            <ul class="n-mega-menu__simple-list">
+                                        <li>
+                                            <a href="/industries/"  title="Industries we serve">Industries we serve</a>
+                                        </li>
+                                        <li>
+                                            <a href="/customer-experience/"  title="Customer experience">Customer experience</a>
+                                        </li>
+                                        <li>
+                                            <a href="/netapp-intelligence/"  title="NetApp Intelligence">NetApp Intelligence</a>
+                                        </li>
+                                        <li>
+                                            <a href="/customers/#t=CustomerStories&sort=relevancy&f:@facet_language_mktg=[English]"  title="Success stories">Success stories</a>
+                                        </li>
+                            </ul>
+                        <div class="n-mega-menu__subsection-heading" role="heading" aria-level="2">About NetApp</div>
+                            <ul class="n-mega-menu__simple-list">
+                                        <li>
+                                            <a href="/company/"  title="Company story">Company story</a>
+                                        </li>
+                                        <li>
+                                            <a href="/partners/become-a-partner/"  title="Become a partner">Become a partner</a>
+                                        </li>
+                                        <li>
+                                            <a href="/company/contact-us/"  title="Contact NetApp">Contact NetApp</a>
+                                        </li>
+                            </ul>
+                </section>
+        </div>
+    </div>
+</li><li class="n-masthead__simpler">
+
+    <a href="#">
+        <span role="heading" aria-level="1">
+            How to Buy
+        </span>
+            <svg class="icon mobile" aria-hidden="true"><use xlink:href=/static/images/sprite.svg#arrow_forward></use></svg>
+                    <svg class="icon desktop" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#chevron_right"></use></svg>
+    </a>
+    <div class="n-mega-menu">
+                <a class="return-button" href="#" title="How to Buy">
+                    <svg class="icon back" aria-hidden="true">
+                        <use xlink:href="/static/images/sprite.svg#arrow_back"></use>
+                    </svg>
+                    How to Buy
+                </a>
+
+        <div>
+                <section class="n-mega-menu__callout">
+                    <a href="/services/keystone/" target = "_self" title="Storage as a service">
+
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" data-src="/media/netapp_keystone-main-nav_tcm19-113413.jpg" />
+                        <span role="heading" aria-level="2">
+                            Storage as a service
+                            <svg aria-hidden="true">
+                                <use xlink:href=/static/images/sprite.svg#arrow_forward></use>
+                            </svg>
+                        </span>
+                        <p>NetApp Keystone gives you flexible pay-as-you-go cloud consumption models whether you’re on-premises or in the cloud.</p>
+                    </a>
+                </section>
+
+                <section class="n-mega-menu__primary-navigation">
+                        <div class="n-mega-menu__subsection-heading" role="heading" aria-level="2">Ready to Try?</div>
+                            <ul class="n-mega-menu__simple-list">
+                                        <li>
+                                            <a href="/test-drives/"  title="Test drive a product">Test drive a product</a>
+                                        </li>
+                                        <li>
+                                            <a href="/how-to-buy/trials-test-drives/"  title="Start a free trial">Start a free trial</a>
+                                        </li>
+                            </ul>
+                        <div class="n-mega-menu__subsection-heading" role="heading" aria-level="2">Ready to buy?</div>
+                            <ul class="n-mega-menu__simple-list">
+                                        <li>
+                                            <a href="/forms/sales-contact/"  title="Contact sales">Contact sales</a>
+                                        </li>
+                                        <li>
+                                            <a href="/partners/partner-connect/#t=Partners&sort=%40partnerweight%20descending&layout=card&f:@facet_language_mktg=[English]"  title="Connect with a partner">Connect with a partner</a>
+                                        </li>
+                                        <li>
+                                            <a href="/how-to-buy/sales-terms-and-conditions/"  title="Sales and Services Ts &amp; Cs">Sales and Services Ts &amp; Cs</a>
+                                        </li>
+                            </ul>
+                </section>
+        </div>
+    </div>
+</li><li class="n-masthead__simpler">
+
+    <a href="#">
+        <span role="heading" aria-level="1">
+            Support &amp; Training
+        </span>
+            <svg class="icon mobile" aria-hidden="true"><use xlink:href=/static/images/sprite.svg#arrow_forward></use></svg>
+                    <svg class="icon desktop" aria-hidden="true"><use xlink:href="/static/images/sprite.svg#chevron_right"></use></svg>
+    </a>
+    <div class="n-mega-menu">
+                <a class="return-button" href="#" title="Support &amp; Training">
+                    <svg class="icon back" aria-hidden="true">
+                        <use xlink:href="/static/images/sprite.svg#arrow_back"></use>
+                    </svg>
+                    Support &amp; Training
+                </a>
+
+        <div>
+                <section class="n-mega-menu__callout">
+                    <a href="https://community.netapp.com/" target = "_self" title="Join our community">
+
+                            <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" data-src="/media/support--community_tcm19-76714.png" />
+                        <span role="heading" aria-level="2">
+                            Join our community
+                            <svg aria-hidden="true">
+                                <use xlink:href=/static/images/sprite.svg#arrow_forward></use>
+                            </svg>
+                        </span>
+                        <p>Get involved with the best community around. NetApp and customers helping each other find answers through discussion threads.</p>
+                    </a>
+                </section>
+
+                <section class="n-mega-menu__primary-navigation">
+                        <div class="n-mega-menu__subsection-heading" role="heading" aria-level="2">Get Help</div>
+                            <ul class="n-mega-menu__simple-list">
+                                        <li>
+                                            <a href="https://mysupport.netapp.com/"  title="Technical support">Technical support</a>
+                                        </li>
+                                        <li>
+                                            <a href="/services/support/"  title="Support services">Support services</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://netappgssc.service-now.com/csm/" target = "_blank" rel="noopener noreferrer" title="Keystone support">Keystone support</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://kb.netapp.com/"  title="Knowledge base">Knowledge base</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://mysupport.netapp.com/site/downloads/"  title="Downloads">Downloads</a>
+                                        </li>
+                            </ul>
+                        <div class="n-mega-menu__subsection-heading" role="heading" aria-level="2">Education &amp; Training</div>
+                            <ul class="n-mega-menu__simple-list">
+                                        <li>
+                                            <a href="/support-and-training/netapp-learning-services/"  title="Training &amp; certifications">Training &amp; certifications</a>
+                                        </li>
+                                        <li>
+                                            <a href="/support-and-training/documentation/"  title="Product documentation">Product documentation</a>
+                                        </li>
+                                        <li>
+                                            <a href="/developer/"  title="NetApp Developer">NetApp Developer</a>
+                                        </li>
+                            </ul>
+                </section>
+        </div>
+    </div>
+</li>
+        </ul>
+    </nav>
+
+
+<div role="navigation">
+        <n-universal-navigation-mobile-container role="navigation" aria-label="Secondary mobile navigation">
+            
+
+
+
+        <a class="cta" href="/account" title="Sign in">
+            <n-xpm-text>Sign in to my dashboard</n-xpm-text>
+            <svg aria-hidden="true">
+                <use xlink:href="/static/images/sprite.svg#arrow_forward"></use>
+            </svg>
+        </a>
+                <a class="cta cta--button-outline" href="https://mysupport.netapp.com/site/user/registration" title="Create an account">
+                    <n-xpm-text>Create an account</n-xpm-text>
+                    <svg aria-hidden="true">
+                        <use xlink:href="/static/images/sprite.svg#arrow_forward"></use>
+                    </svg>
+                </a>
+
+
+    <div class="n-language-selector-list-item">
+        <button id="n-language-selector-for-mobile" rel="noopener noreferrer" title="English">
+            <svg aria-hidden="true"><use xlink:href="/static/images/sprite.svg#language16"></use></svg>
+            <n-display-flex-align-center>
+                <span>English</span>
+                <svg class="icon--chevron-down" aria-hidden="true">
+                    <use xlink:href="/static/images/sprite.svg#chevron_down"></use>
+                </svg>
+            </n-display-flex-align-center>
+        </button>
+    </div>   
+
+        </n-universal-navigation-mobile-container>
+</div>
+
+
+
+
+
+
+
+<a class="CoveoSearchButton coveo-accessible-button" role="button" aria-label="Search" tabindex="0">
+    <span class="coveo-search-button"></span>
+</a>
+<a class="n-masthead__hamburger-button" href="#" title=Menu-title>
+    <span class="n-masthead__hamburger-button-text">Menu</span>
+    <div class="n-hamburger n-hamburger--squeeze">
+        <div class="n-hamburger-box">
+            <div class="n-hamburger-inner"></div>
+        </div>
+    </div>
+</a>
+
+
+
+            
+        </div>
+    </div>
+
+
+</n-header-region>
+
+
+
+    <n-main-content-region>
+        
+
+            
+    
+        
+    <n-breadcrumb class="breadcrumbs">
+        <nav aria-label="breadcrumbs">
+                    <a href="/company/legal/"><span>Legal</span></a>
+        </nav>
+    </n-breadcrumb>
+   
+
+
+<n-hero-region typeof="Region" resource="Hero">
+    
+
+<n-title  data-ntap-analytics-heading ="Analytics keyword" n-theme="n-light" n-theme--secondary="n-light" class="has-background-image" >
+
+        <n-hero-image-container>
+            <picture >
+                <source srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" media="(max-width: 767px)">
+<img src="/media/Legal_Page_Header_1880_264-1.jpg_tcm19-12213.jpg?v=69497" alt="abstract shapes on a blue background" fetchpriority="high" data-aspect="1.62" class="bynderlocal"/>            </picture>
+        </n-hero-image-container>
+
+    <n-grid-container n-theme="n-light">
+        <n-primary>
+
+            <n-content class="breadcrumb-active">
+                        <header>
+                            <h1 >Terms of use</h1>                        </header>
+            </n-content>
+        </n-primary>
+    </n-grid-container>
+</n-title>
+</n-hero-region>
+                        
+
+    <n-main-content-region typeof="Region" resource="OneColumn">
+        
+<n-prose n-layout="col-2"   >
+    
+        <n-prose-nav data-ntap-analytics-region="ProseNav">
+
+
+                <ul>
+                        <li >
+
+                        </li>
+                        <li >
+                                <a href="#changes">CHANGES</a>
+
+                        </li>
+                        <li >
+                                <a href="#generaluse">GENERAL USE</a>
+
+                        </li>
+                        <li >
+                                <a href="#usingthesiteandtheofferingsonthesite">USING THE SITE AND THE OFFERINGS ON THE SITE</a>
+
+                        </li>
+                        <li >
+                                <a href="#passwordrestrictedareasofthissite">PASSWORD RESTRICTED AREAS OF THIS SITE</a>
+
+                        </li>
+                        <li >
+                                <a href="#privacypolicy">PRIVACY POLICY</a>
+
+                        </li>
+                        <li >
+                                <a href="#linkstothird-partysites">LINKS TO THIRD-PARTY SITES</a>
+
+                        </li>
+                        <li >
+                                <a href="#submissions">SUBMISSIONS</a>
+
+                        </li>
+                        <li >
+                                <a href="#unauthorizedactivities">UNAUTHORIZED ACTIVITIES</a>
+
+                        </li>
+                        <li >
+                                <a href="#proprietaryrights">PROPRIETARY RIGHTS</a>
+
+                        </li>
+                        <li >
+                                <a href="#intellectualpropertyinfringement">INTELLECTUAL PROPERTY INFRINGEMENT</a>
+
+                        </li>
+                        <li >
+                                <a href="#disclaimerofwarranties">DISCLAIMER OF WARRANTIES</a>
+
+                        </li>
+                        <li >
+                                <a href="#limitationofliability">LIMITATION OF LIABILITY</a>
+
+                        </li>
+                        <li >
+                                <a href="#locallawsexportcontrol">LOCAL LAWS; EXPORT CONTROL</a>
+
+                        </li>
+                        <li >
+                                <a href="#feedback">FEEDBACK</a>
+
+                        </li>
+                        <li >
+                                <a href="#language">LANGUAGE</a>
+
+                        </li>
+                        <li >
+                                <a href="#general">GENERAL</a>
+
+                        </li>
+                        <li >
+                                <a href="#contactus">CONTACT US</a>
+
+                        </li>
+                </ul>
+
+        </n-prose-nav>
+    
+            <n-prose-main data-ntap-analytics-region="ProseMain">
+
+                
+
+
+<n-prose-segment  data-ntap-analytics-heading="Analytics keyword" >
+
+
+        <n-xpm-richtext >
+            <p>These Terms and Conditions (the “<strong>Terms</strong>”) are a legal contract between you and NetApp, Inc. its subsidiaries and affiliated companies (“NetApp”, “We”, or “Us”) and govern your use of websites and mobile applications offered by NetApp that include an authorized link to these Terms (collectively, the “<strong>Site</strong>”), all content, including the text, data, information, graphics, logos, photographs, videos and more (“<strong>Materials</strong>”) that NetApp may make available to you through the Site or other authorized distribution channels, and, unless different terms are present, any products or services (collectively, the “<strong>Offerings</strong>”) made available from NetApp through the Site. Unless otherwise specified, all references to “Site” includes Materials and Offerings. BY USING THIS SITE, YOU ARE AGREEING TO ALL THE TERMS; IF YOU DO NOT AGREE WITH ANY OF THESE TERMS, DO NOT ACCESS OR OTHERWISE USE THIS SITE OR ANY INFORMATION CONTAINED ON THIS SITE.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="changes" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >CHANGES</h2>
+
+        <n-xpm-richtext >
+            <p>NetApp may make changes to the Materials and Offerings offered on the Site at any time. NetApp can change, update, or add or remove provisions of these Terms, at any time by posting the updated Terms on this Site. By using this Site after NetApp has updated the Terms, you are agreeing to all the updated Terms; if you do not agree with any of the updated Terms, you must stop using the Site.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="generaluse" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >GENERAL USE</h2>
+
+        <n-xpm-richtext >
+            <p>By using this Site, you represent, acknowledge and agree that you are at least 18 years of age, or if you are under 18 years of age but are at least 13 years old (a “<strong>Minor</strong>”), that you are using the Site with the consent of your parent or legal guardian and that you have received your parent’s or legal guardian’s permission to use the Site and agree to its Terms. If you are a parent or legal guardian of a Minor, you hereby agree to bind the Minor to these Terms and to fully indemnify and hold harmless NetApp if the Minor breaches any of these Terms. If you are not at least 13 years old, you may not use the Site at any time or in any manner or submit any information to NetApp or the Site. The Site is not open or available to residents of any country that is subject to any U.S. sanctions or residents of any country where otherwise prohibited or restricted by law. The list of U.S. sanction countries as of August 2020 are Cuba, Iran, North Korea, Sudan, and Syria.</p>
+<p>The Materials NetApp provides through the Site is copyrighted and/or trademarked work of NetApp or NetApp’s third-party licensors and suppliers or other users of the Site.</p>
+<p>Subject to the terms and conditions of these Terms, and your compliance with these Terms, NetApp hereby grants you a limited, personal, non-exclusive and non-transferable license to use and to display the Materials and to use this Site solely for your non-commercial internal use. Except for the foregoing license, you have no other rights in the Site or any Materials and you may not modify, edit, copy, reproduce, create derivative works of, reverse engineer, alter, enhance or in any way exploit any of the Site or Materials in any manner.</p>
+<p>If you breach any of these Terms, the above license will terminate automatically and you must immediately destroy any downloaded or printed Materials.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="usingthesiteandtheofferingsonthesite" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >USING THE SITE AND THE OFFERINGS ON THE SITE</h2>
+
+        <n-xpm-richtext >
+            <p>You can simply view the Site. You need not register with NetApp to simply visit and view the Site.</p>
+<p>NetApp may provide Materials, Offerings or access via this Site under the terms of a separate agreement between you and NetApp, such as a license agreement or separate terms of sale and warranty terms (each, an “<strong>Other Agreement</strong>”). NetApp obligations regarding any Material, Offering, or access that it makes available to you under any Other Agreement shall be governed solely by the Other Agreement under which such Material, Offering, or access is provided and these Terms shall not be deemed or construed to alter the terms of any such Other Agreement. In the event that any Other Agreement governing such features conflict with these Terms, the Other Agreement will govern.</p>
+<p>If you are obtaining a mobile application from a distribution channel such as the Apple App Store or the Android Marketplace (“<strong>Distribution Channel</strong>”), your purchase, if the mobile application is paid, and any subscription, if the mobile application, or its Materials, requires a subscription, may be subject to additional terms of the Distribution Channel. These Terms are between you and Us only, and not with the Distribution Channel. We, rather than the Distribution Channel, are responsible for the mobile application and the Materials thereof. Neither NetApp nor the Distribution Channel has any obligation to furnish any maintenance and support services with respect to the mobile application unless otherwise specified in an Other Agreement.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="passwordrestrictedareasofthissite" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >PASSWORD RESTRICTED AREAS OF THIS SITE</h2>
+
+        <n-xpm-richtext >
+            <p>If you desire to register for an account with NetApp, you may be asked to submit personally identifiable information and choose a password (the “<strong>Password</strong>”). NetApp administrator shall have the right to approve or reject requested registration, in NetApp administrator’s sole discretion. NetApp reserves the right to terminate your access to this Site at any time, without notice, for any reason whatsoever. For information on how NetApp handles personal information, please review the NetApp Privacy Policy.</p>
+<p>You are responsible for maintaining the confidentiality of your Password, and you are responsible for all activities that occur using your Password. You agree not to share your Password, let others access or use your Password or do anything else that might jeopardize the security of your Password. You agree to notify NetApp if your Password on this Site is lost, stolen, if you are aware of any unauthorized use of your Password on this Site or if you know of any other breach of security in relation to this Site.</p>
+<p>All the information that you provide when registering for an account and otherwise through the Site must be accurate, complete and up to date. You may change, correct or remove any information from your account by logging into your account directly and making the desired changes.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="privacypolicy" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >PRIVACY POLICY</h2>
+
+        <n-xpm-richtext >
+            <p>Please review the NetApp Privacy Policy, which is available at <a title="SEO - Privacy Policy" href="/company/legal/privacy-policy">https://www.netapp.com/company/legal/privacy-policy/</a> (the “<strong>Privacy Policy</strong>”) which tells you about Our policies and practices for the collection, use, processing, storage, transfer, and disclosure of personal information that We may collect or observe.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="linkstothird-partysites" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >LINKS TO THIRD-PARTY SITES</h2>
+
+        <n-xpm-richtext >
+            <p>This Site may be linked to other web sites that are not NetApp sites (collectively, “<strong>Third-Party Sites</strong>”). NetApp is providing links to the Third-Party Sites to you as a convenience and is not obligated to review any third-party websites that you link to from the Site, does not control any of the Third-Party Sites and is not responsible for any of the Third-Party Sites. NetApp does not endorse or make any representations about such Third-Party Sites, any information, software, products, services, or materials found there or any results that may be obtained from using them. If you decide to access any of the Third-Party Sites linked from this Site, you do so entirely at your own risk and you shall be deemed subject to the privacy policies and terms and conditions for those Third-Party Sites. These Terms are not applicable to your use of any such Third-Party Sites.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="submissions" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >SUBMISSIONS</h2>
+
+        <n-xpm-richtext >
+            <p>You are responsible for the information, opinions, messages, comments, photos, videos, graphics, sounds and other content or material that you submit, upload, post or otherwise make available on or through the Site (each a “<strong>Submission</strong>”). You may not upload, post or otherwise make available on this Site any material protected by copyright, trademark, or any other proprietary right without the express permission of the owner of such copyright, trademark or other proprietary right owned by a third-party, and the burden of determining whether any material is protected by any such right is on you. You shall be solely liable for any damage resulting from any infringement of copyrights, trademarks, proprietary rights, violation of contract, privacy or publicity rights or any other harm resulting from any Submission that you make. You have full responsibility for each Submission you make, including its legality, reliability and appropriateness.</p>
+<p>Unless otherwise explicitly stated herein or in NetApp Privacy Policy, you agree that any Submission provided by you in connection with this Site is provided on a non-proprietary and non-confidential basis. You hereby grant to NetApp a non-exclusive, perpetual, irrevocable, royalty-free, fully paid-up, worldwide license (including the right to sublicense through multiple tiers) to use, reproduce, process, adapt, publicly perform, publicly display, modify, prepare derivative works, publish, transmit and distribute each of your Submissions, or any portion thereof, in any form, medium or distribution method now known or hereafter existing, known or developed, and authorize others to use the Submissions. We may modify or adapt your Submissions in order to transmit, display or distribute them over computer networks and in various media and/or make changes to the Submissions as necessary to conform and adapt them to any requirements or limitations of any networks, devices, services or media. NetApp agrees to use any personally identifiable information contained in any of your Submissions in accordance with NetApp’s Privacy Policy.</p>
+<p>You agree to pay for all royalties, fees, damages and any other monies owing any person by reason of any Submissions posted by you to or through this Site.</p>
+<p>When you provide Submissions you agree that those Submissions shall not be in violation of the “<strong>Unauthorized Activities</strong>” paragraph below. <strong>Those prohibitions do not require NetApp to monitor, police or remove any Submissions or other information submitted by you or any other user.</strong></p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="unauthorizedactivities" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >UNAUTHORIZED ACTIVITIES</h2>
+
+        <n-xpm-richtext >
+            <p>When using this Site and/or the Offerings, you agree not to:</p>
+<ul>
+<li>Defame, abuse, harass, stalk, threaten, or otherwise violate the legal rights (such as rights of privacy and publicity) of others.</li>
+<li>Use racially, ethnically, or otherwise offensive language.</li>
+<li>Use or access the Site in order to build a similar or competitive service or perform any performance or benchmark tests.</li>
+<li>Discuss or incite illegal activity.</li>
+<li>Use explicit/obscene language or solicit/post sexually explicit images (actual or simulated).</li>
+<li>Post anything that exploits children or minors or that depicts cruelty to animals.</li>
+<li>Post any copyrighted or trademarked materials without the express permission from the owner.</li>
+<li>Disseminate any unsolicited or unauthorized advertising, promotional materials, 'junk mail', 'spam', 'chain letters', 'pyramid schemes', or any other form of such solicitation.</li>
+<li>Use any robot, spider, scraper or other automated means to access the Site.</li>
+<li>Take any action that imposes an unreasonable or disproportionately large load on our infrastructure.</li>
+<li>Alter the opinions or comments posted by others on this Site.</li>
+<li>Post anything clearly false or misleading.</li>
+<li>Post anything unrelated to our business, products or services.</li>
+<li>Post anything contrary to our public image, goodwill or reputation, provided that the foregoing will not apply to you if applicable law prohibits such limitations and restrictions.</li>
+</ul>
+<p>This list of prohibitions provides examples and is not complete or exclusive. NetApp reserves the right to (a) terminate access to your account and your ability to post to this Site, and (b) refuse, delete or remove any Submissions; with or without cause and with or without notice, for any reason or no reason, or for any action that NetApp determines is inappropriate or disruptive to this Site or to any other user of this Site. <strong>NetApp may report to law enforcement authorities any actions that may be illegal, and any reports it receives of such conduct. When legally required or at NetApp’s discretion, NetApp will cooperate with law enforcement agencies in any investigation of alleged illegal activity on this Site or on the Internet.</strong></p>
+<p>Unauthorized use of any Materials or Offerings contained on this Site may violate certain laws and regulations.</p>
+<p>You agree to indemnify and hold NetApp and its officers, directors, employees, affiliates, agents, licensors, and business partners harmless from and against any and all costs, damages, liabilities, and expenses (including attorneys’ fees and costs of defense) NetApp or any other indemnified party suffers in relation to, arising from, or for the purpose of avoiding, any claim or demand from a third-party that your use of this Site or the use of this Site by any person using your user name and/or password (including without limitation, your participation in the posting areas or, your Submissions) violates any applicable law or regulation, or the copyrights, trademark rights or other rights of any third-party.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="proprietaryrights" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >PROPRIETARY RIGHTS</h2>
+
+        <n-xpm-richtext >
+            <p>NetApp is a trademark of NetApp in the United States. A non-exhaustive list of NetApp trademarks can be found at <a title="SEO: Trademarks" href="/company/legal/trademarks">http://www.netapp.com/TM</a>. These Terms do not grant you any license in or to NetApp trademarks or any NetApp owned intellectual property. Other trademarks, names and logos on this Site are the property of their respective owners.</p>
+<p>Unless otherwise specified in these Terms, all information and screens appearing on this Site, including documents, services, site design, text, graphics, logos, images and icons, as well as the arrangement thereof, are the sole property of NetApp. All rights not expressly granted herein are reserved. Except as otherwise required or limited by applicable law, any reproduction, distribution, modification, retransmission, or publication of any copyrighted material is strictly prohibited without the express written consent of the copyright owner or license.</p>
+<p>The Mobile Application software that is provided to you through the Site or a Distribution Channel and Offerings and related documentation are "Commercial Items", as that term is defined at 48 C.F.R. §2.101, consisting of "Commercial Computer Software" and "Commercial Computer Software Documentation", as such terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202, as applicable. Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, if You are a government entity, the Commercial Computer Software and Commercial Computer Software Documentation are being licensed to U.S. Government end users (a) only as Commercial Items and (b) with only those rights as are granted to all other end users pursuant to the terms and conditions herein. Unpublished-rights reserved under the copyright laws of the United States.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="intellectualpropertyinfringement" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >INTELLECTUAL PROPERTY INFRINGEMENT</h2>
+
+        <n-xpm-richtext >
+            <p>NetApp respects the intellectual property rights of others, and we ask you to do the same. NetApp may, at our discretion, terminate service and/or access to this Site for users who infringe the intellectual property rights of others. If you believe that your work is the subject of copyright infringement and/or trademark infringement and appears on our Site, please provide NetApp’s designated agent the following information:</p>
+<ul>
+<li>A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
+<li>Identification of the copyrighted and/or trademarked work claimed to have been infringed, or, if multiple works at a single online site are covered by a single notification, a representative list of such works at that site.</li>
+<li>Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled at the Site, and information reasonably sufficient to permit NETAPP to locate the material.</li>
+<li>Information reasonably sufficient to permit NETAPP to contact you as the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which you may be contacted.</li>
+<li>A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright and/or trademark owner, its agent, or the law.</li>
+<li>A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
+</ul>
+<p>NETAPP’s agent for notice of claims of copyright or trademark infringement on this Site can be reached as follows:</p>
+<p><a href="mailto:ng-dmca@netapp.com">ng-dmca@netapp.com</a></p>
+<p>Or send to:</p>
+<p>NetApp, Inc.
+<br />
+3060 Olsen Drive
+<br />
+San Jose, CA 95128</p>
+<p>We can also be reached by telephone at +1 877 263 8277</p>
+<p>Please also note that for copyright infringements under Section 512(f) of the Copyright Act, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.</p>
+<p><u>Submitting a DMCA Counter-Notification</u></p>
+<p>We will notify you that We have removed or disabled access to copyright-protected material that you provided, if such removal is pursuant to a valid DMCA take-down notice that We have received. If you receive such notice from us, you may provide Us with a counter-notification in writing to NetApp designated agent that includes all of the following information:</p>
+<ol>
+<li>Your physical or electronic signature;</li>
+<li>Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before it was removed or access to it was disabled;</li>
+<li>A statement from you under the penalty of perjury, that you have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled; and</li>
+<li>Your name, physical address and telephone number, and a statement that you consent to the jurisdiction of a court for the judicial district in which your physical address is located, or if your physical address is outside of the United States, for any judicial district in which NetApp may be located, and that you will accept service of process from the person who provided notification of allegedly infringing material or an agent of such person.</li>
+</ol>
+<p><u>Termination of Repeat Infringers</u></p>
+<p>NetApp reserves the right, in its sole discretion, to terminate the account or access of any user of Our Site and/or Offering who is the subject of repeated DMCA or other infringement notifications.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="disclaimerofwarranties" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >DISCLAIMER OF WARRANTIES</h2>
+
+        <n-xpm-richtext >
+            <p>Your use of this Site is at your own risk. The Materials have not been verified or authenticated in whole or in part by NetApp, and they may include inaccuracies or typographical or other errors. NetApp does not warrant the accuracy or timeliness of the Materials or Offerings contained on this Site. NetApp has no liability for any errors or omissions in the Materials or Offerings, whether provided by NetApp, our licensors or suppliers or other users.</p>
+<p>NETAPP, FOR ITSELF AND ITS LICENSORS, MAKES NO EXPRESS, IMPLIED OR STATUTORY REPRESENTATIONS, WARRANTIES, OR GUARANTEES IN CONNECTION WITH THIS SITE, THE OFFERINGS, OR ANY MATERIALS RELATING TO THE QUALITY, SUITABILITY, TRUTH, ACCURACY OR COMPLETENESS OF ANY INFORMATION, OR MATERIAL CONTAINED OR PRESENTED ON THIS SITE. UNLESS OTHERWISE EXPLICITLY STATED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS SITE, OFFERINGS, MATERIALS AND ANY INFORMATION CONTAINED OR PRESENTED ON THIS SITE IS PROVIDED TO YOU ON AN “AS IS,” “AS AVAILABLE” AND “WHERE-IS” BASIS WITH NO WARRANTY OF IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF THIRD-PARTY RIGHTS. NETAPP DOES NOT PROVIDE ANY WARRANTIES AGAINST VIRUSES, SPYWARE OR MALWARE THAT MAY BE INSTALLED ON YOUR COMPUTER.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="limitationofliability" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >LIMITATION OF LIABILITY</h2>
+
+        <n-xpm-richtext >
+            <p>NETAPP SHALL NOT BE LIABLE TO YOU FOR ANY DAMAGES RESULTING FROM YOUR DISPLAYING, COPYING, OR DOWNLOADING ANY MATERIALS OR OFFERINGS TO OR FROM THIS SITE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL NETAPP BE LIABLE TO YOU FOR ANY INDIRECT, EXTRAORDINARY, EXEMPLARY, PUNITIVE, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA, REVENUE, PROFITS, USE OR OTHER ECONOMIC ADVANTAGE) HOWEVER ARISING, EVEN IF NETAPP KNOWS THERE IS A POSSIBILITY OF SUCH DAMAGE. IN NO EVENT WILL COMPANY’S LIABILITY EXCEED THE GREATER OF $1,000.00 AND THE AMOUNTS YOU PAY THE COMPANY FOR USE OF, OR IN CONNECTION WITH, THE SITE OR OFFERINGS.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="locallawsexportcontrol" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >LOCAL LAWS; EXPORT CONTROL</h2>
+
+        <n-xpm-richtext >
+            <p>NetApp controls and operates this Site from its headquarters in the United States of America and the Materials and Offerings may not be appropriate or available for use in other locations. If you use this Site outside the United States of America, you are responsible for following applicable local laws. You will not ship, transfer, or export any Offerings or Materials into any country or use the Offerings or Materials in any manner prohibited by the United States Export Administration Act or any other export laws, restrictions, or regulations (collectively, “<strong>Export Laws</strong>”). You represent and warrant that you are not a citizen of, and are not located within, a country that is subject to a U.S. Government embargo, and that you are not otherwise prohibited under the Export Laws from receiving the Offerings or Materials.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="feedback" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >FEEDBACK</h2>
+
+        <n-xpm-richtext >
+            <p>If you send or transmit any communications, comments, questions, suggestions, or related materials to NetApp, whether by letter, e-mail, telephone, or otherwise (collectively, “<strong>Feedback</strong>”), suggesting or recommending changes to the Site, Materials, or Offerings, including, without limitation, new features or functionality relating thereto, all such Feedback is, and will be treated as, non-confidential and non-proprietary. Except as prohibited by applicable law, you hereby assign all right, title, and interest in, and NetApp is free to use, without any attribution or compensation to you, any ideas, know-how, concepts, techniques, or other intellectual property and proprietary rights contained in the Feedback, whether or not patentable, for any purpose whatsoever, including but not limited to, developing, manufacturing, having manufactured, licensing, marketing, and selling, directly or indirectly, products and services using such Feedback. Where the foregoing assignment is prohibited by law, you hereby grant Us an exclusive, transferable, worldwide, royalty-free, fully paid up license (including the right to sublicense) to use and exploit all Feedback as We may determine in our sole discretion. Notwithstanding the foregoing, you understand and agree that NetApp is not obligated to use, display, reproduce, or distribute any such ideas, know-how, concepts, or techniques contained in the Feedback, and you have no right to compel such use, display, reproduction, or distribution.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="language" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >LANGUAGE</h2>
+
+        <n-xpm-richtext >
+            <p>The Parties hereto have expressly required that these Terms and all documents and notices relating thereto be drafted in the English language. Any other language translation is provided as a convenience only. In the case of any inconsistency or discrepancy between the English version and its translation into any other language, the English version shall prevail.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="general" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >GENERAL</h2>
+
+        <n-xpm-richtext >
+            <p>NetApp prefers to advise you if We feel you are not complying with these Terms and to recommend any necessary corrective action. However, certain violations of these Terms, as determined by NetApp, may result in immediate termination of your access to this Site without prior notice to you. The Federal Arbitration Act, California state law and applicable U.S. federal law, without regard to the choice or conflicts of law provisions, will govern these Terms. Foreign laws do not apply. Any disputes relating to these Terms or this Site will be heard in the courts located in Santa Clara County in the State of California. If any of these Terms is found to be inconsistent with applicable law, then such term shall be interpreted to reflect the intentions of the parties, and no other terms will be modified. NetApp’s failure to enforce any of these Terms is not a waiver of such term. These Terms are the entire agreement between you and NetApp and supersede all prior or contemporaneous negotiations, discussions or agreements between you and NetApp about this Site. The proprietary rights, disclaimer of warranties, representations made by you, indemnities, limitations of liability and general provisions shall survive any termination of these Terms.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+<n-prose-segment id="contactus" data-ntap-analytics-heading="Analytics keyword" >
+
+        <h2   >CONTACT US</h2>
+
+        <n-xpm-richtext >
+            <p>If you have any questions about these Terms or otherwise need to contact NetApp for any reason, you can reach us at https://www.netapp.com/forms/site-feedback/.</p>
+        </n-xpm-richtext>
+
+
+
+</n-prose-segment>
+            </n-prose-main>
+</n-prose>
+
+    </n-main-content-region>
+            </n-main-content-region>
+    <n-footer-region>
+    
+<n-main-content-region typeof="Region" resource="Main">
+    
+
+
+<n-footer-new-design role="contentinfo">
+    <n-footer-upper-container>
+        <n-footer-logo-container>
+            <div class="n-footer-logo">
+                <svg width="117" height="22" xmlns="http://www.w3.org/2000/svg">
+                    <g fill="#FFF" fill-rule="evenodd">
+                        <path d="M113.198 10.983v-.05c0-2.23-1.484-3.71-3.24-3.71-1.752 0-3.213 1.48-3.213 3.71v.05c0 2.233 1.461 3.714 3.213 3.714 1.756 0 3.24-1.456 3.24-3.714zm-10.16-6.745h3.758v1.93c.914-1.253 2.176-2.18 4.127-2.18 3.09 0 6.031 2.458 6.031 6.946v.05c0 4.49-2.891 6.947-6.03 6.947-2.004 0-3.24-.928-4.128-2.007v5.767h-3.759V4.238zM28.432.002h3.513l8.107 10.932V.002h3.758v17.68h-3.238l-8.38-11.163V17.68h-3.76zM54.98 9.906c-.22-1.707-1.21-2.86-2.79-2.86-1.56 0-2.574 1.133-2.87 2.86h5.66zm-9.343 1.129v-.052c0-3.836 2.695-6.994 6.553-6.994 4.423 0 6.45 3.485 6.45 7.297 0 .3-.023.653-.05 1.003h-9.221c.373 1.73 1.557 2.634 3.24 2.634 1.261 0 2.174-.402 3.213-1.38l2.149 1.93c-1.234 1.556-3.015 2.508-5.411 2.508-3.981 0-6.923-2.833-6.923-6.946zM60.986 13.866V7.497h-1.581v-3.26h1.581V.806h3.755v3.433h3.118v3.26h-3.118v5.743c0 .877.374 1.305 1.213 1.305.69 0 1.309-.175 1.855-.48v3.061c-.792.478-1.71.778-2.97.778-2.297 0-3.853-.928-3.853-4.039M97.749 10.983v-.05c0-2.23-1.484-3.71-3.237-3.71-1.755 0-3.213 1.48-3.213 3.71v.05c0 2.233 1.458 3.714 3.213 3.714 1.753 0 3.237-1.456 3.237-3.714zM87.592 4.238h3.756v1.93c.915-1.253 2.174-2.18 4.128-2.18 3.092 0 6.032 2.458 6.032 6.946v.05c0 4.49-2.892 6.947-6.032 6.947-2.001 0-3.24-.928-4.128-2.007v5.767h-3.756V4.238zM79.962 10.335l-2.298-5.697-2.3 5.697h4.598zM76 0h3.42l7.232 17.681h-3.967l-1.593-3.94h-6.86l-1.583 3.94h-3.88L76.001 0zM0 .002v17.68h8.133V7.073h4.648V17.68h8.133V.002z" />
+                    </g>
+                </svg>
+            </div>
+        </n-footer-logo-container>
+        <n-footer-content-container>
+            <section class="n-footer-primary">
+                <div class="n-footer-logo">
+                    <svg width="117" height="22" xmlns="http://www.w3.org/2000/svg">
+                        <g fill="#FFF" fill-rule="evenodd">
+                            <path d="M113.198 10.983v-.05c0-2.23-1.484-3.71-3.24-3.71-1.752 0-3.213 1.48-3.213 3.71v.05c0 2.233 1.461 3.714 3.213 3.714 1.756 0 3.24-1.456 3.24-3.714zm-10.16-6.745h3.758v1.93c.914-1.253 2.176-2.18 4.127-2.18 3.09 0 6.031 2.458 6.031 6.946v.05c0 4.49-2.891 6.947-6.03 6.947-2.004 0-3.24-.928-4.128-2.007v5.767h-3.759V4.238zM28.432.002h3.513l8.107 10.932V.002h3.758v17.68h-3.238l-8.38-11.163V17.68h-3.76zM54.98 9.906c-.22-1.707-1.21-2.86-2.79-2.86-1.56 0-2.574 1.133-2.87 2.86h5.66zm-9.343 1.129v-.052c0-3.836 2.695-6.994 6.553-6.994 4.423 0 6.45 3.485 6.45 7.297 0 .3-.023.653-.05 1.003h-9.221c.373 1.73 1.557 2.634 3.24 2.634 1.261 0 2.174-.402 3.213-1.38l2.149 1.93c-1.234 1.556-3.015 2.508-5.411 2.508-3.981 0-6.923-2.833-6.923-6.946zM60.986 13.866V7.497h-1.581v-3.26h1.581V.806h3.755v3.433h3.118v3.26h-3.118v5.743c0 .877.374 1.305 1.213 1.305.69 0 1.309-.175 1.855-.48v3.061c-.792.478-1.71.778-2.97.778-2.297 0-3.853-.928-3.853-4.039M97.749 10.983v-.05c0-2.23-1.484-3.71-3.237-3.71-1.755 0-3.213 1.48-3.213 3.71v.05c0 2.233 1.458 3.714 3.213 3.714 1.753 0 3.237-1.456 3.237-3.714zM87.592 4.238h3.756v1.93c.915-1.253 2.174-2.18 4.128-2.18 3.092 0 6.032 2.458 6.032 6.946v.05c0 4.49-2.892 6.947-6.032 6.947-2.001 0-3.24-.928-4.128-2.007v5.767h-3.756V4.238zM79.962 10.335l-2.298-5.697-2.3 5.697h4.598zM76 0h3.42l7.232 17.681h-3.967l-1.593-3.94h-6.86l-1.583 3.94h-3.88L76.001 0zM0 .002v17.68h8.133V7.073h4.648V17.68h8.133V.002z" />
+                        </g>
+                    </svg>
+                </div>
+                        <div class="n-footer-item n-footer-item-left-align">
+                            <div class="n-footer-label-container">
+                                <div class="n-footer-label">Website</div>
+                                <div class="n-footer-label-divider"></div>
+                                <div class="n-footer-label-mark"></div>
+                            </div>
+                            <ul class="n-footer-content">
+                                        <li  >
+                                            <a href="/industries/" target="_self" >
+                                                Industries
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/customers/" target="_self" >
+                                                Customer stories
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/how-to-buy/" target="_self" >
+                                                How to buy
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="https://spot.io/" target="_self" >
+                                                Spot by NetApp
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/products-a-z/" target="_self" >
+                                                Products A-Z
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/product-updates/#t=ProductUpdates&amp;sort=%40publish_date_mktg%20descending" target="_self" >
+                                                Product Updates
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+                        <div class="n-footer-item">
+                            <div class="n-footer-label-container">
+                                <div class="n-footer-label">Support</div>
+                                <div class="n-footer-label-divider"></div>
+                                <div class="n-footer-label-mark"></div>
+                            </div>
+                            <ul class="n-footer-content">
+                                        <li  >
+                                            <a href="/support-and-training/" target="_self" >
+                                                Support &amp; training
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="https://kb.netapp.com/" target="_self" >
+                                                Knowledge base
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/knowledge-center/" target="_self" >
+                                                Knowledge center
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/support-and-training/documentation/" target="_self" >
+                                                Documentation
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="https://community.netapp.com/" target="_self" >
+                                                Community
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+                        <div class="n-footer-item">
+                            <div class="n-footer-label-container">
+                                <div class="n-footer-label">NetApp</div>
+                                <div class="n-footer-label-divider"></div>
+                                <div class="n-footer-label-mark"></div>
+                            </div>
+                            <ul class="n-footer-content">
+                                        <li  >
+                                            <a href="/company/" target="_self" >
+                                                Company
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/partners/" target="_self" >
+                                                Partners
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="https://careers.netapp.com/" target="_self" >
+                                                Careers
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="https://investors.netapp.com/" target="_self" >
+                                                Investors
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/esg/trust-center/" target="_self" >
+                                                Trust Center
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/company/quality-certifications/" target="_self" >
+                                                Quality certifications
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/esg/" target="_self" >
+                                                Environmental, social &amp; governance
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+                        <div class="n-footer-item">
+                            <div class="n-footer-label-container">
+                                <div class="n-footer-label">Resources</div>
+                                <div class="n-footer-label-divider"></div>
+                                <div class="n-footer-label-mark"></div>
+                            </div>
+                            <ul class="n-footer-content">
+                                        <li  >
+                                            <a href="/newsroom/" target="_self" >
+                                                Newsroom
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/company/events/" target="_self" >
+                                                Events
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/blog/" target="_self" >
+                                                Blog
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/company/executive-briefing-center/" target="_self" >
+                                                Executive briefing
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+                        <div class="n-footer-item">
+                            <div class="n-footer-label-container">
+                                <div class="n-footer-label">Engage</div>
+                                <div class="n-footer-label-divider"></div>
+                                <div class="n-footer-label-mark"></div>
+                            </div>
+                            <ul class="n-footer-content">
+                                        <li  >
+                                            <a href="/company/contact-us/" target="_self" >
+                                                Contact us
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="https://listening.netapp.com/jfe/form/SV_dcilAAaRGF9r95A" target="_self" >
+                                                Site feedback
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="https://www.netapp.com/company/legal/accessibility/" target="_self" >
+                                                Accessibility
+                                            </a>
+                                        </li>
+                                        <li  >
+                                            <a href="/utility/subscribe/" target="_self" >
+                                                Email subscriptions
+                                            </a>
+                                        </li>
+                            </ul>
+                        </div>
+            </section>
+        </n-footer-content-container>
+    </n-footer-upper-container>
+    <n-footer-down-container>
+        <n-footer-copyright-container>
+            <ul class="n-footer-copyright">
+                <li>&#169; <span class="n-footer-copyright-year">2024</span> NetApp</li>
+            </ul>
+        </n-footer-copyright-container>
+        <n-footer-bottom-container>
+            <section class="n-footer-secondary">
+                    <ul class="n-footer-utility">
+                                <li  >
+                                    <a href="/company/legal/terms-of-use/" target="_self"  >Terms of use</a>
+                                </li>
+                                <li  >
+                                    <a href="/company/legal/privacy-policy/" target="_self"  >Privacy policy</a>
+                                </li>
+                                <li  >
+                                    <a href="/company/legal/cookie-policy/" target="_self"  >Cookie policy</a>
+                                </li>
+                                <li  >
+                                    <a target="_self"  class= ot-sdk-show-settings>Cookie Settings</a>
+                                </li>
+                                <li  >
+                                    <a href="/pdf.html?item=/media/107863-netapp-slavery-and-human-trafficking-statement.pdf" target="_blank" rel="noopener noreferrer" >Modern Slavery Statement</a>
+                                </li>
+                                <li  >
+                                    <a href="/company/legal/" target="_self"  >Legal</a>
+                                </li>
+                    </ul>
+                                    <div class="n-footer-social n-social-selector">
+                        <button class="nav-icon-button n-footer-social-button" data-social-selector="footer">
+                            <span>Follow Us</span>
+                            <svg class="n-chevron-up n-chevron-show" aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#chevron_up"></use>
+                            </svg>
+                            <svg class="n-chevron-down n-chevron-hide" aria-hidden="true">
+                                <use xlink:href="/static/images/sprite.svg#chevron_down"></use>
+                            </svg>
+                        </button>
+
+                        <div class="n-ss-panel n-ss-fallback" role="menu" aria-hidden="false" data-social-panel="navigation">
+                            <div class="n-ss-header">Follow Us</div>
+                            <nav>
+                                    <ul>
+                                                <li>
+                                                    <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/NetApp">
+                                                        <svg class="icon--facebook" aria-label="Facebook">
+                                                            <use xlink:href="/static/images/sprite.svg#facebook"></use>
+                                                        </svg>
+                                                        <span>Facebook</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/netapp/">
+                                                        <svg class="icon--instagram" aria-label="Instagram">
+                                                            <use xlink:href="/static/images/sprite.svg#instagram"></use>
+                                                        </svg>
+                                                        <span>Instagram</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/netapp">
+                                                        <svg class="icon--linkedin" aria-label="LinkedIn">
+                                                            <use xlink:href="/static/images/sprite.svg#linkedin"></use>
+                                                        </svg>
+                                                        <span>LinkedIn</span>
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/netapp">
+                                                        <svg class="icon--twitter" aria-label="Twitter">
+                                                            <use xlink:href="/static/images/sprite.svg#twitter"></use>
+                                                        </svg>
+                                                        <span>Twitter</span>
+                                                    </a>
+                                                </li>
+                                    </ul>
+                            </nav>
+                        </div>
+
+                    </div>
+
+            </section>
+        </n-footer-bottom-container>
+    </n-footer-down-container>
+</n-footer-new-design>
+
+
+
+</n-main-content-region>
+
+    
+</n-footer-region>
+    
+</n-page>
+
+
+
+    <div id="drift-facade-wrapper" aria-label="Open chat with NetApp in the Drift Widget messenger">
+        <img class="drift-facade-icon" src="https://www.netapp.com/media/drift-icon-shadow_tcm19-70572.png" alt="Drift chat loading">
+    </div>
+
+    <script type="application/json" id="n-footnotes-data">
+        { "Notes": "Footnotes", "Back": "Back up", "TranslationDisclaimer": "Many pages on this website have been translated for your convenience using machine translation.  Reasonable efforts have been made to provide an accurate translation, however, no automated translation is perfect nor is it intended to replace human translators.    The official text is the English version of the website. Any discrepancies or differences created in the translation are not binding and have no legal effect for compliance or enforcement purposes. If any questions arise related to the accuracy of the information contained in the translated website, please refer to the English version of the website which is the official version." }
+    </script>
+
+        <script>
+      /** Initialize Masthead Searchbox component **/
+      document.addEventListener('DOMContentLoaded', function () {
+        var searchBoxRoot = document.getElementById("standaloneSearchbox");
+        var localizationPath = "";
+
+        var searchPageURL = localizationPath != "" ? localizationPath + "/search" : "/search";
+
+        Coveo.SearchEndpoint.configureCloudV2Endpoint(envOrgId, searchToken);
+
+        Coveo.initSearchbox(
+            searchBoxRoot, searchPageURL
+        );
+      });
+        </script>
+
+    <!-- Execute jQuery dependent code after jQuery is loaded-->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            jQuery(function () {
+                jQuery.each(window.jQueryQ || [], function (i, a) {
+                    setTimeout(function () {
+                        jQuery.apply(this, a);
+                    }, 0);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

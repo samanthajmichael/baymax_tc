@@ -1,0 +1,648 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US">
+	<head>
+        <script src="/App_Plugins/UmbracoForms/Assets/promise-polyfill/dist/polyfill.min.js" type="application/javascript"></script><script src="/App_Plugins/UmbracoForms/Assets/aspnet-client-validation/dist/aspnet-validation.min.js" type="application/javascript"></script>
+
+        
+		
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="charset" content="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Telematics Terms &amp; Conditions | PACCAR</title>
+	<meta name="description" content="">
+	<meta property="og:title" content="telematicsterms">
+	<meta property="og:description" content="">
+	<meta property="og:type" content="Page">
+	<meta property="og:url" content="https://paccar.com/telematicsterms/">
+	<meta property="og:site_name" content="PACCAR">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:locale:alternate" content="">
+	<meta name="twitter:title" content="telematicsterms">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:site" content="@paccarfinancial">
+	<meta name="twitter:card" content="summary">
+	<meta name="application-name" content="PACCAR">
+	<link rel="license" href="https://opensource.org/licenses/ISC" />
+	<link rel="apple-touch-icon" type="image/png" sizes="57x57" href="/img/favicons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" type="image/png" sizes="60x60" href="/img/favicons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" type="image/png" sizes="72x72" href="/img/favicons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" type="image/png" sizes="76x76" href="/img/favicons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" type="image/png" sizes="114x114" href="/img/favicons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" type="image/png" sizes="120x120" href="/img/favicons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" type="image/png" sizes="144x144" href="/img/favicons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" type="image/png" sizes="152x152" href="/img/favicons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/img/favicons/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="/img/favicons/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/img/favicons/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/img/favicons/favicon-16x16.png">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/img/favicons/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+
+<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WNVRZSD');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNVRZSD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js?v=a1" data-cbid="89206258-95fa-4bfb-8579-795be849546d" data-blockingmode="auto" type="text/javascript"></script>
+		<link rel="stylesheet" href="/css/foundation.css" />
+		<link rel="stylesheet" href="/css/style_paccar.css" />
+		<link rel="stylesheet" href="/css/wysiwyg.css" />
+		<link rel="stylesheet" href="/css/PatentFix.css" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:500,300,700,300italic,500italic" />
+		<script src="/js/vendor/modernizr.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> 
+
+		
+	</head>
+
+	<body>
+		<a id="skip-to-main" class="skip-to-main" href="#main-content">Skip To Main Content</a>
+
+			
+
+	<div class="global-header">
+		
+
+		<div>
+			<a href="http://www.daf.com" target="_blank" aria-label="Go to daf.com website"><img src="/img/sm_daf.jpg" alt="daf.com website"></a>
+		</div>
+		<div>
+			<a href="http://www.kenworth.com" target="_blank" aria-label="Go to kenworth.com website"><img src="/img/sm_kenworth.jpg" alt="Kenworth.com website"></a>
+		</div>
+		<div>
+			<a href="http://www.peterbilt.com" target="_blank" aria-label="Go to peterbilt.com website"><img src="/img/sm_peterbilt.jpg" alt="Peterbilt.com website"></a>
+		</div>
+
+		<div class="feed-and-searchbar">
+			<a href="/rss" class="feed" title="Subscribe to our RSS Feed">
+				<img src="/img/icon_feed.png" />RSS Feed</a>
+
+			<form class="form-search" action="https://paccar.com/search/" type="get">
+				<label class="form-search-label" for="search-term-input">Search Site</label>
+
+				<div class="form-search-input-grouping">
+					<input id="search-term-input"
+						class="form-search-input"
+						type="search"
+						name="term"
+						role="search" />
+					<input type="hidden" aria-hidden="true" name="page" value="1" />
+					<input id="submit"
+						type="submit"
+						class="form-search-submit"
+						aria-label="Submit site search form" />
+				</div>
+			</form>
+		</div>
+	</div>
+	<div class="gradient-blue">
+		<div class="row">
+			<div class="large-12 columns">
+			<div class="patent-fix-menu">
+				<div id="mega-wrapper" class="large-12 columns hide-for-medium-down">
+					<ul class="mega-menu">
+							<li><a href="/" aria-label="paccar.com home page"><img src="/media/ragia4d5/logo_paccar.png" alt="paccar.com home page"></a></li>
+								<li class="menu"><a href="https://paccar.com/about-us/get-to-know-paccar/">About Us</a>
+
+										<div class="mega-menu-content mega-menu-3">
+										<ul class="sub-menu">
+												<li><a href="https://paccar.com/about-us/get-to-know-paccar/">Get to Know PACCAR</a></li>
+												<li><a href="https://paccar.com/about-us/history/">History</a></li>
+												<li><a href="https://paccar.com/about-us/awards/">Awards</a></li>
+												<li><a href="https://paccar.com/about-us/board-of-directors/director-bios/">Board of Directors</a></li>
+												<li><a href="https://investors.paccar.com/esg/default.aspx" target="_blank">Environmental, Social and Governance</a></li>
+												<li><a href="https://paccar.com/about-us/philanthropy/">Philanthropy</a></li>
+												<li><a href="https://paccar.com/about-us/paccar-foundation/">PACCAR Foundation</a></li>
+												<li><a href="https://paccar.com/about-us/contact/">Contact</a></li>
+										</ul>
+										</div>
+								</li>
+								<li class=""><a href="https://paccar.com/careers/">Careers</a>
+
+								</li>
+								<li class="menu"><a href="https://paccar.com/products-services/">Products &amp; Services</a>
+
+										<div class="mega-menu-content mega-menu-3">
+										<ul class="sub-menu">
+												<li><a href="https://www.daf.com/en/sites-landing" target="_blank">DAF</a></li>
+												<li><a href="http://www.dafcaminhoes.com.br/" target="_blank">DAF Brasil</a></li>
+												<li><a href="https://www.dynacraftnet.com/" target="_blank">Dynacraft</a></li>
+												<li><a href="https://www.kenworth.com/" target="_blank">Kenworth</a></li>
+												<li><a href="https://www.leylandtrucksltd.co.uk/en-gb" target="_blank">Leyland</a></li>
+												<li><a href="https://www.paccar.com.au/" target="_blank">PACCAR Australia</a></li>
+												<li><a href="https://paccarfinancial.com/" target="_blank">PACCAR Financial</a></li>
+												<li><a href="https://www.paccarusedtrucks.com/s/" target="_blank">PACCAR Financial Used Truck Center</a></li>
+												<li><a href="/paccarglobalsales/" target="">PACCAR Global Sales</a></li>
+												<li><a href="https://www.paccarinnovation.com/" target="_blank">PACCAR Innovation Center</a></li>
+												<li><a href="https://www.paclease.com/" target="_blank">PACCAR Leasing</a></li>
+												<li><a href="https://kenworth.com.mx/" target="_blank">PACCAR Mexico</a></li>
+												<li><a href="https://www.paccarparts.com/" target="_blank">PACCAR Parts</a></li>
+												<li><a href="https://paccarpowertrain.com/" target="_blank">PACCAR Powertrain</a></li>
+												<li><a href="https://paccar.com/products-services/paccar-purchasing/">PACCAR Purchasing</a></li>
+												<li><a href="https://paccar.com/products-services/paccar-technical-centers/">PACCAR Technical Centers</a></li>
+												<li><a href="https://www.paccarwinch.com/" target="_blank">PACCAR Winch</a></li>
+												<li><a href="https://www.peterbilt.com/" target="_blank">Peterbilt</a></li>
+										</ul>
+										</div>
+								</li>
+								<li class="menu"><a href="https://investors.paccar.com/overview/default.aspx">Investors</a>
+
+										<div class="mega-menu-content mega-menu-3">
+										<ul class="sub-menu">
+												<li><a href="/media/pvzjr4ps/2023-annual-report-final.pdf">2023 Annual Report</a></li>
+												<li><a href="https://investors.paccar.com/resources/investor-contacts/default.aspx" target="_blank">Investor Contacts</a></li>
+												<li><a href="https://investors.paccar.com/events-and-presentations/default.aspx" target="_blank">Investor Presentation</a></li>
+												<li><a href="https://investors.paccar.com/financials/sec-filings/default.aspx" target="_blank">SEC Filings/Data Archive</a></li>
+												<li><a href="https://investors.paccar.com/resources/investor-faqs/default.aspx" target="_blank">Shareholder FAQ</a></li>
+												<li><a href="https://investors.paccar.com/stock-info/default.aspx" target="_blank">Stock Price History</a></li>
+												<li><a href="https://investors.paccar.com/events-and-presentations/default.aspx" target="_blank">Webcasts</a></li>
+												<li><a href="https://investors.paccar.com/esg/default.aspx" target="_blank">Environmental, Social and Governance</a></li>
+										</ul>
+										</div>
+								</li>
+								<li class="menu"><a href="https://paccar.com/news/">News</a>
+
+										<div class="mega-menu-content mega-menu-3">
+										<ul class="sub-menu">
+												<li><a href="https://paccar.com/news/current-news/">Current News</a></li>
+												<li><a href="https://paccar.com/news/archived-news/">Archived News</a></li>
+										</ul>
+										</div>
+								</li>
+					</ul>
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--begin mobile nav-->
+	<div class="gradient-blue show-for-medium-down">
+		<div class="row">
+			<div class="large-12 columns">
+				<nav class="top-bar" data-topbar data-options="mobile_show_parent_link: true">
+					<ul class="title-area">
+						<!-- Title Area -->
+						<li class="name">
+							<h1><a href="/"><img src="/img/logo_paccar.png" alt="PACCAR"></a></h1>
+						</li>
+						<li class="toggle-topbar menu-icon"><a href="#"><span>menu</span></a></li>
+					</ul>
+					<section class="top-bar-section">
+						<ul class="left">
+									<li class="has-dropdown active"><a href="https://paccar.com/about-us/get-to-know-paccar/">About Us</a>
+
+											<ul class="dropdown">
+													<li><a href="https://paccar.com/about-us/get-to-know-paccar/">Get to Know PACCAR</a></li>
+													<li><a href="https://paccar.com/about-us/history/">History</a></li>
+													<li><a href="https://paccar.com/about-us/awards/">Awards</a></li>
+													<li><a href="https://paccar.com/about-us/board-of-directors/director-bios/">Board of Directors</a></li>
+													<li><a href="https://investors.paccar.com/esg/default.aspx" target="_blank">Environmental, Social and Governance</a></li>
+													<li><a href="https://paccar.com/about-us/philanthropy/">Philanthropy</a></li>
+													<li><a href="https://paccar.com/about-us/paccar-foundation/">PACCAR Foundation</a></li>
+													<li><a href="https://paccar.com/about-us/contact/">Contact</a></li>
+											</ul>
+									</li>
+									<li class=" "><a href="https://paccar.com/careers/">Careers</a>
+
+									</li>
+									<li class="has-dropdown "><a href="https://paccar.com/products-services/">Products &amp; Services</a>
+
+											<ul class="dropdown">
+													<li><a href="https://www.daf.com/en/sites-landing" target="_blank">DAF</a></li>
+													<li><a href="http://www.dafcaminhoes.com.br/" target="_blank">DAF Brasil</a></li>
+													<li><a href="https://www.dynacraftnet.com/" target="_blank">Dynacraft</a></li>
+													<li><a href="https://www.kenworth.com/" target="_blank">Kenworth</a></li>
+													<li><a href="https://www.leylandtrucksltd.co.uk/en-gb" target="_blank">Leyland</a></li>
+													<li><a href="https://www.paccar.com.au/" target="_blank">PACCAR Australia</a></li>
+													<li><a href="https://paccarfinancial.com/" target="_blank">PACCAR Financial</a></li>
+													<li><a href="https://www.paccarusedtrucks.com/s/" target="_blank">PACCAR Financial Used Truck Center</a></li>
+													<li><a href="/paccarglobalsales/" target="">PACCAR Global Sales</a></li>
+													<li><a href="https://www.paccarinnovation.com/" target="_blank">PACCAR Innovation Center</a></li>
+													<li><a href="https://www.paclease.com/" target="_blank">PACCAR Leasing</a></li>
+													<li><a href="https://kenworth.com.mx/" target="_blank">PACCAR Mexico</a></li>
+													<li><a href="https://www.paccarparts.com/" target="_blank">PACCAR Parts</a></li>
+													<li><a href="https://paccarpowertrain.com/" target="_blank">PACCAR Powertrain</a></li>
+													<li><a href="https://paccar.com/products-services/paccar-purchasing/">PACCAR Purchasing</a></li>
+													<li><a href="https://paccar.com/products-services/paccar-technical-centers/">PACCAR Technical Centers</a></li>
+													<li><a href="https://www.paccarwinch.com/" target="_blank">PACCAR Winch</a></li>
+													<li><a href="https://www.peterbilt.com/" target="_blank">Peterbilt</a></li>
+											</ul>
+									</li>
+									<li class="has-dropdown "><a href="https://investors.paccar.com/overview/default.aspx">Investors</a>
+
+											<ul class="dropdown">
+													<li><a href="/media/pvzjr4ps/2023-annual-report-final.pdf">2023 Annual Report</a></li>
+													<li><a href="https://investors.paccar.com/resources/investor-contacts/default.aspx" target="_blank">Investor Contacts</a></li>
+													<li><a href="https://investors.paccar.com/events-and-presentations/default.aspx" target="_blank">Investor Presentation</a></li>
+													<li><a href="https://investors.paccar.com/financials/sec-filings/default.aspx" target="_blank">SEC Filings/Data Archive</a></li>
+													<li><a href="https://investors.paccar.com/resources/investor-faqs/default.aspx" target="_blank">Shareholder FAQ</a></li>
+													<li><a href="https://investors.paccar.com/stock-info/default.aspx" target="_blank">Stock Price History</a></li>
+													<li><a href="https://investors.paccar.com/events-and-presentations/default.aspx" target="_blank">Webcasts</a></li>
+													<li><a href="https://investors.paccar.com/esg/default.aspx" target="_blank">Environmental, Social and Governance</a></li>
+											</ul>
+									</li>
+									<li class="has-dropdown "><a href="https://paccar.com/news/">News</a>
+
+											<ul class="dropdown">
+													<li><a href="https://paccar.com/news/current-news/">Current News</a></li>
+													<li><a href="https://paccar.com/news/archived-news/">Archived News</a></li>
+											</ul>
+									</li>
+						</ul>
+					</section>
+				</nav>
+			</div>
+		</div>
+	</div>
+	<!--end mobile nav -->
+
+
+		<main id="main-content" class="main">
+			
+
+	<div class="row">
+		<div class="large-12 columns">
+				<ul class="breadcrumbs hide-for-small">
+						<li><a href="https://paccar.com/">Home</a></li>
+					<li class="current"><a href="https://paccar.com/telematicsterms/">Telematics Terms &amp; Conditions</a></li>
+
+				</ul>
+			<table border="1" style="border-collapse: collapse; width: 100%; overflow: hidden;">
+<tbody>
+<tr>
+<td>
+<p><strong>YOUR “VEHICLE” (any PACCAR vehicle you have purchased or leased) COLLECTS, GENERATES AND TRANSMITS DATA THAT IS USED AND SHARED BY US AS FURTHER DESCRIBED IN SECTION 10 (PRIVACY). PLEASE READ ALL PAGES OF THIS AGREEMENT AND THE <a href="http://www.paccar.com/privacy">PACCAR INC PRIVACY STATEMENT (available at www.paccar.com/privacy)</a> COMPLETELY BEFORE USING YOUR VEHICLE AND KEEP A COPY FOR YOUR FILES.</strong> THROUGH YOUR USE OF THE VEHICLE, YOU CONSENT, ON BEHALF OF YOURSELF AND ALL OCCUPANTS IN YOUR VEHICLE, AND AGREE TO NOTIFY SUCH OCCUPANTS ACCORDINGLY, TO: 1) THE COLLECTION, TRANSMISSION, STORAGE AND USE OF THE DATA DESCRIBED HEREIN; AND 2) WIRELESS COMMUNICATION WITH YOUR VEHICLE TO ENABLE US AND OUR SERVICE PROVIDERS TO COLLECT DATA AND DELIVER TRUCK CONNECTIVITY SERVICES TO YOU OR OTHER OCCUPANTS IN YOUR VEHICLE. YOU AGREE TO NOTIFY SUCH OCCUPANTS OF THE NATURE AND TERMS OF THIS AGREEMENT.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="1" style="border-collapse: collapse; width: 100%; overflow: hidden;">
+<tbody>
+<tr>
+<td>
+<p><strong>THIS AGREEMENT CONTAINS A BINDING ARBITRATION AGREEMENT AND CLASS ACTION AND JURY TRIAL WAIVERS IN SECTION 14.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Welcome to <strong>Truck Connectivity Services</strong> (“TRUCKTECH+”, “SMARTLINQ”, “PACCAR Solutions”, “PACCAR Connect,” “Remote Diagnostics,” and “data collection through telematics”) (referred to herein as the “<strong>Service</strong>” or “<strong>Services</strong>”), a suite of connected vehicle services. These Terms and Conditions (this “<strong>Agreement</strong>”) apply to the data connectivity of your vehicle and your use of any of the Subscriptions provided by PACCAR (defined below). You can access the Services by enrollment in a subscription (“<strong>Subscription</strong>”). Please see your dealer or visit PACCARSolutions.com for specific details regarding the Services available in the vehicle you have purchased or leased. The Services and any Subscription are governed by this Agreement.</p>
+<p>THESE TERMS AND CONDITIONS ARE EFFECTIVE AND LEGALLY BINDING UPON YOUR PURCHASE AND USE OF THE VEHICLE.  IF YOU DO NOT OPT OUT OF THE SERVICES AND USE THE VEHICLE YOU (A) ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS AGREEMENT; (B) REPRESENT AND WARRANT THAT YOU HAVE THE RIGHT, POWER, AND AUTHORITY TO ENTER INTO THIS AGREEMENT AND, IF ENTERING INTO THIS AGREEMENT FOR AN ORGANIZATION, THAT YOU HAVE THE LEGAL AUTHORITY TO BIND THAT ORGANIZATION; AND (C) ACCEPT THIS AGREEMENT AND AGREE THAT YOU ARE LEGALLY BOUND BY ITS TERMS. </p>
+<p><strong>IF YOU DO NOT AGREE TO THESE TERMS, YOU MUST OPT OUT OF ALL SERVICES AND ALL TRUCK CONNECTIVITY BY EMAILING</strong> <a href="mailto:PACCARRemoteDiagnostics@paccar.com">PACCARRemoteDiagnostics@paccar.com</a>.</p>
+<p>As used in this Agreement, the terms "you" and "your" refer to, and this Agreement will be binding upon, any person or entity who has purchased or leased a Vehicle equipped with the Services, and any person who uses the Vehicle, as a driver or occupant, uses the Services or has activated a Subscription pursuant to Section 2A of this Agreement. Also, as used in this Agreement, the terms "we," "us," and "our" refer to (i) PACCAR Inc and its affiliates, subsidiaries, divisions, successors, and assigns and (ii) the employees, directors, officers, subcontractors, representatives, and agents of the foregoing. In addition, the following persons and entities are intended third-party beneficiaries of this Agreement: Service Providers, as defined in Section 1.B herein, and their affiliates, successors, and assigns and PACCAR dealers in the United States and Canada and their affiliates, successors and assigns. ANY TRUCK CONNECTIVITY DOCUMENTS GIVEN OR SENT TO YOU THAT STATE THAT THEY BECOME A PART OF THESE TERMS AND CONDITIONS ARE HEREBY MADE PART OF AND INCORPORATED INTO THIS AGREEMENT IF YOU RECEIVE, USE, ACTIVATE, OR OTHERWISE ACCEPT ANY OF THE SERVICES THEY DESCRIBE OR OTHERWISE EXECUTE OR ENTER INTO AN AGREEMENT FOR THOSE SERVICES. PLEASE KEEP A COPY OF SUCH ADDITIONAL DOCUMENTS FOR YOUR RECORDS.</p>
+<table border="1" style="border-collapse: collapse; width: 100.041%; overflow: hidden;">
+<tbody>
+<tr>
+<td style="width: 99.4932%;">
+<p style="text-align: center;"><strong>ELECTRONIC SIGNATURE AND DISCLOSURE CONSENT NOTICE</strong></p>
+<p style="font-size: small;">If you utilize a Subscription available at paccarsolutions.com, by checking the “I agree” checkbox or by accessing your Subscription, you agree to the use of electronic documents and records in connection with your use of the Subscription and all future documents and records in connection with the Subscription —including without limitation this electronic signature and disclosure notice— and you agree that this use satisfies any requirement that we provide you these documents and their content in writing. You may (a) obtain a paper copy of this Agreement (free of charge), (b) withdraw your consent to the use of electronic documents and records, or (c) update your contact information by phone by calling the dealership where you purchased your vehicle. You may also update your contact information online at PACCARSolutions.com. If you withdraw your consent to the use of electronic documents and records, we may cancel your Agreement and deactivate your access to the Subscription and Services and to the fullest extent permitted by law you will not be entitled to a refund or credit for any unused portion of the Subscription in the current billing period. </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>1.   SERVICE REQUIREMENTS AND SERVICE PROVIDERS.</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>Eligibility for Use of the Services.</strong> You must be at least eighteen (18) years old, or the age of majority as determined by the laws of your state of residency, to assume the obligations set forth in this Agreement. You are solely responsible for the transmission of data from your Vehicle and the use of the Services in your Vehicle, even if you are not the one using it or claim the use was not authorized. You are also solely responsible for any Subscription requested by you, or used by anyone using your Vehicle. IF YOU OR ANYONE USING YOUR VEHICLE DISABLES DATA TRANSMISSION FROM YOUR VEHICLE, ALL TRUCK CONNECTIVITY SERVICES WILL ALSO BE DISABLED.</p>
+</li>
+<li>
+<p><strong>System Requirements and Service Providers.</strong> To utilize the Services or a Subscription and/or transmit data, your Vehicle must have installed an authorized Truck Connectivity Services system (the “System” or “telecommunication device”), which is the equipment, including hardware and software, used to provide the Services to your Vehicle. PACCAR may interact with and/or engage one or more third-party providers as necessary to provide the Services. Those third-party providers include any person, company, or entity who provides any service, content, technology, equipment, or facilities in connection with the Services or the System, including, but not limited to, wireless network service providers, suppliers, licensors, manufacturers, distributors, and authorized PACCAR dealers. The third-party providers are referred to in this Agreement as “<strong>Service Providers</strong>”. You are responsible for paying directly to all Service Providers any charges for services furnished by them that are not expressly covered by your Truck Connectivity Subscription or your Vehicle’s regular or extended warranty.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>2.    SUBSCRIPTION ACTIVATION AND CANCELLATION.</strong></p>
+<p><strong>Activation. </strong>Services are operational prior to the purchase or lease of the Vehicle, this includes all telematics and vehicle status data collection and vehicle location services. <strong>Vehicle data, including the Vehicle’s location, engine data and fault data, may be collected and used by these features.</strong> The Services may remain active subsequent to the purchase or lease of the Vehicle.  To deactivate the Services, opt out as described above.</p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>Subscription Period. </strong>A Vehicle Purchase Subscription of Truck Connectivity Services (a “<strong>Vehicle Purchase Subscription Period</strong>”) was purchased at the time you purchased your Vehicle. The Vehicle Purchase Subscription Period starts as of the date and time the truck and engine warranty are registered. Please see your dealer for information regarding eligibility and duration of your Vehicle Purchase Subscription Period. TO ACTIVATE AND UTILIZE YOUR VEHICLE PURCHASE SUBSCRIPTION PERIOD, YOU MUST ACTIVATE YOUR SUBSCRIPTION AT PACCARSOLUTIONS.COM AND ACCEPT ALL OF THE TERMS OF THIS AGREEMENT, UNLESS OTHERWISE PROHIBITED BY LAW. After the Vehicle Purchase Subscription Period expires, you must purchase a Subscription, and place a valid form of payment on file with us to continue utilizing the Subscription (the “<strong>Paid Subscription Period</strong>” and together with the Vehicle Purchase Subscription Period, the “Subscription”).</p>
+</li>
+<li>
+<p><strong>Automatic Renewal: Once you have entered a Paid Subscription Period, your Subscription will automatically renew under this Agreement. You hereby consent and expressly agree to such automatic renewals unless you cancel as provided under this Agreement. Your form of payment on file will automatically be charged at the subscription rate in effect at the time of renewal plus taxes and other charges unless your Subscription is cancelled as allowed by this Agreement.</strong></p>
+</li>
+<li>
+<p><strong>Your Right to Cancel. To cancel your Subscription, you must call the dealership where you purchased your vehicle or cancel online at PACCARSolutions.com. To cancel all Services, you must opt out of all connectivity as described above.</strong></p>
+</li>
+<li>
+<p><strong>Our Right to Cancel or Suspend Your Subscription Without Cause. </strong>We may terminate your Subscription without cause upon prior notice. If we terminate without cause, we will give you notice 30 days prior to the effective date of termination after which your account will be deactivated and the Subscription will terminate. This means that we can decide to cease providing Subscription to you at any time and for any reason, even for reasons unrelated to you or your account with us. In such a case, we will refund any amounts you have paid in advance for a yearly or multiple year subscription.</p>
+</li>
+<li>
+<p><strong>Cancellation for Cause. </strong>We reserve the right to terminate your Subscription without prior notice for good cause. We can terminate your Subscription immediately if (i) you breach any part of this Agreement, (ii) you do not pay amounts that are due to us or any Service Providers (iii) you or your Vehicle or any aspect of the Services or related components expose the Subscription, the Services, PACCAR, other subscribers, our affiliates, or third party to risk of any kind as determined in our discretion, or if you use the Subscription or Services for illegal or improper purposes. You do not have any right to have your Subscription reactivated, even if you cure any of the above issues.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>3.    FEES, PAYMENT, BILLING AND TAXES.</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>Fees and Billing</strong>. During the Vehicle Purchase Subscription Period, there are no additional charges for the Subscription, payment is made at the time of purchasing the vehicle.  During the Paid Subscription Period, to utilize the Subscription, you must have a valid form of payment on file with us. As noted above, Paid Subscription Service periods will auto-renew and we will charge your form of payment for the initial Subscription fee associated with renewal interval you select, and each renewal thereafter. By providing payment account information to us, you represent that you are an authorized user of such payment account.</p>
+<p>If the payment method you have provided us fails to enable payment for any reason at the time of renewal, you authorize us to make a second attempt no less than 120 hours after the first attempt. If we are unable to successfully process a payment on the second attempt, then your auto-renewal election will be deleted, your VIN will be unsubscribed, and your Subscription will expire on the anniversary date of your Subscription. If you subsequently desire to restore your Subscription you will need go to the online portal to enroll again by selecting the VIN for the vehicle, going to details, and selecting Subscribe.  </p>
+</li>
+<li>
+<p><strong>Your Payment Obligations.</strong> Payment must be made in U.S. Dollars and is due in advance. If your credit or bank card provider refuses a charge or an automated withdrawal, we can terminate or suspend your Subscription and your Services. If you object to any fees or charges for a Subscription billed by or through us, you must tell us in writing at PACCARRemoteDiagnostics@paccar.com within 60 days after the fee or charge is incurred (unless prohibited by applicable law, in which case as minimally modified to comply with applicable law), otherwise you accept any such fees and charges as-is, and YOU WAIVE ANY DISPUTE RELATING THERETO.</p>
+</li>
+<li>
+<p><strong>Taxes and Other Fees.</strong> You promise to pay all taxes, fees and surcharges set by the government and charged to you by us. We may not tell you in advance of changes to these items. The taxes, fee and surcharges will be added to the cost of your Subscription. For some Subscriptions, we may charge additional fees related to our costs (or the costs of our wireless Service Providers) to comply with government regulations which may change from time to time.</p>
+</li>
+<li>
+<p><strong>Refunds.</strong> Should we issue a refund to you, we may apply the refund to the valid form of payment on your account that was used to purchase the Subscription. Alternatively, we may issue a check and mail it to the address you have provided to us on your account. There will be no prorated refund if you are paying for your Subscription on a month-to-month basis. Your Subscription will continue until the end of the month in which you cancelled, and then the Subscription will terminate.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>4.    TRANSFERRING, REACTIVATING OR CHANGING YOUR SUBSCRIPTION.</strong> The Subscription is transferable to another Vehicle or another person or entity. If you terminate your ownership interest in the Vehicle, you must contact your dealership to deactivate or transfer the Subscription. If you continue using a Subscription for other vehicles, you must locate the VIN of the transferred vehicle in your account and select “remove vehicle from account.”  You must also direct the purchaser/transferee of the vehicle to these terms and conditions.  You may cancel, change, or reactivate your Subscription as allowed under this Agreement. However, any such request must be made by you or an authorized user of legal age listed on your account (or from someone we believe is your authorized agent). If we do any of these things, you agree to pay any charges associated with these requests.</p>
+<p><strong>5.    CHANGES TO YOUR SUBSCRIPTION.</strong> We may change this Agreement at any time with advance notice. This includes changing the terms of this Agreement, the Services, or the prices of Subscriptions. We will provide advance notice to you at the email address we have on file for your account (subject to a later effective date as required by law) if any such change materially affects your rights under this Agreement, or negatively impacts your Subscription or Services in a material way, or results in higher Subscription fees charged to you. UNLESS YOU OPT OUT OF THE AGREEMENT YOU AGREE TO ACCEPT THE CHANGE AND BE LEGALLY BOUND BY SUCH CHANGES AS INCORPORATED INTO THIS AGREEMENT EFFECTIVE AS PROVIDED IN THE NOTICE. FURTHERMORE, YOU AUTHORIZE US TO USE ANY FORM OF PAYMENT ON FILE FOR PAYMENT OF ANY FEES OR CHARGES THAT MAY HAVE BEEN CHANGED. We will notify you of any other changes by publishing a notice of the change or a revised version of this Agreement in the online portal and at <a href="/telematicsterms">www.paccar.com/telematicsterms</a>.  </p>
+<p><strong>6.    YOUR ADDITIONAL RESPONSIBILITIES</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>Passwords/Login Credentials.</strong> Your login credentials must be kept confidential and never shared. You understand that anyone who has your password may be able to access any your Subscription and any Services that require your password and/or your account. You will be solely liable for any unauthorized use of data or information, and all transactions, fees or charges results from such activity. Neither we nor any Service Provider has any obligation to inquire about the authority of anyone using your login credentials or other information that can be used to identify your account to request services for your Vehicle.</p>
+</li>
+<li>
+<p><strong>Proper Use of the Services.</strong> You are responsible for your compliance with all regulations, ordinances, and other laws applicable to your Vehicle, including those that affect your use of the Services. You agree you'll be responsible for any amount anyone else claims from us, plus any expenses, resulting in whole or in part from your or other drivers of your Vehicle’s improper use of the Subscription or Services. You further agree neither PACCAR nor its dealers is responsible for any loss or damages as a result of your use of or reliance on the Services.</p>
+</li>
+<li>
+<p><strong>Other Users/Occupants of your Vehicle. </strong>You promise to educate and inform all users and occupants of your Vehicle about the Services and applicable features, the terms of this Agreement, including terms concerning data collection and use and privacy, and the PACCAR Inc Privacy Statement (<a href="http://www.paccar.com/privacy">www.paccar.com/privacy</a>) Neither we nor any Service Provider has any obligation to inquire about the authority of anyone using your Vehicle. You assume full responsibility for any user or occupant of your vehicle, whether or not that use is expressly authorized by you.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>7.    SERVICE AND SYSTEM LIMITATIONS.</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>Availability.</strong> Truck Connectivity Services are available in the United States, Mexico and Canada. The Services work using wireless communication networks and the Global Positioning System ("<strong>GPS</strong>") satellite network. NOT ALL TRUCK CONNECTIVITY SERVICES ARE AVAILABLE EVERYWHERE, PARTICULARLY IN REMOTE OR ENCLOSED AREAS, OR ON ALL VEHICLES, AT ALL TIMES. The area in which you are driving may affect the availability of the Services. Additionally, the Services are not available if the GPS system is not working. The Services will not function unless you are in a location where the wireless Service Provider has coverage, network capacity, and reception when the service is requested or delivered. Certain programming limitations of the GPS system and obstructed signals may impair our ability to determine your Vehicle’s precise location. There are other factors we cannot control that may prevent us from providing the Services to you or that may impair the quality of the Services. Some examples are hills, tall buildings, tunnels, weather, electrical system design and architecture of your Vehicle, damage to important parts of your Vehicle in an accident, or wireless phone network congestion.</p>
+</li>
+<li>
+<p><strong>Vehicle and Equipment.</strong> The Truck Connectivity System is an embedded telematics device installed in your Vehicle at the factory which receives GPS signals and communicates with the response center via wireless communications networks. The System is not intended to place or receive calls. YOUR VEHICLE HAS TO HAVE A WORKING ELECTRICAL SYSTEM (INCLUDING ADEQUATE BATTERY POWER) FOR THE TRUCK CONNECTIVITY SYSTEM TO OPERATE. The Services may not work if your Truck Connectivity System is tampered with or changed by someone we have not authorized, or if you haven't maintained it and your Vehicle in good working order and in compliance with all government regulations. If you try to add or modify any equipment or software in your Vehicle, including the Truck Connectivity System, the Services may not work and we can terminate your Subscription and your Services.</p>
+</li>
+<li>
+<p><strong>Acts Outside of Our Control.</strong> We are not responsible for any delay or failure in performance if such failure or delay could not have been prevented by reasonable precautions. NEITHER PACCAR NOR ANY SERVICE PROVIDER SHALL BE LIABLE FOR ANY FAILURE OR DELAY IN PERFORMING UNDER THE TERMS OF THIS AGREEMENT IF CAUSED IN WHOLE OR IN PART BY AN ACT OR OMISSION OF A THIRD-PARTY, OR BY ANY EQUIPMENT FAILURE, INCLUDING INTERNET, COMPUTER, TELECOMMUNICATION, OR OTHER EQUIPMENT FAILURES, ACT OF GOD, NATURAL DISASTER, STRIKES, TERRORISM, CIVIL DISTURBANCES, LABOR SHORTAGES, GOVERNMENT ACTIONS, EQUIPMENT OR FACILITY SHORTAGE, OR OTHER CAUSES BEYOND OUR CONTROL OR THE CONTROL OF OUR SERVICE PROVIDERS.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>8.    INFORMATION ABOUT CERTAIN NON SUBSCRIPTION SERVICES</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>Location of Your Vehicle in Connection with Lease/Finance. </strong>If you lease or finance your Vehicle through PACCAR Financial Corp. or one of its affiliates, and you breach any of the terms of the agreements governing such lease or finance, <strong>YOU EXPRESSLY CONSENT TO OUR USE OF TRUCK CONNECTIVITY SERVICES (including permitting approved vendors/third parties to access the Services)</strong> to locate you or your Vehicle to assist them in communicating with you and/or recovering the Vehicle.</p>
+</li>
+<li>
+<p><strong>Remote Monitoring.</strong> Your Subscription includes remote monitoring. You understand that this feature allows you or anyone with access to your account to remotely monitor information about your Vehicle’s location and operating conditions, including while it is in motion, regardless of the operator. <strong>You agree to inform all users and occupants about the Services and the data they collect.</strong></p>
+</li>
+<li>
+<p><strong>Vehicle Health Report &amp; Maintenance Alert.</strong> Vehicle diagnostic and health data, which includes mileage, engine data, GPS location, and fault information, is transmitted to us by your Vehicle and may be transmitted to us regardless of your Subscription status.  This data, as well as other related data collected by the System may be shared by PACCAR with its dealers and Service Providers to provide you with notices and reports related to service or other performance of your vehicle. This Service is for your convenience only, and you are responsible for servicing and maintaining your Vehicle in accordance with the schedule published in the owners’ manual.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>9.    SPECIAL NOTICES.</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>Software Updates. </strong>The Services involve software that we may need or want to change from time to time. You agree that we may do this remotely without notifying you in advance. We are not responsible for any lost data. The Services may be temporarily unavailable during the software update process. You do not own the Services software or acquire any rights to use or modify the Services software on your own. Your Vehicle’s systems also involve other software that PACCAR may need to change from time to time. You agree that PACCAR may do this remotely without advance notice to you.</p>
+</li>
+<li>
+<p><strong>Termination of Wireless Networks.</strong> The System functions using digital wireless telecommunications technology dependent on a wireless network, each of which is outside of our control. If the wireless carrier ceases to support the network with which the System in your Vehicle is compatible either partially or completely, your ability to receive the Services will be reduced or terminated, respectively. PACCAR is not responsible for providing you continued access to the Services considering cellular network limitation or termination, nor any associated costs. Should the compatible network terminate, we may cancel your service and issue a prorated refund for any remaining unused time in your Subscription that you have paid in advance, if applicable. If that happens, we will notify you of the effective date of cancellation.</p>
+</li>
+<li>
+<p><strong>Wireless Service Providers (Carriers). </strong>You understand and that you have no contractual relationship with the wireless carrier and that you are not a third-party beneficiary of any agreement between PACCAR and the wireless carrier. YOU UNDERSTAND THAT THE UNDERLYING CARRIER DOES NOT GUARANTEE ANY END USER UNINTERRUPTED SERVICE OR COVERAGE. THE UNDERLYING CARRIER CANNOT GUARANTEE THE SECURITY OF WIRELESS TRANSMISSIONS.  Any claims related to the providing of services or security by the wireless carrier are between you and the carrier, PACCAR makes no representations or warranties about that service and disclaims all liability for any errors, omissions, or negligence on the part of the carrier/Service Provider.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>10.    PRIVACY</strong> We collect information about you and your Vehicle several different ways: from what you or your Vehicle dealer provide to us when you buy or lease your Vehicle; from your use of the Subscription and Services; from calls or emails between us; from our Underlying Wireless Carrier; and from your Vehicle itself.</p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>Security of Wireless Networks. </strong>Because your Services are provided through wireless networks, we cannot promise that your communications are secure and will not be intercepted by others. You agree we will not be liable for any damages for any loss of privacy occurring in communication over such networks. If you do not notify us of a sale or transfer of your Vehicle, we may continue to send reports or other information about the vehicle or the Services account to the billing address or electronic address currently on file with us. In such case, we are not responsible for any privacy related damages you may suffer.</p>
+</li>
+<li>
+<p><strong>Information Collected, Used and Disclosed by Us.</strong> We may collect, use and retain certain information about you and your Vehicle (“Data”) that may include what may be considered personal information or personal data under applicable data protection laws (“Personal Information”). Data may be any information, nonpublic or otherwise, relating to your Vehicle or its use, you, your communications, your activities, functionality use, statistics, performance data, quality metrics, or any other information whatsoever, any of which may be collected from your Vehicle or from you via the Services and may include without limiting the generality of the foregoing: your Vehicle’s description, location, speed, direction of travel, time of travel, service data, odometer reading, start and stop information, fault codes, engine data, Vehicle Identification Number (“VIN”), or mechanical condition. You agree that we may record or monitor this Data, including GPS location, (1) as required by applicable law, including without limitation, state and federal laws, rules, regulations, and judicial orders; (2) in connection with our attempts to communicate with you or recover your Vehicle pursuant to agreements governing the lease or financing of your Vehicle; (3) to provide services to you (4) to market services to you (5) to provide such data to third parties and to develop additional products and services of PACCAR, PACCAR affiliates and subsidiaries, and service partners, including PACCAR’s dealer network. We may use Personal Information in connection with the Services to manage your account, to improve or develop other products and services, to perform analysis and research, to improve your experience at PACCAR dealers, and to enhance your overall ownership experience. We have implemented technical and organizational measures to help mitigate the risk of loss, misuse, and alteration of the Personal Information under our control. We may disclose Personal Information we collect to Service Providers for the same purposes that we may use the information. We contractually require Service Providers to protect Personal Information. Please visit the PACCAR Inc Privacy Statement at <a href="http://www.paccar.com/privacy">www.paccar.com/privacy</a> for more information. We may also disclose Personal Information to individuals you designate as emergency contacts. We may disclose Personal Information when we are required to do so to comply with the law, in legal proceedings, to respond to subpoenas or court orders, in cooperation with law enforcement agencies, and to enforce the terms of this Agreement and any agreement related to the lease or financing of your Vehicle. By using the Vehicle, you agree to the disclosure of Personal Information as described in this Agreement. You may opt out of the collection and sale of Personal Information by emailing <a href="mailto:PACCARRemoteDiagnostics@paccar.com">PACCARRemoteDiagnostics@paccar.com</a> as stated above.</p>
+</li>
+<li>
+<p><strong>Access to Privacy Information. </strong>This Agreement and the PACCAR Inc Privacy Statement govern our use and protection of the information we collect from you. We may change the Privacy Policy at any time in the manner set forth therein. You can access the current Privacy Statement online at <a href="http://www.paccar.com/privacy">www.paccar.com/privacy</a> You may contact us with any comments or inquiries about the Privacy Policy by using the methods described under the “Contact Information” section of the Privacy Policy. You may review, modify, correct, or update the information you provide us at any time by contacting the dealership where you purchased your vehicle.</p>
+</li>
+<li>
+<p><strong>Your Consent.</strong> YOU CONSENT ON BEHALF OF YOURSELF AND OCCUPANTS IN YOUR VEHICLE TO WIRELESS COMMUNICATION BEING CONDUCTED IN YOUR VEHICLE TO ENABLE US AND THE SERVICE PROVIDERS TO DELIVER THE SERVICES. YOU ON BEHALF OF YOURSELF AND OCCUPANTS IN YOUR VEHICLE ALSO CONSENT TO THE COLLECTION, RECORDING AND USE OF THE INFORMATION DESCRIBED IN THIS AGREEMENT AND RELEASE US AND THE THIRD-PARTY BENEFICIARIES FROM AND AGAINST ANY AND ALL CLAIMS OR LIABILITIES ARISING OUT OF THE COLLECTION AND USE OF THIS INFORMATION. YOU ALSO AGREE THAT WE MAY CONTACT YOU BY ELECTRONIC MAIL OR BY TELEPHONE AT ANY NUMBER WE HAVE ON FILE FOR YOU TO DISCUSS YOUR ACCOUNT OR TO DELIVER SERVICES, EVEN IF DOING SO MAY RESULT IN ADDITIONAL TELECOMMUNICATIONS FEES OR CHARGES TO YOU. SPECIFICALLY, BY PROVIDING A CELLULAR PHONE NUMBER TO US, YOU AGREE THAT WE MAY CONTACT YOU WITH SERVICE-RELATED CALLS AT THAT NUMBER.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>11.    NO WARRANTIES. </strong>Your Vehicle’s limited warranty or hardware maker’s limited warranty (if applicable) includes certain hardware components, BUT DOES NOT COVER THE SERVICES, ANY SOFTWARE OR THE WIRELESS SERVICE. In<br>addition, we cannot promise uninterrupted or problem-free Services, and we cannot promise that the data or information provided to you will be error-free. Services are provided by PACCAR, and other Service Providers. ALL DATA AND INFORMATION IS PROVIDED TO YOU ON AN "AS IS" BASIS. NEITHER WE NOR ANY THIRD-PARTY MAKE ANY WARRANTY WHATSOEVER WITH RESPECT TO THE SERVICES, CONTENT, QUALITY, SUITABILITY, ACCURACY, TIMELINESS, COMPLETENESS, CORRECTNESS, RELIABILITY, SECURITY OR PERFORMANCE ABOUT ANY DEVICE, GOODS, SERVICES OR ABOUT ANY DATA OR INFORMATION OR SERVICES PROVIDED THROUGH IT, INCLUDING ANY<br>(A) WARRANTY OF MERCHANTABILITY; OR (B) WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE; OR (C) WARRANTY OF TITLE; (D) WARRANTY AGAINST INFRINGEMENT OF INTELLECTUAL PROPERTY RIGHTS OF A THIRD PARTY; WHETHER EXPRESS OR IMPLIED BY LAW, COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE OF TRADE, BY STATUTE, OR OTHERWISE. ALL SUCH WARRANTIES ARE EXPRESSLY EXCLUDED BY THIS AGREEMENT.</p>
+<p><strong>12.    LIMITATIONS OF LIABILITY.</strong> YOU AND WE ARE EACH WAIVING THE FOLLOWING IMPORTANT RIGHTS EXCEPT WHERE PROHIBITED BY LAW:</p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>NO LIABILITY.</strong> IN NO EVENT WILL PACCAR OR THE UNDERLYING WIRELESS SERVICE CARRIER BE LIABLE UNDER ANY THEORY OF LIABILITY FOR ANY OF THE FOLLOWING: (A) ANY ACT OR OMISSION OF A THIRD-PARTY THAT DAMAGES OR IMPAIRS THE NETWORK OR DISRUPTS SERVICE; (B) INTERRUPTIONS, ERRORS, FAILURES TO TRANSMIT, DELAYS, OR DEFECTS IN WIRELESS SERVICE; (C) SUSPENSION OR TERMINATION OF WIRELESS SERVICES; (D) USE OF THE DEVICE, SYSTEM, OR SERVICES; (E) CLAIMS AGAINST YOU BY A THIRD-PARTY; (F) INABILITY TO USE THE DEVICE, SYSTEM, OR SERVICES; (G) INSTALLATION, REPAIR, OR MAINTENANCE OF THE SYSTEM; (H) BREACH OF PRIVACY OR DATA SECURITY IN CONNECTION WITH ANY WIRELESS TRANSMISSION; OR<br>(I) SERVICE INTERRUPTIONS OF 30 DAYS OR LESS, OR OTHER PROBLEMS CAUSED BY OR CONTRIBUTED TO BY YOU, BY ANY THIRD-PARTY, BY BUILDINGS, HILLS, TUNNELS, NETWORK CONGESTION, WEATHER, OR ANY OTHER THINGS WE OR SERVICE PROVIDERS DON'T CONTROL.</p>
+</li>
+<li>
+<p><strong>MAXIMUM LIABILITY. </strong>THE MAXIMUM AGGREGATE LIABILITY FOR EITHER PARTY, OR ANY SERVICE PROVIDER OR UNDERLYING CARRIER, ARISING OUT OF OR RELATED TO THIS AGREEMENT, EXCEPT FOR YOUR OBLIGATIONS TO MAKE PAYMENT UNDER THIS AGREEMENT, WHETHER ARISING OUT OF OR RELATED TO ANY THEORY OF LIABILITY INCLUDING WITHOUT LIMITATION, BREACH OF CONTRACT, FRAUD, MISREPRESENTATION, BREACH OF WARRANTY, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE), SHALL NOT EXCEED THE GREATER OF THE TOTAL AMOUNT PAID BY YOU FOR TRUCK CONNECTIVITY SERVICES DURING THE RENEWAL PERIOD IMMEDIATELY PRECEDING THE DATE YOUR CLAIM AROSE OR THE ADDITIONAL AMOUNT PAID BY YOU FOR THE VEHICLE PURCHASE SUBSCRIPTION PERIOD. THIS AMOUNT IS THE SOLE AND EXCLUSIVE LIABILITY OF PACCAR, THE SERVICE PROVIDERS, AND ANY OTHER THIRD-PARTY BENEFICIARIES, TO YOU AND IS PAYABLE AS LIQUIDATED DAMAGES AND NOT AS A PENALTY. YOU UNDERSTAND AND AGREE THAT NONE OF PACCAR, THE WIRELESS CARRIER, ANY SERVICE PROVIDER, NOR ANY OTHER THIRD-PARTY<br>BENEFICIARY WOULD HAVE AGREED TO PROVIDE TRUCK CONNECTIVITY SERVICES TO YOU IF YOU DID NOT AGREE TO THIS LIMITATION.</p>
+</li>
+<li>
+<p><strong>CONSEQUENTIAL OR INDIRECT DAMAGES.</strong> IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY OR ANY THIRD PARTY, INCLUDING WITHOUT LIMITATION THE UNDERLYING WIRELESS CARRIER, UNDER ANY THEORY OF LIABILITY, EXCEPT WHERE PROHIBITED BY LAW, FOR CONSEQUENTIAL, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE OR ENHANCED DAMAGES, LOST PROFITS OR REVENUES, DIMINUTION IN VALUE, OR ATTORNEY FEES ARISING OUT OF, RELATING TO, OR IN CONNECTION WITH THIS AGREEMENT, REGARDLESS OF (A) WHETHER SUCH DAMAGES WERE FORESEEABLE, OR (B) WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+</li>
+</ol>
+</li>
+</ol>
+<p><strong>13.    YOUR RESPONSIBILITY FOR ANY THIRD PARTIES’ CLAIMS. </strong>YOU AGREE THAT YOU'LL BE RESPONSIBLE FOR ANY AMOUNT ANYONE ELSE CLAIMS FROM PACCAR, OR ANY THIRD-PARTY BENEFICIARIES OR THEIR OFFICERS, EMPLOYEES, AFFILIATES, AND AGENTS PLUS ANY EXPENSES, RESULTING FROM ANY CLAIM, DEMAND, OR ACTION, REGARDLESS OF THE NATURE OF THE CAUSE OF THE CLAIM, DEMAND, OR ACTION ALLEGING LOSS, COSTS, EXPENSES, DAMAGES, OR INJURIES (INCLUDING INJURIES RESULTING IN DEATH) ARISING OUT OF OR IN CONNECTION WITH (1) THE ACTIVITIES CONTEMPLATED BY THIS AGREEMENT, WHETHER BROUGHT BY YOU, YOUR EMPLOYEES, OR THIRD PARTIES, EVEN IF DUE TO THE SOLE NEGLIGENCE OF PACCAR OR THE SERVICE PROVIDERS; (2) THE USE OR POSSESSION OF DATA OR INFORMATION PROVIDED IN CONNECTION WITH THE SUBSCRIPTION; (3) CLAIMS FOR LIBEL, SLANDER, OR ANY PROPERTY DAMAGE, PERSONAL INJURY, OR DEATH, ARISING OUT OF OR RELATED IN ANY WAY DIRECTLY OR INDIRECTLY TO THIS AGREEMENT; or (4) THE USE, FAILURE TO USE, OR INABILITY TO USE THE SERVICES, EXCEPT WHERE THE CLAIMS RESULT FROM THE GROSS NEGLIGENCE OR WILLFUL MISCONDUCT OF ANY OF PACCAR OR THE SERVICE PROVIDERS. In addition, if you've authorized us to charge amounts due against your credit or bank card account or other similar account by giving us a card or account number, THEN YOUR AGREEMENT IN THIS SECTION EXTENDS TO CLAIMS, EXPENSES, LIABILITIES, OR DAMAGES ARISING OUT OF OR IN CONNECTION WITH USE OR OWNERSHIP OF THE CREDIT, DEBIT, OR BANK CARD ACCOUNT OR OTHER SIMILAR PAYMENT ACCOUNT, OR FROM THE ISSUER'S REFUSAL TO PAY AMOUNTS CHARGED TO SUCH ACCOUNT.</p>
+<p><strong>14.    RESOLVING DISPUTES.</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li style="font-weight: bold;">
+<p><strong>Arbitration.</strong></p>
+</li>
+</ol>
+</li>
+</ol>
+<table border="1" style="border-collapse: collapse; width: 100%; overflow: hidden;">
+<tbody class="full-body">
+<tr>
+<td>
+<p style="text-align: center; padding-top: 20px;"><strong>ARBITRATION CLAUSE - IMPORTANT - PLEASE REVIEW - AFFECTS YOUR LEGAL RIGHTS</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>1.    ANY DISPUTE BETWEEN US WILL BE DECIDED BY ARBITRATION AND NOT IN COURT OR BY JURY TRIAL.</p>
+<p>2.    IF A DISPUTE IS ARBITRATED, YOU GIVE UP YOUR RIGHT TO PARTICIPATE AS A CLASS REPRESENTATIVE OR CLASS MEMBER ON ANY CLASS CLAIM YOU MAY HAVE AGAINST US INCLUDING CLASS ARBITRATION OR ANY CONSOLIDATION OF INDIVIDUAL ARBITRATIONS.</p>
+<p>3.    DISCOVERY AND RIGHTS TO APPEAL IN ARBITRATION ARE GENERALLY MORE LIMITED THAN IN A LAWSUIT, AND OTHER RIGHTS THAT YOU AND WE WOULD HAVE IN COURT MAY NOT BE AVAILABLE IN ARBITRATION.</p>
+<p>If you and we have a disagreement related to the Services, <strong>we will try to resolve it by talking with each other</strong>. If we fail resolve it that way, then we and you agree to arbitrate <strong>all disputes and claims</strong> between us. This agreement to arbitrate is intended to be broadly interpreted. It includes, but is not limited to: (i) claims arising out of or relating to any aspect of the relationship between us, whether based in contract, tort, statute, fraud, misrepresentation, or any other legal theory; (ii) claims that arose before this or any prior agreement (including, but not limited to, claims relating to advertising); (iii) claims that are currently the subject of purported class action litigation in which you are not a member of a certified class; and (iv) claims that may arise after the termination of this Agreement. References to “us” and “we” in this Section 15 include the Third-party Beneficiaries, and references to "you," “we” and "us" in this section 15 include our respective subsidiaries, affiliates, agents, employees, predecessors in interest, successors, and assigns, as well as all authorized or unauthorized users or beneficiaries of the Services or the System under this or prior agreements between you and us. If federal law provides that a claim or dispute is not subject to binding arbitration, this arbitration clause shall not apply to such claim or dispute. ANY CLAIM OR DISPUTE IS TO BE ARBITRATED BY A SINGLE ARBITRATOR ON AN INDIVIDUAL BASIS AND NOT AS A CLASS ACTION. YOU EXPRESSLY WAIVE ANY RIGHT YOU MAY HAVE TO ARBITRATE AS A CLASS ACTION. Disputes will be adjudicated under the applicable commercial rules of the American Arbitration Association (800-778-7879 or www.adr.org). You may get a copy of the rules by visiting the AAA website.</p>
+<p>Arbitrators shall be attorneys or retired judges and shall be selected pursuant to the applicable rules. The arbitrator shall apply governing substantive law and the applicable statutes of limitation. Unless applicable law provides otherwise, the arbitration hearing shall be conducted in the federal district in which you live. Each party shall be responsible for its own attorney, expert and other fees, unless awarded by the arbitrator under applicable law. If the chosen arbitration organization’s rules conflict with this clause, then the provisions of this clause shall control. The arbitrator’s award shall be final and binding on all parties, except that either party may appeal any arbitrator’s award pursuant to the rules of the arbitration organization. Any arbitration under this arbitration clause shall be governed by the United States Federal Arbitration Act (9 U.S.C. §1 et. seq.) and not by any state law concerning arbitration. The Parties further acknowledge and agree that this Agreement (i) is not a contract under which any person is authorized to purchase any vehicle from PACCAR for resale to any other person, or to repair or service any vehicle offered by PACCAR; (ii) is therefore not a "motor vehicle franchise contract" within the meaning of 15 U.S.C. §1226; (iii) is not subject to or governed by the provisions of 15 U.S.C. §1226; (iv) is not subject to or governed by the Act or any other state or federal dealer franchise law; and (v) is subject fully to the provisions of the United States Federal Arbitration Act, 9 U.S.C. §1, et seq.</p>
+<p>You retain the right to seek remedies in small claims court for disputes or claims within that court’s jurisdiction. You and we retain any rights to self-help remedies. Any court having jurisdiction may enter judgment on the arbitrator’s award. This arbitration clause shall survive any termination of this contract. If any part of this arbitration Clause, other than waivers of class action rights, is deemed or found to be unenforceable for any reason, the remainder shall remain enforceable. If a waiver of class action rights is deemed or found to be unenforceable for any reason in a case in which class allegations have been made, the remainder of this Arbitration clause shall be unenforceable.</p>
+<p>A party who intends to seek arbitration must first send to the other, by certified mail, a written Notice of Dispute ("<strong>Notice</strong>"). The Notice to PACCAR should be addressed to: Legal Department, PACCAR Inc, P.O. Box 1518 Bellevue, WA 98009. The Notice must: (a) describe the nature and basis of the claim or dispute; and (b) set forth the specific relief sought. If we and you do not reach an agreement to resolve the claim within 30 days after the Notice is received, you or we may commence an arbitration proceeding. During the arbitration, the amount of any settlement offer made by us or you will not be disclosed to the arbitrator.</p>
+<p style="padding-left: 40px;"><strong>B. Governing Law.</strong> To the fullest extent permitted by law, and except as provided otherwise in Section 15A above, this Agreement and any disputes arising out of or relating to it will be governed by the laws of the state of Delaware without regard to its conflict of law principles, and by any applicable tariffs, wherever filed.</p>
+<p style="padding-left: 40px;"><strong>C. Time Limits.</strong> YOU ARE NOT ALLOWED TO COMMENCE ANY CLAIM AGAINST PACCAR, OR ANY THIRD-PARTY BENEFICIARY LATER THAN ONE YEAR, AFTER THE CLAIM ARISES, OR THE SHORTEST DURATION OF TIME PERMITTED UNDER APPLICABLE LAW IF GREATER THAN ONE YEAR.</p>
+<p><strong>15.    GENERAL LEGAL INFORMATION.</strong></p>
+<ol>
+<li style="list-style-type: none;">
+<ol style="list-style-type: upper-alpha;">
+<li>
+<p><strong>Notices; Communicating with Each Other.</strong> Except as otherwise provided in the Arbitration provisions in Section 15 above, any written notice from you required by this Agreement, other than activation/deactivation or opt out requests will be effective when we receive it at: Legal Department, PACCAR Inc, P.O. Box 1518 Bellevue, WA 98009. Any written notice from us required by this Agreement will be effective when transmitted by email to any email address we have on file for you, or two days after we mail it to you at the most current billing address we have on file for you.</p>
+</li>
+<li>
+<p><strong>Others Covered by this Agreement.</strong> The wireless carrier, all other Service Providers, our affiliates, and the affiliates of each of the foregoing are intended beneficiaries of this Agreement. You agree that you will make any of your passengers or guests or drivers or subsequent owners of your Vehicle aware of our rights and the other terms and conditions of this Agreement.</p>
+</li>
+<li>
+<p><strong>Our Relationship.</strong> Nothing contained in this Agreement shall be construed as creating any agency, partnership, joint venture or other form of joint enterprise, employment, or fiduciary relationship between the parties or any third party beneficiary. Neither party, by virtue of this Agreement, will have any right, power, or authority to act or create an obligation, express or implied, on behalf of the other party.</p>
+</li>
+<li>
+<p><strong>Assignment.</strong> We can assign this Agreement or your obligations to pay under it in whole or in part to anyone we choose. You cannot assign this Agreement or your obligations to anyone else without our prior written consent. Any assignment by you without such consent shall be null and void.</p>
+</li>
+<li>
+<p><strong>Miscellaneous Provisions.</strong> This Agreement (including these terms and conditions, the PACCAR Privacy Statement, the Warranty Agreement, and any other Truck Connectivity Services documents incorporated in them) is the entire agreement between you and us.  In the case of conflict between this agreement and the PACCAR Privacy Statement, the Privacy Statement will prevail. This Agreement supersedes all other agreements or representations, oral or written, between us, past or present. If any term or provision of this Agreement is invalid, illegal, or unenforceable in any jurisdiction, such invalidity, illegality, or unenforceability shall not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction. Upon determination by a court or arbitrator that any term or provision herein is invalid, illegal, or unenforceable, such court or arbitrator shall modify this Agreement so as to effect the original intent of such provision as closely as possible in order that the transactions contemplated hereby be consummated as originally contemplated to the greatest extent possible. If any part of this Agreement is considered invalid or unenforceable by a court or arbitrator, the rest of it will remain enforceable. Even after this Agreement has ended, its provisions will govern any disputes arising out of or relating to it (unless it's been replaced by a new agreement between us). It will also be binding on your heirs and successors and on our successors. No waiver of any part of this Agreement, or of any breach of it, in any one instance will require us to waive any other instance or breach. IN SOME CIRCUMSTANCES WE MIGHT DECIDE TO PROVIDE YOU SERVICE VOLUNTARILY EVEN IF YOU WOULD NOT OTHERWISE QUALIFY. THIS WILL NOT BE A WAIVER OR REQUIRE US TO DO SO AGAIN. YOU AGREE WE WILL NOT BE LIABLE FOR ANYTHING RESULTING FROM OUR PROVISION OF SUCH SERVICE.</p>
+</li>
+</ol>
+</li>
+</ol>
+		</div>
+	</div>
+
+<script defer>
+	var coll = document.getElementsByClassName("collapsible");
+	var i;
+
+	for (i = 0; i < coll.length; i++) {
+		coll[i].addEventListener("click",  function() {
+			this.classList.toggle("active");
+			var content = this.parentElement.nextElementSibling;
+			if (content.style.display  === "block") {
+				content.style.display =  "none";
+			} else {
+				content.style.display = "block";
+			}
+		});
+	}
+</script>
+
+<script type="text/javascript">
+function getCurrentURL () {
+  return window.location.href
+}
+const url = getCurrentURL()
+$( document ).ready(function() {
+	if(url.indexOf('paccar-cookie-statement') > -1) {
+		var script = document.createElement('script');
+		script.id = 'CookieDeclaration';
+		script.src = 'https://consent.cookiebot.com/89206258-95fa-4bfb-8579-795be849546d/cd.js';
+		script.type = 'text/javascript';
+		script.async = true;
+		document.body.appendChild(script);
+
+	}
+});
+</script>
+
+		</main>
+
+			
+	<!-- Careers Bar -->
+	<div class="paccar-blue">
+		<div class="row">
+			<div class="large-12 columns">
+				<div class="headline"><b>A WORLD OF OPPORTUNITY AWAITS.</b> <a href="/careers">LEARN ABOUT CAREERS AT PACCAR &#10141;</a></div>
+			</div>
+		</div>
+	</div>
+	<!-- Footer -->
+	<div class="grey-bg">
+		<footer class="row collapse">
+			<div class="large-7 columns">
+				<figure id="footer-logos">
+					<svg version="1.1"
+						viewBox="0 0 558 180"
+						preserveAspectRatio="xMinYMin meet"
+						aria-labelledby="footer-logo-title"
+						role="img">
+						<title id="footer-logo-title">PACCAR Companies</title>
+						<image alt="Go to one of our companies" width="558" height="180" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/footer.png">
+						</image>
+						<a aria-label="Go to daf.com" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.daf.com" target="_blank"><rect x="8.5" y="13.5" opacity="0" fill="#FFFFFF" width="112" height="30.5"></rect></a>
+						<a aria-label="Go to kenworth.com" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.kenworth.com" target="_blank"><rect x="159" y="13.5" opacity="0" fill="#FFFFFF" width="182.5" height="32"></rect></a>
+						<a aria-label="Go to peterbilt.com" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.peterbilt.com" target="_blank"><rect x="382.5" y="5" opacity="0" fill="#FFFFFF" width="120" height="50"></rect></a>
+						<a aria-label="Go to paccarfinancial.com" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.paccarfinancial.com" target="_blank"><rect x="8.5" y="120" opacity="0" fill="#FFFFFF" width="120" height="45"></rect></a>
+						<a aria-label="Go to paccarparts.com" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.paccarparts.com" target="_blank"><rect x="8.5" y="72" opacity="0" fill="#FFFFFF" width="191" height="20.5"></rect></a>
+						<a aria-label="Go to paccarpowertrain.com" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.paccarpowertrain.com" target="_blank"><rect x="148" y="120" opacity="0" fill="#FFFFFF" width="220" height="22"></rect></a>
+						<a aria-label="Go to paclease.com" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.paclease.com" target="_blank"><rect x="386.5" y="72" opacity="0" fill="#FFFFFF" width="57" height="67.5"></rect></a>
+						<a aria-label="Go to paccarwinch.com" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.paccarwinch.com" target="_blank"><rect x="470" y="72" opacity="0" fill="#FFFFFF" width="80" height="70"></rect></a>
+						<a aria-label="Go to dynacraftnet.com" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.dynacraftnet.com/" target="_blank"><rect x="212" y="72" opacity="0" fill="#FFFFFF" width="165" height="18"></rect></a>
+					</svg>
+				</figure>
+			</div>
+
+			<div class="medium-5 columns">
+					<ul>
+							<li class="title"><a href="https://paccar.com/about-us/contact/">Contact</a></li>
+							<li class="title"><a href="https://paccar.com/about-us/get-to-know-paccar/">Get to Know PACCAR</a></li>
+							<li class="title"><a href="https://investors.paccar.com/overview/default.aspx">Investors</a></li>
+							<li class="title"><a href="https://paccar.com/news/">News</a></li>
+					</ul>
+			</div>
+
+			<div class="row collapse">
+				<div class="large-12 columns">
+						<ul class="inline-list footer-tag r">
+							<li>&copy; 2024 PACCAR Inc.  All rights reserved.</li>
+								<li><a href="/privacy">Privacy Statement</a></li>
+								<li><a href="/media/pahng4ix/employee-privacy-statement-1-16-2023.pdf">Employee Privacy Statement</a></li>
+								<li><a href="https://paccar.com/california-transparency-in-supply-chains-act/">California Transparency in Supply Chains Act</a></li>
+								<li><a href="https://www.paccar.com/canada-supply-chains-act/">Canada Supply Chains Act Report</a></li>
+								<li><a href="/doe-financial-conflict-of-interest-policy-disclosure/">Department of Energy FCOI Policy Disclosure</a></li>
+								<li><a href="/telematicsterms">Telematics Terms &amp; Conditions</a></li>
+								<li><a href="/terms-of-use">Terms of Use</a></li>
+								<li><a href="https://paccar.com/sitemap/">Sitemap</a></li>
+						</ul>
+					<ul class="inline-list footer-tag tech">
+						<li>For technical problems involving this site contact <a href="mailto:internetproducer@paccar.com">internet producer</a></li>
+					</ul>
+				</div>
+			</div>
+		</footer>
+	</div>
+	<!-- End Footer -->
+
+
+		<script src="/js/sizzle.js"></script>
+		<script src="/js/foundation.min.js"></script>
+		<script src="/js/foundation/foundation.topbar.js"></script>
+		<script type="text/javascript" src="/js/respond.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.mousewheel.js"></script>
+
+		
+
+		<script>
+			$(document).foundation();
+			var doc = document.documentElement;
+			doc.setAttribute('data-useragent', navigator.userAgent);
+		</script>
+<!-- Paccar2 -->
+</body>
+</html>

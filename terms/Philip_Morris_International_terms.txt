@@ -1,0 +1,1247 @@
+ <!DOCTYPE html> <html lang="en" > <head><link rel="canonical" href="https://www.pmi.com/legal/conditions-of-use" /><link rel="alternate" hreflang="x-default" href="https://www.pmi.com/legal/conditions-of-use" /><title>
+	Terms of Use | PMI - Philip Morris International
+</title><meta name="Generator" content="Sitefinity 13.3.7637.0 PU" /><meta name="og:type" content="website" property="og:type" /><meta name="twitter:card" content="summary_large_image" property="twitter:card" /><meta name="og:title" content="Terms of Use" property="og:title" /><meta name="og:description" content="Read more about Philip Morris International&#39;s website Conditions of Use." property="og:description" /><meta name="og:url" content="https://www.pmi.com/legal/conditions-of-use" property="og:url" /><meta name="og:image" content="https://www.pmi.com/resources/images/default-source/pageogimages/defaultogimage.jpg?sfvrsn=d66b91b5_2" property="og:image" /><meta name="og:image:height" content="630" property="og:image:height" /><meta name="og:image:width" content="1200" property="og:image:width" /><meta name="facebook-domain-verification" content="585t1xnca029bnw9hom1p2uoh44xtm" property="facebook-domain-verification" /> <meta charset="utf-8" />  <!-- IOS telephone format detection disabled--> <meta name="format-detection" content="telephone=no"> <meta content="width=device-width" name="viewport">  <link rel="preload stylesheet" href="/assets-v3/main-d7e97327d1.css" as="style" /> <link rel="preload" href="/assets-v3/fonts/lato-v16-latin-300italic.woff2" as="font" crossorigin> <link rel="preload" href="/assets-v3/fonts/lato-v16-latin-300normal.woff2" as="font" crossorigin> <link rel="preload" href="/assets-v3/fonts/lato-v16-latin-400italic.woff2" as="font" crossorigin> <link rel="preload" href="/assets-v3/fonts/lato-v16-latin-400normal.woff2" as="font" crossorigin> <link rel="preload" href="/assets-v3/fonts/lato-v16-latin-700italic.woff2" as="font" crossorigin> <link rel="preload" href="/assets-v3/fonts/lato-v16-latin-700normal.woff2" as="font" crossorigin> <link rel="preload" href="/assets-v3/fonts/icomoon-4467db897e.woff2" as="font" crossorigin> <!-- Google Optimize Part 1 --> <style type="text/css">
+    .async-hide {
+        opacity: 0 !important;
+    }
+</style> <script>
+
+    (function(a, s, y, n, c, h, i, d, e) {
+        s.className += ' ' + y;
+        h.start = 1 * new Date;
+        h.end = i = function() { s.className = s.className.replace(RegExp(' ?' + y), '') };
+
+        (a[n] = a[n] || []).hide = h;
+        setTimeout(function() {
+                i();
+                h.end = null
+            },
+            c);
+        h.timeout = c;
+
+    })(window,
+        document.documentElement,
+        'async-hide',
+        'dataLayer',
+        1000,
+        { 'GTM-5S79LJ9': true }
+    );
+</script><!-- Data Layer --> <script>
+            window.dataLayer = window.dataLayer || []; dataLayer.push(
+                { 'primaryTopic': 'PMITransformation',
+                  'secondaryTopic': 'PMITransformation' }
+            );
+</script> <!-- End Data Layer --> <!-- Google Tag Manager --> <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl + '&gtm_auth=VI_swEC2Wk0GT8sy9GJWGw&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NB9FK8');</script> <!-- End Google Tag Manager --><!-- OneTrust Cookies Consent Notice start --> <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-language="en" type="text/javascript" charset="UTF-8" data-domain-script="7e32c38f-3d9b-490c-94ae-27363dd621a8"></script> <script type="text/javascript">
+    function OptanonWrapper() { }
+</script> <!-- OneTrust Cookies Consent Notice end --><!-- Adobe Target Container --> <script type="text/javascript">
+    window.targetGlobalSettings = {
+        at_property:"289355f8-b6e4-93e7-d7b8-cde551a96950",
+        bodyHidingEnabled: true,
+        bodyHiddenStyle: "body{opacity:0}",
+        globalMboxAutoCreate: true,
+        timeout: 1500,
+        visitorApiTimeout: 1500,
+        secureOnly: true,
+        overrideMboxEdgeServer:false,
+        optinEnabled: false,
+        viewsEnabled:true,
+        pageLoadEnabled:true
+    };
+</script> <script type="text/javascript">
+     function targetPageParams() {
+        return {
+          "at_property": "289355f8-b6e4-93e7-d7b8-cde551a96950"
+        };
+     }
+</script> <script type="text/javascript" src="https://www.pmi.com/resources/docs/default-source/adobe-target/at.js"></script> <!-- Adobe Target Container End --> <link rel="modulepreload" href="/assets-v3/app-d700dd5125.js"> <style type="text/css" media="all">@media screen and (min-width: 750px) {
+.footer-list {
+    margin-bottom: -20%;
+  }}</style><meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
+	(function() {var _rdDeviceWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;var _rdDeviceHeight = (window.innerHeight > 0) ? window.innerHeight : screen.height;var _rdOrientation = (window.width > window.height) ? 'landscape' : 'portrait';})();
+</script><meta name="description" content="Read more about Philip Morris International&#39;s website Conditions of Use." />
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="WYAE7-85BY4-2GFHY-SYVSG-A4HL9",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"WYAE7-85BY4-2GFHY-SYVSG-A4HL9",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epadkmyxbloz6zx4zd5q-f-8480d5c05-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"1390721","ak.ai":parseInt("830284",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"41137b2","ak.r":44093,"ak.a2":e,"ak.m":"a","ak.n":"essl","ak.bpcip":"35.192.53.0","ak.cport":49844,"ak.gh":"23.33.28.140","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727842555","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==tlPXwAyDgmbo7z3abRRdbt7aZl+WUVAfHBArfkqSYrPIrtLVe3lzYX9T5HnLqk3U+h6iO8ZMb3FF0HhDsWSWAp3DnDq0eC+ku8DEPaIqYdfTmjwMKz8sfRRz8od3IN+XiaGWb44dTCwkh7rvQM2q4EHea42CoFc3PGN0tRycLEWqbXNwWMRtC/qlbo98IWBCTmN3AWWYRsIllaAjT7s15vepOVvNNzrKhvhHHP20PF65g7YH0dWM1Nu1xW8wAWn4vcK5ulxoUvbO67z4+sDR46mYmJdGizH9POhJy4wHD8yxUGIKSY+EP3SsJOcCZXWkuF3K2OjQg1zMaBarqBQ+45g/Us0Om/ynwvmqoGka3D5vs0J0JIapc5bgD8OuTCYRXVo+jEFok+dLj8R757331x97SGE9YMceorqCULS34ok=","ak.pv":"43","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head> <body data-spy="scroll" data-target="#scrollspy" data-offset="15" data-pagetype="Corporate" class="" data-modal-close-label="Close"> <!-- Google Tag Manager (noscript) --> <noscript> <iframe src=https://www.googletagmanager.com/ns.html?id=GTM-NB9FK8&amp;gtm_auth=VI_swEC2Wk0GT8sy9GJWGw&amp;gtm_preview=env-2&amp;gtm_cookies_win=x
+            height="0" width="0" style="display:none;visibility:hidden"></iframe> </noscript> <!-- End Google Tag Manager (noscript) -->  
+<div class="nav-layout" data-controller="pmi:dropdown-menu-widget">
+  <nav class="nav-layout--container" role="navigation" aria-label="Main Navigation">
+    <div id="Navigation_T4E89A145001_Col00" class="sf_colsIn nav-layout--grow" data-sf-element="MainContent" data-placeholder-label="MainContent"><div class="dropdown-menu-widget--left">
+	<a aria-label="Desktop logo" href="/" class="dropdown-menu-widget--logo">
+		<img src="https://www.pmi.com/resources/images/default-source/default-album/pmi-logoaaf115bd6c7468f696e2ff0400458fff.svg?sfvrsn=37857db4_2" alt="Desktop logo" class="desktop" width="100%" height="100%">
+		<img src="https://www.pmi.com/resources/images/default-source/default-album/pmi-logoaaf115bd6c7468f696e2ff0400458fff.svg?sfvrsn=37857db4_2" alt="Desktop logo" class="mobile" width="100%" height="100%">
+	</a>
+	<a href="#main" class="skiplink arrow-link">Skip link</a>
+	<div class="dropdown-menu-widget--center">
+		<small class="dropdown-menu-widget--note">Delivering a Smoke-Free Future</small>
+		<ul class="dropdown-menu-widget--nav">
+			<li class="dropdown-menu-widget--element" data-has-submenu="true">
+				<a aria-expanded="false"
+					 
+					 href="/who-we-are/who-we-are-overview"
+					 
+					 class="dropdown-menu-widget--link">About us</a>
+				<div class="dropdown-menu-widget--submenu">
+					<div class="dropdown-menu-widget--submenu-container wrapper">
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/who-we-are/who-we-are-overview" >About us overview</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/corporate-governance/overview" >Corporate governance</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/who-we-are/our-leadership-team" >Our leadership team</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/who-we-are/our-views-and-standards" >Our views and standards</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/who-we-are/inclusion-diversity" >Diversity, equity, and inclusion</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/media-center" >Media center</a></li>
+								</ul>
+					</div>
+				</div>
+			</li>
+			<li class="dropdown-menu-widget--element" data-has-submenu="true">
+				<a aria-expanded="false"
+					 
+					 href="/our-business"
+					 
+					 class="dropdown-menu-widget--link">Our business</a>
+				<div class="dropdown-menu-widget--submenu">
+					<div class="dropdown-menu-widget--submenu-container wrapper">
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-business" >Our business overview</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-business/illicit-trade-prevention" >Illicit trade prevention</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-business/smoke-free-products" >PMI&#8217;s smoke-free products</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-business/suppliers/suppliers-who-we-are" >Suppliers</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-business/preventing-youth-access" >Preventing youth access</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/faq-section" >FAQ</a></li>
+								</ul>
+					</div>
+				</div>
+			</li>
+			<li class="dropdown-menu-widget--element" data-has-submenu="true">
+				<a aria-expanded="false"
+					 
+					 href="/our-progress"
+					 
+					 class="dropdown-menu-widget--link">Our progress</a>
+				<div class="dropdown-menu-widget--submenu">
+					<div class="dropdown-menu-widget--submenu-container wrapper">
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-progress" >Our progress overview</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-progress/our-smoke-free-vision" >Our smoke-free vision</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-progress/pmis-multi-category-approach-toward-a-smoke-free-future" >Our multicategory approach</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-progress/leaders-of-change" >Leaders of change</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-progress/voices-of-change" >Voices of Change</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/projects-with-a-heart" >Projects with a heart</a></li>
+								</ul>
+					</div>
+				</div>
+			</li>
+			<li class="dropdown-menu-widget--element" data-has-submenu="true">
+				<a aria-expanded="false"
+					 
+					 href="/our-science"
+					 
+					 class="dropdown-menu-widget--link">Our science</a>
+				<div class="dropdown-menu-widget--submenu">
+					<div class="dropdown-menu-widget--submenu-container wrapper">
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-science" >Our science overview</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-science/tobacco-harm-reduction" >Tobacco harm reduction</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/our-science/assessing-product-health-impacts" >Assessing our product health impacts</a></li>
+								</ul>
+					</div>
+				</div>
+			</li>
+			<li class="dropdown-menu-widget--element" data-has-submenu="true">
+				<a aria-expanded="false"
+					 
+					 href="/investor-relations"
+					 
+					 class="dropdown-menu-widget--link">Investor Relations</a>
+				<div class="dropdown-menu-widget--submenu">
+					<div class="dropdown-menu-widget--submenu-container wrapper">
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/investor-relations/overview" >Investor Relations Overview</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/investor-relations/press-releases-and-events" >Press releases &amp; events</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/investor-relations/pm-stock-and-bond-information" >Stock, dividends &amp; bonds</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/investor-relations/reports-filings" >Reports &amp; Filings</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/investor-relations/faq" >Frequently asked questions</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/investor-relations/contacts" >Contacts</a></li>
+								</ul>
+					</div>
+				</div>
+			</li>
+			<li class="dropdown-menu-widget--element" data-has-submenu="true">
+				<a aria-expanded="false"
+					  aria-current="true"
+					 href="/sustainability"
+					 
+					 class="current dropdown-menu-widget--link">Sustainability</a>
+				<div class="dropdown-menu-widget--submenu">
+					<div class="dropdown-menu-widget--submenu-container wrapper">
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/sustainability" >Sustainability overview</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/sustainability/our-approach-to-sustainability/sustainability-resources" >Sustainability resources</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/sustainability/reporting-on-sustainability" >Integrated report</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/sustainability/case-studies-and-market-stories" >Case studies &amp; market stories</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/sustainability/sustainability-news" >News and topics</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/sustainability/reporting-on-sustainability/about-pmis-reporting" >All reports</a></li>
+								</ul>
+					</div>
+				</div>
+			</li>
+			<li class="dropdown-menu-widget--element" data-has-submenu="true">
+				<a aria-expanded="false"
+					 
+					 href="/careers/overview"
+					 
+					 class="dropdown-menu-widget--link">Careers</a>
+				<div class="dropdown-menu-widget--submenu">
+					<div class="dropdown-menu-widget--submenu-container wrapper">
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/careers/overview" >Careers overview</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/careers/explore-our-job-opportunities" >Job opportunities</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/careers/our-people-culture" >Our people &amp; culture</a></li>
+								<li><a class="dropdown-menu-widget--submenu-link" href="/careers/equal-pay" >Equal pay</a></li>
+								</ul>
+								<ul class="dropdown-menu-widget--submenu-list">
+								<li><a class="dropdown-menu-widget--submenu-link" href="/careers/areas-of-work" >Areas of work</a></li>
+								</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+</div>
+<div class="dropdown-menu-widget--right">
+<div class="world-widget loaded" data-controller="pmi:world">
+	<button class="world-widget--fold-button sr-only">PMI Global</button>
+	<div class="world-widget--link-container">
+		<button class="world-widget--link world-widget--link-new" aria-label="PMI Global" aria-expanded="false">
+			PMI Global
+			<img class="world-widget--link-image" src="/assets-v3/images/world.svg" alt="world" width="100%" height="100%"/>
+		</button>
+	</div>
+	<div class="world-widget--drop ">
+		<div class="world-widget--drop-container">
+			<button class="world-widget--fold-button sr-only">PMI Global</button>
+<div class="market-search-menu" data-controller="pmi:market-search-menu" data-countries-api="/api/MarketCountryApi/GetMarketCountries">
+<div class="loading-overlay">
+	<svg viewBox="-10 -10 120 120">
+		<circle cx="50" cy="50" r="50" />
+		<circle cx="50" cy="50" r="50" />
+	</svg>
+</div><div class="search-field-drop glass-style open"
+	data-controller="pmi:search-field-drop" data-searchurl=""  data-index=""
+	data-fetch-once=""  data-no-fetch="true" 
+	data-always-open="true"  data-show-all-by-default="true" 
+	>
+	<div class="search-field-drop--field">
+		<div class="search-field-drop--back-suggestion"></div>
+		<label for="629288ef-0585-4f22-822b-3d2fde30bd63-market-search" class="sr-only">Market search</label>
+		<input id="629288ef-0585-4f22-822b-3d2fde30bd63-market-search" type="text" name="job-name" autocomplete="off"  placeholder="Market" />
+		
+	</div>
+	<div class="search-field-drop--drop">
+		<ul class="search-field-drop--suggestions scrollbar-style"></ul>
+	</div>
+</div>
+			<button class="market-search-menu--all-market market-search-menu--all-market-new" tabindex="-1">View all</button>
+</div>
+		</div>
+	</div>
+</div>
+		<div class="search" data-controller="pmi:search" data-uuid="01d68044-e68d-4dd6-8b3b-e11fd680aeba">
+		<div class="search--form boxed-style">
+			<button class="search--glass" aria-label="Search button" aria-expanded="false" aria-controls="01d68044-e68d-4dd6-8b3b-e11fd680aeba-unfoldable">
+			</button>
+			<div class="search-field-drop glass-style" data-dropdown=true data-controller="pmi:search-field-drop"
+				data-searchurl="/restapi/search/suggestions" data-redirectionurl="/search-results" data-index="global-site-search"
+				id="629288ef-0585-4f22-822b-3d2fde30bd63-unfoldable">
+				<div class="search-field-drop--field">
+					<div class="search-field-drop--back-suggestion"></div>
+					<label for="01d68044-e68d-4dd6-8b3b-e11fd680aeba-search" class="sr-only">Search input</label>
+					<input id="01d68044-e68d-4dd6-8b3b-e11fd680aeba-search" type="text" name="job-name" autocomplete="off" placeholder="" />
+				</div>
+				<button aria-label="close" class="search-field-drop--close"></button>
+				<div class="search-field-drop--drop">
+					<ul class="search-field-drop--suggestions scrollbar-style"></ul>
+				</div>
+			</div>
+		</div>
+	</div>
+<div class="mobile-nav">
+	<button class="mobile-nav--burger" aria-label="Menu"
+		aria-controls="main-mobile-nav" aria-expanded="false">
+		<span></span>
+		<span></span>
+		<span></span>
+	</button>
+	<div class="mobile-nav--opener" id="main-mobile-nav" hidden>
+		<nav class="mobile-nav--menu wrapper">
+			<div class="column">
+				<button class="mobile-nav--link is-back is-navigation hidden" data-target="start">Back</button>
+				<div class="mobile-nav--panels">
+					<ul class="mobile-nav--mainLinks mobile-nav--panel active" data-name="start">
+						<li>
+								<a class="mobile-nav--biglink mobile-nav--is-link" href="/who-we-are/who-we-are-overview">About us</a>
+								<button class="mobile-nav--link-button  is-navigation  mobile-nav--link is-next"
+												data-target="0-link"></button>
+						</li>
+						<li>
+								<a class="mobile-nav--biglink mobile-nav--is-link" href="/our-business">Our business</a>
+								<button class="mobile-nav--link-button  is-navigation  mobile-nav--link is-next"
+												data-target="1-link"></button>
+						</li>
+						<li>
+								<a class="mobile-nav--biglink mobile-nav--is-link" href="/our-progress">Our progress</a>
+								<button class="mobile-nav--link-button  is-navigation  mobile-nav--link is-next"
+												data-target="2-link"></button>
+						</li>
+						<li>
+								<a class="mobile-nav--biglink mobile-nav--is-link" href="/our-science">Our science</a>
+								<button class="mobile-nav--link-button  is-navigation  mobile-nav--link is-next"
+												data-target="3-link"></button>
+						</li>
+						<li>
+								<a class="mobile-nav--biglink mobile-nav--is-link" href="/investor-relations">Investor Relations</a>
+								<button class="mobile-nav--link-button  is-navigation  mobile-nav--link is-next"
+												data-target="4-link"></button>
+						</li>
+						<li>
+								<a class="mobile-nav--biglink mobile-nav--is-link" href="/sustainability">Sustainability</a>
+								<button class="mobile-nav--link-button  is-navigation  mobile-nav--link is-next"
+												data-target="5-link"></button>
+						</li>
+						<li>
+								<a class="mobile-nav--biglink mobile-nav--is-link" href="/careers/overview">Careers</a>
+								<button class="mobile-nav--link-button  is-navigation  mobile-nav--link is-next"
+												data-target="6-link"></button>
+						</li>
+						<li>
+							<button class="mobile-nav--link is-navigation mobile-nav--link-markets is-next"
+								data-target="markets">PMI Global</button>
+						</li>
+					</ul>
+					<div class="mobile-nav--panel" data-name="markets">
+						<h2 class="mobile-nav--panel-title">PMI Global</h2>
+<div class="market-search-menu" data-controller="pmi:market-search-menu" data-countries-api="/api/MarketCountryApi/GetMarketCountries">
+<div class="loading-overlay">
+	<svg viewBox="-10 -10 120 120">
+		<circle cx="50" cy="50" r="50" />
+		<circle cx="50" cy="50" r="50" />
+	</svg>
+</div><div class="search-field-drop glass-style open"
+	data-controller="pmi:search-field-drop" data-searchurl=""  data-index=""
+	data-fetch-once=""  data-no-fetch="true" 
+	data-always-open="true"  data-show-all-by-default="true" 
+	>
+	<div class="search-field-drop--field">
+		<div class="search-field-drop--back-suggestion"></div>
+		<label for="629288ef-0585-4f22-822b-3d2fde30bd63-mobile-market-search" class="sr-only">Market search</label>
+		<input id="629288ef-0585-4f22-822b-3d2fde30bd63-mobile-market-search" type="text" name="job-name" autocomplete="off"  placeholder="Market" />
+		
+	</div>
+	<div class="search-field-drop--drop">
+		<ul class="search-field-drop--suggestions scrollbar-style"></ul>
+	</div>
+</div>
+			<button class="market-search-menu--all-market market-search-menu--all-market-new" tabindex="-1">View all</button>
+</div>
+					</div>
+					<div class="mobile-nav--panel mobile-nav--submenu-panel" data-name="0-link">
+						<p class="mobile-nav--submenu-panel-title mobile-nav--biglink">About us</p>
+						<ul class="mobile-nav--submenu-list">
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/who-we-are/who-we-are-overview" >About us overview</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/corporate-governance/overview" >Corporate governance</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/who-we-are/our-leadership-team" >Our leadership team</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/who-we-are/our-views-and-standards" >Our views and standards</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/who-we-are/inclusion-diversity" >Diversity, equity, and inclusion</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/media-center" >Media center</a></li>
+						</ul>
+					</div>
+					<div class="mobile-nav--panel mobile-nav--submenu-panel" data-name="1-link">
+						<p class="mobile-nav--submenu-panel-title mobile-nav--biglink">Our business</p>
+						<ul class="mobile-nav--submenu-list">
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-business" >Our business overview</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-business/illicit-trade-prevention" >Illicit trade prevention</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-business/smoke-free-products" >PMI&#8217;s smoke-free products</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-business/suppliers/suppliers-who-we-are" >Suppliers</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-business/preventing-youth-access" >Preventing youth access</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/faq-section" >FAQ</a></li>
+						</ul>
+					</div>
+					<div class="mobile-nav--panel mobile-nav--submenu-panel" data-name="2-link">
+						<p class="mobile-nav--submenu-panel-title mobile-nav--biglink">Our progress</p>
+						<ul class="mobile-nav--submenu-list">
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-progress" >Our progress overview</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-progress/our-smoke-free-vision" >Our smoke-free vision</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-progress/pmis-multi-category-approach-toward-a-smoke-free-future" >Our multicategory approach</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-progress/leaders-of-change" >Leaders of change</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-progress/voices-of-change" >Voices of Change</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/projects-with-a-heart" >Projects with a heart</a></li>
+						</ul>
+					</div>
+					<div class="mobile-nav--panel mobile-nav--submenu-panel" data-name="3-link">
+						<p class="mobile-nav--submenu-panel-title mobile-nav--biglink">Our science</p>
+						<ul class="mobile-nav--submenu-list">
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-science" >Our science overview</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-science/tobacco-harm-reduction" >Tobacco harm reduction</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/our-science/assessing-product-health-impacts" >Assessing our product health impacts</a></li>
+						</ul>
+					</div>
+					<div class="mobile-nav--panel mobile-nav--submenu-panel" data-name="4-link">
+						<p class="mobile-nav--submenu-panel-title mobile-nav--biglink">Investor Relations</p>
+						<ul class="mobile-nav--submenu-list">
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/investor-relations/overview" >Investor Relations Overview</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/investor-relations/press-releases-and-events" >Press releases &amp; events</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/investor-relations/pm-stock-and-bond-information" >Stock, dividends &amp; bonds</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/investor-relations/reports-filings" >Reports &amp; Filings</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/investor-relations/faq" >Frequently asked questions</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/investor-relations/contacts" >Contacts</a></li>
+						</ul>
+					</div>
+					<div class="mobile-nav--panel mobile-nav--submenu-panel" data-name="5-link">
+						<p class="mobile-nav--submenu-panel-title mobile-nav--biglink">Sustainability</p>
+						<ul class="mobile-nav--submenu-list">
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/sustainability" >Sustainability overview</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/sustainability/our-approach-to-sustainability/sustainability-resources" >Sustainability resources</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/sustainability/reporting-on-sustainability" >Integrated report</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/sustainability/case-studies-and-market-stories" >Case studies &amp; market stories</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/sustainability/sustainability-news" >News and topics</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/sustainability/reporting-on-sustainability/about-pmis-reporting" >All reports</a></li>
+						</ul>
+					</div>
+					<div class="mobile-nav--panel mobile-nav--submenu-panel" data-name="6-link">
+						<p class="mobile-nav--submenu-panel-title mobile-nav--biglink">Careers</p>
+						<ul class="mobile-nav--submenu-list">
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/careers/overview" >Careers overview</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/careers/explore-our-job-opportunities" >Job opportunities</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/careers/our-people-culture" >Our people &amp; culture</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/careers/equal-pay" >Equal pay</a></li>
+							<li><a class="mobile-nav--biglink mobile-nav--submenu-link" href="/careers/areas-of-work" >Areas of work</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="mobile-nav--bottom">
+				<ul class="mobile-nav--social">
+				</ul>
+			</div>
+		</nav>
+	</div>
+</div>
+
+
+</div>
+<div class="ie-warning" data-controller="pmi:ie-warning">
+  <div class="ie-warning--content wrapper">
+		&nbsp;
+		<a href=""></a>&nbsp;
+		&nbsp;
+    <button class="ie-warning--close-label" data-close>Close</button>
+    <button class="ie-warning--close" aria-label="Close" data-close></button>
+  </div>
+</div>
+<div class="dropdown-menu-widget--world-dropdown">
+<section class="country-info wrapper"
+	data-controller="pmi:country-specific-info-partial" >
+	
+	<div class="country-info--background wrapper">
+		<img class="country-info--background-img" src="/assets-v3/images/back-world-map.svg" alt="" />
+	</div>
+	
+		<div class="country-info--main">
+			<p class="country-info--title title4">Market</p>
+			<div class="country-info--content">
+<div class="loading-overlay active">
+	<svg viewBox="-10 -10 120 120">
+		<circle cx="50" cy="50" r="50" />
+		<circle cx="50" cy="50" r="50" />
+	</svg>
+</div>				<ul class="country-info--continents">
+					<li><button class="country-info--continent titles" data-continent="Americas" aria-label="Americas">Americas</button></li>
+					<li><button class="country-info--continent titles" data-continent="Africa" aria-label="Africa">Africa</button></li>
+					<li><button class="country-info--continent titles" data-continent="Europe" aria-label="Europe">Europe</button></li>
+					<li><button class="country-info--continent titles" data-continent="Middle East" aria-label="Middle East">Middle East</button></li>
+					<li><button class="country-info--continent titles" data-continent="Asia - Pacific" aria-label="Asia - Pacific">Asia - Pacific</button></li>
+				</ul>
+				<div class="country-info--list">
+					<ul class="countries" data-continent="Americas">
+						<li class="countries--country">
+							<a href="/markets/argentina">
+								Argentina
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/brazil">
+								Brazil
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/canada">
+								Canada
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/chile">
+								Chile
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/colombia">
+								Colombia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/costa-rica">
+								Costa Rica
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/dominican-republic">
+								Dominican Republic
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/ecuador">
+								Ecuador
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/guatemala">
+								Guatemala
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/mexico">
+								Mexico
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/panama">
+								Panama
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/peru">
+								Peru
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/venezuela">
+								Venezuela
+							</a>
+						</li>
+					</ul>
+					<ul class="countries" data-continent="Africa">
+						<li class="countries--country">
+							<a href="/markets/algeria">
+								Algeria
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/egypt">
+								Egypt
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/reunion">
+								La Reunion
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/morocco">
+								Morocco
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/senegal">
+								Senegal
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/south-africa">
+								South Africa
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/tunisia">
+								Tunisia
+							</a>
+						</li>
+					</ul>
+					<ul class="countries" data-continent="Europe">
+						<li class="countries--country">
+							<a href="/markets/austria">
+								Austria
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/belgium">
+								Belgium
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/bulgaria">
+								Bulgaria
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/croatia">
+								Croatia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/czech-republic">
+								Czech Republic
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/denmark">
+								Denmark
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/estonia">
+								Estonia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/finland">
+								Finland
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/france">
+								France
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/georgia/ge/home">
+								Georgia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/germany">
+								Germany
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/greece">
+								Greece
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/hungary">
+								Hungary
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/italy">
+								Italy
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/latvia">
+								Latvia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/lithuania">
+								Lithuania
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/netherlands">
+								Netherlands
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/norway">
+								Norway
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/poland">
+								Poland
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/portugal">
+								Portugal
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/romania">
+								Romania
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/russia">
+								Russia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/serbia">
+								Serbia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/slovakia">
+								Slovakia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/slovenia">
+								Slovenia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/spain">
+								Spain
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/sweden">
+								Sweden
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/switzerland">
+								Switzerland
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/turkey/tr/home">
+								T&#252;rkiye
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/united-kingdom">
+								UK
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/ukraine">
+								Ukraine
+							</a>
+						</li>
+					</ul>
+					<ul class="countries" data-continent="Middle East">
+						<li class="countries--country">
+							<a href="/markets/israel">
+								Israel
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/jordan">
+								Jordan
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/lebanon">
+								Lebanon
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/turkey/tr/home">
+								T&#252;rkiye
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/united-arab-emirates">
+								United Arab Emirates
+							</a>
+						</li>
+					</ul>
+					<ul class="countries" data-continent="Asia - Pacific">
+						<li class="countries--country">
+							<a href="/markets/australia">
+								Australia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/china">
+								China
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/georgia/ge/home">
+								Georgia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/hong-kong">
+								Hong Kong
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/india">
+								India
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/indonesia">
+								Indonesia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/japan">
+								Japan
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/kazakhstan">
+								Kazakhstan
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/korea">
+								Korea
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/malaysia">
+								Malaysia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/new-zealand">
+								New Zealand
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/pakistan">
+								Pakistan
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/philippines">
+								Philippines
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/russia">
+								Russia
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/singapore">
+								Singapore
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/taiwan">
+								Taiwan
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/thailand">
+								Thailand
+							</a>
+						</li>
+						<li class="countries--country">
+							<a href="/markets/vietnam">
+								Vietnam
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+</section>
+</div>
+
+      
+    </div>
+    <div id="Navigation_T4E89A145001_Col01" class="sf_colsIn nav-layout--content" data-sf-element="MainContent" data-placeholder-label="MainContent">
+      
+    </div>
+  </nav>
+</div>
+
+
+
+ <main class="page-main" id="main" > 
+<section class="full-width wrapper">
+  <div id="Body_C198_Col00" class="sf_colsIn" data-sf-element="column" data-placeholder-label="column"><div class="content-block "  data-controller="pmi:content-block-wysiwyg">
+<div class="back-picture">
+</div>
+<div class="wysiwyg">
+  <h1 style="text-align:center;">Terms of use</h1><br /><p style="text-align:center;">This site is operated by Philip Morris Products S.A. When you use this site, you agree to the terms and conditions that follow and to the terms and conditions of our Privacy Notice. If you do not agree to these terms and conditions, you should immediately cease use of this site. This site is offered to you conditional on your acceptance without modification of the terms, conditions, and notices contained herein.<br /></p>
+</div>
+</div>
+<section class="conditions-of-use wrapper" data-controller="pmi:conditions-of-use">
+<div class="menu-partial wrapper" data-controller="pmi:scrollable-content">
+	<nav class="left-menu--container">
+		<ol class="left-menu--items">
+			<li>
+				<a href="#The structure of our organization" class="left-menu--link">
+					The structure of our organization
+				</a>
+			</li>
+			<li>
+				<a href="#Links" class="left-menu--link">
+					Links
+				</a>
+			</li>
+			<li>
+				<a href="#Purpose of this site" class="left-menu--link">
+					Purpose of this site
+				</a>
+			</li>
+			<li>
+				<a href="#Accuracy, completeness and timeliness of information on this site" class="left-menu--link">
+					Accuracy, completeness and timeliness of information on this site
+				</a>
+			</li>
+			<li>
+				<a href="#Use of material from this site" class="left-menu--link">
+					Use of material from this site
+				</a>
+			</li>
+			<li>
+				<a href="#Trademarks" class="left-menu--link">
+					Trademarks
+				</a>
+			</li>
+			<li>
+				<a href="#Securities of Philip Morris International Inc." class="left-menu--link">
+					Securities of Philip Morris International Inc.
+				</a>
+			</li>
+			<li>
+				<a href="#Disclaimers" class="left-menu--link">
+					Disclaimers
+				</a>
+			</li>
+			<li>
+				<a href="#Limitation of liability" class="left-menu--link">
+					Limitation of liability
+				</a>
+			</li>
+			<li>
+				<a href="#Your liability" class="left-menu--link">
+					Your liability
+				</a>
+			</li>
+			<li>
+				<a href="#Intellectual property rights of others" class="left-menu--link">
+					Intellectual property rights of others
+				</a>
+			</li>
+			<li>
+				<a href="#Jurisdiction" class="left-menu--link">
+					Jurisdiction
+				</a>
+			</li>
+			<li>
+				<a href="#Changes to these terms" class="left-menu--link">
+					Changes to these terms
+				</a>
+			</li>
+		</ol>
+	</nav>
+	<div class="right-section">
+		<div class="list-content">
+			<h2 class="right-section--heading" id="The structure of our organization">The structure of our organization</h2>
+			<div class="right-section--detail">Philip Morris International Inc., is the parent company of Philip Morris Products S.A. Throughout the site, the terms "Philip Morris International," "PMI," "PMI subsidiaries," "we," "us" and "our" refer, as appropriate in the context, to Philip Morris International Inc., or one or more of its subsidiaries. Featured products and positions on issues included on the site are products or positions of the separate businesses operated by the appropriate subsidiary corporation.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Links">Links</h2>
+			<div class="right-section--detail">This site includes links to other sites, some of them operated by PMI subsidiaries and some of them operated by third parties. These links are provided as a convenience to you and as an additional avenue of access to the information contained in those other sites. We have not necessarily reviewed all the information on other sites and are not responsible for the content of any other sites or for any products or services that may be offered through other sites. Third-party sites may contain information with which we do not agree. Inclusion of links to other sites should not be viewed as an endorsement of the content of linked sites. Different terms and conditions may apply to your use of any linked sites. You understand that all information (such as data files, written text, computer software, music, audio files or other sounds, photographs, videos or other images) to which you may have access through links to other sites are the sole responsibility of the person from whom such content originated.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Purpose of this site">Purpose of this site</h2>
+			<div class="right-section--detail">This site is operated for the purpose of providing general information about us. The site is not operated for advertising or marketing purposes. The material on this site should not be regarded as an offer to sell, or a solicitation of an offer to buy, any product of PMI. Such products are sold only in compliance with the laws of the particular jurisdictions in which they are sold.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Accuracy, completeness and timeliness of information on this site">Accuracy, completeness and timeliness of information on this site</h2>
+			<div class="right-section--detail">We cannot guarantee that the information that we make available on this site is fully accurate, complete, or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making significant decisions without consulting primary or more accurate, more complete, or more timely sources of information. Any reliance upon the material on this site shall be at your own risk. This site may contain certain historical information. Historical information is not necessarily current and is provided for your reference only. We reserve the right to modify the contents of the site at any time, but we have no obligation to update any information on this site. You agree that it is your responsibility to monitor changes to the site.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Use of material from this site">Use of material from this site</h2>
+			<div class="right-section--detail"><p>This site (including all its contents) is the property of PMI, or its licensors and is protected by copyright, trademark and other laws of the United States, Switzerland and other countries. We authorize you to browse through the site and print and download copies of material on the site for your personal, non-public, non-commercial use only, so long as you do not remove any copyright or other notices that appear on the material you print or download. You agree that you will not otherwise access, copy, acquire, display, extract, monitor or transmit any portion of this site or any material and content on the site in any manner or medium or reproduce or circumvent the navigational structure, access, or presentation of the site, including through the use of any automatic means, device, program, algorithm or methodology, robot, spider, web scraping tools, artificial intelligence systems or any similar or equivalent manual processes. You further agree not to data mine or scrape the content or data or information of this site.</p>
+<p>You also agree not to modify, sell, broadcast or distribute any material on the site in any manner or medium, including by uploading the material or otherwise making the material available on-line.</p>
+<p>PMI reserves the right to bar any such activities.</p></div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Trademarks">Trademarks</h2>
+			<div class="right-section--detail">This site features logos and other trademarks and service marks that are the property of, or are licensed to, PMI. The site may also include trademarks or service marks of third parties. All these trademarks are the property of their respective owners, and you agree not to use or display them in any manner without the prior written permission of the applicable trademark owner.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Securities of Philip Morris International Inc.">Securities of Philip Morris International Inc.</h2>
+			<div class="right-section--detail">We are not providing investment advice through this site, and the material on this site should not be regarded as an offer to sell, or a solicitation of an offer to buy, any securities of Philip Morris International Inc. If you decide to use any material available on this site in assessing whether to buy or sell securities of Philip Morris International Inc., please be aware that the material on this site generally reflects past performance and historical information only, and that such performance and information is not necessarily an indication of future performance.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Disclaimers">Disclaimers</h2>
+			<div class="right-section--detail">Your use of this site is at your sole risk. The site is provided on an "as is" and "as available" basis. We reserve the right to restrict or terminate your access to the site or any feature or part of it at any time.<br /><br />Philip Morris International Inc., and all PMI subsidiaries expressly disclaim all warranties of any kind, whether express or implied, including the implied warranties of merchantability, satisfactory quality and fitness for a particular purpose and any warranties that material on the site is noninfringing; that access to the site will be uninterrupted or error-free; that the site will be secure; or that information on the site will be complete, accurate or timely.<br /><br />If you download any material from this site, you do so at your own discretion and risk. You will be solely responsible for any damage to your computer system or loss of data that results from the download of any such material. No advice or information, whether oral or written, obtained by you from Philip Morris International Inc, any PMI subsidiary or through or from the site shall create any warranty of any kind.<br /><br />You agree that links from this website may expose you to content that you may find offensive or objectionable and that in this respect, you use the services at your own risk.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Limitation of liability">Limitation of liability</h2>
+			<div class="right-section--detail">To the fullest extent permitted under applicable law, you understand and agree that neither Philip Morris International Inc., nor any of its subsidiaries (including Philip Morris Products S.A.) or third-party content providers shall be liable for any direct, indirect, incidental, special, consequential, punitive, or any other damages relating to or resulting from your use of or inability to use this site or any other site you access through a link from this site or from any actions we take or fail to take as a result of electronic mail messages you send us. These include damages for errors, omissions, interruptions, defects, delays, computer viruses, your loss of profits, loss of data, unauthorized access to and alteration of your transmissions and data, and other tangible and intangible losses. This limitation applies regardless of whether the damages are claimed under the terms of a contract, as the result of negligence, or otherwise, and even if we or our representatives have been negligent or have been advised of the possibility of such damages.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Your liability">Your liability</h2>
+			<div class="right-section--detail">If you cause a technical disruption of the site or of the systems transmitting the site to you or others, you agree to be responsible for any and all liabilities, costs and expenses (including attorneys' fees) arising from that disruption.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Intellectual property rights of others">Intellectual property rights of others</h2>
+			<div class="right-section--detail">We respect the intellectual property rights of others, and we request that our visitors do the same. If you think that your work has been copied in a manner that constitutes copyright infringement, please notify us at:<br /><br />Philip Morris Products S.A.&nbsp;<br />Law Department&nbsp;<br />Avenue de Rhodanie 50&nbsp;<br />1007 Lausanne, Switzerland</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Jurisdiction">Jurisdiction</h2>
+			<div class="right-section--detail">Philip Morris International Inc., is headquartered in Stamford, Connecticut in the United States of America. This site is operated by Philip Morris Products S.A. in Switzerland. The laws of Switzerland govern these terms and conditions and your use of the site,
+and you irrevocably consent to the jurisdiction of the competent courts located in Lausanne, Switzerland for any action to enforce these terms and conditions. We recognize that it is possible for you to obtain access to this site from any jurisdiction
+in the world, but we have no practical ability to prevent such access. This site has been designed to comply with the laws of Switzerland. The businesses conducted by the subsidiaries of Philip Morris International Inc., operate in various countries throughout
+the world and comply with the laws of the particular jurisdictions in which they operate. If any material on this site, or your use of the site, is contrary to the laws of the place where you are when you access it, the site is not intended for you, and
+we ask you not to use the site. You are responsible for informing yourself of the laws of your jurisdiction and complying with them.</div>
+		</div>
+		<div class="list-content">
+			<h2 class="right-section--heading" id="Changes to these terms">Changes to these terms</h2>
+			<div class="right-section--detail">We reserve the right, at our complete discretion, to change these terms and conditions at any time by posting revised terms on the site. It is your responsibility to check periodically for any changes we may make to these terms and conditions. Your continued use of this site following the posting of changes to these terms or other policies means you accept the changes.</div>
+		</div>
+	</div>
+</div>
+</section>
+
+    
+  </div>
+</section>
+<!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET-->
+
+<script type='text/javascript'>
+
+(function(){var g=function(e,h,f,g){
+
+this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+
+this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+
+this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+
+this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+
+this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+
+try{(new g(100,"r","QSI_S_ZN_1H2GcZcymg42mXk","https://zn1h2gczcymg42mxk-pmiglobalcx.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_1H2GcZcymg42mXk")).start()}catch(i){}})();
+
+</script><div id='ZN_1H2GcZcymg42mXk'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+
+<!--END WEBSITE FEEDBACK SNIPPET--> 
+<div class="content-block "  data-controller="pmi:content-block-wysiwyg">
+<div class="back-picture">
+</div>
+<div class="wysiwyg">
+  <style>
+    .footer-list{
+     margin-top: 0px;
+        }
+ .footer-layout{
+     margin-top: 0px;
+        }
+</style>
+</div>
+</div>
+<footer class="footer-layout">
+  <div class="footer-grid wrapper">
+    <div id="Footer_T4E89A145004_Col00" class="sf_colsIn footer-layout--small1" data-sf-element="Footer column1" data-placeholder-label="Footer column"><div class="footer-list" data-controller="pmi:footer-list">
+  <h3 class="title7 footer-list--title">
+    Quick links
+  </h3>
+  <ul>
+    <li>
+      <a aria-label="About us" href="/who-we-are/who-we-are-overview" class="footer-list--link" >About us</a>
+    </li>
+    <li>
+      <a aria-label="Our business" href="/our-business" class="footer-list--link" >Our business</a>
+    </li>
+    <li>
+      <a aria-label="Our progress" href="/our-progress" class="footer-list--link" >Our progress</a>
+    </li>
+    <li>
+      <a aria-label="Our science" href="/our-science" class="footer-list--link" >Our science</a>
+    </li>
+    <li>
+      <a aria-label="Investor relations" href="/investor-relations" class="footer-list--link" >Investor relations</a>
+    </li>
+    <li>
+      <a aria-label="Sustainability" href="/sustainability" class="footer-list--link" >Sustainability</a>
+    </li>
+    <li>
+      <a aria-label="Careers" href="/careers/overview" class="footer-list--link" >Careers</a>
+    </li>
+  </ul>
+</div>
+      
+    </div>
+    <div id="Footer_T4E89A145004_Col01" class="sf_colsIn footer-layout--small2" data-sf-element="Footer column2" data-placeholder-label="Footer column"><div class="footer-list" data-controller="pmi:footer-list">
+  <h3 class="title7 footer-list--title">
+    Other initiatives
+  </h3>
+  <ul>
+    <li>
+      <a aria-label="PMI Science" href="https://www.pmiscience.com/en/" class="footer-list--link"  target="_blank"
+        rel="noopener noreferrer" >PMI Science</a>
+    </li>
+    <li>
+      <a aria-label="PMI Privacy" href="https://pmiprivacy.com/" class="footer-list--link"  target="_blank"
+        rel="noopener noreferrer" >PMI Privacy</a>
+    </li>
+    <li>
+      <a aria-label="Projects with a Heart" href="/projects-with-a-heart" class="footer-list--link" >Projects with a Heart</a>
+    </li>
+    <li>
+      <a aria-label="Unsmoke Your World" href="/unsmoke-your-world" class="footer-list--link" >Unsmoke Your World</a>
+    </li>
+  </ul>
+</div>
+      
+    </div>
+    <div id="Footer_T4E89A145004_Col02" class="sf_colsIn footer-layout--small3" data-sf-element="Footer column3" data-placeholder-label="Footer column"><div class="footer-list" data-controller="pmi:footer-list">
+  <h3 class="title7 footer-list--title">
+    Legal
+  </h3>
+  <ul>
+    <li>
+      <a aria-label="Terms of use" href="/legal/conditions-of-use" class="footer-list--link" >Terms of use</a>
+    </li>
+    <li>
+      <a aria-label="Legal documents" href="/legal/legal-documents" class="footer-list--link" >Legal documents</a>
+    </li>
+    <li>
+      <a aria-label="Social media rules of engagement" href="/legal/social-media-rules-of-engagement" class="footer-list--link" >Social media rules of engagement</a>
+    </li>
+  </ul>
+</div><div class="content-block "  data-controller="pmi:content-block-wysiwyg">
+<div class="back-picture">
+</div>
+<div class="wysiwyg">
+  <p style="font-size:14px;line-height:24px;color:#6e6e6e;"><a href="#ot-sdk-btn" style="text-decoration:none;font-weight:400;" data-onetrust="v3" id="ot-sdk-btn" class="onetrust-cookie-settings optanon-toggle-display footer-link">Cookie preferences</a><br /></p>
+</div>
+</div>
+
+      
+    </div>
+    <div id="Footer_T4E89A145004_Col03" class="sf_colsIn footer-layout--small4" data-sf-element="Footer column4" data-placeholder-label="Footer column"><div class="footer-list" data-controller="pmi:footer-list">
+  <h3 class="title7 footer-list--title">
+    Product security
+  </h3>
+  <ul>
+    <li>
+      <a aria-label="Vulnerability disclosure" href="/productsecurity/vulnerability-disclosure" class="footer-list--link" >Vulnerability disclosure</a>
+    </li>
+  </ul>
+</div>
+      
+    </div>
+    <div id="Footer_T4E89A145004_Col04" class="sf_colsIn footer-layout--social" data-sf-element="Footer social" data-placeholder-label="Footer social column"><div class="social-media-links">
+  <h3 class="title7 social-media-links--title">
+    Follow us on
+  </h3>
+  <nav class="social-media-links--content">
+    <a href="https://www.facebook.com/InsidePMI/" rel="noopener noreferrer" target="_blank" aria-label="facebook"
+      class="social-media-links--link social-media-links--facebook"></a>
+    <a href="https://twitter.com/InsidePMI" rel="noopener noreferrer" target="_blank" aria-label="twitter"
+      class="social-media-links--link social-media-links--x">
+			<svg width="20" height="20" viewBox="0 0 26 24">
+				<path fill="#0074C0" d="M13.7124 10.7897L20.4133 3H18.8254L13.0071 9.76373L8.35992 3H3L10.0274 13.228L3 21.3967H4.58799L10.7324 14.254L15.6401 21.3967H21L13.7121 10.7897H13.7124ZM11.5375 13.3181L10.8255 12.2996L5.16017 4.19549H7.59922L12.1712 10.7358L12.8832 11.7542L18.8262 20.2556H16.3871L11.5375 13.3185V13.3181Z" fill="black"/>
+			</svg>
+		</a>
+    <a href="https://www.youtube.com/channel/UC8Ljkwa0c7Njol3g7LGW2Ww" rel="noopener noreferrer" target="_blank" aria-label="youtube"
+      class="social-media-links--link social-media-links--youtube"></a>
+    <a href="https://www.linkedin.com/company/insidepmi/" rel="noopener noreferrer" target="_blank" aria-label="linkedin"
+      class="social-media-links--link social-media-links--linkedin"></a>
+    <a href="https://www.glassdoor.co.uk/Overview/Working-at-Philip-Morris-International-EI_IE7745.11,38.htm" rel="noopener noreferrer" target="_blank" aria-label="glassdoor"
+      class="social-media-links--link social-media-links--glassdoor"></a>
+  </nav>
+</div>
+<div class="content-block "  data-controller="pmi:content-block-wysiwyg">
+<div class="back-picture">
+</div>
+<div class="wysiwyg">
+  <p style="line-height:24px;color:#6e6e6e;"><a class="footer-link" href="/pmi-newsletter-subscribe">PMI corporate newsletter</a></p>
+</div>
+</div>
+
+      
+    </div>
+    <div id="Footer_T4E89A145004_Col05" class="sf_colsIn footer-layout--nav" data-sf-element="Footer Nav" data-placeholder-label="Footer Nav"><div class="footer-nav" data-controller="pmi:footer-nav">
+<button class="scroll-up" data-controller="pmi:mobile-scroll-up">
+    <span class="sr-only">
+        Scroll to top
+    </span>
+</button>
+  <ul class="footer-nav--content">
+    <li>
+      <a aria-label="Privacy notice" href="https://www.pmiprivacy.com/en/corporate-website">
+        Privacy notice
+      </a>
+    </li>
+    <li>
+      <a aria-label="FAQ" href="/faq-section">
+        FAQ
+      </a>
+    </li>
+    <li>
+      <a aria-label="Glossary" href="/glossary-section/glossary">
+        Glossary
+      </a>
+    </li>
+    <li>
+      <a aria-label="Contact us" href="/contact-us">
+        Contact us
+      </a>
+    </li>
+    <li>
+      <a aria-label="Company information" href="/company-information">
+        Company information
+      </a>
+    </li>
+  </ul>
+  <div class="footer-nav--copyright">
+    © Philip Morris Products S.A.
+  </div>
+</div>
+
+      
+    </div>
+  </div>
+</footer> </main> <script>
+        if (navigator.userAgent.toLowerCase().includes('edge')) {
+            setTimeout(function () {
+                var scriptEl = document.querySelector('[nomodule]');
+                var newScript = document.createElement('script');
+                var parent = scriptEl.parentNode;
+                newScript.src = scriptEl.src;
+                parent.removeChild(scriptEl);
+                parent.appendChild(newScript);
+            }, 0);
+        }
+    </script>  <script type="module" src="/assets-v3/app-d700dd5125.js"></script> <script nomodule src="/assets-v3/app-b0b63f2186.legacy.js"></script> </body> </html>

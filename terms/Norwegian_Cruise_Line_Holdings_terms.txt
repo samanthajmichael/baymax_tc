@@ -1,0 +1,828 @@
+<!DOCTYPE html><html lang="en"><head><!-- GLOBAL DOCUMENT HEAD --> <!-- MS IE 11 Compatibility Warning Modal --> <script type="text/javascript" src="https://www.ncl.com/public/3ddb12b778e114175d125d5bb02af596258f7f5efe1b"  ></script><script type="application/javascript"> let isIE11 = !!window.MSInputMethodContext && !!document.documentMode; if (isIE11) { document.writeln("<script type=\"application/javascript\" src=\"/assets/v1/scripts/ie11modal.js\"><\/script>"); } </script> <!-- Adobe Target Prefetch/Preconnect --> <script> var domainName = window.location.hostname.toLocaleLowerCase(); if (domainName !== "app.ncl.com") { /* this should not run in the "app" subdomain */ ;(function(win, doc, style, timeout) { var STYLE_ID = 'at-body-style'; function getParent() { return doc.getElementsByTagName('head')[0]; } function addStyle(parent, id, def) { if (!parent) { return; } var style = doc.createElement('style'); style.id = id; style.innerHTML = def; parent.appendChild(style); } function removeStyle(parent, id) { if (!parent) { return; } var style = doc.getElementById(id); if (!style) { return; } parent.removeChild(style); } addStyle(getParent(), STYLE_ID, style); setTimeout(function() { removeStyle(getParent(), STYLE_ID); }, timeout); }(window, document, "body {opacity: 0 !important}", 3000)); } </script> <script src="//assets.adobedtm.com/dfde4cf50702/2d0361c04f74/launch-aee8fc520738.min.js"></script> <!-- Optimizely --> <script src="//cdn.optimizely.com/js/5414371492.js"></script> <!-- END GLOBAL DOCUMENT HEAD --><title>Cruises: Norwegian Cruise Line Vacation Deals  | NCL </title><meta charset="utf-8"><meta name="viewport" content="width=320, initial-scale=1, shrink-to-fit=no"><meta name="google-site-verification" content="zmEerI4JfRG9tywRI0-S9YNgBJH_c2dWBSqayvFkuss"><meta name="description" content="Cruises to Alaska, Hawaii, Bahamas, Europe, or Caribbean. Weekend getaways and great cruise specials. Experience More At Sea with Norwegian Cruise Line."><link rel="stylesheet" href="/assets/v1/styles/main.css?v=1727377347971"><link rel="stylesheet" href="/static/styles/compatibility.css?v=1727377347971"><script type="text/javascript" src="/assets/v1/scripts/libraries.js?v=1727377347971"  ></script><script type="text/javascript" src="/static/scripts/ncl.transition.libraries.js?v=1727377347971"  ></script> <script type="text/javascript">window.tealiumMain='main'; window.tealiumEnvironment='prod';</script><!-- optimizely removed prod --><script>window["analyticsChannel"] = "home";window["analyticsPageName"] = "home";window["analyticsSiteCatalystTag"] = "on";</script><!-- tealium removed --><script type="application/ld+json">{  "@context": "http://schema.org",  "@type": "WebSite",  "url": "http://www.ncl.com/?cid=DI_DIG_NA_MFEXP_DBM_NA_DIP_DISC70TAKEALL_MAS_NA_NAM&g_cmid=11725458_31049752_7837991_383270911_222721012&dclid=CJu0q5bl7ogDFUaLfwQdG0sOxA&gclid=EAIaIQobChMIw_LmgOXuiAMVQwx2Bh10KzxvEAEYASAAEgLnDvD_BwE",  "name": "Norwegian Cruise Line",  "alternateName": "NCL",  "inLanguage": "en-US",  "author": "Norwegian Cruise Line",  "description": "Cruise deals for Alaska, Hawaii, Bahamas, Europe, or the Caribbean. Weekend getaways and great cruise specials. Enjoy Freestyle cruising with Norwegian Cruise Line.",  "keywords": [    "cruise",    "cruise vacations",    "cruise deals",    "weekend cruise",    "singles cruise",    "alaska cruise",    "bahama cruise",    "bermuda cruise",    "canada cruise",    "florida cruise",    "caribbean cruise",    "cuba cruise",    "hawaii cruise",    "mexico cruise",    "mediterranean cruise",    "new england cruise",    "europe cruise",    "australia cruise",    "new zealand cruise",    "panama canal cruise",    "south america cruise",    "europe cruise"  ],  "potentialAction": {    "@type": "SearchAction",    "target": "http://www.ncl.com/?cid=DI_DIG_NA_MFEXP_DBM_NA_DIP_DISC70TAKEALL_MAS_NA_NAM&g_cmid=11725458_31049752_7837991_383270911_222721012&dclid=CJu0q5bl7ogDFUaLfwQdG0sOxA&gclid=EAIaIQobChMIw_LmgOXuiAMVQwx2Bh10KzxvEAEYASAAEgLnDvD_BwEsearch?Ntt={search_term}",    "query-input": "required name=search_term"  }}</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.ncl.com",
+      "name": "Norwegian Cruise Line"
+    }
+}]
+}
+</script><link rel="shortcut icon" type="image/png" href="/assets/v1/images/favicon/favicon.png?v=1727377347971"><link rel="icon" type="image/png" href="/assets/v1/images/favicon/windows-icon-24x24.png?v=1727377347971"><link rel="icon" type="image/png" href="/assets/v1/images/favicon/windows-icon-32x32.png?v=1727377347971"><link rel="apple-touch-icon" href="/assets/v1/images/favicon/apple-touch-icon-128x128.png?v=1727377347971"><link rel="apple-touch-icon" sizes="54x54" href="/assets/v1/images/favicon/apple-touch-icon-54x54.png?v=1727377347971"><link rel="apple-touch-icon" sizes="57x57" href="/assets/v1/images/favicon/apple-touch-icon-57x57.png?v=1727377347971"><link rel="apple-touch-icon" sizes="72x72" href="/assets/v1/images/favicon/apple-touch-icon-72x72.png?v=1727377347971"><link rel="apple-touch-icon" sizes="114x114" href="/assets/v1/images/favicon/apple-touch-icon-114x114.png?v=1727377347971"><link rel="apple-touch-icon" sizes="128x128" href="/assets/v1/images/favicon/apple-touch-icon-128x128.png?v=1727377347971">
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+<script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("%7B%0A%20%20%20%20%20%22ResourceTiming%22%3A%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22comment%22%3A%20%22Clear%20RT%20Buffer%20on%20mPulse%20beacon%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22clearOnBeacon%22%3A%20true%0A%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%22AutoXHR%22%3A%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22comment%22%3A%20%22Monitor%20XHRs%20requested%20using%20FETCH%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22monitorFetch%22%3A%20true%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22comment%22%3A%20%22Start%20Monitoring%20SPAs%20from%20Click%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22spaStartFromClick%22%3A%20true%0A%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%22PageParams%22%3A%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22comment%22%3A%20%22Monitor%20all%20SPA%20XHRs%22%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22spaXhr%22%3A%20%22all%22%0A%20%20%20%20%20%7D%0A%7D%20");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="TCZKH-A3E5K-R7UEE-8AYTU-FWV9Y",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"TCZKH-A3E5K-R7UEE-8AYTU-FWV9Y";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"350".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize(350);!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="epadkmyxezhcszx4zc2q-f-0266af287-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"37","ak.cp":"792180","ak.ai":parseInt("225862",10),"ak.ol":"0","ak.cr":10,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"7c34903","ak.r":45721,"ak.a2":n,"ak.m":"x","ak.n":"essl","ak.bpcip":"35.192.53.0","ak.cport":40298,"ak.gh":"23.33.25.22","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727842485","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==GgyZQvwJbJYqaDzgRZmjlXLHNQhsXVFDLnMD1MORgLFHpU6UnKWZcif837HQaY04sW4WXPaTlb/lXXOnZBDy8QV+F5fq3eYyZOC1IbZhYvX+J6x4cUWncAJel3trRIdwcJ5P3IaYnHXLYGx2eksAmdW7HYnGXVRyBO18WamHAzeZ+lWk9jQhHJzQVw56vPGqEwpDDdZE8rj9nGIxOamNE0kOkWi4nlubEFSpN2foL4X7juQgDN4MtKEIPgPJmTL1WbS1oUXH1dUtlBO9hmn9IcKCh+WNPUBAvVAHIg/ILuaQj7bjh2nSs7T4ZNZjJWFS8RNddo7/jDyn7qJeUkvlLq/4uFHWn7kAV9DPnX0r3+bfM+9PBg95Mfnn+IgeLY5UMUTuzEycjr2YHiAghmIGzDFoRIa25nsVMhvHSiZ3dMw=","ak.pv":"709","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head><body><script type="application/ld+json">{  "@context": "http://schema.org",  "@type": "WebSite",  "url": "http://www.ncl.com/?cid=DI_DIG_NA_MFEXP_DBM_NA_DIP_DISC70TAKEALL_MAS_NA_NAM&g_cmid=11725458_31049752_7837991_383270911_222721012&dclid=CJu0q5bl7ogDFUaLfwQdG0sOxA&gclid=EAIaIQobChMIw_LmgOXuiAMVQwx2Bh10KzxvEAEYASAAEgLnDvD_BwE",  "name": "Norwegian Cruise Line",  "alternateName": "NCL",  "inLanguage": "en-US",  "author": "Norwegian Cruise Line",  "description": "Cruise deals for Alaska, Hawaii, Bahamas, Europe, or the Caribbean. Weekend getaways and great cruise specials. Enjoy Freestyle cruising with Norwegian Cruise Line.",  "keywords": [    "cruise",    "cruise vacations",    "cruise deals",    "weekend cruise",    "singles cruise",    "alaska cruise",    "bahama cruise",    "bermuda cruise",    "canada cruise",    "florida cruise",    "caribbean cruise",    "cuba cruise",    "hawaii cruise",    "mexico cruise",    "mediterranean cruise",    "new england cruise",    "europe cruise",    "australia cruise",    "new zealand cruise",    "panama canal cruise",    "south america cruise",    "europe cruise"  ],  "potentialAction": {    "@type": "SearchAction",    "target": "http://www.ncl.com/?cid=DI_DIG_NA_MFEXP_DBM_NA_DIP_DISC70TAKEALL_MAS_NA_NAM&g_cmid=11725458_31049752_7837991_383270911_222721012&dclid=CJu0q5bl7ogDFUaLfwQdG0sOxA&gclid=EAIaIQobChMIw_LmgOXuiAMVQwx2Bh10KzxvEAEYASAAEgLnDvD_BwEsearch?Ntt={search_term}",    "query-input": "required name=search_term"  }}</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.ncl.com",
+      "name": "Norwegian Cruise Line"
+    }
+}]
+}
+</script><header id="header" class="js-header header" data-analytics-region="utility_header" ng-app="NCLTransitionApp" ng-controller="FavoritesBrowseCtrl" data-header="default"><!--m106--><!-- m5 --><section class="m5 bg-dark -bg-dark wrapper hide"><div class="container"><div class="m5_header"><a class="close -small" href="#" title="Close" aria-label="Close"></a></div><div class="m5_body paragraph-serif-3">This website uses cookies. By continuing to browse the site you agree to our use of cookies. To find out more, please <a class="linkText -large" href="https://www.ncl.com/uk/en/about-us/privacy-policy/cookies" title="Click Here" aria-label="Click Here" target="_blank">Click Here</a></div></div></section><!-- m4 --><section class="m4 bg-dark -bg-dark" style="display: none"><div class="wrapper"><div class="container"><div class="m4_body"><ul id="alerts" class="listing"></ul></div><div class="m4_aside"><a class="link-1 icon-plus-less collapsed" href="#" data-toggle="collapse" data-target=".multi-collapse" aria-expanded="false" type="button" aria-controls="alerts" title="More Info" aria-label="More Info">More Info</a></div></div></div></section><!-- header mobile --><section class="header_mobile visible-xs"><div class="header_mobile_utility"><div class="header_mobile_mainUtility" data-position="sticky" data-breakpoint="xs"><div class="wrapper"><div class="container"><div class="row align-items-center justify-content-between"><div class="col -side"><ul class="listing -pipeRight"><li class="listing_item"><a class="pipeWrap-sm" href="#" title="Main menu" aria-label="Main menu" data-js="header-menu-open" data-frozen-open="frozen-xs"><i class="nis-bars"></i></a></li></ul></div><div class="col-auto"><!-- c1 --><div class="c1"><a class="c1_link" href="/" title="Norwegian Cruise Line" aria-label="Norwegian Cruise Line"><img class="c1_image" src="/assets/v1/images/logos/logo-ncl-shield.svg" alt="Norwegian Cruise Line"></a></div></div><div class="col -side"><ul class="listing -pipeLeft"><li class="listing_item" data-js="login-item"><a class="link-2 pipeWrap-sm" href="/login" title="Log in" aria-label="Log in" data-js="login">Log in</a></li><li class="listing_item hide" data-js="login-item"><a class="pipeWrap-sm" href="#" title="My NCL" aria-label="My NCL" data-js="open-account"><!-- e25 --><div class="e25 -variant-1" data-initials="" data-js="logged-in-initials"><figure class="e25_figure hide"><img src="/assets/v1/images/user/profile.jpg" alt="User Picture"></figure></div></a></li><li class="listing_item -mobile"><a class="linkNav -variant-1 pipeWrap-sm" href="tel:+1-866-234-7350" title="Phone number" aria-label="Phone number" data-phoneAttribute="default"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-866-234-7350</span></a><a class="linkNav -variant-1 pipeWrap-sm hide" href="tel:+1-855-577-9489" title="Phone number" aria-label="Phone number" data-phoneAttribute="nextJump"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-855-577-9489</span></a><a class="linkNav -variant-1 pipeWrap-sm hide" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneAttribute="penn"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-877-288-3037</span></a><a class="linkNav -variant-1 pipeWrap-sm hide" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneAttribute="caesar"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-877-288-3037</span></a><a class="linkNav -variant-1 pipeWrap-sm hide" href="tel:+1-877-474-2969" title="Phone number" aria-label="Phone number" data-phoneAttribute="social"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-877-474-2969</span></a></li></ul></div></div></div></div></div></div></section><section class="header_desktop" data-js="header-desktop freeze"><div class="header_desktop_wrapper"><!--c230--><div class="c230 visible-xs"><div class="c230_header -left"><a class="c230_close" href="#" title="Close" aria-label="Close" data-js="header-menu-close"></a></div></div><div class="header_utility"><div class="mainUtility" data-position="sticky" data-breakpoint="md-up"><div class="wrapper"><div class="container"><div class="row align-items-center justify-content-between"><div class="col-auto hidden-xs"><!-- c1 --><div class="c1"><a class="c1_link" href="/" title="Norwegian Cruise Line" aria-label="Norwegian Cruise Line"><img class="c1_image" src="/assets/v1/images/logos/logo-ncl-black.svg" alt="Norwegian Cruise Line"></a></div></div><div class="col align-self-stretch"><!-- m15 --><section class="m15 -expandable" data-js="auto-close"><div class="m15_wrap"><!-- c13 --><div class="c13"><div class="c13_header visible-xs"><!--c230--><div class="c230 -variant-16"><div class="c230_header -left"><a class="c230_close" href="#" title="Close" aria-label="Close" data-js="close" data-frozen-close="frozen-xs"></a></div></div></div><div class="c13_body"><!-- c19 --><div class="c19"><div class="c19_header"><!-- e2 --><div class="e2"><div class="e2_icon"><i class="nis-search"></i></div><div class="e2_field"><div class="input-group"><input type="text" class="form-control" placeholder="Search NCL.com" v-model="searchTerm" ref="searchTermInput" autocomplete="off"></div></div></div></div><div class="c19_body"><div class="c19_results"><div class="c19_results_block"><!-- e4 --><div class="e4"><ul class="listing"><li class="listing_item"><a class="e4_link" href="#" title="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog" aria-label="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog">11-Reasons to Cruise to Alaska this Summer | NCL Travel Blog</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line">14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line">14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="20-Day Transpacific from Tokyo (Yokohama) & Alaska | Norwegian Cruise Line" aria-label="20-Day Transpacific from Tokyo (Yokohama) & Alaska | Norwegian Cruise Line">20-Day Transpacific from Tokyo (Yokohama) & Alaska | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog" aria-label="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog">11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line">14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line">14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="20-Day Transpacific from Tokyo (Yokohama) & Alaska | Norwegian Cruise Line" aria-label="20-Day Transpacific from Tokyo (Yokohama) & Alaska | Norwegian Cruise Line">20-Day Transpacific from Tokyo (Yokohama) & Alaska | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog" aria-label="11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog">11 Reasons to Cruise to Alaska this Summer | NCL Travel Blog</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line">14-Day Authentic Alaska - Northbound Cruisetour | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line" aria-label="14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line">14-Day Authentic Alaska - Southbound Cruisetour | Deck Plans | Norwegian Cruise Line</a></li><li class="listing_item"><a class="e4_link" href="#" title="20-Day Transpacific from Tokyo (Yokohama) & Alaska | Norwegian Cruise Line" aria-label="20-Day Transpacific from Tokyo (Yokohama) & Alaska | Norwegian Cruise Line">20-Day Transpacific from Tokyo (Yokohama) & Alaska | Norwegian Cruise Line</a></li></ul></div></div></div></div></div></div><div class="c13_footer"><!-- c20 --><div class="c20 "><div class="row flex-fill align-items-center"><div class="col-auto order-3 flex-fill"><ul class="listing"><li class="listing_item"><a class="link-2" href="#" title="View All Results" aria-label="View All Results" data-js="viewAllNCLSearchResults" $attributes>View All Results</a></li></ul></div></div></div></div></div></div></section></div><div class="col-md-auto"><ul class="listing -pipeLeft"><li class="listing_item" data-js="header-util-search"><a class="linkNav pipeWrap-lg" href="#" title="Search" aria-label="Search" data-js="toggle-siteSearch"><i class="linkNav_icon nis-search"></i></a></li><li class="listing_item"><a class="linkNav pipeWrap-lg" href="#" title="Favorites" aria-label="Favorites" ng-click="toggleFavorites($event)"><i class="linkNav_icon icon-favorite" ng-class="{ '-active': getTotalFavorites() + getTotalItineraries() > 0 }"></i></a></li><li class="listing_item hide" title="My Reservations" aria-label="My Reservations" data-js="logged-in-suitcase"><a class="linkNav pipeWrap-lg" href="#" data-js="logged-in-suitcase-link"><i class="linkNav_icon icon-suitcase" data-js="logged-in-suitcase-icon"></i></a></li><li class="listing_item hide" data-js="logged-in"><div class="drophover"><a class="linkNav pipeWrap-lg -icon" href="#" title="My NCL" aria-label="My NCL"><i class="linkNav_icon nis-user"></i><span>My NCL</span></a><div class="drophover_menu -right"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-16 visible-xs"><div class="c230_header -left"><a class="c230_close" href="#" title="Close" aria-label="Close" data-js="drophover-close"></a></div></div><!-- c11 --><div class="c11"><div class="c11_header"><div class="c11_header_item" data-cs-mask><a class="c11_avatar" href="#" title="User Picture" aria-label="User Picture" data-js="logged-in-initials logged-in-view-account"><span class="sr-only"></span></a></div><div class="c11_header_item"><span class="headline-7 -variant-1" data-js="logged-in-first-name" data-cs-encrypt></span></div><div class="c11_header_item" data-loyalty-program="TEAM MEMBER" style="display: none"><!--e133--><div class="e133 -important -variant-1"><span class="e133_text text-type-4 text-bold text-size-2 text-uppercase text-spacing-2 text-blue">Team Member</span></div></div><div class="c11_header_item" data-loyalty-program="FRIENDS/FAMILY" style="display: none"><!--e133--><div class="e133 -important -variant-1"><span class="e133_text text-type-4 text-bold text-size-2 text-uppercase text-spacing-2 text-blue">Friends and Family</span></div></div><div class="c11_header_item" data-loyalty-program="FF LVL 1" style="display: none"><!--e133--><div class="e133 -important -variant-1"><span class="e133_text text-type-4 text-bold text-size-2 text-uppercase text-spacing-2 text-blue">Friends and Family</span></div></div><div class="c11_header_item" data-loyalty-program="FF LVL 2" style="display: none"><!--e133--><div class="e133 -important -variant-1"><span class="e133_text text-type-4 text-bold text-size-2 text-uppercase text-spacing-2 text-blue">Friends and Family</span></div></div><div class="c11_header_item" data-loyalty-program="MILITARY" style="display: none"><!--e133--><div class="e133 -success -variant-1"><span class="e133_text text-type-4 text-bold text-size-2 text-uppercase text-spacing-2 text-blue">Military Appreciation</span></div></div><div class="c11_header_item" data-loyalty-program="TEACHER" style="display: none"><!--e133--><div class="e133 -success -variant-1"><span class="e133_text text-type-4 text-bold text-size-2 text-uppercase text-spacing-2 text-blue">Teacher Appreciation</span></div></div><div class="c11_header_item"><a class="linkItem" href="#" title="View Account" aria-label="View Account" data-js="logged-in-view-account">View Account</a></div><div class="c11_header_item"><div class="paragraph" data-js="logged-in-latitudes" data-cs-encrypt></div></div></div><div class="c11_body"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="#" title="Profile" aria-label="Profile" data-js="logged-in-view-profile">Profile</a></li><li class="listing_item"><a class="linkItem" href="#" title="Preferences" aria-label="Preferences" data-js="logged-in-view-preferences">Preferences</a></li><li class="listing_item"><a class="linkItem" href="#" title="Latitudes Rewards" aria-label="Latitudes Rewards" data-js="logged-in-view-latitudes">Latitudes Rewards</a></li><li class="listing_item hide"><a class="linkItem" href="#" title="Messages" aria-label="Messages">Messages<span class="badge" data-js="logged-in-messages"></span></a></li><li class="listing_item"><a class="linkItem" href="#" title="Log Out" aria-label="Log Out" data-js="logged-in-logout">Log Out</a></li></ul></div></div></div></div></div></li><li class="listing_item" data-js="logged-out"><div class="loginSection"><div class="loginSection_list"><ul class="listing -pipeCenter"><li class="listing_item"><a class="linkNav" href="/register" title="Register" aria-label="Register" data-js="register">Register</a></li><li class="listing_item"><a class="linkNav" href="/login" title="Log in" aria-label="Log in" data-js="login">Log in</a></li></ul></div><div class="loginSection_tooltip"><!--c711--><div class="c711 -variant-1 hide"><div class="c711_close"><a class="c711_close_link close" href="#" title="Close" aria-label="Close" data-js="close-login"></a></div><div class="c711_header"><span class="label-2 text-cool-grey-80">Log in to access:</span></div><div class="c711_body"><ul class="listing"><li class="listing_item"><!--e82--><div class="e82 -variant-5"><div class="e82_icon nis-check"></div><div class="e82_text"><span class="paragraph-serif-3 -variant-2 text-navy-70">Special Offers</span></div></div></li><li class="listing_item"><!--e82--><div class="e82 -variant-5"><div class="e82_icon nis-check"></div><div class="e82_text"><span class="paragraph-serif-3 -variant-2 text-navy-70">Personalized Recommendations</span></div></div></li><li class="listing_item"><!--e82--><div class="e82 -variant-5"><div class="e82_icon nis-check"></div><div class="e82_text"><span class="paragraph-serif-3 -variant-2 text-navy-70">Make reservations before you cruise</span></div></div></li><li class="listing_item"><!--e82--><div class="e82 -variant-5"><div class="e82_icon nis-check"></div><div class="e82_text"><span class="paragraph-serif-3 -variant-2 text-navy-70">Much more!</span></div></div></li></ul></div><div class="c711_aside"><div class="c711_aside_block"><a class="btn btn-primary" href="/login" title="Log in today" aria-label="Log in today" data-js="cta-login">Log in today</a></div><div class="c711_aside_block"><div class="c711_aside_text"><!-- e84 --><div class="e84 -rtl"><div class="e84_aside"><a class="link-2" href="/register" title="REGISTER" aria-label="REGISTER" data-js="cta-register">REGISTER</a></div><div class="e84_subtitle"><span class="paragraph-serif-4">Don't have an account?</span></div></div></div></div></div></div></div></div></li><li class="listing_item hidden-xs"><a class="linkNav -variant-1 -icon pipeWrap-lg" href="tel:+1-866-234-7350" title="Phone number" aria-label="Phone number" data-phoneAttribute="default"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-866-234-7350</span></a><a class="linkNav -variant-1 -icon pipeWrap-lg hide" href="tel:+1-855-577-9489" title="Phone number" aria-label="Phone number" data-phoneAttribute="nextJump"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-855-577-9489</span></a><a class="linkNav -variant-1 -icon pipeWrap-lg hide" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneAttribute="penn"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-877-288-3037</span></a><a class="linkNav -variant-1 -icon pipeWrap-lg hide" href="tel:+1-877-288-3037" title="Phone number" aria-label="Phone number" data-phoneAttribute="caesar"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-877-288-3037</span></a><a class="linkNav -variant-1 -icon pipeWrap-lg hide" href="tel:+1-877-474-2969" title="Phone number" aria-label="Phone number" data-phoneAttribute="social"><i class="linkNav_icon nis-phone-on visible-lg"></i><i class="linkNav_icon nis-phone-off hidden-lg"></i><span class="linkNav_number visible-lg">1-877-474-2969</span></a></li></ul></div></div></div></div></div></div><nav class="header_navigation" data-analytics-region="utility_header_nav" data-js="touch-scrolling"><div class="mainNavigation -light" data-js="header-nav" data-position="sticky" data-breakpoint="md-up" data-spacer="false"><div class="wrapper"><div class="container"><div class="row justify-content-between"><div class="col-md-auto"><div class="navigationWrapper -left"><ul class="listing -inline"><li class="listing_item"><div class="drophover"><a class="linkNav" href="#" title="Explore" aria-label="Explore" data-js="drophover-toggle" data-js="header-navigation-link">Explore</a><div class="drophover_menu"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-16 visible-xs"><div class="c230_header -left"><a class="c230_close" href="#" title="Close" aria-label="Close" data-js="drophover-close"></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/vacations" title="Find A Cruise" aria-label="Find A Cruise">Find A Cruise</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations" title="Cruise Destinations" aria-label="Cruise Destinations">Cruise Destinations</a></li><li class="listing_item"><a class="linkItem" href="/cruise-ship" title="Cruise Ships" aria-label="Cruise Ships">Cruise Ships</a></li><li class="listing_item"><a class="linkItem" href="/port-of-call" title="Ports" aria-label="Ports">Ports</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/great-stirrup-cay" title="Norwegian&#39;s Private Island" aria-label="Norwegian&#39;s Private Island">Norwegian's Private Island</a></li><li class="listing_item"><a class="linkItem" href="/shore-excursions" title="Shore Excursions" aria-label="Shore Excursions">Shore Excursions</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/cruise-packages-and-hotels" title="Cruisetours & Hotels" aria-label="Cruisetours & Hotels">Cruisetours & Hotels</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/whats-onboard" title="Onboard Experience" aria-label="Onboard Experience">Onboard Experience</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/casino-cruise" title="Casinos At Sea" aria-label="Casinos At Sea">Casinos At Sea</a></li><li class="listing_item"><a class="linkItem" href="/sail-safe" title="Sail Safe" aria-label="Sail Safe">Sail Safe</a></li><li class="listing_item"><a class="linkItem" href="/travel-blog" title="NCL Travel Blog" aria-label="NCL Travel Blog">NCL Travel Blog</a></li></ul></div></div></div></div></li><li class="listing_item"><div class="drophover"><a class="linkNav" href="#" title="Cruise Deals" aria-label="Cruise Deals" data-js="drophover-toggle" data-js="header-navigation-link">Cruise Deals</a><div class="drophover_menu"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-16 visible-xs"><div class="c230_header -left"><a class="c230_close" href="#" title="Close" aria-label="Close" data-js="drophover-close"></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/cruise-deals" title="All Cruise Deals" aria-label="All Cruise Deals">All Cruise Deals</a></li><li class="listing_item"><a class="linkItem" href="/cruise-deals/more-at-sea" title="More At Sea" aria-label="More At Sea">More At Sea</a></li><li class="listing_item"><a class="linkItem" href="/cruise-deals/more-at-sea/free-airfare" title="Free Airfare" aria-label="Free Airfare">Free Airfare</a></li><li class="listing_item"><a class="linkItem" href="https://www.ncl.com/vacations?guests=3&amp;deals=free-3rd-4th-guests" title="Free Extra Guests Sailings" aria-label="Free Extra Guests Sailings">Free Extra Guests Sailings</a></li><li class="listing_item"><a class="linkItem" href="/cruise-deals/sail-away-rates" title="Lowest Cruise Fares" aria-label="Lowest Cruise Fares">Lowest Cruise Fares</a></li><li class="listing_item"><a class="linkItem" href="/group-cruises" title="Group Cruise Discounts" aria-label="Group Cruise Discounts">Group Cruise Discounts</a></li><li class="listing_item"><a class="linkItem" href="/military" title="Military Appreciation Program" aria-label="Military Appreciation Program">Military Appreciation Program</a></li><li class="listing_item"><a class="linkItem" href="/teachers" title="Teacher Cruise Discount" aria-label="Teacher Cruise Discount">Teacher Cruise Discount</a></li><li class="listing_item"><a class="linkItem" href="/cruise-deals/solo-cruising" title="Solo Cruiser Discounts" aria-label="Solo Cruiser Discounts">Solo Cruiser Discounts</a></li><li class="listing_item"><a class="linkItem" href="/latitudes-rewards-program/insider-offer" title="Past Guest Offer" aria-label="Past Guest Offer">Past Guest Offer</a></li><li class="listing_item"><a class="linkItem" href="/cruisefirst-program" title="CruiseFirst" aria-label="CruiseFirst">CruiseFirst</a></li><li class="listing_item"><a class="linkItem" href="/cruise-deals/norwegians-picks-of-the-month" title="Norwegian&#39;s Picks of the Month" aria-label="Norwegian&#39;s Picks of the Month">Norwegian's Picks of the Month</a></li></ul></div></div></div></div></li><li class="listing_item"><div class="drophover"><a class="linkNav" href="#" title="Why Norwegian" aria-label="Why Norwegian" data-js="drophover-toggle" data-js="header-navigation-link">Why Norwegian</a><div class="drophover_menu"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-16 visible-xs"><div class="c230_header -left"><a class="c230_close" href="#" title="Close" aria-label="Close" data-js="drophover-close"></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian" title="Experience MORE At Sea™" aria-label="Experience MORE At Sea™">Experience MORE At Sea™</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/cruise-dining" title="Dining" aria-label="Dining">Dining</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/cruise-entertainment" title="Entertainment" aria-label="Entertainment">Entertainment</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/cruise-accommodations" title="Accommodations" aria-label="Accommodations">Accommodations</a></li><li class="listing_item"><a class="linkItem" href="/why-cruise-norwegian/family-cruises" title="Family Cruises" aria-label="Family Cruises">Family Cruises</a></li><li class="listing_item"><a class="linkItem" href="/latitudes-rewards-program" title="Latitudes Rewards" aria-label="Latitudes Rewards">Latitudes Rewards</a></li></ul></div></div></div></div></li><li class="listing_item"><div class="drophover"><a class="linkNav" href="#" title="Manage" aria-label="Manage" data-js="drophover-toggle" data-js="header-navigation-link">Manage</a><div class="drophover_menu"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-16 visible-xs"><div class="c230_header -left"><a class="c230_close" href="#" title="Close" aria-label="Close" data-js="drophover-close"></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/shorex/checkin" title="Check In" aria-label="Check In">Check In</a></li><li class="listing_item"><a class="linkItem" href="/login" title="Already Booked?" aria-label="Already Booked?">Already Booked?</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/prepare-for-your-cruise" title="Prepare For Your Cruise" aria-label="Prepare For Your Cruise">Prepare For Your Cruise</a></li><li class="listing_item"><a class="linkItem" href="/onboard-packages" title="Onboard Packages" aria-label="Onboard Packages">Onboard Packages</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/getting-to-the-pier" title="Transfers & Pier Directions" aria-label="Transfers & Pier Directions">Transfers & Pier Directions</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/cruise-travel-documents" title="Required Documents" aria-label="Required Documents">Required Documents</a></li><li class="listing_item"><a class="linkItem" href="/freestyle-cruise/booksafe" title="Travel Protection" aria-label="Travel Protection">Travel Protection</a></li><li class="listing_item"><a class="linkItem" href="/fcc" title="Future Cruise Credits" aria-label="Future Cruise Credits">Future Cruise Credits</a></li></ul></div></div></div></div></li><li class="listing_item"><div class="drophover"><a class="linkNav" href="#" title="Help" aria-label="Help" data-js="drophover-toggle" data-js="header-navigation-link">Help</a><div class="drophover_menu"><div class="drophover_menu_wrap"><!--c230--><div class="c230 -variant-16 visible-xs"><div class="c230_header -left"><a class="c230_close" href="#" title="Close" aria-label="Close" data-js="drophover-close"></a></div></div><div class="drophover_menu_content"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/faq" title="FAQ" aria-label="FAQ">FAQ</a></li><li class="listing_item"><a class="linkItem" href="/new-to-cruising" title="New To Cruising" aria-label="New To Cruising">New To Cruising</a></li><li class="listing_item"><a class="linkItem" href="/about/accessible-cruising" title="Accessible Cruising" aria-label="Accessible Cruising">Accessible Cruising</a></li><li class="listing_item"><a class="linkItem" href="/help/leads" title="Request A Call Back" aria-label="Request A Call Back" data-leads="true">Request A Call Back</a></li><li class="listing_item"><a class="linkItem" href="/about/contact-us" title="Contact Us" aria-label="Contact Us">Contact Us</a></li></ul></div></div></div></div></li></ul></div></div></div></div></div></div></nav></div></section><div class="compatibility"><div class="shortcutArea hide"><div favorites-directive></div><!-- Message --><div class="shortcutMsgsContent hide" data-analytics-region="alert_messages"><div class="shortcutAreaHeader"><div class="container"><div class="shortcutName visible-desktops">Message Center (<span class="counter">0</span>)</div><div class="shortcutClose js-shortcutClose ngi-icon"></div></div></div><div class="shortcutAreaBody"><div class="container"><div class="shortcutName visible-phones">Message Center (<span class="counter">0</span>)</div><div class="msgsCenter"><div class="msgsLoading"><img src="/static/images/anime/ajax-loading.gif" alt="Loading"></div><div class="form-group msgsSelect closeWhenMsgOpen"><label class="control-label">View</label><select id="sortInbox" class="form-control"><option value="priority">All Messages</option><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="priority">Most Important</option></select></div><div class="msgsTable closeWhenMsgOpen"><table class="table"><thead><tr><th>From</th><th></th><th>Message</th><th>Reservation #</th><th>Date</th></tr></thead><tbody id="inboxTableContent"><tr><td>Norwegian Communications Center</td><td><img src="/static/images/icons/triangle-info-yellow.png"></td><td><div class="visible-phones">Norwegian Communications Center</div><div><a href="javascript:message.displayMessage(147, 25422881);"><strong>Make a payment and confirm your reservation</strong></a></div><div>Don’t Lose Your Reservation!</div></td><td>25422881</td><td>Apr 1<span class="visible-desktops">, 2014</span></td></tr><tr class="unread"><td>Norwegian Communications Center</td><td></td><td><div class="visible-phones">Norwegian Communications Center</div><div><a href="javascript:message.displayMessage(147, 25422881);"><strong>Dining on sale - Exclusive Dining Offer</strong></a></div><div>Reserve your dining now</div></td><td>25422881</td><td>Apr 1<span class="visible-desktops">, 2014</span></td></tr><tr><td>Norwegian Communications Center</td><td><img src="/static/images/icons/triangle-info-yellow.png"></td><td><div class="visible-phones">Norwegian Communications Center</div><div><a href="javascript:message.displayMessage(147, 25422881);"><strong>Make a payment and confirm your reservation</strong></a></div><div>Don’t Lose Your Reservation!</div></td><td>25422881</td><td>Apr 1<span class="visible-desktops">, 2014</span></td></tr><tr><td>Norwegian Communications Center</td><td> </td><td><div class="visible-phones">Norwegian Communications Center</div><div><a href="javascript:message.displayMessage(147, 25422881);"><strong>Make a payment and confirm your reservation</strong></a></div><div>Don’t Lose Your Reservation!</div></td><td>25422881</td><td>Apr 1<span class="visible-desktops">, 2014</span></td></tr></tbody></table></div><div class="msgsPage closeWhenMsgOpen"><ul class="pagination"><li class="disabled"><a href="#">«</a></li><li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li><li><a href="#">2</a></li><li><a href="#">3</a></li><li><a href="#">4</a></li><li><a href="#">5</a></li><li><a href="#">»</a></li></ul></div><div class="msgsOpen openWhenMsgRead"><div class="msgsOpenHeader"><span><strong>From:</strong> <span class="msgFrom">Norwegian Comunications Center</span></span><span><strong>Sent:</strong> <span class="msgSent">May 21, 2014</span></span><span><strong>Subject:</strong> <span class="msgSubject">Beverage Packages Now On Sales</span></span></div><div class="msgsOpenBody"><p>*<a href="#" title="Terms & Conditions"><strong>Terms & Conditions</strong></a><br> Package not available on sailings less than 5 days or charter sailings.</p></div><div class="msgsOpenBack msgsLinks"><a href="#" title="Back To Messages"><strong><i class="ngi-icon-chevron-left"></i> Back To Messages</strong></a></div><div class="msgsLinks linkPackage visible-phones"><a href="#" title="Back To Messages"><strong> VIEW BEVERAGE PACKAGE <i class="ngi-icon-chevron-right"></i></strong></a></div></div></div></div></div></div></div></div>
+<script>
+if(location.pathname.includes('/vacations')) {
+    setTimeout(() => document.querySelectorAll('.m92_body_slider').forEach(slider => slider.parentElement.classList.remove('-loading', '-loading-hidden', '-loading-gradient')), 2000);
+}
+</script>
+</header><main class="main" id="app"><!-- m6 --><section id="default-hero" class="m6 -prop -prop-center" data-analytics-region="mod_hero"><div class="m6_hero"><div class="m6_hero_figure"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop  visible-md-up" src="/sites/default/files/NCL_Viva_Infinity_Pool_Europe_1871709_WEBHERO_3200x1020_8.jpg" alt="" loading="lazy"><img class="c5_figure_item c5_mobile visible-xs" src="/sites/default/files/NCL_Viva_Infinity_Pool_Europe_1871709_MOBILE_1536x1020_26.jpg" alt="" loading="lazy"></figure></div></div><div class="m6_hero_content"><div class="wrapper"><div class="container"><div class="m6_wrap"><div class="m6_wrap_item"><!-- c10 --><div class="c10"><div class="hero_container content_center vertical_content_center _hp">
+    <div class="lockup_container">
+        <figure class="lockup_figure">
+    <!-- mp_trans_remove_start="ES-US" -->
+            <img class="lockup_figure_item visible-md-up" src="/sites/default/files/1871709_NCL_Fleet_Horizontal.png" alt="">
+            <img class="lockup_figure_item visible-xs" src="/sites/default/files/1871709_NCL_Fleet_Vertical_0.png" alt="">
+  <!--mp_trans_remove_end-->
+
+ <!-- mp_trans_add="ES-US"
+            <img class="lockup_figure_item visible-md-up" src="/sites/default/files/1871709_NCL_US_SPA_Horizontal_A.png" alt="">
+            <img class="lockup_figure_item visible-xs" src="/sites/default/files/1871709_NCL_US_SPA_Vertical_A.png" alt="">-->
+
+            <figcaption class="lockup_figcaption">
+              <!--    <div id="countdown_hms" class="countdown_shadow"></div>
+ <div class="end_date" id="end_date">10/02/2024 23:59:59</div>
+<div class="end_date" id="end_date2">10/04/2024 23:59:59</div>
+<div class="end_date" id="end_date3">10/07/2024 23:59:59</div>
+<div class="end_date" id="end_date4">10/10/2024 23:59:59</div>
+<div class="end_date" id="end_date5">10/14/2024 23:59:59</div>-->
+             <div class="lockup_cta _btn_yellow">
+                    <a href="/cruise-deals/more-at-sea?intcmp=pro_hp_DISC35" title="Learn More about More at Sea" class="btn btn-cta btn-large">LEARN MORE</a>
+                </div>
+            </figcaption>
+        </figure>
+    </div>
+</div>
+<div class="hero_disclaimer _hp">
+    <span class="disclaimer">^Buy an air ticket and the 2nd guest flies for free. *View for full <a href="/about/terms-and-conditions/promotions" style="color:white;text-decoration: underline;">terms and conditions.</a>
+</span>
+</div>
+<div class="hero_disclaimer_gradient _hp"></div>
+
+<!-- MULTIPLE DATES COUNTDOWN 10MIN-->
+<script type="text/javascript" src="/sites/default/files/styles/cntdwn-multiple-dates-tenMin-ds-011723.js"></script>
+<!--  -->
+<script type="text/javascript">
+    try{
+        setTimeout(function(){
+            if (typeof initCountDown === 'function') {
+                initCountDown();
+            }
+        }, 100);
+    }catch (e) {console.log(e)}
+</script>
+<!--  -->
+
+<link rel="stylesheet" href="/sites/default/files/styles/mi-hero-code-102523-v1.css" media="all">
+
+<!-- CUSTOM CSS -->
+<style type="text/css">
+    .hero_container .lockup_container {
+        -ms-flex: 0 0 55%;
+        flex: 0 0 55%;
+    }
+    .hero_container .lockup_figure_item.visible-md-up {
+        margin: auto;
+        max-width: 80%;
+    }
+
+
+  /* ON MOBILE */
+    @media(max-width: 767.98px) {
+        .hero_container .lockup_container {
+            -ms-flex: 0 0 100%; /* Do Not make it less than 75% */
+            flex: 0 0 100%; /* Do Not make it less than 75% */
+            max-width: 88%;
+        }
+        .hero_container .lockup_figure_item.visible-xs {
+            max-width: 80%;
+margin: auto;
+margin-top: 10px;
+        }
+    }
+</style>
+</div></div></div></div></div></div></div></section><section id="fail-default-hero" class="m6 -prop -prop-center" data-analytics-region="mod_hero"></section><div id="dynamic-hero"></div>
+    <script>
+        (function() {
+
+            var cache;
+            var httpRequest;
+            var serviceTimeout = 4000; // time in milliseconds (4 seconds)
+            var defaultHero = 'default-hero';
+            var failDefaultHero = 'fail-default-hero';
+            var dynamicHero = 'dynamic-hero';
+
+            function removeHtmlElement(element){
+                if(element && element.parentNode && typeof element.parentNode.removeChild === 'function'){
+                  element.parentNode.removeChild(element);
+                }
+            }
+      
+            function removeDefaultHomeHero(){
+                var element = document.getElementById(defaultHero);
+
+                if (element){
+                    cache = element.innerHTML;
+                    removeHtmlElement(element);
+                    return true;
+                }
+
+                return false;
+            }
+
+            function getDynamicHomeHeroUrl(){
+                var value = '; ' + document.cookie;
+                var parts = value.split('; ' + 'Ncl_region' + '=');
+                var locationValue = (parts.length >= 2) ? '/' + parts.pop().split(';').shift(): '';
+                var dynamicUrl = 'browse/dynamic-home-hero' + locationValue;
+
+                return dynamicUrl;
+
+            }
+
+            function setHtml(elementId, html){
+                var element = document.getElementById(elementId);
+                if (element) {
+                    element.innerHTML = html;
+
+                    try{
+                        if (typeof initCountDown === 'function') {
+                            initCountDown();
+                        }
+                    }catch (e) {console.log(e)}
+               }
+            }
+
+            function saveContents() {
+                if (httpRequest.readyState === XMLHttpRequest.DONE) {
+                    if (httpRequest.status === 200){
+                        var element = document.getElementById(failDefaultHero);
+                        if( element )
+                           removeHtmlElement(element);
+
+                        setHtml(dynamicHero, httpRequest.responseText);
+                    }else {
+                        if (typeof cache != 'undefined'){
+                            console.log('Setting Default Home Hero: Dynamic Fails');
+                            var element = document.getElementById(dynamicHero);
+                            if( element )
+                              removeHtmlElement(element);
+
+                            setHtml(failDefaultHero, cache);
+                        }
+                    }
+                }
+            }
+
+            function loadDymanicHomeHero() {
+
+                if( removeDefaultHomeHero()){
+                    httpRequest = new XMLHttpRequest();
+
+                    if (!httpRequest) {
+                        console.log('Error Calling Dynamic Home Hero')
+                        return false;
+                    }
+
+                    var dynamicUrl = getDynamicHomeHeroUrl();
+
+                    httpRequest.onreadystatechange = saveContents;
+                    httpRequest.open('GET', dynamicUrl);
+                    httpRequest.timeout = serviceTimeout;
+
+                    httpRequest.ontimeout = function (e) {
+                        console.log('Dymanic Timeout'); //Only for log. When timeout happends also saveContents set the default home hero
+                    };
+
+                    httpRequest.send();
+                }else{
+                    console.log('Not needed to change home hero');
+                }
+            }
+
+            loadDymanicHomeHero();
+
+        })();
+    </script>
+
+    <expedite-filters class="-pulled" data-analytics-region="mod_expedite_search"></expedite-filters><!-- m9 --><section class="m9 bg-white -padding-bottom-plus visible-xs" data-analytics-region="mod_sign_up"><div class="wrapper"><div class="container"><div class="m9_wrap"><div class="m9_card"><div class="row"><div class="col-lg-6"><div class="m9_header"><h2 class="headline-7">Never Miss a Cruise Deal</h2><p class="paragraph-serif-3 hidden-xs">Get the latest cruise deals and vacation specials sent straight to your inbox.</p></div></div><div class="col-lg-6"><!-- c16 --><div class="c16"><form class="c16_form" id="signup-fiel-email" action="#"><div class="row align-items-end no-gutters"><div class="col-md-8 col-lg-9"><!-- e7 --><div class="e7 form-group"><label class="e7_label label-control label-1 text-cool-grey-80" for="your-email-address"><span>Email</span></label><input id="your-email-address" class="e7_input form-control promo_email -variant-1" type="email" aria-label="email" placeholder="Your Email Address"></div></div><div class="col-md-4 col-lg-3"><button type="button" class="btn btn-primary hidden-xs sign-up-form" data-leads="true" href="/ncl_inside_scoop?" data-toggle="modal">Submit</button></div></div></form></div></div></div></div></div></div></div></section><ncl-personalization-remarket class="-padding" id="anchor-3" data-analytics-region="mod_spotlight_2" cache-buster="1727377347971"></ncl-personalization-remarket><script src="/browse/assets/personalization-remarket/ncl-personalization-remarket.js?v=about%3Ainvalid%23zSoyz"></script><!--m28 us-en--><remarketing></remarketing><!-- m7 --><section class="m7 -padding-top -padding-bottom -padding -shadowLight" data-analytics-region="mod_spotlight_2"><div class="wrapper"><div class="container"><header class="m7_header"><h1 class="headline-7">Explore Your Cruise Vacation</h1></header><div class="m7_body"><div class="row"><div class="col-md-4"><!-- c12 --><article class="c12 -frontImage"><a class="c12_overlay" href="vacations?cruise-destination=caribbean&amp;date=jun-2024,jul-2024,aug-2024,oct-2024,nov-2024,dec-2024,jan-2025,feb-2025,mar-2025,apr-2025,may-2025,jun-2025,jul-2025,aug-2025?intcmp=na_sl_Carib1" title="View Cruises" aria-label="View Cruises"><span class="sr-only">2024 - 2025 Caribbean Cruises</span></a><div class="c12_card"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/747x550-ncl-caribbean-cruise-2.jpg" alt="2024 - 2025 Caribbean Cruises with Norwegian Cruise Line" loading="lazy"></figure></div><!-- c15 --><div class="c15"><header class="c15_header"><h2 class="c15_header_title headline-2-lg -variant-2-lg headline-7-md -variant-1-md headline-2-xs -variant-2-xs" data-js="c15-header-title">2024 - 2025 Caribbean Cruises</h2></header><div class="c15_body paragraph-serif-3">Secure your spot on one of our Caribbean cruises sailing year-round from various departure ports.</div><aside class="c15_aside"><a class="link-1 -caret" href="vacations?cruise-destination=caribbean&amp;date=jun-2024,jul-2024,aug-2024,oct-2024,nov-2024,dec-2024,jan-2025,feb-2025,mar-2025,apr-2025,may-2025,jun-2025,jul-2025,aug-2025?intcmp=na_sl_Carib1" title="View Cruises" aria-label="View Cruises" data-js="c15-aside-link">View Cruises</a></aside></div></div></article></div><div class="col-md-4"><!-- c12 --><article class="c12 -frontImage"><a class="c12_overlay" href="https://www.ncl.com/world-points?intcmp=pro_sl_BOA_2" title="LEARN MORE" aria-label="LEARN MORE"><span class="sr-only">An Ocean Of Possibilities Awaits</span></a><div class="c12_card"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/1078234_OBM_Bank_of_America_Bento_box_Asset_747x550.jpg" alt="" loading="lazy"></figure></div><!-- c15 --><div class="c15"><header class="c15_header"><h2 class="c15_header_title headline-2-lg -variant-2-lg headline-7-md -variant-1-md headline-2-xs -variant-2-xs" data-js="c15-header-title">An Ocean Of Possibilities Awaits</h2></header><div class="c15_body paragraph-serif-3">Earn triple points on Norwegian purchases to redeem toward stateroom upgrades, travel discounts & much more with a Norwegian Cruise Line® World Mastercard®.                                       </div><aside class="c15_aside"><a class="link-1 -caret" href="https://www.ncl.com/world-points?intcmp=pro_sl_BOA_2" title="LEARN MORE" aria-label="LEARN MORE" data-js="c15-aside-link">LEARN MORE</a></aside></div></div></article></div><div class="col-md-4"><!-- c12 --><article class="c12 -frontImage"><a class="c12_overlay" href="cruisefirst-program?intcmp=pro_sl_CRUISEFIRST3" title="Learn More" aria-label="Learn More"><span class="sr-only">Get a FREE $250 Credit with CruiseFirst</span></a><div class="c12_card"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/197023_CF_sushitray_747x550_0.jpg" alt="Get a FREE $250 Credit with CruiseFirst" loading="lazy"></figure></div><!-- c15 --><div class="c15"><header class="c15_header"><h2 class="c15_header_title headline-2-lg -variant-2-lg headline-7-md -variant-1-md headline-2-xs -variant-2-xs" data-js="c15-header-title">Get a FREE $250 Credit with CruiseFirst</h2></header><div class="c15_body paragraph-serif-3">Stack up your savings towards a future cruise. </div><aside class="c15_aside"><a class="link-1 -caret" href="cruisefirst-program?intcmp=pro_sl_CRUISEFIRST3" title="Learn More" aria-label="Learn More" data-js="c15-aside-link">Learn More</a></aside></div></div></article></div></div></div></div></div></section><!--m127--><section class="m127 -margin-bottom-plus" data-analytics-region="embark_series_hp_module"><div class="wrapper"><div class="container"><div class="m127_body"><!-- c658 --><article class="c658"><div class="c658_card"><div class="c658_figure -cover-lg -cover-center-fit-lg -cover-md -cover-center-fit-md -cover-xs -cover-center-fit-xs"><!-- c5 --><div class="c5 image-responsive image-responsive-16by9-xs"><figure class="c5_figure image-responsive-item"><img class="c5_figure_item c5_desktop " src="/sites/default/files/637d_MKGT_Ep3_Ep4_NCL_Embark2_VideoThumbnail_EmbarkLogo_20240112_v6_homepage.jpg" alt="Embark The Series" loading="lazy"><figcaption class="c5_figcaption"><!--e36--><div class="e36 -variant-3 -overlay-center-center"><img class="e36_image" src="/sites/default/files/merchandising/play-white.svg" alt="WATCH NOW"></div><a class="e138" href="/embark-series/video/aloha-hawaii" title="WATCH NOW" aria-label="WATCH NOW"><span class="sr-only">WATCH NOW</span></a></figcaption></figure></div></div><div class="c658_body"><!--c649--><div class="c649 -variant-8"><div class="c649_header"><div class="c649_header_subtitle"><span class="c649_header_subtitle_text label-2 -variant-4">EMBARK WITH NCL </span></div><div class="c649_header_title"><h2 class="headline-2 -variant-2">Aloha, Hawai’i</h2></div></div><div class="c649_body"><div class="paragraph-serif-3"><p>Bring out your Aloha spirit with this two-part journey through the Hawaiian Islands. Come along as we trek atop volcanos, surf infamous waves, indulge in authentic cuisine, snorkel through crystal-clear waters and immerse in the local culture.</p></div></div><div class="c649_aside"><ul class="listing"><li class="listing_item"><a class="link-1" href="/embark-series/video/aloha-hawaii" title="WATCH NOW" aria-label="WATCH NOW">WATCH NOW</a></li></ul></div></div></div></div></article></div></div></div></section><!-- m13 --><section class="m13 -upperImageLeft bg-white" data-analytics-region="mod_why_norwegian"><div class="wrapper"><div class="container"><div class="m13_content"><div class="row"><div class="col-md-5 order-md-2"><!-- c21 --><div class="c21"><header class="c21_header"><h2 class="headline-2 -variant-2">Experience MORE with Norwegian</h2></header><div class="c21_body paragraph-serif-3"><h3 class="headline -small">More to See. More to Do. More to Enjoy.</h3>
+<p>From exploring breathtaking destinations across the world to zooming around the only race tracks at sea, to being only a few short steps away from Thai and French cuisine or the perfect twirl of a classic Italian pasta dish, Norwegian has more for everyone.</p>
+
+<!-- mp_trans_remove_start="EN-AU,EN-NZ,EN-FR,FR-FR,EN-DE,DE-DE,EN-CH,DE-CH,EN-IT,IT-IT,EN-UK,EN-ES,ES-ES,PT-BR,ES-AR,ES-MX,EN-IL,HE-IL,EN-JP,JA-JP,EN-IN,EN-NO" --> 
+<h3 class="headline -small">Get More of What You Love with More At Sea™</h3>
+<p>Sit back, relax and enjoy more on your vacation with Norwegian's <b>More At Sea</b>, our one-of-a-kind cruising package included for more value at the best quality.</p>
+<!--mp_trans_remove_end-->
+
+<!--mp_trans_add="PT-BR,ES-AR,ES-MX,EN-IL,HE-IL,EN-JP,JA-JP,EN-IN,EN-NO"
+<h3 class="headline -small">Get More of what you love with More At Sea™</h3>
+<p>Enrich your cruise vacation with up to 5 Free Offers with Norwegian's More At Sea promotion. Choose from Free Unlimited Open Bar, Free Specialty Dining, Free Shore Excursions, Free WiFi and Free 3rd & 4th Guests.</p>-->
+ 
+<!--mp_trans_add="EN-AU,EN-NZ"
+<h3 class="headline -small">Get More of what you love with <b>More At Sea™</b></h3>
+<p>Enrich your cruise vacation with up to 5 Free Offers with NCL's More At Sea promotion. Choose from Free Beverage Package, Free Specialty Dining Package, Free Shore Excursion Credits, and more.</p>-->
+ 
+<!--mp_trans_add="EN-FR,FR-FR,EN-DE,DE-DE,EN-CH,DE-CH,EN-IT,IT-IT,EN-ES,ES-ES"
+<h3 class="headline -small">NCL's More at Sea™</h3>
+<p>Enjoy the most inclusive cruise holiday with More at Sea. Upgrade your cruise and a lot of extras will be included: Premium Beverages, Specialty Dining, Shore Excursions discount, and more. Plus, enjoy Airfare Credits on select cruises.</p>-->
+ 
+<!--mp_trans_add="EN-UK"
+<h3 class="headline -small">NCL's More at Sea™</h3>
+<p>Enjoy the most inclusive cruise holiday with NCL's More at Sea. Upgrade your cruise and choose from offers, like Open Bar, and Speciality Dining, to customise your holiday to any destination, any time of year. Plus, enjoy Airfare Credits on select cruises.</p>-->
+
+<h3 class="headline -small">Vacation without Compromise</h3>
+<p>Our award-winning ships are designed for you to enjoy more of what you love while cruising to more unique destinations around the world. With a variety of incredible experiences on board, including everything from spectacular entertainment to dancing under the stars at the most illuminating party at sea, or even relaxing in our world-class spa, you're guaranteed to have the best vacation ever.</p></div><aside><a class="link-1 -caret" href="/why-cruise-norwegian" title="Why Norwegian" aria-label="Why Norwegian">Why Norwegian</a></aside></div></div><div class="col-md-7 order-md-1"><!-- c18 --><ul class="c18"><li class="c18_item"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/Ship_NCL_HomePage_767x511.jpg" alt="Norwegian Cruise Line Ships" loading="lazy"></figure></div></li><li class="c18_item"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/Race-track-NCL_HomePage_1_02_421x281.jpg" alt="Unmatched views from our ships" loading="lazy"></figure></div></li><li class="c18_item"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/Couple_NCL_HomePage_1_03_421x561.jpg" alt="Do More of What You Love" loading="lazy"></figure></div></li></ul></div></div></div></div></div></section><!-- m9 --><section class="m9 bg-white -padding-bottom-plus hidden-xs" data-analytics-region="mod_sign_up"><div class="wrapper"><div class="container"><div class="m9_wrap"><div class="m9_card"><div class="row"><div class="col-lg-6"><div class="m9_header"><h2 class="headline-7">Never Miss a Cruise Deal</h2><p class="paragraph-serif-3 hidden-xs">Get the latest cruise deals and vacation specials sent straight to your inbox.</p></div></div><div class="col-lg-6"><!-- c16 --><div class="c16"><form class="c16_form" id="signup-fiel-email" action="#"><div class="row align-items-end no-gutters"><div class="col-md-8 col-lg-9"><!-- e7 --><div class="e7 form-group"><label class="e7_label label-control label-1 text-cool-grey-80" for="your-email-address"><span>Email</span></label><input id="your-email-address" class="e7_input form-control promo_email -variant-1" type="email" aria-label="email" placeholder="Your Email Address"></div></div><div class="col-md-4 col-lg-3"><button type="button" class="btn btn-primary hidden-xs sign-up-form" data-leads="true" href="/ncl_inside_scoop?" data-toggle="modal">Submit</button></div></div></form></div></div></div></div></div></div></div></section><!-- m14 --><section class="m14 -padding-bottom-half"><div class="wrapper"><div class="container"><div class="m14_content"><div class="m14_header"><!-- c15 --><div class="c15"><header class="c15_header"><span class="c15_header_subtitle label-1">Destinations</span><h2 class="c15_header_title headline-2-lg -variant-2-lg headline-7-md -variant-1-md headline-2-xs -variant-2-xs" data-js="c15-header-title">Feel Like a Change of Scenery?</h2></header><div class="c15_body paragraph-serif-3"><p>Experience a once-in-a-lifetime moment you will never forget while witnessing the icy-blue glaciers and unique wildlife of Alaska. Walk through Greece's enchanting, sun-bleached streets, or find your own paradise in a secret beach in The Caribbean. Our award-winning ships are designed for you to enjoy as you choose while cruising to the most beautiful destinations around the world. No matter where your dream vacation takes you, feel free to cruise your way.</p></div><aside class="c15_aside"><a class="link-1 -caret" href="/cruise-destinations" title="View Our Cruise Destinations" aria-label="Learn More About Our Destinations" data-js="c15-aside-link">View Our Destinations</a></aside></div></div><div class="m14_figure"><!-- c18 --><ul class="c18 -changeOrder"><li class="c18_item"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop  visible-md-up" src="/sites/default/files/744x497-alaska-cruise-glacier-bay-whale-ncl.jpg" alt="Witness icy-blue glaciers and unique wildlife in Antarctica" loading="lazy"><img class="c5_figure_item c5_mobile visible-xs" src="/sites/default/files/320x480-alaska-cruise-glacier-bay-whale-ncl.jpg" alt="Witness icy-blue glaciers and unique wildlife in Alaska" loading="lazy"><figcaption class="c5_figcaption"><!-- e17 --><div class="e17"><div class="e17_header"><a class="e17_header_link link-2" href="/cruise-destinations/alaska-cruises" title="Alaska Cruises" aria-label="Alaska Cruises"><i class="e17_icon nis-ship"></i> Alaska Cruises</a></div><p class="paragraph-serif-4 -variant-1">Feel Free to Let the Outside In</p></div></figcaption></figure></div></li><li class="c18_item"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/421x281-Cinque_Terre_Italy_cruise-ncl.jpg" alt="Beautiful Coastal Town in Cinque Terre" loading="lazy"><figcaption class="c5_figcaption"><!-- e17 --><div class="e17"><div class="e17_header"><a class="e17_header_link link-2" href="/cruises-to/europe-cruises" title="Best European Destinations" aria-label="Best European Destinations"><i class="e17_icon nis-award-solid"></i> Best European Destinations</a></div><p class="paragraph-serif-4 -variant-1"> </p></div></figcaption></figure></div></li><li class="c18_item"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop  visible-lg" src="/sites/default/files/421x561-ncl-greece-cruise-couple-selfie.jpg" alt="Walk through Greece&#39;s sun-bleached streets" loading="lazy"><img class="c5_figure_item c5_tablet  visible-md-down " src="/sites/default/files/421x350-ncl-greece-cruise-couple-selfie.jpg" alt="Wander through Greece&#39;s sun-bleached streets" loading="lazy"></figure></div></li></ul></div><div class="m14_aside"><!-- c14 --><div class="c14"><div class="c14_header"><h2 class="headline-2 -variant-2">Top Destinations</h2></div><div class="c14_body"><div class="c14_content"><ul class="listing -three"><li class="listing_item"><a class="link-1 -caret" href="/cruise-destinations/alaska-cruises" title="Alaska Cruises" aria-label="Alaska Cruises">Alaska Cruises</a></li><li class="listing_item"><a class="link-1 -caret" href="/cruise-destinations/bahamas-cruises" title="Bahamas Cruises" aria-label="Bahamas Cruises">Bahamas Cruises</a></li><li class="listing_item"><a class="link-1 -caret" href="/cruise-destinations/bermuda-cruises" title="Bermuda Cruises" aria-label="Bermuda Cruises">Bermuda Cruises</a></li><li class="listing_item"><a class="link-1 -caret" href="/cruise-destinations/caribbean-cruises" title="Caribbean Cruises" aria-label="Caribbean Cruises">Caribbean Cruises</a></li><li class="listing_item"><a class="link-1 -caret" href="/cruises-to/europe-cruises" title="Europe Cruises" aria-label="Europe Cruises">Europe Cruises</a></li><li class="listing_item"><a class="link-1 -caret" href="/cruise-destinations/extraordinary-journeys-cruises" title="Extraordinary Journeys" aria-label="Extraordinary Journeys">Extraordinary Journeys</a></li><li class="listing_item"><a class="link-1 -caret" href="/cruise-destinations/hawaii-cruises" title="Hawaii Cruises" aria-label="Hawaii Cruises">Hawaii Cruises</a></li><li class="listing_item"><a class="link-1 -caret" href="/cruise-destinations/mexico-cruises" title="Mexican Riviera Cruises" aria-label="Mexican Riviera Cruises">Mexican Riviera Cruises</a></li><li class="listing_item"><a class="link-1 -caret" href="/cruise-destinations/panama-canal-cruises" title="Panama Canal Cruises" aria-label="Panama Canal Cruises">Panama Canal Cruises</a></li></ul></div><div class="c14_aside"><a class="link-1 -caret" href="/cruise-destinations/" title="See Where Else We Sail" aria-label="See Where Else We Sail ">See Where Else We Sail</a></div></div></div></div></div></div></div></section><!-- m11 --><section class="m11 bg-medium -bg-medium" data-analytics-region="mod_cruise_ships"><div class="wrapper"><div class="container"><div class="m11_content"><div class="m11_header"><div class="row"><div class="col-md-7 order-md-2"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/hot-tub-couple-NCL_Homepage_747x498.jpg" alt="Norwegian&#39;s Newest Fleet of Cruise Ships" loading="lazy"></figure></div></div><div class="col-md-5 order-md-1"><!-- c15 --><div class="c15"><header class="c15_header"><span class="c15_header_subtitle label-1">Cruise Ships</span><h2 class="c15_header_title headline-1-lg -variant-2-lg headline-2-md -variant-2-md headline-1-xs -variant-2-xs" data-js="c15-header-title">Meet the Fleet Built to Experience MORE</h2></header></div></div></div></div><div class="m11_body"><ul class="listing -three"><li class="listing_item"><!-- c24 --><div class="c24"><header class="c24_header"><span class="c24_header_subtitle label-1">INNOVATIVE ACCOMMODATIONS</span><h3 class="c24_header_title headline-7 -variant-1">Setting the Standard</h3></header><div class="c24_body"><div class="paragraph-serif-3">From our award-winning solo studios to The Haven's luxurious suites hidden away in our exclusive enclave, we offer more accommodations so every guest can find their perfect retreat.</div></div><aside class="c24_aside"><a class="link-1 -caret" href="/why-cruise-norwegian/cruise-accommodations" title="Cruise Accommodations" aria-label="Cruise Accommodations">Cruise Accommodations</a></aside></div></li><li class="listing_item"><!-- c24 --><div class="c24"><header class="c24_header"><span class="c24_header_subtitle label-1">PURPOSE-BUILT SHIPS</span><h3 class="c24_header_title headline-7 -variant-1">Built for More</h3></header><div class="c24_body"><div class="paragraph-serif-3">Set sail on the only ships explicitly designed with more experiences so everyone can do what they love. An unforgettable vacation awaits.</div></div><aside class="c24_aside"><a class="link-1 -caret" href="/why-cruise-norwegian" title="Experience More on Vacation" aria-label="Experience More on Vacation">Experience More on Vacation</a></aside></div></li><li class="listing_item"><!-- c24 --><div class="c24"><header class="c24_header"><span class="c24_header_subtitle label-1">A FRESH FLEET</span><h3 class="c24_header_title headline-7 -variant-1">Innovation on the High Seas</h3></header><div class="c24_body"><div class="paragraph-serif-3">Norwegian's award-winning ships are revolutionizing the industry. That means more cutting-edge features, more interactive experiences and a cruise vacation that's more your style.</div></div><aside class="c24_aside"><a class="link-1 -caret" href="/cruise-ship" title="Award-Winning Cruise Ships" aria-label="Award-Winning Cruise Ships">Award-Winning Cruise Ships</a></aside></div></li></ul></div><div class="m11_aside"><a class="link-1 -caret" href="/cruise-ship" title="Explore Cruise Ships" aria-label="Explore Cruise Ships">Explore Cruise Ships</a></div></div></div></div></section><!-- m10 --><section class="m10 -padding -shadowLight" data-analytics-region="mod_choose_adventure"><div class="wrapper"><div class="container"><div class="m10_header"><h2 class="m10_header_title headline-7">MORE for Everyone</h2><div class="paragraph-serif-2"><p>With more incredible onboard activities, more premier entertainment and more unforgettable shore excursions, everyone can do what they love.</p></div><hr class="hr-vertical hidden-xs"></div><div class="m10_body"><!-- c6 --><div class="c6 hide" data-js="pager"><ul class="c6_list"><li class="c6_list_item" data-js="pager-prev"></li><li class="c6_list_item"><div class="c6_pager"><span class="c6_pager_item" data-js="pager-counter"></span></div></li><li class="c6_list_item" data-js="pager-next"></li></ul></div><ul class="m10_list" data-slider="m10"><li class="m10_list_item"><!-- c12 --><article class="c12 -backImage"><div class="c12_card"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/Couple_Dining_NCL_Homepage_767x431.jpg" alt="Delicious Food" loading="lazy"></figure></div><!-- c15 --><div class="c15"><header class="c15_header"><h4 class="c15_header_subtitle label-1 text-cool-grey-80">Onboard Dining</h4><h3 class="c15_header_title headline-1-lg -variant-2-lg headline-7-md -variant-1-md headline-1-xs -variant-2-xs" data-js="c15-header-title">Enjoy MORE Delectable Bites</h3></header><div class="c15_body paragraph-serif-3"><p>Premium cuts at Cagney's Steakhouse tonight and signature pastas at Onda by Scarpetta tomorrow. Indulge in world-class dining every night, where each meal is a culinary journey created by top chefs.</p></div><aside class="c15_aside"><a class="link-1 -caret" href="/why-cruise-norwegian/cruise-dining" title="Explore Dining" aria-label="Explore Dining" data-js="c15-aside-link">Explore Dining</a></aside></div></div></article></li><li class="m10_list_item"><ul class="listing -flexBlock"><li class="listing_item"><!-- c12 --><article class="c12 -backImage-md"><div class="c12_card"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/Theater-Show_NCL_Homepage_767x431.jpg" alt="red flag" loading="lazy"></figure></div><!-- c15 --><div class="c15"><header class="c15_header"><h3 class="c15_header_title headline-7 -variant-1" data-js="c15-header-title">See the Spectacular</h3></header><aside class="c15_aside"><a class="link-1 -caret" href="why-cruise-norwegian/cruise-entertainment" title="Explore Entertainment" aria-label="Explore Entertainment" data-js="c15-aside-link">Explore Entertainment</a></aside></div></div></article></li><li class="listing_item"><!-- c12 --><article class="c12 -backImage-md"><div class="c12_card"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/Snorkel_NCL_Homepage_767x431.jpg" alt="lady diver discovering conch shell" loading="lazy"></figure></div><!-- c15 --><div class="c15"><header class="c15_header"><h3 class="c15_header_title headline-7 -variant-1" data-js="c15-header-title">Discover Local Treasures</h3></header><aside class="c15_aside"><a class="link-1 -caret" href="/shore-excursions" title="Explore Shore Excursions -Title" aria-label="Explore Shore Excursions -Aria" data-js="c15-aside-link">Explore Shore Excursions</a></aside></div></div></article></li></ul></li><li class="m10_list_item"><ul class="listing -flexBlock"><li class="listing_item"><!-- c12 --><article class="c12 -backImage-md"><div class="c12_card"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/Group-Bar-NCL_Homepage_767x431.jpg" alt="Pouring Mojito Drink" loading="lazy"></figure></div><!-- c15 --><div class="c15"><header class="c15_header"><h3 class="c15_header_title headline-7 -variant-1" data-js="c15-header-title">Raise a Glass</h3></header><aside class="c15_aside"><a class="link-1 -caret" href="/why-cruise-norwegian/cruise-bars-and-lounges" title="Explore Bars & Lounges " aria-label="Explore Bars & Lounges" data-js="c15-aside-link">Explore Bars & Lounges</a></aside></div></div></article></li><li class="listing_item"><!-- c12 --><article class="c12 -backImage-md"><div class="c12_card"><!-- c5 --><div class="c5"><figure class="c5_figure"><img class="c5_figure_item c5_desktop " src="/sites/default/files/Slide_NCL_Homepage_767x431.jpg" alt="The Plank, extending 8 feet over the side of the ship." loading="lazy"></figure></div><!-- c15 --><div class="c15"><header class="c15_header"><h3 class="c15_header_title headline-7 -variant-1" data-js="c15-header-title">Slide into Exhilaration</h3></header><aside class="c15_aside"><a class="link-1 -caret" href="/why-cruise-norwegian/cruise-ship-activities" title="Explore Activities" aria-label="Explore Activities" data-js="c15-aside-link">Explore Activities</a></aside></div></div></article></li></ul></li></ul></div></div></div></section><!-- m0 us-en --><section class="m0" id="boa-new-card-design"><div class="wrapper"><div class="container"><div class="m0_body"><!--September 2023 Start - Delete This Module Prior to Switchover -->
+<section class="m104 -padding -margin-top -margin-bottom">
+    <div class="wrapper">
+        <div class="container">
+            <div class="m104_wrapper">
+                <div class="m104_figure">
+                    <div class="c5">
+                        <figure class="c5_figure">
+                            <img class="c5_figure_item c5_desktop  visible-lg" src="/sites/default/files/3000x1020-Desktop_Banner_3.jpg" alt="Alternative Text" loading="lazy">
+                            <img class="c5_figure_item c5_tablet  visible-md " src="/sites/default/files/3000x1020-Desktop_Banner_3.jpg" alt="Alternative Text" loading="lazy">
+                            <img class="c5_figure_item c5_mobile visible-xs" src="/sites/default/files/580x1450-Mobile_Homepage_Banner_3.jpg" alt="Alternative Text" loading="lazy">
+                        </figure>
+                    </div>
+                </div>
+                <div class="m104_header">
+                    <div class="c642">
+                        <div class="c642_header">
+                            <h3 class="headline-2 -variant-4">
+                                <span style="color:#284560; line-height:2rem !important; color: #fff;">LIMITED-TIME ONLINE OFFER!</span>
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="m104_content">
+                    <div class="m104_content_body">
+                        <div class="c642">
+                            <div class="c642_body">
+                                <div class="c642_body_text paragraph-sans-1 -variant-2 boa-succinct">APPLY NOW AND EARN</div>
+                                <div class="c642_body_text paragraph-sans-1 -variant-2 boa-offer-details">30,000 <span class="boa-further-details">BONUS POINTS</span><span class="boa-further-details-equal"> = </span> $300 <span class="boa-further-details">ONBOARD CREDIT</span></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="m104_content_figure">
+                        <div class="c643 -variant-1">
+                            <div class="c643_figure">
+                                <img class="c643_figure_image" src="/sites/default/files/BoA_New_Card_Images_9-7-2023-min2.png" alt="Alternative Text" loading="lazy" style="width: 80%;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="c642_aside _btn_yellow">
+                    <a class="btn" href="https://secure.bankofamerica.com/apply-now-services/credit-cards/initialize-icai?requesttype=C&campaignid=4072354&productoffercode=QJ" title="Apply Now" aria-label="Apply Now">Apply Now</a>
+                </div>
+                <span class="boa-additional-info">Must apply here for this offer. Offers vary elsewhere. Residents of the U.S. and its territories only. See full disclosure for details.</span>
+                <a class="m104_link" href="https://secure.bankofamerica.com/apply-now-services/credit-cards/initialize-icai?requesttype=C&campaignid=4072354&productoffercode=QJ" title="Apply Now" aria-label="Apply Now" target="_blank"><span class="sr-only">Apply Now</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- September 2023 End -->
+
+<style type="text/css">
+    .m104_wrapper .c642 { text-align: center; }
+    .m104_wrapper .m104_header { padding-top: 1rem;}
+    .m104_wrapper .m104_header > .c642 > .c642_header { position: relative; text-align: center; padding: 1.875rem; padding-bottom: 0; font-family: "Jost"; font-weight: 400; text-transform: uppercase; letter-spacing: 0.6px; font-size: 2.5rem; text-align: center; }
+    .m104_wrapper .m104_header > .c642 > .c642_header h3 span { font-family: 'Jost Regular'; color: #fff; font-size: 3.5rem; }
+    .m104_wrapper .c642_aside { position: relative; text-align: center; margin-bottom: 30px; }
+    .m104_wrapper span.boa-additional-info { position: relative; font-family: 'Noto Sans'; font-weight: 700; font-size: 10px; color: #284560; color: #fff; line-height: 15px; text-align: center; display: block; }
+
+    .c642_body_text.paragraph-sans-1.-variant-2.boa-succinct {
+        font-family: 'Jost';
+        font-size: 1.8rem;
+        font-size: 2.25rem;
+        font-weight: 300;
+        line-height: inherit;
+        color: #fff;
+        letter-spacing: 1px;
+    }
+
+    .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details {
+        color: #fff;
+        font-size: 2.3rem;
+        font-size: 2.75rem;
+        font-weight: 600;
+        margin-top: 14px;
+    }
+
+    .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details span.boa-further-details {
+        font-size: 1rem;
+        font-weight: 500;
+        display: inline-block;
+        width: min-content;
+        text-align: left;
+    }
+
+    @media (max-width: 767.98px) {
+        .m104_wrapper .m104_header > .c642 > .c642_header h3 span {
+            font-size: 2.125rem;
+        }
+        .c642_body_text.paragraph-sans-1.-variant-2.boa-succinct {
+            font-size: 1.4rem;
+            letter-spacing: inherit;
+        }
+        .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details {
+            display: block;
+            font-size: 3rem;
+            margin-top: 25px;
+        }
+        .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details span.boa-further-details {
+            width: auto;
+            display: block;
+            text-align: center;
+            margin: 25px auto 0;
+            font-size: 1.5rem;
+        }
+        .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details span.boa-further-details-equal {
+            display: block;
+            margin: 15px 0 35px;
+        }
+        .m104_wrapper .m104_content_figure {
+            margin-top: 30px;
+        }
+        .m104_wrapper span.boa-additional-info {
+            margin-top: 60px;
+            color: #fff;
+        }
+    }
+
+    @media (min-width: 768px) {
+        .m104_content {
+            padding: 0 6rem;
+        }
+        .m104_content_figure {
+            padding-left: 0;
+            max-width: 13rem;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 991px) {
+        .m104_content {
+            padding: 0 1.75rem;
+        }
+        .m104_content_figure {
+            max-width: 10rem;
+        }
+        .m104_wrapper .m104_header > .c642 > .c642_header h3 span {
+            font-size: 2.75rem;
+        }
+        .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details {
+            font-size: 2.5rem;
+        }
+    }
+</style>
+</div></div></div></section><!-- m0 us-en --><section class="m0 hide" id="boa-new-card-design"><div class="wrapper"><div class="container"><div class="m0_body"><!-- February 2024 Start -->
+<section class="m104 -padding -margin-top -margin-bottom">
+    <div class="wrapper">
+        <div class="container">
+            <div class="m104_wrapper">
+                <div class="m104_figure">
+                    <div class="c5">
+                        <figure class="c5_figure">
+                            <img class="c5_figure_item c5_desktop  visible-lg" src="/sites/default/files/BoA_Homepage_Desktop_Background_2-29-2024-min.jpg" alt="Alternative Text" loading="lazy">
+                            <img class="c5_figure_item c5_tablet  visible-md " src="/sites/default/files/BoA_Homepage_Desktop_Background_2-29-2024-min.jpg" alt="Alternative Text" loading="lazy">
+                            <img class="c5_figure_item c5_mobile visible-xs" src="/sites/default/files/BoA_Homepage_Desktop_Background_2-29-2024-mobile-min.jpg" alt="Alternative Text" loading="lazy">
+                        </figure>
+                    </div>
+                </div>
+                <div class="m104_header">
+                    <div class="c642">
+                        <div class="c642_header">
+                            <h3 class="headline-2 -variant-4">
+                                <span style="color:#284560; line-height:2rem !important; color: #fff;">ONLINE OFFER!</span>
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="m104_content">
+                    <div class="m104_content_body">
+                        <div class="c642">
+                            <div class="c642_body">
+                                <div class="c642_body_text paragraph-sans-1 -variant-2 boa-succinct">APPLY NOW AND EARN</div>
+                                <div class="c642_body_text paragraph-sans-1 -variant-2 boa-offer-details">20,000 <span class="boa-further-details">BONUS POINTS</span><span class="boa-further-details-equal"> = </span> $200 <span class="boa-further-details">ONBOARD CREDIT</span></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="m104_content_figure">
+                        <div class="c643 -variant-1">
+                            <div class="c643_figure">
+                                <img class="c643_figure_image" src="/sites/default/files/BoA_New_Card_Images_9-7-2023-min2.png" alt="Alternative Text" loading="lazy" style="width: 80%;">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="c642_aside _btn_yellow">
+                    <a class="btn" href="https://bankofamerica.tt.omtrdc.net/m2/bankofamerica/ubox/page?mbox=NCL&mboxDefault=https://secure.bankofamerica.com/applynow/timeout.go&at_property=1a8d0183-947a-8fa5-52e5-2b3fc472e468&tagname=NCLHomepageBanner20kBPBAU" title="Apply Now" aria-label="Apply Now">Apply Now</a>
+                </div>
+                <span class="boa-additional-info">Must apply here for this offer. Offers vary elsewhere. Residents of the U.S. and its territories only. See full disclosure for details.</span>
+                <a class="m104_link" href="https://bankofamerica.tt.omtrdc.net/m2/bankofamerica/ubox/page?mbox=NCL&mboxDefault=https://secure.bankofamerica.com/applynow/timeout.go&at_property=1a8d0183-947a-8fa5-52e5-2b3fc472e468&tagname=NCLHomepageBanner20kBPBAU" title="Apply Now" aria-label="Apply Now" target="_blank"><span class="sr-only">Apply Now</span></a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Feb 29 2024 End -->
+
+
+<style type="text/css">
+    #boa-new-card-design .m104 { overflow: hidden; }
+    #boa-new-card-design .m104_wrapper { margin-bottom: 5rem; }
+    #boa-new-card-design .m104_wrapper .c642 { text-align: center; }
+    #boa-new-card-design .m104_wrapper .m104_header { padding-top: 1rem;}
+    #boa-new-card-design .m104_wrapper .m104_header > .c642 > .c642_header { position: relative; text-align: center; padding: 1.875rem; padding-bottom: 0; font-family: "Jost"; font-weight: 400; text-transform: uppercase; letter-spacing: 0.6px; font-size: 2.5rem; text-align: center; }
+    #boa-new-card-design .m104_wrapper .m104_header > .c642 > .c642_header h3 span { font-family: 'Jost Regular'; color: #fff; font-size: 3.5rem; }
+    #boa-new-card-design .m104_wrapper .c642_aside { position: relative; text-align: center; margin-bottom: 30px; }
+    #boa-new-card-design .m104 .c5 .visible-md {
+        width: auto;
+        height: 300px;
+    }
+
+    #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-succinct {
+        font-family: 'Jost';
+        font-size: 1.8rem;
+        font-size: 2.25rem;
+        font-weight: 300;
+        line-height: inherit;
+        color: #fff;
+        letter-spacing: 1px;
+    }
+
+    #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details {
+        color: #fff;
+        font-size: 2.3rem;
+        font-size: 2.75rem;
+        font-weight: 600;
+        margin-top: 14px;
+    }
+
+    #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details span.boa-further-details {
+        font-size: 1rem;
+        font-weight: 500;
+        display: inline-block;
+        width: min-content;
+        text-align: left;
+    }
+
+
+    /* MARKETING MODULE CODE START */
+    #boa-new-card-design .m104_wrapper {
+        position: relative;
+        margin: 0 auto;
+    }
+    #boa-new-card-design .m104_figure {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+    }
+    #boa-new-card-design .c5 {
+        position: relative;
+        width: 100%;
+    }
+    #boa-new-card-design .c5_figure {
+        margin: 0;
+        min-width: 100%;
+    }
+    #boa-new-card-design .c5_figure_item {
+        width: 100%;
+        height: auto;
+    }
+    #boa-new-card-design .m104_wrapper .m104_header {
+        padding-top: 1rem;
+    }
+    #boa-new-card-design .m104_wrapper .c642 {
+        text-align: center;
+    }
+    #boa-new-card-design .c642_header {
+        margin-bottom: 0.625rem;
+    }
+    #boa-new-card-design .m104_wrapper .m104_header > .c642 > .c642_header {
+        position: relative;
+        text-align: center;
+        padding: 1.875rem;
+        padding-bottom: 0;
+        font-family: "Jost";
+        font-weight: 400;
+        text-transform: uppercase;
+        letter-spacing: 0.6px;
+        font-size: 2.5rem;
+        text-align: center;
+    }
+    #boa-new-card-design .headline-2 {
+        font-family: "Jost Bold";
+        font-weight: 700;
+        font-size: 2rem;
+        line-height: 2.5rem;
+        letter-spacing: -.0625rem;
+    }
+    #boa-new-card-design .headline-2.-variant-4 {
+        font-family: "Jost Medium";
+        font-weight: 500;
+        text-transform: uppercase;
+        color: #0d2236;
+    }
+    #boa-new-card-design .m104_wrapper .m104_header > .c642 > .c642_header h3 span {
+        font-family: 'Jost Regular';
+        color: #fff;
+        font-size: 3.5rem;
+    }
+    #boa-new-card-design .m104_content {
+        position: relative;
+        z-index: 2;
+    }
+    #boa-new-card-design .m104_wrapper .c642 {
+        text-align: center;
+    }
+    #boa-new-card-design .c642_body {
+        margin-bottom: 1.25rem;
+    }
+    #boa-new-card-design .paragraph-sans-1.-variant-2 {
+        font-family: "Jost Medium";
+        font-weight: 500;
+        line-height: 1.125rem;
+        letter-spacing: normal;
+    }
+    #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-succinct {
+        font-family: 'Jost';
+        font-size: 1.8rem;
+        font-size: 2.25rem;
+        font-weight: 300;
+        line-height: inherit;
+        color: #fff;
+        letter-spacing: 1px;
+    }
+    #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details {
+        color: #fff;
+        font-size: 2.3rem;
+        font-size: 2.75rem;
+        font-weight: 600;
+        margin-top: 14px;
+    }
+    #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details span.boa-further-details {
+        font-size: 1rem;
+        font-weight: 500;
+        display: inline-block;
+        width: min-content;
+        text-align: left;
+    }
+    #boa-new-card-design .c643_figure {
+        margin-bottom: 0.625rem;
+    }
+    #boa-new-card-design .c643_figure_image {
+        width: 100%;
+        height: auto;
+    }
+    #boa-new-card-design .c643.-variant-1 .c643_figure_image {
+        margin: auto;
+        display: block;
+    }
+    #boa-new-card-design .m104_wrapper .c642_aside {
+        position: relative;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    #boa-new-card-design .m104_wrapper span.boa-additional-info {
+        position: relative;
+        font-family: 'Noto Sans';
+        font-weight: 700;
+        font-size: 10px;
+        color: #284560;
+        color: #fff;
+        line-height: 15px;
+        text-align: center;
+        display: block;
+        padding: 0 1rem 0.5rem;
+    }
+    #boa-new-card-design .m104_link {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: 3;
+    }
+    #boa-new-card-design .sr-only {
+        position: absolute;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        overflow: hidden;
+        clip: rect(0,0,0,0);
+        white-space: nowrap;
+        border: 0;
+    }
+    #boa-new-card-design .c5 .visible-lg, #boa-new-card-design .c5 .visible-md, #boa-new-card-design .c5 .visible-sm, #boa-new-card-design .c5 .visible-xs {
+        display: block !important;
+    }
+    #boa-new-card-design ._btn_yellow a {
+        background: #fff43b !important;
+        color: #284560 !important;
+    }
+    #boa-new-card-design ._btn_yellow a:hover {
+        background: #d4c909 !important;
+        color: #284560 !important;
+    }
+
+    @media (min-width: 768px){
+        #boa-new-card-design .container {
+            max-width: 100%;
+        }
+        #boa-new-card-design .m104_content {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-pack: justify;
+            -ms-flex-pack: justify;
+            justify-content: space-between;
+            padding: 0 6rem;
+        }
+        #boa-new-card-design .m104_content_body {
+            -webkit-box-flex: 1;
+            -ms-flex: 1 1 auto;
+            flex: 1 1 auto;
+            -ms-flex-item-align: center;
+            align-self: center;
+        }
+        #boa-new-card-design .m104_content_figure {
+            -ms-flex-negative: 0;
+            flex-shrink: 0;
+            padding-left: 0;
+            max-width: 13rem;
+        }
+        #boa-new-card-design .c5 .visible-xs {
+            display: none!important;
+        }
+    }
+    @media (max-width: 767.98px){
+        #boa-new-card-design .c5 .visible-md {
+            display: none!important;
+        }
+        #boa-new-card-design ._btn_yellow a {
+            width: auto;
+            padding: 0.6875rem 1.25rem;
+        }
+    }
+    @media (min-width: 1025px){
+        #boa-new-card-design .m104_wrapper {
+            max-width: 56.25rem;
+        }
+        #boa-new-card-design .c5 .visible-md {
+            display: none!important;
+        }
+    }
+    @media (max-width: 1024.98px){
+        #boa-new-card-design .c5 .visible-lg {
+            display: none!important;
+        }
+    }
+    /* MARKETING MODULE CODE END */
+
+
+    /* DEFAULT FROM HOMEPAGE */
+    @media (max-width: 767.98px) {
+        #boa-new-card-design .m104_wrapper .m104_header > .c642 > .c642_header h3 span {
+            font-size: 2.125rem;
+        }
+        #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-succinct {
+            font-size: 1.4rem;
+            letter-spacing: inherit;
+        }
+        #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details {
+            display: block;
+            font-size: 3rem;
+            margin-top: 25px;
+        }
+        #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details span.boa-further-details {
+            width: auto;
+            display: block;
+            text-align: center;
+            margin: 25px auto 0;
+            font-size: 1.5rem;
+        }
+        #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details span.boa-further-details-equal {
+            display: block;
+            margin: 15px 0 35px;
+        }
+        #boa-new-card-design .m104_wrapper .m104_content_figure {
+            margin-top: 30px;
+        }
+        #boa-new-card-design .m104_wrapper span.boa-additional-info {
+            margin-top: 60px;
+            color: #fff;
+        }
+    }
+    @media (min-width: 768px) {
+        #boa-new-card-design .m104_content {
+            padding: 0 6rem;
+        }
+        #boa-new-card-design .m104_content_figure {
+            padding-left: 0;
+            max-width: 13rem;
+        }
+    }
+    @media (min-width: 768px) and (max-width: 991px) {
+        #boa-new-card-design .m104_content {
+            padding: 0 1.75rem;
+        }
+        #boa-new-card-design .m104_content_figure {
+            max-width: 10rem;
+        }
+        #boa-new-card-design .m104_wrapper .m104_header > .c642 > .c642_header h3 span {
+            font-size: 2.75rem;
+        }
+        #boa-new-card-design .c642_body_text.paragraph-sans-1.-variant-2.boa-offer-details {
+            font-size: 2.5rem;
+        }
+    }
+
+</style>
+</div></div></div></section><!-- m21 --><section class="m21"><div class="wrapper"><div class="container"><!-- c85 --><div class="c85 -variant-4"><div class="c85_body "><ul class="listing"><li class="listing_item -prefix" data-content="*"><div class="paragraph-sans-6">Additional cost added to booking for optional package selections Unlimited Open Bar and Specialty Dining. Free 3rd & 4th Guests on select cruises. Restrictions apply.</div></li></ul></div></div></div></div></section><!-- m0 us-en --><section class="m0"><div class="wrapper"><div class="container"><div class="m0_body"><script type="text/javascript">
+    try {
+        // Homepage specific code (maintained by idasilva)
+        $(function () {
+            // Update footer credit card href (homepage only)
+            $('.m3 .c4').attr({ 'href': '/world-points' });
+        });
+    } catch(ex) {
+        console.error('Homepage specific code');
+    }
+</script></div></div></div></section></main><footer id="footer" class="footer -wave" data-analytics-region="utility_footer_nav"><section class="wrapper bg-dark -bg-dark"><div class="container"><!-- m1 --><div class="m1"><div class="m1_header"><div class="row"><div class="col-md-12"><!-- c1 --><div class="c1"><a class="c1_link" href="/" title="Norwegian Cruise Line" aria-label="Norwegian Cruise Line"><img class="c1_image" src="/assets/v1/images/logos/logo-ncl-white.svg" alt="Norwegian Cruise Line"></a></div></div></div></div><div class="m1_body"><div class="row"><div class="col-md-8 col-lg-6"><div class="row"><div class="col-md-6 col-lg-6"><!-- c2 --><div class="c2"><div class="c2_header"><a class="c2_title paragraph-sans-3 -variant-2 text-uppercase text-bright-blue-50" href="#" title="The Norwegian Difference" aria-label="The Norwegian Difference" data-toggle="collapse" data-target="#c2-collapse-The-Norwegian-Difference" aria-expanded="false">The Norwegian Difference</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-The-Norwegian-Difference"><ul class="listing -block"><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian" title="Experience MORE At Sea™" aria-label="Experience MORE At Sea™">Experience MORE At Sea™</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/vacations" title="Cruises" aria-label="Cruises">Cruises</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/cruise-ship" title="Cruise Ships" aria-label="Cruise Ships">Cruise Ships</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/cruise-destinations" title="Cruise Destinations" aria-label="Cruise Destinations">Cruise Destinations</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/port-of-call" title="Ports" aria-label="Ports">Ports</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian/cruise-dining" title="Dining" aria-label="Dining">Dining</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian/cruise-entertainment" title="Entertainment" aria-label="Entertainment">Entertainment</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian/cruise-accommodations" title="Accommodations" aria-label="Accommodations">Accommodations</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian/cruise-accommodations/the-haven" title="The Haven" aria-label="The Haven">The Haven</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian/casino-cruise" title="Casinos At Sea" aria-label="Casinos At Sea">Casinos At Sea</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/latitudes-rewards-program" title="Latitudes Rewards" aria-label="Latitudes Rewards">Latitudes Rewards</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/travel-blog" title="NCL Travel Blog" aria-label="NCL Travel Blog">NCL Travel Blog</a></li><li class="listing_item"><div class="dropdown -variant-1"><a class="link-2 dropdown-toggle" data-toggle="dropdown" href="#">Top Cruise Destinations</a><div class="dropdown-menu"><ul class="listing -block"><li class="listing_item"><a class="linkItem" href="/cruise-destinations/alaska-cruises" title="ALASKA CRUISES" aria-label="ALASKA CRUISES">ALASKA CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/bahamas-cruises" title="BAHAMAS CRUISES" aria-label="BAHAMAS CRUISES">BAHAMAS CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/bermuda-cruises" title="BERMUDA CRUISES " aria-label="BERMUDA CRUISES ">BERMUDA CRUISES </a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/caribbean-cruises" title="CARIBBEAN CRUISES" aria-label="CARIBBEAN CRUISES">CARIBBEAN CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/mediterranean-cruises" title="MEDITERRANEAN CRUISES" aria-label="MEDITERRANEAN CRUISES">MEDITERRANEAN CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations/hawaii-cruises" title="HAWAII CRUISES" aria-label="HAWAII CRUISES">HAWAII CRUISES</a></li><li class="listing_item"><a class="linkItem" href="/cruise-destinations" title="Other Cruise Destinations" aria-label="Other Cruise Destinations">Other Cruise Destinations</a></li></ul></div></div></li></ul></div></div></div></div><div class="col-md-6 col-lg-6"><!-- c2 --><div class="c2"><div class="c2_header"><a class="c2_title paragraph-sans-3 -variant-2 text-uppercase text-bright-blue-50" href="#" title="Cruising Essentials" aria-label="Cruising Essentials" data-toggle="collapse" data-target="#c2-collapse-Cruising-Essentials" aria-expanded="false">Cruising Essentials</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-Cruising-Essentials"><ul class="listing -block"><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/new-to-cruising" title="New To Cruising" aria-label="New To Cruising">New To Cruising</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/freestyle-cruise/prepare-for-your-cruise" title="Prepare For Your Cruise" aria-label="Prepare For Your Cruise">Prepare For Your Cruise</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/order-a-brochure" title="Order a Brochure" aria-label="Order a Brochure">Order a Brochure</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/about/accessible-cruising" title="Accessible Cruising" aria-label="Accessible Cruising">Accessible Cruising</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/downloads/overview" title="Apps & Downloads" aria-label="Apps & Downloads">Apps & Downloads</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/faq" title="FAQ" aria-label="FAQ">FAQ</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/freestyle-cruise/cruise-travel-documents" title="Required Documents" aria-label="Required Documents">Required Documents</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/freestyle-cruise/booksafe" title="Travel Protection" aria-label="Travel Protection">Travel Protection</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/sites/default/files/CruiseIndustryPassengerBillofRights052313.pdf" title="Passenger Bill of Rights" aria-label="Passenger Bill of Rights">Passenger Bill of Rights</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="https://www.ncl.com/ticketcontract" title="Guest Ticket Contract" aria-label="Guest Ticket Contract">Guest Ticket Contract</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/about/additional-terms-and-conditions" title="Terms & Conditions" aria-label="Terms & Conditions">Terms & Conditions</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/freestyle-cruise/getting-to-the-pier" title="Getting to the Pier" aria-label="Getting to the Pier">Getting to the Pier</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/about/contact-us" title="Contact Us" aria-label="Contact Us">Contact Us</a></li><li class="listing_item"><span class="c2_label paragraph-serif-3 -variant-6 -opacity-50">Need Help Planning? </span><a class="paragraph-serif-3 -variant-6" href="/help/leads" title="Speak with a Consultant" aria-label="Speak with a Consultant" data-leads="true">Speak with a Consultant</a></li></ul></div></div></div></div></div></div><div class="col-md-4 col-lg-6"><div class="row"><div class="col-md-12 col-lg-6"><!-- c2 --><div class="c2 -marginBottom"><div class="c2_header"><a class="c2_title paragraph-sans-3 -variant-2 text-uppercase text-bright-blue-50" href="#" title="Specials & Themed Cruising" aria-label="Specials & Themed Cruising" data-toggle="collapse" data-target="#c2-collapse-Specials---Themed-Cruising" aria-expanded="false">Specials & Themed Cruising</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-Specials---Themed-Cruising"><ul class="listing -block"><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/cruise-deals" title="All Cruise Deals" aria-label="All Cruise Deals">All Cruise Deals</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/cruise-deals/cruises-2024-2025" title="2024-2025 Cruises" aria-label="2024-2025 Cruises">2024-2025 Cruises</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/military" title="Military Appreciation Program" aria-label="Military Appreciation Program">Military Appreciation Program</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/teachers" title="Teacher Cruise Discount" aria-label="Teacher Cruise Discount">Teacher Cruise Discount</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/onboard-gifts" title="Onboard Gifts" aria-label="Onboard Gifts">Onboard Gifts</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian/cruise-shopping" title="Shopping" aria-label="Shopping">Shopping</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian/family-cruises" title="Family Cruises" aria-label="Family Cruises">Family Cruises</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/freestyle-cruise/solo-cruising" title="Singles Cruises" aria-label="Singles Cruises">Singles Cruises</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/themed-cruises" title="Themed Cruises" aria-label="Themed Cruises">Themed Cruises</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/events" title="Meetings & Incentives" aria-label="Meetings & Incentives">Meetings & Incentives</a></li><li class="listing_item"><!-- mp_trans_remove_start="EN-AU,EN-NZ,EN-IN,JA-JP" --><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian/group-cruises" title="Group Cruise Discounts" aria-label="Group Cruise Discounts">Group Cruise Discounts</a><!--mp_trans_remove_end-->
+<!-- mp_trans_add="EN-AU,EN-NZ,EN-IN,JA-JP"<a class="paragraph-serif-3 -variant-6" href="/group-cruises" title="Group Cruise Discounts" aria-label="Group Cruise Discounts">Group Cruise Discounts</a>--></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/why-cruise-norwegian/wedding-cruises" title="Wedding Cruises" aria-label="Wedding Cruises">Wedding Cruises</a></li></ul></div></div></div></div><div class="col-md-12 col-lg-6"><!-- c2 --><div class="c2"><div class="c2_header"><a class="c2_title paragraph-sans-3 -variant-2 text-uppercase text-bright-blue-50" href="#" title="Our Company" aria-label="Our Company" data-toggle="collapse" data-target="#c2-collapse-Our-Company" aria-expanded="false">Our Company</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-Our-Company"><ul class="listing -block"><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/about" title="About Norwegian" aria-label="About Norwegian">About Norwegian</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="http://www.nclhltdinvestor.com" title="For Investors" aria-label="For Investors" target="_blank">For Investors</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/about/security-information" title="Safety & Security" aria-label="Safety & Security">Safety & Security</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/about/accessibility-statement" title="Accessibility Statement" aria-label="Accessibility Statement">Accessibility Statement</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/about/sail-and-sustain" title="Sail & Sustain" aria-label="Sail & Sustain">Sail & Sustain</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/about/careers/overview" title="Careers" aria-label="Careers">Careers</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/newsroom" title="Newsroom" aria-label="Newsroom">Newsroom</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/about/awards" title="Awards" aria-label="Awards">Awards</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/international-offices" title="International Locations" aria-label="International Locations">International Locations</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/freestyle-cruise/cruise-travel-documents#travel-sanctions-regulations" title="Travel Sanctions and Regulations" aria-label="Travel Sanctions and Regulations">Travel Sanctions and Regulations</a></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/content/cdc-travel-advisory" title="CDC Travel Advisory" aria-label="CDC Travel Advisory">CDC Travel Advisory</a></li></ul></div></div></div><!-- c2 --><div class="c2"><div class="c2_header"><a class="c2_title paragraph-sans-3 -variant-2 text-uppercase text-bright-blue-50" href="#" title="Travel Partners" aria-label="Travel Partners" data-toggle="collapse" data-target="#c2-collapse-Travel-Partners" aria-expanded="false">Travel Partners</a></div><div class="c2_body"><div class="collapse" id="c2-collapse-Travel-Partners"><ul class="listing -block"><li class="listing_item"><!--mp_trans_remove_start="EN-AU,EN-NZ" --><a href="https://norwegiancentral.ncl.com"  target="_self" class="simpleText">Partner Login</a><!--mp_trans_remove_end--><!--mp_trans_add="EN-AU,EN-NZ"<a href="https://norwegiancentral.ncl.com/ap/en"  target="_self" class="simpleText">Partner Login</a>--></li><li class="listing_item"><a class="paragraph-serif-3 -variant-6" href="/agent-locator" title="Find a Travel Agency" aria-label="Find a Travel Agency">Find a Travel Agency</a></li></ul></div></div></div></div></div></div></div></div></div><!-- m2 --><div class="m2"><div class="m2_header"><!-- c3 --><div class="c3"><ul class="listing -inline -centered"><li class="listing_item"><span class="paragraph-serif-3 -variant-6 -opacity-50">&copy; 2024 Norwegian Cruise Line Holdings Ltd.</span></li><li class="listing_item"><a class="c3_link paragraph-serif-3 -variant-6 " href="/freestyle-cruise/legal-notice" title="Legal Notice" aria-label="Legal Notice"><span class="c3_link_text">Legal Notice</span></a></li><li class="listing_item"><a class="c3_link paragraph-serif-3 -variant-6 " href="/about-us/privacy-policy" title="Privacy Policy" aria-label="Privacy Policy"><span class="c3_link_text">Privacy Policy</span></a></li><li class="listing_item"><a href="javascript:void(0)" id="ot-sdk-btn" class="ot-sdk-show-settings paragraph-serif-3 -variant-6">Cookie Settings</button></li><li class="listing_item"><a class="simpleText" href="#" title="Assistive Site" aria-label="Assistive Site" data-acsb-custom-trigger=
+"true">Assistive Site</a></li><li class="listing_item"><a class="c3_link paragraph-serif-3 -variant-6 " href="/sitemap" title="Sitemap" aria-label="Sitemap"><span class="c3_link_text">Sitemap</span></a></li><li class="listing_item"><div class="dropdown -variant-1"><a id="currentLangLink" class="link-2 dropdown-toggle" data-toggle="dropdown" href="#" title="&nbsp;" aria-label="&nbsp;"><span class="text">&nbsp;</span></a><div class="dropdown-menu"><ul class="listing -block"><li class="listing_item"><a class="altLangLink linkItem" href="#" title="" aria-label=""><span class="text">&nbsp;</span></a></li></ul></div></div></li></ul></div></div><div class="m2_body"><ul class="listing -icons -centered"><li class="listing_item"><a class="m2_link" target="_blank" href="http://pinterest.com/norwegiancruise/" title="Pinterest" aria-label="Pinterest"><i class="icon-social nis-pinterest"></i></a></li><li class="listing_item"><a class="m2_link" target="_blank" href="https://www.facebook.com/Norwegiancruiseline" title="Facebook" aria-label="Facebook"><i class="icon-social nis-facebook"></i></a></li><li class="listing_item"><a class="m2_link" target="_blank" href="http://instagram.com/norwegiancruiseline" title="Instagram" aria-label="Instagram"><i class="icon-social nis-instagram"></i></a></li><li class="listing_item"><a class="m2_link" target="_blank" href="http://www.twitter.com/cruisenorwegian" title="Twitter" aria-label="Twitter"><i class="icon-social nis-twitter"></i></a></li><li class="listing_item"><a class="m2_link" target="_blank" href="https://www.youtube.com/user/NCLFreestyle" title="Youtube" aria-label="Youtube"><i class="icon-social nis-youtube"></i></a></li></ul></div></div><!-- m3 --><div class="m3"><div class="m3_header" data-analytics-region="mod_mastercard_promo"><!-- c4 --><a class="c4" href="https://secure.bankofamerica.com/apply-now-services/credit-cards/initialize-icai?requesttype=C&amp;campaignid=4072355&amp;productoffercode=DJ" title="LIMITED-TIME ONLINE OFFER!30,000 BONUS POINTS = $300 ONBOARD CREDIT" aria-label="LIMITED-TIME ONLINE OFFER!30,000 BONUS POINTS = $300 ONBOARD CREDIT"><figure class="c4_figure"><img class="c4_image" src="/sites/default/files/BoA_New_Card_Image_9-7-2023_Footer_new.png" alt="Credit Card -Alt"><figcaption class="c4_figcaption"><span class="c4_figcaption_item link-1">LIMITED-TIME ONLINE OFFER!<br>30,000 BONUS POINTS = $300 ONBOARD CREDIT</span><span class="c4_figcaption_item paragraph-serif-3 -variant-6"> <br>Residents of the US and its territories only. See full disclosure for details. <br> Must apply here. Offers vary elsewhere.</span></figcaption></figure></a></div><div class="m3_body"><div class="m3_copy"><a class="m3_copy_item link-1" href="/cruise-destinations/caribbean-cruises" title="Awards" aria-label="Awards">Awards</a><p class="m3_copy_item">Voted <span class="simpleText">"The Caribbean's Leading Cruise Line"</span> 2013-2024 by World Travel Awards</p></div></div></div></div></section></footer><aside id="aside" role="modals"></aside><script type="text/javascript" src="/static/scripts/ncl.resources.js?v=1727377347971"  ></script><script type="text/javascript" src="/regional_settings.js?v=1727377347971"  ></script><script type="text/javascript" src="/assets/v1/scripts/scripts.js?v=1727377347971"  ></script><script type="text/javascript" src="/static/scripts/ncl.transition.scripts.js?v=1727377347971"  ></script><!--mp_linkcode_begins--><script type="text/javascript" src="/static/scripts/analytics/mp_linkcode.js?v=1727377347971"  ></script><!--mp_linkcode_ends--><!-- mp_snippet_begins -->
+    <script>
+        (function () {
+            var mpel_toggle = document.createElement('script');
+            mpel_toggle.type = 'text/javascript';
+            mpel_toggle.async = true;
+            mpel_toggle.src = 'https://norwegiancruiseline.mpeasylink.com/mpel/mpel_toggle.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.appendChild(mpel_toggle);
+            if (typeof MP !== 'undefined') {
+                MP.UrlLang = 'mp_js_current_lang';
+                MP.SrcUrl = decodeURIComponent('mp_js_orgin_url');
+                MP.oSite = decodeURIComponent('mp_js_origin_baseUrl');
+                MP.tSite = decodeURIComponent('mp_js_translated_baseUrl');
+                MP.init();
+            }
+        })();
+    </script>
+    <!-- mp_snippet_ends --><!--mp_easylink_begins--><script type="text/javascript" src="//norwegiancruiseline.mpeasylink.com/mpel/mpel.js?v=1727377347971" id="mpelid" async ></script><!--mp_easylink_ends-->
+
+    <!-- organization_schema begins -->
+    <script type="application/ld+json">
+        {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Norwegian Cruise Line",
+            "legalName": "Norwegian Cruise Line Holdings Ltd",
+            "url": "https://www.ncl.com",
+            "logo": "https://www.ncl.com/assets/v1/images/logos/logo-ncl-black.svg",
+            "areaServed": "US",
+            "foundingDate": "1966",
+            "founders": [{
+                "@type": "Person",
+                "name": "Knut Kloster"
+            }, {
+                "@type": "Person",
+                "name": "Ted Arison"
+            }],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "7665 Corporate Center Drive",
+                "addressLocality": "Miami",
+                "addressRegion": "FL",
+                "postalCode": "33126",
+                "addressCountry": "USA"
+            },
+            "contactPoint": [{
+                "@type": "ContactPoint",
+                "telephone": "+1 1-800-234-7350",
+                "contactType": "customer care"
+            }, {
+                "@type": "ContactPoint",
+                "telephone": "+1 1-800-234-7350",
+                "contactType": "reservations"
+            }],
+            "sameAs": [
+                "https://www.facebook.com/Norwegiancruiseline/",
+                "https://twitter.com/cruisenorwegian",
+                "https://plus.google.com/+norwegiancruiseline",
+                "https://www.youtube.com/user/NCLFreestyle",
+                "https://www.pinterest.com/norwegiancruise/",
+                "https://www.instagram.com/norwegiancruiseline/",
+                "https://www.linkedin.com/company/165222/",
+                "https://en.wikipedia.org/wiki/Norwegian_Cruise_Line"
+            ]
+        }
+    </script>
+    <!-- organization_schema ends -->
+    <script>window.enableAiAssistantBtn=false</script><script>window.BrowseResources = {cacheBuster: "1727377347971"};</script><script src="/browse/assets/home-page/js/chunk-vendors.js?v=1727377347971-999e51ec57ad893603f9"></script><script src="/browse/assets/home-page/js/app.js?v=1727377347971-999e51ec57ad893603f9"></script><script type="text/javascript"  src="/74gB/COGO/p/ge/G0TpRIA/c11htXchSGLNtE/M0lvcEBEAQ/DA/5RIBZLBRoB"></script></body></html>

@@ -1,0 +1,864 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+<title>Terms and Conditions of Use | Trane Technologies</title>
+<meta name="description" content="Please read these terms of use before using our websites, email notifications, mobile applications, social media applications, and other online services."/>
+<meta name="keywords"/>
+<link rel="canonical" href="https://www.tranetechnologies.com/en/index/terms-of-use.html"/>
+<link rel="shortcut icon" type="image/png" href="/content/dam/cs-corporate/images/logos/favicon.png"/>
+<link rel="preload" as="font" href="/etc.clientlibs/cs-corp/clientlibs/clientlib-all/resources/fonts/Chalet-LondonSixty.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="font" href="/etc.clientlibs/cs-corp/clientlibs/clientlib-all/resources/fonts/Chalet-LondonSixty.woff" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="font" href="/etc.clientlibs/cs-corp/clientlibs/clientlib-all/resources/fonts/Chalet-NewYorkSixty.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="font" href="/etc.clientlibs/cs-corp/clientlibs/clientlib-all/resources/fonts/Chalet-NewYorkSixty.woff" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="font" href="/etc.clientlibs/cs-corp/clientlibs/clientlib-all/resources/fonts/Chalet-ParisSixty.woff2" type="font/woff2" crossorigin="anonymous"/>
+<link rel="preload" as="font" href="/etc.clientlibs/cs-corp/clientlibs/clientlib-all/resources/fonts/Chalet-ParisSixty.woff" type="font/woff2" crossorigin="anonymous"/>
+<link rel="alternate" href="https://www.tranetechnologies.com/en/index/terms-of-use.html" hreflang="en"/>
+<link rel="alternate" href="https://www.tranetechnologies.cn/zh_cn/index/terms-of-use.html" hreflang="zh-cn"/>
+<link rel="alternate" href="https://www.tranetechnologies.com/en/index/terms-of-use.html" hreflang="x-default"/>
+<meta class="mktoString" id="GoogleRecaptchaSiteKey" mktoName="Google Recaptcha site key" default=" 6LcCDBQUAAAAADBc9KQZlXos1PM0vsyNWZiwkYTc" allowHtml="false"/>
+<meta class="mktoBoolean" id="GoogleRecaptcha" mktoName="Google Recaptcha" default="false" true_value="block" false_value="none" false_value_name="Deactivated" true_value_name="Activated"/>
+<script src='https://www.recaptcha.net/recaptcha/api.js'></script>
+<meta property="og:title" content="Terms and Conditions of Use"/>
+<meta property="twitter:title" content="Terms and Conditions of Use"/>
+<meta property="og:description" content="Please read these terms of use before using our websites, email notifications, mobile applications, social media applications, and other online services."/>
+<meta property="twitter:description" content="Please read these terms of use before using our websites, email notifications, mobile applications, social media applications, and other online services."/>
+<meta property="og:url" content="https://www.tranetechnologies.com/en/index/terms-of-use.html"/>
+<meta property="og:image" content=""/>
+<meta property="twitter:card" content="summary_large_image"/>
+<link rel="stylesheet" href="/etc.clientlibs/cs-corp/clientlibs/clientlib-all.css" type="text/css">
+</head>
+<body id="page" class="generalcontent-page">
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+<symbol id="arrow" viewBox="0 0 28 23">
+<path fill="currentColor" fill-rule="evenodd" d="M16.624 0l-2.366 2.392 7.337 7.417H0v3.382h21.595l-7.337 7.417L16.624 23 28 11.5 16.624 0z"/>
+</symbol>
+<symbol id="close" viewBox="0 0 20 20">
+<g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="2">
+<path d="M1.414 1.414l16.497 16.497M17.94 1.414L1.443 17.912"/>
+</g>
+</symbol>
+<symbol id="download" viewBox="0 0 11 15">
+<path fill="currentColor" fill-rule="evenodd" d="M0 15v-2h11v2H0zm0-8.688l1.144-1.183 3.547 3.668V-.001h1.618v8.798l3.547-3.668L11 6.312l-5.5 5.687L0 6.312z"/>
+</symbol>
+<symbol id="magnify" viewBox="0 0 20 20">
+<path fill="currentColor" fill-rule="evenodd" d="M20.009 18.833l-5.303-5.305A8.285 8.285 0 0 0 2.431 2.426a8.286 8.286 0 0 0 0 11.718 8.287 8.287 0 0 0 11.103.558l5.303 5.301 1.172-1.17zm-16.406-5.86a6.629 6.629 0 0 1 0-9.375 6.627 6.627 0 0 1 9.375 0 6.629 6.629 0 1 1-9.375 9.375z"/>
+</symbol>
+<symbol id="play" viewBox="0 0 32 38">
+<path fill="currentColor" fill-rule="evenodd" d="M0.2,37.2V0.8L31.8,19L0.2,37.2z M3,5.6v26.9L26.3,19L3,5.6z"/>
+</symbol>
+<symbol id="linkedin" viewBox="0 0 30 30">
+<path fill="currentColor" fill-rule="evenodd" d="M27.856-.005H3.08a2.15 2.15 0 0 0-2.148 2.15v25.701a2.15 2.15 0 0 0 2.148 2.149h24.776a2.15 2.15 0 0 0 2.148-2.149V2.145a2.15 2.15 0 0 0-2.148-2.15zM9.744 25.108h-4.39V11.56h4.39v13.548zM7.549 9.715h-.028c-1.474 0-2.427-1.042-2.427-2.344 0-1.328.982-2.34 2.484-2.34s2.427 1.012 2.456 2.34c0 1.302-.954 2.344-2.485 2.344zm18.029 15.393h-4.39v-7.247c0-1.82-.636-3.063-2.225-3.063-1.213 0-1.936.838-2.253 1.647-.116.29-.145.694-.145 1.097v7.566h-4.391s.058-12.275 0-13.548h4.391v1.922c.584-.924 1.627-2.238 3.958-2.238 2.889 0 5.055 1.937 5.055 6.097v7.767z"/>
+</symbol>
+</svg>
+<div class="newpar new section">
+</div>
+<div class="par iparys_inherited">
+<div class="headercomp">
+<header class="header">
+<div class="header__wrap" data-swiftype-index='false'>
+<div class="header__content">
+<div class="skip-nav">
+<a href="#content">Skip to content.</a>
+</div>
+<div class="header__navbar">
+<div class="header__logo">
+<a href="/en/index.html" class="header__logo-link">
+<img src="/content/dam/cs-corporate/images/logos/logo-TT.svg" class="header__logo-img" alt="Trane Technologies"/>
+</a>
+</div>
+<a href="#" class="header__menu header__menu-link">
+<span class="header__menu-icon" title="Menu"><span class="header__menu-label sr-only">Menu</span></span>
+</a>
+</div>
+<div class="header__nav">
+<div class="sitesearch sitesearch--hamburgernav">
+<div class="sitesearch__form sitesearch__form--yext sitesearch__form--mobile"></div>
+</div>
+<nav class="mainnav">
+<ul class="mainnav__list">
+<li class="mainnav__item nav_drop mainnav__item-has-supernav">
+<a href="/en/index/company.html" class="mainnav__link mainnav__link--desktop" aria-haspopup="true" aria-expanded="false">About Us</a>
+<a href="/en/index/company.html" class="mainnav__link mainnav__link--mobile">About Us</a>
+<a href="#" class="mainnav__more js-mainnav--more" aria-haspopup="true" aria-expanded="false">
+<span class="mainnav__more-icon" aria-hidden="true"></span>
+<span class="mainnav__more-label sr-only">More</span>
+</a>
+<ul class="subnav__list">
+<li class="subnav__item">
+<a href="/en/index/our-story.html" class="subnav__link" tabindex="-1">Our Story</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/company/leadership.html" class="subnav__link" tabindex="-1">Leadership</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/company/diversity-and-inclusion.html" class="subnav__link" tabindex="-1">Diversity &amp; Inclusion</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/company/corporate-citizenship.html" class="subnav__link" tabindex="-1">Corporate Citizenship</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/company/corporate-governance.html" class="subnav__link" tabindex="-1">Corporate Governance</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/company/awards.html" class="subnav__link" tabindex="-1">Our Business Awards &amp; Recognition</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/company/doing-business-with-us-customer.html" class="subnav__link" tabindex="-1">Doing Business with Us - Customer</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/company/doing-business-with-us.html" class="subnav__link" tabindex="-1">Doing Business with Us - Supplier</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/contact-us.html" class="subnav__link" tabindex="-1">Contact Us</a>
+</li>
+</ul>
+<div class="supernav">
+<div class="supernav__content">
+<div class="supernav__col supernav__description">
+<p>We’re taking the next bold steps into a future of growth, diversity, and sustainability, and it’s transforming our industry. </p>
+<p>More <a href="/en/index/company.html" class="supernav__description-link">About Us<svg class="svg-icon" aria-hidden="true"><use xlink:href="#arrow"></use></svg></a></p>
+</div>
+<div class="supernav__col supernav__nav">
+<p class="supernav__heading">Explore Our Company</p>
+<div class="supernav__nav-row">
+<ul class="supernav__nav-col">
+<li><a href="/en/index/our-story.html" class="supernav__nav-link">Our Story</a></li>
+<li><a href="/en/index/company/leadership.html" class="supernav__nav-link">Leadership</a></li>
+<li><a href="/en/index/company/diversity-and-inclusion.html" class="supernav__nav-link">Diversity &amp; Inclusion</a></li>
+<li><a href="/en/index/company/corporate-citizenship.html" class="supernav__nav-link">Corporate Citizenship</a></li>
+<li><a href="/en/index/company/corporate-governance.html" class="supernav__nav-link">Corporate Governance</a></li>
+<li><a href="/en/index/contact-us.html" class="supernav__nav-link">Contact Us</a></li>
+</ul>
+<ul class="supernav__nav-col">
+<li><a href="/en/index/company/awards.html" class="supernav__nav-link">Our Business Awards &amp; Recognition</a></li>
+<li><a href="/en/index/company/doing-business-with-us-customer.html" class="supernav__nav-link">Doing Business with Us - Customer</a></li>
+<li><a href="/en/index/company/doing-business-with-us.html" class="supernav__nav-link">Doing Business with Us - Supplier</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="mainnav__item nav_drop mainnav__item-has-supernav">
+<a href="/en/index/brands.html" class="mainnav__link mainnav__link--desktop" aria-haspopup="true" aria-expanded="false">Brands</a>
+<a href="/en/index/brands.html" class="mainnav__link mainnav__link--mobile">Brands</a>
+<a href="#" class="mainnav__more js-mainnav--more" aria-haspopup="true" aria-expanded="false">
+<span class="mainnav__more-icon" aria-hidden="true"></span>
+<span class="mainnav__more-label sr-only">More</span>
+</a>
+<ul class="subnav__list">
+<li class="subnav__item">
+<a href="/en/index/brands.html#trane" class="subnav__link" tabindex="-1">Trane</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/brands.html#thermoking" class="subnav__link" tabindex="-1">Thermo King</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/brands.html" class="subnav__link" tabindex="-1">Brand Family</a>
+</li>
+</ul>
+<div class="supernav">
+<div class="supernav__content">
+<div class="supernav__col supernav__description">
+<p>The proof is in the portfolio. Our commitment to sustainability and a brighter future is evident in all of our leading brands.</p>
+<p>More about <a href="/en/index/brands.html" class="supernav__description-link">Our Brands<svg class="svg-icon" aria-hidden="true"><use xlink:href="#arrow"></use></svg></a></p>
+</div>
+<div class="supernav__col supernav__nav">
+<p class="supernav__heading">Explore Our Brands</p>
+<div class="supernav__nav-row">
+<ul class="supernav__nav-col">
+<li><a href="/en/index/brands.html#trane" class="supernav__nav-link">Trane</a></li>
+<li><a href="/en/index/brands.html#thermoking" class="supernav__nav-link">Thermo King</a></li>
+<li><a href="/en/index/brands.html" class="supernav__nav-link">Brand Family</a></li>
+</ul>
+<ul class="supernav__nav-col">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="mainnav__item nav_drop mainnav__item-has-supernav">
+<a href="/en/index/sustainability.html" class="mainnav__link mainnav__link--desktop" aria-haspopup="true" aria-expanded="false">Sustainability</a>
+<a href="/en/index/sustainability.html" class="mainnav__link mainnav__link--mobile">Sustainability</a>
+<a href="#" class="mainnav__more js-mainnav--more" aria-haspopup="true" aria-expanded="false">
+<span class="mainnav__more-icon" aria-hidden="true"></span>
+<span class="mainnav__more-label sr-only">More</span>
+</a>
+<ul class="subnav__list">
+<li class="subnav__item">
+<a href="/en/index/sustainability/our-2030-commitments.html" class="subnav__link" tabindex="-1">Our Commitments</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/sustainability/cees.html" class="subnav__link" tabindex="-1">Center for Energy Efficiency &amp; Sustainability (CEES)</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/sustainability/ches.html" class="subnav__link" tabindex="-1">Center for Healthy &amp; Efficient Spaces (CHES)</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/sustainability/sustainability-reports/esg-report.html" class="subnav__link" tabindex="-1">2023 ESG Report</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/sustainability/sustainability-reports.html" class="subnav__link" tabindex="-1">Sustainability Reports</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/news/events/climate-week-2024.html" class="subnav__link" tabindex="-1">Climate Week NYC 2024</a>
+</li>
+</ul>
+<div class="supernav">
+<div class="supernav__content">
+<div class="supernav__col supernav__description">
+<p>Sustainability is the essential guiding principle for our business into the 21st century and beyond. Find out what that means to us, and our planet.</p>
+<p>More about <a href="/en/index/sustainability.html" class="supernav__description-link">Sustainability<svg class="svg-icon" aria-hidden="true"><use xlink:href="#arrow"></use></svg></a></p>
+</div>
+<div class="supernav__col supernav__nav">
+<p class="supernav__heading">Commitments, Innovation &amp; Results</p>
+<div class="supernav__nav-row">
+<ul class="supernav__nav-col">
+<li><a href="/en/index/sustainability/our-2030-commitments.html" class="supernav__nav-link">Our Commitments</a></li>
+<li><a href="/en/index/sustainability/cees.html" class="supernav__nav-link">Center for Energy Efficiency &amp; Sustainability (CEES)</a></li>
+<li><a href="/en/index/sustainability/ches.html" class="supernav__nav-link">Center for Healthy &amp; Efficient Spaces (CHES)</a></li>
+</ul>
+<ul class="supernav__nav-col">
+<li><a href="/en/index/sustainability/sustainability-reports/esg-report.html" class="supernav__nav-link">2023 ESG Report</a></li>
+<li><a href="/en/index/sustainability/sustainability-reports.html" class="supernav__nav-link">Sustainability Reports</a></li>
+<li><a href="/en/index/news/events/climate-week-2024.html" class="supernav__nav-link">Climate Week NYC 2024</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="mainnav__item nav_drop mainnav__item-has-supernav">
+<a href="/en/index/careers.html" class="mainnav__link mainnav__link--desktop" aria-haspopup="true" aria-expanded="false">Careers</a>
+<a href="/en/index/careers.html" class="mainnav__link mainnav__link--mobile">Careers</a>
+<a href="#" class="mainnav__more js-mainnav--more" aria-haspopup="true" aria-expanded="false">
+<span class="mainnav__more-icon" aria-hidden="true"></span>
+<span class="mainnav__more-label sr-only">More</span>
+</a>
+<ul class="subnav__list">
+<li class="subnav__item">
+<a href="https://careers.tranetechnologies.com/global/en/home" class="subnav__link" tabindex="-1">Search Jobs</a>
+</li>
+<li class="subnav__item">
+<a href="https://careers.tranetechnologies.com/global/en/studentandgraduates" class="subnav__link" tabindex="-1">Early Careers</a>
+</li>
+<li class="subnav__item">
+<a href="https://careers.tranetechnologies.com/global/en/militaryandveterans" class="subnav__link" tabindex="-1">We Hire Veterans</a>
+</li>
+<li class="subnav__item">
+<a href="https://careers.tranetechnologies.com/global/en/culture" class="subnav__link" tabindex="-1">Our Culture</a>
+</li>
+<li class="subnav__item">
+<a href="https://careers.tranetechnologies.com/global/en/blog" class="subnav__link" tabindex="-1">Careers Blog</a>
+</li>
+<li class="subnav__item">
+<a href="https://careers.tranetechnologies.com/global/en/benefits" class="subnav__link" tabindex="-1">Our Employment Benefits</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/company/diversity-and-inclusion.html" class="subnav__link" tabindex="-1">Diversity &amp; Inclusion</a>
+</li>
+</ul>
+<div class="supernav">
+<div class="supernav__content">
+<div class="supernav__col supernav__description">
+<p>Our greatest assets are our people. That’s why we’re committed to doing the right thing — diversity, career growth, and opportunity for all.</p>
+<p>More about <a href="/en/index/careers.html" class="supernav__description-link">Careers<svg class="svg-icon" aria-hidden="true"><use xlink:href="#arrow"></use></svg></a></p>
+</div>
+<div class="supernav__col supernav__nav">
+<p class="supernav__heading">Explore Careers</p>
+<div class="supernav__nav-row">
+<ul class="supernav__nav-col">
+<li><a href="https://careers.tranetechnologies.com/global/en/home" class="supernav__nav-link">Search Jobs</a></li>
+<li><a href="https://careers.tranetechnologies.com/global/en/studentandgraduates" class="supernav__nav-link">Early Careers</a></li>
+<li><a href="https://careers.tranetechnologies.com/global/en/militaryandveterans" class="supernav__nav-link">We Hire Veterans</a></li>
+<li><a href="https://careers.tranetechnologies.com/global/en/culture" class="supernav__nav-link">Our Culture</a></li>
+</ul>
+<ul class="supernav__nav-col">
+<li><a href="https://careers.tranetechnologies.com/global/en/blog" class="supernav__nav-link">Careers Blog</a></li>
+<li><a href="https://careers.tranetechnologies.com/global/en/benefits" class="supernav__nav-link">Our Employment Benefits</a></li>
+<li><a href="/en/index/company/diversity-and-inclusion.html" class="supernav__nav-link">Diversity &amp; Inclusion</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="mainnav__item nav_drop mainnav__item-has-supernav">
+<a href="/en/index/news.html" class="mainnav__link mainnav__link--desktop" aria-haspopup="true" aria-expanded="false">News</a>
+<a href="/en/index/news.html" class="mainnav__link mainnav__link--mobile">News</a>
+<a href="#" class="mainnav__more js-mainnav--more" aria-haspopup="true" aria-expanded="false">
+<span class="mainnav__more-icon" aria-hidden="true"></span>
+<span class="mainnav__more-label sr-only">More</span>
+</a>
+<ul class="subnav__list">
+<li class="subnav__item">
+<a href="/en/index/news.html#newsreleases" class="subnav__link" tabindex="-1">Latest Announcements</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/news.html#events" class="subnav__link" tabindex="-1">Industry Events</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/news.html#mediacontact" class="subnav__link" tabindex="-1">Media Contacts &amp; Resources</a>
+</li>
+</ul>
+<div class="supernav">
+<div class="supernav__content">
+<div class="supernav__col supernav__description">
+<p>You’ll see proof of how we’re making positive change in everything we do — from sustainability to career opportunities to next-generation technological innovation.</p>
+<p>More <a href="/en/index/news.html" class="supernav__description-link">News<svg class="svg-icon" aria-hidden="true"><use xlink:href="#arrow"></use></svg></a></p>
+</div>
+<div class="supernav__col supernav__nav">
+<p class="supernav__heading">Explore the Headlines</p>
+<div class="supernav__nav-row">
+<ul class="supernav__nav-col">
+<li><a href="/en/index/news.html#newsreleases" class="supernav__nav-link">Latest Announcements</a></li>
+<li><a href="/en/index/news.html#events" class="supernav__nav-link">Industry Events</a></li>
+<li><a href="/en/index/news.html#mediacontact" class="supernav__nav-link">Media Contacts &amp; Resources</a></li>
+</ul>
+<ul class="supernav__nav-col">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="mainnav__item nav_drop mainnav__item-has-supernav">
+<a href="https://investors.tranetechnologies.com/home/default.aspx" class="mainnav__link mainnav__link--desktop" aria-haspopup="true" aria-expanded="false">Investors</a>
+<a href="https://investors.tranetechnologies.com/home/default.aspx" class="mainnav__link mainnav__link--mobile">Investors</a>
+<a href="#" class="mainnav__more js-mainnav--more" aria-haspopup="true" aria-expanded="false">
+<span class="mainnav__more-icon" aria-hidden="true"></span>
+<span class="mainnav__more-label sr-only">More</span>
+</a>
+<ul class="subnav__list">
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/news-and-events/news-releases/default.aspx" class="subnav__link" tabindex="-1">News Releases</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/news-and-events/events/default.aspx" class="subnav__link" tabindex="-1">Finance Events</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/stock-information/default.aspx#stock-quote" class="subnav__link" tabindex="-1">Stock Quote &amp; Charts</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/stock-information/dividend-history/default.aspx" class="subnav__link" tabindex="-1">Dividend &amp; Splits</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/financial-information/financial-summary/default.aspx" class="subnav__link" tabindex="-1">Financial Summary</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/financial-information/sec-filings/default.aspx" class="subnav__link" tabindex="-1">SEC Filings</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/financial-information/industrial-gdi-filings/default.aspx" class="subnav__link" tabindex="-1">Industrial / GDI filings</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/financial-information/annual-reports-and-proxies/default.aspx" class="subnav__link" tabindex="-1">Annual Reports &amp; Proxies</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/financial-information/irish-statutory-accounts/default.aspx" class="subnav__link" tabindex="-1">Irish Statutory Accounts</a>
+</li>
+<li class="subnav__item">
+<a href="https://icrm.indigotools.com/IR/iac/?ticker=TT&exchange=NYSE" class="subnav__link" tabindex="-1">Interactive Financials</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/financial-information/tax-notifications/default.aspx" class="subnav__link" tabindex="-1">Tax Notifications</a>
+</li>
+<li class="subnav__item">
+<a href="/en/index/company/corporate-governance.html" class="subnav__link" tabindex="-1">Corporate Governance</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/investor-resources/investor-contacts/default.aspx" class="subnav__link" tabindex="-1">Contact</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/investor-resources/investor-information/default.aspx" class="subnav__link" tabindex="-1">Investor Information</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/investor-resources/investor-email-alerts/default.aspx" class="subnav__link" tabindex="-1">Email Alerts</a>
+</li>
+<li class="subnav__item">
+<a href="https://investors.tranetechnologies.com/investor-resources/rss-feeds/default.aspx" class="subnav__link" tabindex="-1">RSS Feeds</a>
+</li>
+</ul>
+<div class="supernav">
+<div class="supernav__content">
+<div class="supernav__col supernav__description">
+<p>Building a company devoted to our planet and committed to the next generation means long-term, robust growth — and good news for investors.</p>
+<p>More for <a href="https://investors.tranetechnologies.com/home/default.aspx" class="supernav__description-link">Investors<svg class="svg-icon" aria-hidden="true"><use xlink:href="#arrow"></use></svg></a></p>
+</div>
+<div class="supernav__col supernav__nav">
+<p class="supernav__heading">Explore Investor Information</p>
+<div class="supernav__nav-row">
+<ul class="supernav__nav-col">
+<li><a href="https://investors.tranetechnologies.com/news-and-events/news-releases/default.aspx" class="supernav__nav-link">News Releases</a></li>
+<li><a href="https://investors.tranetechnologies.com/news-and-events/events/default.aspx" class="supernav__nav-link">Finance Events</a></li>
+<li><a href="https://investors.tranetechnologies.com/stock-information/default.aspx#stock-quote" class="supernav__nav-link">Stock Quote &amp; Charts</a></li>
+<li><a href="https://investors.tranetechnologies.com/stock-information/dividend-history/default.aspx" class="supernav__nav-link">Dividend &amp; Splits</a></li>
+<li><a href="https://investors.tranetechnologies.com/financial-information/financial-summary/default.aspx" class="supernav__nav-link">Financial Summary</a></li>
+<li><a href="https://investors.tranetechnologies.com/financial-information/sec-filings/default.aspx" class="supernav__nav-link">SEC Filings</a></li>
+<li><a href="https://investors.tranetechnologies.com/financial-information/industrial-gdi-filings/default.aspx" class="supernav__nav-link">Industrial / GDI filings</a></li>
+<li><a href="https://investors.tranetechnologies.com/financial-information/annual-reports-and-proxies/default.aspx" class="supernav__nav-link">Annual Reports &amp; Proxies</a></li>
+</ul>
+<ul class="supernav__nav-col">
+<li><a href="https://investors.tranetechnologies.com/financial-information/irish-statutory-accounts/default.aspx" class="supernav__nav-link">Irish Statutory Accounts</a></li>
+<li><a href="https://icrm.indigotools.com/IR/iac/?ticker=TT&exchange=NYSE" class="supernav__nav-link">Interactive Financials</a></li>
+<li><a href="https://investors.tranetechnologies.com/financial-information/tax-notifications/default.aspx" class="supernav__nav-link">Tax Notifications</a></li>
+<li><a href="/en/index/company/corporate-governance.html" class="supernav__nav-link">Corporate Governance</a></li>
+<li><a href="https://investors.tranetechnologies.com/investor-resources/investor-contacts/default.aspx" class="supernav__nav-link">Contact</a></li>
+<li><a href="https://investors.tranetechnologies.com/investor-resources/investor-information/default.aspx" class="supernav__nav-link">Investor Information</a></li>
+<li><a href="https://investors.tranetechnologies.com/investor-resources/investor-email-alerts/default.aspx" class="supernav__nav-link">Email Alerts</a></li>
+<li><a href="https://investors.tranetechnologies.com/investor-resources/rss-feeds/default.aspx" class="supernav__nav-link">RSS Feeds</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="mainnav__item">
+<a href="https://blog.tranetechnologies.com/en/home.html" class="mainnav__link">Blog</a>
+</li>
+</ul>
+</nav>
+<div class="auxnav">
+<div class="auxnav__country dropdown">
+<button class="auxnav__country-btn btn btn-default dropdown-toggle" type="button" id="dropdownMenu-language" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Language<span class="caret" aria-hidden="true"></span></button>
+<ul class="auxnav__country-menu dropdown-menu" aria-labelledby="dropdownMenu-language">
+<li>
+<a href="/en/index.html" class="auxnav__country-link">
+<img class="auxnav__country-flag" src="/content/dam/cs-corporate/images/logos/newglobe-ico02.png" alt="globe icon"/>English
+</a>
+</li>
+<li>
+<a href="https://www.tranetechnologies.cn/zh_cn/index.html" class="auxnav__country-link">
+<img class="auxnav__country-flag" src="/content/dam/cs-corporate/images/logos/newglobe-ico02.png" alt="globe icon"/>中文
+</a>
+</li>
+</ul>
+</div>
+<ul class="auxnav__links">
+<li class="auxnav__links-item"><a href="https://www.thermoking.com/na/en.html" target="_blank" class="auxnav__links-link">ThermoKing.com</a></li>
+<li class="auxnav__links-item"><a href="https://www.trane.com/index.html" target="_blank" class="auxnav__links-link">Trane.com</a></li>
+</ul>
+<div class="auxnav__stock">
+<span class="stock-ticker js-stock-ticker" data-endpoint="https://ingersoll2020rd.q4web.com/feed/StockQuote.svc/GetStockQuoteList?apiKey=BF185719B0464B3CB809D23926182246&amp;exchange=nyse&amp;symbol=tt&amp;pageSize=1"></span>
+</div>
+</div>
+<div class="header__search search">
+<a href="#" class="header__search-link search__icon js-header-search" title="Search">
+<span class="magnifying-close-icon" aria-hidden="true"></span>
+<span class="search__icon-label sr-only">Search</span>
+</a>
+</div>
+</div>
+</div>
+<div class="sitesearch sitesearch--yext sitesearch--popup">
+<div class="sitesearch__content">
+<link href="https://assets.sitescdn.net/answers/v1.5/answers.css" rel="stylesheet"/>
+<div class="sitesearch__form sitesearch__form--yext sitesearch__form--desktop"></div>
+<script>function initAnswers(){ANSWERS.init({apiKey:"27e22603a683c838c1cb79efe4e5e892",experienceKey:"trane-technologies-search",experienceVersion:"PRODUCTION",locale:"en",businessId:"1308741",onReady:function(){ANSWERS.addComponent("SearchBar",{container:".sitesearch__form--desktop",name:"sitesearch__yext-desktop",redirectUrl:"/en/index/search.html",placeholderText:"Search",submitIcon:"magnifying_glass"});ANSWERS.addComponent("SearchBar",{container:".sitesearch__form--mobile",name:"sitesearch__yext-mobile",redirectUrl:"/en/index/search.html",placeholderText:"Search",submitIcon:"magnifying_glass"});},});}</script>
+<script src="https://assets.sitescdn.net/answers/v1.5/answers.min.js" onload="ANSWERS.domReady(initAnswers)" async defer></script>
+</div>
+</div>
+</div>
+</header>
+</div>
+</div>
+<div id="content" class="tt_container">
+<div class="article">
+<div class="article--heading">
+<div class="content-container">
+<div>
+<nav class="breadcrumb" aria-label="breadcrumb">
+<ol class="breadcrumb__items" vocab="https://schema.org/" typeof="BreadcrumbList">
+<li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="/en/index.html"><span property="name">Home</span></a>
+<meta property="position" content="1"/>
+</li>
+<li property="itemListElement" typeof="ListItem" class="active">
+<span property="name">Terms of Use</span>
+<meta property="position" content="2"/>
+</li>
+</ol>
+</nav>
+</div>
+<div>
+<h1 class="article--heading-title"> Terms and Conditions of Use</h1></div>
+</div>
+</div>
+<div class="row article--row">
+<div class="col-md-8 article--body">
+<div><div class="text parbase section">
+<p>Please read all of these terms of use (“Terms”) carefully before using our websites, email notifications, mobile applications, social media applications, and other online services (the “Services”) because it affects your legal rights and obligations. Access to and use of this World Wide Web site is provided by Trane Technologies (as defined below) subject to these terms and conditions. <b>Please read these terms and conditions carefully as use of this site or downloading materials from this site constitutes acceptance and agreement of all of the Terms (“Agreement”).</b> If you disagree with any of the terms and conditions, do not use the Services or download materials from this site or other Trane Technologies’ sites or applications.</p>
+<p><br/>
+<b>1. About Us</b></p>
+<p>Trane Technologies plc is registered in Ireland as a corporation and has its registered office at 170/175 Lakeview Drive, Airside Business Park, Swords, Co. Dublin, Ireland.</p>
+<p><b>2. These Terms and Your Acceptance</b></p>
+<p>Our Services are owned, operated and provided by Trane Technologies Company, LLC and its subsidiaries and affiliates (“Trane Technologies,” “our,” “us” or “we”). Our Services are hosted or provided on servers located inside and outside the United States.</p>
+<p>The Services of Trane Technologies’ subsidiaries and affiliated companies are each owned, operated and provided by such subsidiaries and companies. However, these Terms ONLY govern the use of Trane Technologies’ Services that specifically link to these Terms. Other Trane Technologies’ Services may link to or otherwise provide their own, separate terms.</p>
+<p>You agree to these Terms by accessing or using any of our Services. If you do not agree to be bound by all of these Terms, including our <a href="/en/index/privacy-policy.html" target="_self">Privacy Notice</a> incorporated herein by reference, you should not access or use the Services.</p>
+<p>THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION WHICH MAY BE ENFORCED BY THE PARTIES. This Agreement requires the use of binding arbitration on an individual basis to resolve disputes, rather than jury trials or class actions, and also limits the remedies available to you in the event of a dispute.</p>
+<p><b>3. Our Services</b></p>
+<p>Our Services are provided for your personal information and non-commercial use. The content of our Services is provided for general information only. There will be occasions that our Services may be interrupted due to scheduled maintenance or upgrades, emergency repairs, failure of telecommunications links and/or equipment, or similar occurrences.</p>
+<p>Our Services contain text, software, images, photographs, graphics, audio, video, applications, user interfaces, visual interfaces, logos, designs, product names, and technical specifications (“Materials”) which are derived in whole or in part from information and materials supplied by us and other sources, and are protected by copyright, trademark, patent, and other applicable rights and laws. The entire content of our Services is copyrighted as a collective work under the relevant copyright laws of the relevant jurisdictions. Trademarks, logos, and service marks displayed in our Services are registered and unregistered trademarks of Trane Technologies, its subsidiaries and affiliated companies, its licensors or content providers, or other third parties. All of these trademarks, logos, and service marks are the property of their respective owners. Nothing in our Services shall be constructed as granting any license or right to use any trademark, logo, or service mark displayed without the owner’s prior written permission.</p>
+<p>The use of any such Materials on any other website or networked computer or environment without our express written consent is prohibited. Materials may not be copied, reproduced, republished, modified, uploaded, posted, transmitted or distributed in any way nor may they be decompiled, reverse engineered or disassembled, except that you may download one copy of the Material on any single computer for your personal, non-commercial use, provided you keep intact all copyright, trademark and other proprietary notices and make no change in or deletion of author attribution. This limited authorization is not a transfer of title in the Materials, and, by your use of our Services, you acknowledge that you do not acquire any license, ownership or other rights in or to the Materials.</p>
+<p><b>Use of Our Services</b></p>
+<p>In order to access some features of our Services, you may have to create an account. You may not:</p>
+<ul>
+<li>Create an account for anyone other than yourself;<br/>
+<br/>
+</li>
+<li>Use another User's account without permission, or solicit, collect or use the login credentials of other users; or</li>
+<br/>
+<li>Sell, transfer, license or assign your account, username, or any account rights.</li>
+<br/>
+</ul>
+<p>When creating your account, you must provide true, current, accurate and complete information, and you must update your information as necessary to maintain its truth and accuracy. You are responsible for keeping your password secure and you are responsible for the activity that occurs on your account. You may be liable for our losses or the losses of others due to unauthorized use. If you become aware of or suspect any breach of security or unauthorized use of your password or of your account, you should notify us immediately at the address listed at the bottom of this page.</p>
+<p>You agree you have the legal right and capacity to enter into these Terms and to comply with all laws, rules and regulations (e.g., federal, state, local and provincial) applicable to your use of our Services and any content you submit, post or display (e.g., images, photographs, graphics, audio, video, text, information, works of authorship, applications, links, and other communications, content or materials) (collectively, “User Submissions”), including without limitation, copyright laws and export laws.</p>
+<p>You may not:<br/>
+</p>
+<ul>
+<li>Circumvent, disable or otherwise interfere with any security-related features of our Services or features that prevent or restrict use or copying of any Materials and User Submissions or enforce limitations on use of our Services and the Materials or User Submissions;</li>
+<br/>
+<li>Engage in any activity that interferes with or disrupts our Services (or the servers and networks which are connected to our Services), including by transmitting any worms, viruses, spyware, malware or any other code of a destructive or disruptive nature;</li>
+<br/>
+<li>Inject content or code or otherwise alter or interfere with the way any part of our Services is rendered or displayed in a user's browser or device;</li>
+<br/>
+<li>Change, alter or modify any part of our Services for any reason;</li>
+<br/>
+<li>Use or launch any type of automated system, including but not limited to, &quot;robots,&quot; &quot;spiders,&quot; or &quot;offline readers,&quot; etc., that accesses our Services in a manner that sends more request messages to our servers in a given period of time than a human can reasonably produce in the same period by using a conventional online web browser;</li>
+<br/>
+<li>Frame or deep link into any of the Trane Technologies websites;</li>
+<br/>
+<li>Access (or attempt to access) any of our Services, including Materials and User Submissions, by any means other than through the interfaces that are provided by us; or<br/>
+</li>
+<br/>
+<li>Use our Services for any illegal or unauthorized purpose.<br/>
+ </li>
+</ul>
+<p><b>4. Definitions</b></p>
+<p>The Services consist of information, resources, services and content provided by Trane Technologies, affiliates of Trane Technologies and other third parties and may be used only for informational purposes and only for the benefit of Trane Technologies.</p>
+<p><b>5. General</b></p>
+<p>(A) This Agreement, which incorporates by reference other provisions applicable to use of the Services, including, but not limited to, supplemental terms and conditions set forth herein governing the use of certain specific material contained in the Services, sets forth the terms and conditions that apply to use of the Services by you. By using the Services (other than to read this Agreement for the first time), you agree to comply with all of the terms and conditions set forth herein or on the services and agree not to interrupt or attempt to interrupt the operation of the Services in any way.</p>
+<p>(B) The right to use the Services is limited to you and is not transferable to any other person or entity. You are responsible for all use of the Services by yourself (under any screen name or password) and for ensuring that all use complies fully with the provisions of this Agreement. You are responsible for protecting the confidentiality of your password(s), if any.</p>
+<p>(C) In its sole discretion, Trane Technologies shall have the right at any time to limit access to, to change or to discontinue any aspect or feature of the Services, including, but not limited to, content, hours of availability, and equipment needed for access or use.</p>
+<p>(D) Unless otherwise specified, the Services and use thereof are for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from the Services.</p>
+<p><b>6. Revisions to Terms</b></p>
+<p>Trane Technologies shall have the right at any time to change or modify these Terms or to impose new conditions, including, but not limited to, adding fees and charges for use. Such changes, modifications, additions or deletions shall be effective immediately upon notice thereof, which may be given by means including, but not limited to, posting the changed or modified terms and conditions on this website or otherwise made available electronically via the Services, or by electronic or conventional mail, or by any other means by which you obtain notice thereof. Any use or access of the Services by you after such notice shall be deemed to constitute acceptance by yourself of such changes, modifications or additions.</p>
+<p>These Terms will remain in full force and effect so long as you continue to access or use our Services, or until terminated in accordance with the provisions of these Terms. At any time, we may: (i) suspend, withdraw, discontinue, change, or terminate either our Services in general or (ii) suspend, withdraw, discontinue, change, or terminate these Terms and your rights to access or use our Services for any reason, particularly if we believe that you have restricted or inhibited any other user from using or enjoying our Services or in any other way have used our Services in violation of these Terms. Upon termination of these Terms, your authorization to use our Services automatically terminates and you must immediately destroy any downloaded or printed Materials.</p>
+<p><b>7. Equipment</b></p>
+<p>You are responsible for obtaining and maintaining all communication equipment, computer hardware and other equipment or services needed for access to and use of the Services and are responsible for all charges related thereto.</p>
+<p><b>8. Your Conduct and Submissions</b></p>
+<p>(A) You may use the Services for lawful purposes only. You may not post or transmit through the Services  any material which violates or infringes in any way upon the rights of others, which is unlawful, threatening, abusive, defamatory, invasive of privacy or publicity rights, vulgar, obscene, profane or otherwise objectionable, which is or encourages conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any law, which might damage, impair or otherwise harm or adversely affect this website or its operation, or which, without Trane Technologies’ express prior approval, contains advertising or any solicitation with respect to products or services. Any such conduct, or any conduct by you that, in Trane Technologies’ sole discretion, restricts or inhibits any other user from using or enjoying this website, will not be permitted. You may not use this website to advertise or perform any commercial solicitation, including, but not limited to, the solicitation of users to become users of other websites or services competitive with this website. More specifically : (i) you must use the website solely for the business purposes set forth on this site and agree that no false, misleading or erroneous information will be transmitted to Trane Technologies, (ii) you may not post or transmit any message which is libelous, defamatory or which discloses private or personal matters concerning any person, (iii) you may not post or transmit any message, data, image or program which is indecent, obscene or pornographic, (iv) you may not post or transmit any message, data, image or program that would violate the property rights of others, including unauthorized copyrighted text, images or programs, trade secrets or other confidential proprietary information, and trademarks or service marks used in an infringing fashion, (v) you may not interfere with other user's use of the website, (vi) you may not use any robot, spider, or other automatic device or process to monitor or copy Trane Technologies web pages or any portion of the content contained herein without Trane Technologies’ express prior written permission, (vii) you may not post or transmit any file which contains viruses, worms, &quot;Trojan horses&quot; or any other contaminating or destructive features, (viii) you may not post or transmit any message which is harmful, threatening, abusive or hateful, (ix) you may not post or transmit charity requests, petitions for signatures, chain letters or letters relating to pyramid schemes, (x) you may not post or list articles which are off-topic according to the description of the group or list or send unsolicited mass emailings to 10 people or more if such e-mail could reasonably be expected to provoke complaints from its recipients, and (xi) you may not use the facilities and capabilities of the website to conduct any activity or solicit the performance of any illegal activity or other activity which infringes the rights of others.</p>
+<p>(B) This website contains copyrighted material, trademarks and other proprietary information, including, but not limited to, text, software, photos, video, graphics, music and sound, and the entire contents of this website are copyrighted as a collective work under the United States copyright laws.  Trane Technologies owns copyrights in the selection, coordination, arrangement and enhancement of such content, as well as in the content original to it. You may not modify, publish, transmit, participate in the transfer or sale, create derivative works, or in any way exploit, any of the content, in whole or in part. You may download copyrighted material only for your immediate viewing of this website. Except as otherwise expressly permitted under copyright law, no copying, redistribution, retransmission, publication or commercial exploitation of downloaded material will be permitted without the express permission of Trane Technologies and the copyright owner. In the event of any permitted copying, redistribution or publication of copyrighted material, no changes in or deletion of author attribution, trademark legend or copyright notice shall be made. You acknowledge that you do not acquire any ownership rights by downloading copyrighted material or by accessing data available on this website.</p>
+<p>(C) You may not upload, post or otherwise make available on this website any material or data protected by copyright, trademark or other proprietary right without the express permission of the owner of the copyright, trademark or other proprietary right and the burden of determining that any material or data is not protected by copyright or other proprietary right rests with you. You are solely liable for any damage resulting from any infringement of copyrights, proprietary rights, or any other harm resulting from such a submission. By submitting material or data to this website, including without limitation ideas contained therein for new or improved products and services, you automatically grant, and/or warrant that the owner of such material has expressly granted Trane Technologies the royalty-free, perpetual, irrevocable, nonexclusive right and license to use, reproduce, modify, adapt, publish, translate, transmit, create derivative works of, publicly display, publicly perform, and distribute such material or data (in whole or in part) worldwide and/or to incorporate it in other works in any form, media or technology now known or hereafter developed for the full term of any copyright that may exist in such material. You also permit any other user to access, view, store or reproduce the material for that user's personal use. You hereby grant Trane Technologies the right to edit, copy, publish and distribute any material or data made available on this website by you. You also grant to Trane Technologies the right to use your name in connection with any submitted materials as well as in connection with all advertising, marketing and promotional material related thereto. You agree that you shall have no recourse against Trane Technologies for any alleged or actual infringement or misappropriation of any proprietary right in your communications to Trane Technologies.</p>
+<p>(D) The foregoing provisions of Section 8 are for the benefit of Trane Technologies, its subsidiaries, affiliates and its third party content providers and licensors and each shall have the right to assert and enforce such provisions directly or on its own behalf.</p>
+<p><b>9. Disclaimer of Warranty; Limitation of Liability</b></p>
+<p>(A) YOU EXPRESSLY AGREE THAT USE OF THIS WEBSITE IS AT YOUR SOLE RISK. NEITHER TRANE TECHNOLOGIESITS AFFILIATES NOR ANY OF THEIR RESPECTIVE EMPLOYEES, AGENTS, THIRD PARTY CONTENT PROVIDERS OR LICENSORS WARRANT THAT THIS WEBSITE WILL BE UNINTERRUPTED OR ERROR FREE; NOR DO THEY MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THIS WEBSITE, OR AS TO THE ACCURACY, RELIABILITY OR CONTENT OF ANY INFORMATION, SERVICE, OR MERCHANDISE PROVIDED THROUGH THIS WEBSITE.</p>
+<p>(B) THIS WEBSITE IS PROVIDED ON AN &quot;AS IS&quot; BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OTHER THAN THOSE WARRANTIES WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION OR MODIFICATION UNDER THE LAWS APPLICABLE TO THIS AGREEMENT.</p>
+<p>(C) IN NO EVENT WILL TRANE TECHNOLOGIES BE LIABLE FOR ANY DAMAGES OR INJURY CAUSED BY ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS, COMMUNICATION LINE FAILURE, THEFT OR DESTRUCTION OR UNAUTHORIZED ACCESS TO, ALTERATION OF, OR USE OF RECORD, WHETHER FOR BREACH OF CONTRACT, TORTIOUS BEHAVIOR, NEGLIGENCE, OR UNDER ANY OTHER CAUSE OF ACTION. YOU SPECIFICALLY ACKNOWLEDGE THAT TRANE TECHNOLOGIES IS NOT LIABLE FOR THE DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF OTHER USERS OR THIRD-PARTIES AND THAT THE RISK OF INJURY FROM THE FOREGOING RESTS ENTIRELY WITH YOU.</p>
+<p>(D) IN NO EVENT WILL TRANE TECHNOLOGIES, OR ANY PERSON OR ENTITY INVOLVED IN CREATING, PRODUCING, MAINTAINING OR DISTRIBUTING THIS WEBSITE OR THE WEBSITE SOFTWARE, BE LIABLE FOR ANY DAMAGES, INCLUDING, WITHOUT LIMITATION, DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THIS WEBSITE. YOU HEREBY ACKNOWLEDGE THAT THE PROVISIONS OF THIS SECTION SHALL APPLY TO ALL CONTENT ON THIS WEBSITE.</p>
+<p>(E) IN ADDITION TO THE TERMS SET FORTH ABOVE NEITHER, TRANE TECHNOLOGIES, NOR ITS AFFILIATES, INFORMATION PROVIDERS OR CONTENT PARTNERS SHALL BE LIABLE REGARDLESS OF THE CAUSE OR DURATION, FOR ANY ERRORS, INACCURACIES, OMISSIONS, OR OTHER DEFECTS IN, OR UNTIMELINESS OR UNAUTHENTICITY OF, THE INFORMATION CONTAINED WITHIN THIS WEBSITE, OR FOR ANY DELAY OR INTERRUPTION IN THE TRANSMISSION THEREOF TO THE USER, OR FOR ANY CLAIMS OR LOSSES ARISING THEREFROM OR OCCASIONED THEREBY. NONE OF THE FOREGOING PARTIES SHALL BE LIABLE FOR ANY THIRD-PARTY CLAIMS OR LOSSES OF ANY NATURE, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, PUNITIVE OR CONSEQUENTIAL DAMAGES. <b>TRANE TECHNOLOGIES, ITS AFFILIATES, INFORMATION PROVIDERS OR CONTENT PARTNERS SHALL HAVE NO LIABILITY FOR INVESTMENT OR BUSINESS DECISIONS BASED ON ANY INFORMATION PROVIDED AND RECOMMENDS YOU OBTAIN EXPERT ADVICE PRIOR TO ANY SUCH DECISIONS.</b> NEITHER TRANE TECHNOLOGIES, NOR ITS AFFILIATES, INFORMATION PROVIDERS OR CONTENT PARTNERS WARRANT OR GUARANTEE THE TIMELINESS, SEQUENCE, ACCURACY OR COMPLETENESS OF THIS INFORMATION. ADDITIONALLY, THERE ARE NO WARRANTIES AS TO THE RESULTS OBTAINED FROM THE USE OF THE INFORMATION.</p>
+<p>(F) Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you. In such states, Trane Technologies’ liability is limited to the greatest extent permitted by law.</p>
+<p><b>10. Personal Information, Monitoring, Logging and Data Utilization</b></p>
+<p>(A) Any personally identifiable information you may provide to Trane Technologies via this website is protected by the Privacy Policy associated with this website. Trane Technologies does not want you to, and you should not, send any confidential or proprietary information to I Trane Technologies via the website. You agree that any information or materials that you or individuals acting on your behalf provide to Trane Technologies will not be considered confidential or proprietary. By providing any such information or materials to Trane Technologies, you grant to Trane Technologies an unrestricted, irrevocable, worldwide, royalty-free license to use, reproduce, display, publicly perform, transmit and distribute such information and materials, and you further agree that Trane Technologies is free to use any ideas, concepts or know-how that you or individuals acting on your behalf provide to Trane Technologies. You further recognize that Trane Technologies does not want you to, and you warrant that you shall not, provide any information or materials to Trane Technologies that is defamatory, threatening, obscene, harassing, or otherwise unlawful, or that incorporates the proprietary material of another.</p>
+<p>(B) Trane Technologies shall have the right, but not the obligation, to monitor the content and/or use of this website to determine compliance with this Agreement and any operating rules established by Trane Technologies and to satisfy any law, regulation or authorized government request. Trane Technologies shall have the right in its sole discretion to refuse access or limit access to you, and to edit, refuse to post or remove any material submitted to or posted on this website. Without limiting the foregoing, Trane Technologies shall have the right to remove any material that Trane Technologies, in its sole discretion, finds to be in violation of the provisions hereof or otherwise objectionable. By use of Trane Technologies websites, servers, processors or networks, you acknowledge and agree to the fact that Trane Technologies shall have the unrestricted right, but not the obligation, to log web addresses and/or utilize  other information and/or data relating to use of the website as described in our Privacy Policy, and including, but not limited to the following legitimate business purposes: (a) to provide better support, websites, services and/or products to users of its website, products and/or services, (b) to verify compliance with the terms of this Agreement, (c) for use by Trane Technologies for statistical or other analysis of the collective characteristics and behavior of its users, (d) to backup website, user and other data or information and/or provide remote support and/or restoration, (e) to provide or undertake: usage analysis, histories or trending; engineering analysis, histories or trending; failure analysis, histories or trending; warranty analysis, histories or trending; energy analysis, histories or trending; predictive analysis, histories or trending; service analysis, histories or trending; product usage analysis, histories or trending; and/or other desirable analysis, histories or trending, and (f) to otherwise understand and respond to the needs of the users of Trane Technologies’ website, products and/or services. Such mining may entail the use of &quot;cookies&quot;, &quot;IP addresses&quot;, or other numeric codes or tracking mechanisms to identify a computer and/or user. You can set your browser to refuse all cookies or to indicate when a cookie is being sent. Users who do not accept cookies may be unable to fully avail themselves of all of Trane Technologies’ websites, products and/or services and may have to reenter certain repetitive data each time that data is needed.</p>
+<p><b>11. Indemnification</b></p>
+<p>You agree to defend, indemnify and hold harmless Trane Technologies, its affiliates and their respective directors, officers, employees and agents from and against all losses, damages, claims and expenses, including attorneys' fees, arising out of the use of this website by you and/or arising out of any violation of this Agreement by you.</p>
+<p><b>12. Termination</b></p>
+<p>Either Trane Technologies or you may terminate this Agreement. Without limiting the foregoing, Trane Technologies shall have the right to immediately terminate, without notice, your use of this website in the event of any conduct by you which Trane Technologies, in its sole discretion, considers to be unacceptable, or in the event of any breach by you of this Agreement. You may terminate this Agreement by providing written notice to Trane Technologies; if you do so, your access to the website may be terminated immediately. The provisions of Sections 5, 6, 8, 10, 11 and this Section 12, and any other provisions of this Agreement which are intended by their nature to survive termination of this Agreement, shall survive termination of this Agreement.</p>
+<p><b>13. Trademarks</b></p>
+<p>Trane Technologies, Trane, and Thermo King and each of their logos are trademarks of Trane Technologies Company, LLC, All rights reserved. You may not use such trademarks without the prior written permission of Trane Technologies. All other trademarks appearing on this website are the property of their respective owners. These terms do not license or transfer any rights under the trademarks or other intellectual property rights.    </p>
+<p><b>14. Third Party Content, Third Party Sites, and External Links to this Site</b></p>
+<p>(A) Neither Trane Technologies nor any third-party provider of information guarantees the accuracy, completeness, or usefulness of any content supplied by third parties, by the users or thru links off from this website, nor its merchantability or fitness for any particular purpose. (Refer to Section 6 above for the complete provisions governing limitation of liabilities and disclaimers of warranty.) Moreover, you understand further that the Internet contains unedited materials some of which potentially be offensive to you. You access such materials at your risk. Trane Technologies has no control over and accepts no responsibility whatsoever for such materials.</p>
+<p>(B) Trane Technologies neither endorses nor is responsible for the accuracy or reliability of any opinion, advice or statement made on this website by anyone other than authorized Trane Technologies employee spokespersons while acting in their official capacities. UNDER NO CIRCUMSTANCES WILL TRANE TECHNOLOGIES BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY YOUR RELIANCE ON INFORMATION OBTAINED THROUGH THIS WEBSITE. It is the responsibility of YOU to evaluate the accuracy, completeness or usefulness of any information, opinion, advice or other content available through this website. Please seek the advice of professionals, as appropriate, regarding the evaluation of any specific information, opinion, advice or other content.</p>
+<p>(C) As a convenience to you, Trane Technologies may provide, on this Site, links to Web sites operated by other entities. If you use these sites, you will leave this Site. If you decide to visit any linked site, you do so at your own risk and it is your responsibility to take all protective measures to guard against viruses or other destructive elements. Trane Technologies makes no warranty or representation regarding, and does not endorse, any linked Web sites or the information appearing thereon or any of the products or services described thereon. Links do not imply that Trane Technologies or this Site sponsors, endorses, is affiliated or associated with, or is legally authorized to use any trademark, trade name, logo or copyright symbol displayed in or accessible through the links, or that any linked site is authorized to use any trademark, trade name, logo or copyright symbol of Trane Technologies or any of its affiliates or subsidiaries.</p>
+<p>(D) All links to this Site must be approved in writing by Trane Technologies, except that Trane Technologies consents to links in which: (i) the link is a text-only link containing only the name “Trane Technologies” (ii) the link &quot;points&quot; only to <a href="https://www.tranetechnologies.com/en/index.html" target="_self">www.tranetechnologies.com</a> and not to deeper pages; (iii) the link, when activated by a user, displays that page full-screen in a fully operable and navigable browser window and not within a &quot;frame&quot; on the linked website; and (iv) the appearance, position, and other aspects of the link may neither create the false appearance that an entity or its activities or products are associated with or sponsored by Trane Technologies nor be such as to damage or dilute the goodwill associated with the name and trademarks of  Trane Technologies or its Affiliates. Trane Technologies reserves the right to revoke this consent to link at any time in its sole discretion.</p>
+<p><b>15. Copyrights and Copyright Agent</b></p>
+<p>Trane Technologies respects the rights of all copyright holders and in this regard, Trane Technologies has adopted and implemented a policy that provides for the termination in appropriate circumstances of The Users who infringe the rights of copyright holders. We will investigate any allegations of copyright infringement brought to our attention. If you have evidence of, know of, or have a good faith belief that your rights or the rights of a third party have been violated and you want Trane Technologies to review, delete, edit, or disable the material in question, you must provide Trane Technologies with all of the following information per the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. ¤ 512:</p>
+<p>1. A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;<br/>
+<br/>
+2. Identification of the copyright work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;</p>
+<p>3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;</p>
+<p>4. Information reasonably sufficient to permit us to contact the complaining party;</p>
+<p>5. A statement that the complaining party has a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and</p>
+<p>6. A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</p>
+<p>7. Your address, telephone number and email address.</p>
+<p>For copyright inquiries under the Digital Millennium Copyright Act or for web posting, reprint, transcript or licensing requests for Trane Technologies material, please contact:</p>
+<p><b><i>Copyright Agent</i></b><br/>
+Legal Department<i> <br/>
+800-E Beaty Street<br/>
+Davidson, NC 28036</i><br/>
+<br/>
+For any questions or requests other than copyright issues or licensing requests, please contact:<br/>
+<br/>
+<b> <i>Legal Department</i></b> <i><br/>
+</i>Trane Technologies<i> <br/>
+800-E Beaty Street<br/>
+Davidson, NC 28036</i></p>
+<p><b>16. Software  </b></p>
+<p>(A) Any software that is made available to download from the Services (&quot;Software&quot;) is the copyrighted work of Trane Technologies and/or third parties. Use of the Software is governed by the terms of the end user license agreement, if any, which accompanies or is included with the Software (&quot;License Agreement&quot;). You should not install or use any Software that is accompanied by or includes a License Agreement, unless you agree to the License Agreement terms. The Software is made available for download solely for use by you according to the License Agreement. Any reproduction or redistribution of the Software not in accordance with the License Agreement is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.</p>
+<p>(B) WITHOUT LIMITING THE FOREGOING, COPYING OR REPRODUCTION OF THE SOFTWARE TO ANY OTHER SERVER OR LOCATION FOR FURTHER REPRODUCTION OR REDISTRIBUTION IS EXPRESSLY PROHIBITED, UNLESS SUCH REPRODUCTION OR REDISTRIBUTION IS EXPRESSLY PERMITTED BY THE LICENSE AGREEMENT ACCOMPANYING SUCH SOFTWARE. THE SOFTWARE IS WARRANTED, IF AT ALL, ONLY ACCORDING TO THE TERMS OF THE LICENSE AGREEMENT. EXCEPT AS WARRANTED IN THE LICENSE AGREEMENT, TRANE TECHNOLOGIES HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH REGARD TO THE SOFTWARE, INCLUDING ALL WARRANTIES AND CONDITIONS OF MERCHANTABILITY, WHETHER EXPRESS, IMPLIED OR STATUTORY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.</p>
+<p>(C) FOR YOUR CONVENIENCE, TRANE TECHNOLOGIES MAY MAKE AVAILABLE AS PART OF THE SERVICES OR IN ITS SOFTWARE PRODUCTS, TOOLS AND UTILITIES FOR USE AND/OR DOWNLOAD. TRANE TECHNOLOGIES DOES NOT MAKE ANY ASSURANCES WITH REGARD TO THE ACCURACY OF THE RESULTS OR OUTPUT THAT DERIVES FROM SUCH USE OF ANY SUCH TOOLS AND UTILITIES. PLEASE RESPECT THE INTELLECTUAL PROPERTY RIGHTS OF OTHERS WHEN USING THE TOOLS AND UTILITIES MADE AVAILABLE ON THE SERVICES OR IN TRANE TECHNOLOGIES PRODUCTS.</p>
+<p><b>17. Restricted Rights Legend</b></p>
+<p>Any Software which is downloaded from the Services for or on behalf of the United States of America, its agencies and/or instrumentalities (&quot;U.S. Government&quot;), is provided with Restricted Rights. Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is TRANE TECHNOLOGIES, <i>800-E Beaty Street <br/>
+Davidson, NC 28036</i>.</p>
+<p><b>18. Forward-looking Statements</b></p>
+<p>The Materials in our Services may include “forward-looking statements,” which are statements that are not historical facts including statements that relate to the mix of and demand for our products; performance in the markets in which we operate; our capital allocation strategy; and projected financial performance and targets including assumptions regarding our effective tax rate. These forward-looking statements are based on our current expectations and are subject to risks and uncertainties, which may cause actual results to differ materially from our current expectations. Such factors include, but are not limited to, global economic conditions, the outcome of any litigation, demand for our products and services, and tax law changes. Additional factors that could cause such differences can be found in our filings with the Securities and Exchange Commission including our most recent annual report on Form 10-K and subsequent reports on Forms 10-Q. We assume no obligation to update these forward-looking statements.</p>
+<p><b>19. Governing Law and Arbitration</b></p>
+<p>We control and operate some of the Services from our offices in the United States of America. Persons who access this Site from other locations do so on their own initiative, and are responsible for compliance with local laws. The laws of the state of North Carolina, excluding its conflicts-of-law rules and further excluding the 1980 U.N. Convention on Contracts for the International Sale of Goods, will govern these Terms and your use of the Services. By using the Services, you agree and consent (i) that any claim or dispute with Trane Technologies or relating in any way to your use of the Services will be heard exclusively in Mecklenburg County state courts located in the State of North Carolina; and (ii) to the exercise of personal jurisdiction in the courts of the state of North Carolina, in connection with any such dispute.</p>
+<p>At Trane Technologies sole discretion, it may require that any claim or dispute between you and Trane Technologies that arises in whole or in part from our Services be decided exclusively through binding, individual arbitration.   You agree that such disputes between you and Trane Technologies  will be resolved by binding arbitration and you waive your right to participate in class action lawsuits or class-wide arbitration. Any cause of action you may have with respect to your use of our Services must be commenced within six (6) months after the claim or cause of action arises to Trane Technologies’ designated agent at the <b>address listed at the bottom of this page.</b></p>
+<p><b>20. Miscellaneous</b></p>
+<p>Trane Technologies makes no representation that materials at the Services are appropriate or available for use at other locations outside of the United States and access to them from territories where their contents are illegal is prohibited. You may not use the website or export the materials from the website in violation of United States export laws and regulations. If you access the Services from a location outside of the United States, you are responsible for compliance with all local laws. This Agreement and any operating rules for the Services established by Trane Technologies constitute the entire agreement of the parties with respect to the subject matter hereof, and supersede all previous written or oral agreements between the parties with respect to such subject matter. By use of the Services or this website and any data or material contained therein, you agree that its use shall conform to all applicable laws and regulations and you shall not violate the rights of any third parties. No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. The section headings used herein are for convenience only and shall not be given any legal import. Any cause of action you may have with respect to your use of the website must be commenced within one (1) year after the claim or cause of action arises. If for any reason a court of competent jurisdiction finds any provision of the Agreement or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the Agreement, and the remainder of this Agreement shall continue in full force and effect.</p>
+<p><b>Note:</b> Additional conditions may be required to use certain services or sub websites on this website or otherwise made available by the Services.</p>
+<p>If any provision of these Terms is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms, which shall remain in full force and effect.</p>
+<p>Our obligations and responsibilities regarding our products and services are governed solely by our terms and conditions of sale or license under which such products and services are sold or licensed.</p>
+<p><b>Contact Us</b></p>
+<p>If you have any questions about the Terms, please forward such inquiries to:</p>
+<p>Trane Technologies Legal Department<br/>
+800 Beaty Street, Building E<br/>
+Davidson, North Carolina 28036<br/>
+<br/>
+</p>
+<p>Or:</p>
+<p>Trane Technologies Legal Department<br/>
+<span style="color: rgb(0,0,0);font-family: &quot;Chalet London&quot; , sans-serif;font-size: 20.0px;font-style: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0.0px;">Trane Technologies International Limited</span><br/>
+Belgian Branch<br/>
+Alma Court Building<br/>
+Lenneke Marelaan 6<br/>
+1932 St-Stevens-Woluwe<br/>
+Belgium<br/>
+<br/>
+</p>
+<p>The inquiries should include the individual's name, address, and other relevant contact information (phone number, email address). Trane Technologies will use all reasonable efforts to honor such requests as quickly as possible.</p>
+</div>
+</div>
+<div>
+<p data-emptytext="Text"></p>
+</div>
+</div>
+<div class="col-md-4 article--rail">
+<div>
+<div><div class="xfpage page basicpage">
+<div class="xf-content-height">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+<div class="featuredlinkscomp aem-GridColumn aem-GridColumn--default--12">
+<div class="featuredlinks">
+<h3 class="featuredlinks__heading">Featured</h3>
+<ul class="featuredlinks__content">
+<li class="featuredlinks__item">
+<a href="/en/index/sustainability.html" class="featuredlinks__link">
+<div class="featuredlinks__img">
+<div class="featuredlinks__img-ratio">
+<img src="/content/dam/cs-corporate/images/sustainability/water-plant.jpg" alt="image of a water plant near sunset"/>
+</div>
+</div>
+<div class="featuredlinks__text">
+Sustainability
+</div>
+</a>
+</li>
+<li class="featuredlinks__item">
+<a href="/en/index/company/doing-business-with-us.html" class="featuredlinks__link">
+<div class="featuredlinks__img">
+<div class="featuredlinks__img-ratio">
+<img src="/content/dam/cs-corporate/images/company/leadership.jpg" alt="Female office worker meeting"/>
+</div>
+</div>
+<div class="featuredlinks__text">
+Doing Business with Us
+</div>
+</a>
+</li>
+<li class="featuredlinks__item">
+<a href="/en/index/news.html" class="featuredlinks__link">
+<div class="featuredlinks__img">
+<div class="featuredlinks__img-ratio">
+<img src="/content/dam/cs-corporate/images/news/sustainability-news-promo.jpg" alt="dark sand beach"/>
+</div>
+</div>
+<div class="featuredlinks__text">
+News
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div>
+<div><div class="xfpage page basicpage">
+<div class="xf-content-height">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+<div class="socialFollowPromo aem-GridColumn aem-GridColumn--default--12">
+<div class="socialfollow">
+<h2 class="socialfollow__heading">Join Our Social Networks!</h2>
+<p class="socialfollow__description">Get news about careers and everyday life at Trane Technologies.</p>
+<ul class="socialfollow__list">
+<li class="socialfollow__item">
+<a href="https://www.facebook.com/TraneTechnologies/" target="_self" class="socialfollow__link"><img src="/content/dam/cs-corporate/images/logos/icon-facebook.png" alt="Facebook logo" class="socialfollow__icon"/></a>
+</li>
+<li class="socialfollow__item">
+<a href="https://twitter.com/Trane_tech" target="_self" class="socialfollow__link"><img src="/content/dam/cs-corporate/images/logos/icon-twitter.png" alt="Twitter logo" class="socialfollow__icon"/></a>
+</li>
+<li class="socialfollow__item">
+<a href="https://www.linkedin.com/company/tranetechnologies" target="_self" class="socialfollow__link"><img src="/content/dam/cs-corporate/images/logos/icon-linkedin.png" alt="LinkedIn logo" class="socialfollow__icon"/></a>
+</li>
+<li class="socialfollow__item">
+<a href="https://www.glassdoor.com/Overview/Working-at-Trane-Technologies-EI_IE349.11,29.htm" target="_self" class="socialfollow__link"><img src="/content/dam/cs-corporate/images/logos/icon-glassdoor.png" alt="GlassDoor logo" class="socialfollow__icon"/></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div>
+</div>
+</div>
+</div>
+<div class="row article--row">
+<div>
+</div>
+</div>
+</div>
+</div>
+<div><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="footermainparsys iparsys parsys"><div class="footercomp section">
+<footer class="footer">
+<div class="footer__row">
+<div class="footer__misc footer__col">
+<div class="footer__logo">
+<a href="/en/index.html" class="footer__logo-link" target="_blank">
+<img src="/content/dam/cs-corporate/images/logos/logo-TT.svg" alt="Trane Technologies" class="footer__logo-img"/>
+</a>
+</div>
+<ul class="footer__social">
+<li class="footer__social-item">
+<a href="https://www.facebook.com/TraneTechnologies/" target="_blank" class="footer__social-link">
+<img src="/content/dam/cs-corporate/images/logos/facebook.png" alt="Facebook" class="footer__social-img"/>
+</a>
+</li>
+<li class="footer__social-item">
+<a href="https://twitter.com/trane_tech" target="_blank" class="footer__social-link">
+<img src="/content/dam/cs-corporate/images/logos/twitter.png" alt="Twitter" class="footer__social-img"/>
+</a>
+</li>
+<li class="footer__social-item">
+<a href="https://www.linkedin.com/company/tranetechnologies" target="_blank" class="footer__social-link">
+<img src="/content/dam/cs-corporate/images/logos/linkedin.png" alt="LinkedIn" class="footer__social-img"/>
+</a>
+</li>
+<li class="footer__social-item">
+<a href="https://www.youtube.com/channel/UCsLsVDb_r7aohV1FNWqevuA" target="_blank" class="footer__social-link">
+<img src="/content/dam/cs-corporate/images/logos/youtube.png" alt="YouTube" class="footer__social-img"/>
+</a>
+</li>
+</ul>
+</div>
+<div class="footer__nav footer__col">
+<div class="footer__nav-section">
+<p class="footer__nav-heading"><a href="/en/index/company.html" class="footer__nav-heading-link">About Us</a></p>
+<ul class="footer__nav-list">
+<li><a href="/en/index/our-story.html" class="footer__nav-link">Our Story</a></li>
+<li><a href="/en/index/company/leadership.html" class="footer__nav-link">Leadership</a></li>
+<li><a href="/en/index/company/diversity-and-inclusion.html" class="footer__nav-link">Diversity &amp; Inclusion</a></li>
+<li><a href="/en/index/company/corporate-citizenship.html" class="footer__nav-link">Corporate Citizenship</a></li>
+<li><a href="/en/index/company/corporate-governance.html" class="footer__nav-link">Corporate Governance</a></li>
+<li><a href="/en/index/company/awards.html" class="footer__nav-link">Our Business Awards &amp; Recognition</a></li>
+<li><a href="/en/index/company/doing-business-with-us-customer.html" class="footer__nav-link">Doing Business with Us - Customer</a></li>
+<li><a href="/en/index/company/doing-business-with-us.html" class="footer__nav-link">Doing Business with Us - Supplier</a></li>
+<li><a href="/en/index/contact-us.html" class="footer__nav-link">Contact Us</a></li>
+<li><a href="https://blog.tranetechnologies.com/en/home.html" class="footer__nav-link">Blog</a></li>
+</ul>
+</div>
+<div class="footer__nav-section">
+<p class="footer__nav-heading"><a href="/en/index/brands.html" class="footer__nav-heading-link">Brands</a></p>
+<ul class="footer__nav-list">
+<li><a href="/en/index/brands.html#trane" class="footer__nav-link">Trane</a></li>
+<li><a href="/en/index/brands.html#thermoking" class="footer__nav-link">Thermo King</a></li>
+<li><a href="/en/index/brands.html" class="footer__nav-link">Brand Family</a></li>
+</ul>
+</div>
+<div class="footer__nav-section">
+<p class="footer__nav-heading"><a href="/en/index/sustainability.html" class="footer__nav-heading-link">Sustainability</a></p>
+<ul class="footer__nav-list">
+<li><a href="/en/index/sustainability/our-2030-commitments.html" class="footer__nav-link">Our Commitments</a></li>
+<li><a href="/en/index/sustainability/cees.html" class="footer__nav-link">Center for Energy Efficiency &amp; Sustainability (CEES)</a></li>
+<li><a href="/en/index/sustainability/ches.html" class="footer__nav-link">Center for Healthy &amp; Efficient Spaces (CHES)</a></li>
+<li><a href="/en/index/sustainability/sustainability-reports/esg-report.html" class="footer__nav-link">2023 ESG Report</a></li>
+<li><a href="/en/index/sustainability/sustainability-reports.html" class="footer__nav-link">Sustainability Reports</a></li>
+</ul>
+</div>
+<div class="footer__nav-section">
+<p class="footer__nav-heading"><a href="/en/index/careers.html" class="footer__nav-heading-link">Careers</a></p>
+<ul class="footer__nav-list">
+<li><a href="https://careers.tranetechnologies.com/global/en/home" class="footer__nav-link">Search Jobs</a></li>
+<li><a href="https://careers.tranetechnologies.com/global/en/studentandgraduates" class="footer__nav-link">Early Careers</a></li>
+<li><a href="https://careers.tranetechnologies.com/global/en/militaryandveterans" class="footer__nav-link">We Hire Veterans</a></li>
+<li><a href="https://careers.tranetechnologies.com/global/en/culture" class="footer__nav-link">Our Culture</a></li>
+<li><a href="https://careers.tranetechnologies.com/global/en/blog" class="footer__nav-link">Careers Blog</a></li>
+<li><a href="https://careers.tranetechnologies.com/global/en/benefits" class="footer__nav-link">Our Employment Benefits</a></li>
+<li><a href="/en/index/company/diversity-and-inclusion.html" class="footer__nav-link">Diversity &amp; Inclusion</a></li>
+</ul>
+</div>
+<div class="footer__nav-section">
+<p class="footer__nav-heading"><a href="/en/index/news.html" class="footer__nav-heading-link">News</a></p>
+<ul class="footer__nav-list">
+<li><a href="/en/index/news.html#newsreleases" class="footer__nav-link">Latest Announcements</a></li>
+<li><a href="/en/index/news.html#mediacontact" class="footer__nav-link">Media Contacts &amp; Resources</a></li>
+</ul>
+</div>
+<div class="footer__nav-section">
+<p class="footer__nav-heading"><a href="https://investors.tranetechnologies.com/home/default.aspx" class="footer__nav-heading-link">Investors</a></p>
+<ul class="footer__nav-list">
+<li><a href="https://investors.tranetechnologies.com/news-and-events/news-releases/default.aspx" class="footer__nav-link">News &amp; Events</a></li>
+<li><a href="https://investors.tranetechnologies.com/stock-information/default.aspx" class="footer__nav-link">Stock Information</a></li>
+<li><a href="https://investors.tranetechnologies.com/financial-information/financial-summary/default.aspx" class="footer__nav-link">Financial Information</a></li>
+<li><a href="/en/index/company/corporate-governance.html" class="footer__nav-link">Corporate Governance</a></li>
+<li><a href="https://investors.tranetechnologies.com/investor-resources/investor-information/default.aspx" class="footer__nav-link">Investor Resources</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer__legal">
+<ul class="footer__legal-links">
+<li><a href="/en/index/privacy-policy.html">Privacy Policy</a></li>
+<li><a href="/en/index/terms-of-use.html">Terms of Use</a></li>
+<li><a href="/en/index/site-map.html">Site Map</a></li>
+<li><a href="/content/dam/cs-corporate/pdf/company/legal/Modern_Slavery_Act_Statement.pdf">Modern Slavery Act Transparency Statement</a></li>
+<li><a href="/en/index/company/corporate-governance/policies-practices-disclosures/product-security.html">Report a Product Vulnerability</a></li>
+</ul>
+<div class="footer__copyright">
+<p>© Trane Technologies plc, <span class="current-year">2024</span> | 170/175 Lakeview Drive, Airside Business Park, Swords, Co. Dublin, Ireland REGISTERED IN IRELAND WITH LIMITED LIABILITY REGISTERED NUMBER 469272<br/>
+</p>
+<p>Trane Technologies, a global climate innovator, is a diverse and inclusive environment. We are an equal opportunity employer and are dedicated to hiring qualified protected veterans and individuals with disabilities.</p>
+</div>
+</div>
+</footer>
+</div>
+</div>
+</div>
+</div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="/etc.clientlibs/cs-corp/clientlibs/clientlib-all.js"></script>
+<div class="cloudservice generictracker">
+<script>function loadscript(d,b,a,s,e){var t=b.createElement(a),fs=b.getElementsByTagName(a)[0];t.async=1;t.id=e;t.src=s;fs.parentNode.insertBefore(t,fs);}loadscript(window,document,'script','https://assets.adobedtm.com/5f11bebafe70/4793ea460a5d/launch-aeadeff8e3ee.min.js','adobe_launch_analytics');</script>
+</div>
+<div class="cloudservice recaptcha">
+</div>
+</body>
+</html>
