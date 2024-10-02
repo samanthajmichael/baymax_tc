@@ -1,0 +1,1240 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M3KDBZH');
+</script>
+<link rel="canonical" href="https://www.danaher.com/terms-and-conditions" />
+<meta name="generator" content="-" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/danaher/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.danaher.com/terms-and-conditions" />
+
+    <title>Terms and Conditions | Danaher</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/normalize-css/normalize.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ajax_loader/css/throbber-general.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/modules/contrib/poll/css/poll.base.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/modules/contrib/poll/css/poll.theme.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ajax_loader/css/circle.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/modules/contrib/social_media_links/css/social_media_links.theme.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/core/modules/layout_discovery/layouts/onecol/onecol.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/base/elements.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/layout.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/progress.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/action-links.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/breadcrumb.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/button.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/collapse-processed.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/container-inline.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/details.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/exposed-filters.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/field.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/form.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/icons.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/inline-form.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/item-list.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/link.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/links.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/menu.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/more-link.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/pager.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/tabledrag.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/tableselect.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/tablesort.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/tabs.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/textarea.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/ui-dialog.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/messages.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/classy/components/node.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/block.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/book.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/breadcrumb.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/captions.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/comments.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/container-inline.module.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/contextual.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/demo-block.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/dropbutton.component.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/featured-top.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/feed-icon.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/field.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/form.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/forum.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/header.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/help.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/highlighted.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/item-list.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/list-group.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/list.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/main-content.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/menu.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/messages.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/node.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/node-preview.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/page-title.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/pager.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/panel.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/primary-menu.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/search-form.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/search-results.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/secondary-menu.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/shortcut.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/skip-link.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/sidebar.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/site-branding.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/site-footer.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/table.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/tablesort-indicator.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/tabs.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/text-formatted.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/toolbar.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/featured-bottom.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/password-suggestions.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/ui.widget.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/vertical-tabs.component.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/views.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/buttons.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/image-button.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/components/ui-dialog.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/modules/contrib/betterlt/css/local_tasks.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/custom/danaher/js/slick/slick.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/custom/danaher/js/slick/slick-theme.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/custom/danaher/css/styles.css?sjxp4x" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bartik/css/colors.css?sjxp4x" />
+<link rel="stylesheet" media="print" href="/themes/contrib/bartik/css/print.css?sjxp4x" />
+
+    
+  </head>
+  <body class="layout-no-sidebars path-node page-node-type-page">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3KDBZH" height="0" width="0" style="display:none;visibility:hidden;"></iframe>
+</noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+        <a class="skip-to-content-link" href="#main">
+          Skip to content
+        </a>
+
+    
+    
+      <header id="header" class="header">
+          <div class="header-wrappper">
+              <div class="section clearfix">
+                
+                  <div class="region clearfix region-header">
+    <div class="wrapper layout-container">
+        <div id="block-danaher-site-branding" class="site-logo clearfix site-branding block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-branding__logo">
+      <img src="/themes/custom/danaher/logo.svg" alt="Home" />
+    </a>
+    </div>
+<div id="header-menu-group" class="block block-blockgroup block-block-groupheader-menu-group">
+  
+    
+      <div class="content">
+      
+<nav role="navigation" aria-labelledby="block-infomenu-menu" id="block-infomenu" class="info-menu block block-menu navigation menu--info-menu">
+            
+  <h2 class="visually-hidden" id="block-infomenu-menu">Info Menu</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-infomenu"></div>
+      <div class="menu-toggle-target" id="hide-block-infomenu"></div>
+      <a class="menu-toggle" href="#show-block-infomenu">Show &mdash; Info Menu</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-infomenu">Hide &mdash; Info Menu</a>
+      
+              <ul class="clearfix menu">
+      <li class="menu-item navigation-item"><div class="wd_widget" data-wd_widget-id="gexRyEYy4Wqn" data-wd_widget-host="//investors.danaher.com">Loading data...</div></li>
+                    <li class="menu-item navigation-item">
+        
+                  <a href="https://investors.danaher.com/" data-id="nav-menu-investors">Investors</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="https://jobs.danaher.com/global/en" data-id="nav-menu-careers">Careers</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="/global-locations" data-id="nav-menu-global-locations">Global locations</a>
+        
+
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+<nav role="navigation" aria-labelledby="block-megamenu-menu" id="block-megamenu" class="block block-menu navigation menu--mega-menu">
+            
+  <h2 class="visually-hidden" id="block-megamenu-menu">Mega Menu</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-megamenu"></div>
+      <div class="menu-toggle-target" id="hide-block-megamenu"></div>
+      <a class="menu-toggle" href="#show-block-megamenu">Show &mdash; Mega Menu</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-megamenu">Hide &mdash; Mega Menu</a>
+      
+              <ul class="clearfix menu">
+                    <li class="menu-item navigation-item menu-item--expanded">
+        
+                  <a href="/about-danaher" data-id="nav-menu-about-danaher" data-target="#nav-menu-001" class="has-menu" role="button" aria-expanded="false" aria-controls="#nav-menu-001">About Danaher</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item menu-item--expanded">
+        
+                  <a href="/approach" data-id="nav-menu-approach" data-target="#nav-menu-002" class="has-menu" role="button" aria-expanded="false" aria-controls="#nav-menu-002">Approach</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="/newsroom" data-id="nav-menu-news">News</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="/science" data-id="nav-menu-science">Science</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="/search" data-id="nav-menu-search">Search</a>
+        
+
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+    </div>
+  </div>
+
+<nav role="navigation" aria-labelledby="block-mobiletopmenu-menu" id="block-mobiletopmenu" class="mobile-top-menu block block-menu navigation menu--mobile-top-menu">
+            
+  <h2 class="visually-hidden" id="block-mobiletopmenu-menu">Mobile Top Menu</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mobiletopmenu"></div>
+      <div class="menu-toggle-target" id="hide-block-mobiletopmenu"></div>
+      <a class="menu-toggle" href="#show-block-mobiletopmenu">Show &mdash; Mobile Top Menu</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-mobiletopmenu">Hide &mdash; Mobile Top Menu</a>
+      
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+                    <a href="/search" class="search" data-drupal-link-system-path="search">Search</a>
+                      </li>
+                <li class="menu-item">
+                    <input type="checkbox" id="menu_checkbox">
+            <label class="hbm" for="menu_checkbox" tabindex="0">
+                <div></div>
+                <div></div>
+                <div></div>
+            </label>
+                      </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+    </div>
+  </div>
+
+                  <div class="region region-primary-menu">
+    
+<nav role="navigation" aria-labelledby="block-megamenu-2-menu" id="block-megamenu-2" class="navigation-menu-container block block-menu navigation menu--mega-menu">
+            
+  <h2 class="visually-hidden" id="block-megamenu-2-menu">Mega Menu</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-megamenu-2"></div>
+      <div class="menu-toggle-target" id="hide-block-megamenu-2"></div>
+      <a class="menu-toggle" href="#show-block-megamenu-2">Show &mdash; Mega Menu</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-megamenu-2">Hide &mdash; Mega Menu</a>
+      
+    
+                <nav class="navigation-menu-container">
+    
+          
+        
+                                                <div id="nav-menu-001" class="navigation-menu container is-hidden" aria-hidden="true">
+                        <div class="navigation-menu-content">
+                            <div class="navigation-menu-grid">
+            
+            
+            
+                
+          <ul class="clearfix menu" data-level=1 data-columns="3">
+    
+          
+                    <li class="menu-item menu-item--expanded" data-level=1>
+        
+            
+            
+            <a href="" class="heading">Who we are</a>
+                
+          <ul class="menu" data-level=2>
+    
+          
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/about-danaher" data-drupal-link-system-path="node/638">About Us</a>
+            
+                    
+
+                    </li>
+                  
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/about-danaher/leadership" data-drupal-link-system-path="node/639">Leadership</a>
+            
+                    
+
+                    </li>
+                  
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/our-businesses" data-drupal-link-system-path="node/630">Our Businesses</a>
+            
+                    
+
+                    </li>
+            
+            </ul>
+    
+  
+                    
+
+                    </li>
+                  
+                    <li class="menu-item menu-item--expanded" data-level=1>
+        
+            
+            
+            <a href="" class="heading">What we stand for</a>
+                
+          <ul class="menu" data-level=2>
+    
+          
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/about-danaher/sustainability" data-drupal-link-system-path="node/674">Sustainability</a>
+            
+                    
+
+                    </li>
+                  
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/about-danaher/diversity-equity-inclusion" data-drupal-link-system-path="node/677">DE+I</a>
+            
+                    
+
+                    </li>
+            
+            </ul>
+    
+  
+                    
+
+                    </li>
+            
+            </ul>
+    
+  
+                                    </div>
+                    </div>
+                </div>
+                    
+
+                  
+        
+                                                <div id="nav-menu-002" class="navigation-menu container is-hidden" aria-hidden="true">
+                        <div class="navigation-menu-content">
+                            <div class="navigation-menu-grid">
+            
+            
+            
+                
+          <ul class="clearfix menu" data-level=1 data-columns="3">
+    
+          
+                    <li class="menu-item menu-item--expanded" data-level=1>
+        
+            
+            
+            
+                
+          <ul class="menu" data-level=2>
+    
+          
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/approach" data-drupal-link-system-path="node/628">Our Process</a>
+            
+                    
+
+                    </li>
+                  
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/how-we-work/danaher-business-system" data-drupal-link-system-path="node/681">Danaher Business System</a>
+            
+                    
+
+                    </li>
+            
+            </ul>
+    
+  
+                    
+
+                    </li>
+                  
+                    <li class="menu-item menu-item--expanded" data-level=1>
+        
+            
+            
+            
+                
+          <ul class="menu" data-level=2>
+    
+          
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/how-we-work/acquisitions" data-drupal-link-system-path="node/625">Acquisitions</a>
+            
+                    
+
+                    </li>
+                  
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/how-we-work/partners" data-drupal-link-system-path="node/679">Partnership Initiatives</a>
+            
+                    
+
+                    </li>
+                  
+                    <li class="menu-item" data-level=2>
+        
+            
+            
+            <a href="/governance/suppliers" data-drupal-link-system-path="node/652">Suppliers</a>
+            
+                    
+
+                    </li>
+            
+            </ul>
+    
+  
+                    
+
+                    </li>
+            
+            </ul>
+    
+  
+                                    </div>
+                    </div>
+                </div>
+                    
+
+                  
+        
+            
+            
+            
+            
+                    
+
+                  
+        
+            
+            
+            
+            
+                    
+
+                  
+        
+            
+            
+            
+            
+                    
+
+            
+            </nav>
+    
+  
+
+
+    </div>
+  </nav>
+
+  </div>
+
+                <!-- mobile menu -->
+                  <div class="region container region-primary-menu-mobile">
+    
+<nav role="navigation" aria-labelledby="block-mobile-megamenu-menu" id="block-mobile-megamenu" class="navigation-menu-container mobile block block-menu navigation menu--mega-menu">
+            
+  <h2 class="visually-hidden" id="block-mobile-megamenu-menu">Mobile Mega Menu</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-mobile-megamenu"></div>
+      <div class="menu-toggle-target" id="hide-block-mobile-megamenu"></div>
+      <a class="menu-toggle" href="#show-block-mobile-megamenu">Show &mdash; Mobile Mega Menu</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-mobile-megamenu">Hide &mdash; Mobile Mega Menu</a>
+      
+                                          <div class="menu-panel" hidden aria-hidden="true" data-level="0" id="nav-mobile-menu-001">
+                            
+        <a href="/about-danaher" data-drupal-link-system-path="node/638">About Danaher</a>                                        <ul class="menu" data-level="1">
+                                  
+                   <li><a href="" class="heading">Who we are</a></li>
+                                                    <ul class="menu" data-level="2">
+                                  
+                   <li><a href="/about-danaher" data-drupal-link-system-path="node/638">About Us</a></li>
+                                              
+                              
+                   <li><a href="/about-danaher/leadership" data-drupal-link-system-path="node/639">Leadership</a></li>
+                                              
+                              
+                   <li><a href="/our-businesses" data-drupal-link-system-path="node/630">Our Businesses</a></li>
+                                              
+        </ul>
+  
+                          
+                              
+                   <li><a href="" class="heading">What we stand for</a></li>
+                                                    <ul class="menu" data-level="2">
+                                  
+                   <li><a href="/about-danaher/sustainability" data-drupal-link-system-path="node/674">Sustainability</a></li>
+                                              
+                              
+                   <li><a href="/about-danaher/diversity-equity-inclusion" data-drupal-link-system-path="node/677">DE+I</a></li>
+                                              
+        </ul>
+  
+                          
+        </ul>
+  
+                           </div>
+            
+                        <div class="menu-panel" hidden aria-hidden="true" data-level="0" id="nav-mobile-menu-002">
+                            
+        <a href="/approach" data-drupal-link-system-path="node/628">Approach</a>                                        <ul class="menu" data-level="1">
+                                  
+                   <li><a href="" class="hidden">Column 1</a></li>
+                                                    <ul class="menu" data-level="2">
+                                  
+                   <li><a href="/approach" data-drupal-link-system-path="node/628">Our Process</a></li>
+                                              
+                              
+                   <li><a href="/how-we-work/danaher-business-system" data-drupal-link-system-path="node/681">Danaher Business System</a></li>
+                                              
+        </ul>
+  
+                          
+                              
+                   <li><a href="" class="hidden">Column 2</a></li>
+                                                    <ul class="menu" data-level="2">
+                                  
+                   <li><a href="/how-we-work/acquisitions" data-drupal-link-system-path="node/625">Acquisitions</a></li>
+                                              
+                              
+                   <li><a href="/how-we-work/partners" data-drupal-link-system-path="node/679">Partnership Initiatives</a></li>
+                                              
+                              
+                   <li><a href="/governance/suppliers" data-drupal-link-system-path="node/652">Suppliers</a></li>
+                                              
+        </ul>
+  
+                          
+        </ul>
+  
+                           </div>
+            
+                        <div class="menu-panel" hidden aria-hidden="true" data-level="0" id="nav-mobile-menu-003">
+                            
+                   <li><a href="/newsroom" data-drupal-link-system-path="node/704">News</a></li>
+                                               </div>
+            
+                        <div class="menu-panel" hidden aria-hidden="true" data-level="0" id="nav-mobile-menu-004">
+                            
+                   <li><a href="/science" data-drupal-link-system-path="node/640">Science</a></li>
+                                               </div>
+            
+                        <div class="menu-panel" hidden aria-hidden="true" data-level="0" id="nav-mobile-menu-005">
+                            
+                   <li><a href="/search" class="search" data-drupal-link-system-path="search">Search</a></li>
+                                               </div>
+            
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+<nav role="navigation" aria-labelledby="block-megamenu-mobile-toplevel-menu" id="block-megamenu-mobile-toplevel" class="mobile navigation-menu-containermobile block block-menu navigation menu--mega-menu">
+            
+  <h2 class="visually-hidden" id="block-megamenu-mobile-toplevel-menu">Mega Menu Mobile - Top Level</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-megamenu-mobile-toplevel"></div>
+      <div class="menu-toggle-target" id="hide-block-megamenu-mobile-toplevel"></div>
+      <a class="menu-toggle" href="#show-block-megamenu-mobile-toplevel">Show &mdash; Mega Menu Mobile - Top Level</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-megamenu-mobile-toplevel">Hide &mdash; Mega Menu Mobile - Top Level</a>
+      
+              <ul class="clearfix menu">
+                    <li class="menu-item navigation-item menu-item--expanded">
+        
+                  <a href="/about-danaher" data-id="nav-menu-about-danaher" data-target="#nav-mobile-menu-001" class="has-menu" role="button" aria-expanded="false" aria-controls="#nav-menu-001">About Danaher</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item menu-item--expanded">
+        
+                  <a href="/approach" data-id="nav-menu-approach" data-target="#nav-mobile-menu-002" class="has-menu" role="button" aria-expanded="false" aria-controls="#nav-menu-002">Approach</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="/newsroom" data-id="nav-menu-news">News</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="/science" data-id="nav-menu-science">Science</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="/search" data-id="nav-menu-search">Search</a>
+        
+
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+<nav role="navigation" aria-labelledby="block-infomenu-2-menu" id="block-infomenu-2" class="info-menu block block-menu navigation menu--info-menu">
+            
+  <h2 class="visually-hidden" id="block-infomenu-2-menu">Info Menu</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-infomenu-2"></div>
+      <div class="menu-toggle-target" id="hide-block-infomenu-2"></div>
+      <a class="menu-toggle" href="#show-block-infomenu-2">Show &mdash; Info Menu</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-infomenu-2">Hide &mdash; Info Menu</a>
+      
+              <ul class="clearfix menu">
+      <li class="menu-item navigation-item"><div class="wd_widget" data-wd_widget-id="gexRyEYy4Wqn" data-wd_widget-host="//investors.danaher.com">Loading data...</div></li>
+                    <li class="menu-item navigation-item">
+        
+                  <a href="https://investors.danaher.com/" data-id="nav-menu-investors">Investors</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="https://jobs.danaher.com/global/en" data-id="nav-menu-careers">Careers</a>
+        
+
+              </li>
+                <li class="menu-item navigation-item">
+        
+                  <a href="/global-locations" data-id="nav-menu-global-locations">Global locations</a>
+        
+
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+  </div>
+
+              </div>
+            </div>
+      </header>
+
+    
+    
+          <div class="highlighted">
+        <aside class="layout-container section clearfix" role="complementary">
+            <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+        </aside>
+      </div>
+        
+          <!-- begin search panel -->
+      <div id="search-panel" class="search-view container-fluid">
+        <button type="button" class="search-close" aria-label="Close"></button>
+        <div class="view-filters search">
+          <form class="views-exposed-form bef-exposed-form" data-drupal-selector="views-exposed-form-search-content-search" action="/search" method="get" id="views-exposed-form-search-content-search" accept-charset="UTF-8">
+              <div class="form--inline clearfix">
+                <div class="js-form-item form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-keys form-item-keys search-custom">
+                    <label for="edit-keys">Search</label>
+                    <input data-drupal-selector="edit-keys" data-search-api-autocomplete-search="search_content" class="form-autocomplete form-text ui-autocomplete-input" data-autocomplete-path="/search_api_autocomplete/search_content?display=search&amp;&amp;filter=keys" type="text" id="edit-keys" name="keys" value="Search all Danaher" size="30" maxlength="128" placeholder="Search all of Danaher" data-once="autocomplete search-api-autocomplete" autocomplete="off">
+                    <button class="clear">Clear</button>
+                </div>
+                <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+                    <input data-drupal-selector="edit-submit-search-content" type="submit" id="edit-submit-search-content" value="Search" class="button js-form-submit form-submit">
+                </div>
+              </div>
+          </form>
+        </div>
+      </div>
+      <!-- end search panel --> 
+
+    <div id="main-wrapper" class="layout-main-wrapper clearfix">
+      <div id="main" class="layout-main clearfix">
+        
+        <main id="content" class="column main-content">
+          <section class="section">
+            <a id="main-content" tabindex="-1"></a>
+              <div class="region region-hero">
+    <div id="block-danaher-contentfield" class="block block-fieldblock block-fieldblocknode">
+  
+    
+      <div class="content">
+      
+  <div class="field field--name-field-hero field--type-entity-reference-revisions field--label-hidden field__items">
+        <div class="field__item">
+  <div class="paragraph hero module container-fluid hero--basic-hero paragraph--type--basic-hero paragraph--view-mode--default">
+            <div class="text-content container">
+            
+  <h1 class="section-title field field--name-field-headline field--type-string field--label-hidden field__items">Terms of Use
+  </h1>
+        </div>
+      </div>
+</div>
+  </div>
+    </div>
+  </div>
+
+  </div>
+
+              <div class="region region-breadcrumb">
+    <div id="block-danaher-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+      <div class="content">
+      
+  <nav class="breadcrumb container" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+
+            
+        </ol>
+  </nav>
+
+    </div>
+  </div>
+
+  </div>
+
+            <div id="pagecontent">
+                <div class="region region-content">
+    <div id="contentstart" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+<article data-history-node-id="702" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+          
+      </header>
+  <div class="node__content clearfix">
+      <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-paragraph-blocks block-paragraph-fieldnodefield-widgets0page">
+  
+    
+      <div class="content">
+      
+    
+  
+  <div class="paragraph body-content container module paragraph--type--wysiwig paragraph--view-mode--default single-column">
+
+
+                  <div class='col-md-8 offset-md-4'>
+            
+            
+  <div class="section-body clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__items"><p>PLEASE READ THESE TERMS (“TERMS”) CAREFULLY BEFORE YOU USE THIS WEBSITE. USING THIS WEBSITE INDICATES THAT YOU ACCEPT THESE TERMS; IF YOU DO NOT ACCEPT THESE TERMS, DO NOT USE THIS WEBSITE. &nbsp;IF YOU BREACH ANY OF THE TERMS, YOUR AUTHORIZATION TO USE THIS WEBSITE WILL IMMEDIATELY TERMINATE AND YOU MUST IMMEDIATELY DESTROY ALL DOWNLOADED OR PRINTED MATERIALS.</p><p><strong>Use of Website</strong>. &nbsp;Danaher Corporation ("Danaher") authorizes you to view and download the materials at this website ("Website") only for your personal, non-commercial use, provided that you retain on any copies of the materials all copyright and other proprietary notices contained in the original materials. The materials at this Website are copyrighted and may also be subject to other legal rights, and unauthorized use of any materials at this Website may violate applicable law. You may not (1) modify the materials at this Website in any way or reproduce or publicly display, perform, or distribute or otherwise use them for any public or commercial purpose, or (2) make any part of this Website available as part of another website whether by hyperlink or otherwise. For purposes of these Terms, any use of these materials on any other website or networked computer environment for any purpose is prohibited.</p><p><strong>Links to Other Websites</strong>. &nbsp;Except as required by law, Danaher does not endorse and makes no representations or warranties whatsoever about any other website which you may choose to access through this Website, or any information, software or other products or materials found there.&nbsp;The links that Danaher provides to such websites are provided solely for your convenience and if you access these links, you will leave this Website and access such links at your own risk. Danaher does not control and except as required by law is not responsible for any of these websites or their content.</p><p><strong>Disclaimer and Limitation of Liability</strong>. &nbsp;THE MATERIALS PROVIDED AT THIS WEBSITE ARE PROVIDED "AS IS" WITHOUT ANY WARRANTIES OF ANY KIND INCLUDING WARRANTIES OF QUALITY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY. IN NO EVENT WILL DANAHER, ANY OF ITS SUBSIDIARIES OR ANY THIRD PARTIES MENTIONED AT THIS WEBSITE BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOST PROFITS, LOST DATA OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE, INABILITY TO USE, OR THE RESULTS OF USE OF THIS WEBSITE, ANY WEBSITES LINKED TO THIS WEBSITE, OR THE MATERIALS OR INFORMATION CONTAINED AT ANY OR ALL SUCH WEBSITES, WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. APPLICABLE LAW MAY NOT ALLOW THE EXCLUSION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES AND/OR THE EXCLUSION OF IMPLIED REPRESENTATIONS AND WARRANTIES, SO SOME OR ALL OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU. In addition, Danaher does not warrant (1) that this Website or its server are free from errors or viruses, worms or “Trojan horses”, or (2) the accuracy and completeness of the materials at this Website.&nbsp;The materials at this Website may be out of date, and except as required by law Danaher makes no commitment to update the materials at this Website. In addition, Danaher may make changes to the materials at this Website at any time without notice.</p><p><strong>User Submissions</strong>. You are prohibited from transmitting to or from this Website any material that would violate any law. &nbsp;Any information or other communication you transmit to this Website will be considered non-confidential and non-proprietary, and Danaher will be free to use such materials for any purpose whatsoever without obligation to you. In particular, Danaher may store your personally identifiable information in hard copy format and electronic media, and in Danaher's databases that may be located in another country, subject to our <a href="https://www.danaher.com/data-privacy-policy">Privacy Policy</a>.</p><p><strong>Applicable Laws</strong>. &nbsp;Danaher administers this Website from the United States and does not represent or warrant that the materials at this Website are appropriate or available for use outside the United States.&nbsp;Access to this Website and its content from jurisdictions where such content is illegal is prohibited and you may not use, export or re-export the content at this Website or any copy or adaptation in violation of any applicable laws or regulations including without limitation United States export laws and regulations. If you access this Website from outside the United States, you do so on your own initiative and are responsible for compliance with applicable local laws. In addition, information published at this Website may refer to products, programs or services that are not available in your country. These Terms will be governed by and construed in accordance with the laws of the State of Delaware, without giving effect to any principles of conflicts of laws.</p><p><strong>General</strong>. &nbsp;Danaher may revise these Terms at any time by updating this posting. You should visit this page from time to time to review the then-current Terms because they are binding on you. Certain provisions of these Terms may be superseded by expressly designated legal notices or terms located on particular pages at this Website.</p><p><strong>Revised November 2020</strong></p>
+  </div>
+        </div>
+            </div>
+
+    </div>
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+</article>
+
+    </div>
+  </div>
+
+  </div>
+
+            </div>
+            
+          </section>
+        </main>
+                      </div>
+    </div>
+        <footer class="site-footer">
+      <div class="layout-container">
+          <div class="region region-footer-top">
+    <div id="block-danaher-footertopleft" class="footer-top-left block block-blockgroup block-block-groupfooter-top-left">
+  
+    
+      <div class="content">
+      <div id="block-danaher-sitelogo-2" class="block block-block-content block-block-content3d9b899d-2727-4e2a-9081-df743a8249b9">
+  
+    
+      <div class="content">
+      
+  <figure class="site-logo field field--name-field-logo field--type-entity-reference field--label-hidden field__items">  
+
+
+  
+<img loading="lazy" class="no-image-style image-style-footer-logo-style" src="/sites/default/files/2023-07/logo.svg" width="160" height="60" alt="Danaher"   />
+
+
+
+
+  </figure>
+    </div>
+  </div>
+
+
+<div id="block-danaher-taglineimage" class="block block-fixed-block-content block-fixed-block-contenttagline-image">
+        <div class="content">
+                      <a href=" ">
+            
+      
+  <figure class="tagline-logo field field--name-field-logo field--type-entity-reference field--label-hidden field__items">  
+
+
+  
+<img loading="lazy" class="no-image-style image-style-tagline-image" src="/sites/default/files/2023-11/danaher_innovation_tagline.svg" alt="Innovation at the speed of life"   />
+
+
+
+
+  </figure>
+
+              </a>
+          </div>
+  </div>
+
+    </div>
+  </div>
+
+<nav role="navigation" aria-labelledby="block-footertoplinks-menu" id="block-footertoplinks" class="block block-menu navigation menu--footer-top-links">
+            
+  <h2 class="visually-hidden" id="block-footertoplinks-menu">Footer Top Links</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-footertoplinks"></div>
+      <div class="menu-toggle-target" id="hide-block-footertoplinks"></div>
+      <a class="menu-toggle" href="#show-block-footertoplinks">Show &mdash; Footer Top Links</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-footertoplinks">Hide &mdash; Footer Top Links</a>
+      
+
+
+
+              <ul class="clearfix menu" data-level=0>
+                    <li class="menu-item menu-item--expanded">
+          
+        	<div class="accordion collapse--alternate collapse--alternate-icon" role="region" aria-label="Accordion">
+		        <div class="panel-group">
+                    <div class="card-body paragraph paragraph--type--accordion-section paragraph--view-mode--default">
+                        <div class="collapse-item">
+                            
+                            
+                                                          <button class="collapse-trigger mobile"  data-toggle="collapse" data-target="#collapse-item-footer-about-danaher" aria-expanded="true" aria-controls="collapse-item-footer-about-danaher">About Danaher</button>
+                                                        <a href="javascript:void(0);" class="collapse-trigger desktop"  aria-expanded="true">About Danaher</a>
+
+        
+                  
+					<div id="collapse-item-footer-about-danaher" class="collapse-target collapsed collapse show" aria-expanded="true" style="">
+						<div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__items">
+                                              <ul class="menu"  data-level=1>
+                    <li class="menu-item">
+                    <a href="/about-danaher" data-drupal-link-system-path="node/638">About Danaher</a>
+        
+              </li>
+                <li class="menu-item">
+                    <a href="/about-danaher/leadership" data-drupal-link-system-path="node/639">Leadership</a>
+        
+              </li>
+                <li class="menu-item">
+                    <a href="/our-businesses" data-drupal-link-system-path="node/630">Our Businesses</a>
+        
+              </li>
+                <li class="menu-item">
+                    <a href="/about-danaher/sustainability" data-drupal-link-system-path="node/674">Sustainability</a>
+        
+              </li>
+                <li class="menu-item">
+                    <a href="/about-danaher/diversity-equity-inclusion" data-drupal-link-system-path="node/677">DE+I</a>
+        
+              </li>
+                <li class="menu-item">
+                    <a href="/governance" data-drupal-link-system-path="node/678">Governance</a>
+        
+              </li>
+        </ul>
+  
+						</div>
+					</div>
+
+				</div>
+			</div>
+        </div>
+	</div>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          
+        	<div class="accordion collapse--alternate collapse--alternate-icon" role="region" aria-label="Accordion">
+		        <div class="panel-group">
+                    <div class="card-body paragraph paragraph--type--accordion-section paragraph--view-mode--default">
+                        <div class="collapse-item">
+                            
+                            
+                                                          <button class="collapse-trigger mobile"  data-toggle="collapse" data-target="#collapse-item-footer-how-we-work" aria-expanded="true" aria-controls="collapse-item-footer-how-we-work">How we work</button>
+                                                        <a href="javascript:void(0);" class="collapse-trigger desktop"  aria-expanded="true">How we work</a>
+
+        
+                  
+					<div id="collapse-item-footer-how-we-work" class="collapse-target collapsed collapse show" aria-expanded="true" style="">
+						<div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__items">
+                                              <ul class="menu"  data-level=1>
+                    <li class="menu-item">
+                    <a href="/approach" data-drupal-link-system-path="node/628">Our Process</a>
+        
+              </li>
+                <li class="menu-item">
+                    <a href="/how-we-work/danaher-business-system" data-drupal-link-system-path="node/681">Danaher Business System</a>
+        
+              </li>
+                <li class="menu-item">
+                    <a href="/how-we-work/acquisitions" data-drupal-link-system-path="node/625">Acquisitions</a>
+        
+              </li>
+                <li class="menu-item">
+                    <a href="/how-we-work/partners" data-drupal-link-system-path="node/679">Partnership Initiatives</a>
+        
+              </li>
+        </ul>
+  
+						</div>
+					</div>
+
+				</div>
+			</div>
+        </div>
+	</div>
+
+              </li>
+                <li class="menu-item menu-item--expanded">
+          
+        	<div class="accordion collapse--alternate collapse--alternate-icon" role="region" aria-label="Accordion">
+		        <div class="panel-group">
+                    <div class="card-body paragraph paragraph--type--accordion-section paragraph--view-mode--default">
+                        <div class="collapse-item">
+                            
+                            
+                                                          <button class="collapse-trigger mobile" data-toggle="collapse" data-target="#collapse-item-footer-fourth-column" aria-expanded="true" date-stayopen="true" aria-controls="collapse-item-footer-fourth-column">Fourth Column</button>
+                                                         <a href="javascript:void(0);" class="collapse-trigger desktop"  aria-expanded="true">Fourth Column</a>
+
+        
+                  
+					<div id="collapse-item-footer-fourth-column" class="collapse-target collapsed collapse show" aria-expanded="true" style="">
+						<div class="clearfix text-formatted field field--name-field-body field--type-text-long field--label-hidden field__items">
+                                              <ul class="menu"  data-level=1>
+                    <li class="menu-item">
+                    <a href="/science" data-drupal-link-system-path="node/640">Science</a>
+        
+              </li>
+                <li class="menu-item">
+                    <a href="/newsroom" data-drupal-link-system-path="node/704">News</a>
+        
+              </li>
+        </ul>
+  
+						</div>
+					</div>
+
+				</div>
+			</div>
+        </div>
+	</div>
+
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+  </div>
+
+          <div class="region region-footer-bottom">
+    <div id="block-socialmedialinks" class="block-social-media-links block block-social-media-links-block">
+  
+    
+      <div class="content">
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a class="social-media-link-icon--linkedin" href="https://www.linkedin.com/company/danaher/"  aria-label="LinkedIn">
+        <span class='fab fa-linkedin fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--twitter" href="https://www.twitter.com/DanaherCorp"  aria-label="Twitter">
+        <span class='fab fa-twitter fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--facebook" href="https://www.facebook.com/danahercorporation"  aria-label="Facebook">
+        <span class='fab fa-facebook fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--youtube" href="https://www.youtube.com/@danahercorporation"  aria-label="Youtube">
+        <span class='fab fa-youtube fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a class="social-media-link-icon--instagram" href="https://www.instagram.com/danahercorporation"  aria-label="Instagram">
+        <span class='fab fa-instagram fa-2x'></span>
+      </a>
+
+          </li>
+  </ul>
+
+    </div>
+  </div>
+<div id="block-danaher-footerbottomrightside" class="footer-bottom-right-side block block-blockgroup block-block-groupfooter-bottom-right-side">
+  
+    
+      <div class="content">
+      
+<nav role="navigation" aria-labelledby="block-footerbottomleftside-menu" id="block-footerbottomleftside" class="block block-menu navigation menu--footer-bottom-left-side">
+            
+  <h2 class="visually-hidden" id="block-footerbottomleftside-menu">Footer Bottom Left side</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-footerbottomleftside"></div>
+      <div class="menu-toggle-target" id="hide-block-footerbottomleftside"></div>
+      <a class="menu-toggle" href="#show-block-footerbottomleftside">Show &mdash; Footer Bottom Left side</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-footerbottomleftside">Hide &mdash; Footer Bottom Left side</a>
+      
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="https://investors.danaher.com/" target="_blank">Investors</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://jobs.danaher.com/global/en" target="_blank">Careers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/global-locations" data-drupal-link-system-path="node/700">Global locations</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contact" data-drupal-link-system-path="node/662">Contact</a>
+              </li>
+                <li class="menu-item">
+        <a href="/cookie-notice" data-drupal-link-system-path="node/731">Cookie notice</a>
+              </li>
+                <li class="menu-item">
+        <a href="/data-privacy-policy" data-drupal-link-system-path="node/730">Privacy policy</a>
+              </li>
+                <li class="menu-item menu-item--active-trail">
+        <a href="/terms-and-conditions" data-drupal-link-system-path="node/702" class="is-active">Terms and conditions</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+<nav role="navigation" aria-labelledby="block-footerbottom-menu" id="block-footerbottom" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footerbottom-menu">Footer Bottom</h2>
+  
+
+        <div class="content">
+            <div class="menu-toggle-target menu-toggle-target-show" id="show-block-footerbottom"></div>
+      <div class="menu-toggle-target" id="hide-block-footerbottom"></div>
+      <a class="menu-toggle" href="#show-block-footerbottom">Show &mdash; Footer Bottom</a>
+      <a class="menu-toggle menu-toggle--hide" href="#hide-block-footerbottom">Hide &mdash; Footer Bottom</a>
+      
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+                                  <a tabindex="0" href="#" class="ot-sdk-show-settings">Cookie settings</a>
+                            </li>
+                <li class="menu-item">
+                                  <a tabindex="0" href="/california-consumer-rights-notice" class="">Do not sell or share my data</a>
+                            </li>
+                <li class="menu-item">
+                                  <a tabindex="0" href="/california-transparency-supply-chains-act" class="">California Transparency in Supply Chains Act</a>
+                            </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+    </div>
+  </div>
+
+  </div>
+
+        
+      </div>
+    </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/702","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxtkFFuxCAMRC_EwpGiAdyErsEIk3bp6UtWbVZK-2X7ecaWBu94LCyI1Bxeve1bE--pGY_W090FhuqwHkoXlEkVK-kFF4mncmXx4Jv2wamsJkgjV6RlcPoiE1GwHe_DXMQk5SQXHz36rHcX217B9mc0jCF7X2LSIB_UhpNCQdhUNKwNddNfx4vYvdTdc9KNoqnCfEpmfzvOqlEJCbxkignLE7k3KR2fpJLJBsl1fir9P-FfNBOlTEaHdsruyPEbYnqUFg","theme":"danaher","theme_token":null},"ajaxTrustedUrl":[],"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-circle\u0022\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-circle-dot\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":true,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"before","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"user":{"uid":0,"permissionsHash":"94889b0b00f5b879117d2b216b38d420948d753d30850bb7108ba8f2d965f0d6"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.2.3"></script>
+<script src="/core/misc/drupal.js?v=10.2.3"></script>
+<script src="/core/misc/drupal.init.js?v=10.2.3"></script>
+<script src="/core/misc/debounce.js?v=10.2.3"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/core/misc/progress.js?v=10.2.3"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.2.0"></script>
+<script src="/core/misc/announce.js?v=10.2.3"></script>
+<script src="/core/misc/message.js?v=10.2.3"></script>
+<script src="/core/misc/ajax.js?v=10.2.3"></script>
+<script src="/modules/contrib/ajax_loader/js/ajax-throbber.js?v=1.x"></script>
+<script src="/libraries/choices.js/public/assets/scripts/choices.min.js?sjxp4x"></script>
+<script src="/themes/custom/danaher/js/cookie.js?sjxp4x"></script>
+<script src="/themes/custom/danaher/js/slick/slick.js?sjxp4x"></script>
+<script src="/libraries/hoverintent/dist/hoverintent.min.js?sjxp4x"></script>
+<script src="/themes/custom/danaher/js/transition.js?sjxp4x"></script>
+<script src="/themes/custom/danaher/js/navigation.js?sjxp4x"></script>
+<script src="/themes/custom/danaher/js/global.js?sjxp4x"></script>
+<script src="/themes/custom/danaher/js/scroll-animation.js?sjxp4x"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=10.2.3"></script>
+<script src="/themes/custom/danaher/js/collapse/collapse-native.js?v=1.x"></script>
+<script src="/themes/custom/danaher/js/collapse/collapse.js?v=1.x"></script>
+
+    <script src="https://privacyportalde-cdn.onetrust.com/privacy-notice-scripts/otnotice-1.0.min.js" type="text/javascript" charset="UTF-8" id="otprivacy-notice-script"></script>
+  </body>
+</html>

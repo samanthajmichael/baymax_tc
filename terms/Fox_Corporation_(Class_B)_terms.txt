@@ -1,0 +1,820 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.6.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Terms of Use - foxcorporation</title>
+	<link rel="canonical" href="https://www.foxcorporation.com/terms-of-use/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Terms of Use - foxcorporation" />
+	<meta property="og:description" content="PLEASE READ THESE TERMS OF USE OF USE CAREFULLY BEFORE USING THIS WEBSITE. Access to and use of this website (www.FoxCorporation.com) (this “Site”) is provided by Fox Corporation (“Fox” or “Company”) subject to the following terms (“Terms of Use”):  Acceptance of Terms By visiting and using this Site you agree that you will abide by&hellip;" />
+	<meta property="og:url" content="https://www.foxcorporation.com/terms-of-use/" />
+	<meta property="og:site_name" content="foxcorporation" />
+	<meta property="article:modified_time" content="2024-04-24T13:20:34+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="21 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.foxcorporation.com/terms-of-use/","url":"https://www.foxcorporation.com/terms-of-use/","name":"Terms of Use - foxcorporation","isPartOf":{"@id":"https://www.foxcorporation.com/#website"},"datePublished":"2019-02-12T17:56:06+00:00","dateModified":"2024-04-24T13:20:34+00:00","breadcrumb":{"@id":"https://www.foxcorporation.com/terms-of-use/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.foxcorporation.com/terms-of-use/"]}]},{"@type":"BreadcrumbList","@id":"https://www.foxcorporation.com/terms-of-use/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.foxcorporation.com/"},{"@type":"ListItem","position":2,"name":"Terms of Use"}]},{"@type":"WebSite","@id":"https://www.foxcorporation.com/#website","url":"https://www.foxcorporation.com/","name":"foxcorporation","description":"Fox Corporation","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.foxcorporation.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.foxcorporation.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//ok1static.oktacdn.com' />
+<link rel='dns-prefetch' href='//unpkg.com' />
+<link rel='dns-prefetch' href='//use.typekit.net' />
+<link rel="alternate" type="application/rss+xml" title="foxcorporation &raquo; Feed" href="https://www.foxcorporation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="foxcorporation &raquo; Comments Feed" href="https://www.foxcorporation.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.foxcorporation.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.foxcorporation.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foxcorp-gutenberg-css' href='https://www.foxcorporation.com/wp-content/themes/foxcorporation/gutenberg/style-acf-gutenberg-blocks.css?ver=1704303605' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.foxcorporation.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='foxcorporation-style-css' href='https://www.foxcorporation.com/wp-content/themes/foxcorporation/style.css?ver=1704303605' type='text/css' media='all' />
+<link rel='stylesheet' id='foxcorporation-fonts-css' href='https://use.typekit.net/mxz5gvr.css?ver=55028844449' type='text/css' media='all' />
+<link rel='stylesheet' id='okta-css-css' href='https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.9.0/css/okta-sign-in.min.css?ver=55028844449' type='text/css' media='all' />
+<link rel='stylesheet' id='okta-theme-css-css' href='https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.9.0/css/okta-theme.css?ver=55028844449' type='text/css' media='all' />
+<link rel='stylesheet' id='tippy-css-css' href='https://unpkg.com/tippy.js@5/dist/backdrop.css?ver=55028844449' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.foxcorporation.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.foxcorporation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.foxcorporation.com/wp-content/themes/foxcorporation/js/main.js?ver=1704303605' id='main-script-js'></script>
+<script type='text/javascript' src='https://www.foxcorporation.com/wp-content/themes/foxcorporation/js/nav-menu.js?ver=1704303605' id='foxcorporation-nav-menu-js'></script>
+<script type='text/javascript' src='https://www.foxcorporation.com/wp-content/themes/foxcorporation/js/search.js?ver=1704303605' id='foxcorporation-search-js'></script>
+<script type='text/javascript' src='//cdn.jsdelivr.net/npm/pikaday/pikaday.js?ver=55028844449' id='pikaday-js-js'></script>
+<script type='text/javascript' src='https://ok1static.oktacdn.com/assets/js/sdk/okta-signin-widget/2.9.0/js/okta-sign-in.min.js?ver=55028844449' id='okta-js-js'></script>
+<script type='text/javascript' src='https://unpkg.com/popper.js@1?ver=55028844449' id='popper-js-js'></script>
+<script type='text/javascript' src='https://unpkg.com/tippy.js@5?ver=55028844449' id='tippy-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.foxcorporation.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.foxcorporation.com/wp-json/wp/v2/pages/578" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.foxcorporation.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.foxcorporation.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<link rel='shortlink' href='https://www.foxcorporation.com/?p=578' />
+<link rel="alternate" type="application/json+oembed" href="https://www.foxcorporation.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.foxcorporation.com%2Fterms-of-use%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.foxcorporation.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.foxcorporation.com%2Fterms-of-use%2F&#038;format=xml" />
+		<style type="text/css">
+			.page-container .rich-text > div:not(.module) a,
+			.page-container .rich-text > section:not(.module) a,
+			.page-container .rich-text > p:not(.module) a {
+			  border-bottom: 1px solid #d2232b;
+			}
+
+			button:not(.tooltip):not(.slick-dot):not(.pika-day):not(.pika-next):not(.pika-prev):not(.news-search__reset):not(.toc-close):not(.slick-arrow):not(.nav__button):not(.video-button):not(.modaal-close),
+			.fox-download-wrapper .download-button-wrapper a,
+			.news-strip-container .news-wrapper .news-item-wrapper .news-item-footer a,
+			.business-item__contact-link,
+			.download-table-container .download-table-wrapper a.pdf-icon-btn:before,
+			.page-container .rich-text > div:not(.module) a.pdf-icon-btn:before,
+			.page-container .rich-text > section:not(.module) a.pdf-icon-btn:before,
+			.page-container .rich-text > p:not(.module) a.pdf-icon-btn:before {
+			  border-color: #d2232b !important;
+			}
+
+			.slider-container button:not(.tooltip):not(.news-search__reset):not(.toc-close):not(.slick-arrow):not(.nav__button):not(.video-button):not(.modaal-close) {
+			  border-color: transparent !important;
+			  padding: 0;
+			}
+
+			.slider-container button:not(.tooltip):not(.news-search__reset):not(.toc-close):not(.slick-arrow):not(.nav__button):not(.video-button):not(.modaal-close)[aria-selected="true"] {
+			  border-color: #151515 !important;
+			}
+
+		</style>
+		  <style type="text/css">
+		  .header { background-color: #00263E; }
+		  .header .header__logo svg path { fill: #E5E5E5 }
+	  </style>
+			<style type="text/css">
+			.footer { background-color: #00263E; color: #E5E5E5 }
+			.footer .footer__logo-wrapper .footer__logo svg path { fill: #E5E5E5; }
+			.footer .social-links a svg path { fill: #666666; }
+			.footer .social-links a:hover svg path { fill: #00B9EA; }
+			.footer .footer__menu li { color: #e5e5e5; }
+			.footer .footer__menu li a:hover { color: #e5e5e5; }
+			.footer .legal__list li a { color: #939393; border-bottom: 1px solid #939393; }
+			.footer .legal__list li a:hover { color: #939393; border-bottom: 1px solid #939393; }
+		</style>
+		  <style type="text/css">
+		.news-nav a, .news-nav .menu-item a {
+		  color: #939393;
+		}
+		.news-nav a[aria-current="page"], .news-nav .current-menu-item a {
+		  border-bottom: 1px solid #D2232B;
+		  color: #fff;
+		}
+
+		.news-content-wrapper {
+		  background-color: #E5E5E5;
+		}
+
+		.news-content-wrapper .news-item {
+		  color: #00263E;
+		}
+
+		.news-content-wrapper .pagination .page-numbers,
+		.news-category-content-wrapper .pagination .page-numbers {
+		  color: #666666;
+		}
+
+		.news-content-wrapper .pagination .page-numbers.current,
+		.news-category-content-wrapper .pagination .page-numbers.current {
+		  color: #D2232B;
+		}
+
+		.news-content-wrapper .pagination .prev svg, 
+		.news-content-wrapper .pagination .next svg,
+		.news-category-content-wrapper .pagination .prev svg,
+		.news-category-content-wrapper .pagination .next svg {
+		  fill: #666666;
+		}
+
+		.news-category-content-wrapper {
+		  background-color: #E5E5E5;
+		}
+
+		.news-category-content-wrapper .news-item {
+		  color: #00263E;
+		}
+
+		.annual-archives__link {
+		  color: #666666;
+		  border: 2px solid #C5C5C5;
+		}
+
+		.annual-archives__link[aria-current="page"] {
+		  color: #00263E;
+		  border: 2px solid #D2232B;
+		}
+
+		.single-news .breadcrumbs__link {
+		  color: #00263E;
+		}
+
+		.single-news .breadcrumbs__link a {
+		  border-bottom: 1px solid #00263E;
+		}
+
+		.news-search__label {
+		  color: #00263E;
+		}
+
+		.news-search__date-wrapper .news-search__input,
+		.news-search__select-wrapper .news-search__select,
+		.news-search__input,
+		.news-search__input[type="text"] {
+		  color: #666;
+		}
+
+		.news-search__submit {
+		  color: #00263E;
+		  border: 1px solid #D2232B;
+		}
+
+		.news-search__reset {
+		  color: #666666;
+		  border: 1px solid #666666;
+		}
+	  </style>
+		  <style type="text/css">
+		.business-content-wrapper { color: #00263e; }
+
+		.business-content-wrapper .pagination .page-numbers {
+		  color: #666666;
+		}
+
+		.business-content-wrapper .pagination .page-numbers.current {
+		  color: #D2232B;
+		}
+
+		.business-content-wrapper .pagination .prev svg, 
+		.business-content-wrapper .pagination .next svg {
+		  fill: #666666;
+		}
+
+		.single-business main { color: #00263e; background-color: #e5e5e5; }
+
+		.single-business .news-latest { color: #00263E; }
+		.single-business .news-latest p.news-date span { color: #00263E; border-bottom: 1px solid #d2232b; }
+		.single-business .news-latest .news-item-footer a { color: #00263E; border: 1px solid #d2232b; }
+
+	  </style>
+		  <style type="text/css">
+		.management-item__content p { color: #00263e; }
+	  </style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css" id="wp-custom-css">
+			.page-id-3169 .page-container .rich-text > h2:not(.module):first-child {
+	border-top: none;
+	padding-top: 0;
+}
+
+.page-id-5075 .page-container .rich-text > ul:not(.module) {
+	padding-left:25px;
+	margin-top:-20px;
+}
+
+.page-id-6 .business-logos-wrapper .business-logo.size-large img {
+	max-height: 90px;
+}
+
+.page-id-5184 p.banner-pretext {
+	border-bottom: none !important;
+	line-height: 1.1;
+	font-family: urw-din, sans-serif !important;
+	font-weight: 700;
+}
+
+ @media (min-width: 60rem) {
+.page-id-5184	.banner-contents .banner-content-wrapper {
+		width: 100% !important;
+		padding-left:10%;
+}
+.page-id-348	.banner-contents .banner-content-wrapper {
+		width: 100% !important;
+}
+.page-id-348 h2.column-contents-header{
+		 font-weight:700;
+	 }
+}
+
+.page-id-5184 p{
+	font-family: urw-din;
+	line-height:1.5;
+}
+
+.page-id-5184 .banner-header {
+	font-weight: 500;
+}
+
+.page-id-5184 div.col-contents.col2.custom-font {
+	padding-left: 7%;
+	padding-top: 14%;
+}
+
+.page-id-5184 a{
+	color: inherit;
+	text-decoration: none;
+} 
+.page-id-5184 div.col-contents.col2.custom-font a{
+	color: #0d6efd;
+	text-decoration: underline;
+}
+
+@media only screen and (max-width: 992px){
+.page-id-5184 .experience-slide-img {
+      max-width: 100% !important;
+      height: 400px !important;
+    }
+.page-id-5184 .img-fluid {
+      height: 350px !important;
+    }
+}
+
+@media only screen and (max-width: 768px){
+	.page-id-5184 .experience-slide-img {
+      max-width: 100%;
+      height: auto;
+    }
+  .page-id-5184  .img-fluid {
+      max-width: 100%;
+      height: auto !important;
+    }
+	.page-id-5184 .experience-slide-text h2{
+		margin-top: -6em;
+	}
+}
+
+
+
+		</style>
+		
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/icon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/icon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/icon/favicon-16x16.png">
+	<link rel="manifest" href="https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/icon/site.webmanifest">
+	<link rel="mask-icon" href="https://www.foxcorporation.com/wp-content/themes/foxcorporation/images/icon/safari-pinned-tab.svg" color="#004c97">
+	<meta name="msapplication-TileColor" content="#00263e">
+	<meta name="theme-color" content="#00263e">
+	<meta name="google-site-verification" content="VczmmITCpj2g8pGSjpWfO2Vql9cXt9AB81vKBXrdT80">
+	<!-- Global (Main) site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128752877-17"></script> 	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-128752877-17');
+	</script>
+
+</head>
+
+<body class="page-template-default page page-id-578">
+	<div class="site-content">
+		<header role="banner" class="header">
+						<div class="header__container">
+				<a href="#content" class="skip-link screen-reader-text">Skip to content</a>
+
+				<a href="https://www.foxcorporation.com/" class="header__logo-link">
+					<span class="screen-reader-text">Fox Corporation Home</span>
+					<span class="header__logo"><svg aria-hidden="true" tabindex="-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 29"><g fill="#FEFEFE" fill-rule="evenodd"><path d="M0 0v29h8.18l-.021-9.375h8.03v-7.912H8.226V7.929H18L17.463 0zM57.98 0l-3.519 6.261L51.01 0h-9.518l8.323 13.998L41 28.983l9.251.017 4.097-7.348 4.149 7.331H68l-8.978-15.082L67.181 0z"/><path d="M31.04 22.089a2.376 2.376 0 0 1-2.377-2.376l.003-11.47c0-1.311 1.061-2.485 2.374-2.485 1.311 0 2.478 1.174 2.478 2.486v11.502c0 1.313-1.167 2.343-2.479 2.343M31 0c-7.732 0-14 6.268-14 14s6.268 14 14 14 14-6.268 14-14S38.733 0 31 0"/></g></svg>
+</span>
+				</a>
+
+									<nav role="navigation" class="nav" data-component="siteMenu">
+	<button id="nav-button" class="nav__button" aria-expanded="false" aria-controls="main-search" aria-owns="main-search">
+		<span class="screen-reader-text">Menu</span>
+		<span class="nav__button-icon"></span>
+	</button>
+	<div id="main-nav" class="nav__wrapper" aria-hidden="true">
+		<div id="main-search" class="nav__search" aria-hidden="true">
+			<form name="header-nav-search" class="nav__search__form" role="search" action="https://www.foxcorporation.com/">
+				<label for="header-search-input" class="screen-reader-text">Search Fox Corporation</label>
+				<input id="header-search-input" class="nav__search__input" type="text" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search" name="s">
+								<span class="nav__search__icon"><svg aria-hidden="true" tabindex="-1" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg"><path d="M60 54.82L45.423 40.225a25.14 25.14 0 0 0 4.879-14.916v-.12C50.274 13.485 42.238 3.335 30.886.666 19.535-2 7.845 3.512 2.643 13.986-2.558 24.46.093 37.149 9.048 44.643a25.075 25.075 0 0 0 31.194.805L54.829 60 60 54.82zM25.091 43.164c-9.807-.067-17.71-8.09-17.665-17.935.044-9.845 8.019-17.796 17.826-17.774 9.807.022 17.746 8.01 17.746 17.854v.122c-.072 9.858-8.086 17.795-17.907 17.733z"/></svg>
+</span>
+			</form>
+		</div><!-- .nav__search -->
+
+		<ul id="menu-primary" class="main-menu"><li id="menu-item-5492" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5492"><a href="#"><span class="nav-text">About Us</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1757" class="about-us menu-item menu-item-type-custom menu-item-object-custom menu-item-1757"><a href="/about-us/"><span class="nav-text">Fox Corporation</span></a></li>
+	<li id="menu-item-1761" class="businesses menu-item menu-item-type-custom menu-item-object-custom menu-item-1761"><a href="/businesses/"><span class="nav-text">Fox Businesses</span></a></li>
+</ul>
+</li>
+<li id="menu-item-5494" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5494"><a href="#"><span class="nav-text">Leadership</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1759" class="executive-team menu-item menu-item-type-custom menu-item-object-custom menu-item-1759"><a href="/management/executive-team/"><span class="nav-text">Executive Team</span></a></li>
+	<li id="menu-item-1769" class="board-committees menu-item menu-item-type-custom menu-item-object-custom menu-item-1769"><a href="/corporate-governance/board-committees/"><span class="nav-text">Board Committees</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1762" class="management menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1762"><a href="#"><span class="nav-text">Investor</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-1763" class="investor-home menu-item menu-item-type-custom menu-item-object-custom menu-item-1763"><a href="https://investor.foxcorporation.com/"><span class="nav-text">Investor Home</span></a></li>
+	<li id="menu-item-1764" class="sec-filings menu-item menu-item-type-custom menu-item-object-custom menu-item-1764"><a href="https://investor.foxcorporation.com/reports/sec-filings"><span class="nav-text">SEC Filings</span></a></li>
+	<li id="menu-item-1765" class="investor-events menu-item menu-item-type-custom menu-item-object-custom menu-item-1765"><a href="https://investor.foxcorporation.com/news-and-events/events-and-presentations"><span class="nav-text">Events</span></a></li>
+	<li id="menu-item-1766" class="investor-contact menu-item menu-item-type-custom menu-item-object-custom menu-item-1766"><a href="https://investor.foxcorporation.com/investor-resources/contact-us"><span class="nav-text">Contact Us</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1767" class="news menu-item menu-item-type-custom menu-item-object-custom menu-item-1767"><a href="/news/press-releases/"><span class="nav-text">News</span></a></li>
+<li id="menu-item-1768" class="corp-governance menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1768"><a href="#"><span class="nav-text">Corporate Governance and Responsibility</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5495" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5495"><a href="#"><span class="nav-text">Governance</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1770" class="business-conduct menu-item menu-item-type-custom menu-item-object-custom menu-item-1770"><a href="/corporate-governance/sobc/"><span class="nav-text">Standards of Business Conduct</span></a></li>
+		<li id="menu-item-1771" class="statement-of-cp menu-item menu-item-type-custom menu-item-object-custom menu-item-1771"><a href="/corporate-governance/statement-corporate-governance/"><span class="nav-text">Statement of Corporate Governance</span></a></li>
+		<li id="menu-item-5071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5071"><a href="https://www.foxcorporation.com/fox-corporation-global-anti-bribery-and-anti-corruption-policy/"><span class="nav-text">GLOBAL ANTI-BRIBERY AND ANTI-CORRUPTION POLICY</span></a></li>
+		<li id="menu-item-2949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2949"><a href="https://www.foxcorporation.com/insider-trading-and-confidentiality-policy/"><span class="nav-text">INSIDER TRADING AND CONFIDENTIALITY POLICY</span></a></li>
+		<li id="menu-item-3958" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3958"><a href="https://www.foxcorporation.com/political-activities-policy/"><span class="nav-text">Political Activities</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-5534" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5534"><a href="https://www.foxcorporation.com/political-activities-policy/"><span class="nav-text">Political Activities Policy</span></a></li>
+			<li id="menu-item-3957" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3957"><a href="https://media.foxcorporation.com/wp-content/uploads/prod/2024/02/07050729/Political-Activities-Report-2023.pdf"><span class="nav-text">Political Activities Report</span></a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-5496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5496"><a href="#"><span class="nav-text">Social</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-3234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3234"><a href="#"><span class="nav-text">CORPORATE SOCIAL RESPONSIBILITY REPORTS</span></a>
+		<ul class="sub-menu">
+			<li id="menu-item-5987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5987"><a href="https://media.foxcorporation.com/wp-content/uploads/prod/2024/08/20190232/FOX-CSR-2024-August-2024-2.pdf"><span class="nav-text">2024 CSR Report</span></a></li>
+			<li id="menu-item-5147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5147"><a href="https://media.foxcorporation.com/wp-content/uploads/prod/2024/08/19023831/FOX-CSR-2023.pdf"><span class="nav-text">2023 CSR Report</span></a></li>
+			<li id="menu-item-4350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4350"><a href="https://media.foxcorporation.com/wp-content/uploads/prod/2022/08/24150057/FOX-2022-Corporate-Social-Responsibiliy-Report-August-24-2022.pdf"><span class="nav-text">2022 CSR Report</span></a></li>
+			<li id="menu-item-3814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3814"><a href="https://media.foxcorporation.com/wp-content/uploads/prod/2022/08/12112529/FOX_CSR_21_DIGITAL_VIEW_NEW.pdf"><span class="nav-text">2021 CSR Report</span></a></li>
+			<li id="menu-item-3813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3813"><a href="https://media.foxcorporation.com/wp-content/uploads/prod/2020/09/22232613/FOX-CSR-Report-2020.pdf"><span class="nav-text">2020 CSR Report</span></a></li>
+		</ul>
+</li>
+		<li id="menu-item-2951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2951"><a href="https://www.foxcorporation.com/human-rights-statement/"><span class="nav-text">HUMAN RIGHTS STATEMENT</span></a></li>
+		<li id="menu-item-3214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3214"><a href="https://www.foxcorporation.com/preventing-harassment-discrimination-and-retaliation/"><span class="nav-text">Preventing Harassment, Discrimination and Retaliation</span></a></li>
+		<li id="menu-item-2950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2950"><a href="https://www.foxcorporation.com/doing-business-with-fox/"><span class="nav-text">Doing Business with FOX</span></a></li>
+		<li id="menu-item-3811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3811"><a href="https://www.foxcorporation.com/eeo-1-data/"><span class="nav-text">Employer Information Report</span></a></li>
+		<li id="menu-item-1772" class="statement-of-cp menu-item menu-item-type-custom menu-item-object-custom menu-item-1772"><a href="/corporate-governance/workplace-civility-and-inclusion/"><span class="nav-text">Workplace Civility and Inclusion</span></a></li>
+		<li id="menu-item-1773" class="inclusion menu-item menu-item-type-custom menu-item-object-custom menu-item-1773"><a href="/culture-belonging/"><span class="nav-text">Culture &#038; Belonging</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-5497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5497"><a href="https://www.foxcorporation.com/sustainability/"><span class="nav-text">Sustainability</span></a></li>
+</ul>
+</li>
+<li id="menu-item-1774" class="careers menu-item menu-item-type-custom menu-item-object-custom menu-item-1774"><a href="https://www.foxcareers.com"><span class="nav-text">Careers</span></a></li>
+</ul>	</div>
+</nav>
+							</div>
+		</header><!-- .header -->
+
+		<main id="content" role="main">
+	
+					<style type="text/css">
+				#menubar-119 { background-color: #004C97; }
+				#menubar-119 ul li a { color: #939393; }
+				#menubar-119 .current-menu-item a { color: #fff; border-bottom: 1px solid #D2232B;}
+			</style>
+
+							<div class="page-header-banner" style="background-color: #00263e;">
+					<div class="page-header-wrapper">
+													<h1 style="color: #fff">Terms of Use</h1>
+																	</div>
+				</div>
+						
+					
+			<article id="post-578" class="post-578 page type-page status-publish hentry" style="background-color: #e5e5e5;">
+													<section class="page-container">
+																			<div class="page-container__content rich-text layout1">
+												
+<p>PLEASE READ THESE TERMS OF USE OF USE CAREFULLY BEFORE USING THIS WEBSITE. Access to and use of this website (<a href="https://www.foxcorporation.com/">www.FoxCorporation.com</a>) (this “Site”) is provided by Fox Corporation (“Fox” or “Company”) subject to the following terms (“Terms of Use”): </p>
+
+
+
+<h3 class="wp-block-heading">Acceptance of Terms</h3>
+
+
+
+<p>By visiting and using this Site you agree that you will abide by the terms and conditions of this Agreement just as if you signed this Agreement. This includes your agreement to any future modifications, and to abide by all applicable laws, rules and regulations. If you do not agree with any of these Terms of Use, please do not use this Site. Please note that these Terms of Use may be revised and reissued without notice at any time by updating this posting. Your continued use of this Site will be deemed acceptance of any revisions. Affiliates of Fox (“Affiliated Companies”) operate a large number of websites, mobile applications and other services associated with their businesses, brands and products, which may have terms of use that differ from these Terms of Use. These Terms of Use do not apply to websites, mobile applications and other services offered by Affiliated Companies. A list of Affiliated Companies is located at <a href="https://www.foxcorporation.com/businesses/">https://www.foxcorporation.com/businesses/</a></p>
+
+
+
+<p>IMPORTANT NOTICE REGARDING DISPUTE RESOLUTION: BY USING THIS SITE AND/OR ACCEPTING THIS AGREEMENT, YOU AND WE ARE AGREEING (WITH LIMITED EXCEPTIONS) TO RESOLVE ANY DISPUTE BETWEEN US THROUGH A DISPUTE RESOLUTION PROCEDURE DESCRIBED IN THE <a href="#arbitration">ARBITRATION SECTION</a>&nbsp;BELOW. YOU AND COMPANY WAIVE THE RIGHT TO BRING OR PARTICIPATE IN A CLASS ACTION IN CONNECTION WITH SUCH DISPUTES. PLEASE REVIEW CAREFULLY <a href="#arbitration">THE ARBITRATION SECTION</a>&nbsp;BELOW TITLED “INFORMAL DISPUTE RESOLUTION PROCEDURE, ARBITRATION AGREEMENT AND CLASS ACTION WAIVER” BELOW FOR DETAILS REGARDING THIS DISPUTE RESOLUTION PROCEDURE (INCLUDING THE PROCEDURE TO OPT OUT OF ARBITRATION).</p>
+
+
+
+<h3 class="wp-block-heading">Access</h3>
+
+
+
+<p>Company may change, suspend or discontinue this Site (or any feature thereof) at any time.&nbsp; Company may also impose limits on certain features and services offered on this Site or restrict your access to parts or all of this website without notice or liability.&nbsp; You acknowledge that from time to time the website may be inaccessible or inoperable for any reason, including, without limitation: (i) equipment malfunctions; (ii) periodic maintenance procedures or repairs which Company may undertake from time to time; or (iii) causes beyond the control of Company or which are not reasonably foreseeable by Company.</p>
+
+
+
+<h3 class="wp-block-heading">Legal Disclaimer</h3>
+
+
+
+<p>This Site has been prepared solely for the purpose or providing information about Fox and the services and products Fox and its Affiliated Companies offer. This Site has been compiled in good faith by Fox. However, no representation is made as to the completeness or accuracy of the information on this Site. In particular, you should be aware that this information may be incomplete, may contain errors or may have become out of date. The reports filed by Fox with the Securities and Exchange Commission and listed on this Site speak only as of date of the respective report or reporting period indicated on the respective report Fox makes no commitment, and disclaims any duty, to update any of those reports to reflect subsequent events or circumstances except as required by law. Fox reserves the right to add, modify or delete any information on this Site at any time.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Content on this Website</h3>
+
+
+
+<p>This Site and the content and materials contained on this Site (collectively, “Content”) are protected by copyrights, patents, trade secrets or other intellectual property and proprietary rights under the laws of the United States and other countries. Fox respects the intellectual property rights of others and asks users of this Site to do the same.</p>
+
+
+
+<p>Your right to make use of this Site and any Content appearing on it is subject to your compliance with these Terms of Use. This Site and any Content appearing on it may be used only for your personal and non-commercial use. You agree not to copy, reproduce, modify, display, perform, publish, create derivative works from, or store any content or materials appearing on this Site, without the express prior written consent of Fox.&nbsp; You may not, without the Company’s written permission, “mirror” any Content contained on the Site or any other server.&nbsp; You may not use the Site for any purpose that is unlawful or prohibited by the Agreement.&nbsp; You may not use the Site in any manner that could damage, disable, overburden, or impair the Site, or interfere with any other party’s use and enjoyment of the Site.&nbsp; You may not attempt to gain unauthorized access to the Site through hacking, password mining or any other means.&nbsp; Company reserves the right, in its sole discretion, to terminate your access to the Site, or any portion thereof, at any time, for any reason or for no reason at all, without prior notice or any notice.</p>
+
+
+
+<p>You will not use the Company services or Content available on or through the Company services &#8211; inclusive of text, photographs, images, audio/video clips, “look and feel,” metadata, or compilations of the Company services and/or Company Content for the development of any software program, including, but not limited to, training or otherwise developing a machine learning or artificial intelligence system or algorithm.</p>
+
+
+
+<p>Use or modification of the Content on this Site for any purpose not permitted by these Terms of Use is prohibited.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Notice and Procedure for Making Claims of Copyright Infringement</h3>
+
+
+
+<p>If you are a copyright owner or an agent thereof and believe that any Content on this Site infringes your copyright, you may submit a notification pursuant to the Digital Millennium Copyright Act by providing our Designated Agent (as set forth below) with the following information in writing:</p>
+
+
+
+<ul>
+<li>Your physical or electronic signature or the physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;</li>
+
+
+
+<li>Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works on this Site are covered by a single notification, a representative list of such works on this Site;</li>
+
+
+
+<li>Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material;</li>
+
+
+
+<li>Information reasonably sufficient to permit us to contact you, such as an address, telephone number, and, if applicable, e-mail address;</li>
+
+
+
+<li>A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent or the law; and</li>
+
+
+
+<li>A statement by you that the information in the notification is accurate, and under penalty of perjury, that you are the copyright owner or you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
+</ul>
+
+
+
+<p>Written notification of claimed infringement must be submitted to the following Designated Agent:</p>
+
+
+
+<p> Fox Corporation<br> Attn: Copyright Agent<br> 2121 Avenue of the Stars, Suite 1200<br> Los Angeles, CA 90067<br> Email:&nbsp; <a href="mailto:FoxDMCA@fox.com">FoxDMCA@fox.com</a> </p>
+
+
+
+<p>Fox Corporation will respond expeditiously to claims of copyright infringement and reserves the right to remove any Content that infringes the copyright of any person under the laws of the United States upon receipt of a notice that complies with the requirements of 17 U.S.C. §512(c)(3) as set forth above. The Company has a policy of terminating repeat infringers’ access to our websites in appropriate circumstances.</p>
+
+
+
+<p>For clarity, only notices of claims for alleged copyright infringement should be sent to the Designated Agent.</p>
+
+
+
+<h3 class="wp-block-heading">Privacy</h3>
+
+
+
+<p>Details of how we process any personal data you provide to Company, including in connection with your use of the Company services can be found in our Privacy Policy located at&nbsp; <a href="http://www.foxcorporation.com/privacy-policy/">Privacy Policy</a>, which is incorporated into and is part of these Terms by this reference.</p>
+
+
+
+<h3 class="wp-block-heading">External Links and Services</h3>
+
+
+
+<p>Company may provide, or third parties may provide, links to other websites, applications, resources or other services created by unaffiliated third parties (“External Services”), such as Facebook and Twitter. When you engage with a provider of an External Service, you are interacting with the unaffiliated third party, not with Company.&nbsp; If you choose to use an External Service and share information with it, the provider of the External Service may use and share your data in accordance with its privacy policy and your privacy settings on such External Service.&nbsp; Company encourages you not to provide any personally identifiable information to or through any External Service unless you know and are comfortable with the party with whom you are interacting.&nbsp; In addition, the provider of the External Service may use other parties to provide portions of the application or service to you, such as technology, development or other services.&nbsp; When you access External Services, you do so at your own risk.</p>
+
+
+
+<h3 class="wp-block-heading">Disclaimer of Warranties</h3>
+
+
+
+<p>YOUR USE OF THIS WEBSITE IS AT YOUR OWN RISK. THIS WEBSITE AND ALL CONTENT, INFORMATION, SOFTWARE AND OTHER MATERIALS CONTAINED OR USED IN THE OPERATION OF THIS WEBSITE, ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.&nbsp; TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, COMPANY EXPRESSLY DISCLAIMS ANY WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT AND WARRANTIES IMPLIED FOR A COURSE OF PERFORMANCE OR COURSE OF DEALING, AS WELL AS ANY GUARANTY OR ASSURANCE THE WEBSITE OR ANY CONTENT, INFORMATION, SOFTWARE AND OTHER MATERIALS WILL BE AVAILABLE, UNINTERRUPTED OR ERROR FREE. IF APPLICABLE LAW DOES NOT ALLOW THE EXCLUSION OF SOME OR ALL OF THE ABOVE IMPLIED WARRANTIES TO APPLY TO YOU, THE ABOVE EXCLUSIONS WILL APPLY TO YOU ONLY TO THE EXTENT PERMITTED BY APPLICABLE LAW.&nbsp; TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, COMPANY WILL NOT BE RESPONSIBLE FOR ANY LOSS OR DAMAGE (INCLUDING BUT NOT LIMITED TO LOSS OF DATA, PROPERTY DAMAGE, PERSONAL INJURY OR DEATH) RESULTING FROM USE OF THIS WEBSITE, PROBLEMS OR TECHNICAL MALFUNCTION IN CONNECTION WITH ITS USE, ATTENDANCE AT A COMPANY EVENT, ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED IN CONNECTION WITH THIS WEBSITE, ANY THIRD PARTY ADVERTISEMENT OR THIRD PARTY SERVICE TRANSMITTED ON, THROUGH OR IN CONNECTION WITH THIS WEBSITE.&nbsp; YOUR USE OF USER CONTENT, THIRD PARTY ADVERTISEMENTS, THIRD PARTY SERVICES AND THE GOODS OR SERVICES PROVIDED BY ANY THIRD PARTIES IS SOLELY YOUR RESPONSIBILITY AND AT YOUR OWN RISK.&nbsp; YOU ACKNOWLEDGE AND AGREE THAT YOUR USE OF THIS WEBSITE, AND ANY INFORMATION TRANSMITTED OR RECEIVED IN CONNECTION THEREWITH, MAY NOT BE SECURE AND MAY BE INTERCEPTED BY UNAUTHORIZED PARTIES.&nbsp; WITHOUT LIMITING THE FOREGOING, FOX IS NOT RESPONSIBLE OR LIABLE FOR ANY MALICIOUS CODE, DELAYS, INACCURACIES, ERRORS, OR OMISSIONS ARISING OUT OF YOUR USE OF THIS WEBSITE.&nbsp; TO THE FULLEST EXTENT PERMITTED BY LAW, YOU ASSUME RESPONSIBILITY FOR THE ENTIRE COST OF ANY MAINTENANCE, REPAIR OR CORRECTION TO YOUR COMPUTER SYSTEM OR OTHER PROPERTY OR RECOVERY OR RECONSTRUCTION OF LOST DATA NECESSITATED BY YOUR USE OF THE COMPANY SERVICES.</p>
+
+
+
+<h3 class="wp-block-heading">Limitation of Liability</h3>
+
+
+
+<p>NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, FOX’S LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO FOX FOR THE WEBSITE DURING THE TERM OF YOUR USE OF THE WEBSITE. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, FOX WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DAMAGES OTHER THAN THE AMOUNT PAID, IF ANY, BY YOU TO FOX FOR THE WEBSITE DURING THE TERM OF YOUR USE OF THE WEBSITE, INCLUDING ANY OTHER GENERAL, DIRECT, INDIRECT, COMPENSATORY, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, AND INCLUDING, WITHOUT LIMITATION, LOST PROFIT DAMAGES ARISING FROM YOUR USE OF OR INABILITY TO USE THE WEBSITE.&nbsp;</p>
+
+
+
+<p>YOU ACKNOWLEDGE AND AGREE THAT ANY DAMAGES YOU INCUR ARISING OUT OF COMPANY’S ACTS OR OMISSIONS OR YOUR USE OF THIS WEBSITE ARE NOT IRREPARABLE AND ARE INSUFFICIENT TO ENTITLE YOU TO AN INJUNCTION OR OTHER EQUITABLE RELIEF RESTRICTING THE AVAILABILITY OF OR ANY PERSON’S ABILITY TO ACCESS ANY PORTION OF THIS WEBSITE.</p>
+
+
+
+<p>THE LIMITATIONS IN THIS SECTION APPLY WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF ANY SUCH DAMAGES. FOR CLARIFICATION, THIS AGREEMENT DOES NOT LIMIT COMPANY’S LIABILITY FOR FRAUD, FRAUDULENT MISREPRESENTATION, DEATH, OR PERSONAL INJURY TO THE EXTENT THAT APPLICABLE LAW WOULD PROHIBIT SUCH A LIMITATION.</p>
+
+
+
+<h3 class="wp-block-heading" id="arbitration">Informal Dispute Resolution Procedure, Arbitration Agreement and Class Action Waiver</h3>
+
+
+
+<p>So that Company can maintain the ability to offer you and other users the Company service, you and we agree to the following mechanisms for resolving any Dispute between us:</p>
+
+
+
+<p><strong>(1) Dispute. </strong>The term “Dispute” is to be given the broadest possible meaning that will be enforced, and shall include any dispute, claim, demand, count, cause of action, or controversy between you and Company, whether based in contract, statute, regulation, ordinance, tort (including, but not limited to, fraud, misrepresentation, fraudulent inducement, negligence, or any other intentional tort), or any other legal or equitable theory. The term “Dispute” specifically includes, but is not limited to, any disputes, actions, claims, or controversies between you and Company that arise from or in any way relate to or concern any Content, the Site or services provided by Company including but not limited to the Company services, this Section, any other aspect of this Agreement or any prior versions of this Agreement (including their applicability and their conformance to applicable law), and any disputes relating to telephonic, text message, or any other communications either of us received from the other. The only exceptions to this Section are that: (i) each of you and Company retains the right to sue in small claims court; (ii) each of you and Company may bring suit in court against the other to enjoin infringement or other misuse of intellectual property rights; and (iii) each of you and Company may bring suit in court to determine the enforceability of Sub-Section (2) and/or Sub-Section (11).</p>
+
+
+
+<p><strong>(2) Mandatory Informal Dispute Resolution Process.</strong> You and Company agree that good-faith, informal efforts to resolve disputes often can result in a prompt, cost-effective, and mutually beneficial outcome. Therefore, if either you or Company wants to bring or resolve a Dispute, you or Company must follow the mandatory informal dispute resolution process as a precondition to the ability to file an arbitration demand or lawsuit:</p>
+
+
+
+<ul>
+<li><strong>(a) Notice. </strong>You or Company must first send to the other a written Notice of Dispute (“Notice”) that sets forth the name, address, and contact information of the party giving notice, the specific facts giving rise to the Dispute, the Company service to which the Notice relates, and the relief requested, including damages, if any, and a detailed calculation for them. Your Notice also must contain your email address and (if different) the email address associated with your Company account (if you have an account with Company). Our Notice must also be sent to your email address associated with your Company account (if you have an account with Company), and you consent to receive any such Notice as part of these dispute resolution terms. You and we must include in any Notice to each other a personally signed statement (from you or us—not from your or our counsel) verifying the accuracy of the contents of the Notice, and if you are represented by counsel, your signed statement authorizing Company to disclose your Company account details to your attorney while seeking to resolve your claim. We each must individualize our Notice, meaning it can concern only our Dispute and no other person’s Dispute. You must send your Notice to Company by email to <a href="mailto:Arbitration-Notice@fox.com"><span style="text-decoration: underline;">Arbitration-Notice@fox.com</span></a>&nbsp; or by mail to: Arbitration Notice of Dispute, Fox Corporation, 2121 Avenue of the Stars, Suite 1200, Los Angeles, California, 90067. In the case of a Dispute initiated by you or us, it is the sender’s responsibility to prove that the sender provided the notice in the manner that is required in this paragraph.</li>
+
+
+
+<li><strong>(b) Good Faith Effort to Informally Resolve Dispute. </strong>After receipt of a completed Notice, the parties shall engage in a good faith effort to resolve the Dispute for a period of 60 days (which can be extended by agreement). You and Company agree that, after receipt of the completed Notice, the recipient may request an individualized telephone or video settlement conference and both parties will personally attend (with counsel, if represented). You and Company agree that the parties (and counsel, if represented) shall work cooperatively to schedule the conference at the earliest mutually convenient time and to seek to reach a resolution. If you and Company do not reach an agreement to resolve the issues identified in the Notice within 60 days after the completed Notice is received (or a longer time if agreed to by the parties), you or Company may commence a proceeding as noted below.</li>
+</ul>
+
+
+
+<p><strong>(3) Arbitration Agreement.</strong> If you and we do not resolve the Dispute within 60 days of the submission of the Notice in accordance with the Informal Dispute Resolution Procedures, Company, including its Affiliates, agents, employees, predecessors in interest, successors, and assigns, and you agree that any Dispute between you and Company, regarding any aspect of your relationship with Company, will be resolved in a binding, confidential, individual and fair arbitration process, and not in court, subject to the exceptions noted in Sub-Section (7) below. Thus, subject to those exceptions, <strong>you and Company agree to give up the right to sue in court, including that you and Company agree to waive their right to a jury trial.</strong></p>
+
+
+
+<p><strong>(4) Controlling Law Regarding Arbitration Process and Agreement to Arbitrate.</strong> This Agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act (“FAA”), 9 U.S.C. §§ 1–16, governs the interpretation and enforcement of the provisions in this Section related to the arbitration process. The agreements in this Section shall survive termination of the Agreement. Any original action to compel arbitration under Section 4 of the FAA (or analogous state law) must be brought in a state or federal court located in New York City, unless mandated by law to be filed in another state or federal court. If the FAA is found to not apply to any issue regarding the interpretation or enforcement of the parties’ agreement to arbitrate, then that issue shall be determined by the laws of the State of New York. Any arbitration between you and Company will be administered by the American Arbitration Association (“AAA”) pursuant to their then-applicable rules, including their mass arbitration supplementary rules and mass arbitration fee schedule, as applicable, as modified by this Section. AAA’s rules and fee schedules can be found at <a href="http://www.adr.org">www.adr.org</a>&nbsp;. Except in the event of a Mass Filing as described in k. Related Cases and Mass Filings Sub-Section (11) below, the arbitration shall be conducted by a single, neutral arbitrator. If you and Company cannot agree on an arbitrator, the arbitrator will be appointed pursuant to the AAA’s rules.</p>
+
+
+
+<p><strong>(5) Alternative Arbitration Provider. </strong>If AAA is not available to arbitrate, including because it is not able to administer the arbitration(s) consistent with the rules, procedures, and terms of this Section, including those described in Sub-Section (11), the parties will select an alternative arbitration provider. If the parties cannot agree on an appropriate alternative arbitration provider, then the parties will ask a court of competent jurisdiction to appoint an arbitrator pursuant to 9 U.S.C. § 5 that is able to administer the arbitration(s) consistent with the rules, procedures, and terms of this Section, including, as applicable, Sub-Section (11). This Section will govern to the extent it conflicts with the arbitration provider’s rules. For arbitrations before the AAA, the AAA’s Consumer Arbitration Rules and Optional Rules For Emergency Measures of Protection shall apply.</p>
+
+
+
+<p><strong>(6) Filing Fee and Costs. </strong>The initiating party must pay all filing fees for the arbitration. Your and Company’s responsibility to pay other administrative and arbitrator costs will be as set forth in the applicable arbitration provider’s rules, unless the arbitrator determines the claims are frivolous. If a claim is determined to be frivolous, the claimant is responsible for reimbursing the respondent for its portion of all such administrative, hearing, and/or other fees incurred as a result of the frivolous claim.</p>
+
+
+
+<p><strong>(7) Waiver of Fees and Costs. </strong>You may qualify for a waiver of certain arbitration costs under the applicable arbitration provider’s rules or other applicable law. If you meet the standard for proceeding in forma pauperis in federal court, the state court of your residence, or the state court where the arbitration is brought, cannot obtain a waiver from the arbitration provider of any filing fees you are required to pay, and the arbitration provider refuses to administer the arbitration without your payment of said fees, Company will pay the filing fees for you.</p>
+
+
+
+<p><strong>(8) Enforceability of Certain Provisions of this Section. </strong>Notwithstanding Sub-Section (3). through Sub-Section (7), a claim regarding enforceability of any portion of Sub-Section (2). and/or Sub-Section (11). Must be brought in federal or state court. Courts shall have the exclusive authority to determine: (i) the enforceability of any or all of the procedures set forth in Sub-Section (2). and/or Sub-Section (11); and (ii) if any or all the procedures set forth in Sub-Section (2) and/or Sub-Section (11). are unenforceable, whether that or those procedures are severable from the remaining provisions of this Section and the consequences of said severance. If the court determines that Sub-Section (2). is enforceable, it will also decide whether the party seeking to arbitrate the Dispute complied with the process in Sub-Section (2).</p>
+
+
+
+<p><strong>(9) You and Company also agree to give up the ability to seek to represent, in a class action or otherwise, anyone but each of you and Company, including in arbitration and in state or federal court. Therefore:</strong></p>
+
+
+
+<p>YOU AND COMPANY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, REPRESENTATIVE OR MULTI-CLAIMANT PROCEEDING, AND THE ARBITRATOR SHALL HAVE NO POWER TO AWARD CLASS-WIDE RELIEF.</p>
+
+
+
+<p><strong>(10) </strong>You understand there is no judge or jury in arbitration, and court review of an arbitration award is limited. An arbitrator must follow the dispute resolution process described in this Section. Subject to Sub-Section (8), the arbitrator has exclusive authority to resolve all issues relating to the parties’ Dispute. The arbitrator will have the authority to grant motions dispositive of all or part of any claim. The arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief, or statutory damages); provided that they are recoverable under this Agreement. The arbitrator will issue a written award and statement of decision describing the essential findings and conclusions on which the award is based, including the calculation of any damages awarded. The award of the arbitrator is final and binding upon you and us.</p>
+
+
+
+<p><strong>(11) Related Cases and Mass Filings.</strong> If your Notice involves claims similar to those of at least 25 other customers, and if you and those other customers are represented by the same lawyers, or by lawyers who are coordinating with each other, or if Company asserts 25 or more similar demands for arbitration or counterclaims against similarly-situated parties, within a period of 60 days or otherwise close in proximity, you and we agree that these claims will be related (“<strong>Related Cases</strong>”), and this shall be called a “<strong>Mass Filing</strong>.” The following procedures will apply to a Mass Filing:</p>
+
+
+
+<ul>
+<li>(a) <em>Acknowledgment of Related Cases procedure.</em>&nbsp;If you or Company, or your or our counsel, files a demand for arbitration that has Related Cases, then you and we agree that the demand for arbitration shall be subject to the additional protocols set forth in this Sub-Section (11). If the parties disagree as to whether a series of filings fits within the definition of Mass Filing above, the arbitration provider shall resolve the disagreement. You and we also acknowledge that the adjudication of the dispute may be delayed and that any applicable statute of limitations shall be tolled from the time of filing of the demand for arbitration, and pending resolution of the proceedings described in this Sub-Section (11).</li>
+
+
+
+<li>(b) <em>Bellwether Arbitrations.</em>&nbsp;Bellwether proceedings are encouraged by courts and arbitration administrators where there are multiple disputes involving similar claims against the same or related parties. The parties shall select ten individual arbitration claims (five per side), designated the “Initial Test Cases,” to proceed to arbitration. Only the Initial Test Cases shall be filed with the arbitrator. All other claims shall be held in abeyance. This means that the filing fees will be paid only for the Initial Test Cases; for all other demands for arbitration, the filing fees (together with any arbitrator consideration of the other demands) will be in abeyance, and neither You nor Company will be required to pay any such filing fees. You and Company also agree that neither you nor we shall be deemed to be in breach of this Section for failure to pay any such filing fees, and that neither you nor we shall be entitled to any contractual, statutory, or other remedies, damages, or sanctions of any kind for failure to pay any such filing fees. If, pursuant to this Sub-Section (11), a party files non-Bellwether Arbitrations with the arbitration provider, the parties agree that the arbitration provider shall hold those demands in abeyance and not refer them to the arbitrator pending resolution of the Initial Test Cases. Unless the claims are resolved in advance or the schedule is extended, the arbitrators will render a final award for the Initial Test Cases within 120 days of the initial pre-hearing conference.</li>
+
+
+
+<li>(c)<em> Global Mediation.</em>&nbsp;Following the resolution of the Initial Test Cases, the parties agree to engage in a global mediation of all the remaining individual arbitration claims (“Global Mediation”), deferring any filing costs associated with the non-Initial Test Cases until the Initial Test Cases and subsequent Global Mediation have concluded. After the final awards are provided to the mediator in the Initial Test Cases, the mediator and the parties shall have 90 days to agree upon a substantive methodology and make an offer to resolve the outstanding cases. If the Parties are unable to resolve the outstanding claims during the Global Mediation, the unresolved Disputes may then be administered by the arbitration provider pursuant to this Agreement’s Batch Arbitration provision below and the arbitrator’s fee schedule for mass filings, unless the parties mutually agree otherwise in writing. You and we also acknowledge that any applicable statute of limitations shall be tolled pending resolution of the Bellwether Arbitration and Global Mediation process.</li>
+
+
+
+<li>(d) <em>Batch Arbitration.</em>&nbsp;To increase the efficiency of administration and resolution of arbitrations, you and Company agree that in the event the Bellwether Arbitration and Global Mediation processes described above do not resolve the Disputes, the arbitration provider will (1) administer the remaining arbitration demands in batches of 50 demands per batch; (2) appoint one arbitrator for each batch; and (3) provide for the resolution of each batch as a single consolidated arbitration with one set of filing and administrative fees due per side per batch, one procedural calendar, one hearing (if any) in a place to be determined by the arbitrator, and one final award (“Batch Arbitration”). The final award will provide for individual merit decisions for each separate claimant within the single batch arbitration award. If the arbitration provider will not administer the Batch Arbitration with one set of filing and administrative fees due per side per batch, then the arbitration provider’s mass arbitration fee schedule shall apply. AAA’s mass arbitration fee schedule is available on its website at <a href="http://www.adr.org/rules"><span style="text-decoration: underline;">www.adr.org/rules</span></a>&nbsp;. For mass arbitrations before any other arbitration provider, if applicable, you and Company agree that its mass arbitration fee schedule shall apply, as necessary.</li>
+
+
+
+<li>(e) <em>Opting Out. </em>If your claim is not resolved as part of the Bellwether Arbitration and Global Mediation process outlined above, the parties shall also have the opportunity to opt out of arbitration and bring the pending Dispute to the state or federal courts located in New York City, unless mandated by law to be filed in another state or federal court. The parties have 30 days of the failed Global Mediation process to opt out. This shall not provide an opportunity for either party to opt out of arbitration for other claims. You may opt out of arbitration by providing written notice of your intention to opt out to the arbitration provider and to Fox Corporation, Attention Arbitration Opt-Out, 2121 Avenue of the Stars, Suite 1200, Los Angeles, California, 90067 via USPS Priority Mail or hand delivery, by email to <a href="mailto:Arbitration-OptOut@fox.com"><span style="text-decoration: underline;">Arbitration-OptOut@fox.com</span></a>&nbsp;, or by notice to the attorney representing Company in the arbitration proceeding. This written notice must be signed by you, even if it is also signed by your attorney. The written notice cannot be signed by an agent or other representative of yours in lieu of your signature. It must include a statement that you wish to opt out of arbitration within 30 days after the conclusion of the Global Mediation process.&nbsp;Company may exercise its equivalent opt-out right by sending written notice to you or your attorney, agent, or representative if you are represented.</li>
+
+
+
+<li>(f) <em>Enforcement of Sub-Section.</em>&nbsp;A Court of competent jurisdiction shall have the power to enforce Sub-Section (11), including by injunctive, declaratory, or other relief.</li>
+</ul>
+
+
+
+<p><strong>(12) Live Testimony.</strong> You must appear to testify at any arbitration hearing personally, virtually, or in another manner authorized by law or the arbitration provider. You agree that if you fail to appear in one of these forms to testify, you consent to have the arbitrator order that the case be closed immediately.</p>
+
+
+
+<p><strong>(13) Discovery and Information Exchange.</strong> Regardless of how the arbitration proceeds, each of you and Company shall cooperate in good faith in the exchange of non-privileged documents and information as necessary in accordance with the arbitration provider’s rules.</p>
+
+
+
+<p><strong>(14) Attorney’s Fees and Fee Shifting. </strong>Each of you and Company may incur attorneys’ fees during the arbitration. Each side agrees to pay his, her or its own attorneys’ fees unless the claim(s) at issue permit(s) the prevailing party to be paid its attorneys’ fees, and in such instance, the fees awarded shall be determined by the applicable law(s).</p>
+
+
+
+<p><strong>(15) Restrictions on Forms of Relief.</strong> The arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief, only to the extent necessary to provide relief warranted by that party’s individual claim, only as permitted by applicable law, and only to the extent that declaratory and injunctive relief are permitted by this Agreement. The arbitrator shall have no authority to award punitive, exemplary, multiplied or consequential damages or any other relief except those allowed under the law and this Agreement, including this Agreement’s Limitation of Liability provisions. The arbitrator also may not order you or Company to pay any monies to or take any actions with respect to persons other than you or Company, respectively, unless you or Company explicitly consents in advance, after an arbitrator is selected, to permit the arbitrator to enter such an order, as applicable. Further, unless you and Company expressly agree, or subject to the provisions of Sub-Section (11) above, the arbitrator may not consolidate other persons’ claims with yours or ours, and may not otherwise preside over any form of a representative, multi-claimant or class proceeding.</p>
+
+
+
+<p><strong>(16) Confidentiality.</strong> You and Company agree to maintain the confidential nature of the arbitration proceeding and shall not disclose the fact of the arbitration, any documents exchanged as part of any mediation, proceedings of the arbitration, the arbitrator’s decision and the existence or amount of any award, except as may be necessary to prepare for or conduct the arbitration (in which case anyone becoming privy to confidential information must undertake to preserve its confidentiality), or except as may be necessary in connection with a court application for a provisional remedy, a judicial challenge to an award or its enforcement, an order confirming the award, or unless otherwise required by law or court order. In keeping with the confidential nature of the arbitration, you and Company agree that an order confirming the award is only necessary if the obligations of the award have not been performed. Therefore, before taking any steps to confirm the arbitration award, the party seeking confirmation of the award must give the other party notice of its intention to confirm the award. If the party who would be the respondent in any such confirmation proceeding performs its obligation under the terms of the arbitration award within 15 business days of such notice, the party who gave notice of its intent to confirm the award shall not seek to confirm or otherwise enforce the award.</p>
+
+
+
+<p><strong>(17) Severability of Portions of This Section.</strong> With the exception of Sub-Section (9) and Sub-Section (11) (i.e., the waiver of the ability to proceed on behalf of multiple claimants or a purported class and the Mass Filing procedure), if any part of this Section is deemed invalid, unenforceable, or illegal, then the balance of this Section shall remain in effect and be construed in accordance with its terms as if the invalid, unenforceable, or illegal provision were not contained. If, however, either or both Sub-Section (9) or/and Sub-Section (11) is found invalid, unenforceable or illegal, then the remainder of this Section and this paragraph shall be null and void, but the rest of this Agreement, including the provisions governing in which court actions against Company must be pursued and the choice of governing law will remain in effect and apply to any claim that, for this or any other reason, proceeds in court rather than in arbitration.</p>
+
+
+
+<p><strong>(18) Court Proceedings. </strong>If a court issues a decision precluding or refusing to compel arbitration of any Dispute, the Dispute must be brought in the state or federal courts located in New York City, unless otherwise mandated by law to be filed in another state or federal court. For Disputes deemed not to be subject to arbitration, neither you nor Company shall be precluded from participating in a class-wide settlement of those claims if brought by another Company user or third party.</p>
+
+
+
+<h3 class="wp-block-heading">Indemnity</h3>
+
+
+
+<p>You agree to indemnify, defend and hold Fox and its affiliates, and their respective successors and assigns, directors, officers, employees, representatives, agents, licensors, suppliers and service providers harmless from any and all claims, liabilities, damages, losses, costs and expenses (including reasonable attorneys’ fees), arising in any way out of or in connection with (a) your use of this Site, (b) your breach or violation of these Terms of Use; or (c) your violation of any rights of another. Fox reserves the right to assume the exclusive defense and control of any matter subject to indemnification by you and all negotiations for its settlement or compromise, and you agree to fully cooperate with us upon our request.</p>
+
+
+
+<h3 class="wp-block-heading">Governing Law</h3>
+
+
+
+<p>These Terms of Use shall be governed by, construed and enforced in accordance with the laws of the State of New York, without regard to its conflict of law provision.</p>
+
+
+
+<p>Except with respect to Disputes to be resolved through an arbitration process in accordance with the Arbitration Agreement contained above, you and Company agree to submit to the exclusive jurisdiction of the courts located in New York, New York, unless otherwise mandated by law, to resolve any Dispute arising out of these Terms or this Site.&nbsp; YOU HEREBY KNOWINGLY, VOLUNTARILY AND INTENTIONALLY WAIVE ANY RIGHT YOU MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LITIGATION (INCLUDING, BUT NOT LIMITED TO, ANY CLAIMS, COUNTERCLAIMS, CROSS-CLAIMS, OR THIRD PARTY CLAIMS) ARISING OUT OF, UNDER OR IN CONNECTION WITH THESE TERMS OF USE.</p>
+
+
+
+<p>YOU AGREE THAT ANY CAUSE OF ACTION YOU MAY HAVE ARISING OUT OF OR RELATED TO THESE TERMS OF USE OR THIS WEBSITE MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER SUCH CAUSE OF ACTION ACCRUES.&nbsp; AFTER SUCH PERIOD, SUCH CAUSE OF ACTION SHALL BE PERMANENTLY BARRED.</p>
+
+
+
+<h3 class="wp-block-heading">Miscellaneous</h3>
+
+
+
+<p>These Terms of Use contain the complete and entire understanding and agreement between you and Fox concerning this Site and supersedes any and all prior or contemporaneous understandings relating to this website and your use thereof. These Terms of Use cannot be changed orally. Except as otherwise expressly provided herein, if any provision of these Terms of Use is unlawful, void or unenforceable, that provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions. The failure of Fox to exercise or enforce any right or provision of these Terms of Use will not operate as a waiver of such right or provision.</p>
+
+
+
+<p>The Section titles in these Terms of Use are for convenience only and have no legal or contractual effect.&nbsp; These Terms of Use operate to the fullest extent permissible by law.</p>
+
+
+
+<p>You agree that any notices the Company may be required by applicable law to send to you will be effective upon Company’s sending an e-mail message to the e-mail address you have on file with Company or publishing such notices on the informational page(s) of this Site.</p>
+
+
+
+<p>You agree that no joint venture, partnership, employment, or agency relationship exists between you and Company as a result of these Terms of Use or your use of this Site.&nbsp; A printed version of these Terms of Use and of any notice related to it shall be admissible in judicial or administrative proceedings based upon or relating to these Terms of Use to the same extent as other business documents and records originally generated and maintained in printed form</p>
+
+
+
+<p>Nothing contained in these Terms of Use limits Company’s right to comply with governmental, court and law enforcement requests or requirements relating to your use of this Site or information provided to or gathered by us in connection with such use.</p>
+
+
+
+<p>Fox reserves the right to modify or discontinue, temporarily or permanently, all or any part of this Site and/or any Content, software, functions, and services on this Site, with or without notice, and/or to establish general guidelines and limitations on their use.</p>
+
+
+
+<p>The Company is based in the United States and this Site is hosted in the United States.&nbsp; If you use this Site from a jurisdiction other than the United States, you agree that you do so of your own initiative, and you are responsible for complying with local laws as applicable to such use.</p>
+
+
+
+<p>These Terms of Use were last updated on April 22, 2024</p>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<p></p>
+											</div><!-- .rich-text -->
+									</section>
+			</article><!-- #post-## -->
+			
+		</main><!-- #content -->
+		<footer class="footer">
+			<div class="footer__container">
+				<div class="footer__logo-wrapper">
+					<a href="https://www.foxcorporation.com/" class="footer__logo">
+													<span class="screen-reader-text">Fox Corporation Home</span>
+												<div class="footer__logo">
+							<svg aria-hidden="true" tabindex="-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 29"><g fill="#FEFEFE" fill-rule="evenodd"><path d="M0 0v29h8.18l-.021-9.375h8.03v-7.912H8.226V7.929H18L17.463 0zM57.98 0l-3.519 6.261L51.01 0h-9.518l8.323 13.998L41 28.983l9.251.017 4.097-7.348 4.149 7.331H68l-8.978-15.082L67.181 0z"/><path d="M31.04 22.089a2.376 2.376 0 0 1-2.377-2.376l.003-11.47c0-1.311 1.061-2.485 2.374-2.485 1.311 0 2.478 1.174 2.478 2.486v11.502c0 1.313-1.167 2.343-2.479 2.343M31 0c-7.732 0-14 6.268-14 14s6.268 14 14 14 14-6.268 14-14S38.733 0 31 0"/></g></svg>
+						</div>
+					</a>
+				</div><!-- .footer__logo-wrapper -->
+
+									<nav class="footer__nav"><ul id="menu-footer-menu" class="footer__menu"><li id="menu-item-1741" class="management menu-item menu-item-type-custom menu-item-object-custom menu-item-1741"><a href="/management/">Management</a></li>
+<li id="menu-item-1743" class="businesses menu-item menu-item-type-custom menu-item-object-custom menu-item-1743"><a href="/businesses/">Businesses</a></li>
+<li id="menu-item-1745" class="investor menu-item menu-item-type-custom menu-item-object-custom menu-item-1745"><a href="https://investor.foxcorporation.com/">Investor</a></li>
+<li id="menu-item-1747" class="about-us menu-item menu-item-type-custom menu-item-object-custom menu-item-1747"><a href="/about-us/">About Us</a></li>
+<li id="menu-item-1749" class="news menu-item menu-item-type-custom menu-item-object-custom menu-item-1749"><a href="/news/press-releases/">News</a></li>
+<li id="menu-item-1751" class="inclusion menu-item menu-item-type-custom menu-item-object-custom menu-item-1751"><a href="/culture-belonging/">Culture &#038; Belonging</a></li>
+</ul></nav>				
+							</div><!-- .footer__container -->
+
+			<div role="contentinfo" class="footer__legal">
+				<p class="legal__copyright">&copy; Fox 2024. <span>All Rights Reserved.</span></p>
+				
+									<ul id="menu-footer-legal" class="legal__list"><li id="menu-item-1753" class="privacy-policy menu-item menu-item-type-custom menu-item-object-custom menu-item-1753"><a href="/privacy-policy/">Updated Privacy Policy</a></li>
+<li id="menu-item-1754" class="terms-of-use menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1754"><a href="/terms-of-use/" aria-current="page">Updated Terms of Use</a></li>
+<li id="menu-item-1755" class="responsible-disclosure menu-item menu-item-type-custom menu-item-object-custom menu-item-1755"><a href="/responsible-vulnerability-disclosure-policy/">Responsible Disclosure</a></li>
+<li id="menu-item-4748" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4748"><a href="/cautionary-statement-concerning-forward-looking-statements/">Forward-Looking Statements</a></li>
+</ul>							</div><!-- .footer__legal -->
+		</footer>
+
+					<div class="toc-pp-container">
+				By using the site, you agree to our updated <a href="/privacy-policy/">Privacy Policy</a> and <a href="/terms-of-use/">Terms of Use</a>.				<button class="toc-close"></button>
+			</div>
+			</div><!-- .site-content -->
+
+				
+	<script type='text/javascript' src='https://www.foxcorporation.com/wp-content/themes/foxcorporation/js/navigation.js?ver=20151215' id='foxcorporation-navigation-js'></script>
+<script type='text/javascript' src='https://www.foxcorporation.com/wp-content/themes/foxcorporation/js/skip-link-focus-fix.js?ver=20151215' id='foxcorporation-skip-link-focus-fix-js'></script>
+<script type='text/javascript' src='https://www.foxcorporation.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6' id='page-links-to-js'></script>
+</body>
+</html>

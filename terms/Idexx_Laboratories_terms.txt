@@ -1,0 +1,5045 @@
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="theme-color" content="#30353E" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#30353E" media="(prefers-color-scheme: dark)">
+
+    
+      
+        
+
+
+  
+    
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                                                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MM2LLQ4');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- BING Webmaster tools -->
+    <meta name="msvalidate.01" content="EC991CEBF4DE39BBE7CB309F4DCD9AE2" />
+    <!-- End BING Webmaster tools -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+      
+
+      
+  <script
+    src="https://browser.sentry-cdn.com/7.100.1/bundle.tracing.replay.min.js"
+    integrity="sha384-j9GeIGJghsYAeWfw63ehSi1eZnKIhuSYPuNWcwW++oPsidEf8vdRsgkj0SNU4tzc"
+    crossorigin="anonymous"></script>
+  <script>
+  Sentry.init({
+    enabled: false,
+    dsn: "https://150fd9f7dc494021a590e21eb676a51d@o194757.ingest.sentry.io/6024465",
+    maxBreadcrumbs: 50,
+    allowUrls: [/https:\/\/([a-z]+\.)?idexx\.[a-z\.]+/],
+  });
+  </script>
+
+
+    
+
+    <title>
+      
+        Terms and Conditions of Use/Trademarks - IDEXX US
+      
+    </title>
+
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+
+    
+      
+      
+      <meta name="description" content="Please read these terms carefully before using this Internet site. These terms and conditions may have changed since your last visit. Find out more.">
+      
+    
+
+    
+    
+
+    
+      
+        <link rel="canonical" href="https://www.idexx.com/en/about-idexx/terms-of-use/">
+      
+    
+
+    
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/favicon/idexxcom/apple-touch-icon-57x57.6551980f1687.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/favicon/idexxcom/apple-touch-icon-114x114.e17299181fa8.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/favicon/idexxcom/apple-touch-icon-72x72.859c42111d18.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/favicon/idexxcom/apple-touch-icon-144x144.4e618e499530.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static/favicon/idexxcom/apple-touch-icon-60x60.c09df8091702.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/favicon/idexxcom/apple-touch-icon-120x120.1fbba1207f64.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/favicon/idexxcom/apple-touch-icon-76x76.df47628b2aac.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/favicon/idexxcom/apple-touch-icon-152x152.f7a19308267f.png" />
+<link rel="icon" type="image/png" href="/static/favicon/idexxcom/favicon-196x196.21a4d06601e4.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/static/favicon/idexxcom/favicon-96x96.15258fc86139.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/static/favicon/idexxcom/favicon-32x32.521c6b75c89f.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/static/favicon/idexxcom/favicon-16x16.820aefd4a163.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/static/favicon/idexxcom/favicon-128.0536029c7543.png" sizes="128x128" />
+<meta name="application-name" content="IDEXX US"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/static/favicon/idexxcom/mstile-144x144.4e618e499530.png" />
+<meta name="msapplication-square70x70logo" content="/static/favicon/idexxcom/mstile-70x70.0536029c7543.png" />
+<meta name="msapplication-square150x150logo" content="/static/favicon/idexxcom/mstile-150x150.6071d5bfc328.png" />
+<meta name="msapplication-wide310x150logo" content="/static/favicon/idexxcom/mstile-310x150.fb1239b02a87.png" />
+<meta name="msapplication-square310x310logo" content="/static/favicon/idexxcom/mstile-310x310.f922ae73b0dc.png" />
+<!--[if IE]><link rel="shortcut icon" href="/static/favicon/idexxcom/favicon.b9f7b4ed717b.ico"><![endif]-->
+
+
+    <link rel="dns-prefetch" href="/media/">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Sora:wght@400;600&display=swap" rel="stylesheet">
+
+    
+    <script>
+      (function(d) {
+        var config = {
+          kitId: 'scs5okb',
+          scriptTimeout: 3000,
+          async: true
+        },
+            h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+      })(document);
+    </script>
+
+    <link rel="stylesheet" href="/static/css/idexxcom/base.750e5ec7d65e.css">
+    
+
+    
+
+    
+
+    
+  </head>
+  <body id="page-top" class="no-js lang-en  tpl-home">
+
+  
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+  
+    
+      
+        
+
+
+  
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MM2LLQ4"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+    
+        
+          
+<script src="https://7296325.collect.igodigital.com/collect.js"></script>
+<script>
+if (window._etmc !== undefined) {
+  _etmc.push(["setOrgId", "7296325"]);
+  _etmc.push(["setUserInfo", { "email" : ""}]);
+
+  console.log('_etmc setOrgId on page load:', ["setOrgId", "7296325"]);
+  console.log('_etmc setUserInfo on page load:', ["setUserInfo", { "email" : ""}]);
+
+    
+  
+    var pageView = ["trackPageView", {"item": "https://www.idexx.com/en/about-idexx/terms-of-use/"}];
+  
+
+  var updateItem = ["updateItem", {
+    "item": window.location.toString(),
+    "name": document.title,
+    "url": window.location.toString(),
+    "available" : "Y",
+    "item_type": "content",
+  }];
+
+  console.log('_etmc pageView on page load:', pageView);
+  _etmc.push(pageView);
+
+  console.log('_etmc updateItem on page load:', updateItem);
+  _etmc.push(updateItem);
+}
+</script>
+
+
+
+
+
+<script>
+  var _flCache = Math.floor(Math.random() * 10000000000000).toString();
+  document.write('<iframe src="https://9681229.fls.doubleclick.net/activityi;src=9681229;type=general;cat=https004;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=' + _flCache + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+  <iframe src="https://9681229.fls.doubleclick.net/activityi;src=9681229;type=general;cat=https004;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+
+        
+      
+    
+
+    
+
+    
+
+    
+  
+
+    <h2 class="sr-only">Shortcuts</h2>
+    <ul class="skip-links">
+      <li><a href="/en/" title="[Alt + 0]" accesskey="0">Go to home</a></li>
+      <li><a href="#page-navigation" title="[Alt + 1]" accesskey="1">Jump to navigation</a></li>
+      <li><a href="#page-content" title="[Alt + 2]" accesskey="2">Jump to content</a></li>
+      <li><a href="#page-footer" title="[Alt + 3]" accesskey="3">Contact</a></li>
+    </ul>
+
+    <header class="header">
+      <div class="header-top-menu" role="navigation" aria-label="Top">
+        <div class="container clearfix">
+          <div class="navbar-brand">
+            <a class="logo header-logo" href="/en/"><span class="sr-only">IDEXX</span></a>
+          </div>
+          <ul class="header-top-menu-list">
+            
+            
+              <!-- 1 en Generated Tue, 01 Oct 2024 20:03:50 +0000 -->
+              
+
+
+
+  
+    <li class="
+               hidden-xs hidden-sm
+               
+              ">
+      <a href="/en/about-idexx/customer-support/">
+        Support
+      </a>
+    </li>
+  
+
+  
+    <li class="
+               hidden-xs hidden-sm
+               
+              ">
+      <a href="/en/about-idexx/investors/">
+        Investors
+      </a>
+    </li>
+  
+
+  
+    <li class="
+               hidden-xs hidden-sm
+               
+              ">
+      <a href="/en/about-idexx/contact-idexx/">
+        Contact
+      </a>
+    </li>
+  
+
+  
+    <li class="
+               hidden-xs hidden-sm
+               
+              ">
+      <a href="https://careers.idexx.com/us/en">
+        Careers
+      </a>
+    </li>
+  
+
+  
+    <li class="
+               hidden-xs hidden-sm
+               
+              ">
+      <a href="https://supplier-resources.idexx.com/en/">
+        Suppliers
+      </a>
+    </li>
+  
+
+
+            
+          </ul>
+
+          <ul class="header-top-menu-list is-meta-list">
+            <li class="navbar-toggle-item">
+              <button type="button" class="js-header-nav-toggle navbar-toggle collapsed" data-toggle="collapse" data-target=".js-navbar-header">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </li>
+            <li class="mobile-logo">
+              <a class="logo header-logo" href="/en/"><span class="sr-only">IDEXX</span></a>
+            </li>
+            
+            
+            <li class="mobile-search-button">
+              <a href="/en/search/">
+                <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                  <path fill="currentColor" d="M23.584 20.55l7.527 7.527a2.145 2.145 0 1 1-3.034 3.034l-7.527-7.527A12.94 12.94 0 0 1 13 26C5.82 26 0 20.18 0 13S5.82 0 13 0s13 5.82 13 13a12.94 12.94 0 0 1-2.416 7.55zM13 22a9 9 0 1 0 0-18 9 9 0 0 0 0 18z"/>
+                </svg>
+              </a>
+            </li>
+              <li class="search-form header-search-form" role="search">
+                <form action="/en/search/" method="get" class="search-form">
+                  <div class="search-group">
+                    <input name="q" class="form-control search-group-input" type="text" value="" placeholder="Search">
+                    <button class="btn search-group-btn">
+                      <span class="icon icon-search">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#search"></use>
+  </svg>
+  
+    <span class="sr-only">Search</span>
+  
+</span>
+
+                    </button>
+                  </div>
+                </form>
+              </li>
+            
+            
+              <!-- 1 en Generated Tue, 01 Oct 2024 20:03:50 +0000 -->
+              
+
+
+
+<li class="country-picker dropdown">
+  <a class="country-picker-dropdown-toggle link-wrapper"
+     data-toggle="dropdown" href="#">
+    
+      <span class="icon icon-flag-us country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-us"></use>
+  </svg>
+  
+    <span class="sr-only">USA</span>
+  
+</span>
+
+    
+  </a>
+
+  <ul class="country-picker-dropdown-menu dropdown-menu">
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.com.au/en-au/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-au country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-au"></use>
+  </svg>
+  
+    <span class="sr-only">Australia</span>
+  
+</span>
+
+        <span class="link-inner">Australia</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.at/de-at/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-at country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-at"></use>
+  </svg>
+  
+    <span class="sr-only">Austria</span>
+  
+</span>
+
+        <span class="link-inner">Österreich</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.com.br/pt-br/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-br country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-br"></use>
+  </svg>
+  
+    <span class="sr-only">Brazil</span>
+  
+</span>
+
+        <span class="link-inner">Brazil</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://ca.idexx.com/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-ca country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-ca"></use>
+  </svg>
+  
+    <span class="sr-only">Canada</span>
+  
+</span>
+
+        <span class="link-inner">Canada</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="http://www.idexx.com.cn/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-cn country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-cn"></use>
+  </svg>
+  
+    <span class="sr-only">China</span>
+  
+</span>
+
+        <span class="link-inner">中国大陆</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.cz/cs-cz/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-cz country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-cz"></use>
+  </svg>
+  
+    <span class="sr-only">Czech</span>
+  
+</span>
+
+        <span class="link-inner">Česko</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.dk/da/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-dk country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-dk"></use>
+  </svg>
+  
+    <span class="sr-only">Denmark</span>
+  
+</span>
+
+        <span class="link-inner">Danmark</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.fi/fi/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-fi country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-fi"></use>
+  </svg>
+  
+    <span class="sr-only">Finland</span>
+  
+</span>
+
+        <span class="link-inner">Suomi</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.fr/fr/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-fr country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-fr"></use>
+  </svg>
+  
+    <span class="sr-only">France</span>
+  
+</span>
+
+        <span class="link-inner">France</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.de/de/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-de country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-de"></use>
+  </svg>
+  
+    <span class="sr-only">Germany</span>
+  
+</span>
+
+        <span class="link-inner">Deutschland</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.it/it/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-it country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-it"></use>
+  </svg>
+  
+    <span class="sr-only">Italy</span>
+  
+</span>
+
+        <span class="link-inner">Italia</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="http://www.idexx.co.jp/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-jp country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-jp"></use>
+  </svg>
+  
+    <span class="sr-only">Japan</span>
+  
+</span>
+
+        <span class="link-inner">日本</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="http://www.idexx.kr/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-kr country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-kr"></use>
+  </svg>
+  
+    <span class="sr-only">Korea</span>
+  
+</span>
+
+        <span class="link-inner">대한민국</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://al.idexx.com/es-xl/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-none country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-none"></use>
+  </svg>
+  
+    <span class="sr-only">Latin America</span>
+  
+</span>
+
+        <span class="link-inner">Latin America</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.nl/nl/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-nl country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-nl"></use>
+  </svg>
+  
+    <span class="sr-only">Netherlands</span>
+  
+</span>
+
+        <span class="link-inner">Netherlands</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.co.nz/en-nz/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-nz country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-nz"></use>
+  </svg>
+  
+    <span class="sr-only">New Zealand</span>
+  
+</span>
+
+        <span class="link-inner">New Zealand</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.no/nb/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-no country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-no"></use>
+  </svg>
+  
+    <span class="sr-only">Norway</span>
+  
+</span>
+
+        <span class="link-inner">Norge</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.pl/pl/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-pl country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-pl"></use>
+  </svg>
+  
+    <span class="sr-only">Poland</span>
+  
+</span>
+
+        <span class="link-inner">Polska</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.cz/cs-cz/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-sk country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-sk"></use>
+  </svg>
+  
+    <span class="sr-only">Slovakia</span>
+  
+</span>
+
+        <span class="link-inner">Slovensko</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.co.za/en-za/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-za country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-za"></use>
+  </svg>
+  
+    <span class="sr-only">South Africa</span>
+  
+</span>
+
+        <span class="link-inner">South Africa</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.es/es/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-es country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-es"></use>
+  </svg>
+  
+    <span class="sr-only">Spain</span>
+  
+</span>
+
+        <span class="link-inner">España</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.se/sv/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-sv country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-sv"></use>
+  </svg>
+  
+    <span class="sr-only">Sweden</span>
+  
+</span>
+
+        <span class="link-inner">Sverige</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.ch/de-ch/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-ch country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-ch"></use>
+  </svg>
+  
+    <span class="sr-only">Switzerland</span>
+  
+</span>
+
+        <span class="link-inner">Schweiz DE</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.ch/fr-ch/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-ch country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-ch"></use>
+  </svg>
+  
+    <span class="sr-only">Switzerland</span>
+  
+</span>
+
+        <span class="link-inner">Schweiz FR</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.com.tw/zh-hant/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-tw country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-tw"></use>
+  </svg>
+  
+    <span class="sr-only">Taiwan</span>
+  
+</span>
+
+        <span class="link-inner">台灣</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item country-picker-item-active">
+      <a href="https://www.idexx.com/en/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-us country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-us"></use>
+  </svg>
+  
+    <span class="sr-only">USA</span>
+  
+</span>
+
+        <span class="link-inner">USA</span>
+      </a>
+    </li>
+
+    <li class="country-picker-item ">
+      <a href="https://www.idexx.co.uk/en-gb/" class="country-picker-country link-wrapper">
+        <span class="icon icon-flag-gb country-picker-flag">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/flags.e6457b0b8921.svg#flag-gb"></use>
+  </svg>
+  
+    <span class="sr-only">United Kingdom</span>
+  
+</span>
+
+        <span class="link-inner">United Kingdom</span>
+      </a>
+    </li>
+
+  </ul> <!-- /country-picker-dropdown-menu -->
+</li> <!-- /country-picker dropdown -->
+
+            
+
+            
+            
+          </ul>
+
+          
+          
+          
+            <div id="global-navigation"></div>
+            <script async defer src="https://content.idexx.com/global-navigation-idexxcom/index.5.1.0.js"></script>
+            <script async defer src="https://content.idexx.com/global-navigation-idexxcom/runtime.5.1.0.js"></script>
+            <script async defer src="https://content.idexx.com/global-navigation-idexxcom/vendors.5.1.0.js"></script>
+          
+        </div>
+      </div>
+      <div class="navbar navbar-default navbar-static-top" role="navigation" aria-label="Primary">
+        <div class="container">
+          <div class="navbar-collapse collapse js-navbar-header has-sso">
+            
+              <nav class="nav navbar-main" id="page-navigation" role="navigation">
+                
+                  <ul class="nav navbar-nav">
+                    
+                    
+                      <!-- 1 en Generated Tue, 01 Oct 2024 20:03:51 +0000 -->
+                      
+
+
+
+  <li class="child  children dropdown first">
+    <a
+       
+         class="dropdown-toggle" data-toggle="dropdown"
+       
+       href="/en/veterinary/">
+      
+        <span>
+          Small Animal
+        </span>
+        
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      
+    </a>
+    
+      <div class="dropdown-menu megamenu" role="menu">
+        <div class="container">
+          <div class="megamenu-display-home-link">
+            <a href="/en/veterinary/" class="megamenu-home-link link-wrapper">
+              <span class="link-inner">
+                Small Animal
+              </span>
+            </a>
+          </div>
+          <div class="container-inner">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Small Animal
+            </div>
+            
+              
+
+
+
+  <ul class="megamenu-list megamenu-list-mobile-home">
+    <li class="child megamenu-mobile-home-item">
+      <a href="/en/veterinary/" class="link-wrapper megamenu-mobile-home-link">
+        <span class="link-inner">
+          Small Animal
+        </span>
+      </a>
+    </li>
+  </ul>
+
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown first">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/veterinary/reference-laboratories/">
+        <span>
+          Reference Laboratories
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Reference Laboratories
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/veterinary/reference-laboratories/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Reference Laboratories
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/veterinary/reference-laboratories/sdma/">IDEXX SDMA testing</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexx.com/en/veterinary/reference-laboratories/fecal-testing/fecal-dx-antigen-test/">Fecal Dx antigen testing</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/reference-laboratories/parasite-screening/">IDEXX 4Dx Plus Test</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/reference-laboratories/cbc/">IDEXX CBC testing</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/reference-laboratories/digital-cytology">IDEXX Digital Cytology</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/reference-laboratories/tests-and-services/#directory">Tests and services directory</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/reference-laboratories/pathology/">Pathology services</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/reference-laboratories/">All laboratory offerings</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/veterinary/analyzers/">
+        <span>
+          In-house analyzers
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              In-house analyzers
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/veterinary/analyzers/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all In-house analyzers
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/veterinary/analyzers/catalyst-one-chemistry-analyzer/">Catalyst One</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/analyzers/hematology/procyte-one-analyzer/">ProCyte One</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/analyzers/hematology/procyte-dx-analyzer/">ProCyte Dx</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/analyzers/sedivue-dx-analyzer/">SediVue Dx</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/analyzers/invue-dx-analyzer/">IDEXX inVue Dx</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/analyzers/snap-pro-analyzer/">SNAP Pro</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/products/analyzers/">All analyzers</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/veterinary/software-services/">
+        <span>
+          Software &amp; Services
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Software &amp; Services
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/veterinary/software-services/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Software &amp; Services
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/veterinary/software-services/cornerstone-software/">Cornerstone Software</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.ezyvet.com/">ezyVet Software</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/software-services/neo/">Neo Software</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/software-services/vetconnect-plus/">VetConnect PLUS</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/software-services/vetconnect-plus/decision-iq/">IDEXX DecisionIQ</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/software-services/petly-plans/">Petly Plans</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/software-services/pethealthnetworkpro/">Pet Health Network Pro</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/software-services/">All software &amp; services</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/veterinary/support/">
+        <span>
+          Resources &amp; support
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Resources &amp; support
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/veterinary/support/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Resources &amp; support
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/veterinary/support/order-online/">How to order</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/support/documents-resources/">Documents &amp; resources</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/support/billing-support/">Billing</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/support/myidexx/">MyIDEXX</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://points.idexx.com">IDEXX Points</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/support/certificates-analysis-small-animal/">Certificates of Analysis</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.practicelife.com">Practice Life</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.thevetiverse.com/">The Vetiverse</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child">
+      <a class="megamenu-links-title
+                "
+         
+         href="/en/veterinary/preventive-care/">
+        <span>
+          IDEXX Preventive Care
+        </span>
+        
+      </a>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child">
+      <a class="megamenu-links-title
+                "
+         
+         href="/en/veterinary/kidney-health/">
+        <span>
+          IDEXX kidney health solutions
+        </span>
+        
+      </a>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/veterinary/products/snap-tests/">
+        <span>
+          SNAP tests
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              SNAP tests
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/veterinary/products/snap-tests/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all SNAP tests
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/veterinary/snap-tests/snap-tests-technology/">SNAP tests technology</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/snap-tests/snap-4dx-plus-test/">SNAP 4Dx Plus Test</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/snap-tests/snap-feline-triple-test/">SNAP Feline Triple</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/snap-tests/snap-heartworm-rt-test/">SNAP Heartworm RT</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/snap-tests/snap-fivfelv-combo-test/">SNAP FIV/FeLV Combo</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/products/snap-tests/">All SNAP tests</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/veterinary/diagnostic-imaging-telemedicine-consultants/">
+        <span>
+          Diagnostic imaging &amp; Telemedicine consultants
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Diagnostic imaging &amp; Telemedicine consultants
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/veterinary/diagnostic-imaging-telemedicine-consultants/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Diagnostic imaging &amp; Telemedicine consultants
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/veterinary/diagnostic-imaging-telemedicine-consultants/imagevue-dr30/">ImageVue DR30</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/diagnostic-imaging-telemedicine-consultants/imagevue-dr50/">ImageVue DR50</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/diagnostic-imaging-telemedicine-consultants/web-pacs/">IDEXX Web PACS</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/diagnostic-imaging-telemedicine-consultants/telemedicine-consultants/">IDEXX Telemedicine Consultants</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/diagnostic-imaging-telemedicine-consultants/">All diagnostic imaging offerings</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child last">
+      <a class="megamenu-links-title
+                "
+         
+         href="/en/veterinary/support/support-contact/">
+        <span>
+          Contact us
+        </span>
+        
+      </a>
+      
+    </li>
+  </ul>
+
+
+            
+          </div>
+        </div>
+      </div>
+    
+  </li>
+
+  <li class="child  children dropdown">
+    <a
+       
+         class="dropdown-toggle" data-toggle="dropdown"
+       
+       href="https://www.idexx.com/en/veterinary/software-services/">
+      
+        <span>
+          Veterinary Software
+        </span>
+        
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      
+    </a>
+    
+      <div class="dropdown-menu megamenu" role="menu">
+        <div class="container">
+          <div class="megamenu-display-home-link">
+            <a href="https://www.idexx.com/en/veterinary/software-services/" class="megamenu-home-link link-wrapper">
+              <span class="link-inner">
+                Veterinary Software
+              </span>
+            </a>
+          </div>
+          <div class="container-inner">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Veterinary Software
+            </div>
+            
+              
+
+
+
+  <ul class="megamenu-list megamenu-list-mobile-home">
+    <li class="child megamenu-mobile-home-item">
+      <a href="https://www.idexx.com/en/veterinary/software-services/" class="link-wrapper megamenu-mobile-home-link">
+        <span class="link-inner">
+          Veterinary Software
+        </span>
+      </a>
+    </li>
+  </ul>
+
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown first">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="https://www.idexx.com/en/veterinary/software-services/">
+        <span>
+          Software &amp; Services
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Software &amp; Services
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="https://www.idexx.com/en/veterinary/software-services/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Software &amp; Services
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="https://www.idexx.com/en/veterinary/software-services/cornerstone-software/">Cornerstone Software</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.ezyvet.com/">ezyVet Software</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexx.com/en/veterinary/software-services/neo/">Neo Software</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexx.com/en/veterinary/software-services/vetconnect-plus/">VetConnect PLUS</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/software-services/vetconnect-plus/decision-iq/">IDEXX DecisionIQ</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexx.com/en/veterinary/software-services/petly-plans/">Petly Plans</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexx.com/en/veterinary/software-services/pethealthnetworkpro/">Pet Health Network Pro</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexx.com/en/veterinary/software-services/">All software &amp; services</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="https://software.idexx.com/resources/blog-posts">
+        <span>
+          Blogs
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Blogs
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="https://software.idexx.com/resources/blog-posts" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Blogs
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="https://www.idexx.com/en/blogs/cornerstone-news/">Cornerstone News and information</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://software.idexx.com/resources/blog-posts">Neo: What&#x27;s New</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child last">
+      <a class="megamenu-links-title
+                "
+         
+         href="https://www.idexx.com/en/veterinary/software-services/#form">
+        <span>
+          Contact Us
+        </span>
+        
+      </a>
+      
+    </li>
+  </ul>
+
+
+            
+          </div>
+        </div>
+      </div>
+    
+  </li>
+
+  <li class="child  children dropdown">
+    <a
+       
+         class="dropdown-toggle" data-toggle="dropdown"
+       
+       href="/en/livestock/">
+      
+        <span>
+          Livestock
+        </span>
+        
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      
+    </a>
+    
+      <div class="dropdown-menu megamenu" role="menu">
+        <div class="container">
+          <div class="megamenu-display-home-link">
+            <a href="/en/livestock/" class="megamenu-home-link link-wrapper">
+              <span class="link-inner">
+                Livestock
+              </span>
+            </a>
+          </div>
+          <div class="container-inner">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Livestock
+            </div>
+            
+              
+
+
+
+  <ul class="megamenu-list megamenu-list-mobile-home">
+    <li class="child megamenu-mobile-home-item">
+      <a href="/en/livestock/" class="link-wrapper megamenu-mobile-home-link">
+        <span class="link-inner">
+          Livestock
+        </span>
+      </a>
+    </li>
+  </ul>
+
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown first">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/livestock/products/">
+        <span>
+          Livestock tests
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Livestock tests
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/livestock/products/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Livestock tests
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/livestock/products/?cy=y_category_234&amp;ts=all">Ruminant tests</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/livestock-tests/swine-tests/">Swine tests</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/livestock-tests/poultry-tests/">Poultry tests</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexx.com/en/equine/products/?cy=y_category_270">Equine tests</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/livestock/testing-solutions/">
+        <span>
+          Testing solutions
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Testing solutions
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/livestock/testing-solutions/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Testing solutions
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/livestock/livestock-tests/ruminant-tests/idexx-pregnancy-tests/">Alertys pregnancy tests</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/testing-solutions/bovine-laboratory-services/">IDEXX Bovine Laboratory Services</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/testing-solutions/idexx-realpcr-modular-platform/">RealPCR Testing</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/livestock/xcheklab-software/">
+        <span>
+          Software resources
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Software resources
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/livestock/xcheklab-software/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Software resources
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/livestock/xcheklab-software/">xChek Lab and xChek Vet</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/xchekplus-software/">xChekPlus software</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/xchekplus-software/xchek-software-resources/">xChekPlus resources</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/testing-solutions/idexx-realpcr-modular-platform/realpcr-resources/">RealPCR resources</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/livestock/resources-support/">
+        <span>
+          Resources &amp; support
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Resources &amp; support
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/livestock/resources-support/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Resources &amp; support
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/livestock/resources-support/product-inserts/">RealPCR product inserts</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/resources-support/product-inserts/">Product inserts</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/resources-support/certificates-analysis-livestock/">Certificates of Analysis</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/msds/">MSDS</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/livestock-dairy-billing-support/">Billing</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/locations/locations-and-iso-certificates/">ISO Certifications</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/resources-support/how-to-order/">Order online</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown last">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/livestock/contact-livestock/">
+        <span>
+          Contact us
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Contact us
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/livestock/contact-livestock/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Contact us
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/livestock/contact-livestock/distributors10/">Distributors</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+
+            
+          </div>
+        </div>
+      </div>
+    
+  </li>
+
+  <li class="child  children dropdown">
+    <a
+       
+         class="dropdown-toggle" data-toggle="dropdown"
+       
+       href="/en/milk/">
+      
+        <span>
+          Milk
+        </span>
+        
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      
+    </a>
+    
+      <div class="dropdown-menu megamenu" role="menu">
+        <div class="container">
+          <div class="megamenu-display-home-link">
+            <a href="/en/milk/" class="megamenu-home-link link-wrapper">
+              <span class="link-inner">
+                Milk
+              </span>
+            </a>
+          </div>
+          <div class="container-inner">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Milk
+            </div>
+            
+              
+
+
+
+  <ul class="megamenu-list megamenu-list-mobile-home">
+    <li class="child megamenu-mobile-home-item">
+      <a href="/en/milk/" class="link-wrapper megamenu-mobile-home-link">
+        <span class="link-inner">
+          Milk
+        </span>
+      </a>
+    </li>
+  </ul>
+
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown first">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/milk/products/">
+        <span>
+          Dairy tests
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Dairy tests
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/milk/products/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Dairy tests
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/milk/products/">All dairy tests</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/milk/dairy-tests/accessories/">Accessories</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/livestock/products/">All livestock tests</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/milk/resources-support/">
+        <span>
+          Resources &amp; support
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Resources &amp; support
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/milk/resources-support/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Resources &amp; support
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/livestock/resources-support/product-inserts/">Product inserts</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/milk/resources-support/training/">Training</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/milk/resources-support/certificates-analysis-dairy/">Certificates of Analysis</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/msds/">MSDS</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/livestock-dairy-billing-support/">Billing</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/locations/locations-and-iso-certificates/">ISO Certifications</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child last">
+      <a class="megamenu-links-title
+                "
+         
+         href="/en/milk/contact-dairy/">
+        <span>
+          Contact Us
+        </span>
+        
+      </a>
+      
+    </li>
+  </ul>
+
+
+            
+          </div>
+        </div>
+      </div>
+    
+  </li>
+
+  <li class="child  children dropdown">
+    <a
+       
+         class="dropdown-toggle" data-toggle="dropdown"
+       
+       href="/en/equine/">
+      
+        <span>
+          Equine
+        </span>
+        
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      
+    </a>
+    
+      <div class="dropdown-menu megamenu" role="menu">
+        <div class="container">
+          <div class="megamenu-display-home-link">
+            <a href="/en/equine/" class="megamenu-home-link link-wrapper">
+              <span class="link-inner">
+                Equine
+              </span>
+            </a>
+          </div>
+          <div class="container-inner">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Equine
+            </div>
+            
+              
+
+
+
+  <ul class="megamenu-list megamenu-list-mobile-home">
+    <li class="child megamenu-mobile-home-item">
+      <a href="/en/equine/" class="link-wrapper megamenu-mobile-home-link">
+        <span class="link-inner">
+          Equine
+        </span>
+      </a>
+    </li>
+  </ul>
+
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown first">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/equine/equine-reference-laboratories/">
+        <span>
+          Reference Laboratories
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Reference Laboratories
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/equine/equine-reference-laboratories/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Reference Laboratories
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/equine/equine-reference-laboratories/test-menu/">Featured tests</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/equine/equine-reference-laboratories/feedback-support/">Expert feedback &amp; support</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/equine/equine-reference-laboratories/">All reference laboratory offerings</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/equine/products/?cy=y_category_267">
+        <span>
+          In-house analyzers
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              In-house analyzers
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/equine/products/?cy=y_category_267" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all In-house analyzers
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="https://www.idexx.com/en/veterinary/analyzers/catalyst-one-chemistry-analyzer/">Catalyst One</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexx.com/en/veterinary/analyzers/procyte-dx-analyzer/">ProCyte Dx</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/veterinary/analyzers/lasercyte-dx-analyzer/">LaserCyte Dx</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/equine/products/?cy=y_category_267">All analyzers</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/equine/services/">
+        <span>
+          Services
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Services
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/equine/services/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Services
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/equine/services/idexx-telemedicine-consultants-equine/">Telemedicine Consultants</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/equine/services/vetconnect/">IDEXX VetConnect</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/equine/products/?cy=y_category_270">
+        <span>
+          Equine disease tests
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Equine disease tests
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/equine/products/?cy=y_category_270" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Equine disease tests
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/equine/equine-disease-tests/idexx-celisa-eia-test/">cELISA E Test</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/equine/equine-disease-tests/idexx-influenza-ab-test/">Influenza A Ab Test</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child last">
+      <a class="megamenu-links-title
+                "
+         
+         href="/en/equine/contact-equine/">
+        <span>
+          Contact us
+        </span>
+        
+      </a>
+      
+    </li>
+  </ul>
+
+
+            
+          </div>
+        </div>
+      </div>
+    
+  </li>
+
+  <li class="child  children dropdown">
+    <a
+       
+         class="dropdown-toggle" data-toggle="dropdown"
+       
+       href="/en/water/">
+      
+        <span>
+          Water
+        </span>
+        
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      
+    </a>
+    
+      <div class="dropdown-menu megamenu" role="menu">
+        <div class="container">
+          <div class="megamenu-display-home-link">
+            <a href="/en/water/" class="megamenu-home-link link-wrapper">
+              <span class="link-inner">
+                Water
+              </span>
+            </a>
+          </div>
+          <div class="container-inner">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Water
+            </div>
+            
+              
+
+
+
+  <ul class="megamenu-list megamenu-list-mobile-home">
+    <li class="child megamenu-mobile-home-item">
+      <a href="/en/water/" class="link-wrapper megamenu-mobile-home-link">
+        <span class="link-inner">
+          Water
+        </span>
+      </a>
+    </li>
+  </ul>
+
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown first">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/water/water-types/">
+        <span>
+          Water types
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Water types
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/water/water-types/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Water types
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_252&amp;ts=all">Drinking water</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_254&amp;ts=all">On-Premise water</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_253&amp;ts=all">Wastewater</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_255&amp;ts=all">Recreational</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_256&amp;ts=all">Bottled water</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/water/products/">
+        <span>
+          Tests for detecting
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Tests for detecting
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/water/products/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Tests for detecting
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_252&amp;cx=x_category_259&amp;ts=all">Coliforms/E. coli</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=all&amp;cx=x_category_260&amp;ts=all">Enterococci</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_252&amp;cx=x_category_262&amp;ts=all">Legionella pneumophila</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_252&amp;cx=x_category_263&amp;ts=all">Cryptosporidium / Giardia</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_254&amp;cx=x_category_261&amp;ts=all">Pseudomonas aeruginosa</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_252&amp;cx=x_category_264&amp;ts=all">Heterotrophic plate count</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_252&amp;cx=x_category_265&amp;ts=all">Chlorine</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/water-products-services/water-sars-cov-2-rt-pcr-test/">SARS-CoV-2</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/water/products/?cy=y_category_257&amp;ts=all">
+        <span>
+          Other products &amp; services
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Other products &amp; services
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/water/products/?cy=y_category_257&amp;ts=all" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Other products &amp; services
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/water/products/?cy=y_category_257&amp;ts=all">Quantification</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/water-products-services/idexx-qc/">Quality control &amp; Proficiency testing</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/other-products-services/sample-vessels/">Vessels</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/other-products-services/tecta-water-microbiology-system/">IDEXX Tecta</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/water/resources/">
+        <span>
+          Resources &amp; regulatory
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Resources &amp; regulatory
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/water/resources/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Resources &amp; regulatory
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/water/resources/water-resources/">Resources</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/resources/product-inserts/">Product inserts</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/resources/certificates-analysis-water/">Certificates of Analysis</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/msds/">MSDS</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/resources/tests-accessories/">Tests &amp; accessories</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/resources/mpn-generator/">MPN Generator</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/livestock-dairy-billing-support/">Billing</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/water/resources/myidexx/">Online Ordering</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexx.com/en/water/resources/myidexx/">Customer Portal</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/water/education/">
+        <span>
+          Education
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              Education
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/water/education/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all Education
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/water/education/#academy">IDEXX Water Academy</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://www.idexxcurrents.com">Currents</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child last">
+      <a class="megamenu-links-title
+                "
+         
+         href="/en/water/contact-water/">
+        <span>
+          Contact us
+        </span>
+        
+      </a>
+      
+    </li>
+  </ul>
+
+
+            
+          </div>
+        </div>
+      </div>
+    
+  </li>
+
+  <li class="child  hidden-md hidden-lg ">
+    <a
+       
+       href="https://careers.idexx.com">
+      
+        <span>
+          Careers
+        </span>
+        
+      
+    </a>
+    
+  </li>
+
+  <li class="child ">
+    <a
+       
+       href="https://learn.idexx.com">
+      
+        <span>
+          Education
+        </span>
+        
+      
+    </a>
+    
+  </li>
+
+  <li class="child  children dropdown last">
+    <a
+       
+         class="dropdown-toggle" data-toggle="dropdown"
+       
+       href="/en/about-idexx/">
+      
+        <span>
+          About Us
+        </span>
+        
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      
+    </a>
+    
+      <div class="dropdown-menu megamenu" role="menu">
+        <div class="container">
+          <div class="megamenu-display-home-link">
+            <a href="/en/about-idexx/" class="megamenu-home-link link-wrapper">
+              <span class="link-inner">
+                About Us
+              </span>
+            </a>
+          </div>
+          <div class="container-inner">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              About Us
+            </div>
+            
+              
+
+
+
+  <ul class="megamenu-list megamenu-list-mobile-home">
+    <li class="child megamenu-mobile-home-item">
+      <a href="/en/about-idexx/" class="link-wrapper megamenu-mobile-home-link">
+        <span class="link-inner">
+          About Us
+        </span>
+      </a>
+    </li>
+  </ul>
+
+
+  <ul class="megamenu-list">
+    <li class="child children dropdown first">
+      <a class="megamenu-links-title
+                 dropdown-toggle"
+          data-toggle="dropdown"
+         href="/en/about-idexx/">
+        <span>
+          About us
+        </span>
+        
+          <span class="icon icon-caret-down icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#caret-down"></use>
+  </svg>
+  
+</span>
+
+          <span class="icon icon-arrow-minimal-right icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-right"></use>
+  </svg>
+  
+</span>
+
+        
+      </a>
+      
+        <div class="dropdown-menu" role="menu">
+          <div class="container">
+            <div class="megamenu-mobile-title" aria-hidden="true">
+              <span class="icon icon-arrow-minimal-left icon-brand-primary">
+  <svg role="presentation">
+    <use xlink:href="/static/sprites/icons.5dd0edd3081d.svg#arrow-minimal-left"></use>
+  </svg>
+  
+</span>
+
+              About us
+            </div>
+            <ul>
+              
+                
+                  <li class="child megamenu-mobile-home-item">
+                    <a href="/en/about-idexx/" class="link-wrapper megamenu-mobile-home-link">
+                      <span class="link-inner">
+                        View all About us
+                      </span>
+                    </a>
+                  </li>
+                
+                
+
+
+<li class="child">
+	<a href="/en/about-idexx/our-purpose/">Our Purpose</a>
+	
+</li>
+
+<li class="child">
+	<a href="https://careers.idexx.com">Careers at IDEXX</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/corporate-responsibility/">Corporate responsibility</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/investors/">Investor relations</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/idexx-foundation/">The IDEXX Foundation</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/news/">Newsroom</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/corporate-governance/">Corporate governance</a>
+	
+</li>
+
+<li class="child">
+	<a href="/en/about-idexx/locations">Worldwide locations</a>
+	
+</li>
+
+              
+            </ul>
+          </div>
+        </div>
+      
+    </li>
+  </ul>
+
+  <ul class="megamenu-list">
+    <li class="child last">
+      <a class="megamenu-links-title
+                "
+         
+         href="/en/about-idexx/contact-idexx/">
+        <span>
+          Contact us
+        </span>
+        
+      </a>
+      
+    </li>
+  </ul>
+
+
+            
+          </div>
+        </div>
+      </div>
+    
+  </li>
+
+
+
+
+
+
+  
+    <li class="header-menu-show-mobile">
+      <a href="/en/about-idexx/customer-support/">
+        Support
+      </a>
+    </li>
+  
+
+  
+    <li class="header-menu-show-mobile">
+      <a href="/en/about-idexx/investors/">
+        Investors
+      </a>
+    </li>
+  
+
+  
+    <li class="header-menu-show-mobile">
+      <a href="/en/about-idexx/contact-idexx/">
+        Contact
+      </a>
+    </li>
+  
+
+  
+    <li class="header-menu-show-mobile">
+      <a href="https://careers.idexx.com/us/en">
+        Careers
+      </a>
+    </li>
+  
+
+  
+    <li class="header-menu-show-mobile">
+      <a href="https://supplier-resources.idexx.com/en/">
+        Suppliers
+      </a>
+    </li>
+  
+
+
+
+                    
+                  </ul>
+                
+              </nav>
+            
+          </div>
+        </div>
+      </div>
+    </header>
+  
+
+  <div class="page-content">
+
+    
+      
+        <nav class="navbar-breadcrumb" role="navigation">
+          <h3 class="sr-only">You are here</h3>
+          <div class="container">
+            <ol class="breadcrumb">
+              
+                
+                  <!-- 1 en /en/about-idexx/terms-of-use/ Generated Tue, 01 Oct 2024 05:48:48 +0000 -->
+                  
+  
+    
+      <li class="child"><a href="/en/">Home</a></li>
+    
+  
+
+  
+    
+      <li class="child"><a href="/en/about-idexx/">About Us</a></li>
+    
+  
+
+  
+    
+      <li class="child active">Terms and conditions of use/trademarks</li>
+    
+  
+
+
+                
+              
+            </ol>
+          </div>
+        </nav>
+      
+    
+
+
+    
+    <hr class="sr-only" id="page-content" />
+    
+      
+      
+  <section class="feature">
+    
+  </section>
+
+      
+        
+
+
+      
+
+      
+  <div class="container">
+    <h1>Terms and Conditions of Use/Trademarks</h1><div class="spacer
+     spacer-md
+    "
+    ></div>
+
+
+<div class="row
+    "
+    >
+
+    
+        
+
+<div class="col-xs-offset-0 col-md-9
+    "
+    >
+
+    
+        <p class="lead"><strong>Terms and Conditions of Use</strong></p>
+
+<p class="lead">© 1998-2023 IDEXX Laboratories, Inc., Westbrook, Maine, U.S.A. All rights reserved.</p>
+
+<p class="lead"><strong>Attention: Please read these terms and conditions ("Terms") carefully before using this Internet site. These Terms may have changed since your last visit to this site. Using this site indicates that you accept these Terms. If you do not accept these Terms, do not use this site.</strong></p>
+
+<p class="lead">IDEXX Laboratories, Inc. ("IDEXX"), of Westbrook, Maine, U.S.A., maintains this site as a service to our customers, potential customers and other interested parties. Please visit us frequently, browse our pages and download documents, subject to the terms and conditions set out below.</p>
+
+<p class="lead"><br>
+<strong>USE OF IDEXX WEBSITE AND ITS CONTENT</strong><br>
+IDEXX authorizes you to view and download the information, materials, documents and related graphics (collectively, the "Materials") at this site for your information and internal use only, provided that you retain all copyright and other proprietary notices contained in the Materials on any copies of the Materials. You may not modify the Materials at this site in any way; reproduce or transmit in any form, by any means; or publicly display, perform, distribute or otherwise use the Materials for any public or commercial exploitation, except as otherwise explicitly provided at this site. Any unauthorized use of the Materials on any other Internet site or networked computer environment for any purpose is strictly prohibited. This site and the Materials are the property of IDEXX or its affiliates, and are protected from unauthorized copying and dissemination by United States copyright law, trademark law, international conventions and other intellectual property laws. If you breach any of these Terms, your authorization to use this site automatically terminates and you must immediately destroy any downloaded or printed Materials.</p>
+
+<p class="lead">You assume full responsibility and all risks arising from use of this site. The Materials may be out of date, and IDEXX makes no commitment to update the Materials. The Materials may include technical inaccuracies or typographical errors. IDEXX reserves the right to make additions, deletions or modifications to this site or the Materials, or in the products or services described in the Materials, at any time without any obligation to notify you of such changes. This site may become unavailable due to maintenance or malfunction of computer equipment or other reasons. The information on this site is provided with the understanding that the provision of information by IDEXX and the various authors and publishers of Material does not constitute the rendering of medical, legal, financial, accounting, tax, career or other professional advice or services. <strong>As such, information on this site should not be relied upon or used as a substitute for consultation with professional advisors.</strong></p>
+
+<p class="lead">Any medical recommendations contained in the Materials are intended to provide general guidance only. As with any diagnosis or treatment, you should use clinical discretion with each patient based on a complete evaluation of the patient, including physical presentation and complete laboratory data. With respect to any drug therapy or monitoring program, you should refer to product inserts for a complete description of dosages, indications, interactions and cautions.<br>
+<br>
+<strong>NO WARRANTIES</strong></p>
+
+<p class="lead"><strong>Materials at this site are provided "as is" without representations or warranties of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, title or noninfringement. Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply to you.</strong></p>
+
+<p class="lead"><strong>In addition, while making every effort to ensure the integrity of information on this site, IDEXX does not warrant that: (i) the information on this site is correct, accurate, reliable or complete; (ii) the functions contained on this site will be uninterrupted or error-free; (iii) defects will be corrected; or (iv) this site or the server(s) that make it available are free of viruses or other harmful products.</strong></p>
+
+<p class="lead">Product descriptions and specifications are subject to change. IDEXX periodically adds or updates the information and documents on this site without notice. It is your responsibility to ascertain whether any information downloaded from this site is free of viruses, worms, Trojan horses or other items of a potentially destructive nature.<br>
+<br>
+<strong>LIMITATION OF LIABILITY</strong></p>
+
+<p class="lead"><strong>In no event will IDEXX, its subsidiaries, suppliers or other third parties mentioned at this site be liable for indirect, special, consequential, incidental, exemplary, punitive or multiple damages, or for loss of profits, goodwill, data, equipment or use, or for business interruption arising from or in connection with the existence, use, inability to use, or the results of use of the Materials, this site, any Internet sites linked to this site, or the materials or information contained at any or all such sites, whether based on warranty, contract, tort or any other legal theory and whether or not IDEXX has been advised of the possibility of such damages.</strong></p>
+
+<p class="lead"><strong>IDEXX's total liability to you in connection with any and all injuries, losses, expenses, demands, claims or damages whatsoever arising out of or in any way related to your use of this site, from any cause or causes, whether in contract, tort (including, but not limited to, negligence) or otherwise, shall not exceed an amount equal to the lesser of (a) damages suffered by you as the direct result thereof, or (b) USD $10.00.</strong></p>
+
+<p class="lead"><strong>If your use of the materials results in the need for servicing, repair or correction of equipment or data, you assume all costs thereof.</strong></p>
+
+<p class="lead"><strong>Applicable law of some jurisdictions may not allow the exclusion or limitation of indirect, special, consequential, incidental, exemplary, punitive or multiple damages, so the above limitations or exclusions may not apply to you.</strong></p>
+
+<p class="lead"><strong>LINKS TO THIRD-PARTY WEBSITES</strong><br>
+Links to third-party Internet sites at this site are provided solely as a convenience to you. If you use these links, you will leave this site. IDEXX does not control and is not responsible for any content of these third-party sites or any links contained therein. Thus, IDEXX does not accept any responsibility or endorse or make any representations about them, or any information, software or other products or materials found there, or any results that may be obtained from using them. If you decide to access any of the third-party sites linked to this site, you do so entirely at your own risk.</p>
+
+<p class="lead"><strong>NO IMPLIED ENDORSEMENTS</strong><br>
+In no event shall any reference to any third party or third-party product or service be construed as an approval or endorsement by IDEXX of that third party or of any product or service provided by a third party.</p>
+
+<p class="lead"><strong>TRADEMARK INFORMATION</strong><br>
+IDEXX possesses rights in the United States and elsewhere in its trademarks, service marks, trade names, designs, logos and other trade dress used in connection with the Materials and the products or services described in the Materials. No use of any IDEXX trademark, service mark, trade name, design, logo or other trade dress may be made without the prior, written authorization of IDEXX, except to identify the products or services of IDEXX. Except as permitted by these Terms, nothing contained in the site should be construed as granting, by implication, estoppel or otherwise any license or right to any person under any patent, trademark, copyright or other proprietary right of IDEXX. Company, product and service names mentioned in the site that are not owned by IDEXX are trademarks or service marks of their respective owners.</p>
+
+<p class="lead"><strong>SUBMISSIONS TO THIS SITE</strong><br>
+Any communications you send to this site or otherwise to IDEXX by electronic mail or other means are on a nonconfidential basis and shall be the exclusive property of IDEXX and its affiliates. IDEXX is under no obligation (except as stated in IDEXX's <a href="/en/about-idexx/privacy-policy/"
+                      
+                      
+                      
+                      
+>Privacy Policy Statement</a>) to refrain from reproducing, publishing or otherwise using the content of any such communications, including any ideas, inventions, concepts, techniques or know-how disclosed therein, in any way or for any purpose, including developing, manufacturing and marketing goods or services, without any obligation to you.</p>
+
+<p class="lead">If you send any communications to this site or otherwise to IDEXX, you shall be responsible for the content and information contained therein, including its truthfulness and accuracy.</p>
+
+<p class="lead"><strong>AVAILABILITY OF PRODUCTS AND SERVICES MENTIONED</strong><br>
+Information that IDEXX publishes on the site may contain references or cross-references to products and services that are not available or approved by the appropriate regulatory authorities in your country. Such references do not imply that IDEXX intends to announce or make available such products or services to the general public, or in your country. Consult your authorized IDEXX representative to determine which products and services may be available to you.</p>
+
+<p class="lead"><strong>SECURITIES LAW STATUTORY SAFE-HARBOR</strong><br>
+The site contains forward-looking statements that involve a number of risks and uncertainties. Factors that could cause actual results to differ materially from those reflected in the forward-looking statements include but are not limited to those that are discussed in IDEXX's most recent Annual Report or Quarterly Report to stockholders, in the section captioned "Management's Discussion and Analysis of Financial Condition and Results of Operations," as well as other information included in IDEXX's filings with the U.S. Securities and Exchange Commission.</p>
+
+<p class="lead"><strong>JURISDICTIONAL ISSUES</strong><br>
+This site is administered by IDEXX from its offices in Westbrook, Maine, U.S.A., or elsewhere in the United States. IDEXX makes no representation that the Materials at this site are appropriate or available for use outside the United States, and access to the Materials from jurisdictions in which the contents of the Materials are illegal is prohibited. You may not use, export or re-export the Materials at this site, or any copy or adaptation thereof, in violation of any applicable laws or regulations, including without limitation U.S. export laws and regulations. If you choose to access this site from outside the United States, you do so on your own initiative and are responsible for compliance with applicable local laws.</p>
+
+<p class="lead"><br>
+<strong>ENFORCEMENT OF THESE TERMS</strong><br>
+These Terms will be governed by and construed in accordance with the laws of the State of Maine, United States of America, without giving effect to any principles of conflicts of laws.</p>
+
+<p class="lead">All disputes arising out of or relating to these Terms shall be finally resolved by arbitration conducted in the English language in Portland, Maine, U.S.A., under the commercial arbitration rules of the American Arbitration Association. The parties shall appoint as sole arbitrator a retired judge who presided in the State of Maine. The parties shall bear equally the cost of the arbitration (except that the prevailing party shall be entitled to an award of reasonable attorneys' fees incurred in connection with the arbitration in such an amount as may be determined by the arbitrator). All decisions of the arbitrator shall be final and binding on both parties and enforceable in any court of competent jurisdiction. Notwithstanding this, application may be made to any court for judicial acceptance of the award or order of enforcement. Notwithstanding the foregoing, IDEXX shall be entitled to seek injunctive relief, security, or other equitable remedies from the United States District Court for the District of Maine, U.S.A., or any other court of competent jurisdiction.</p>
+
+<p class="lead"><strong>WEBSITE ACCESSIBILITY STATEMENT</strong></p>
+
+<p><strong>Summary</strong><br>
+IDEXX is committed to ensuring accessibility for all people, including persons with disabilities. This commitment extends to this website.    </p>
+
+<p>In particular, we are committed to developing this website in a manner that conforms with generally recognized and accepted standards for website accessibility (the “Standards”), which are currently the World Wide Web Consortium’s Web Content Accessibility Guidelines 2.0 at Levels A and AA (“WCAG”). While we recognize that the Standards may change, we will continue devote our resources to enhance the design and features of this website so as not to discriminate against or deny access to any disabled user.   </p>
+
+<p>As part of our policy and ongoing commitment to website accessibility, we are making available this accessibility statement and the dedicated accessibility email address below in order to address any accessibility issues that individual users may encounter and for which they seek a reasonable accommodation or auxiliary aid.</p>
+
+<p><strong>Measures to support accessibility</strong><br>
+We are taking the following measures to ensure accessibility of the website:</p>
+
+<ul>
+	<li>Include accessibility as a requirement for all web content consistent with current Standards.  </li>
+	<li>Assign clear accessibility goals and responsibilities.</li>
+	<li>Ensure content authors have accessibility knowledge and skills.</li>
+	<li>Include accessibility as part of our mission.</li>
+	<li>Include accessibility throughout our internal policies.</li>
+	<li>Usability test for participants with disabilities.</li>
+</ul>
+
+<p><strong>If you have trouble viewing website content, please contact us</strong><br>
+If you have a disability and believe that the format of any material on this website interferes with your ability to access the information, please contact our dedicated accessibility email address: <a href="mailto:accessibility@idexx.com"
+                      
+                      
+                      
+                      
+>accessibility@idexx.com</a>.  To enable us to best assist you, please notify us in the first instance by including the following information in your email:</p>
+
+<ul>
+	<li>the nature of the accessibility problem you experienced, </li>
+	<li>the web address (URL) of the requested material you tried to access, </li>
+	<li>your preferred format in which you want to receive the material (electronic format (ASCII, etc.), standard print, large print, etc.), and </li>
+	<li>your contact information so that we can work with you to address any accessibility issues you may have experienced.  <br>
+	 </li>
+</ul>
+
+<p>We'll get back to you as soon as we can to address the requests and/or to provide the information you're seeking.</p>
+
+<p class="lead"><strong>GENERAL</strong><br>
+Certain provisions of these Terms may be superseded by expressly designated legal notices or terms located on particular pages at this site.</p>
+
+<p class="lead">This is the entire agreement between the parties relating to the subject matter in these Terms and shall not be modified except in writing signed by both parties or by a new posting by IDEXX, as described above.</p>
+
+<p class="lead">If any part of these Terms is unlawful, void or unenforceable, that part will be deemed severable and will not affect the validity and enforceability of the remaining provisions.</p>
+
+<p class="lead">Any rights not expressly granted herein are reserved.</p>
+
+<p class="lead">If you have any questions about the rights and restrictions above, please feel free to contact IDEXX at the following addresses or numbers:</p>
+
+<ul>
+	<li><strong>Email</strong>: <a href="mailto:chiefprivacyofficer@idexx.com"
+                      
+                      
+                      
+                        target="_blank"
+                      
+                      
+>chiefprivacyofficer@idexx.com</a></li>
+	<li><strong>Phone</strong>: 1-888-557-6518</li>
+	<li><strong>Fax</strong>: 1-888-557-6518 (Attention: Chief Privacy Officer)</li>
+	<li><strong>Mail</strong>: IDEXX Laboratories Inc., Attention: Chief Privacy Officer, One IDEXX Drive, Westbrook, Maine 04092, U.S.A.</li>
+</ul>
+
+<h5><br>
+<span class="text-danger">Trademarks</span></h5>
+
+<p class="lead">The following are registered trademarks or trademarks of IDEXX Laboratories, Inc. or its affiliates in the United States and/or other countries. Before using these marks, consult the <a href="/en/about-idexx/idexx-trademark-guidelines/"
+                      
+                      
+                      
+                      
+>IDEXX Trademark Guidelines</a>.</p>
+
+<table cellpadding="1" cellspacing="1" class="table-striped table">
+	<tbody>
+		<tr>
+			<td><b>Trademark</b></td>
+			<td><b>In use</b></td>
+		</tr>
+		<tr>
+			<td>IDEXX</td>
+			<td>IDEXX, IDEXX Laboratories</td>
+		</tr>
+		<tr>
+			<td>3DX</td>
+			<td>SNAP<sup>®</sup> 3Dx<sup>®</sup> Test</td>
+		</tr>
+		<tr>
+			<td>4DX</td>
+			<td>SNAP<sup>®</sup> 4Dx<sup>®</sup> Plus Test, Lab 4Dx<sup>®</sup> Plus Test</td>
+		</tr>
+		<tr>
+			<td>ADRCHEK</td>
+			<td>ADRChek<sup>®</sup> Profile with Spec fPL<sup>®</sup> Test—Feline</td>
+		</tr>
+		<tr>
+			<td>ALERTYS</td>
+			<td>Alertys<sup>® </sup>Test</td>
+		</tr>
+		<tr>
+			<td>ALLER-G-DETECT</td>
+			<td>Aller-g-detect<sup>®</sup> Allergen Preliminary Panel</td>
+		</tr>
+		<tr>
+			<td>ANIMAL INSIDES</td>
+			<td>Animalinsides<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>ANIMANA (Europe only)</td>
+			<td>Animana<sup>®</sup> Veterinary Software</td>
+		</tr>
+		<tr>
+			<td>BETTER CHOICE</td>
+			<td>Better Choice<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>CALSNAP</td>
+			<td>CalSNAP<sup>™</sup> calibration device</td>
+		</tr>
+		<tr>
+			<td>CAPTURE</td>
+			<td>Capture<sup>™</sup> Imaging Software</td>
+		</tr>
+		<tr>
+			<td>CARDIOPET</td>
+			<td>CardioPet<sup>®</sup> proBNP Test</td>
+		</tr>
+		<tr>
+			<td>CARDIOPET</td>
+			<td>CardioPet<sup>®</sup> ECG Device</td>
+		</tr>
+		<tr>
+			<td>CATALYST</td>
+			<td>Catalyst<sup>®</sup> Total T<sub>4</sub> Test, Catalyst<sup>®</sup> slides, Catalyst<sup>®</sup> CLIPs, Catalyst<sup>®</sup> consumables</td>
+		</tr>
+		<tr>
+			<td>CATALYST DX</td>
+			<td>Catalyst Dx<sup>®</sup> Chemistry Analyzer</td>
+		</tr>
+		<tr>
+			<td>CATALYST ONE</td>
+			<td>Catalyst One<sup>®</sup> Chemistry Analyzer</td>
+		</tr>
+		<tr>
+			<td>CELLCHECK</td>
+			<td>CellCheck<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>CERTIFIED ZEBRAFISH</td>
+			<td>Certified Zebrafish<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>CHEKIT (Europe only)</td>
+			<td>Chekit<sup>®</sup> <em>Neospora</em> Enzyme Immunoassay (EIA) Kit</td>
+		</tr>
+		<tr>
+			<td>CLEARCAPTURE DX</td>
+			<td>ClearCapture Dx<sup>®</sup> Image Processing Software</td>
+		</tr>
+		<tr>
+			<td>COAG DX</td>
+			<td>Coag Dx<sup>™</sup> Analyzer, Coag Dx<sup>™</sup> Cartridges</td>
+		</tr>
+		<tr>
+			<td>COLILERT</td>
+			<td>Colilert<sup>®</sup> test, Colilert<sup>®</sup> 250 test</td>
+		</tr>
+		<tr>
+			<td>COLILERT-18</td>
+			<td>Colilert<sup>®</sup>-18 test</td>
+		</tr>
+		<tr>
+			<td>COLISURE</td>
+			<td>Colisure<sup>®</sup> test</td>
+		</tr>
+		<tr>
+			<td>COMFORTSAMPLER</td>
+			<td>ComfortSampler<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>COMPLIANCE ASSESSMENT TOOL</td>
+			<td>Compliance Assessment Tool<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>CORNERSTONE</td>
+			<td>Cornerstone<sup>®</sup> Practice Management Software</td>
+		</tr>
+		<tr>
+			<td>DATATROL DATA MANAGEMENT SOFTWARE</td>
+			<td>DataTrol Data Management Software<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>DEEPER INSIGHTS</td>
+			<td>Deeper insights<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>DEFINED SUBSTRATE TECHNOLOGY</td>
+			<td>Defined Substrate Technology<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>DIAGNOSTIC EDGE</td>
+			<td>Diagnostic Edge<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>DST</td>
+			<td>DST<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>DVMAX</td>
+			<td>DVMAX<sup>®</sup> Practice Management Software</td>
+		</tr>
+		<tr>
+			<td>DVMINSIGHT</td>
+			<td>DVMInsight<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>DX CONSULT</td>
+			<td>Dx Consult<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>EBI</td>
+			<td>EBI<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>ENTEROLERT</td>
+			<td>Enterolert<sup>®</sup> test, Enterolert<sup>®</sup>-E test, Enterolert<sup>®</sup>-DW test, Enterolert<sup>®</sup> 250 test</td>
+		</tr>
+		<tr>
+			<td>EQUINE BIODIAGNOSTICS, INC.</td>
+			<td>Equine Biodiagnostics, Inc.<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>EQUIVIEW</td>
+			<td>EquiView<sup>®</sup> Digital Imaging System</td>
+		</tr>
+		<tr>
+			<td>EQUIVIEW PACS</td>
+			<td>EquiView PACS<sup>®</sup> Imaging Software</td>
+		</tr>
+		<tr>
+			<td>EZ DPD</td>
+			<td>EZ DPD<sup>™</sup>reagent dispenser</td>
+		</tr>
+		<tr>
+			<td>EZ-QC</td>
+			<td>EZ-QC<sup>®</sup> Quality Control Kit</td>
+		</tr>
+		<tr>
+			<td>EZYVET</td>
+			<td>ezyVet<sup>®</sup> Practice Management Software</td>
+		</tr>
+		<tr>
+			<td>FASTART</td>
+			<td>Fastart<sup>®</sup> database</td>
+		</tr>
+		<tr>
+			<td>FECALCHEK</td>
+			<td>FecalChek<sup>™</sup> Home Collection Kit</td>
+		</tr>
+		<tr>
+			<td>FECAL DX</td>
+			<td>Fecal Dx<sup>®</sup> antigen testing</td>
+		</tr>
+		<tr>
+			<td>FELINE TRIPLE</td>
+			<td>SNAP<sup>®</sup> Feline Triple<sup>®</sup> Test</td>
+		</tr>
+		<tr>
+			<td>FILTA-MAX</td>
+			<td>Filta-Max<sup>®</sup> method</td>
+		</tr>
+		<tr>
+			<td>FILTA-MAX XPRESS</td>
+			<td>Filta-Max <i>xpress</i><sup>®</sup> method</td>
+		</tr>
+		<tr>
+			<td>FLOCKCHEK</td>
+			<td>FlockChek<sup>®</sup> test</td>
+		</tr>
+		<tr>
+			<td>FLUORICON</td>
+			<td>Fluoricon<sup>®</sup> microparticles</td>
+		</tr>
+		<tr>
+			<td>GOLDEN (South Africa only)</td>
+			<td>Golden<sup>®</sup> Veterinary Laboratory</td>
+		</tr>
+		<tr>
+			<td>GOLDEN VETPATH (South Africa only)</td>
+			<td>Golden VetPath<sup>®</sup> Veterinary Laboratory</td>
+		</tr>
+		<tr>
+			<td>HEALTHCHEK</td>
+			<td>HealthChek<sup>™</sup>, HealthChek<sup>™</sup> Plus</td>
+		</tr>
+		<tr>
+			<td>h-IMPACT</td>
+			<td>h-IMPACT<sup>™</sup> testing</td>
+		</tr>
+		<tr>
+			<td>HERDCHEK</td>
+			<td>HerdChek<sup>®</sup> test</td>
+		</tr>
+		<tr>
+			<td>IDEXX CBC</td>
+			<td>IDEXX CBC<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>IDEXX CBC-SELECT</td>
+			<td>IDEXX CBC-Select<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>IDEXX-CR</td>
+			<td>IDEXX-CR<sup>™</sup> 1417 Digital Imaging System</td>
+		</tr>
+		<tr>
+			<td>IDEXX-DIRECT</td>
+			<td>IDEXX-Direct<sup>®</sup> service</td>
+		</tr>
+		<tr>
+			<td>IDEXX-DR</td>
+			<td>IDEXX-DR<sup>™</sup> 1417 Digital Imaging System</td>
+		</tr>
+		<tr>
+			<td>IDEXX DX PORTAL</td>
+			<td>IDEXX Dx<sup>™</sup> Portal</td>
+		</tr>
+		<tr>
+			<td>IDEXX ELITEVISION</td>
+			<td>IDEXX EliteVision<sup>®</sup> Digital Imaging System</td>
+		</tr>
+		<tr>
+			<td>IDEXX FECALCHEK</td>
+			<td>IDEXX FecalChek<sup>®</sup> Home Collection Kit</td>
+		</tr>
+		<tr>
+			<td>IDEXX IMAGEBANK</td>
+			<td>IDEXX ImageBank<sup>™</sup> storage system</td>
+		</tr>
+		<tr>
+			<td>IDEXX INTERLINK</td>
+			<td>IDEXX Interlink<sup>®</sup> technology</td>
+		</tr>
+<tr>
+<td>IDEXX INVUE DX</td>
+<td>IDEXX inVue Dx<sup>™</sup> Cellular Analyzer</td>
+</tr>
+		<tr>
+			<td>IDEXX I-VISION CR</td>
+			<td>IDEXX I-Vision CR<sup>®</sup> System</td>
+		</tr>
+		<tr>
+			<td>IDEXX I-VISION DR</td>
+			<td>IDEXX I-Vision DR<sup>®</sup> System</td>
+		</tr>
+		<tr>
+			<td>IDEXX I-VISION MOBILE</td>
+			<td>IDEXX I-Vision Mobile<sup>™</sup> app</td>
+		</tr>
+		<tr>
+			<td>IDEXX MONITOR</td>
+			<td>IDEXX Monitor<sup>®</sup> Cornerstone<sup>®</sup> Dashboard report</td>
+		</tr>
+		<tr>
+			<td>IDEXX NEO</td>
+			<td>IDEXX Neo<sup>®</sup> Software</td>
+		</tr>
+		<tr>
+			<td>IDEXX-PACS</td>
+			<td>IDEXX-PACS<sup>™</sup> Imaging Software</td>
+		</tr>
+		<tr>
+			<td>IDEXX PRACTICE SOLUTIONS</td>
+			<td>IDEXX Practice Solutions<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>IDEXX PROCYTE DX</td>
+			<td>IDEXX ProCyte Dx<sup>®</sup> Hematology Analyzer</td>
+		</tr>
+		<tr>
+			<td>IDEXX RADIL</td>
+			<td>IDEXX RADIL<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>IDEXX SDMA</td>
+			<td>IDEXX SDMA<sup>®</sup> Test</td>
+		</tr>
+		<tr>
+			<td>IDEXX SECURE CONNECTION</td>
+			<td>IDEXX Secure Connection<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>IDEXX SMARTSERVICE</td>
+			<td>IDEXX SmartService<sup>™</sup> Solutions</td>
+		</tr>
+		<tr>
+			<td>IDEXX SNAPSHOT DX</td>
+			<td>SNAPshot Dx<sup>®</sup> Analyzer</td>
+		</tr>
+		<tr>
+			<td>IDEXX VETCENTRIFUGE</td>
+			<td>IDEXX VetCentrifuge<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>IDEXX VETLAB</td>
+			<td>IDEXX VetLab<sup>®</sup> Station Laboratory Information Management System (LIMS), IDEXX VetLab<sup>®</sup> UA<sup>™</sup> Analyzer, IDEXX VetLab<sup>®</sup> UA<sup>™</sup> Calibration Strips or IDEXX UA<sup>™</sup> Strips</td>
+		</tr>
+		<tr>
+			<td>IDEXX VETSTAT</td>
+			<td>VetStat<sup>®</sup> Electrolyte and Blood Gas Analyzer</td>
+		</tr>
+		<tr>
+			<td>IDEXX VETTROL</td>
+			<td>IDEXX VetTrol<sup>™</sup> Control</td>
+		</tr>
+		<tr>
+			<td>IDEXX VETTUBE</td>
+			<td>IDEXX VetTube<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>IDEXX VETVAULT</td>
+			<td>IDEXX VetVault<sup>®</sup> Backup Solution</td>
+		</tr>
+		<tr>
+			<td>IDEXX VPS and design (Australia only)</td>
+			<td>IDEXX VPS<sup>®</sup> Veterinary Laboratory</td>
+		</tr>
+		<tr>
+			<td>IMAGE COACH</td>
+			<td>Image Coach<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>IMAGEVUE</td>
+			<td>ImageVue<sup>®</sup> CR20 Digital Imaging System, ImageVue<sup>®</sup> DR40 Digital Imaging System, ImageVue<sup>®</sup> DR50 Digital Imaging System</td>
+		</tr>
+		<tr>
+			<td>IMPACT</td>
+			<td>IMPACT<sup>™</sup> testing</td>
+		</tr>
+		<tr>
+			<td>INDICATORX</td>
+			<td>IndicatoRx<sup>™</sup> Urine Microbial Test</td>
+		</tr>
+		<tr>
+			<td>INTELLISHARE</td>
+			<td>IntelliShare<sup>®</sup> image networking</td>
+		</tr>
+		<tr>
+			<td>IVS-CONNECT</td>
+			<td>IVS-Connect<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>KNOWLEDGE YOU CAN PUT INTO PRACTICE</td>
+			<td>Knowledge you can put into practice<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>LABREXX</td>
+			<td>LabREXX<sup>®</sup> software</td>
+		</tr>
+		<tr>
+			<td>LAMINAR FLOW IMPEDANCE</td>
+			<td>Laminar Flow Impedance<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>LASERCYTE</td>
+			<td>LaserCyte<sup>®</sup> Hematology Analyzer</td>
+		</tr>
+		<tr>
+			<td>LASERCYTE DX</td>
+			<td>LaserCyte Dx<sup>®</sup> Hematology Analyzer</td>
+		</tr>
+		<tr>
+			<td>LEGIOLERT</td>
+			<td>Legiolert<sup>®</sup> test</td>
+		</tr>
+		<tr>
+			<td>MFI2</td>
+			<td>MFI<sup>2</sup><sup>™</sup> serology</td>
+		</tr>
+		<tr>
+			<td>MULTIPLE ENZYME TECHNOLOGY</td>
+			<td>Multiple Enzyme Technology<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>NEO</td>
+			<td>Neo<sup>®</sup> Software</td>
+		</tr>
+		<tr>
+			<td>OFF-COLOUR (Australia only)</td>
+			<td>Off-Colour<sup>®</sup> Profile</td>
+		</tr>
+		<tr>
+			<td>OPTI</td>
+			<td>OPTI<sup>®</sup> CCA-TS2 Blood Gas and Electrolyte Analyzer, OPTI<sup>®</sup> R Blood Gas and Electrolyte Analyzer</td>
+		</tr>
+		<tr>
+			<td>OPTIMEDICAL</td>
+			<td>OPTIMedical<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>OPTI-HM</td>
+			<td>Opti-HM<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>OPTI-Q</td>
+			<td>Opti-Q<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>OPTI-SPOT</td>
+			<td>Opti-Spot<sup>®</sup> Dried Blood Spot Collection Strips</td>
+		</tr>
+		<tr>
+			<td>OPTIRHYTHM</td>
+			<td>OPTIRhythm<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>PATIENT ADVISOR</td>
+			<td>Patient Advisor<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>PATIENT CLIPBOARD</td>
+			<td>Patient Clipboard<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>PETCHEK</td>
+			<td>PetChek<sup>®</sup> test</td>
+		</tr>
+		<tr>
+			<td>PETDETECT</td>
+			<td>PetDetect<sup>®</sup> Pet Identification System</td>
+		</tr>
+		<tr>
+			<td>PET HEALTH NETWORK</td>
+			<td>Pet Health Network<sup>®</sup>, IDEXX Pet Health Network<sup>®</sup> Pro, Pet Health Network<sup>®</sup> 3D</td>
+		</tr>
+		<tr>
+			<td>PETLY</td>
+			<td>Petly<sup>®</sup> online pet page</td>
+		</tr>
+		<tr>
+			<td>PETLY</td>
+			<td>Petly<sup>®</sup> Plans</td>
+		</tr>
+		<tr>
+			<td>POURQUIER (outside of United States only)</td>
+			<td>Pourquier<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>PRACTICE ACCELERATOR</td>
+			<td>Practice Accelerator<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>PRACTICE EXPLORER</td>
+			<td>Practice Explorer<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>PRACTICE PROFILE</td>
+			<td>IDEXX Practice Profile<sup>™</sup> report</td>
+		</tr>
+		<tr>
+			<td>PROCYTE DX</td>
+			<td>IDEXX ProCyte Dx<sup>®</sup> Hematology Analyzer</td>
+		</tr>
+		<tr>
+			<td>PROCYTE ONE</td>
+			<td>ProCyte One<sup>®</sup> Hematology Analyzer</td>
+		</tr>
+		<tr>
+			<td>PROREAD</td>
+			<td>ProRead<sup>®</sup> Software</td>
+		</tr>
+		<tr>
+			<td>PRRS X3</td>
+			<td>IDEXX PRRS X3<sup>™</sup> Ab Test</td>
+		</tr>
+		<tr>
+			<td>PSEUDALERT</td>
+			<td>Pseudalert<sup>®</sup> reagent</td>
+		</tr>
+		<tr>
+			<td>QUALIBEADS</td>
+			<td>qualiBeads<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>QUANT C6</td>
+			<td>Lyme Quant C<sub>6</sub><sup>®</sup> Test</td>
+		</tr>
+		<tr>
+			<td>QUANTI-DISC</td>
+			<td>Quanti-Disc<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>QUANTI-TRAY</td>
+			<td>Quanti-Tray<sup>®</sup>, Quanti-Tray<sup>®</sup>/2000, Quanti-Tray<sup>®</sup> Sealer PLUS</td>
+		</tr>
+		<tr>
+			<td>RADIL</td>
+			<td>IDEXX RADIL<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>RADIOPET</td>
+			<td>RadioPet<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>REAL TIME CARE</td>
+			<td>Real-Time Care<sup>™</sup> (logo)</td>
+		</tr>
+		<tr>
+			<td>REALPCR</td>
+			<td>RealPCR<sup>™</sup> Test; RealPCR<sup>™</sup> MG/MS Multiplex DNA Mix</td>
+		</tr>
+		<tr>
+			<td>RVETLINK</td>
+			<td>rVetLink<sup>®</sup> Software</td>
+		</tr>
+		<tr>
+			<td>SEDIVUE</td>
+			<td>SediVue<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>SEDIVUE DX</td>
+			<td>SediVue Dx<sup>®</sup> Urine Sediment Analyzer</td>
+		</tr>
+		<tr>
+			<td>SEDIVUE V70i</td>
+			<td>SediVue V70i<sup>®</sup> Cartridge</td>
+		</tr>
+		<tr>
+			<td>SIMPLICITY FROM IDEXX</td>
+			<td>Simplicity from IDEXX<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>SINGLESPOT</td>
+			<td>SingleSpot<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>SMART FLAGS</td>
+			<td>SmartFlags<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>SMARTLINK</td>
+			<td>IDEXX SmartLink<sup>®</sup> technology</td>
+		</tr>
+		<tr>
+			<td>SMARTQC</td>
+			<td>SmartQC<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>SNAP</td>
+			<td>SNAP<sup>®</sup> test, SNAP<sup>®</sup> BVDV Antigen Test</td>
+		</tr>
+		<tr>
+			<td>SNAP</td>
+			<td>SNAP<sup>®</sup> test, SNAP<sup>®</sup> BVDV Antigen Test</td>
+		</tr>
+		<tr>
+			<td>SNAP 3DX (Japan only)</td>
+			<td>SNAP 3Dx<sup>®</sup> Test</td>
+		</tr>
+		<tr>
+			<td>SNAP 4DX (Japan only)</td>
+			<td>SNAP 4Dx<sup>®</sup> Test</td>
+		</tr>
+		<tr>
+			<td>SNAP CPL</td>
+			<td>SNAP<sup>®</sup> cPL<sup>™</sup> Test</td>
+		</tr>
+		<tr>
+			<td>SNAP FPL</td>
+			<td>SNAP<sup>®</sup> fPL<sup>™</sup> Test</td>
+		</tr>
+		<tr>
+			<td>SNAPCONNECT</td>
+			<td>SNAPconnect<sup>®</sup> software</td>
+		</tr>
+		<tr>
+			<td>SNAPDUO</td>
+			<td>SNAPduo<sup>™</sup> Beta-Tetra Test, SNAPduo<sup>™</sup> ST Plus Test</td>
+		</tr>
+		<tr>
+			<td>SNAPSHOT</td>
+			<td>SNAPshot<sup>®</sup> DSR Reader</td>
+		</tr>
+		<tr>
+			<td>SNAPSHOT DX</td>
+			<td>SNAPshot Dx<sup>®</sup> Analyzer</td>
+		</tr>
+		<tr>
+			<td>SNAP PRO</td>
+			<td>SNAP Pro<sup>®</sup> Analyzer</td>
+		</tr>
+		<tr>
+			<td>SNAP UP THE SAVINGS</td>
+			<td>SNAP Up The Savings<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>SOLID-STATE FLUIDICS</td>
+			<td>Solid-State Fluidics<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>SPEC CPL</td>
+			<td>Spec cPL<sup>®</sup> Test</td>
+		</tr>
+		<tr>
+			<td>SPEC FPL</td>
+			<td>Spec fPL<sup>®</sup> Test</td>
+		</tr>
+		<tr>
+			<td>STEPS</td>
+			<td>STEPs<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>STOOP, SCOOP AND SEND</td>
+			<td>Stoop, Scoop and Send<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>STRENGTHEN THE BONDS</td>
+			<td>Strengthen the bonds<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>TEST WITH CONFIDENCE</td>
+			<td>Test With Confidence<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>TOTAL HEALTH</td>
+			<td>Total Health<sup>™</sup>, Total Health<sup>™</sup> Plus</td>
+		</tr>
+		<tr>
+			<td>TRUEPET</td>
+			<td>TruePet<sup>™</sup> Wellness Program</td>
+		</tr>
+		<tr>
+			<td>VDIC</td>
+			<td>VDIC<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>VDIC (stylized)</td>
+			<td>(logo)</td>
+		</tr>
+		<tr>
+			<td>VET TECH CONNECTIONS</td>
+			<td>Vet Tech Connections<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>VETCOLLECT</td>
+			<td>VetCollect<sup>®</sup> tubes</td>
+		</tr>
+		<tr>
+			<td>VETCOM</td>
+			<td>VetCom<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>VETCONNECT</td>
+			<td>VetConnect<sup>®</sup>, VetConnect<sup>®</sup> PLUS, VetConnect<sup>®</sup> PLUS mobile app</td>
+		</tr>
+		<tr>
+			<td>VETCONNECT and design</td>
+			<td>VetConnect<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>VETCONNECT.COM</td>
+			<td>vetconnect.com</td>
+		</tr>
+		<tr>
+			<td>VETERINARY PRACTICE MANAGER</td>
+			<td>Veterinary Practice Manager<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>VETLINK</td>
+			<td>VetLink<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>VET MED LAB (France only)</td>
+			<td>Vet Med Lab<sup>™</sup></td>
+		</tr>
+		<tr>
+			<td>VET MED LAB and design (Europe only)</td>
+			<td>Vet Med Lab<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>VET MED LABOR (Europe only)</td>
+			<td>Vet Med Labor<sup>®</sup> Veterinary Diagnostic Laboratory</td>
+		</tr>
+		<tr>
+			<td>VETMEDSTAT</td>
+			<td>VetMedStat<sup>®</sup>, vetmedstat.com</td>
+		</tr>
+		<tr>
+			<td>VETPATH (South Africa only)</td>
+			<td>VetPath<sup>®</sup> Veterinary Laboratory</td>
+		</tr>
+		<tr>
+			<td>VET RADAR</td>
+			<td>Vet Radar<sup>®</sup></td>
+		</tr>
+		<tr>
+			<td>VETSTAT</td>
+			<td>VetStat<sup>®</sup> Electrolyte and Blood Gas Analyzer</td>
+		</tr>
+		<tr>
+			<td>VETTEST</td>
+			<td>VetTest<sup>®</sup> Chemistry Analyzer</td>
+		</tr>
+		<tr>
+			<td>VETVAULT</td>
+			<td>VetVault<sup>®</sup> Backup Solution</td>
+		</tr>
+		<tr>
+			<td>XCHEK</td>
+			<td>xChek<sup>®</sup> software</td>
+		</tr>
+		<tr>
+			<td>XCHEKPLUS</td>
+			<td>xChekPlus<sup>®</sup> software</td>
+		</tr>
+	</tbody>
+</table>
+
+<p class="lead">The following third-party marks are registered trademarks or trademarks of their respective holders:</p>
+
+<p class="lead">A World in Motion and AWIM are service marks of SAE International.</p>
+
+<p class="lead">Adobe and Acrobat are trademarks of Adobe Systems Incorporated in the United States and/or other countries.</p>
+
+<p class="lead">Albacillin, Quartermaster and NAXCEL are registered trademarks of Zoetis P&amp;U LLC.</p>
+
+<p class="lead">AMD Athlon, AMD Sempron and AMD Opteron are trademarks of Advanced Micro Devices, Inc.</p>
+
+<p class="lead">Authorize.Net is a registered trademark of CyberSource, a Visa company.</p>
+
+<p class="lead">BAYER and Bayer Cross are registered trademarks of Bayer AG (Germany); used under license by IDEXX Laboratories, Inc.</p>
+
+<p class="lead">BD, BD Microtainer, and Microtainer are registered trademarks of Becton, Dickinson and Company.</p>
+
+<p class="lead">Brother is a registered trademark of Brother Industries, Ltd., Japan, registered in Japan and certain other countries.</p>
+
+<p class="lead">Cabela’s is a registered trademark of Cabela’s Inc.</p>
+
+<p class="lead">CareCredit, a unit of the General Electric Co. and GE Capital Retail Bank and all related trademarks, unless otherwise noted, are owned or licensed by CareCredit LLC, General Electric Co. or their subsidiaries.</p>
+
+<p class="lead">CEFA-LAK, Cefa-Dri and Hetacin-K are either registered trademarks or trademarks of Fort Dodge Laboratories, Inc. in the United States and/or other countries.</p>
+
+<p class="lead">ClayPaws is a registered trademark of World by the Tail, Inc.</p>
+
+<p class="lead">Dell is a registered trademark of Dell Inc.</p>
+
+<p class="lead">Dymo is a registered trademark of Newell Brands Inc.</p>
+
+<p class="lead">Dynabeads and Invitrogen are trademarks or registered trademarks of Life Technologies Corporation.</p>
+
+<p class="lead">ESwab is a trademark or registered trademark of Copan Italia S.p.A.</p>
+
+<p class="lead">Facebook and the “f” logo are trademarks or registered trademarks of Facebook, Inc.</p>
+
+<p class="lead">Federal Express and FedEx are registered trademarks or trademarks of Federal Express.</p>
+
+<p class="lead">FidoCure is a registered trademark of OneHealthCompany, Inc.</p>
+
+<p class="lead">GeneAmp and AmpliTaq are registered trademarks of Roche Molecular Systems, Inc.</p>
+
+<p class="lead">Google and Google Analytics are trademarks or registered trademarks of Google, Inc.</p>
+
+<p class="lead">GREER and GREER Aller-g-complete are registered trademarks of GREER Laboratories, Inc.</p>
+
+<p class="lead">Hach and Pocket Colorimeter are trademarks or registered trademarks of the Hach Company.</p>
+
+<p class="lead">HP and LaserJet are registered trademarks of HP Inc.</p>
+
+<p class="lead">Imation is a trademark of Imation Corp. and its subsidiaries.</p>
+
+<p class="lead">Immiticide is a registered trademark of Merial, Inc.</p>
+
+<p class="lead">Instagram and the Instagram Camera Logo are trademarks of Instagram.</p>
+
+<p class="lead">Intel, Pentium, Celeron, Intel Xeon and Intel Atom are trademarks of Intel Corporation in the U.S. and other countries.</p>
+
+<p class="lead">iPhone and iPad are trademarks of Apple Inc., registered in the United States and other countries.</p>
+
+<p class="lead">LA-200 is either a registered trademark or a trademark of Pfizer, Inc. in the United States and/or other countries.</p>
+
+<p class="lead">LaMotte is a trademark of LaMotte Chemical Products Company.</p>
+
+<p class="lead">Lexmark is a trademark of Lexmark International, Inc., registered in the U.S. and/or other countries.</p>
+
+<p class="lead">LightCycler is a trademark owned by or licensed to a Member of the Roche Group.</p>
+
+<p class="lead">LinkedIn and the IN logo are registered trademarks or trademarks of LinkedIn Corporation and its affiliates in the United States and/or other countries.</p>
+
+<p class="lead">L.L.Bean is a registered trademark of L.L.Bean, Inc.</p>
+
+<p class="lead">MasterCard is a registered trademark of MasterCard International Incorporated.</p>
+
+<p class="lead">Maxim-200 is either a registered trademark or a trademark of Phoenix Pharmaceuticals, Inc. in the United States and/or other countries.</p>
+
+<p class="lead">Memento is a registered trademark of Tsukineko Co.,Ltd.</p>
+
+<p class="lead">Microsoft, Windows, Windows Server and Windows Vista are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.</p>
+
+<p class="lead">MiniSpin is a registered trademark of Eppendorf AG.</p>
+
+<p class="lead">Nu.Q, Nucleosomics and Volition are trademarks of VolitionRx Limited and its subsidiaries. The Nu.Q Vet Cancer Test is supplied by Belgian Volition SRL.</p>
+
+<p class="lead">OncoK9 is a registered trademark of PetDx, Inc.</p>
+
+<p class="lead">Oxytet is a registered trademark of Alpharma, LLC.</p>
+
+<p class="lead">Petstix is a trademark of Bayer Corporation; used under license by IDEXX Laboratories, Inc.</p>
+
+<p class="lead">QBC and VetAutoread are trademarks of QBC Diagnostics, Inc.</p>
+
+<p class="lead">QIAamp, RNeasy and QIAGEN are trademarks of the QIAGEN Group.</p>
+
+<p class="lead">Qorpak is a trademark or registered trademark of Berlin Packaging LLC.</p>
+
+<p class="lead">Quicken is a registered trademark of Intuit, Inc.</p>
+
+<p class="lead">RANDOX and Evidence Investigator are registered trademarks of Randox Laboratories Ltd.</p>
+
+<p class="lead">Seiko is a registered trademark of Seiko Holdings Corporation.</p>
+
+<p class="lead">SIMPLATE is the registered trademark of Merck KGaA, Darmstadt, Germany or its affiliates and is used by IDEXX under license.</p>
+
+<p class="lead">Sky-Scapes is a registered trademark of Repacorp, Inc.</p>
+
+<p class="lead">Swagelok is a trademark or registered trademark of Swagelok Company.</p>
+
+<p class="lead">Symantec and Backup Exec are trademarks or registered trademarks of Symantec Corporation or its affiliates in the U.S. and other countries.</p>
+
+<p class="lead">Tandberg Data, RDX, and QuikStor are trademarks or registered trademarks of Tandberg Data.</p>
+
+<p class="lead">TapeWare is a registered trademark of Yosemite Technologies, Inc.</p>
+
+<p class="lead">Topaz and SigLite are trademarks of Topaz Systems, Inc. in the U.S. and/or other countries.</p>
+
+<p class="lead">Trend Micro and Worry-Free are trademarks or registered trademarks of Trend Micro Incorporated.</p>
+
+<p class="lead">Trupanion is a registered trademark owned by Trupanion Inc.</p>
+
+<p class="lead">Twitter and the Twitter bird are trademarks or registered trademarks of Twitter, Inc. in the United States and/or other countries.</p>
+
+<p class="lead">Ultrium and Ultrium LTO are registered trademarks of Quantum Corporation.</p>
+
+<p class="lead">VADDS is a trademark of Advanced Technology Corporation. Vet-LIMS is a trademark of the College of Veterinary Medicine of the University of Missouri-Columbia. (<em>Note, IDEXX does not endorse either of these products nor does it make any representations regarding the performance or reliability of these products.</em>)</p>
+
+<p class="lead">Visa is a registered trademark of Visa in the United States and other countries.</p>
+
+<p class="lead">Zebra is a registered trademark of ZIH Corporation.<br>
+<br>
+All other product and company names and logos are trademarks or registered trademarks of their respective holders.</p>
+
+<p class="lead">Last updated: February 1, 2023</p>
+    
+</div>
+
+    
+</div>
+<div class="spacer
+     spacer-md
+    "
+    ></div>
+
+  </div>
+
+    
+    <hr class="sr-only" />
+    
+  </div>
+
+  
+    <footer class="footer" role="contentinfo">
+      <div class="container">
+        <nav class="row">
+          <h2 class="sr-only">Footer Navigation</h2>
+          <div class="col-sm-3">
+            <a href="/en/">
+              
+                <img class="footer-logo" src="/static/img/logo/logo-white.03cb18b36364.svg" alt="IDEXX">
+              
+            </a>
+
+            <p class="footer-text">
+              IDEXX is a global leader in pet healthcare innovation. Our diagnostic and software products and services create clarity in a complex and evolving world.
+            </p>
+
+            <a class="btn btn-primary-tint-border" href="/en/about-idexx/">Learn more</a>
+
+            <ul class="social-media-links list-inline">
+              <li class="list-inline-item">
+                <a href="https://www.facebook.com/IDEXX" class="footer-link link-inner">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 39">
+                    <path fill="currentColor" d="M17.638.552h2.27c.094.02.187.054.282.06 2.817.217 5.464 1.021 7.89 2.496 4.986 3.03 8.043 7.463 9.118 13.3.128.696.193 1.402.287 2.105v2.32c-.02.12-.046.24-.062.36-.102.752-.167 1.512-.308 2.256-1.458 7.714-7.567 13.808-15.15 15.127-.683.118-1.372.196-2.056.294h-2.344c-.093-.022-.185-.057-.278-.064a17.791 17.791 0 0 1-5.7-1.389C3.408 33.923-1.208 25.331.275 16.384 1.55 8.697 7.533 2.426 15.036.934c.86-.17 1.734-.257 2.602-.382Zm2.347 16.773c0-.91-.023-1.759.007-2.605.026-.79.46-1.234 1.241-1.297.522-.042 1.048-.027 1.572-.043.412-.013.58-.175.587-.596.01-.685.01-1.372 0-2.057-.007-.418-.183-.593-.587-.595-.77-.004-1.538-.018-2.306.009-2.01.07-3.482 1.274-3.825 3.296-.184 1.082-.11 2.208-.15 3.316-.008.182 0 .365 0 .58-.684 0-1.317-.005-1.95.003-.405.005-.587.187-.59.592-.007.835-.008 1.672 0 2.507.003.389.18.558.569.57.292.008.586.002.878.002h1.104v.468c-.004 2.37-.008 4.74-.01 7.108-.002.677.026.706.67.706h2.087c.644 0 .694-.05.694-.693V21.007h.431c.708 0 1.416.003 2.124-.001.48-.003.618-.143.673-.637.08-.73.16-1.462.251-2.19.085-.673-.063-.854-.738-.854H19.985Z" />
+                  </svg>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.youtube.com/user/idexxvideos" class="footer-link link-inner">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 39">
+                    <path fill="currentColor" d="M20.73 38.515h-2.364c-.093-.022-.186-.057-.28-.064a18.199 18.199 0 0 1-4.925-1.054C3.811 34.017-1.33 24.009 1.35 14.414 4.675 2.503 18.314-3.08 29.025 3.158c5.048 2.94 8.082 7.388 9.15 13.159.125.676.19 1.364.285 2.047v2.296c-.021.119-.047.237-.064.356-.102.744-.167 1.496-.31 2.234-1.47 7.635-7.633 13.669-15.28 14.973-.688.118-1.383.195-2.075.29v.002Zm-1.71-11.99c1.797-.07 3.114-.1 4.428-.18.907-.056 1.83-.093 2.71-.293 1.302-.295 2.262-1.006 2.504-2.468.437-2.643.448-5.279.036-7.923-.102-.652-.291-1.245-.787-1.708a3.662 3.662 0 0 0-2.139-.996 57.158 57.158 0 0 0-10.027-.207c-.945.062-1.903.101-2.821.301-1.214.265-2.199.91-2.447 2.26-.495 2.683-.504 5.373-.08 8.068.104.66.274 1.275.781 1.752.604.567 1.315.938 2.131 1.005 2.06.166 4.124.284 5.71.389Z" />
+                    <path fill="currentColor" d="m23.19 19.549-5.874 3.62v-7.234l5.874 3.614Z" />
+                  </svg>
+
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.linkedin.com/company/idexx-laboratories" class="footer-link link-inner">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 39">
+                    <path fill="currentColor" d="M17.688.552h2.343c.094.02.186.054.281.06 2.918.223 5.651 1.08 8.14 2.646 4.838 3.045 7.818 7.425 8.862 13.151.127.695.194 1.402.288 2.104v2.395c-.03.246-.063.49-.09.737-.401 3.79-1.744 7.189-4.11 10.137-2.943 3.665-6.706 5.942-11.279 6.791-.692.13-1.395.2-2.092.297h-2.343c-.457-.058-.916-.108-1.372-.174-3.73-.545-7.03-2.065-9.848-4.626-3.255-2.957-5.288-6.632-6.06-11.02-.125-.71-.195-1.428-.29-2.142v-2.395c.028-.245.062-.49.088-.737C.64 13.718 2.142 10.13 4.79 7.07 7.702 3.706 11.33 1.614 15.667.841c.67-.12 1.348-.194 2.02-.29Zm-1.732 28.944H20.5v-.456c0-1.846-.002-3.691 0-5.537.003-.76 0-1.521.029-2.281.03-.831.437-1.472 1.077-1.949 1.306-.972 3.044-.388 3.489 1.193.145.518.195 1.08.2 1.622.021 2.332.009 4.664.009 6.995v.412h4.546c.006-.14.016-.26.016-.382 0-2.507.007-5.013-.004-7.52a14.573 14.573 0 0 0-.1-1.64c-.323-2.732-1.922-4.455-4.498-4.763-1.866-.224-3.446.35-4.564 1.98-.04.058-.087.11-.196.245v-1.923h-4.55v14.004ZM8.87 15.47V29.49h4.548V16.453c0-.212-.016-.425.004-.635.028-.289-.088-.358-.354-.355-1.172.013-2.343.006-3.515.006H8.87Zm-.285-4.317c.009 1.42 1.079 2.426 2.565 2.412 1.495-.014 2.58-1.04 2.567-2.426-.014-1.436-1.09-2.44-2.596-2.428-1.496.014-2.544 1.023-2.535 2.442h-.001Z" />
+                  </svg>
+                </a>
+              </li>
+            </ul>
+
+          </div>
+          <div class="col-sm-9" id="page-footer">
+            
+            
+              <!-- 1 en Generated Tue, 01 Oct 2024 20:03:51 +0000 -->
+              
+
+<nav class="footer-link-grid">
+  
+    <div class="footer-links" id="id_about-us">
+      <h3 class="footer-links-title">
+        <a class="footer-link" href="/en/about-idexx/">
+          About us
+        </a>
+      </h3>
+      
+        <ul class="list-unstyled">
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/investors/">
+                Investor relations
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/corporate-governance/">
+                Corporate governance
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/our-purpose/">
+                IDEXX purpose
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/investors/company-overview/">
+                Company overview
+              </a>
+            </li>
+          
+        </ul>
+      
+    </div>
+  
+    <div class="footer-links" id="id_businesses">
+      <h3 class="footer-links-title">
+        <a class="footer-link" href="/en/about-idexx/idexx-businesses/">
+          Businesses
+        </a>
+      </h3>
+      
+        <ul class="list-unstyled">
+          
+            <li>
+              <a class="footer-link" href="/en/veterinary/">
+                Small animal
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/livestock/">
+                Livestock
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/milk/">
+                Milk
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/equine/">
+                Equine
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/water/">
+                Water testing solutions
+              </a>
+            </li>
+          
+        </ul>
+      
+    </div>
+  
+    <div class="footer-links" id="id_contact-idexx">
+      <h3 class="footer-links-title">
+        <a class="footer-link" href="/en/about-idexx/contact-idexx/">
+          Contact IDEXX
+        </a>
+      </h3>
+      
+        <ul class="list-unstyled">
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/locations/">
+                International office locations
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/terms-of-use/">
+                Terms of Use
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/terms-of-sale/">
+                Terms of Sale
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/terms-of-purchase/">
+                Terms of Purchase
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/privacy-policy/">
+                Privacy Policy
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/cookie-statement/">
+                Cookie Statement
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/cookie-list/">
+                Cookie List
+              </a>
+            </li>
+          
+            <li>
+              <a class="footer-link" href="/en/about-idexx/reference-laboratory-transportation-general-terms-and-conditions/">
+                Transport General Terms
+              </a>
+            </li>
+          
+        </ul>
+      
+    </div>
+  
+    <div class="footer-links" id="id_newsroom">
+      <h3 class="footer-links-title">
+        <a class="footer-link" href="/en/about-idexx/news/">
+          Newsroom
+        </a>
+      </h3>
+      
+    </div>
+  
+    <div class="footer-links" id="id_careers-at-idexx">
+      <h3 class="footer-links-title">
+        <a class="footer-link" href="https://careers.idexx.com/">
+          Careers at IDEXX
+        </a>
+      </h3>
+      
+    </div>
+  
+</nav>
+            
+
+          </div>
+        </nav>
+      </div>
+    </footer>
+  
+
+    
+
+    <button class="back-to-top">
+      <svg width="29" height="29" viewBox="0 0 29 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="1" y="1" width="27" height="27" stroke="#0B76F0" stroke-width="2"/>
+        <line x1="15.2393" y1="11.7017" x2="20.0783" y2="16.5406" stroke="#0B76F0" stroke-width="2" stroke-linecap="round"/>
+        <line x1="1" y1="-1" x2="7.84332" y2="-1" transform="matrix(-0.707107 0.707107 0.707107 0.707107 14.9023 11.7017)" stroke="#0B76F0" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+    </button>
+
+    <script src="/static/js/base.27ab58c2aed9.js"></script>
+    
+
+    
+    
+
+    
+
+<div class="browser-outdated" id="outdated" hidden="hidden">
+  <p class="last"><a href="#" id="btnCloseUpdateBrowser" title="Close">&times;</a></p>
+</div>
+
+  </body>
+</html>

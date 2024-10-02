@@ -1,0 +1,370 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="//cdn.entergy.com/css/app.css?v=20231215_04">
+	<title>Terms and conditions of use | Entergy | We power life.</title>	<!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-NDJDLC');</script>
+	<!-- End Google Tag Manager -->
+	<link rel="apple-touch-icon" sizes="180x180" href="//cdn.entergy.com/apple-touch-icon.png?v=2">
+	<link rel="icon" type="image/png" sizes="32x32" href="//cdn.entergy.com/favicon-32x32.png?v=2">
+	<link rel="icon" type="image/png" sizes="16x16" href="//cdn.entergy.com/favicon-16x16.png?v=2">
+	<link rel="manifest" href="//cdn.entergy.com/site.webmanifest">
+	<link rel="mask-icon" href="//cdn.entergy.com/safari-pinned-tab.svg?v=2" color="#e4002b">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="stylesheet" href="https://use.typekit.net/hiz5gfo.css">
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "Corporation",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "New Orleans",
+				"addressRegion": "LA",
+				"postalCode": "70113",
+				"streetAddress": "639 Loyola Ave"
+			},
+			"name": "Entergy Corporation",
+			"telephone": "+1 (800) 368-3749",
+			"alternateName": "Entergy",
+			"tickerSymbol": "ETR",
+			"url": "https://www.entergy.com",
+			"logo": "https://www.entergy.com/img/logo.svg",
+			"contactPoint": {
+				"@type": "ContactPoint",
+				"telephone": "+1 (800) 368-3749",
+				"contactType": "customer service",
+				"contactOption": "TollFree",
+				"areaServed": "US"
+			},
+			"sameAs": ["https://www.facebook.com/entergy", "https://twitter.com/Entergy", "https://www.linkedin.com/company/entergy/", "https://www.instagram.com/entergy/", "https://www.youtube.com/user/entergy"]
+		}
+	</script>
+</head>
+<body id="" class="  page-terms">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NDJDLC" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="off-canvas-wrapper">
+	<div class="off-canvas-wrapper-inner">
+		<div class="off-canvas position-right" id="offCanvas" data-off-canvas role="presentation" data-transition="overlap">
+			<a id="search-icon" href="/search/" class="hide-for-large"><img src="//cdn.entergy.com/img/icons/search_icon.svg" alt="Site search"> Search</a>
+			<div class="separator"></div>
+			<nav aria-label="Mobile Main Menu" class="primary">
+				<ul class="vertical menu">
+<li><a href="/residential/" target="" >Residential customers</a></li><ul class="submenu"><li><a style="display:block;" href="https://www.entergy-arkansas.com/residential/" target="" >Arkansas</a></li><li><a style="display:block;" href="https://www.entergy-louisiana.com/residential/" target="" >Louisiana</a></li><li><a style="display:block;" href="https://www.entergy-mississippi.com/residential/" target="" >Mississippi</a></li><li><a style="display:block;" href="https://www.entergy-neworleans.com/residential/" target="" >New Orleans</a></li><li><a style="display:block;" href="https://www.entergy-texas.com/residential/" target="" >Texas</a></li><li><a style="display:block;" href="/energyefficiency/" target="" >Energy efficiency</a></li><li><a style="display:block;" href="/safety/residential/" target="" >Safety</a></li></ul><li><a href="/business/" target="" >Business customers</a></li><ul class="submenu"><li><a style="display:block;" href="https://www.entergy-arkansas.com/your_business/" target="" >Arkansas</a></li><li><a style="display:block;" href="https://www.entergy-louisiana.com/your_business/" target="" >Louisiana</a></li><li><a style="display:block;" href="https://www.entergy-mississippi.com/your_business/" target="" >Mississippi</a></li><li><a style="display:block;" href="https://www.entergy-neworleans.com/your_business/" target="" >New Orleans</a></li><li><a style="display:block;" href="https://www.entergy-texas.com/your_business/" target="" >Texas</a></li><li><a style="display:block;" href="/energyefficiency/" target="" >Energy efficiency</a></li><li><a style="display:block;" href="/safety/contractor/" target="" >Safety</a></li></ul><li><a href="/communities/" target="" >Communities</a></li><ul class="submenu"><li><a style="display:block;" href="/csr/" target="" >Corporate social responsibility</a></li><li><a style="display:block;" href="/csr/giving/" target="" >Corporate and foundation giving</a></li><li><a style="display:block;" href="/care/" target="" >The Power to Care</a></li><li><a style="display:block;" href="/communities/low-income/" target="" >Customer assistance</a></li><li><a style="display:block;" href="/csr/supporting-diversity/" target="" >Supporting diversity</a></li><li><a style="display:block;" href="/stakeholder-engagement/" target="" >Stakeholder engagement</a></li><li><a style="display:block;" href="/sustainability/global/" target="" >Our global impact</a></li><li><a style="display:block;" href="https://www.entergynewsroom.com/awards/" target="" >Awards and recognition</a></li><li><a style="display:block;" href="https://goentergy.com/" target="_blank" >Economic development</a></li></ul><li><a href="/sustainability/" target="" >Sustainability</a></li><ul class="submenu"><li><a style="display:block;" href="/environment/" target="" >Environmental</a></li><li><a style="display:block;" href="/sustainability/social/" target="" >Social</a></li><li><a style="display:block;" href="/sustainability/governance/" target="" >Governance</a></li><li><a style="display:block;" href="/sustainability/value/" target="" >Sustainable value</a></li><li><a style="display:block;" href="/sustainability/global/" target="" >Our global impact</a></li><li><a style="display:block;" href="/sustainability/disclosures/" target="" >ESG disclosures</a></li></ul><li><a href="https://investors.entergy.com/investors/overview/default.aspx" target="" >Investors</a></li><ul class="submenu"><li><a style="display:block;" href="https://investors.entergy.com/investors/overview/default.aspx" target="" >Overview</a></li><li><a style="display:block;" href="https://investors.entergy.com/investors/regulatory-and-other-information-1/regulatory-and-other-information/default.aspx" target="" >Regulatory and other information</a></li><li><a style="display:block;" href="https://investors.entergy.com/investors/events-and-presentations/default.aspx" target="" >Events and presentations</a></li><li><a style="display:block;" href="https://investors.entergy.com/investors/financial-results-and-publications/quarterly-and-annual-results/default.aspx" target="" >Financial results and publications</a></li><li><a style="display:block;" href="https://investors.entergy.com/investors/sec-filings/default.aspx" target="" >SEC filings</a></li><li><a style="display:block;" href="https://investors.entergy.com/investors/stock-info/default.aspx" target="" >Stock and dividend info</a></li><li><a style="display:block;" href="/sustainability/financing/" target="" >Sustainable financing</a></li><li><a style="display:block;" href="/sustainability/governance/" target="" >Sustainability</a></li><li><a style="display:block;" href="https://investors.entergy.com/investors/shareholder-resources/information-request-form/default.aspx" target="" >Shareholder resources</a></li><li><a style="display:block;" href="https://investors.entergy.com/investors/contact-us/default.aspx" target="" >Contact Investor Relations</a></li></ul><li><a href="/operations/" target="" >Operations</a></li><ul class="submenu"><li><a style="display:block;" href="/operations/generation/" target="" >Power generation</a></li><li><a style="display:block;" href="/transmission/" target="" >Transmission</a></li><li><a style="display:block;" href="https://www.entergy-nuclear.com/sites/" target="" >Nuclear generation</a></li><li><a style="display:block;" href="/renewable-energy/" target="" >Renewable energy</a></li><li><a style="display:block;" href="/operations/hydro/" target="" >Hydroelectric operations</a></li><li><a style="display:block;" href="/operations/supply-chain/" target="" >Supplier information</a></li><li><a style="display:block;" href="/fso/" target="_blank" >Fuel supply operations</a></li><li><a style="display:block;" href="https://spofossil.entergy.com/" target="_blank" >System planning and requests for proposals</a></li></ul><li><a href="/about/" target="" >About us</a></li><ul class="submenu"><li><a style="display:block;" href="https://www.entergynewsroom.com/history/" target="" >Our history</a></li><li><a style="display:block;" href="https://www.entergynewsroom.com/leadership/" target="" >Our leadership</a></li><li><a style="display:block;" href="https://www.entergynewsroom.com/board/" target="" >Board of directors</a></li><li><a style="display:block;" href="/about/values-ethics/" target="" >Our values and ethics</a></li><li><a style="display:block;" href="/about/diversity-inclusion/" target="" >Diversity, inclusion and belonging</a></li><li><a style="display:block;" href="https://www.entergynewsroom.com/awards/" target="" >Awards and recognition</a></li><li><a style="display:block;" href="https://keystringlabs.entergy.com" target="_blank" >Innovation</a></li><li><a style="display:block;" href="https://www.entergynewsroom.com/" target="" >Newsroom</a></li><li><a style="display:block;" href="https://www.entergynewsroom.com/social/" target="" >Social media</a></li></ul><li><a href="https://www.myentergy.com">myEntergy</a></li></ul>			</nav>
+							<nav aria-label="Mobile Utility Menu" class="utility hide-for-medium" aria-label="Utility Menu">
+					<div class="row">
+						<div class="small-12 columns">
+							<a href="/contact/" class="utility-nav-link" target="" >Contact us</a><a href="https://www.entergynewsroom.com/" class="utility-nav-link" target="" >Newsroom</a><a href="https://jobs.entergy.com/" class="utility-nav-link" target="" >Careers</a><a href="/future/" class="utility-nav-link" target="" >Entergy Future Ready</a>						</div>
+					</div>
+				</nav>
+					</div>
+		<div class="off-canvas-content" data-off-canvas-content>
+							<nav class="utility" aria-label="Utility Menu">
+					<div class="row">
+						<div class="small-12 columns">
+														<a href="/contact/" class="utility-nav-link" target="" >Contact us</a><a href="https://www.entergynewsroom.com/" class="utility-nav-link" target="" >Newsroom</a><a href="https://jobs.entergy.com/" class="utility-nav-link" target="" >Careers</a><a href="/future/" class="utility-nav-link" target="" >Entergy Future Ready</a>							<div class="utility_btns"><a href="https://www.myentergy.com" class="myaccount">myEntergy</a><span class="pipe hide-for-medium">|</span><a href="#" id="outagesAnchor" data-toggle="outages-dropdown" class="outages">Outages</a></div>						</div>
+					</div>
+				</nav>
+						<header class="" style="box-shadow:0 3px 5px 0 rgba(0,0,0,.10);">
+				<div class="row">
+					<div class="small-9 medium-2 columns">
+						<div class="logo_curtain">
+							<a href="/"><img class="logo" src="//cdn.entergy.com/img/logo.svg" alt="Entergy Home"></a>
+						</div>
+					</div>
+					<div class="small-3 medium-10 columns">
+						<nav aria-label="Main Menu">
+							<ul class="top-level dropdown menu show-for-large" role="menubar" data-close-on-click-inside="false" data-dropdown-menu>
+	<li role="menuitem" class="show-for-medium "><a href="/residential/" target="" >Residential customers</a><ul role="menu" class="is-dropdown-submenu menu"><li><a href="https://www.entergy-arkansas.com/residential/" target="" >Arkansas</a></li><li><a href="https://www.entergy-louisiana.com/residential/" target="" >Louisiana</a></li><li><a href="https://www.entergy-mississippi.com/residential/" target="" >Mississippi</a></li><li><a href="https://www.entergy-neworleans.com/residential/" target="" >New Orleans</a></li><li><a href="https://www.entergy-texas.com/residential/" target="" >Texas</a></li><li><a href="/energyefficiency/" target="" >Energy efficiency</a></li><li><a href="/safety/residential/" target="" >Safety</a></li></ul></li><li role="menuitem" class="show-for-medium "><a href="/business/" target="" >Business customers</a><ul role="menu" class="is-dropdown-submenu menu"><li><a href="https://www.entergy-arkansas.com/your_business/" target="" >Arkansas</a></li><li><a href="https://www.entergy-louisiana.com/your_business/" target="" >Louisiana</a></li><li><a href="https://www.entergy-mississippi.com/your_business/" target="" >Mississippi</a></li><li><a href="https://www.entergy-neworleans.com/your_business/" target="" >New Orleans</a></li><li><a href="https://www.entergy-texas.com/your_business/" target="" >Texas</a></li><li><a href="/energyefficiency/" target="" >Energy efficiency</a></li><li><a href="/safety/contractor/" target="" >Safety</a></li></ul></li><li role="menuitem" class="show-for-medium "><a href="/communities/" target="" >Communities</a><ul role="menu" class="is-dropdown-submenu menu"><li><a href="/csr/" target="" >Corporate social responsibility</a></li><li><a href="/csr/giving/" target="" >Corporate and foundation giving</a></li><li><a href="/care/" target="" >The Power to Care</a></li><li><a href="/communities/low-income/" target="" >Customer assistance</a></li><li><a href="/csr/supporting-diversity/" target="" >Supporting diversity</a></li><li><a href="/stakeholder-engagement/" target="" >Stakeholder engagement</a></li><li><a href="/sustainability/global/" target="" >Our global impact</a></li><li><a href="https://www.entergynewsroom.com/awards/" target="" >Awards and recognition</a></li><li><a href="https://goentergy.com/" target="_blank" >Economic development</a></li></ul></li><li role="menuitem" class="show-for-medium "><a href="/sustainability/" target="" >Sustainability</a><ul role="menu" class="is-dropdown-submenu menu"><li><a href="/environment/" target="" >Environmental</a></li><li><a href="/sustainability/social/" target="" >Social</a></li><li><a href="/sustainability/governance/" target="" >Governance</a></li><li><a href="/sustainability/value/" target="" >Sustainable value</a></li><li><a href="/sustainability/global/" target="" >Our global impact</a></li><li><a href="/sustainability/disclosures/" target="" >ESG disclosures</a></li></ul></li><li role="menuitem" class="show-for-medium "><a href="https://investors.entergy.com/investors/overview/default.aspx" target="" >Investors</a><ul role="menu" class="is-dropdown-submenu menu"><li><a href="https://investors.entergy.com/investors/overview/default.aspx" target="" >Overview</a></li><li><a href="https://investors.entergy.com/investors/regulatory-and-other-information-1/regulatory-and-other-information/default.aspx" target="" >Regulatory and other information</a></li><li><a href="https://investors.entergy.com/investors/events-and-presentations/default.aspx" target="" >Events and presentations</a></li><li><a href="https://investors.entergy.com/investors/financial-results-and-publications/quarterly-and-annual-results/default.aspx" target="" >Financial results and publications</a></li><li><a href="https://investors.entergy.com/investors/sec-filings/default.aspx" target="" >SEC filings</a></li><li><a href="https://investors.entergy.com/investors/stock-info/default.aspx" target="" >Stock and dividend info</a></li><li><a href="/sustainability/financing/" target="" >Sustainable financing</a></li><li><a href="/sustainability/governance/" target="" >Sustainability</a></li><li><a href="https://investors.entergy.com/investors/shareholder-resources/information-request-form/default.aspx" target="" >Shareholder resources</a></li><li><a href="https://investors.entergy.com/investors/contact-us/default.aspx" target="" >Contact Investor Relations</a></li></ul></li><li role="menuitem" class="show-for-medium "><a href="/operations/" target="" >Operations</a><ul role="menu" class="is-dropdown-submenu menu"><li><a href="/operations/generation/" target="" >Power generation</a></li><li><a href="/transmission/" target="" >Transmission</a></li><li><a href="https://www.entergy-nuclear.com/sites/" target="" >Nuclear generation</a></li><li><a href="/renewable-energy/" target="" >Renewable energy</a></li><li><a href="/operations/hydro/" target="" >Hydroelectric operations</a></li><li><a href="/operations/supply-chain/" target="" >Supplier information</a></li><li><a href="/fso/" target="_blank" >Fuel supply operations</a></li><li><a href="https://spofossil.entergy.com/" target="_blank" >System planning and requests for proposals</a></li></ul></li><li role="menuitem" class="show-for-medium "><a href="/about/" target="" >About us</a><ul role="menu" class="is-dropdown-submenu menu"><li><a href="https://www.entergynewsroom.com/history/" target="" >Our history</a></li><li><a href="https://www.entergynewsroom.com/leadership/" target="" >Our leadership</a></li><li><a href="https://www.entergynewsroom.com/board/" target="" >Board of directors</a></li><li><a href="/about/values-ethics/" target="" >Our values and ethics</a></li><li><a href="/about/diversity-inclusion/" target="" >Diversity, inclusion and belonging</a></li><li><a href="https://www.entergynewsroom.com/awards/" target="" >Awards and recognition</a></li><li><a href="https://keystringlabs.entergy.com" target="_blank" >Innovation</a></li><li><a href="https://www.entergynewsroom.com/" target="" >Newsroom</a></li><li><a href="https://www.entergynewsroom.com/social/" target="" >Social media</a></li></ul></li>	<li>
+		<a id="search-icon" class="show-for-large" href="/search/"><img src="//cdn.entergy.com/img/icons/search_icon.svg" alt="Site search"></a>
+	</li>
+	</ul>							<a href="#" class="hide-for-large menuIcon" aria-hidden="true" data-toggle="offCanvas"><img src="//cdn.entergy.com/img/icons/mobile-menu.svg" alt="Toggle Mobile Menu"></a>
+						</nav>
+					</div>
+				</div>
+							</header>
+			<div class="dropdown-pane" data-position="bottom" data-alignment="right" id="outages-dropdown" data-dropdown>
+				<ul>
+					<li><a target="_blank" href="https://www.etrviewoutage.com/map?state=AR">Entergy Arkansas</a></li>
+					<li><a target="_blank" href="https://www.etrviewoutage.com/map?state=LA">Entergy Louisiana</a></li>
+					<li><a target="_blank" href="https://www.etrviewoutage.com/map?state=MS">Entergy Mississippi</a></li>
+					<li><a target="_blank" href="https://www.etrviewoutage.com/map?state=NOLA">Entergy New Orleans</a></li>
+					<li><a target="_blank" href="https://www.etrviewoutage.com/map?state=TX">Entergy Texas</a></li>
+				</ul>
+			</div>
+			<div class="header-space "></div>
+			<main>
+				
+
+	<section class="section-header header-small no-background" style="">
+		<div class="row">
+			<div class="small-12 medium-8 large-5 columns end">
+				<h1 class="black">Terms and conditions of use</h1>			</div>
+		</div>
+	</section>
+
+
+		<section class="main-content">
+		<div class="row">
+			<div class="small-12   large-12  end columns">
+					 
+										<div class="editable-content fluid-frame margin as-large-12"><h4 style="color: #000; font-weight: bold;">Last updated: Dec. 5, 2023</h4>
+<h2>Entergy Corporation and subsidiaries general terms, conditions, and policies for the use of Entergy websites and mobile applications<em></em></h2>
+<p>Welcome. You have accessed these terms, conditions, and policies through a website (each, a “<strong>Website</strong>”) or mobile application (each, an “<strong>Application</strong>”) of Entergy Corporation and its subsidiaries (collectively, the “<strong>Sites</strong>”). These terms, conditions, and policies (collectively the “<strong>Site Terms</strong>”), and our <a href="/privacy-policy/">privacy policy</a> (the “<strong>Privacy Policy</strong>”) and, as applicable, our terms and conditions for certain services you purchase or any account you create through our <a href="https://www.myentergy.com/s/general-tc">myEntergy Website</a> or Application (“<strong>myEntergy</strong>”) (the “<strong>myEntergy Terms</strong>”), are incorporated herein and made a part of these Site Terms, and govern your use of the Sites. Although some of the services you may receive from us will be governed by the myEntergy Terms, other services you purchase or otherwise receive from us will be governed by other terms and conditions provided to you at the time you elect to receive those services. Throughout these Site Terms, the words "user," "you," "your," and "yours" refer to any person or entity using the Sites, and the words "Entergy," "we," "us," and "ours" refer to Entergy Corporation or one or more of its subsidiaries (as further described below), as well as any vendor that Entergy, in our sole discretion, may use to support the Sites. Your use of these Sites constitutes your agreement to abide by and be bound by these Site Terms. Any use of the Sites contrary to the Site Terms or any applicable local, state, national, or international law or regulation, as in effect at the time of such use, is unauthorized and prohibited. You may not use the Sites if you do not agree to these Site Terms. We reserve the right to seek all remedies available at law and in equity for violations of the rules and regulations set forth in these Site Terms, including the right to block access from a particular Internet address to the Sites. You agree that any violation, or threatened violation, by you of these Site Terms will cause us irreparable and unquantifiable harm. You also agree that monetary damages would be inadequate for such harm and consent to our obtaining any injunctive or equitable relief that we deem necessary or appropriate. These remedies are in addition to any other remedies we may have at law or in equity. We reserve the right, in our sole discretion, at any time, for any reason, and without prior notice to any user, to revise these Site Terms. Accordingly, we advise you to review these Site Terms each time you use the Sites. Modifications to these Site Terms will be posted on the Website and the “Last Updated” date at the top of this web page will be revised. You understand and agree that if you use the Sites after the date on which the Site Terms have changed, we will treat your use as acceptance of the updated Site Terms. </p>
+<h4>1. Entergy and affiliates</h4>
+<p>Entergy Corporation is a holding company for individual public utility companies, among other affiliates. Each of these public utility companies and other affiliates is a separate and distinct legal entity. Each public utility subsidiary of Entergy Corporation has its own service territory, federal and/or state utility regulatory regime(s), rate structure(s), and customers. No such public utility subsidiary or other affiliate shall be liable for the obligations or entitled to the benefits of any other public utility subsidiary or affiliate, except as may be expressly provided by duly authorized and executed, enforceable written agreement. The public utility subsidiaries of Entergy Corporation that provide retail electric and/or gas utility services are the following: </p>
+<ul>
+<li>Entergy Arkansas, LLC</li>
+<li>Entergy Louisiana, LLC</li>
+<li>Entergy Mississippi, LLC</li>
+<li>Entergy New Orleans, LLC</li>
+<li>Entergy Texas, Inc. </li>
+</ul>
+<p>Solely for reasons of convenience, the term "Entergy" is used to refer individually and collectively to Entergy Corporation and its affiliates, including but not limited to the public utility companies named above.</p>
+<h4>2. Restrictions on use</h4>
+<p>You will not use the Sites for any use other than your personal use in connection with your business relationship with Entergy. You will not take any of the following actions with respect to the Sites or the server nor will you use our Sites to upload, post, email, distribute, transmit, link, solicit or otherwise make available any content or use the Sites in any manner that: (i) uploads or transmits any unsolicited advertising, promotional materials, “junk mail”, “spam”, “chain letters”, “pyramid schemes”, or any other form of solicitation, commercial or otherwise; (ii) decompiles, uses reverse engineering, disassembles, derives the source code of or decrypts the Sites or server hosting the Sites; (iii) manipulates or otherwise displays the Sites by using framing, mirroring or similar navigational technology or directly links to any portion of the Sites other than the main homepage located at www.entergy.com; (iv) uses any robot, spider, scraper or other automatic or manual means to access the Sites or copies any content or information on the Sites; (v) removes, obscures, or alters any proprietary notices (including any notice of copyright or trademark) of Entergy or its affiliates, partners, suppliers or the licensors; (vi) modifies, adapts, improves, enhances or makes any derivative work from the Sites; (vii) disables, overburdens, impairs or otherwise interferes with or interrupts the Sites or any hardware, software, system or network connected with the Sites; (viii) probes, scans, tests the vulnerability of, or breaches the authentication measures of the Sites or any related networks or systems; (ix) interferes with any other party’s use and enjoyment of the Sites; (x) infringes the copyright, trademark or any proprietary rights or discloses a trade secret or confidential information in violation of a confidentiality or non-disclosure agreement; (xi) compiles, uses, downloads or otherwise copies any other user’s information or any portion thereof, or transmits, provides or otherwise distributes (whether or not for a fee) such information to any third party; (xii) is fraudulent, malicious or unlawful, unauthorized or contains defamatory or illegal information, images, materials or descriptions; (xiii) promotes or provides instructions for illegal activities; (xiv) encourages any conduct that would constitute a criminal offense or that gives rise to civil liability; (xv) disseminates viruses or other computer code, files or programs that interrupt, destroy or limit the functionality of any computer software or hardware; (xvi) attempts to gain unauthorized access to any other accounts, computer systems or networks connected to any server or systems through hacking, password mining or any other means; or (xvii) accesses systems, data or information not intended by Entergy to be made accessible to you.</p>
+<h4>3. Proprietary rights; submissions; lawful use</h4>
+<ol style="list-style-type: lower-alpha;">
+<li>The Sites are proprietary to Entergy. Except as otherwise indicated, all information, text, images, logos, designs, graphics, photos, sounds, presentation, layouts, icons, documentation, forms, and other materials (herein referred to as "<strong>Content</strong>") on the Sites or provided by Entergy for use in connection with or accessed through the Sites are the subject of copyrights, trademarks, service marks, or intellectual property or proprietary rights held by, or licensed to, Entergy, including but not limited to the "Entergy" name and its associated logo(s). Content of these Sites may not be published, copied, distributed, transmitted, modified, exploited, or used in the creation of derivative works, in any form or by or to any entity (other than Entergy) for any purpose without the prior written consent of Entergy; provided, however, that users of the Sites may download Content in connection with the ordinary utilization of the Sites for use by a single individual using a standard Web browser, so long as such Content is not modified, altered, deleted, retransmitted, published, or otherwise changed and copyright, trademark or service mark, and other proprietary notices are not removed.</li>
+<li>Any information, suggestion, idea, graphic, remark, or other submission made by a user to Entergy through the Sites, whether submitted by email or otherwise, is considered “<strong>User Content.</strong>” Unless we indicate otherwise, you grant us all right, title, and interest to such User Content on any media and in any form, and represent that the User Content is not confidential except as otherwise provided by Entergy's Privacy Policy. You acknowledge and agree that all such User Content shall comply with these Site Terms (including the restrictions on use as set forth in Section 3 above) and you may not use any fake e-mail address or impersonate any other person or entity or otherwise mislead as to the origin of the User Content. Entergy shall be entitled to use any such submission and any derivative works created therefrom, and any related concepts, ideas, techniques, or know-how for any lawful purpose without any obligation to any user submitting the same and without any other restriction, permission, or compensation. Each user making any such submission thereby acknowledges the originality of such submission and accepts responsibility for its accuracy, completeness, appropriateness, and legality. You represent and warrant that all User Content that you submit or post complies with any guidelines or rules of the United States Federal Trade Commission, including but not limited to FTC 16 CFR Part 255, regarding truth-in advertising and disclosure requirements. You represent and warrant that all User Content you submit to the Sites or us is accurate, truthful and non-deceptive and that all User Content has evidence to back up the claims made. You further represent and warrant that you own or otherwise control all of the proprietary rights to the User Content that you submit or post to the Sites and that you will indemnify Entergy Corporation and its subsidiaries for all claims resulting from any User Content you submit to us or post to the Sites.</li>
+<li>The Sites are provided only for lawful use. Any use of the Sites for any purpose contrary to applicable law is strictly prohibited.</li>
+</ol>
+<h4>4. Security and privacy</h4>
+<p>Your security and privacy are important to us. Information transmitted over the Internet and stored on computers connected to the Internet can never be perfectly private or secure. Please take a moment to review our Privacy Policy, which explains our practices relating to the collection and use of your information through or in connection with the Sites or any services we provide for you or on your behalf. Entergy shall endeavor to maintain the security and privacy of the information it receives in accordance with Entergy's <a href="/privacy-policy/">Privacy Policy</a>. We reserve the right to take any action that we deem necessary to ensure the security of the Sites and as allowed by law and our Privacy Policy.</p>
+<p>E-mail, text-message, and phone scams are becoming more common. If you suspect that you received a fraudulent email, text, or phone call from Entergy, do no click on links in such text messages or emails, or disclose confidential information pursuant to them. When in doubt, check your account on <a href="https://www.myentergy.com/">myEntergy.com</a> or download the Entergy mobile app.</p>
+<h4>5. Equipment and network services</h4>
+<p>Each user is responsible for supplying and maintaining all hardware, software, access to networks, and communications and other equipment necessary for connectivity to gain access to the Sites. Entergy shall have no responsibility whatsoever with respect to the foregoing, and reserves the right to change the access configuration of the Sites at any time without prior notice.</p>
+<h4>6. Accounts</h4>
+<p>In order to access certain content or features of the Sites, you may be required to register with Entergy and create an account. You must not use domain names or web URLs in your username. Your account gives you access to certain portions of the Sites and functionality that Entergy may establish and maintain from time to time and in its sole discretion. You may control your user profile and how you interact with the Sites by changing the settings in the account maintenance sections of the Sites. You are responsible for any activity that occurs through your account and you agree you will not sell, transfer, license or assign your account, followers, username, or any account rights. With the exception of people or businesses that are expressly authorized to create accounts on behalf of their employers or clients, Entergy prohibits the creation of, and you agree that you will not create an account for anyone other than yourself. You also represent that all information you provide or provided to Entergy upon registration and at all other times will be true, accurate, current and complete and you agree to update your information as necessary to maintain its truth and accuracy. Do not provide your password to any other person or use any other person’s username and password. You must notify Entergy immediately of any breach of security or unauthorized use of your account. Entergy will not be liable for any losses caused by any unauthorized use of your account.</p>
+<h4>7. Alternate login methods</h4>
+<p>You may be able to access your account within the Sites by using features such as fingerprint recognition, facial recognition, or other biometric input, which are specific to your mobile device. <strong>These features are provided through your mobile device’s built-in functionality, and Entergy has no responsibility for any failure of these features, either where such failure may prevent you from accessing your account or where such failure may permit an unauthorized third party to access your account. When you use these features, your biometric data is stored on your device and is not transferred to, processed, or stored by or on behalf of Entergy. Be aware that if you enable features such as fingerprint or facial recognition, anyone with a fingerprint or face profile stored on your device may have access to the information contained within the Sites.</strong></p>
+<h4>8. Payments</h4>
+<p>Certain features of the Sites may permit you to make payments related to your account. Generally, by accessing and using these features, you authorize Entergy to use any account or debit information provided by you through the sites to process payments which you initiate. If the information you provide is invalid, or your chosen payment method is not honored, Entergy may demand payment by alternate method, and you agree to pay the amount due. Entergy is not liable for any payment failure resulting from inaccurate or incomplete information that you provide, or from any error in any financial institution’s or other third-party’s systems. In addition, depending on the particular Sites or features, your access to or use of payment functionality may be subject to additional terms and conditions that are presented to you when you access or use these features. In the event of any conflict between these additional terms and conditions, as between you and Entergy, the additional terms and conditions will govern. If the payment functionality is provided by a third party, your use may be subject to terms and conditions provided by such third party in accordance with Section 10(d).</p>
+<h4>9. Monitoring</h4>
+<p>Entergy retains the right, exercisable in its sole discretion, at any time, and from time to time, to monitor, intercept, search, and record (for any permissible purpose under the Privacy Policy) any and all activities on Entergy’s systems, including the user’s use of the Sites, and undertaken through any computer, mobile device, or other device connected to the Entergy network. Entergy may disclose information, as it deems appropriate and subject to its Privacy Policy and applicable law, to third parties such as the local, state, or federal law enforcement, to help ensure information security, protect Entergy’s network, or cooperate in the investigation of any suspected or alleged crime or civil wrong. Except as may be expressly limited by the Privacy Policy, we reserve the right at all times to disclose any information as we deem necessary to satisfy any applicable law, regulation, legal process or governmental request. Entergy further reserves the right, in accordance with Entergy’s Privacy Policy and applicable law, without the consent of or liability to any user or third party, to record, screen, edit, curtail, or remove any content on this system, including the Services, in whole or in part, at any time and for any reason, including because it believes such content to be harmful, harassing, abusive, offensive, or in violation of these Site Terms. Entergy shall have no liability to any user or third party for the performance or non-performance of monitoring or other actions taken to protect the Entergy network, or pursuant to these Site Terms.</p>
+<h4>10. Exclusion of warranties</h4>
+<ol style="list-style-type: lower-alpha;">
+<li>THE SITES, CONTENT, AND ANY RELATED DOCUMENTATION ARE PROVIDED ON AN "AS IS," “AS AVAILABLE” BASIS AND WITHOUT ANY WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY OF MERCHANTABILITY, NON-INFRINGEMENT, OR FITNESS FOR A PARTICULAR PURPOSE. WE MAKE NO WARRANTY AS TO THE ACCURACY, COMPLETENESS, CURRENCY OR RELIABILITY OF ANY CONTENT AVAILABLE THROUGH THE SITES. YOU ARE RESPONSIBLE FOR VERIFYING ANY INFORMATION BEFORE RELYING ON IT. USE OF THE SITES IS AT YOUR SOLE RISK. ENTERGY MAKES NO REPRESENTATIONS OR WARRANTIES THAT USE OF THE SITES WILL BE UNINTERRUPTED, COMPLETELY SECURE, OR ERROR-FREE.</li>
+<li>The Content of the Sites may contain technical, typographical, or other errors, inaccuracies, or omissions. Entergy reserves the right, in its sole discretion, at any time, and for any reason, to make corrections, revisions, and changes to the Sites or Content, or to suspend or terminate the availability of the Sites to any or all users, without prior notice. Entergy makes no warranty and shall have no responsibility to any user with respect to any such error, inaccuracy, omission, correction, revision, change, suspension, or termination.</li>
+<li>Entergy makes no warranty that the Sites or websites or Content accessible through the Sites are free of destructive computer code such as viruses, worms, trojan horses, and the like. Users should and are responsible for taking their own precautions with respect to such code.</li>
+<li>Entergy shall have no responsibility and makes no representation, warranty, or endorsement with respect to any other website that a user may access from the Sites. Access to any such other website(s) is provided solely as a convenience to users. Any such other website is independent of these Sites, and Entergy has no control over the content of any such other website and the content available on the third-party websites linked to the Sites does not necessarily reflect the opinion of Entergy. Users accessing other websites linked from the Sites do so entirely at their own risk, and are subject to such terms and conditions as are imposed by such other linked websites. You should review the terms of use and privacy policies that are posted on any website that you visit, before using any linked websites. Entergy accepts no liability for any information, products, advertisements, content, services or software accessible through these third-party websites or for any action you may take as a result of linking to any such website. Entergy is under no obligation to maintain any link on the Sites and may remove a link at any time in its sole discretion for any reason whatsoever. Entergy shall not be responsible or liable, directly or indirectly, for any damages or losses caused or alleged to be caused by or in connection with the use of or reliance on such content, products, services or other materials available on or through any such linked third party website. Entergy is not responsible for the privacy practices of any other websites.</li>
+</ol>
+<h4>11. Unavailability of the sites; failure of online transactions</h4>
+<p>The unavailability of the Sites, or the failure of any online transaction for any reason, shall not relieve any utility customer or user from, or excuse the delay in the payment or performance of, any obligation owed to Entergy for or in connection with utility services that have been rendered or otherwise. Certain features of the Sites may permit you to: (a) report an outage, or (b) view an outage map. Entergy makes these features available as a convenience to you and its other customers but does not warrant or guarantee the accuracy of outage maps accessed through the Sites, nor does it guarantee any particular response with respect to outages reported through the Sites.</p>
+<h4>12. Availability of products or services</h4>
+<p>Due to offers that are limited in time or availability, certain products and/or services described on the Sites may not be available to all users. The Sites may provide certain summary descriptions or other helpful information regarding products and services. Any such materials are intended to generally describe the products and services and are subject in all respects to the specific terms and conditions of the actual product/service agreement to which they refer. Entergy does not warrant that product or service descriptions are accurate, complete, reliable, current, or error-free. The listing, description of, or reference to, a product or service on the Sites does not imply that the product or service is presently available. All orders or purchases of products or services are subject to prevailing law, including, as appropriate, export and import regulations and boycotting restrictions, if any, imposed by governing bodies having jurisdiction over such orders, purchases, products or services.</p>
+<h4>13. Limitations of liability</h4>
+<p>IN NO EVENT WILL ENTERGY BE LIABLE TO YOU OR ANY PARTY FOR ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, PUNITIVE, OR OTHER DAMAGES FOR ANY USE OF THE SITES OR ANY LINKED WEBSITE, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOST PROFITS, BUSINESS INTERRUPTION, LOSS OF PROGRAMS OR DATA ON ENTERGY’S OR ANY USER’S COMPUTER HARDWARE OR INFORMATION HANDLING SYSTEMS, OR OTHERWISE, WHETHER BASED IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH ACCESS TO OR USE OF THE SITES, INCLUDING BUT NOT LIMITED TO: (A) ANY ACTION TAKEN IN CONNECTION WITH AN INVESTIGATION BY LAW ENFORCEMENT AUTHORITIES REGARDING YOUR OR ANY OTHER PARTY'S USE OF THE SITES; (B) ANY ACTION TAKEN IN CONNECTION WITH COPYRIGHT OR OTHER INTELLECTUAL PROPERTY OWNERS; OR (C) WHETHER CAUSED IN WHOLE OR IN PART BY NEGLIGENCE, ACTS OF GOD, TELECOMMUNICATIONS FAILURE, THEFT OR DESTRUCTION OF, OR UNAUTHORIZED ACCESS TO THE SITES, OR RELATED INFORMATION OR PROGRAMS, THAT ARISE IN CONNECTION WITH: (1) MISTAKES OR OMISSIONS IN, OR DELAYS IN TRANSMISSION OF, INFORMATION TO OR FROM THE USER; (2) INTERRUPTIONS IN TELECOMMUNICATIONS CONNECTIONS TO THE SITES; OR (3) VIRUSES, REGARDLESS OF WHETHER ENTERGY HAS BEEN ADVISED OR IS AWARE OF THE POSSIBILITY OF SUCH DAMAGES. ENTERGY IS NOT RESPONSIBLE FOR TECHNICAL, HARDWARE, OR SOFTWARE FAILURES OR LOSSES OF ANY KIND, OR FOR FAILED, INCOMPLETE, DISTORTED, OR DELAYED DATA TRANSMISSIONS, OR EQUIPMENT INCOMPATIBILITIES, IN RELATION TO ANY USE OF THE SITES. ENTERGY IS NOT RESPONSIBLE FOR DAMAGE RESULTING FROM DESTRUCTIVE COMPUTER CODE SUCH AS VIRUSES, WORMS, TROJAN HORSES, AND THE LIKE. UNDER NO CIRCUMSTANCES WILL ENTERGY BE LIABLE FOR DAMAGES OF ANY KIND RESULTING FROM THE USE OF INFORMATION, INTERACTIVE FORMS, CONTENT, OR COMPUTER CODE ON THE SITES OR ANY WEBSITE ACCESSIBLE THROUGH THE SITES. </p>
+<p>OUR TOTAL LIABILITY TO YOU FROM ALL CAUSES OF ACTION AND UNDER ALL THEORIES WILL BE LIMITED TO THE AMOUNT YOU HAVE PAID FOR THE USE OF THE SITES, IF ANY, AND IF YOU HAVE PAID NO AMOUNT, THEN FIFTY DOLLARS ($50). YOU ACKNOWLEDGE AND AGREE THAT ANY CLAIM YOU MAY HAVE ARISING OUT OF OR RELATED TO YOUR USE OF THE SITES MUST BE FILED WITHIN ONE (1) YEAR AFTER SUCH CLAIM ARISES; OTHERWISE, YOUR CLAIM IS PERMANENTLY BARRED. YOU ALSO ACKNOWLEDGE AND AGREE THAT YOU HAVE VIEWED OR USED THE SITES WITH A FULL UNDERSTANDING OF THE LIMITATION OF OUR LIABILITY IN THESE SITE TERMS.</p>
+<h4>14. Indemnity</h4>
+<p>You agree to indemnify and hold Entergy and its subsidiaries, affiliates, officers, agents, employees, contractors, partners and licensors harmless from and against any and all suits, actions, losses, claims, proceedings, demands, expenses, damages, settlements, judgments, injuries, liabilities, obligations, risks, and costs, including, without limitation, reasonable attorneys’ fees, made by any third party due to or arising out of your use of the Sites, your violation of these Site Terms, or your violation of any law or regulation or any rights of another. Entergy reserves the right, at your expense, to assume the exclusive defense and control of any matter which you are required to indemnify against, and you agree to cooperate in Entergy’s defense of such matter. This indemnification shall survive any termination of these Site Terms.</p>
+<h4>15. Waivers</h4>
+<p>Entergy will not be deemed to have waived any of the terms of these Site Terms or any of its other terms, conditions, or policies with respect to the Sites, or any of its rights with respect to the foregoing, unless the waiver is in a written document expressly setting forth the nature and extent of the waiver, executed by a representative of Entergy duly authorized to execute and deliver the same. No delay or omission on the part of Entergy in enforcing its rights or remedies under these Site Terms or any such other terms, conditions, or policies shall impair its current or future exercise of its rights and remedies thereunder or be construed as a waiver of any provision of these Site Terms or any such other terms, conditions, or policies. No partial or single exercise of any right or remedy available to Entergy under these Site Terms or any such other terms, conditions, or policies shall preclude the full availability to Entergy of such right or remedy.</p>
+<h4>16. No fiduciary relationship</h4>
+<p>Except to the extent set forth in a separate agreement between you and Entergy, there is no fiduciary relationship between you and Entergy. The Site Terms do not create any relationship of principal and agent, partnership, joint venture, or employer and employee, between you and Entergy. You may not enter into any contract on our behalf or bind us in any way.</p>
+<h4>17. Assignment</h4>
+<p>No user may assign to any other person or entity its rights or obligations under these Site Terms or under any other terms, conditions, or policies with respect to the Sites without the express written consent of Entergy. Entergy, in its sole discretion, may freely assign these Site Terms or its rights and obligations hereunder or under any other terms, conditions, or policies with respect to the Sites, in whole or in part, to any third party or parties without the consent of or notice to any user.</p>
+<p></p>
+<h4>18. Applicable laws</h4>
+<p>The Sites and these Site Terms are governed by the laws of the State of Arkansas, excluding its conflicts of laws principles, and, where and to the extent applicable, by federal law. Terms, conditions, and policies applicable to the provision of particular online services related to utility customer accounts are governed by the laws of the state in which the relevant Entergy public utility affiliate provides utility services, regardless of where a particular user is located or resides at the time the user obtains utility services, accesses the Website, or makes use of the Web Services. To the extent of a conflict, the law of the state in which the relevant Entergy public utility affiliate provides utility services will govern. Entergy does not represent that the materials or Content available on its Sites may be used outside of the United States. Access to the Sites may not be legal by certain persons or in certain countries. Users who access Sites from outside the United States do so at their own risk, and are responsible for compliance with the laws of the jurisdiction from which the Sites are accessed.</p>
+<h4>19. Government use rights</h4>
+<p>All materials, software and applications on or available through the Sites are provided with “RESTRICTED RIGHTS.” Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in applicable laws and regulations.</p>
+<h4>20. Captions</h4>
+<p>Captions and titles in these Site Terms and in any other terms, conditions, or policies with respect to this Site and the Mobile Application are for convenience only and are not to be construed to affect the meaning or affect these Site Terms or any such other terms, conditions, or policies.</p>
+<h4>21. Severability</h4>
+<p>If any provision of these Site Terms or of any other terms, conditions, or policies with respect to the Sites is determined to be void or invalid as a matter of law, the remaining provisions of these Site Terms and of any such other terms, conditions, and policies shall not be affected thereby and shall remain in full force and effect.</p>
+<h4>22. App store terms of use</h4>
+<p>The following terms apply to any Application accessed through or downloaded from any app store or distribution platform (like an Entergy portal, the Apple App Store or Google Play) where the Application may now or in the future be made available (each an “Application Provider”). You acknowledge and agree that: </p>
+<ol style="list-style-type: lower-alpha;">
+<li>These Terms are concluded between you and Entergy, and not with the Application Provider, and that Entergy (not the Application Provider, to the extent the Application provider is not Entergy), is solely responsible for the Application.</li>
+<li>To the extent you obtain an Application from the Apple Application Store, any licenses granted hereunder for the use of the Application are limited to a license to use the Application on any Apple-branded Products that you own or control and as permitted by the Usage Rules set forth in the Application Store Terms of Service, except that the Application may be accessed and used by other accounts associated with you via family sharing or volume purchasing.</li>
+<li>Unless expressly stated otherwise in writing by the Application Provider, the Application Provider has no obligation to furnish any maintenance and support services with respect to the Application.</li>
+<li>To the extent the Application Provider is not Entergy, you may notify the Application Provider in the event of any failure of the Application to conform to any applicable warranty, and the Application Provider will refund the purchase price for the Application to you (if applicable) and to the maximum extent permitted by applicable law, the Application Provider will have no other warranty obligation whatsoever with respect to the Application. To the extent that Entergy is not the Application Provider, any claims, losses, liabilities, damages, costs or expenses other than the purchase price attributable to any failure to conform to any warranty will be the sole responsibility of Entergy in accordance with these Terms.</li>
+<li>To the extent the Application Provider is not Entergy, the Application Provider is not responsible for addressing any claims you have or any claims of any third party relating to the Application or your possession and use of the Application, including, but not limited to: (A) product liability claims; (B) any claim that the Application fails to conform to any applicable legal or regulatory requirement; or (C) claims arising under consumer protection or similar legislation.</li>
+<li>To the extent the Application Provider is not Entergy, in the event of any third-party claim that the Application or your possession and use of that Application infringes that third party’s intellectual property rights, Entergy will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim to the extent required by these Terms.</li>
+<li>To the extent the Application Provider is not Entergy, the Application Provider, and its subsidiaries, are third party beneficiaries of these Terms as related to your license of the Application, and that, upon your acceptance of the terms and conditions of these Terms, the Application Provider will have the right (and will be deemed to have accepted the right) to enforce these Terms as related to your license of the Application against you as a third party beneficiary thereof.</li>
+<li>You must also comply with all applicable third-party terms of service when using the Application.</li>
+<li>You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.</li>
+<li>To the extent you obtain an Application from the Apple Application Store, you agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of the sections of these Terms applicable to the Application, and that, upon the your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce the applicable End User License Agreement against you as a third party beneficiary thereof.</li>
+</ol></div>																								</div>
+									</div>
+	</section>
+	
+			
+			
+
+
+
+			</main>
+			<footer>
+				<div class="circut">
+					<img src="//cdn.entergy.com/img/wplTagline.svg?v=2" alt="We power life.">
+				</div>
+				<div class="search-bar">
+					<div class="row hide-for-medium">
+						<div class="small-12 columns" style="text-align:left;font-size:1.2rem;padding-bottom:20px;">
+							Search
+						</div>
+					</div>
+					<div class="row">
+						<div class="small-12 columns">
+							<form action="/search/" role="search" aria-label="Site search form">
+								<input type="hidden" name="siteID" value="">
+								<div class="hide-for-medium">
+									<div class="row">
+										<div class="small-6 columns">
+											<label for="start-range">Start Date (Optional)</label>
+											<input type="date" name="dateStart" class="date-range-picker" id="start-range" autocomplete="off" placeholder="Start Date" value="">
+										</div>
+										<div class="small-6 columns">
+											<label for="end-range">End Date (Optional)</label>
+											<input type="date" id="end-range" class="date-range-picker" name="dateEnd" autocomplete="off" placeholder="End Date" value="">
+										</div>
+									</div>
+									<div class="row">
+										<div class="small-12 columns">
+											<br>
+											<label for="search-order-mobile">Search Results Order</label>
+											<select name="order" id="search-order-mobile" class="search-order">
+												<option value="relevance" selected>Relevancy</option>
+												<option value="date" >Most Recent</option>
+											</select>
+										</div>
+									</div>
+									<div class="container">
+										<div>Search Entergy website(s)</div>
+										<div class="row">
+											<div class="small-6 columns">
+												<label class="siteLabel"><input type="checkbox" name="site" checked value="entergy">entergy.com</label>
+												<label class="siteLabel"><input type="checkbox" name="site" checked value="entergynewsroom">Newsroom</label>
+												<label class="siteLabel"><input type="checkbox" name="site" checked value="entergyarkansas">Arkansas</label>
+												<label class="siteLabel"><input type="checkbox" name="site" checked value="entergylouisiana">Louisiana</label>
+											</div>
+											<div class="small-6 columns">
+												<label class="siteLabel"><input type="checkbox" name="site" checked value="entergymississippi">Mississippi</label>
+												<label class="siteLabel"><input type="checkbox" name="site" checked value="entergyneworleans">New Orleans</label>
+												<label class="siteLabel"><input type="checkbox" name="site" checked value="entergynuclear">Nuclear</label>
+												<label class="siteLabel"><input type="checkbox" name="site" checked value="entergytexas">Texas</label>
+											</div>
+										</div>
+									</div>
+								</div>
+								<input type="search" aria-label="Search criteria" name="terms" id="footer-search" placeholder="Search"><input type="image" src="//cdn.entergy.com/img/icons/footer-search-rebrand-2.jpg" alt="Search">
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="app-row">
+					<div class="row">
+						<div class="small-12 columns">
+							<div class="app-links">
+								<a target="_blank" href="https://itunes.apple.com/us/app/entergy/id529855219" id="apple-badge"><img alt="Download it on the App Store" src="//cdn.entergy.com/img/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg"></a>
+								<a target="_blank" href="https://play.google.com/store/apps/details?id=com.zehnder.entergy" id="google-badge"><img alt="Get it on Google Play" src="//cdn.entergy.com/img/google-play-badge.png"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<nav aria-label="Footer Menu" aria-hidden="true">
+				<div class="row border-row"><div class="columns small-12 medium-9"><div class="row small-up-2 medium-up-3 large-up-4">
+	<div class="column"><div class="header">Our companies</div><ul><li><a href="https://www.entergy-arkansas.com/" target="" >Entergy Arkansas</a></li><li><a href="https://www.entergy-louisiana.com/" target="" >Entergy Louisiana</a></li><li><a href="https://www.entergy-mississippi.com/" target="" >Entergy Mississippi</a></li><li><a href="https://www.entergy-neworleans.com/" target="" >Entergy New Orleans</a></li><li><a href="https://www.entergy-texas.com/" target="" >Entergy Texas</a></li><li><a href="https://www.entergy-nuclear.com/" target="" >Entergy Nuclear</a></li></ul></div><div class="column"><div class="header">Additional links</div><ul><li><a href="/surveys/" target="" >Entergy surveys in progress</a></li><li><a href="https://keystringlabs.entergy.com/" target="_blank" >KeyString Labs (Innovation)</a></li></ul></div><div class="column"><div class="header"><a href="https://jobs.entergy.com" target="" >Careers</a></div></div><div class="column"><div class="header"><a href="/contact/" target="" >Contact us</a></div></div></div></div>					<div class="small-12 medium-3 columns">
+						<div class="header"></div>
+						<ul >
+													</ul>
+					</div>
+				</div>
+				</nav>
+				<div class="row"><div class="columns small-12"><div class="separator"></div></div></div>
+									<div class="row bottom-content">
+						<div class="small-12 medium-8 columns">
+							<p class="copyright">&copy; 2024 Entergy Corporation. All rights reserved.</p>
+						</div>
+						<div class="small-12 medium-4 columns">
+							<ul class="links">
+								<li><a href="/accessibility/">Accessibility</a></li>
+								<li><a href="/privacy-policy/">Privacy</a></li>
+								<li><a href="/terms/">Terms of use</a></li>
+							</ul>
+						</div>
+					</div>
+							</footer>
+		</div>
+	</div>
+</div>
+<div id="search-overlay" role="presentation" style="display:none;">
+	<form action="/search/">
+		<input type="hidden" name="siteID" value="">
+		<div>
+			<a class="close" href="#">Close</a>
+			<label for="search-range">Date range (optional)</label>
+			<div class="container"><input type="text" class="date-picker date-range-picker" name="dateStart" id="search-range" autocomplete="off" placeholder="Start date" value=""><input type="text" class="date-picker date-range-picker" name="dateEnd" autocomplete="off" placeholder="End date" value=""></div>
+			<br>
+			<label for="search-order-modal">Search results order</label>
+			<select name="order" class="search-order" id="search-order-modal">
+				<option value="relevance" selected>Relevancy</option>
+				<option value="date" >Most recent</option>
+			</select>
+			<br>
+			<div style="font-size:1.2rem;">Search Entergy website(s)</div>
+			<div class="row">
+				<div class="small-12 medium-6 columns">
+					<label style="font-size:1rem;"><input type="checkbox" name="site" checked value="entergy">entergy.com</label>
+					<label style="font-size:1rem;"><input type="checkbox" name="site" checked value="entergynewsroom">Newsroom</label>
+					<label style="font-size:1rem;"><input type="checkbox" name="site" checked value="entergyarkansas">Arkansas</label>
+					<label style="font-size:1rem;"><input type="checkbox" name="site" checked value="entergylouisiana">Louisiana</label>
+				</div>
+				<div class="small-12 medium-6 columns">
+					<label style="font-size:1rem;"><input type="checkbox" name="site" checked value="entergymississippi">Mississippi</label>
+					<label style="font-size:1rem;"><input type="checkbox" name="site" checked value="entergyneworleans">New Orleans</label>
+					<label style="font-size:1rem;"><input type="checkbox" name="site" checked value="entergynuclear">Nuclear</label>
+					<label style="font-size:1rem;"><input type="checkbox" name="site" checked value="entergytexas">Texas</label>
+				</div>
+			</div>
+			<br>
+			<label for="search-terms">Search</label>
+			<div class="container"><input type="text" id="search-terms" name="terms" placeholder="Search" value=""><input type="image" src="//cdn.entergy.com/img/icons/footer-search-rebrand-2.jpg" alt="Search"></div>
+		</div>
+	</form>
+</div>
+	<script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+	<script src="//cdn.entergy.com/js/what-input.js?v=3476328dcefac7236"></script>
+	<script src="//cdn.entergy.com/js/foundation.min.js?v=93827093829084209"></script>
+	<script type="text/javascript" src="//cdn.entergy.com/js/slick.js?v=3476328dcefac7236"></script>
+	<script type="text/javascript" src="//cdn.entergy.com/js/slick-lightbox.js?v=3476328dcefac7236"></script>
+	<script type="text/javascript" src="//cdn.entergy.com/js/jquery.sticky-kit.js?v=3476328dcefac7236"></script>
+	<script type="text/javascript" src="//cdn.entergy.com/js/jquery.plugin.js"></script>
+	<script type="text/javascript" src="//cdn.entergy.com/js/jquery.datepick.js"></script>
+	<script src="//cdn.entergy.com/js/app.js?v=20230303"></script>
+
+</body>
+</html><script type="text/javascript">
+	$(document).ready(function() {
+		const urlPatterns = [
+			/youtu\.be\/([\w\-.]+)/,
+			/youtube\.com(.+)v=([^&]+)/,
+			/youtube.com\/embed\/([a-z0-9\-_]+(?:\?.+)?)/i,
+			/vimeo\.com\/([0-9]+)/,
+			/vimeo\.com\/(.*)\/([0-9]+)/,
+			/player.vimeo.com\/(.*)\/([0-9]+)/,
+			/dailymotion\.com\/video\/([^_]+)/
+		];
+		const iframes = document.getElementsByTagName('iframe');
+		$.each(iframes, function(iframe, index) {
+			let src = $(this).attr('src');
+			var isVideo = false;
+			var len = urlPatterns.length;
+			for (i = 0; i < len; i++) {
+				if (urlPatterns[i].test(src)) {
+					isVideo = true;
+				}
+			}
+			if (isVideo) {
+				$(this).wrap("<div class='flex-video responsive-embed widescreen'/>");
+			}
+		});
+	});
+</script>

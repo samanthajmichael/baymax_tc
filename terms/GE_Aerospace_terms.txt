@@ -1,0 +1,1155 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta class="swiftype" name="domain-identifier" data-type="integer" content="11" />
+<meta class="swiftype" name="published_at" data-type="date" content="2024-04-08" />
+<style id="gutenberg-palette">:root .has-ge-atmosphere-blue-color{color:#00003d}:root .has-ge-atmosphere-blue-background-color{background-color:#00003d}:root .has-ge-tungsten-color{color:#eaeaea}:root .has-ge-tungsten-background-color{background-color:#eaeaea}:root .has-ge-avionics-green-color{color:#0ad64f}:root .has-ge-avionics-green-background-color{background-color:#0ad64f}:root .has-ge-sky-blue-color{color:#4181ff}:root .has-ge-sky-blue-background-color{background-color:#4181ff}:root .has-ge-black-color{color:#000}:root .has-ge-black-background-color{background-color:#000}:root .has-ge-grey-color{color:#808080}:root .has-ge-grey-background-color{background-color:#808080}:root .has-ge-white-color{color:#fff}:root .has-ge-white-background-color{background-color:#fff}</style>
+<meta name="description" content="Terms .terms-of-use { font-family: var(--ge-font-regular); } .terms-of-use h3 { padd Terms .terms-of-use { font-family: var(--ge-font-regular); } .terms-of-use h3 { padding: 2rem 0 1rem; } .terms-of-use p { line-height:normal} .terms-of-use h3 { padding: 2rem 0 1rem; } .terms-of-use ul li { padding: 0.4rem 0 } .terms-of-use ul ul { margin-top: 0.3rem; } .terms-of-use ul a { text-decoration: none } Last Updated April 2, 2024 GEAerospace.com Terms of Use This Web site is operated by General Electric Company (&quot;GE Aerospace&quot;). Throughout the site, the terms &quot;we,&quot; &quot;us&quot; and &quot;our&quot; refer to GE Aerospace. GE Aerospace offers this Web site, including all information, tools and services available from this site, to you, the user, conditioned upon your acceptance of all the terms, conditions, policies and notices stated here. Your use of this site constitutes your agreement to these Terms of Use. Accuracy, Completeness and Timeliness of Information on This Site GE Aeropsace is not responsible if information made available on this site is not accurate, complete or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this site is at your own risk. This site may contain certain historical information. Historical information necessarily is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on the site. You agree that it is your responsibility to monitor changes to the site. Use of Materials on the Site All content on this site (including, without limitation, text, design, graphics, logos, icons, images, audio clips, downloads, interfaces, code and software, as well as the selection and arrangement thereof), is the exclusive property of and owned by GE Aerospace, its licensors or its content providers and is protected by copyright, trademark and other applicable laws. You may access, copy, download and print the material contained on the site for your personal and non-commercial use, provided you do not modify or delete any copyright, trademark or other proprietary notice that appears on the material you access, copy, download or print. Any other use of content on the site, including but not limited to the modification, distribution, transmission, performance, broadcast, publication, uploading, licensing, reverse engineering, transfer or sale of, or the creation of derivative works from, any material, information, software, products or services obtained from the site, or use of the site for purposes competitive to GE Aerospace, is expressly prohibited. You agree to abide by all additional restrictions displayed on the site as it may be updated from time to time. GE Aerospace reserves the right to refuse or cancel any person&#039;s registration for this site, remove any person from this site or prohibit any person from using this site for any reason whatsoever. GE Aerospace, or its licensors or content providers, retain full and complete title to the material provided on the site, including all associated intellectual property rights, and provide this material to you under a license that is revocable at any time in GE Aerospace&#039;s sole discretion. GE Aerospace neither warrants nor represents that your use of materials on this site will not infringe rights of third parties not affiliated with GE Aerospace. You may not use contact information provided on the site for unauthorized purposes, including marketing. You may not use any hardware or software intended to damage or interfere with the proper working of the site or to surreptitiously intercept any system, data or personal information from the site. You agree not to interrupt or attempt to interrupt the operation of the site in any way. GE Aerospace reserves the right, in its sole discretion, to limit or terminate your access to or use of the site at any time without notice. Termination of your access or use will not waive or affect any other right or relief to which GE Aerospace may be entitled at law or in equity. Materials You Submit You acknowledge that you are responsible for any material you may submit via the site, including the legality, reliability, appropriateness, originality and copyright of any such material. You may not upload to, distribute or otherwise publish through this site any content that (i) is confidential, proprietary, false, fraudulent, libelous, defamatory, obscene, threatening, invasive of privacy or publicity rights, infringing on intellectual property rights, abusive, illegal or otherwise objectionable; (ii) may constitute or encourage a criminal offense, violate the rights of any party or otherwise give rise to liability or violate any law; or (iii) may contain software viruses, political campaigning, chain letters, mass mailings, or any form of &quot;spam.&quot; You may not use a false email address or other identifying information, impersonate any person or entity or otherwise mislead as to the origin of any content. You may not upload commercial content onto the site. If you do submit material, and unless we indicate otherwise, you grant GE Aerospace and its affiliates an unrestricted, nonexclusive, royalty-free, perpetual, irrevocable and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute and display such material throughout the world in any media. You further agree that GE Aerospace is free to use any ideas, concepts, know-how that you or individuals acting on your behalf provide to GE Aerospace. You grant GE Aerospace and its affiliates the right to use the name you submit in connection with such material, if they so choose. All personal information provided via this site will be handled in accordance with the site&#039;s online Privacy Policy. You represent and warrant that you own or otherwise control all the rights to the content you post; that the content is accurate; that use of the content you supply does not violate any provision herein and will not cause injury to any person or entity; and that you will indemnify GE Aerospace for all claims resulting from content you supply. Conduct on the Site Some features that may be available on this site require registration. By registering at and in consideration of your use of the site you agree to provide true, accurate, current and complete information about yourself. Some features on this site require use of a password. You are responsible for protecting your password. You agree that you will be responsible for any and all statements made, and acts or omissions that occur, through the use of your password. If you have any reason to believe or become aware of any loss, theft or unauthorized use of your password, notify GE Aerospace immediately. GE Aerospace may assume that any communications GE Aerospace receives under your password have been made by you unless GE Aerospace receives notice otherwise. You or third parties acting on your behalf are not allowed to frame this site or use our proprietary marks as meta tags, without our written consent. These marks include, but are not limited to, GENERAL ELECTRIC, GE Aerospace, and GE Monogram. You may not use frames or utilize framing techniques or technology to enclose any content included on the site without GE Aerospace&#039;s express written consent. Further, you may not utilize any site content in any meta tags or any other &quot;hidden text&quot; techniques or technologies without GE Aerospace&#039;s express written consent. Links This site may contain links to other Web sites, some of which are operated by GE Aerospace or its affiliates and others of which are operated by third parties. These links are provided as a convenience to you and as an additional avenue of access to the information contained therein. We have not necessarily reviewed all the information on those other sites and are not responsible for the content of those or any other sites or any products or services that may be offered through those or any other sites. Inclusion of links to other sites should not be viewed as an endorsement of the content of linked sites. Different terms and conditions may apply to your use of any linked sites. GE Aerospace is not responsible for any losses, damages or other liabilities incurred as a result of your use of any linked sites. Trademarks and Copyrights Trademarks, logos and service marks displayed on this site are registered and unregistered trademarks of General Electric Company, its licensors or content providers, or other third parties. All of these trademarks, logos and service marks are the property of their respective owners. Nothing on this site shall be construed as granting, by implication, estoppel, or otherwise, any license or right to use any trademark, logo or service mark displayed on the site without the owner&#039;s prior written permission, except as otherwise described herein. GE Aerospace reserves all rights not expressly granted in and to the site and its content. This site and all of its content, including but not limited to text, design, graphics, interfaces and code, and the selection and arrangement thereof, is protected as a compilation under the copyright laws of the United States and other countries. Infringement Notice We respect the intellectual property rights of others and request that you do the same. You are hereby informed that GE Aerospace has adopted and reasonably implemented a policy that provides for the termination in appropriate circumstances of subscribers and account holders of GE Aerospace&#039;s system or network who are repeat copyright infringers. If you believe your copyright or the copyright of a person on whose behalf you are authorized to act has been infringed, you may notify our copyright agent: Christopher Parent Senior Trademark Counsel 901 Main Ave Attn: Corporate Trademark Norwalk, CT 06851 Phone: +1 646 413 5543 Email: christopher.parent@ge.com To be effective, your notification must (i) be in writing, (ii) be provided to our copyright agent, and (iii) include substantially the following: A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed; Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site; Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material; Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted; A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. GE Aerospace is under no obligation to post, forward, transmit, distribute or otherwise provide any material available on this site, including material you provide to us, and so we have an absolute right to remove any material from the site in our sole discretion at any time. DISCLAIMERS YOUR USE OF THIS SITE IS AT YOUR SOLE RISK. THE SITE IS PROVIDED ON AN &quot;AS IS&quot; AND &quot;AS AVAILABLE&quot; BASIS. WE RESERVE THE RIGHT TO RESTRICT OR TERMINATE YOUR ACCESS TO THE SITE OR ANY FEATURE OR PART THEREOF AT ANY TIME. GE AEROSPACE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND ANY WARRANTIES THAT MATERIALS ON THE SITE ARE NONINFRINGING, AS WELL AS WARRANTIES IMPLIED FROM A COURSE OF PERFORMANCE OR COURSE OF DEALING; THAT ACCESS TO THE SITE WILL BE UNINTERRUPTED OR ERROR-FREE; THAT THE SITE WILL BE SECURE; THAT THE SITE OR THE SERVER THAT MAKES THE SITE AVAILABLE WILL BE VIRUS-FREE; OR THAT INFORMATION ON THE SITE WILL BE COMPLETE, ACCURATE OR TIMELY. IF YOU DOWNLOAD ANY MATERIALS FROM THIS SITE, YOU DO SO AT YOUR OWN DISCRETION AND RISK. YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIALS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM GE AEROSPACE OR THROUGH OR FROM THE SITE SHALL CREATE ANY WARRANTY OF ANY KIND. GE AEROSPACE DOES NOT MAKE ANY WARRANTIES OR REPRESENTATIONS REGARDING THE USE OF THE MATERIALS ON THIS SITE IN TERMS OF THEIR COMPLETENESS, CORRECTNESS, ACCURACY, ADEQUACY, USEFULNESS, TIMELINESS, RELIABILITY OR OTHERWISE. IN CERTAIN JURISDICTIONS, THE LAW MAY NOT PERMIT THE DISCLAIMER OF WARRANTIES, SO THE ABOVE DISCLAIMER MAY NOT APPLY TO YOU. LIMITATION OF LIABILITY YOU ACKNOWLEDGE AND AGREE THAT YOU ASSUME FULL RESPONSIBILITY FOR YOUR USE OF THE SITE. YOU ACKNOWLEDGE AND AGREE THAT ANY INFORMATION YOU SEND OR RECEIVE DURING YOUR USE OF THE SITE MAY NOT BE SECURE AND MAY BE INTERCEPTED BY UNAUTHORIZED PARTIES. YOU ACKNOWLEDGE AND AGREE THAT YOUR USE OF THE SITE IS AT YOUR OWN RISK AND THAT THE SITE IS MADE AVAILABLE TO YOU AT NO CHARGE. RECOGNIZING SUCH, YOU ACKNOWLEDGE AND AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NEITHER GE AEROSPACE NOR ITS AFFILIATES, SUPPLIERS OR THIRD PARTY CONTENT PROVIDERS WILL BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, EXEMPLARY, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR OTHER DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO THE SITE, OR ANY OTHER SITE YOU ACCESS THROUGH A LINK FROM THIS SITE OR FROM ANY ACTIONS WE TAKE OR FAIL TO TAKE AS A RESULT OF COMMUNICATIONS YOU SEND TO US, OR THE DELAY OR INABILITY TO USE THE SITE, OR FOR ANY INFORMATION, PRODUCTS OR SERVICES ADVERTISED IN OR OBTAINED THROUGH THE SITE, GEAS REMOVAL OR DELETION OF ANY MATERIALS SUBMITTED OR POSTED ON ITS SITE, OR OTHERWISE ARISING OUT OF THE USE OF THE SITE, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF GE AEROSPACE, ITS AFFILIATES OR ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. THIS DISCLAIMER APPLIES, WITHOUT LIMITATION, TO ANY DAMAGES OR INJURY ARISING FROM ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECTS, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUSES, FILE CORRUPTION, COMMUNICATION-LINE FAILURE, NETWORK OR SYSTEM OUTAGE, YOUR LOSS OF PROFITS, OR THEFT, DESTRUCTION, UNAUTHORIZED ACCESS TO, ALTERATION OF, LOSS OR USE OF ANY RECORD OR DATA, AND ANY OTHER TANGIBLE OR INTANGIBLE LOSS. YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT NEITHER GE AEROSPACE NOR ITS SUPPLIERS SHALL BE LIABLE FOR ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF ANY USER OF THE SITE. YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY OF THE ABOVE CLAIMS OR ANY DISPUTE WITH GE AEROSPACE IS TO DISCONTINUE YOUR USE OF THE SITE. YOU AND GE AEROSPACE AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SITE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES OR THE CAUSE OF ACTION IS PERMANENTLY BARRED. BECAUSE SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, OR THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, ALL OR A PORTION OF THE ABOVE LIMITATION MAY NOT APPLY TO YOU. Indemnification You agree to indemnify, defend and hold harmless GE Aerospace and its affiliates and their officers, directors, employees, contractors, agents, licensors, service providers, subcontractors and suppliers from and against any and all losses, liabilities, expenses, damages and costs, including reasonable attorneys&#039; fees and court costs, arising or resulting from your use of the site and any violation of these Terms of Use. If you cause a technical disruption of the site or the systems transmitting the site to you or others, you agree to be responsible for any and all losses, liabilities, expenses, damages and costs, including reasonable attorneys&#039; fees and court costs, arising or resulting from that disruption. GE Aerospace reserves the right, at its own expense, to assume exclusive defense and control of any matter otherwise subject to indemnification by you and, in such case, you agree to cooperate with GE Aerospace in the defense of such matter. Jurisdiction and Applicable Law The laws of the State of New York govern these Terms of Use and your use of the site, and you irrevocably consent to the jurisdiction of the courts located in the County of New York for any action arising out of or relating to these Terms of Use. We recognize that it is possible for you to obtain access to this site from any jurisdiction in the world, but we have no practical ability to prevent such access. This site has been designed to comply with the laws of the State of New York and of the United States. If any material on this site, or your use of the site, is contrary to the laws of the place where you are when you access it, the site is not intended for you, and we ask you not to use the site. You are responsible for informing yourself of the laws of your jurisdiction and complying with them. Changes to These Terms of Use GE Aerospace reserves the right, at its sole discretion, to change, modify, add or remove any portion of these Terms of Use, in whole or in part, at any time, by posting revised terms on the site. It is your responsibility to check periodically for any changes we make to the Terms of Use. Your continued use of the site after any changes to the Terms of Use or other policies means you accept the changes. In the event we make material changes to the Terms of Use, notice of the changes will be posted on the homepage of this Web site and the revised terms will take effect thirty days after their publication on the site. Entire Agreement and Admissibility This agreement and any policies or operating rules posted on this site constitute the entire agreement and understanding between you and GE Aerospace with respect to the subject matter thereof and supersede all prior or contemporaneous communications and proposals, whether oral or written, between the parties with respect to such subject matter. A printed version of these Terms of Use shall be admissible in judicial or administrative proceedings based on or relating to use of the site to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. Severability If any provision of this agreement is unlawful, void or unenforceable, the remaining provisions of the agreement will remain in place. How to Contact Us If you have any questions or comments about these Terms of Use or this site, please contact us by writing us at: termsquestions.aerospace@ge.com Thank you for visiting our site." />
+<link rel="canonical" href="https://www.geaerospace.com/terms" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+<meta class="swiftype" name="domain-identifier" data-type="integer" content="1" />
+<link rel="icon" href="/themes/custom/aero_sub_theme/favicon.ico" type="image/png" />
+<link rel="alternate" hreflang="en" href="https://www.geaerospace.com/terms" />
+<link rel="preconnect" href="https://aerounifiedsearch.geapps.io" crossorigin="anonymous" />
+<link rel="dns-prefetch" href="https://aerounifiedsearch.geapps.io" />
+<link rel="preload" href="https://aerounifiedsearch.geapps.io/ge-component-client.js" as="script" importance="high" />
+<link rel="preload" href="https://aerounifiedsearch.geapps.io/embedunifiedsearch.js" as="script" importance="high" />
+<link rel="preload" href="https://aerounifiedsearch.geapps.io/ge-render-component.js" as="script" importance="high" />
+<link rel="preload" href="https://aerounifiedsearch.geapps.io/ge-component.js" as="script" importance="high" />
+
+    <title>Terms of use | GE Aerospace</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_TC8Vujp47GB_FmuY7cu6XmK9sqYiZG5Ph4lob1MCwk4.css?delta=0&amp;language=en&amp;theme=aero_sub_theme&amp;include=eJyNj2tuAjEMhC-0IUeKvInxGvJS7NDl9l2yQAuiUv9Y42_GI5nQQQhOi_MQMQdoltBsyGgxDzTRf1JG9BpRRrhv0SOv9pe-cbxwKNk-1Sd28F20JHcaTZHz2eGqDRyoNp67oti_jNtFAo5-4VSd9Fl846q89z-dSa6imOwMghNgK65nPjIGO17Y0XbtdMGEd0ilUESnQJY0va5A7_sBTrC-dSM0vxhCqFVMbSUMf45ltQ_xQ7bhz-bC-DXR9lqesdEOZdBvt76rdQ" />
+<link rel="stylesheet" media="all" href="https://aerounifiedsearch.geapps.io/css/ge_unified_search.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Gf8Deh3pcnQuc71qUKegGzvpC_TIXjquXYeJUiwfTvA.css?delta=2&amp;language=en&amp;theme=aero_sub_theme&amp;include=eJyNj2tuAjEMhC-0IUeKvInxGvJS7NDl9l2yQAuiUv9Y42_GI5nQQQhOi_MQMQdoltBsyGgxDzTRf1JG9BpRRrhv0SOv9pe-cbxwKNk-1Sd28F20JHcaTZHz2eGqDRyoNp67oti_jNtFAo5-4VSd9Fl846q89z-dSa6imOwMghNgK65nPjIGO17Y0XbtdMGEd0ilUESnQJY0va5A7_sBTrC-dSM0vxhCqFVMbSUMf45ltQ_xQ7bhz-bC-DXR9lqesdEOZdBvt76rdQ" />
+
+    <script src="/sites/default/files/js/js_3HHkezySn1VNQ1xzHFSR8Tkc9fgl0zlXU_UbCbsb-9Y.js?scope=header&amp;delta=0&amp;language=en&amp;theme=aero_sub_theme&amp;include=eJyNj2tuAjEMhC-0IUeKvInxGvJS7NDl9l2yQAuiUv9Y42_GI5nQQQhOi_MQMQdoltBsyGgxDzTRf1JG9BpRRrhv0SOv9pe-cbxwKNk-1Sd28F20JHcaTZHz2eGqDRyoNp67oti_jNtFAo5-4VSd9Fl846q89z-dSa6imOwMghNgK65nPjIGO17Y0XbtdMGEd0ilUESnQJY0va5A7_sBTrC-dSM0vxhCqFVMbSUMf45ltQ_xQ7bhz-bC-DXR9lqesdEOZdBvt76rdQ"></script>
+<script src="https://aerounifiedsearch.geapps.io/ge-component-client.js" async importance="high"></script>
+
+  </head>
+  <body class="node-5536 node-type--legal">
+        <a href="#main-content" class="visually-hidden focusable" data-swiftype-index="false">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XWZ42C"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <!--  Page Header Blocks -->
+  <div data-drupal-messages-fallback class="hidden"></div>
+
+  <div class="block--type-basic block block--basic block--aero-sub-theme-logostylefix">
+
+  
+    
+
+            
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><style>
+.aerospace-logo {
+  filter: none !important;
+}
+@supports (hanging-punctuation: first) and (font: -apple-system-body) and (-webkit-appearance: none)  {
+    .aerospace-navigation:not(.fixed-top) {
+        animation: initial;
+        background: var(--ge-atmosphere-blue);
+        transform: initial;
+        z-index: 3 !important;
+        ) 
+    } 
+   .aerospace-navigation.fixed-top{ -webkit-animation: initial; }
+}
+</style></div>
+      
+      
+  </div>
+
+
+<!--  End of Page Header Blocks -->
+
+    <!--  Render Navigations -->
+  <!-- header menu begins -->
+    <header class="navigation aerospace-navigation-light">
+      <nav id="block-aero-unified-main-menu"  class="navbar navbar-expand-custom navbar-light aerospace-navigation fixed-top" data-block-plugin-id="system_menu_block:main" data-swiftype-index="false">
+        
+  <div class="container-fluid p-0">
+      <a class="navbar-brand" href="/">
+      <img class="aerospace-logo" alt="GE Aerospace" title="GE Aerospace logo" src="/themes/custom/aero_sub_theme/logo.svg">
+    </a>
+    <div class="d-flex align-items-center">
+      <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+
+    <!-- menu content begins -->
+
+        
+
+
+
+  <div class="navbar-wrapper">
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+              <ul id="dropdown-menu-list" data-region="header"  data-region="navigation" class="navbar-nav dropdown-menu-list first--level">
+                                              <li class="nav-item menu-level-one ">
+                                                                                  
+                <a href="/commercial" class="navbar-text nav-link dropdown-toggle has-children" title="Commercial" data-drupal-link-system-path="node/4">Commercial<i class="ficon-angle-right"></i></a>
+
+                                  <div class="dropdown-menu dropdown-l1 has-megamenu m-0 px-0 py-1">
+                    <div class="row h-100 commercial-section">
+                                          
+                                                
+                                      
+                                
+    
+          
+          
+        <div class="col">
+                        <strong class="back-step"><i class="ficon-angle-left"></i>Back</strong>
+        <h5 class="default-title">
+                              <a href="/commercial/engines" title="Engines" data-drupal-link-system-path="node/18">Engines<i class="svg-icon-arrow-right"></i></a>
+        </h5>
+      
+              
+                      <ul class="nav flex-column">
+              <li class="has-next-level">
+                                                  <span class="menu-title has-children" title="Commercial">Commercial<i class="ficon-angle-right"></i></span>
+                              </li>
+
+              <div class="dropdown-l3">
+                <div class="col">
+                  <strong class="back-step2"><i class="ficon-angle-left"></i>Back</strong>
+                  <h5 class="default-title">
+                                                            <span title="Commercial">Engines<span>Commercial</span><i class="svg-icon-arrow-right"></i></span>
+                  </h5>
+                  <ul class="nav flex-column">
+                                                            <li><a href="/commercial/aircraft-engines/genx" class="nav-link" title="GENx" data-drupal-link-system-path="node/5122">GEnx</a></li>
+                                        <li><a href="/commercial/aircraft-engines/ge90" class="nav-link" title="GE90" data-drupal-link-system-path="node/5141">GE90</a></li>
+                                        <li><a href="/commercial/aircraft-engines/ge9x" class="nav-link" title="GE9X" data-drupal-link-system-path="node/2">GE9X</a></li>
+                                        <li><a href="/commercial/aircraft-engines/cf34" class="nav-link" title="CF34" data-drupal-link-system-path="node/5132">CF34</a></li>
+                                        <li><a href="/commercial/aircraft-engines/cf6" class="nav-link" title="CF6" data-drupal-link-system-path="node/5140">CF6</a></li>
+                                        <li><a href="/commercial/aircraft-engines/cfm-leap" class="nav-link" title="CFM LEAP" data-drupal-link-system-path="node/5130">CFM LEAP</a></li>
+                                        <li><a href="/commercial/aircraft-engines/cfm56" class="nav-link" title="CFM56" data-drupal-link-system-path="node/5120">CFM56</a></li>
+                                        <li><a href="/commercial/aircraft-engines/ct7" class="nav-link" title="CT7" data-drupal-link-system-path="node/5121">CT7</a></li>
+            
+                  </ul>
+                </div>
+                          <div class="col last-col-box support-section mob-show">
+                                          <div class="col-light-bg d-lg-none">
+      <h5 class="default-title">
+                <a href="/customer-support#support-contacts" title="View commercial support contacts" data-drupal-link-system-path="node/5322">View commercial support contacts<i class="svg-icon-arrow-right"></i></a>
+      </h5>
+    </div>
+  
+                    </div>
+
+      
+              </div>
+            </ul>
+
+          
+                      
+          
+              
+    </div>
+  
+                                  
+                                      
+                                
+    
+          
+          
+        <div class="col">
+                        <h5 class="default-title"></h5>
+      
+              
+                      <ul class="nav flex-column">
+              <li class="has-next-level">
+                                                  <span class="menu-title has-children" title="Regional &amp; Business">Regional &amp; Business<i class="ficon-angle-right"></i></span>
+                              </li>
+
+              <div class="dropdown-l3">
+                <div class="col">
+                  <strong class="back-step2"><i class="ficon-angle-left"></i>Back</strong>
+                  <h5 class="default-title">
+                                                            <span title="Regional &amp; Business">Engines<span>Regional &amp; Business</span><i class="svg-icon-arrow-right"></i></span>
+                  </h5>
+                  <ul class="nav flex-column">
+                                                            <li><a href="/commercial/aircraft-engines/catalyst" class="nav-link" title="Catalyst" data-drupal-link-system-path="node/5144">Catalyst</a></li>
+                                        <li><a href="/commercial/aircraft-engines/ct7" class="nav-link" title="CT7" data-drupal-link-system-path="node/5121">CT7</a></li>
+                                        <li><a href="/commercial/aircraft-engines/hf120" class="nav-link" title="HF120" data-drupal-link-system-path="node/5131">HF120</a></li>
+                                        <li><a href="/commercial/aircraft-engines/h-series" class="nav-link" title="H-Series" data-drupal-link-system-path="node/5293">H-Series</a></li>
+                                        <li><a href="/commercial/aircraft-engines/passport" class="nav-link" title="Passport" data-drupal-link-system-path="node/5142">Passport</a></li>
+            
+                  </ul>
+                </div>
+                          <div class="col last-col-box support-section mob-show">
+                                          <div class="col-light-bg d-lg-none">
+      <h5 class="default-title">
+                <a href="/customer-support#support-contacts" title="View support contacts" data-drupal-link-system-path="node/5322">View support contacts<i class="svg-icon-arrow-right"></i></a>
+      </h5>
+    </div>
+  
+                    </div>
+
+      
+              </div>
+            </ul>
+
+          
+                      
+          
+              
+    </div>
+  
+                                  
+                        
+                          <div class="col last-col-box mob-menu">
+                                          <div class="col-light-bg">
+      <h5 class="default-title d-block">
+                        <a href="/commercial/services" title="Services" data-drupal-link-system-path="node/5264">Services<i class="svg-icon-arrow-right"></i></a>
+
+      </h5>
+            <ul class="nav flex-column">
+                  <li><a href="/commercial/services/true-choice" class="nav-link">TrueChoiceTM Commercial Services</a></li>
+                  <li><a href="/commercial/services/TRUEngine" class="nav-link">TRUEngine</a></li>
+                  <li><a href="/commercial/services/on-wing-support" class="nav-link">On Wing Support</a></li>
+                  <li><a href="/commercial/services/onpoint" class="nav-link">OnPoint Regional &amp; Business Services</a></li>
+                  <li><a href="/commercial/services/engine-maintenance-technologies" class="nav-link">Engine Maintenance Technologies</a></li>
+                  <li><a href="/commercial/services/test-services" class="nav-link">Test Services</a></li>
+              </ul>
+          </div>
+  
+                                            <div class="col-light-bg commercial-box">
+    <h5 class="default-title d-block">
+                  <a href="/customer-support#support-contacts" title="View commercial support contacts" data-drupal-link-system-path="node/5322">View commercial support contacts<i class="svg-icon-arrow-right"></i></a>
+    </h5>
+  </div>
+  
+                    </div>
+
+                              
+                    
+                    </div>
+                  </div>
+                
+              </li>
+                                                <li class="nav-item menu-level-one ">
+                                                                                  
+                <a href="/military-defense" class="navbar-text nav-link dropdown-toggle defense-col has-children" title="Defense" data-drupal-link-system-path="node/5">Defense<i class="ficon-angle-right"></i></a>
+
+                                  <div class="dropdown-menu dropdown-l1 has-megamenu m-0 px-0 py-1">
+                    <div class="row h-100 defense-section">
+                                          
+                                                
+                                      
+                                
+    
+          
+          
+        <div class="col">
+                        <strong class="back-step"><i class="ficon-angle-left"></i>Back</strong>
+        <h5 class="default-title">
+                              <a href="/military-defense/engines" class="defense-col-2" title="Engines" data-drupal-link-system-path="node/24">Engines<i class="svg-icon-arrow-right"></i></a>
+        </h5>
+      
+              
+                      <ul class="nav flex-column">
+              <li class="has-next-level">
+                                                  <span class="menu-title has-children" title="Defense">Defense<i class="ficon-angle-right"></i></span>
+                              </li>
+
+              <div class="dropdown-l3">
+                <div class="col">
+                  <strong class="back-step2"><i class="ficon-angle-left"></i>Back</strong>
+                  <h5 class="default-title">
+                                                            <span title="Defense">Engines<span>Defense</span><i class="svg-icon-arrow-right"></i></span>
+                  </h5>
+                  <ul class="nav flex-column">
+                                                            <li><a href="/commercial/aircraft-engines/cfm56" class="nav-link" title="F108" data-drupal-link-system-path="node/5120">F108</a></li>
+                                        <li><a href="/military-defense/engines/f110" class="nav-link" data-drupal-link-system-path="node/5155">F110</a></li>
+                                        <li><a href="/commercial/aircraft-engines/cf6" class="nav-link" title="F138" data-drupal-link-system-path="node/5140">F138</a></li>
+                                        <li><a href="/military-defense/engines/f404" class="nav-link" title="F404" data-drupal-link-system-path="node/5303">F404</a></li>
+                                        <li><a href="/military-defense/engines/f414" class="nav-link" title="F414" data-drupal-link-system-path="node/5158">F414</a></li>
+                                        <li><a href="/military-defense/engines/t408" class="nav-link" title="T408" data-drupal-link-system-path="node/5159">T408</a></li>
+                                        <li><a href="/military-defense/engines/t700" class="nav-link" title="T700" data-drupal-link-system-path="node/5147">T700</a></li>
+                                        <li><a href="/military-defense/engines/t901" class="nav-link" title="T901" data-drupal-link-system-path="node/5478">T901</a></li>
+                                        <li><a href="/military-defense/engines/xa100" class="nav-link" data-drupal-link-system-path="node/5387">XA100</a></li>
+            
+                  </ul>
+                </div>
+                          <div class="col last-col-box support-section">
+                                          <div class="col-light-bg">
+      <h5 class="default-title">
+        <a href="" title="Defense support">Defense support</a>
+      </h5>
+      <div class="mob-show">
+        <ul class="support-section-mob">
+                      <li>Email
+                          <a href="/cdn-cgi/l/email-protection#61050407040f12044f0c00130a0415080f062106044f020e0c"><span class="__cf_email__" data-cfemail="84e0e1e2e1eaf7e1aae9e5f6efe1f0edeae3c4e3e1aae7ebe9">[email&#160;protected]</span></a>
+                        </li>
+                                      </ul>
+      </div>
+    </div>
+  
+                    </div>
+
+      
+              </div>
+            </ul>
+
+          
+                      
+          
+              
+    </div>
+  
+                                  
+                                      
+                                
+    
+          
+          
+        <div class="col">
+                        <h5 class="default-title"></h5>
+      
+              
+                      <ul class="nav flex-column">
+              <li class="has-next-level">
+                                                  <a href="/military-defense/marine" class="menu-title has-children" title="Marine" data-drupal-link-system-path="node/5688">Marine<i class="ficon-angle-right"></i></a>
+                              </li>
+
+              <div class="dropdown-l3">
+                <div class="col">
+                  <strong class="back-step2"><i class="ficon-angle-left"></i>Back</strong>
+                  <h5 class="default-title">
+                                                            <a href="/military-defense/marine" title="Marine" data-drupal-link-system-path="node/5688">Engines<span>Marine</span><i class="svg-icon-arrow-right"></i></a>
+                  </h5>
+                  <ul class="nav flex-column">
+                                                            <li><a href="/military-defense/engines/lm2500-plus-g4" class="nav-link" title="LM2500+G4" data-drupal-link-system-path="node/5124">LM2500+G4</a></li>
+                                        <li><a href="/military-defense/engines/lm2500" class="nav-link" title="LM2500" data-drupal-link-system-path="node/5143">LM2500</a></li>
+                                        <li><a href="/military-defense/engines/lm2500-plus" class="nav-link" title="LM2500+" data-drupal-link-system-path="node/5133">LM2500+</a></li>
+                                        <li><a href="/military-defense/engines/lm500" class="nav-link" title="LM500" data-drupal-link-system-path="node/5135">LM500</a></li>
+                                        <li><a href="/military-defense/engines/lm6000" class="nav-link" title="LM6000" data-drupal-link-system-path="node/5125">LM6000</a></li>
+            
+                  </ul>
+                </div>
+                          <div class="col last-col-box support-section">
+                                          <div class="col-light-bg">
+      <h5 class="default-title">
+        <a href="" title="Marine support">Marine support</a>
+      </h5>
+      <div class="mob-show">
+        <ul class="support-section-mob">
+                      <li>Email
+                          <a href="/cdn-cgi/l/email-protection#3f525e4d56515a11525e4d545a4b5651587f585a115c5052"><span class="__cf_email__" data-cfemail="137e72617a7d763d7e72617876677a7d745374763d707c7e">[email&#160;protected]</span></a>
+                        </li>
+                                      </ul>
+      </div>
+    </div>
+  
+                    </div>
+
+      
+              </div>
+            </ul>
+
+          
+                      
+          
+              
+    </div>
+  
+                                  
+                        
+                          <div class="col col-xl-4 last-col-box mt-0 mob-menu">
+                                          <div class="col-light-bg">
+      <h5 class="default-title d-block">
+                        <a href="/military-defense/services" title="Services" data-drupal-link-system-path="node/5423">Services<i class="svg-icon-arrow-right"></i></a>
+
+      </h5>
+            <ul class="nav flex-column mb-3">
+                  <li><a href="/military-defense/services" class="nav-link">TrueChoice Defense Services</a></li>
+                  <li><a href="/military-defense/services/marine" class="nav-link">Marine Services</a></li>
+              </ul>
+            <picture>
+                <img class="w-100 lazyload" loading="lazy" src="/sites/default/files/2023-10/Rectangle3464.png" alt="Engine Employee">
+              </picture>
+    </div>
+  
+                    </div>
+
+                              
+                    
+                    </div>
+                  </div>
+                
+              </li>
+                                                <li class="nav-item menu-level-one system-dropdown">
+                                                                                  
+                <a href="/systems" class="navbar-text nav-link dropdown-toggle has-children" title="Systems" data-drupal-link-system-path="node/5262">Systems<i class="ficon-angle-right"></i></a>
+
+                                  <div class="dropdown-menu dropdown-l1 has-megamenu m-0 px-0 py-1">
+                    <div class="row h-100 systems-section">
+                                          
+                                                                  <div class="col">
+            
+                        <strong class="back-step"><i class="ficon-angle-left"></i>Back</strong>
+          <h5 class="default-title d-lg-none">
+                                                <a href="/systems" title="Systems" data-drupal-link-system-path="node/5262">Systems<i class="svg-icon-arrow-right"></i></a>
+          </h5>
+        
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="/systems/avionics" class="menu-title" title="Avionics Systems" data-drupal-link-system-path="node/5564">Avionics Systems<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                  </div>
+  
+                                  
+                                                                  <div class="col">
+            
+                                
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="/systems/electrical-power" class="menu-title" title="Electrical Power" data-drupal-link-system-path="node/5361">Electrical Power<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                  </div>
+  
+                                  
+                                                                  <div class="col">
+            
+                                
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="/systems/saas" class="menu-title" title="Software as a Service" data-drupal-link-system-path="node/5577">Software<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                  </div>
+  
+                                  
+                                            
+              <div class="col last-col-box support-section">
+                                        <div class="col-light-bg desktop-h-100 d-lg-block">
+    <h5 class="default-title">
+                  <span title="System support">System support</span>
+    </h5>
+    <div class="mob-show">
+      <ul class="support-section-mob">
+                              </ul>
+    </div>
+        <ul class="nav flex-column mob-hide">
+              <li><a href="/customer-support#support-contacts" class="nav-link">Customer support</a></li>
+              <li><a href="https://www.unisonindustries.com/contact/" target="_blank" class="nav-link">Unison</a></li>
+              <li><a href="https://dowty.com/contact-us/" target="_blank" class="nav-link">Dowty propellers</a></li>
+          </ul>
+      </div>
+  
+                                              <div class="col-light-bg d-lg-none">
+      <h5 class="default-title">
+                <a href="/customer-support#support-contacts" title="View support contacts" data-drupal-link-system-path="node/5322">View support contacts<i class="svg-icon-arrow-right"></i></a>
+      </h5>
+    </div>
+  
+                    </div>
+
+                              
+                    </div>
+                  </div>
+                
+              </li>
+                                                <li class="nav-item menu-level-one system-dropdown">
+                                                                                  
+                <a href="https://www.geaerospace.com/news" class="navbar-text nav-link dropdown-toggle has-children" title="News">News<i class="ficon-angle-right"></i></a>
+
+                                  <div class="dropdown-menu dropdown-l1 has-megamenu m-0 px-0 py-1">
+                    <div class="row h-100 news-section">
+                                          
+                                                                  <div class="col">
+            
+                        <strong class="back-step"><i class="ficon-angle-left"></i>Back</strong>
+          <h5 class="default-title d-lg-none">
+                                                <a href="https://www.geaerospace.com/news" title="News">News<i class="svg-icon-arrow-right"></i></a>
+          </h5>
+        
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="https://www.geaerospace.com/news/articles" class="menu-title" title="Articles">Articles<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                  </div>
+  
+                                  
+                                      
+                                                                  <div class="col">
+            
+                                
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="https://www.geaerospace.com/news/press-releases" class="menu-title" title="Press Releases">Press Releases<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                  </div>
+  
+                              
+                    </div>
+                  </div>
+                
+              </li>
+                                                <li class="nav-item menu-level-one system-dropdown">
+                                                                                  
+                <a href="/sustainability" class="navbar-text nav-link dropdown-toggle has-children" title="Sustainability" data-drupal-link-system-path="node/5266">Sustainability<i class="ficon-angle-right"></i></a>
+
+                                  <div class="dropdown-menu dropdown-l1 has-megamenu m-0 px-0 py-1">
+                    <div class="row h-100 sustainability-section">
+                                          
+                                                                  <div class="col">
+            
+                        <strong class="back-step"><i class="ficon-angle-left"></i>Back</strong>
+          <h5 class="default-title d-lg-none">
+                                                <a href="/sustainability" title="Sustainability" data-drupal-link-system-path="node/5266">Sustainability<i class="svg-icon-arrow-right"></i></a>
+          </h5>
+        
+                  <ul class="nav flex-column">
+            <li class="has-next-level">
+                                                                                          <a href="/sustainability" class="menu-title" title="Sustainability" data-drupal-link-system-path="node/5266">Sustainability<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                                        
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="/sustainability/reporting" class="menu-title" title="Sustainability Reporting" data-drupal-link-system-path="node/5351">Sustainability Reporting<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                  </div>
+  
+                                  
+                                                                  <div class="col">
+            
+                                
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="/sustainability/innovation" class="menu-title has-children" title="Innovation" data-drupal-link-system-path="node/5356">Innovation<i class="svg-icon-arrow-right"></i><i class="ficon-angle-right"></i></a>
+                          </li>
+
+                          <div class="dropdown-l3">
+                <strong class="back-step2"><i class="ficon-angle-left"></i>Back</strong>
+                <h5 class="default-title">
+                                    <a href="/sustainability/innovation" title="Innovation" data-drupal-link-system-path="node/5356">Sustainability<span>Innovation</span><i class="svg-icon-arrow-right"></i></a>
+                </h5>
+                                                                        <li><a href="/sustainability/innovation/alternative-fuels" class="nav-link" title="Alternative Fuels" data-drupal-link-system-path="node/5331">Alternative Fuels</a></li>
+                                        <li><a href="/sustainability/innovation/landmark-technologies" class="nav-link" title="Landmark Technologies" data-drupal-link-system-path="node/5313">Landmark Technologies</a></li>
+            
+              </div>
+                      </ul>
+                  </div>
+  
+                                  
+                                                                  <div class="col">
+            
+                                
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <span class="menu-title has-children" title="Strategy">Strategy<i class="ficon-angle-right"></i></span>
+                          </li>
+
+                          <div class="dropdown-l3">
+                <strong class="back-step2"><i class="ficon-angle-left"></i>Back</strong>
+                <h5 class="default-title">
+                                    <span title="Strategy">Sustainability<span>Strategy</span><i class="svg-icon-arrow-right"></i></span>
+                </h5>
+                                                                        <li><a href="/sustainability/strategy/collaborations" class="nav-link" title="Collaborations" data-drupal-link-system-path="node/5312">Collaborations</a></li>
+                                        <li><a href="/sustainability/strategy/operations" class="nav-link" title="Operations" data-drupal-link-system-path="node/5330">Operations</a></li>
+            
+              </div>
+                      </ul>
+                  </div>
+  
+                              
+                    </div>
+                  </div>
+                
+              </li>
+                                                <li class="nav-item menu-level-one system-dropdown">
+                                                                                  
+                <a href="/company/about-us/history" class="navbar-text nav-link dropdown-toggle has-children" title="Company" data-drupal-link-system-path="node/5315">Company<i class="ficon-angle-right"></i></a>
+
+                                  <div class="dropdown-menu dropdown-l1 has-megamenu m-0 px-0 py-1">
+                    <div class="row h-100 company-section">
+                                          
+                                                                  <div class="col">
+            
+                        <strong class="back-step"><i class="ficon-angle-left"></i>Back</strong>
+          <h5 class="default-title d-lg-none">
+                                                <a href="/company/about-us/history" title="Company" data-drupal-link-system-path="node/5315">Company<i class="svg-icon-arrow-right"></i></a>
+          </h5>
+        
+                  <ul class="nav flex-column">
+            <li class="has-next-level">
+                                                                                          <span class="menu-title has-children" title="About us">About us<i class="ficon-angle-right"></i></span>
+                          </li>
+
+                          <div class="dropdown-l3">
+                <strong class="back-step2"><i class="ficon-angle-left"></i>Back</strong>
+                <h5 class="default-title">
+                                    <span title="About us">Company<span>About us</span><i class="svg-icon-arrow-right"></i></span>
+                </h5>
+                                                                        <li><a href="/company/about-us/history" class="nav-link" title="History" data-drupal-link-system-path="node/5315">History</a></li>
+                                        <li><a href="/company/about-us/leadership" class="nav-link" title="Leadership" data-drupal-link-system-path="node/5498">Leadership</a></li>
+                                        <li><a href="/company/safety-and-quality" class="nav-link" data-drupal-link-system-path="node/5472">Safety and Quality</a></li>
+            
+              </div>
+                      </ul>
+                                        
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="/company/careers" class="menu-title" title="Careers" data-drupal-link-system-path="node/5128">Careers<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                  </div>
+  
+                                  
+                                                                  <div class="col">
+            
+                                
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <span class="menu-title has-children" title="Our businesses">Our businesses<i class="ficon-angle-right"></i></span>
+                          </li>
+
+                          <div class="dropdown-l3">
+                <strong class="back-step2"><i class="ficon-angle-left"></i>Back</strong>
+                <h5 class="default-title">
+                                    <span title="Our businesses">Company<span>Our businesses</span><i class="svg-icon-arrow-right"></i></span>
+                </h5>
+                                                                        <li><a href="/company/businesses/avio-aero" class="nav-link" title="Avio Aero" data-drupal-link-system-path="node/5318">Avio Aero</a></li>
+                                        <li><a href="/company/businesses/colibrium-additive" class="nav-link" data-drupal-link-system-path="node/5265">Colibrium Additive</a></li>
+                                        <li><a href="/company/businesses/dowty-propellers" class="nav-link" title="Dowty Propellers" data-drupal-link-system-path="node/5319">Dowty Propellers</a></li>
+                                        <li><a href="/company/businesses/unison" class="nav-link" data-drupal-link-system-path="node/5360">Unison</a></li>
+            
+              </div>
+                      </ul>
+                  </div>
+  
+                                  
+                                                                  <div class="col">
+            
+                                
+                  <ul class="nav flex-column">
+            <li class="has-next-level">
+                                                                                          <a href="/company/investing-in-manufacturing" class="menu-title" title="Investing in Manufacturing" data-drupal-link-system-path="node/5402">Investing in Manufacturing<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                                        
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="/company/doing-business" class="menu-title" title="Doing business with us" data-drupal-link-system-path="node/5526">Doing business with us<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                  </div>
+  
+                                  
+                                                                  <div class="col">
+            
+                                
+                  <ul class="nav flex-column">
+            <li class="has-next-level">
+                                                                                          <a href="/company/philanthropy" class="menu-title" title="Philanthropy" data-drupal-link-system-path="node/5362">Philanthropy<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                                        
+                  <ul class="nav flex-column  full-height">
+            <li class="has-next-level">
+                                                                                          <a href="/company/research" class="menu-title" title="Research" data-drupal-link-system-path="node/5545">Research<i class="svg-icon-arrow-right"></i></a>
+                          </li>
+
+                      </ul>
+                  </div>
+  
+                              
+                    </div>
+                  </div>
+                
+              </li>
+                                                <li class="nav-item menu-level-one system-dropdown">
+                                                                                  
+                <a href="/investor-relations" class="navbar-text nav-link dropdown-toggle has-children" title="Investors" data-drupal-link-system-path="node/5613">Investors<i class="ficon-angle-right"></i></a>
+
+                                  <div class="dropdown-menu dropdown-l1 has-megamenu m-0 px-0 py-1">
+                    <div class="row h-100 investors-section">
+                                          
+                                                                  <div class="col">
+            
+                        <strong class="back-step"><i class="ficon-angle-left"></i>Back</strong>
+          <h5 class="default-title d-lg-none">
+                                                <a href="/investor-relations" title="Investors" data-drupal-link-system-path="node/5613">Investors<i class="svg-icon-arrow-right"></i></a>
+          </h5>
+        
+                  <ul class="nav flex-column">
+                                                                  <li><a href="/investor-relations" class="menu-title i-rt-arrow" title="Company Overview" data-drupal-link-system-path="node/5613">Company Overview<i class="svg-icon-arrow-right"></i></a></li>
+                                        <li><a href="/investor-relations/stock" class="menu-title i-rt-arrow" title="Stock" data-drupal-link-system-path="node/5116">Stock<i class="svg-icon-arrow-right"></i></a></li>
+                                        <li><a href="/investor-relations/events-reports" class="menu-title i-rt-arrow" title="Events &amp; Reports" data-drupal-link-system-path="node/5614">Events &amp; Reports<i class="svg-icon-arrow-right"></i></a></li>
+                                        <li><a href="/investor-relations/ir-updates" class="menu-title i-rt-arrow" title="IR Updates" data-drupal-link-system-path="node/5328">IR Updates<i class="svg-icon-arrow-right"></i></a></li>
+                                        <li><a href="/investor-relations/sec-filings" class="menu-title i-rt-arrow" title="SEC Filings" data-drupal-link-system-path="node/5115">SEC Filings<i class="svg-icon-arrow-right"></i></a></li>
+                                        <li><a href="/investor-relations/spin-off-resources" class="menu-title i-rt-arrow" data-drupal-link-system-path="node/5520">Spin-off Resources<i class="svg-icon-arrow-right"></i></a></li>
+            
+                      </ul>
+                  </div>
+  
+                                  
+                                                                  <div class="col">
+            
+                                
+                  <ul class="nav flex-column">
+                                                                  <li><a href="/investor-relations/annual-report" class="menu-title i-rt-arrow" title="Annual Report" data-drupal-link-system-path="node/5391">Annual Report<i class="svg-icon-arrow-right"></i></a></li>
+                                        <li><a href="/investor-relations/annual-meeting" class="menu-title i-rt-arrow" title="Annual Meeting" data-drupal-link-system-path="node/5394">Annual Meeting<i class="svg-icon-arrow-right"></i></a></li>
+                                        <li><a href="/investor-relations/governance" class="menu-title i-rt-arrow" data-drupal-link-system-path="node/5114">Governance<i class="svg-icon-arrow-right"></i></a></li>
+                                        <li><a href="/investor-relations/shareholder-services" class="menu-title i-rt-arrow" title="Shareholder Services" data-drupal-link-system-path="node/5615">Shareholder Services<i class="svg-icon-arrow-right"></i></a></li>
+                                        <li><a href="/investor-relations/contact" class="menu-title i-rt-arrow" title="Contact Investor Relations" data-drupal-link-system-path="node/5314">Contact<i class="svg-icon-arrow-right"></i></a></li>
+            
+                      </ul>
+                  </div>
+  
+                                  
+                                  
+                    </div>
+                  </div>
+                
+              </li>
+                                                          <a href="/contact" class="nav-link contact-btn-mob" title="Contact us" data-drupal-link-system-path="node/5298">Contact us<i class="svg-icon-arrow-right"></i></a>
+  
+                              </ul>
+          </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="d-flex align-items-center">
+          <div class="d-flex align-items-center language-switcher-block">
+              
+            </div>
+    
+          <div class="d-flex align-items-center search-icon-bg">
+                        <a data-lang-code="en" data-search-type="d11bb47a7538b3b9f788859a47c37f10" id="ge-search-component-init" class="nav-link text-white">
+            <i class="ficon-search"><span class="hidden">Search</span></i>
+          </a>
+                    </div>
+        </div>
+    <!-- menu content ends -->
+    </div>
+
+
+
+
+
+    </nav>
+  </header>
+  <!-- header menu ends -->
+  
+  <main>
+                  
+  <div class="block block--aero-sub-theme-content block--system-main">
+
+  
+    
+
+            
+
+
+<article data-history-node-id="5536" class="node legal legal--full">
+  
+  
+
+      
+    
+    <div class="node__content">
+      
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">
+<section class="wp-block-aero-hero-secondary"><div class="container-fluid custom-px"><div class="with-bg-color d-flex flex-column"><div class="mb-auto"></div><div class="row"><div class="col-xl-7 col-lg-8 col-md-12"><h1 class="title"><span class="title-white">Terms</span><span class="title-grey"></span></h1></div><div class="col-xl-5 col-lg-4 col-md-12 mt-auto"><div class="right-text"></div></div></div></div></div><div class="bg-color" style="background-color:var(--ge-atmosphere-blue)"></div></section>
+
+
+
+<style>
+	.terms-of-use { font-family: var(--ge-font-regular); }
+	.terms-of-use h3 { padding: 2rem 0 1rem; }
+	.terms-of-use p { line-height:normal}
+	.terms-of-use h3 { padding: 2rem 0 1rem; }
+	.terms-of-use ul li { padding: 0.4rem 0 }
+	.terms-of-use ul ul { margin-top: 0.3rem; }
+	.terms-of-use ul a { text-decoration: none }
+</style>
+
+<link rel="stylesheet" href="https://www.geaerospace.com/sites/default/files/css/css_x8S9wYipOfFivtZInjafsHMEJG4uogLOJD0Sc-_QXqE.css">
+<link rel="stylesheet" href="https://www.geaerospace.com/sites/default/files/css/css_PLFaIvXHhdYsBcpbRs4IOJnprPq30dbL5RYl-u82KV4.css">
+
+    <section class="terms-of-use">
+        <div class="container-fluid custom-px">
+            <div class="row">
+                <div id="article_description" data-history-node-id="6744" about="/terms" typeof="schema:WebPage" class="col-md-7 col-sm-12 col-xs-12">
+                    <div class="article-content">
+                        <div class="body-3">
+                        
+<p style="margin:3rem 0 1rem;"><em>Last Updated April 2, 2024</em></p>
+<h3>GEAerospace.com Terms of Use</h3>
+
+<p>This Web site is operated by General Electric Company ("GE Aerospace"). Throughout the site, the terms "we," "us" and "our" refer to GE Aerospace. GE Aerospace offers this Web site, including all information, tools and services available from this site, to you, the user, conditioned upon your acceptance of all the terms, conditions, policies and notices stated here. Your use of this site constitutes your agreement to these Terms of Use.</p>
+
+<h3>Accuracy, Completeness and Timeliness of Information on This Site</h3>
+
+<p>GE Aeropsace is not responsible if information made available on this site is not accurate, complete or current. The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this site is at your own risk. This site may contain certain historical information. Historical information necessarily is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on the site. You agree that it is your responsibility to monitor changes to the site.</p>
+
+<h3>Use of Materials on the Site</h3>
+
+<p>All content on this site (including, without limitation, text, design, graphics, logos, icons, images, audio clips, downloads, interfaces, code and software, as well as the selection and arrangement thereof), is the exclusive property of and owned by GE Aerospace, its licensors or its content providers and is protected by copyright, trademark and other applicable laws. You may access, copy, download and print the material contained on the site for your personal and non-commercial use, provided you do not modify or delete any copyright, trademark or other proprietary notice that appears on the material you access, copy, download or print. Any other use of content on the site, including but not limited to the modification, distribution, transmission, performance, broadcast, publication, uploading, licensing, reverse engineering, transfer or sale of, or the creation of derivative works from, any material, information, software, products or services obtained from the site, or use of the site for purposes competitive to GE Aerospace, is expressly prohibited. You agree to abide by all additional restrictions displayed on the site as it may be updated from time to time. GE Aerospace reserves the right to refuse or cancel any person's registration for this site, remove any person from this site or prohibit any person from using this site for any reason whatsoever. GE Aerospace, or its licensors or content providers, retain full and complete title to the material provided on the site, including all associated intellectual property rights, and provide this material to you under a license that is revocable at any time in GE Aerospace's sole discretion. GE Aerospace neither warrants nor represents that your use of materials on this site will not infringe rights of third parties not affiliated with GE Aerospace.</p>
+
+<p>You may not use contact information provided on the site for unauthorized purposes, including marketing. You may not use any hardware or software intended to damage or interfere with the proper working of the site or to surreptitiously intercept any system, data or personal information from the site. You agree not to interrupt or attempt to interrupt the operation of the site in any way. GE Aerospace reserves the right, in its sole discretion, to limit or terminate your access to or use of the site at any time without notice. Termination of your access or use will not waive or affect any other right or relief to which GE Aerospace may be entitled at law or in equity.</p>
+
+<h3>Materials You Submit</h3>
+
+<p>You acknowledge that you are responsible for any material you may submit via the site, including the legality, reliability, appropriateness, originality and copyright of any such material. You may not upload to, distribute or otherwise publish through this site any content that (i) is confidential, proprietary, false, fraudulent, libelous, defamatory, obscene, threatening, invasive of privacy or publicity rights, infringing on intellectual property rights, abusive, illegal or otherwise objectionable; (ii) may constitute or encourage a criminal offense, violate the rights of any party or otherwise give rise to liability or violate any law; or (iii) may contain software viruses, political campaigning, chain letters, mass mailings, or any form of "spam." You may not use a false email address or other identifying information, impersonate any person or entity or otherwise mislead as to the origin of any content. You may not upload commercial content onto the site.</p>
+
+<p>If you do submit material, and unless we indicate otherwise, you grant GE Aerospace and its affiliates an unrestricted, nonexclusive, royalty-free, perpetual, irrevocable and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute and display such material throughout the world in any media. You further agree that GE Aerospace is free to use any ideas, concepts, know-how that you or individuals acting on your behalf provide to GE Aerospace. You grant GE Aerospace and its affiliates the right to use the name you submit in connection with such material, if they so choose. All personal information provided via this site will be handled in accordance with the site's online Privacy Policy. You represent and warrant that you own or otherwise control all the rights to the content you post; that the content is accurate; that use of the content you supply does not violate any provision herein and will not cause injury to any person or entity; and that you will indemnify GE Aerospace for all claims resulting from content you supply.</p>
+
+<h3>Conduct on the Site</h3>
+
+<p>Some features that may be available on this site require registration. By registering at and in consideration of your use of the site you agree to provide true, accurate, current and complete information about yourself.</p>
+
+<p>Some features on this site require use of a password. You are responsible for protecting your password. You agree that you will be responsible for any and all statements made, and acts or omissions that occur, through the use of your password. If you have any reason to believe or become aware of any loss, theft or unauthorized use of your password, notify GE Aerospace immediately. GE Aerospace may assume that any communications GE Aerospace receives under your password have been made by you unless GE Aerospace receives notice otherwise.</p>
+
+<p>You or third parties acting on your behalf are not allowed to frame this site or use our proprietary marks as meta tags, without our written consent. These marks include, but are not limited to, GENERAL ELECTRIC, GE Aerospace, and GE Monogram. You may not use frames or utilize framing techniques or technology to enclose any content included on the site without GE Aerospace's express written consent. Further, you may not utilize any site content in any meta tags or any other "hidden text" techniques or technologies without GE Aerospace's express written consent.</p>
+
+<h3>Links</h3>
+
+<p>This site may contain links to other Web sites, some of which are operated by GE Aerospace or its affiliates and others of which are operated by third parties. These links are provided as a convenience to you and as an additional avenue of access to the information contained therein. We have not necessarily reviewed all the information on those other sites and are not responsible for the content of those or any other sites or any products or services that may be offered through those or any other sites. Inclusion of links to other sites should not be viewed as an endorsement of the content of linked sites. Different terms and conditions may apply to your use of any linked sites. GE Aerospace is not responsible for any losses, damages or other liabilities incurred as a result of your use of any linked sites.</p>
+
+<h3>Trademarks and Copyrights</h3>
+
+<p>Trademarks, logos and service marks displayed on this site are registered and unregistered trademarks of General Electric Company, its licensors or content providers, or other third parties. All of these trademarks, logos and service marks are the property of their respective owners. Nothing on this site shall be construed as granting, by implication, estoppel, or otherwise, any license or right to use any trademark, logo or service mark displayed on the site without the owner's prior written permission, except as otherwise described herein. GE Aerospace reserves all rights not expressly granted in and to the site and its content. This site and all of its content, including but not limited to text, design, graphics, interfaces and code, and the selection and arrangement thereof, is protected as a compilation under the copyright laws of the United States and other countries.</p>
+
+<h3>Infringement Notice</h3>
+
+<p>We respect the intellectual property rights of others and request that you do the same. You are hereby informed that GE Aerospace has adopted and reasonably implemented a policy that provides for the termination in appropriate circumstances of subscribers and account holders of GE Aerospace's system or network who are repeat copyright infringers. If you believe your copyright or the copyright of a person on whose behalf you are authorized to act has been infringed, you may notify our copyright agent:</p>
+
+<p><strong>Christopher Parent</strong><br>
+<strong>Senior Trademark Counsel</strong><br>
+901 Main Ave<br>
+Attn: Corporate Trademark<br>
+Norwalk, CT 06851<br>
+Phone: +1 646 413 5543<br>
+Email: <a href="/cdn-cgi/l/email-protection#c7e7a4afb5aeb4b3a8b7afa2b5e9b7a6b5a2a9b387a0a2e9a4a8aa"><span class="__cf_email__" data-cfemail="accfc4dec5dfd8c3dcc4c9de82dccddec9c2d8eccbc982cfc3c1">[email&#160;protected]</span></a></p>
+
+<p>To be effective, your notification must (i) be in writing, (ii) be provided to our copyright agent, and (iii) include substantially the following:</p>
+
+<ul>
+	<li style="list-style:disc">A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed;</li>
+	<li style="list-style:disc">Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;</li>
+	<li style="list-style:disc">Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material;</li>
+	<li style="list-style:disc">Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted;</li>
+	<li style="list-style:disc">A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and</li>
+	<li style="list-style:disc">A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</li>
+</ul>
+
+<p>GE Aerospace is under no obligation to post, forward, transmit, distribute or otherwise provide any material available on this site, including material you provide to us, and so we have an absolute right to remove any material from the site in our sole discretion at any time.</p>
+
+<h3>DISCLAIMERS</h3>
+
+<p>YOUR USE OF THIS SITE IS AT YOUR SOLE RISK. THE SITE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. WE RESERVE THE RIGHT TO RESTRICT OR TERMINATE YOUR ACCESS TO THE SITE OR ANY FEATURE OR PART THEREOF AT ANY TIME. GE AEROSPACE EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND ANY WARRANTIES THAT MATERIALS ON THE SITE ARE NONINFRINGING, AS WELL AS WARRANTIES IMPLIED FROM A COURSE OF PERFORMANCE OR COURSE OF DEALING; THAT ACCESS TO THE SITE WILL BE UNINTERRUPTED OR ERROR-FREE; THAT THE SITE WILL BE SECURE; THAT THE SITE OR THE SERVER THAT MAKES THE SITE AVAILABLE WILL BE VIRUS-FREE; OR THAT INFORMATION ON THE SITE WILL BE COMPLETE, ACCURATE OR TIMELY. IF YOU DOWNLOAD ANY MATERIALS FROM THIS SITE, YOU DO SO AT YOUR OWN DISCRETION AND RISK. YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIALS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM GE AEROSPACE OR THROUGH OR FROM THE SITE SHALL CREATE ANY WARRANTY OF ANY KIND. GE AEROSPACE DOES NOT MAKE ANY WARRANTIES OR REPRESENTATIONS REGARDING THE USE OF THE MATERIALS ON THIS SITE IN TERMS OF THEIR COMPLETENESS, CORRECTNESS, ACCURACY, ADEQUACY, USEFULNESS, TIMELINESS, RELIABILITY OR OTHERWISE.</p>
+
+<p>IN CERTAIN JURISDICTIONS, THE LAW MAY NOT PERMIT THE DISCLAIMER OF WARRANTIES, SO THE ABOVE DISCLAIMER MAY NOT APPLY TO YOU.</p>
+
+<h3>LIMITATION OF LIABILITY</h3>
+
+<p>YOU ACKNOWLEDGE AND AGREE THAT YOU ASSUME FULL RESPONSIBILITY FOR YOUR USE OF THE SITE. YOU ACKNOWLEDGE AND AGREE THAT ANY INFORMATION YOU SEND OR RECEIVE DURING YOUR USE OF THE SITE MAY NOT BE SECURE AND MAY BE INTERCEPTED BY UNAUTHORIZED PARTIES. YOU ACKNOWLEDGE AND AGREE THAT YOUR USE OF THE SITE IS AT YOUR OWN RISK AND THAT THE SITE IS MADE AVAILABLE TO YOU AT NO CHARGE. RECOGNIZING SUCH, YOU ACKNOWLEDGE AND AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NEITHER GE AEROSPACE NOR ITS AFFILIATES, SUPPLIERS OR THIRD PARTY CONTENT PROVIDERS WILL BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, EXEMPLARY, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR OTHER DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO THE SITE, OR ANY OTHER SITE YOU ACCESS THROUGH A LINK FROM THIS SITE OR FROM ANY ACTIONS WE TAKE OR FAIL TO TAKE AS A RESULT OF COMMUNICATIONS YOU SEND TO US, OR THE DELAY OR INABILITY TO USE THE SITE, OR FOR ANY INFORMATION, PRODUCTS OR SERVICES ADVERTISED IN OR OBTAINED THROUGH THE SITE, GEAS REMOVAL OR DELETION OF ANY MATERIALS SUBMITTED OR POSTED ON ITS SITE, OR OTHERWISE ARISING OUT OF THE USE OF THE SITE, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF GE AEROSPACE, ITS AFFILIATES OR ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. THIS DISCLAIMER APPLIES, WITHOUT LIMITATION, TO ANY DAMAGES OR INJURY ARISING FROM ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECTS, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUSES, FILE CORRUPTION, COMMUNICATION-LINE FAILURE, NETWORK OR SYSTEM OUTAGE, YOUR LOSS OF PROFITS, OR THEFT, DESTRUCTION, UNAUTHORIZED ACCESS TO, ALTERATION OF, LOSS OR USE OF ANY RECORD OR DATA, AND ANY OTHER TANGIBLE OR INTANGIBLE LOSS. YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT NEITHER GE AEROSPACE NOR ITS SUPPLIERS SHALL BE LIABLE FOR ANY DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF ANY USER OF THE SITE. YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY OF THE ABOVE CLAIMS OR ANY DISPUTE WITH GE AEROSPACE IS TO DISCONTINUE YOUR USE OF THE SITE. YOU AND GE AEROSPACE AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SITE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES OR THE CAUSE OF ACTION IS PERMANENTLY BARRED. BECAUSE SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, OR THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, ALL OR A PORTION OF THE ABOVE LIMITATION MAY NOT APPLY TO YOU.</p>
+
+<h3>Indemnification</h3>
+
+<p>You agree to indemnify, defend and hold harmless GE Aerospace and its affiliates and their officers, directors, employees, contractors, agents, licensors, service providers, subcontractors and suppliers from and against any and all losses, liabilities, expenses, damages and costs, including reasonable attorneys' fees and court costs, arising or resulting from your use of the site and any violation of these Terms of Use. If you cause a technical disruption of the site or the systems transmitting the site to you or others, you agree to be responsible for any and all losses, liabilities, expenses, damages and costs, including reasonable attorneys' fees and court costs, arising or resulting from that disruption. GE Aerospace reserves the right, at its own expense, to assume exclusive defense and control of any matter otherwise subject to indemnification by you and, in such case, you agree to cooperate with GE Aerospace in the defense of such matter.</p>
+
+<h3>Jurisdiction and Applicable Law</h3>
+
+<p>The laws of the State of New York govern these Terms of Use and your use of the site, and you irrevocably consent to the jurisdiction of the courts located in the County of New York for any action arising out of or relating to these Terms of Use. We recognize that it is possible for you to obtain access to this site from any jurisdiction in the world, but we have no practical ability to prevent such access. This site has been designed to comply with the laws of the State of New York and of the United States. If any material on this site, or your use of the site, is contrary to the laws of the place where you are when you access it, the site is not intended for you, and we ask you not to use the site. You are responsible for informing yourself of the laws of your jurisdiction and complying with them.</p>
+
+<h3>Changes to These Terms of Use</h3>
+
+<p>GE Aerospace reserves the right, at its sole discretion, to change, modify, add or remove any portion of these Terms of Use, in whole or in part, at any time, by posting revised terms on the site. It is your responsibility to check periodically for any changes we make to the Terms of Use. Your continued use of the site after any changes to the Terms of Use or other policies means you accept the changes.</p>
+
+<p>In the event we make material changes to the Terms of Use, notice of the changes will be posted on the homepage of this Web site and the revised terms will take effect thirty days after their publication on the site.</p>
+
+<h3>Entire Agreement and Admissibility</h3>
+
+<p>This agreement and any policies or operating rules posted on this site constitute the entire agreement and understanding between you and GE Aerospace with respect to the subject matter thereof and supersede all prior or contemporaneous communications and proposals, whether oral or written, between the parties with respect to such subject matter. A printed version of these Terms of Use shall be admissible in judicial or administrative proceedings based on or relating to use of the site to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.</p>
+
+<h3>Severability</h3>
+
+<p>If any provision of this agreement is unlawful, void or unenforceable, the remaining provisions of the agreement will remain in place.</p>
+
+<h3>How to Contact Us</h3>
+
+<p>If you have any questions or comments about these Terms of Use or this site, please contact us by writing us at:</p>
+
+<p><a href="/cdn-cgi/l/email-protection#700415021d030105150304191f1e035e1115021f03001113153017155e131f1d"><span class="__cf_email__" data-cfemail="215544534c525054445255484e4f520f4044534e52514042446146440f424e4c">[email&#160;protected]</span></a></p>
+
+<p style="margin:3rem 0 6rem;">Thank you for visiting our site.</p>
+
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+</div>
+      
+    </div>
+  </article>
+
+      
+  </div>
+
+            </main>
+
+<!-- Start of Footer section -->
+<footer class="ge-aero-footer container-fluid px-0" data-swiftype-index="false">
+        
+  <div class="block--type-basic block block--basic block--aero-sub-theme-newslettersignup">
+
+  
+    
+
+            
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><seciton class="footer-newsletter-signup-section col-12 d-flex custom-px">
+<div class="footer-newsletter-block col-12 d-flex">
+    <div class="footer-newsletter-tile-container col-12 col-md-5 d-flex">
+        <h2 class="newsletter-title col-12 d-flex">
+            Get the news in your inbox
+        </h2>
+    </div>
+    <div class="col-12 col-md-6 footer-newsletter-subscribe-container d-flex">
+        <p class="newsletter-text col-12 body-2">
+            Enter your email address to register for news alerts.
+        </p>
+        <div class="col-12 footer-email-block d-flex">
+            <input class="footer-email-input d-flex col-12 body-2" id="subscriber-email-address" type="email" placeholder="Email address">
+             <button class="cir-button cir-light btn-arrow-right-icon footer-signup-btn"></button>
+        </div>
+    </div>
+</div>
+</seciton></div>
+      
+      
+  </div>
+
+
+  
+  <section class="footer-main d-flex custom-px">
+    <div class="col-12 col-md-6 col-lg-4 footer-logo-container d-flex">
+                
+  <div class="block--type-basic block block--basic block--aero-sub-theme-footerlogo">
+
+  
+    
+
+            
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="footer-logo"><img class="img-fluid" src="/themes/custom/aero_unified/assets/images/Logo.svg" alt="footer logo"></div></div>
+      
+      
+  </div>
+
+
+          </div>
+    <div class="col-12 col-md-6 col-lg-6 col-xl-5 col-xxl-4 footer-links-container d-flex">
+      <div class="col-12 col-xl-5 footer-links-block">
+                    
+  <div class="block block--aero-sub-theme-footermenucolumn1 block--system-menu">
+
+  
+    
+
+            
+
+  
+                    <ul class="mb-0 px-0">
+          <li class="col-title body-2">Get in touch</li>
+                                    <li class="footer-links">
+        <a href="/contact" class="body-2" title="Contact us" data-drupal-link-system-path="node/5298">Contact us</a>
+      </li>
+          <li class="footer-links">
+        <a href="/customer-support" class="body-2" title="Customer support" data-drupal-link-system-path="node/5322">Customer support</a>
+      </li>
+          <li class="footer-links">
+        <a href="/countries" class="body-2" data-drupal-link-system-path="node/5513">Countries</a>
+      </li>
+          <li class="footer-links">
+        <a href="/sitemap" class="body-2" title="Site Map" data-drupal-link-system-path="node/5649">Site Map</a>
+      </li>
+      
+                  </ul>
+            
+
+
+
+
+      
+  </div>
+
+
+              </div>
+
+      <div class="col-12 col-xl-4 footer-links-block">
+                    
+  <div class="block block--aero-sub-theme-footermenucolumn2 block--system-menu">
+
+  
+    
+
+            
+
+  
+                    <ul class="mb-0 px-0">
+          <li class="col-title body-2">Legal</li>
+                                    <li class="footer-links">
+        <a href="/security" class="body-2" title="Security" data-drupal-link-system-path="node/5367">Security</a>
+      </li>
+          <li class="footer-links">
+        <a href="/terms" target="_blank" class="body-2 is-active" title="Terms" data-drupal-link-system-path="node/5536">Terms</a>
+      </li>
+          <li class="footer-links">
+        <a href="" target="_blank" rel="noopener noreferrer" class="evidon_cookie external body-2" title="Cookies">Cookies</a>
+      </li>
+          <li class="footer-links">
+        <a href="/privacy" class="body-2" title="Privacy policy" data-drupal-link-system-path="node/5534">Privacy</a>
+      </li>
+          <li class="footer-links">
+        <a href="/personal-information-protection" class="body-2" data-drupal-link-system-path="node/5659">Personal Information</a>
+      </li>
+          <li class="footer-links">
+        <a href="https://www.ge-healthahead.com/sl/13406#section-linkfile-accordion-145765" target="_blank" class="body-2">Transparency in Coverage</a>
+      </li>
+      
+                  </ul>
+            
+
+
+
+
+      
+  </div>
+
+
+              </div>
+
+      <div class="col-12 col-xl-2 footer-links-block footer-social-links-block">
+                    
+  <div class="block block--aero-sub-theme-footermenucolumn3 block--system-menu">
+
+  
+    
+
+            
+
+  
+                    <ul class="mb-0 px-0">
+          <li class="col-title body-2">Connect</li>
+                                          <li class="footer-links">
+        <a href="https://www.instagram.com/ge_aerospace/" target="_blank" class="body-2 d-inline-flex i-instagram" title="Instagram">        <span class="d-none d-xl-block">Instagram</span>
+                  <i class="svg-icon-instagram d-xl-none"></i>
+              </a>
+      </li>
+                <li class="footer-links">
+        <a href="https://www.linkedin.com/company/geaerospace/" target="_blank" class="body-2 d-inline-flex i-linkedin" title="LinkedIn">        <span class="d-none d-xl-block">LinkedIn</span>
+                  <i class="svg-icon-linkedin d-xl-none"></i>
+              </a>
+      </li>
+                <li class="footer-links">
+        <a href="https://twitter.com/ge_aerospace" target="_blank" class="body-2 d-inline-flex i-twitter" title="X">        <span class="d-none d-xl-block">X</span>
+                  <i class="svg-icon-twitter d-xl-none"></i>
+              </a>
+      </li>
+                <li class="footer-links">
+        <a href="https://www.youtube.com/@GEAerospace" target="_blank" class="body-2 d-inline-flex i-youtube" title="Youtube">        <span class="d-none d-xl-block">YouTube</span>
+                  <i class="svg-icon-youtube d-xl-none"></i>
+              </a>
+      </li>
+      
+                  </ul>
+            
+
+
+
+
+      
+  </div>
+
+
+              </div>
+    </div>
+  </section>
+
+  <section class="footer-copyright d-flex custom-px">
+    <div class="col-12">
+                
+  <div class="block--type-basic block block--basic block--aero-sub-theme-copyrightblock">
+
+  
+    
+
+            
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><p class="body-2 mb-0">© 2024 General Electric Company</p></div>
+      
+      
+  </div>
+
+
+          </div>
+  </section>
+</footer>
+<!-- End of Footer section -->
+
+  </div>
+
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/5536","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","themeUrl":"themes\/custom\/aero_sub_theme"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyNkGuOwjAMhC_UkCNFTmJSQ16KHSi3J21FYdGutH-s8TdjWzJgK4a7NTJjQs3yiDjBCnumM6HXjNDcrAJCraxqK_7LP0ZsLIt-iTcZxV3VjfA-BTTgvZFiHETMHpoOqAZSUtQL_S-ltru8hfuInmnRH3rleCNfsj7Ub-zkOktJ5rJtipSvBhdpYECkke2CrP8y1okEFN1Mqa5PZNeoCu37D2cKpYSIRiDoMMp3f4ILLD9hmsI4kC22sL-P9__xgwWTtsD4BK-dq3U","theme":"aero_sub_theme","theme_token":null},"ajaxTrustedUrl":[],"gtm":{"tagId":null,"settings":{"data_layer":"dataLayer","include_classes":false,"allowlist_classes":"","blocklist_classes":"","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-5XWZ42C"]},"gtag":{"tagId":"","consentMode":true,"otherIds":[],"events":[],"additionalConfigInfo":[]},"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"ge_base_path":{"basepath":"https:\/\/www.geaerospace.com\/"},"ge_link_extra_attributes":{"enable_open_new":1,"new_title_suffix":"(Opens in a new window)","new_text_to_empty_title":1,"new_rel_values":["noopener","noreferrer"],"new_class_values":[],"enable_open_self":0,"self_title_suffix":"","self_text_to_empty_title":0,"self_rel_values":[""],"self_class_values":[]},"ge_mailchimp_subscription":{"ge_mailchimp":{"timezone":"America\/New_York","basepath":"https:\/\/www.geaerospace.com","frontpath":"https:\/\/www.geaerospace.com\/"}},"ge_unified_menu":{"ge_unifiedsearch_env":"0"},"user":{"uid":0,"permissionsHash":"6b5bd87c5fd42be7f0993646f770df31ebf4fea6205f49e27b389084ea559414"}}</script>
+<script src="/sites/default/files/js/js_eGubPW4oj17qUy1CsNM1UIh6_EtnufwuOK1fvrsbRak.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=aero_sub_theme&amp;include=eJyNj2tuAjEMhC-0IUeKvInxGvJS7NDl9l2yQAuiUv9Y42_GI5nQQQhOi_MQMQdoltBsyGgxDzTRf1JG9BpRRrhv0SOv9pe-cbxwKNk-1Sd28F20JHcaTZHz2eGqDRyoNp67oti_jNtFAo5-4VSd9Fl846q89z-dSa6imOwMghNgK65nPjIGO17Y0XbtdMGEd0ilUESnQJY0va5A7_sBTrC-dSM0vxhCqFVMbSUMf45ltQ_xQ7bhz-bC-DXR9lqesdEOZdBvt76rdQ"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+<script src="/sites/default/files/js/js_gbQx0SsyqCtaUZ9Mwo378cSdcru1-CPazPKrHjXXqsE.js?scope=footer&amp;delta=3&amp;language=en&amp;theme=aero_sub_theme&amp;include=eJyNj2tuAjEMhC-0IUeKvInxGvJS7NDl9l2yQAuiUv9Y42_GI5nQQQhOi_MQMQdoltBsyGgxDzTRf1JG9BpRRrhv0SOv9pe-cbxwKNk-1Sd28F20JHcaTZHz2eGqDRyoNp67oti_jNtFAo5-4VSd9Fl846q89z-dSa6imOwMghNgK65nPjIGO17Y0XbtdMGEd0ilUESnQJY0va5A7_sBTrC-dSM0vxhCqFVMbSUMf45ltQ_xQ7bhz-bC-DXR9lqesdEOZdBvt76rdQ"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?skfa04"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?skfa04"></script>
+<script src="/sites/default/files/js/js_efervDXlAZK-flrdcpy-NjR8GKZ1SmYlavyhpKVoZu8.js?scope=footer&amp;delta=6&amp;language=en&amp;theme=aero_sub_theme&amp;include=eJyNj2tuAjEMhC-0IUeKvInxGvJS7NDl9l2yQAuiUv9Y42_GI5nQQQhOi_MQMQdoltBsyGgxDzTRf1JG9BpRRrhv0SOv9pe-cbxwKNk-1Sd28F20JHcaTZHz2eGqDRyoNp67oti_jNtFAo5-4VSd9Fl846q89z-dSa6imOwMghNgK65nPjIGO17Y0XbtdMGEd0ilUESnQJY0va5A7_sBTrC-dSM0vxhCqFVMbSUMf45ltQ_xQ7bhz-bC-DXR9lqesdEOZdBvt76rdQ"></script>
+
+  </body>
+</html>
+
