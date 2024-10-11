@@ -1,0 +1,7 @@
+---
+title: "Milestone 2"
+format: pdf
+toc: true
+number-sections: true
+colorlinks: true
+---
