@@ -1,0 +1,2380 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+     <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="1a0fc94d-f358-431c-8ff8-fa9d6320c5f9" type="text/javascript" async></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W7KGV2Q');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="UTF-8"/>
+	<link rel="icon dns-prefetch" type="image/x-icon" href="/content/dam/corporate/international/global/en-US/global/favicon.ico"/>
+    <title>Terms and Conditions | Biogen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+    <meta name="description" content="PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY BEFORE USING THIS WEBSITE 
+
+These terms and conditions of use describe the terms and conditions applicable to your use of Biogen Inc.’s (“Biogen”) website. By using this website, you signify your assent to these Terms and Conditions of Use. If you do not agree to all of these Terms and Conditions of Use, do not use this website. 
+
+Biogen may modify this website and the rules and regulations governing its use, at any time. Modifications will be posted on the website, so please check back when you use the website. By continuing use of the website after such changes are posted you will be accepting such changes. "/>
+    <meta name="template" content="dxp-2-standard-1-column-template-v2"/>
+    
+    
+    
+    
+
+    
+    
+
+        
+
+        
+            <meta property="og:title" content="Terms &amp; Conditions International | Biogen"/>
+        
+
+        
+
+        
+            <meta property="og:description" content="These terms and conditions of use describe the terms and conditions applicable to your use of any website run by Biogen International GmbH"/>
+        
+
+        <meta property="og:type" content="Website"/>
+
+        <meta property="og:image" content="https://www.biogen.com/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+
+        <meta property="og:url" content="https://www.biogen.com/terms-and-conditions.html"/>
+
+        
+
+        
+            <meta name="twitter:title" content="Terms &amp; Conditions International | Biogen"/>
+        
+		<meta name="twitter:description" content="These terms and conditions of use describe the terms and conditions applicable to your use of any website run by Biogen International GmbH"/>
+		<meta name="twitter:site" content="@biogen"/>
+        <meta name="twitter:card" content="summary"/>
+		<meta name="twitter:image" content="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+        
+
+        
+
+        
+          
+              
+        
+        
+        
+        
+        
+        
+    
+
+
+
+    <script type="text/javascript">
+	window.iswcmModeEditMode = "false";
+</script>
+
+    
+    <link rel="stylesheet" href="https://use.typekit.net/jce5qhg.css" async defer/>
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/dxp_2/clientlibs/basev2.min.4ccc0bb53f6e2403830c5cc2e10bab35.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/dxp-2/clientlibs/basev2.min.bbcc88ceb494fda06851e2764a7733d1.css" type="text/css">
+
+
+
+    
+    
+<script src="/etc.clientlibs/dxp_2/clientlibs/granite-dependencies.min.js"></script>
+<script src="/etc.clientlibs/dxp-2/clientlibs/granite-dependencies.min.js"></script>
+
+
+
+    
+    
+        
+    
+<link rel="stylesheet" href="/etc.clientlibs/settings/wcm/designs/corporate/international/global/biogen-en-us-theme.min.404f3fe3f47f6d1fc91b3c9ef1210723.css" type="text/css">
+
+
+
+    
+
+
+
+
+
+
+
+<script>
+var isTrackingEnabled  = '';
+var cookieExpiryInDays = '';
+</script>
+
+
+
+       
+    
+<script src="/etc.clientlibs/dxp_2/clientlibs/clientlib-dependencies.min.js"></script>
+<script src="/etc.clientlibs/dxp-2/clientlibs/clientlib-dependencies.min.js"></script>
+
+
+ 
+
+
+	
+    
+<script src="/etc.clientlibs/dxp_2/clientlibs/dependencies/jquery-3.6.4.min.js"></script>
+<script src="/etc.clientlibs/dxp-2/clientlibs/dependencies/jquery-3.6.4.min.js"></script>
+
+
+
+
+<!-- validAnalyticsInclude?Here is problem -->
+
+    
+        
+        
+
+
+<script>
+       var analytics_componentPath = '/apps/dxp-2/components/structure/basepage-v2';
+        var analytics_pageName = 'global:international:terms and conditions';
+        var analytics_channel = 'global:international:terms and conditions';
+        var analytics_siteName = 'global:international';
+        var analytics_country = 'US';
+        var analytics_language = 'en';
+        var analytics_loginState = 'not logged\u002Din';
+        var analytics_isCiamloginState = 'false';
+        var analytics_cmId = '';
+</script>
+
+    
+    
+<script src="/etc.clientlibs/dxp_2/clientlibs/dxp-2-global-headlibs.min.js"></script>
+<script src="/etc.clientlibs/dxp-2/clientlibs/dxp-2-global-headlibs.min.js"></script>
+
+
+
+
+    
+    
+
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+    
+    
+</head>
+    <body class="basepage-v2 page basicpage nav-white" id="basepage-v2-b79724a92c">
+         
+    	<input type="hidden" name="google_mapskey"/>
+    	
+        
+        
+        	
+
+
+
+
+            
+
+
+
+            
+<div class="root responsivegrid">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="corp-header parbase aem-GridColumn aem-GridColumn--default--12">
+    
+        
+        
+    
+            
+            	
+	
+		
+    
+    
+    
+    
+        <div class="corp-nav parbase">
+
+    <!-- NAVIGATION HANDLER MOBILE -->
+    <div class="mobile-nav-handles nav-white">
+      <div class="logo">
+		<a aria-label="Link" href="/home.html" target="_self">
+			<picture>
+				<source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+				<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+				<img src="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg" alt="Image" id="logo"/></picture>
+			<picture>
+				<source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen_logo_white.svg"/>
+				<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen_logo_white.svg"/>
+				<img src="/content/dam/corporate/international/global/en-US/global/logos/biogen_logo_white.svg" alt="Image" id="logo_invert"/></picture>
+		</a>
+      </div>
+
+      <div class="mobile-nav-handles__handles">
+
+		<div class="search" id="corp-mobile-search">
+          <div class="search-black">
+            <div class="icon-item search-mobile medium">
+                <div class="icon search-mobile medium">
+                </div>
+            </div>
+          </div>
+          <div class="search-white">
+            <div class="icon-item search-mobile-white medium">
+                <div class="icon search-mobile-white medium">
+                </div>
+            </div>
+          </div>
+
+			
+                
+                    
+                
+                    
+
+	<span tabindex="0" class="icon search-icon"></span>
+	<div class="search-section hide-search">
+    	
+			<input type="hidden" name="minLengthMsg" value="Please enter at least 2 characters"/>
+ 		
+ 		
+			<input type="hidden" name="validationMsg" value="Special characters not permitted."/>
+  		
+	    <form class="search-section-wrapper searchInputForm" method="GET" action="/search.html" role="search">
+	        <div class="dropdown">
+	       		<input aria-label="search" role="searchbox" type="text" inputmode="search" name="q" class="search-section-input" list="myDropdown" placeholder="Search" autocomplete="off"/>
+            	<datalist id="myDropdown" class="dropdown-content"></datalist>
+            </div>
+			 <div class="hidden search-section-error"></div>
+	        <button type="submit" aria-label="search button" class="search-section-imgLink"></button>
+	    </form>
+	    <a href="#" aria-label="search closebtn" class="search-section-closebtn d-none d-lg-inline-block"></a>
+	</div>
+
+
+    
+
+                
+            
+                
+            
+
+        </div>
+
+
+        <div class="burger" id="burger">
+          <div class="burger-black">
+            <div class="icon-item menu medium">
+                <div class="icon menu medium">
+                </div>
+            </div>
+          </div>
+          <div class="burger-white">
+            <div class="icon-item menu-white medium">
+                <div class="icon menu-white medium">
+                </div>
+            </div>
+          </div>
+          <div class="burger-close">
+            <div class="icon-item cross-black medium">
+                <div class="icon cross-black medium">
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="navigation-wrapper">
+        <nav class="desktop-nav nav-white">
+            <div class="logo">
+				<a href="/home.html" target="_self" aria-label="Link">
+					<picture>
+						<source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+						<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+						<img src="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg" alt="Image" id="logo"/></picture>
+					<picture>
+						<source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen_logo_white.svg"/>
+						<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen_logo_white.svg"/>
+						<img src="/content/dam/corporate/international/global/en-US/global/logos/biogen_logo_white.svg" alt="Image" id="logo_invert"/></picture>
+				</a>
+            </div>
+            <ul class="main">
+                
+            
+                <li class="dropdown">
+				
+				<a aria-label="Link" href="/disease-areas.html" target="_self" class="main-link internal-menu-link">
+				Disease Areas</a>
+				
+                    <div class="dropdown-menu">
+                        <div class="grid">
+                            <div class="row">
+                                <div class="col-12 col-lg-4 inner-spacing sub-menu">
+                                    <ul>
+									 
+                                        <li data-menu-number="2">
+                                            
+											<a aria-label="Link" href="/disease-areas/alzheimers-disease.html" target="_self" class="internal-menu-link">Alzheimer&#39;s Disease</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="2">
+                                            
+											<a aria-label="Link" href="/disease-areas/amyotrophic-lateral-sclerosis.html" target="_self" class="internal-menu-link">Amyotrophic Lateral Sclerosis</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="2">
+                                            
+											<a aria-label="Link" href="/disease-areas/friedreich-ataxia.html" target="_self" class="internal-menu-link">Friedreich Ataxia </a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="2">
+                                            
+											<a aria-label="Link" href="/disease-areas/lupus.html" target="_self" class="internal-menu-link">Lupus</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="2">
+                                            
+											<a aria-label="Link" href="/disease-areas/multiple-sclerosis.html" target="_self" class="internal-menu-link">Multiple Sclerosis</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="2">
+                                            
+											<a aria-label="Link" href="/disease-areas/postpartum-depression.html" target="_self" class="internal-menu-link">Postpartum Depression</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="2">
+                                            
+											<a aria-label="Link" href="/disease-areas/spinal-muscular-atrophy.html" target="_self" class="internal-menu-link">Spinal Muscular Atrophy</a>
+											
+                                            
+                                        </li> 
+									 
+                                    </ul>
+                                </div>
+                                <div class="col-12 col-lg-4 injection-wrapper sub-menu" id="menu-number-2">
+                                    <!-- Level 3 - navigation items will be injected here -->
+                                </div>
+                                <div class="col-12 col-lg-4 inner-spacing">
+                                    <img src="/content/dam/corporate/international/global/en-US/images/science-innovation/disease_areas/megamenu-barry.jpg" alt="Image" width="100%"/>
+                                    <div class="link-wrap">
+
+                                        <div class="button cmp--button__style7 section">
+                                            <a aria-label="Link underline button" href="/stories/alzheimers-disease-living-with-barry-story.html" class="shape-fill-medium-btn_corp cmp-button-link_corp " target="_self">
+											Living with Alzheimer’s disease: Barry’s story
+											
+											</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dropdown-shadow">
+
+                        </div>
+                        <div class="dropdown-overlay"></div>
+                    </div>
+                </li>
+            
+                <li class="dropdown">
+				
+				<a aria-label="Link" href="/science-and-innovation.html" target="_self" class="main-link internal-menu-link">
+				Science &amp; Innovation</a>
+				
+                    <div class="dropdown-menu">
+                        <div class="grid">
+                            <div class="row">
+                                <div class="col-12 col-lg-4 inner-spacing sub-menu">
+                                    <ul>
+									 
+                                        <li data-menu-number="3">
+                                            
+											<a aria-label="Link" href="/science-and-innovation/biosimilars.html" target="_self" class="internal-menu-link">Biosimilars</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="3">
+                                            
+											<a aria-label="Link" href="/science-and-innovation/scientific-expertise.html" target="_self" class="internal-menu-link">R&amp;D Expertise</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="3">
+                                            
+											<a aria-label="Link" href="/science-and-innovation/pipeline.html" target="_self" class="internal-menu-link">Pipeline</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="3">
+                                            
+											<a aria-label="Link" href="/science-and-innovation/clinical-trials.html" target="_self" class="internal-menu-link">Clinical Trials</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="3">
+                                            
+											<a aria-label="Link" href="/science-and-innovation/access-programs.html" target="_self" class="internal-menu-link">Early Access Programs</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="3">
+                                            
+											<a aria-label="Link" href="/science-and-innovation/manufacturing.html" target="_self" class="internal-menu-link">Manufacturing</a>
+											
+                                            
+                                        </li> 
+									 
+                                    </ul>
+                                </div>
+                                <div class="col-12 col-lg-4 injection-wrapper sub-menu" id="menu-number-3">
+                                    <!-- Level 3 - navigation items will be injected here -->
+                                </div>
+                                <div class="col-12 col-lg-4 inner-spacing">
+                                    <img src="/content/dam/corporate/international/global/en-US/images/science-innovation/megamenu-stat-story.jpg" alt="Image" width="100%"/>
+                                    <div class="link-wrap">
+
+                                        <div class="button cmp--button__style7 section">
+                                            <a aria-label="Link underline button" href="/stories/alzheimers-disease-things-to-know.html" class="shape-fill-medium-btn_corp cmp-button-link_corp " target="_self">
+											A new era in Alzheimer’s disease: 3 things to know
+											
+											</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dropdown-shadow">
+
+                        </div>
+                        <div class="dropdown-overlay"></div>
+                    </div>
+                </li>
+            
+                <li>
+				
+				<a aria-label="Link" href="/medicines.html" target="_self" class="main-link internal-menu-link">
+				Medicines</a>
+				
+                    
+                </li>
+            
+                <li class="dropdown">
+				
+				<a aria-label="Link" href="/responsibility.html" target="_self" class="main-link internal-menu-link">
+				Responsibility</a>
+				
+                    <div class="dropdown-menu">
+                        <div class="grid">
+                            <div class="row">
+                                <div class="col-12 col-lg-4 inner-spacing sub-menu">
+                                    <ul>
+									 
+                                        <li data-menu-number="5">
+                                            
+											<a aria-label="Link" href="/responsibility/access-and-health-equity.html" target="_self" class="internal-menu-link">Access and Health Equity</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="5">
+                                            
+											<a aria-label="Link" href="/responsibility/diversity-inclusion.html" target="_self" class="internal-menu-link">Diversity, Equity &amp; Inclusion</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="5">
+                                            
+											<a aria-label="Link" href="/responsibility/environment.html" target="_self" class="internal-menu-link">Environment</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="5">
+                                            
+											<a aria-label="Link" href="/responsibility/colab.html" target="_self" class="internal-menu-link">The CoLab</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li class="has-menu-child" data-menu-number="5">
+                                            
+											<a aria-label="Link" href="/responsibility/reporting-and-principles.html" target="_self" class="internal-menu-link">Reporting &amp; Principles</a>
+											
+                                            <div class="hidden">
+                                                <ul class="dropdown-menu__secondary">
+                                                                                                    
+                                                
+                                                                                                    
+                                                
+                                                                                                    
+                                                
+                                                                                                    
+                                                
+                                                                                                    
+                                                
+                                                                                                    
+                                                
+                                                                                                    
+                                                
+                                                                                                    
+                                                
+                                                                                                    
+                                                
+                                                    <li>
+													<a aria-label="Link" href="/responsibility/reporting-and-principles/esg-report.html" target="_self" class="internal-menu-link">2023 Corporate Responsibility Report</a>
+													</li>                                                
+                                                </ul>
+                                            </div>
+                                        </li> 
+									 
+                                    </ul>
+                                </div>
+                                <div class="col-12 col-lg-4 injection-wrapper sub-menu" id="menu-number-5">
+                                    <!-- Level 3 - navigation items will be injected here -->
+                                </div>
+                                <div class="col-12 col-lg-4 inner-spacing">
+                                    <img src="/content/dam/corporate/international/global/en-US/images/responsibility/megamenu-esgreport.jpg" alt="Image" width="100%"/>
+                                    <div class="link-wrap">
+
+                                        <div class="button cmp--button__style7 section">
+                                            <a aria-label="Link underline button" href="/responsibility/reporting-and-principles/esg-report.html" class="shape-fill-medium-btn_corp cmp-button-link_corp " target="_self">
+											Read the 2023 Corporate Responsibility Report
+											
+											</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dropdown-shadow">
+
+                        </div>
+                        <div class="dropdown-overlay"></div>
+                    </div>
+                </li>
+            
+                <li class="dropdown">
+				
+				<a aria-label="Link" href="/company.html" target="_self" class="main-link internal-menu-link">
+				Company</a>
+				
+                    <div class="dropdown-menu">
+                        <div class="grid">
+                            <div class="row">
+                                <div class="col-12 col-lg-4 inner-spacing sub-menu">
+                                    <ul>
+									 
+                                        <li data-menu-number="6">
+                                            
+											<a aria-label="Link" href="/company/mission-culture.html" target="_self" class="internal-menu-link">Mission and Culture</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="6">
+                                            
+											<a aria-label="Link" href="/company/leadership.html?tag=leadership-team" target="_self" class="internal-menu-link">Leadership Team</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="6">
+                                            
+											<a aria-label="Link" href="/company/leadership.html?tag=board-of-directors" target="_self" class="internal-menu-link">Board of Directors</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="6">
+                                            
+											<a aria-label="Link" href="/company/biogen-foundation.html" target="_self" class="internal-menu-link">Biogen Foundation</a>
+											
+                                            <div class="hidden">
+                                                <ul class="dropdown-menu__secondary">
+                                                                                                    
+                                                
+                                                                                                    
+                                                </ul>
+                                            </div>
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="6">
+                                            
+											<a aria-label="Link" href="/company/contact-us.html" target="_self" class="internal-menu-link">Contact Us</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                         
+									 
+                                    </ul>
+                                </div>
+                                <div class="col-12 col-lg-4 injection-wrapper sub-menu" id="menu-number-6">
+                                    <!-- Level 3 - navigation items will be injected here -->
+                                </div>
+                                <div class="col-12 col-lg-4 inner-spacing">
+                                    <img src="/content/dam/corporate/international/global/en-US/images/company/megamenu-priya.jpg" alt="Image" width="100%"/>
+                                    <div class="link-wrap">
+
+                                        <div class="button cmp--button__style7 section">
+                                            <a aria-label="Link underline button" href="/stories/meet-priya-singhal.html" class="shape-fill-medium-btn_corp cmp-button-link_corp " target="_self">
+											Meet Priya Singhal
+											
+											</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dropdown-shadow">
+
+                        </div>
+                        <div class="dropdown-overlay"></div>
+                    </div>
+                </li>
+            
+                <li class="dropdown">
+				
+				<a aria-label="Link" href="/careers.html" target="_self" class="main-link internal-menu-link">
+				Careers</a>
+				
+                    <div class="dropdown-menu">
+                        <div class="grid">
+                            <div class="row">
+                                <div class="col-12 col-lg-4 inner-spacing sub-menu">
+                                    <ul>
+									 
+                                        <li data-menu-number="7">
+                                            
+											<a aria-label="Link" href="/careers/careers-search.html" target="_self" class="internal-menu-link">Search Jobs</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="7">
+                                            
+											<a aria-label="Link" href="/careers/life-at-biogen.html" target="_self" class="internal-menu-link">Life at Biogen</a>
+											
+                                            <div class="hidden">
+                                                <ul class="dropdown-menu__secondary">
+                                                                                                    
+                                                
+                                                                                                    
+                                                </ul>
+                                            </div>
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="7">
+                                            
+											<a aria-label="Link" href="/careers/how-we-hire.html" target="_self" class="internal-menu-link">How We Hire</a>
+											
+                                            <div class="hidden">
+                                                <ul class="dropdown-menu__secondary">
+                                                                                                    
+                                                
+                                                                                                    
+                                                </ul>
+                                            </div>
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="7">
+                                            
+											<a aria-label="Link" href="/careers/career-categories.html" target="_self" class="internal-menu-link">Career Categories</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="7">
+                                            
+											<a aria-label="Link" href="/careers/students-and-graduates.html" target="_self" class="internal-menu-link">Students &amp; Graduates</a>
+											
+                                            <div class="hidden">
+                                                <ul class="dropdown-menu__secondary">
+                                                                                                    
+                                                
+                                                                                                    
+                                                
+                                                                                                    
+                                                </ul>
+                                            </div>
+                                        </li> 
+									 
+                                    
+									 
+                                        <li data-menu-number="7">
+                                            
+											<a aria-label="Link" href="https://join.smartrecruiters.com/Biogen/5e07e06a-6b73-4b1d-958f-e3e704a6bb4b-general-talent-community" target="_self" class="internal-menu-link">Talent Community</a>
+											
+                                            
+                                        </li> 
+									 
+                                    
+									 
+                                         
+									 
+                                    
+									 
+                                         
+									 
+                                    </ul>
+                                </div>
+                                <div class="col-12 col-lg-4 injection-wrapper sub-menu" id="menu-number-7">
+                                    <!-- Level 3 - navigation items will be injected here -->
+                                </div>
+                                <div class="col-12 col-lg-4 inner-spacing">
+                                    <img src="/content/dam/corporate/international/global/en-US/images/careers/megamenu-mother-daughter.jpg" alt="Image" width="100%"/>
+                                    <div class="link-wrap">
+
+                                        <div class="button cmp--button__style7 section">
+                                            <a aria-label="Link underline button" href="/stories/inspired-by-science-mother-daughter-years-at-biogen.html" class="shape-fill-medium-btn_corp cmp-button-link_corp " target="_self">
+											Inspired by the science: Mother, daughter reflect on 50 plus years at Biogen
+											
+											</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="dropdown-shadow">
+
+                        </div>
+                        <div class="dropdown-overlay"></div>
+                    </div>
+                </li>
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            </ul>
+            <div class="nav-right">
+                <ul class="main">
+                    
+                    <li><a aria-label="Link" href="https://investors.biogen.com" target="_blank" class="main-link">Investors</a></li>
+					
+                    <li><a aria-label="Link" href="https://investors.biogen.com/news" target="_blank" class="main-link">News</a></li>
+					
+                    <div class="corp-language-selector section"><!--Language selector COMPONENT-->
+
+
+
+<li class="dropdown swank-menu lang-selector-nav">
+	<a href="#" class="main-link" aria-label="Link">
+		<img class="swank-icon globe"/>
+		<span class="swank-text">
+			United States - Global Website
+            
+			<img class="swank-icon close-swank"/>
+		</span>
+	</a>
+	
+	<div class="dropdown-menu">
+		<div class="grid">
+			<div class="">                
+            	<div class="continent inner-spacing sub-menu">
+                	<h5 class="heading-h5">Americas</h5>
+                    
+                     	<a aria-label="Link" href="https://ar.biogen.com" target="_blank" class="country">Argentina</a>						
+                    
+                     	<a aria-label="Link" href="https://br.biogen.com" target="_blank" class="country">Brazil</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.ca" target="_blank" class="country">Canada EN | FR</a>						
+                    
+                     	<a aria-label="Link" href="https://cl.biogen.com" target="_blank" class="country">Chile</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biibcolombia.co" target="_blank" class="country">Colombia</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.com.mx" target="_blank" class="country">Mexico</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.com" target="_self" class="country">United States</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.uy" target="_blank" class="country">Uruguay</a>						
+                                       
+                
+                	<h5 class="heading-h5">Asia Pacific</h5>
+                    
+                     	<a aria-label="Link" href="https://www.biogen.com.au" target="_blank" class="country">Australia</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.cn" target="_blank" class="country">China</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.co.jp" target="_blank" class="country">Japan</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.co.nz" target="_blank" class="country">New Zealand</a>						
+                    
+                     	<a aria-label="Link" href="https://kr.biogen.com" target="_blank" class="country">South Korea</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.tw" target="_blank" class="country">Taiwan</a>						
+                                       
+                
+                	<h5 class="heading-h5">Europe</h5>
+                    
+                     	<a aria-label="Link" href="https://www.biogen.at" target="_blank" class="country">Austria</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.be" target="_blank" class="country">Belgium NL | FR</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.hr" target="_blank" class="country">Croatia</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.com.cz" target="_blank" class="country">Czech Republic</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.dk" target="_blank" class="country">Denmark</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.ee" target="_blank" class="country">Estonia</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.fi" target="_blank" class="country">Finland</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.fr" target="_blank" class="country">France</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.de" target="_blank" class="country">Germany</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.hu" target="_blank" class="country">Hungary</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.ie" target="_blank" class="country">Ireland</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogenitalia.it" target="_blank" class="country">Italy</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.lv" target="_blank" class="country">Latvia</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.lt" target="_blank" class="country">Lithuania</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.nl" target="_blank" class="country">Netherlands</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.no" target="_blank" class="country">Norway</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen-poland.pl" target="_blank" class="country">Poland</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.pt" target="_blank" class="country">Portugal</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.sk" target="_blank" class="country">Slovakia</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen-pharma.si" target="_blank" class="country">Slovenia</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.com.es" target="_blank" class="country">Spain</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.se" target="_blank" class="country">Sweden</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.ch" target="_blank" class="country">Switzerland DE | FR</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen.uk.com" target="_blank" class="country">United Kingdom</a>						
+                                       
+                
+                	<h5 class="heading-h5">Middle East</h5>
+                    
+                     	<a aria-label="Link" href="https://www.biogen-sa.com" target="_blank" class="country">Saudi Arabia</a>						
+                    
+                     	<a aria-label="Link" href="https://www.biogen-gulf.com" target="_blank" class="country">United Arab Emirates</a>						
+                                       
+                
+                	<h5 class="heading-h5">International</h5>
+                    
+                     	<a aria-label="Link" href="https://www.biogen.com" target="_self" class="country">Global website</a>						
+                    
+                     	<a aria-label="Link" href="/biogen-international.html" target="_self" class="country">International HQ</a>						
+                                       
+                </div>				
+			</div>
+		</div>
+	</div>
+	
+	
+	<span id="region-list-json" data-loc-label="United States - Global Website" data-json="[{&#34;regionLabel&#34;:&#34;Americas&#34;,&#34;countryList&#34;:[{&#34;label&#34;:&#34;Argentina&#34;,&#34;url&#34;:&#34;https://ar.biogen.com&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://ar.biogen.com&#34;},{&#34;label&#34;:&#34;Brazil&#34;,&#34;url&#34;:&#34;https://br.biogen.com&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://br.biogen.com&#34;},{&#34;label&#34;:&#34;Canada EN | FR&#34;,&#34;url&#34;:&#34;https://www.biogen.ca&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.ca&#34;},{&#34;label&#34;:&#34;Chile&#34;,&#34;url&#34;:&#34;https://cl.biogen.com&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://cl.biogen.com&#34;},{&#34;label&#34;:&#34;Colombia&#34;,&#34;url&#34;:&#34;https://www.biibcolombia.co&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biibcolombia.co&#34;},{&#34;label&#34;:&#34;Mexico&#34;,&#34;url&#34;:&#34;https://www.biogen.com.mx&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.com.mx&#34;},{&#34;label&#34;:&#34;United States&#34;,&#34;url&#34;:&#34;https://www.biogen.com&#34;,&#34;newTab&#34;:&#34;&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.com&#34;},{&#34;label&#34;:&#34;Uruguay&#34;,&#34;url&#34;:&#34;https://www.biogen.uy&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.uy&#34;}]},{&#34;regionLabel&#34;:&#34;Asia Pacific&#34;,&#34;countryList&#34;:[{&#34;label&#34;:&#34;Australia&#34;,&#34;url&#34;:&#34;https://www.biogen.com.au&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.com.au&#34;},{&#34;label&#34;:&#34;China&#34;,&#34;url&#34;:&#34;https://www.biogen.cn&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.cn&#34;},{&#34;label&#34;:&#34;Japan&#34;,&#34;url&#34;:&#34;https://www.biogen.co.jp&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.co.jp&#34;},{&#34;label&#34;:&#34;New Zealand&#34;,&#34;url&#34;:&#34;https://www.biogen.co.nz&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.co.nz&#34;},{&#34;label&#34;:&#34;South Korea&#34;,&#34;url&#34;:&#34;https://kr.biogen.com&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://kr.biogen.com&#34;},{&#34;label&#34;:&#34;Taiwan&#34;,&#34;url&#34;:&#34;https://www.biogen.tw&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.tw&#34;}]},{&#34;regionLabel&#34;:&#34;Europe&#34;,&#34;countryList&#34;:[{&#34;label&#34;:&#34;Austria&#34;,&#34;url&#34;:&#34;https://www.biogen.at&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.at&#34;},{&#34;label&#34;:&#34;Belgium NL | FR&#34;,&#34;url&#34;:&#34;https://www.biogen.be&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.be&#34;},{&#34;label&#34;:&#34;Croatia&#34;,&#34;url&#34;:&#34;https://www.biogen.hr&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.hr&#34;},{&#34;label&#34;:&#34;Czech Republic&#34;,&#34;url&#34;:&#34;https://www.biogen.com.cz&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.com.cz&#34;},{&#34;label&#34;:&#34;Denmark&#34;,&#34;url&#34;:&#34;https://www.biogen.dk&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.dk&#34;},{&#34;label&#34;:&#34;Estonia&#34;,&#34;url&#34;:&#34;https://www.biogen.ee&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.ee&#34;},{&#34;label&#34;:&#34;Finland&#34;,&#34;url&#34;:&#34;https://www.biogen.fi&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.fi&#34;},{&#34;label&#34;:&#34;France&#34;,&#34;url&#34;:&#34;https://www.biogen.fr&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.fr&#34;},{&#34;label&#34;:&#34;Germany&#34;,&#34;url&#34;:&#34;https://www.biogen.de&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.de&#34;},{&#34;label&#34;:&#34;Hungary&#34;,&#34;url&#34;:&#34;https://www.biogen.hu&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.hu&#34;},{&#34;label&#34;:&#34;Ireland&#34;,&#34;url&#34;:&#34;https://www.biogen.ie&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.ie&#34;},{&#34;label&#34;:&#34;Italy&#34;,&#34;url&#34;:&#34;https://www.biogenitalia.it&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogenitalia.it&#34;},{&#34;label&#34;:&#34;Latvia&#34;,&#34;url&#34;:&#34;https://www.biogen.lv&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.lv&#34;},{&#34;label&#34;:&#34;Lithuania&#34;,&#34;url&#34;:&#34;https://www.biogen.lt&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.lt&#34;},{&#34;label&#34;:&#34;Netherlands&#34;,&#34;url&#34;:&#34;https://www.biogen.nl&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.nl&#34;},{&#34;label&#34;:&#34;Norway&#34;,&#34;url&#34;:&#34;https://www.biogen.no&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.no&#34;},{&#34;label&#34;:&#34;Poland&#34;,&#34;url&#34;:&#34;https://www.biogen-poland.pl&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen-poland.pl&#34;},{&#34;label&#34;:&#34;Portugal&#34;,&#34;url&#34;:&#34;https://www.biogen.pt&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.pt&#34;},{&#34;label&#34;:&#34;Slovakia&#34;,&#34;url&#34;:&#34;https://www.biogen.sk&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.sk&#34;},{&#34;label&#34;:&#34;Slovenia&#34;,&#34;url&#34;:&#34;https://www.biogen-pharma.si&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen-pharma.si&#34;},{&#34;label&#34;:&#34;Spain&#34;,&#34;url&#34;:&#34;https://www.biogen.com.es&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.com.es&#34;},{&#34;label&#34;:&#34;Sweden&#34;,&#34;url&#34;:&#34;https://www.biogen.se&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.se&#34;},{&#34;label&#34;:&#34;Switzerland DE | FR&#34;,&#34;url&#34;:&#34;https://www.biogen.ch&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.ch&#34;},{&#34;label&#34;:&#34;United Kingdom&#34;,&#34;url&#34;:&#34;https://www.biogen.uk.com&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.uk.com&#34;}]},{&#34;regionLabel&#34;:&#34;Middle East&#34;,&#34;countryList&#34;:[{&#34;label&#34;:&#34;Saudi Arabia&#34;,&#34;url&#34;:&#34;https://www.biogen-sa.com&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen-sa.com&#34;},{&#34;label&#34;:&#34;United Arab Emirates&#34;,&#34;url&#34;:&#34;https://www.biogen-gulf.com&#34;,&#34;newTab&#34;:&#34;true&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen-gulf.com&#34;}]},{&#34;regionLabel&#34;:&#34;International&#34;,&#34;countryList&#34;:[{&#34;label&#34;:&#34;Global website&#34;,&#34;url&#34;:&#34;https://www.biogen.com&#34;,&#34;newTab&#34;:&#34;&#34;,&#34;variationUrl&#34;:&#34;https://www.biogen.com&#34;},{&#34;label&#34;:&#34;International HQ&#34;,&#34;url&#34;:&#34;/biogen-international.html&#34;,&#34;newTab&#34;:&#34;&#34;,&#34;variationUrl&#34;:&#34;/content/corporate/international/global/en-US/biogen-international.html&#34;}]}]"></span>
+</li>
+
+
+
+
+    
+</div>
+<div class="search section">
+
+	<span tabindex="0" class="icon search-icon"></span>
+	<div class="search-section hide-search">
+    	
+			<input type="hidden" name="minLengthMsg" value="Please enter at least 2 characters"/>
+ 		
+ 		
+			<input type="hidden" name="validationMsg" value="Special characters not permitted."/>
+  		
+	    <form class="search-section-wrapper searchInputForm" method="GET" action="/search.html" role="search">
+	        <div class="dropdown">
+	       		<input aria-label="search" role="searchbox" type="text" inputmode="search" name="q" class="search-section-input" list="myDropdown" placeholder="Search" autocomplete="off"/>
+            	<datalist id="myDropdown" class="dropdown-content"></datalist>
+            </div>
+			 <div class="hidden search-section-error"></div>
+	        <button type="submit" aria-label="search button" class="search-section-imgLink"></button>
+	    </form>
+	    <a href="#" aria-label="search closebtn" class="search-section-closebtn d-none d-lg-inline-block"></a>
+	</div>
+
+
+    
+</div>
+
+
+                    <li>
+                        
+                        
+
+	                </li>
+                </ul>
+            </div>
+        </nav>
+
+        <nav class="mobile-nav">
+            <div class="mobile-nav-overlay"></div>
+            <ul class="main">
+                <div class="main__flex main-nav-mobile">
+					
+                        
+					
+                        <li class="accordion accordion-main">
+                            
+							<a aria-label="Link" class="main-link accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/disease-areas.html">Disease Areas</span></a>
+							
+                            <ul>
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/disease-areas/alzheimers-disease.html">Alzheimer&#39;s Disease</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/disease-areas/amyotrophic-lateral-sclerosis.html">Amyotrophic Lateral Sclerosis</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/disease-areas/friedreich-ataxia.html">Friedreich Ataxia </span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/disease-areas/lupus.html">Lupus</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/disease-areas/multiple-sclerosis.html">Multiple Sclerosis</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/disease-areas/postpartum-depression.html">Postpartum Depression</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/disease-areas/spinal-muscular-atrophy.html">Spinal Muscular Atrophy</span></a>
+                                    
+                                </li>
+    
+                            </ul>
+                        </li>
+					
+                        <li class="accordion accordion-main">
+                            
+							<a aria-label="Link" class="main-link accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/science-and-innovation.html">Science &amp; Innovation</span></a>
+							
+                            <ul>
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/science-and-innovation/biosimilars.html">Biosimilars</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/science-and-innovation/scientific-expertise.html">R&amp;D Expertise</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/science-and-innovation/pipeline.html">Pipeline</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/science-and-innovation/clinical-trials.html">Clinical Trials</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/science-and-innovation/access-programs.html">Early Access Programs</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/science-and-innovation/manufacturing.html">Manufacturing</span></a>
+                                    
+                                </li>
+    
+                            </ul>
+                        </li>
+					
+                        <li>
+                            
+							<a aria-label="Link" class="main-link internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/medicines.html">Medicines</span></a>
+							
+                            
+                        </li>
+					
+                        <li class="accordion accordion-main">
+                            
+							<a aria-label="Link" class="main-link accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/responsibility.html">Responsibility</span></a>
+							
+                            <ul>
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/responsibility/access-and-health-equity.html">Access and Health Equity</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/responsibility/diversity-inclusion.html">Diversity, Equity &amp; Inclusion</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/responsibility/environment.html">Environment</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/responsibility/colab.html">The CoLab</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li class="accordion accordion-sub">
+                                    
+									<a aria-label="Link" class="accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/responsibility/reporting-and-principles.html">Reporting &amp; Principles</span></a>
+                                    <ul class="dropdown-menu__secondary">
+                                                                                        
+                                    
+                                                                                        
+                                    
+                                                                                        
+                                    
+                                                                                        
+                                    
+                                                                                        
+                                    
+                                                                                        
+                                    
+                                                                                        
+                                    
+                                                                                        
+                                    
+                                                                                        
+                                    
+                                        <li>
+										<a aria-label="Link" href="/responsibility/reporting-and-principles/esg-report.html" target="_self" class="internal-menu-link">2023 Corporate Responsibility Report</a></li>                                                
+                                    </ul>
+                                </li>
+    
+                            </ul>
+                        </li>
+					
+                        <li class="accordion accordion-main">
+                            
+							<a aria-label="Link" class="main-link accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/company.html">Company</span></a>
+							
+                            <ul>
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/company/mission-culture.html">Mission and Culture</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/company/leadership-team.html">Leadership Team</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/company/board-of-directors.html">Board of Directors</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li class="accordion accordion-sub">
+                                    
+									<a aria-label="Link" class="accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/company/biogen-foundation.html">Biogen Foundation</span></a>
+                                    <ul class="dropdown-menu__secondary">
+                                                                                        
+                                    
+                                                                                        
+                                    </ul>
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/company/contact-us.html">Contact Us</span></a>
+                                    
+                                </li>
+    
+                            
+                                
+    
+                            </ul>
+                        </li>
+					
+                        <li class="accordion accordion-main">
+                            
+							<a aria-label="Link" class="main-link accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/careers.html">Careers</span></a>
+							
+                            <ul>
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/careers/careers-search.html">Search Jobs</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li class="accordion accordion-sub">
+                                    
+									<a aria-label="Link" class="accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/careers/life-at-biogen.html">Life at Biogen</span></a>
+                                    <ul class="dropdown-menu__secondary">
+                                                                                        
+                                    
+                                                                                        
+                                    </ul>
+                                </li>
+    
+                            
+                                <li class="accordion accordion-sub">
+                                    
+									<a aria-label="Link" class="accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/careers/how-we-hire.html">How We Hire</span></a>
+                                    <ul class="dropdown-menu__secondary">
+                                                                                        
+                                    
+                                                                                        
+                                    </ul>
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/careers/career-categories.html">Career Categories</span></a>
+                                    
+                                </li>
+    
+                            
+                                <li class="accordion accordion-sub">
+                                    
+									<a aria-label="Link" class="accordion-label internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/careers/students-and-graduates.html">Students &amp; Graduates</span></a>
+                                    <ul class="dropdown-menu__secondary">
+                                                                                        
+                                    
+                                                                                        
+                                    
+                                                                                        
+                                    </ul>
+                                </li>
+    
+                            
+                                <li>
+                                    
+									<a aria-label="Link" class=" internal-menu-link" target="_self"><span data-href="/content/corporate/international/global/en-US/careers/talent-community.html">Talent Community</span></a>
+                                    
+                                </li>
+    
+                            
+                                
+    
+                            
+                                
+    
+                            </ul>
+                        </li>
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+                        
+					
+					
+						<li>
+							<a aria-label="Link" class="main-link" href="https://investors.biogen.com" target="_blank">Investors</a>
+						</li>
+					
+						<li>
+							<a aria-label="Link" class="main-link" href="https://investors.biogen.com/news" target="_blank">News</a>
+						</li>
+					
+                </div>
+            </ul>
+        </nav>
+    
+    </div>
+
+</div>
+
+    
+
+        
+
+           	 		
+        	        
+     
+
+
+<script type="text/javascript">
+    if ($('.corp-header').length) {
+        let headerDiv = $('.corp-header > div');
+        if (headerDiv.hasClass('header') && !headerDiv.hasClass('corp-nav')) {
+            $('.corp-header').removeClass('corp-header');
+        }
+    }
+</script></div>
+<div class="responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="column-control aem-GridColumn cmp--column-control__style2 aem-GridColumn--default--12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <div class="row corp-content-2">
+        
+            <div class="col col-12">
+                <div class="column-control-column">
+                    <div class="reference parbase section"><div class="cq-dd-paragraph"><div class="breadcrumb">
+<nav id="breadcrumb-51ec269c6b" class="cmp-breadcrumb" aria-label="Breadcrumb">
+    <ol class="cmp-breadcrumb__list" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li class="cmp-breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a href="/home.html" class="cmp-breadcrumb__item-link" itemprop="item">
+                <span itemprop="name">Biogen</span>
+            </a>
+            <meta itemprop="position" content="1"/>
+        </li>
+    
+        <li class="cmp-breadcrumb__item cmp-breadcrumb__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+                <span itemprop="name">Terms and Conditions</span>
+            
+            <meta itemprop="position" content="2"/>
+        </li>
+    </ol>
+</nav>
+
+    
+</div>
+</div>
+</div>
+
+
+                </div>
+            </div>
+        
+        
+        
+		
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </div>
+    <!--//row -->
+</div>
+
+    
+</div>
+<div class="column-control aem-GridColumn cmp--column-control__style2 aem-GridColumn--default--12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <div class="row article-title">
+        
+            <div class="col col-12">
+                <div class="column-control-column">
+                    <div class="title section">
+<div id="title-f5621e6232" class="cmp-title">
+    <h1 class="cmp-title__text">Terms and Conditions</h1>
+</div>
+
+    
+</div>
+
+
+                </div>
+            </div>
+        
+        
+        
+		
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </div>
+    <!--//row -->
+</div>
+
+    
+</div>
+<div class="column-control aem-GridColumn cmp--column-control__style2 aem-GridColumn--default--12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <div class="row article-data">
+        
+            <div class="col col-12">
+                <div class="column-control-column">
+                    <div class="reference parbase section"><div class="cq-dd-paragraph"><div class="share_button share-button">
+
+
+     
+   
+   <div class="share-button-wrapper variationOne">
+      
+         <a target="_blank" href="#" class="social-button-link facebook-share">
+            <div class="share-service-button">
+                
+                  
+					<picture>
+					    <source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/facebook.svg"/>
+						<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/facebook.svg"/>
+						<img class="share-button-icon" src="/content/dam/corporate/international/global/en-US/global/icons/share-button/facebook.svg"/>
+				    </picture>                  
+				  
+                  
+                  	<span class="share-button-label">Share on Facebook</span>
+                  
+		  	    
+            </div>
+         </a>
+      
+         <a target="_blank" href="#" class="social-button-link twitter-share" data-meta-share-title="true">
+            <div class="share-service-button">
+                
+                  
+					<picture>
+					    <source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/twitter.svg"/>
+						<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/twitter.svg"/>
+						<img class="share-button-icon" src="/content/dam/corporate/international/global/en-US/global/icons/share-button/twitter.svg"/>
+				    </picture>                  
+				  
+                  
+                  	<span class="share-button-label">Share on Twitter</span>
+                  
+		  	    
+            </div>
+         </a>
+      
+         <a target="_blank" href="#" class="social-button-link linkedIn-share">
+            <div class="share-service-button">
+                
+                  
+					<picture>
+					    <source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/linkedin.svg"/>
+						<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/linkedin.svg"/>
+						<img class="share-button-icon" src="/content/dam/corporate/international/global/en-US/global/icons/share-button/linkedin.svg"/>
+				    </picture>                  
+				  
+                  
+                  	<span class="share-button-label">Share on LinkedIn</span>
+                  
+		  	    
+            </div>
+         </a>
+      
+         <a target="_blank" href="#" class="social-button-link copyUrl-share" data-share-parameter="true">
+            <div class="share-service-button">
+                
+                  
+					<picture>
+					    <source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/link-share.svg"/>
+						<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/link-share.svg"/>
+						<img class="share-button-icon" src="/content/dam/corporate/international/global/en-US/global/icons/share-button/link-share.svg"/>
+				    </picture>                  
+				  
+                  
+                  	<span class="share-button-label">CopyURL</span>
+                  
+		  	    
+            </div>
+         </a>
+      
+         <a target="_blank" href="#" class="social-button-link email-share" data-meta-share-title="true" data-share-parameter="true">
+            <div class="share-service-button">
+                
+                  
+					<picture>
+					    <source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/email-share.svg"/>
+						<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/icons/share-button/email-share.svg"/>
+						<img class="share-button-icon" src="/content/dam/corporate/international/global/en-US/global/icons/share-button/email-share.svg"/>
+				    </picture>                  
+				  
+                  
+                  	<span class="share-button-label">Share per Email</span>
+                  
+		  	    
+            </div>
+         </a>
+      
+   </div>
+   
+    
+
+
+
+
+
+</div>
+</div>
+</div>
+
+
+                </div>
+            </div>
+        
+        
+        
+		
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </div>
+    <!--//row -->
+</div>
+
+    
+</div>
+<div class="column-control aem-GridColumn cmp--column-control__style2 aem-GridColumn--default--12">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <div class="row article-content-block">
+        
+            <div class="col col-12">
+                <div class="column-control-column">
+                    <div class="rich-text text section"><div class="cmp-text">
+	
+	
+	<p><b>PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY BEFORE USING THIS WEBSITE</b></p>
+<p>These terms and conditions of use describe the terms and conditions applicable to your use of Biogen Inc.’s (“<b>Biogen</b>”) website. By using this website, you signify your assent to these Terms and Conditions of Use. If you do not agree to all of these Terms and Conditions of Use, do not use this website.</p>
+<p>Biogen may modify this website and the rules and regulations governing its use, at any time. Modifications will be posted on the website, so please check back when you use the website. By continuing use of the website after such changes are posted you will be accepting such changes.</p>
+
+
+</div>
+
+    
+
+</div>
+<div class="rich-text text section"><div class="cmp-text">
+	
+	
+	<p><b>THIS WEBSITE DOES NOT PROVIDE MEDICAL OR PROFESSIONAL SERVICES ADVICE</b></p>
+<p>The content on this website is intended to be a general information resource in regard to the subject matter covered, but is provided solely on an “as is” and “as available” basis as noted on these Terms and Conditions of Use. You are encouraged to confirm the information contained herein with other sources, and to review the information carefully with your professional healthcare provider. Biogen is not engaged in rendering medical or similar professional services or advice via this website, and the information provided is not intended to replace medical advice offered by a physician. If you desire or need such services or advice, you should consult a professional healthcare provider. You should not construe Biogen’s publication of this content as an endorsement by Biogen of the views expressed herein, or any warranty or guarantee of any strategy, recommendation, treatment, action or application of medication or preparation made by the author of the content.</p>
+
+
+</div>
+
+    
+
+</div>
+<div class="accordion section">
+
+<div class="cmp-accordion collapse-all">
+    
+        
+            <div class="section-container">
+            	<div class="section-title" data-referencekey="1">Scope of use</div>
+                <div class="section-description">
+                	<p>Biogen invites you to view, use and download a single copy of this website for your informational, non-commercial use. Except as otherwise provided on this page, no part of any content or software on this website may be copied, downloaded or stored in a retrieval system for any other purpose, nor may it be redistributed for any purpose, without the expressed written permission of Biogen. You understand that Biogen may discontinue, change or restrict your use of this website for any reason without notice. By using this website, you represent that you are at least 18 years old and a U.S. resident.</p>
+
+                	
+
+                </div>
+             </div>
+        
+        
+     
+        
+            <div class="section-container">
+            	<div class="section-title" data-referencekey="2">No warranties</div>
+                <div class="section-description">
+                	<p>All content on this website is provided to you on an “as is” “as available” basis without warranty of any kind either express or implied, including but not limited to any implied warranties of merchantability, fitness for a particular purpose, accuracy and non-infringement. Biogen makes no warranty as to the accuracy, completeness, currency or reliability of any content available through this website. You are responsible for verifying any information before relying on it. Use of the website and the content available on the website is at your sole risk. Biogen makes no representations or warranties that use of the website will be uninterrupted or error-free. You are responsible for taking all necessary precautions to ensure that any content you may obtain from the website is free of viruses.</p>
+<p>The above exclusions may not apply in jurisdictions that do not allow the exclusion of certain implied warranties.</p>
+
+                	
+
+                </div>
+             </div>
+        
+        
+     
+        
+            <div class="section-container">
+            	<div class="section-title" data-referencekey="3">Limitation of liability; no duty to update</div>
+                <div class="section-description">
+                	<p>Your use of the website or any content on the website is at your own risk. Biogen specifically disclaims any liability, whether based in contract, tort, strict liability or otherwise, for any direct, indirect, incidental, consequential or special damages arising out of or in any way connected with access to or use of the website, even if Biogen has been advised of the possibility of such damages, including but not limited to reliance by any party on any content obtained through the use of the website, or that arises in connection with mistakes or omissions in, or delays in transmission of, information to or from the user, interruptions in telecommunications connections to the website or viruses, whether caused in whole or in part by negligence, acts of God, telecommunications failure, theft or destruction of, or unauthorized access to the website, or related information or programs.</p>
+<p>Biogen does not warrant that the functions contained in this website are free of computer viruses or other harmful components. Although the content of this website is updated periodically, Biogen does not have a duty to update information contained in this website, and Biogen will not be liable for any failure to update such information. Biogen does not assume any responsibility or liability for the accuracy, completeness, reliability or usefulness of the information disclosed or accessed through this website. It is your responsibility to verify any information contained in this website before relying upon it.</p>
+
+                	
+
+                </div>
+             </div>
+        
+        
+     
+        
+            <div class="section-container">
+            	<div class="section-title" data-referencekey="4">Intellectual property rights</div>
+                <div class="section-description">
+                	<p>All content of this website is protected by U.S. and foreign copyright laws. You may not copy, modify, upload, download, post, transmit, republish or distribute any of the content, including without limitation the code, contained in this website without our prior written permission except for your own personal, non-commercial purposes. Except as provided in the preceding sentence, nothing contained in this website shall be construed as granting a license or other rights under any patent, trademark, copyright or other intellectual property of Biogen or any third party. Unauthorized use of any Biogen trademark, service mark or logo may be a violation of federal and state trademark laws.</p>
+
+                	
+
+                </div>
+             </div>
+        
+        
+     
+        
+            <div class="section-container">
+            	<div class="section-title" data-referencekey="5">Links</div>
+                <div class="section-description">
+                	<p>This website may contain links to websites operated by other parties. The linked sites are not under the control of Biogen, and Biogen is not responsible for the content available on any other Internet sites linked to this website. Such links do not imply Biogen’s endorsement of material on any other site and Biogen disclaims all liability with regard to your access to such linked websites. Biogen provides links to other Internet sites as a convenience to users, and access to any other Internet sites linked to this website is at your own risk.</p>
+<p>Unless otherwise set forth in a written agreement between you and Biogen, you must adhere to Biogen’s linking policy as follows: (i) any link to this website must be a text only link clearly marked “biogen.com” or “Biogen website”; (ii) the appearance, position and other aspects of the link may not be such as to damage or dilute the goodwill associated with Biogen’s names and trademarks; (iii) the link must “point” to the home page (e.g. <a href="http://www.biogen.com/">www.biogen.com</a>) and not to other pages within the website; (iv) the appearance, position and other attributes of the link may not create the false appearance that your organization or entity is sponsored by, affiliated with or associated with Biogen; (v) when selected by a user, the link must display the website on full screen and not within a “frame” on the linking website; and (vi) Biogen reserves the right to revoke its consent to the link at any time and in its sole discretion.</p>
+
+                	
+
+                </div>
+             </div>
+        
+        
+     
+        
+            <div class="section-container">
+            	<div class="section-title" data-referencekey="6">Location and governing law</div>
+                <div class="section-description">
+                	<p>This website is operated by Biogen from its offices in Cambridge, MA, USA. The law of the Commonwealth of Massachusetts shall govern these terms and conditions, without reference to its choice of law rules. Biogen makes no representation that the information in the website is appropriate or available for use in other locations, and access to the Biogen website from territories where the content of the Biogen website may be illegal is prohibited. Those who choose to access the Biogen website from other locations do so on their own initiative and are responsible for compliance with applicable local laws.</p>
+
+                	
+
+                </div>
+             </div>
+        
+        
+     
+        
+            <div class="section-container">
+            	<div class="section-title" data-referencekey="7">Severability</div>
+                <div class="section-description">
+                	<p>If any provision of these Terms and Conditions of Use is held invalid or unenforceable by any court of competent jurisdiction, the other provisions of these Terms and Conditions of Use shall remain in full force and effect. Any provision of these Terms and Conditions of Use held invalid or unenforceable only in part or degree will remain in full force and effect to the extent not held invalid or unenforceable. The parties further agree to replace such invalid or unenforceable provision of these Terms and Conditions of Use with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such invalid or unenforceable provision.</p>
+
+                	
+
+                </div>
+             </div>
+        
+        
+     
+        
+            <div class="section-container">
+            	<div class="section-title" data-referencekey="8">Violations and additional policies</div>
+                <div class="section-description">
+                	<p>Biogen reserves the right to seek all remedies available at law and in equity for violations of the rules and regulations set forth in this website, including the right to block access from a particular Internet address to the website.</p>
+
+                	
+
+                </div>
+             </div>
+        
+        
+     
+        
+            <div class="section-container">
+            	<div class="section-title" data-referencekey="9">Questions</div>
+                <div class="section-description">
+                	<p>If you have any questions about these Terms and Conditions of Use, please contact the relevant individual listed in the <a href="/company/contact-us.html">Contact Us</a> section of this website.</p>
+
+                	
+
+                </div>
+             </div>
+        
+        
+     
+</div>
+
+    
+</div>
+
+
+                </div>
+            </div>
+        
+        
+        
+		
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </div>
+    <!--//row -->
+</div>
+
+    
+</div>
+
+    
+</div>
+</div>
+<div class="corp-footer parbase aem-GridColumn aem-GridColumn--default--12">
+    
+        
+            
+
+    
+	
+    
+    
+    
+    
+        <div class="footer-section parbase">
+<div class="footer-wrapper">
+    <footer class="desktop-footer">
+        
+        <div class="logo-link-section">
+            <div class="grid desktop">
+                <div class="row">
+                    <div class="col-4 left-frame">
+                        <div class="logo">
+                            <a href="/home.html" target="_self" aria-label="Link">
+                            	<picture>
+									<source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+									<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+                            		<img src="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg" alt="Image"/>
+                            	</picture>
+                            </a>
+                        </div>
+                        <span class="h3-mobile"></span>
+                    </div>
+                    <div class="col-8 right-frame">
+                        <div class="row">
+                            <div class="col-3">
+                                <p>Information for</p>
+                                
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/medical-professionals.html" target="_self">Medical Professionals </a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="https://investors.biogen.com/" target="_blank">Investors</a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="https://investors.biogen.com/news" target="_blank">Media</a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/careers.html" target="_self">Job Seekers</a></li>                                    
+                                </ul>
+                            </div>
+							<div class="col-3">
+                                <p>Get in touch</p>
+                                
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/company/contact-us.html" target="_self">Contact us</a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/biogen-international.html" target="_self">Biogen International</a></li>                                    
+                                </ul>
+                            </div>
+							<div class="col-3">
+                                <p>Explore</p>
+                                
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/stories.html" target="_self">Stories</a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/science-and-innovation/disease-areas.html" target="_self">Disease Areas</a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/science-and-innovation/pipeline.html" target="_self">Pipeline</a></li>                                    
+                                </ul>
+                            </div>
+							<div class="col-3">
+                                <p>We recommend</p>
+                                
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/company/biogen-foundation.html" target="_self">Biogen Foundation </a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/responsibility/reporting-and-principles/esg-report.html" target="_self">Corporate Responsibility Report</a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/responsibility/reporting-and-principles.html" target="_self">Reporting and Principles </a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/responsibility/access-and-health-equity.html" target="_self">Access &amp; Health Equity</a></li>                                    
+                                </ul>
+                            
+                                
+                                <ul>
+                                    <li><a aria-label="Link" href="/responsibility/diversity-inclusion.html" target="_self">Diversity, Equity &amp; Inclusion </a></li>                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+    
+            <div class="mobile">
+                <div class="grid">
+                    <div class="logo">
+						<a href="/home.html" target="_self" aria-label="Link">
+							<picture>
+								<source media="(max-width: 991px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+								<source media="(min-width: 992px)" srcset="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg"/>
+								<img src="/content/dam/corporate/international/global/en-US/global/logos/biogen-logo-colour.svg" alt="Image" id="logo"/>
+							</picture>
+						</a>
+                    </div>
+                </div>
+                <ul class="main">
+                    <div class="main__flex">
+                        <li class="accordion accordion-main">
+                            <a class="main-link accordion-label">Information for</a>
+                            
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/medical-professionals.html" target="_self">Medical Professionals </a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="https://investors.biogen.com/" target="_blank">Investors</a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="https://investors.biogen.com/news" target="_blank">Media</a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/careers.html" target="_self">Job Seekers</a></li>                                    
+                            </ul>
+                        </li>
+						<li class="accordion accordion-main">
+                            <a class="main-link accordion-label">Get in touch</a>
+                            
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" target="_self">Contact us</a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" target="_self">Biogen International</a></li>                                    
+                            </ul>
+                        </li>
+						<li class="accordion accordion-main">
+                            <a class="main-link accordion-label">Explore</a>
+                            
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/stories.html" target="_self">Stories</a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/science-and-innovation/disease-areas.html" target="_self">Disease Areas</a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/science-and-innovation/pipeline.html" target="_self">Pipeline</a></li>                                    
+                            </ul>
+                        </li>
+						<li class="accordion accordion-main">
+                            <a class="main-link accordion-label">We recommend</a>
+                            
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/company/biogen-foundation.html" target="_self">Biogen Foundation </a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/responsibility/reporting-and-principles/esg-report.html" target="_self">Corporate Responsibility Report</a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/responsibility/reporting-and-principles.html" target="_self">Reporting and Principles </a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/responsibility/access-and-health-equity.html" target="_self">Access &amp; Health Equity</a></li>                                    
+                            </ul>
+                        
+                            
+                            <ul>
+								<li><a aria-label="Link" href="/responsibility/diversity-inclusion.html" target="_self">Diversity, Equity &amp; Inclusion </a></li>                                    
+                            </ul>
+                        </li>
+
+                    </div>
+                </ul>
+            </div>
+        </div>
+
+		<div class="copyright-section">
+            <div class="grid">
+                <div class="__wrapper">
+                    <div class="copyright-wrapper">
+                        <p class="copyright">© 2024 Biogen</p>
+                        <ul>
+                            <li><a aria-label="Link" href="/terms-and-conditions.html" target="_self">Terms &amp; Conditions</a></li>                        
+                        
+                            <li><a aria-label="Link" href="/privacy-center.html" target="_self">Privacy Center</a></li>                        
+                        
+                            <li><a aria-label="Link" href="/privacy-center/california-policy.html" target="_self">Notice to CA Residents</a></li>                        
+                        
+                            <li><a aria-label="Link" href="/consumer-health-data-privacy-policy.html" target="_self">Consumer Health Data Privacy Policy</a></li>                        
+                        
+                            <li><a aria-label="Link" href="/cookies.html" target="_self">Cookie Policy</a></li>                        
+                        
+                            <li><a aria-label="Link" href="/forward-looking-statements.html" target="_self">Forward-looking Statement</a></li>                        
+                        
+                            <li><a aria-label="Link" href="/community-guidelines.html" target="_self">Community Guidelines</a></li>                        
+                        </ul>
+                    </div>
+                    <div class="icon-wrapper">
+                        <a href="https://youtube.com/biogen" target="_blank" aria-label="youtube">
+                            <div class="icon-item social-youtube medium">
+                                <div class="icon social-youtube medium" data-url="https://youtube.com/biogen" data-target="_blank">
+                                </div>
+                            </div>
+                        </a>
+                    
+                        <a href="https://www.twitter.com/biogen" target="_blank" aria-label="twitter">
+                            <div class="icon-item social-twitter medium">
+                                <div class="icon social-twitter medium" data-url="https://www.twitter.com/biogen" data-target="_blank">
+                                </div>
+                            </div>
+                        </a>
+                    
+                        <a href="https://www.linkedin.com/company/biogen-/" target="_blank" aria-label="linkedin">
+                            <div class="icon-item social-linkedin medium">
+                                <div class="icon social-linkedin medium" data-url="https://www.linkedin.com/company/biogen-/" data-target="_blank">
+                                </div>
+                            </div>
+                        </a>
+                    
+                        <a href="https://www.facebook.com/Biogen/" target="_blank" aria-label="facebook">
+                            <div class="icon-item social-facebook medium">
+                                <div class="icon social-facebook medium" data-url="https://www.facebook.com/Biogen/" data-target="_blank">
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+		</div>
+
+        
+		<div class="modals">
+                    
+                    <input type="hidden" name="exitModalTargetPath" id="exitModalTargetPath" value="/content/corporate/international/global/en-US.modal-rules.json"/>
+                    <div class="cmp-modal entry-modal modal fade" id="entryModal" tabindex="-1" role="dialog" aria-labelledby="entryModal" aria-hidden="true" data-backdrop="static" data-create-cookie="false" data-keyboard="false">
+                        
+    <div class="d-none modal-details" data-setcookie="false"></div>
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+		</div>
+	</div>
+
+                     </div>
+					 <div class="cmp-modal exit-modal modal fade" id="exitModal" tabindex="-1" role="dialog" aria-labelledby="exitModal" data-targeturl="#" data-targettype='' aria-hidden="true" data-backdrop="static" data-keyboard="false">
+						 
+    <div class="d-none modal-details" data-setcookie="false"></div>
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+		</div>
+	</div>
+
+					 </div>
+        </div>
+        
+    </footer>
+</div>
+
+</div>
+
+    
+
+    
+
+
+            
+        
+    
+
+
+<script type="text/javascript">
+    if ($('.corp-footer').length) {
+        let footerDiv = $('.corp-footer > div');
+        if (footerDiv.hasClass('footer') && !footerDiv.hasClass('footer-section')) {
+            $('.corp-footer').removeClass('corp-footer');
+        }
+    }
+</script></div>
+
+    
+</div>
+</div>
+
+
+			
+				
+			
+            
+    
+    <!-- This code is a markup for modal which will be loaded in the end before close of body tag -->
+<div class="modal fade" id="genericLightbox" role="dialog">
+   <div class="lightbox-modal modal-dialog">
+  </div>
+</div>
+
+
+
+    
+    
+    
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.js"></script>
+<script src="/etc.clientlibs/dxp_2/clientlibs/basev2.min.js"></script>
+<script src="/etc.clientlibs/dxp-2/clientlibs/basev2.min.js"></script>
+
+
+
+    
+    
+        
+    
+<script type="text/javascript" src="/etc.clientlibs/settings/wcm/designs/corporate/international/global/biogen-en-us-theme.min.76747bc405cb2f9c7b0c600600545d7d.js" defer></script>
+
+
+    
+
+
+<input type="hidden" name="currentPagePath" id="currentPagePath" value="/content/corporate/international/global/en-US/terms-and-conditions"/>
+<input type="hidden" name="siteId" id="siteId"/>
+<script>
+	var currentPagePath = $('#currentPagePath').val();
+	//var isCookie = $.cookie("renderid");
+	var isCookie =document.cookie.indexOf('renderid');
+	if(isCookie === -1){
+		$.ajax({
+	    	type: 'GET',
+			url: "/bin/dxp/createrenderid.json",
+	        data: {'currentPagePath':currentPagePath},
+	        success: function(result){        
+	            //$.cookie("renderid", result.renderCookieValue, { path: result.path, secure: true, httpOnly: true });
+	            document.cookie = "renderid" + "=" + result.renderCookieValue + "; path=" +result.path +"; secure=true , httpOnly=true"; 
+	    }});
+	}
+	
+</script>
+
+
+
+<!-- validAnalyticsInclude?Here is problem -->
+
+    <span data-tracking="populate"></span>
+
+
+    
+    
+<script src="/etc.clientlibs/cq/personalization/clientlib/personalization/integrations/commons.min.js"></script>
+<script src="/etc.clientlibs/dxp_2/clientlibs/dependencies/analytics.min.js"></script>
+<script src="/etc.clientlibs/dxp-2/clientlibs/dependencies/analytics.min.js"></script>
+
+
+
+
+
+
+<script>
+	CQ_Analytics.EventDataMgr.data = populate.values
+</script>
+
+
+
+    
+
+    
+
+    
+    
+    
+
+            
+
+        
+	</body>
+</html>

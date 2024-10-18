@@ -1,0 +1,451 @@
+
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang=en><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang=en><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang=en><![endif]-->
+<!--[if gt IE 8]><!--> <html class=no-js lang=en> <!--<![endif]-->
+<head id="Head"><link rel="shortcut icon" href="/Sitefinity/WebsiteTemplates/HessBootstrap/App_Themes/HessBootstrap/Images/favicon.ico" /><link rel="icon" href="/Sitefinity/WebsiteTemplates/HessBootstrap/App_Themes/HessBootstrap/Images/favicon.ico" type="image/ico" /><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><meta http-equiv="cleartype" content="on" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="/Sitefinity/WebsiteTemplates/HessBootstrap/JS/modernizr-2.0.6.min.js"></script>
+
+  <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || []; w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-PNVK7JS');</script>
+<!-- End Google Tag Manager -->
+
+ 
+    <!-- Facebook Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return; n = f.fbq = function () {
+            n.callMethod ?
+            n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        }; if (!f._fbq) f._fbq = n;
+        n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+        t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+    }(window,
+    document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '165110423915066');
+    fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=165110423915066&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+  <title>
+	Hess Corporation | Terms and Conditions
+</title>
+  
+  <!--<script src="//vjs.zencdn.net/c/video.js"></script>-->
+  <script src="/Sitefinity/WebsiteTemplates/HessBootstrap/JS/video.min.js"></script>
+
+<meta name="Generator" content="Sitefinity 11.0.6700.0 MS" /><link rel="canonical" href="https://www.hess.com/utility-pages/terms-and-conditions" /><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nAwdJw2rmNxiJYg6mG4elmbeGwjYnE5g21JdTHKmIJ9LoFVKF9q1VEvubPMZjSm1qriA-M0KCJot86CWurIwcDZpiTesjLGwd15JbCw57F-00&amp;t=638562563416554975&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d11.0.6700.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3accbfdb4a-4f04-4733-a965-408675324ae8%3a7a90d6a%3bTelerik.Web.UI%2c+Version%3d2018.1.117.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3a865a536e-3ec7-4b66-aefb-afa1590d8f4d%3aed2942d4%3a580b2269%3aeb8d8a8e%3a8cee9284" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/HessBootstrap/App_Themes/HessBootstrap/global/bootstrap.css?v=638023098980000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/HessBootstrap/App_Themes/HessBootstrap/global/main.css?v=638023099000000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/HessBootstrap/App_Themes/HessBootstrap/global/hess.css?v=638023099000000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/HessBootstrap/App_Themes/HessBootstrap/global/print_styles.css?v=638023099000000000" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/HessBootstrap/App_Themes/HessBootstrap/global/style.css?v=638023099000000000" type="text/css" rel="stylesheet" /><style type="text/css" media="all">span.at4-icon {display:none !important;}
+span.at-icon-wrapper{display:none !important;}</style></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNVK7JS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <form method="post" action="./terms-and-conditions" id="form1">
+<input type="hidden" name="ctl07_TSSM" id="ctl07_TSSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="zh/GbfmM8xnekrO1tdMJ2CLX9VSOaJ2vRsHJ6YCFfOKVlIIgA6dvzT7Fj1PDucE/6UaBxpp28QupW3XEptPrIwDvGhQVqCimPBMCcehFQ5HEdkHnmI3v51WW2U8eAaPPU9ieZIHEDmDbyqsT3GsUl8HUlH0Po/X26ns25cK5yB2bm25BQvS/QY4INH8fUj5IgVKaXUtY/dEq4+bXp3RSPlrsrUBZeumW/7srRRDNZdJP1X0C9Dxm5db4x0UUgGi2f5ME7vxb6Qx2FLEpXGaRlR+lcI3jfNMXRmGyUM+yo221DFnVH5kw3zBjkQPKivaS5P2EvyL74FWLKT5fnxuHAhH82zO8uU9I6uG+ANQkBc9L1BerC9VsNJW1jOvSomheiFIdospm9zUSW45wQ38tj4ABZq7eObh86IGtmndvo1I=" />
+
+
+<script src="/WebResource.axd?d=znKi4Zzr2OLSbiIIbcBLP_7CQ6Br-N_L67PrzLf89dWu7hspDTbtRNObKrEeyQZ004Dloqz3me0FTvphbegJUajel0nAd3adVSYv-QUgL-qub2ne2jZdXdx0H0wq6Q-vl_FCBmI6H42g7PJjZe_CWGDpVnvnElhA4ybD_RQVqdEFRp2XI4AP2caO0mcyvNbpPH4ROcY2BOf08zgY3cbo6Ua2szybNHakJ6YuJJu-QiE1&amp;t=638023099580000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvovEsBbu8f9u0u65dTs3-AXDQ3Db8PBkzeClUzRtyC58iAdPFmysLTpwlMPbBqdLltRHtSaKI3hL69FjunAAXv_FAxgkjAITWgy8bNO3-I3w4IkvbdwGD0YHnDVF5GIbEhhpOGc3bnnuu78m0KTcz5k1&amp;t=583299c4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TDVjdgRbdvNAY3tnbizUcOJlz-Ws_n4Lr9hiDPDHRjsD9PmHPSoIchT9C1jtxgUCijDCXvp4JFuPd2EtIq4rHGKuMIYqlcgYoQ-KPuCUZBMuPlvIHB6iRpgopsVRdz7R0&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=86EhAqQjfuMKlbK4FWyenDMb6wC18CKiXdSAQvlPiPpwn5hvVJO8CSSE2QtLeHaFjfI_lTFJTFtjFdqQf2r90XQsSFJYEURxybJFJ36vyv6IBIGWCO8WDvRilDPnIdJjxVXNoVfBn16Kg3W-UcitoC7CWJfHXye129sL7qgp1iM1&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mbGZm65DzNC0tMTq0ElbcXzWbodIDf3lbKp9_5iLgvMrz7mYQ-llqToh_zf1u7VoXoY_mfhZVyaC2Evaxx9VhwFxy1gwe7_Y2bl0qhkfREfzusT3PkHHB233VureULTHjZncx8wr_kG8TNJo0qxFBA2&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=cmIcXiVJ__exjjpjrN730pnOtF578i2bu3FJHGlVeX-_8hPeYoCGPsaGYdcaSqZgsNdNNuJVKyPPRDWjVXR5Y3o36j_mZi_1ZoyIUbhPHnaTIbYGpZc1Pw7Vp9jZq30PhNS0nDsoQUxrDZBXDh_LzA2&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OMa_nbU0_VSWnHtE895qh-ctDgu-gs9UdVtbndgoIoSs9urq56RUsauUrqEDrIIJve1ger3XBji6IMtCUMWt0ND3nSP1u0r8OSlRciUTiN9Z5KP5WkG5CIOvTwlDPUpbP2hB6cbOjJi1MdLZcY2K9vmxOtASdvCRuctDEfTZEKE1&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-9rjE8XFv-zikiBdee7RrrIaQyXsoTpXAeyRIX5-P9XgAzrZYz1gquWIgtRCPXNIvC910yMCh6H8LWLXuClZlGW0FA8W3O1iGTd9zXKooK2OYf7qAtSHMwFd4hS-KmC5J2jOUfJXAtTvhGM22W9fHN27nyaJLyS1ww4zbeQc4Y41&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=aoSSiMnLNTC20U5L7LFIKu9lhWOS6CrgID1BcWkJd5KKqsN4xeOcjkcxKIT1mRBeTvRwor0HjNUIvOFLFM-FB6nCPBz5NVaZDdnDXd3jWs3unfyH2HNSneV9IDm0OlbBGJs58uh4bSfm7EseOCo3IjHdE10A3ZYV7scLEt2gC7E1&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uZyysmNAhs23bID72ZUaSpurFjwt6eEdpyDPKZtL7g-pU_BY4ngqUO3GO_7HvGYdo-DHVL9DTVIcbhr5W6qzv0-0xVYrPxWTVJujxsJEV263UFyo72i4USACGlfwJ4GzNvQg4J4dg1Mn6Dts9tQo36ni-gYwip_ErUww5hWSOuo1&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=eKZhdBAoDXLAsQys5JFN8pLzz53_BJCB7NXNAoy6essoP1Qbexzwu-Zet5zrPWRQznKxzh_flH0s0kYddB3w3e1BkguSecnl5aBGfKqDb8p_33wx0wz9Dvh8YQ4tcOMgwP1jkvMD6HFgieGkIlC95mk3s4HawWWXtBCkU1OJctA1&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=xvYBvOx-63dLu5JJe1OI3cW5CdsYMf6cWPeMjm3Y7f22qxqGLFsSc8fFvUJzucP-DamCIVQgO2HgR4sDljT1odAytytyopceSdFcyAOayYG3XUtjcef7wMmTckxlcwJ9RXpPlpV96O8fxR5rVqkMIw2&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=LlwbgV7oh28tpCvE08ZbOQOB7fCngxxo7dtjK2n2YU_Bh5lmW_4aUR1xUgTOEvxcHYkXMaltz4IgX7FxSRiRY3jT8tg_6sI1gA3l-cx7lRyJ6PHOaWK-NZokr0fUwrEnU37J1HQi27Y-bEw2ND4d-Q2&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DJqzVDlyNLlLft2Spv1G58SYZnB2slIReYevst8Z6t6Qk7ttt5LmRTsvIrUmqD_evPv304PNcVpkRzSHH8ViUI30Tziv1Pui-BVII_O5vWB157Jnc1TrSPnKSlxJZB6ebHpJPnX8l7AffHBGTsPUMw2&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=omxVX80cqAyHGJ60yWi3gOFWH6Nca5NJpZ6yRYpWIyWZwDyP8jWsxvYIUNK2UhT7nDFDLwmejkEARxE0lZGs3P6GLVxaRHTDts5J3zvizY2KNex302CCW-9CaxfZ91SQ6nKmgBdUUiATsy2vt1PBag2&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=J3KXk9aJ0qdg4i-qt8PQkALYOdKvs3kUnFJLOBcZwFEfSurxhdAk08Gg3UbqufpICz7m6OozqySjWr9-A_Ajl9v2Rfen4ob_IHHBwyx6nJb3QjAiL8cKi9OZG9Lkcg8osFdh8_PkWVYxIm68B9SsYQ2&amp;t=55006d34" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2TF50x1OvbS9BInr97zkRBMCt9UO-qOXbWqxRVhxUCVAM3c9mWxQ8rQcmoApMdPq70NI9wOcyHEG4zv8rdg414kMsD36fGJ0xIHN_l9gHYC0KSueROBT8v8VmcY0dx1KDyhifqZ2YughklkzSCjqRQ2&amp;t=55006d34" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="0E59CD11" />
+  
+
+  
+  <script>
+      $(document).ready(function () {
+          if (!$('html').hasClass('ie7')) {
+              (function () {
+                  var cx = '008192084835721087604:1fjrps_2kec';
+                  var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+                  gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                    '//www.google.com/cse/cse.js?cx=' + cx;
+                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+              })();
+          }
+      });
+  </script>
+  <div class="container-fluid">
+    <div id="show-width"></div>
+	<div id="hdr-img" class="row-fluid">
+        
+<div class="sfimageWrp">
+	        
+<img id="headerImage_C004_ctl00_ctl00_imageItem" title="Operations Header" src="/images/default-source/header-images/hess-valhall-field-norway.jpg?sfvrsn=9a29cfd4_10" alt="Hess Valhall Field in Norway image" />
+
+
+</div>
+
+
+    </div>
+    <header id="hdr-area" class="row-fluid clrfix">
+    	<div id="logo-area" class="span2">
+			<div class="logo-wrap">
+            <a href="/"><img src="/Sitefinity/WebsiteTemplates/HessBootstrap/App_Themes/HessBootstrap/Images/Hess_logo_header.gif" title="Hess Corporation Logo header" alt="Hess Corporation Logo header" /></a>
+			</div>
+						
+        </div>
+		 
+        <div class="span14">
+			<div class="mobile-menu">
+			<a href="#" id="mobile-menu"><span class="hdr-msg">Menu</span></a>
+			</div>
+        	<div id="util-area" class=" ">
+                
+
+<script type="text/javascript">
+         /*
+         if ($('html').hasClass('ie7')) {
+              (function () {
+                  var cx = '011712826116843106997:xo4iuuzsuw8';
+                  var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+                  gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                '//www.google.com/cse/cse.js?cx=' + cx;
+                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+              })();
+          }
+          */
+</script>
+
+<a id="widget-search" class="btn-widget" href="/search-results">SEARCH</a>
+<div id="nav-search" class="util-widget-box">
+    <div class="inner">
+        <label for="gsc-i-id1">Search</label>
+       <gcse:searchbox-only></gcse:searchbox-only>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        if (!$('html').hasClass('oldie')) {
+            var offset = $('#widget-search').offset();
+
+            //$('#nav-search').offset({ top: offset.top + 19, left: offset.left - 242 })
+
+            $('#widget-search, #nav-search').mouseover(function () {
+                $('#nav-search').show();
+                $('#widget-search').addClass('btn-widget-hover');
+
+                $('.gssb_c').mouseover(function () {
+                    //$(this).show();
+                    $('#nav-search').show();
+                    $('#widget-search').addClass('btn-widget-hover');
+                });
+
+            });
+
+
+
+            $('#widget-search, #nav-search').mouseout(function () {
+                $('#nav-search').hide();
+                $('#widget-search').removeClass('btn-widget-hover');
+
+
+            });
+
+            /*
+            setTimeout(function () {
+            $('.gsc-search-button').click(function () {
+
+            $('form.gsc-search-box').submit();
+            });
+            }, 1000);
+            */
+        }
+
+    });
+</script>
+
+            </div>
+        	<nav id="main-nav">
+                
+<div id="mainNav_T361D07E4039">
+	
+            <div tabindex="0" id="ctl00_mainNav_T361D07E4039_ctl00_ctl00_siteMapControl_horizontaldropdownmenu" class="RadMenu RadMenu_Sitefinity">
+		<!-- 2018.1.117.40 --><ul class="rmRootGroup rmHorizontal">
+			<li class="rmItem rmFirst"><a class="rmLink rmRootLink" href="../operations"><span class="rmText">Operations</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a title="An interactive map provides an overview of Hess operations globally." class="rmLink" href="../operations/operations-map"><span class="rmText">Operations Map</span></a></li><li class="rmItem "><a title="A program of focused exploration capitalizes on our understanding of key basins and building on our knowledge and expertise. " class="rmLink" href="../operations/exploration"><span class="rmText">Exploration</span></a></li><li class="rmItem "><a title="Learn about the rapid growth of shale oil and gas production and how it is transforming the economics of energy development. " class="rmLink" href="../operations/onshore"><span class="rmText">Onshore</span></a></li><li class="rmItem "><a title="Hess is a leader in deepwater development and production, with top quartile performance in offshore drilling and project delivery. Our company is the sixth-largest producer in the Gulf of Mexico and also has offshore assets in Europe, Asia Pacific and West Africa." class="rmLink" href="../operations/offshore"><span class="rmText">Offshore</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="../operations/hess-midstream-partners"><span class="rmText">Hess Midstream</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a title="Learn about Hess sustainability efforts, and its goal to help meet the world&#39;s increasing demand for energy while sustaining long-term profitable growth." class="rmLink rmRootLink" href="../sustainability"><span class="rmText">Sustainability</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a title="Discover how Hess is committed to high standards of corporate citizenship, including environment, health, safety, and social responsibility. " class="rmLink" href="../sustainability/how-we-operate"><span class="rmText">How We Operate</span></a></li><li class="rmItem "><a title="Discover how Hess views corporate social responsibility as a way of doing business, and how Hess is proactively engaging with its communities worldwide." class="rmLink" href="../sustainability/social-responsibility"><span class="rmText">Social Responsibility</span></a></li><li class="rmItem "><a title="Learn how safety is a top priority at Hess, with a goal of having zero incidents and striving for continuous improvement in key safety metrics." class="rmLink" href="../sustainability/hess-employee-safety-and-health"><span class="rmText">Safety & Health</span></a></li><li class="rmItem "><a class="rmLink" href="../sustainability/diversity-and-inclusion"><span class="rmText">Diversity, Equity and Inclusion</span></a></li><li class="rmItem "><a title="Explore how the Hess Corporation recognizes that climate change will require a global effort to develop comprehensive energy and climate solutions." class="rmLink" href="../sustainability/climate-change-energy"><span class="rmText">Climate Change & Energy</span></a></li><li class="rmItem "><a title="Learn how the Hess Corporation takes a holistic view of environmental performance in the field of energy exploration and production." class="rmLink" href="../sustainability/environment"><span class="rmText">Environment</span></a></li><li class="rmItem "><a title="Download Hess Corporation&#39;s sustainability reports, which are aligned with Global Reporting Initiative&#39;s G3.1 guidelines at the A+ application level." class="rmLink" href="../sustainability/sustainability-reports"><span class="rmText">Sustainability Reports</span></a></li><li class="rmItem "><a class="rmLink" href="../sustainability/performance-data"><span class="rmText">Performance Data</span></a></li><li class="rmItem rmLast"><a title="Learn how Hess&#39;s sustainability reports are prepared, based on the GRI Standards, guidance from the United Nations (UN), and other industry findings." class="rmLink" href="../sustainability/approach-to-reporting"><span class="rmText">Approach to Reporting</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a title="Learn about Hess Corporation, a leading global independent energy company engaged in the exploration and production of crude oil and natural gas." class="rmLink rmRootLink" href="../company"><span class="rmText">Company</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a class="rmLink" href="../company/leadership"><span class="rmText">Leadership</span></a></li><li class="rmItem "><a title="Learn about Hess Corporation&#39;s six core values: integrity, people, performance, value creation, social responsibility, and independent spirit." class="rmLink" href="../company/values"><span class="rmText">Values</span></a></li><li class="rmItem "><a title="Learn how Hess, an oil delivery service founded in 1933, has grown to become a leading independent energy company." class="rmLink" href="../company/hess-history"><span class="rmText">History</span></a></li><li class="rmItem "><a class="rmLink" href="../company/suppliers"><span class="rmText">Suppliers</span></a></li><li class="rmItem "><a class="rmLink" href="../company/owner-relations"><span class="rmText">Owner Relations</span></a></li><li class="rmItem rmLast"><a title="Contact Hess Corporation via phone, email, or contact form with questions you may have for the global energy company.  " class="rmLink" href="../company/contact"><span class="rmText">Contact</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a title="Discover the latest news and updates about the Hess Corporation, including exciting innovations and discoveries in the oil and gas industry.
+" class="rmLink rmRootLink" href="../newsroom"><span class="rmText">Newsroom</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a class="rmLink" href="../newsroom/community"><span class="rmText">Community</span></a></li><li class="rmItem "><a class="rmLink" href="../newsroom/media"><span class="rmText">Media</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="../newsroom/speakers"><span class="rmText">Speakers</span></a></li>
+				</ul>
+			</div></li><li class="rmItem "><a title="Explore Hess careers and take your first step toward a fulfilling job in the energy industry. Hess Corporation is a leading independent energy company." class="rmLink rmRootLink" href="../careers"><span class="rmText">Careers</span></a><div class="rmSlide">
+				<ul class="rmVertical rmGroup rmLevel1">
+					<li class="rmItem rmFirst"><a title="Explore how the Hess Corporation is a values-driven company offering opportunities in career development, compensation, community development, and more." class="rmLink" href="../careers/life-at-hess"><span class="rmText">Life at Hess</span></a></li><li class="rmItem rmLast"><a class="rmLink" href="../careers/recruiting-partners"><span class="rmText">Recruiting Partners</span></a></li>
+				</ul>
+			</div></li><li class="rmItem rmLast"><a title="Find investor information for Hess Corporation (NYSE: HES) such as stock information, annual reports and press releases on our official website." class="rmLink rmRootLink" href="../investors"><span class="rmText">Investors</span></a></li>
+		</ul><input id="ctl00_mainNav_T361D07E4039_ctl00_ctl00_siteMapControl_horizontaldropdownmenu_ClientState" name="ctl00_mainNav_T361D07E4039_ctl00_ctl00_siteMapControl_horizontaldropdownmenu_ClientState" type="hidden" />
+	</div>
+        
+<script type="text/javascript">
+    
+
+    function radMenuOnClick(sender, args) {
+
+        var state = args.get_item().get_attributes().getAttribute("ExpandOnClick");
+        args.get_item().get_attributes().setAttribute("ExpandOnClick", "true")
+        args.get_item().open();
+    }
+
+    function radMenuOnOpening(sender, args) {
+        var state = args.get_item().get_attributes().getAttribute("ExpandOnClick");
+        if(state != "true")
+            args.set_cancel(true);
+        args.get_item().get_attributes().setAttribute("ExpandOnClick", "false")
+    }
+</script>
+
+</div>
+            </nav>
+        </div>
+    </header>
+
+	<section id="content-area" class="row-fluid clrfix">
+        <div id="content-col" class="span12">
+            
+<div class="sf_cols">
+    <div class="sf_colsOut sf_1col_1_100">
+        <div id="contentCol_T361D07E4024_Col00" class="sf_colsIn sf_1col_1in_100"><div id="contentCol_T361D07E4025">
+	
+
+<div class="sfBreadcrumbWrp">
+    <span id="contentCol_T361D07E4025_ctl00_ctl00_BreadcrumbLabel" class="sfBreadcrumbLabel" style="display:none;"></span>
+    <div id="ctl00_contentCol_T361D07E4025_ctl00_ctl00_Breadcrumb" class="RadSiteMap RadSiteMap_Default">
+		<ul class="rsmFlow rsmLevel rsmOneLevel">
+			<li class="rsmItem sfBreadcrumbNavigation"><a class="rsmLink" href="../home" title="Find out about Hess Corporation, a global company devoted to exploring oil, gas and energy solutions, and about investing on our official website.">Home</a><span class='sfBreadcrumbNodeSeparator'>/</span></li> <li class="rsmItem sfNoBreadcrumbNavigation"><a class="rsmLink" href="javascript: void(0)">Terms and Conditions</a></li>
+		</ul><input id="ctl00_contentCol_T361D07E4025_ctl00_ctl00_Breadcrumb_ClientState" name="ctl00_contentCol_T361D07E4025_ctl00_ctl00_Breadcrumb_ClientState" type="hidden" />
+	</div>
+</div>
+</div><div class="sf_cols">
+    <div class="sf_colsOut sf_1col_1_100">
+        <div id="contentCol_T361D07E4038_Col00" class="sf_colsIn sf_1col_1in_100">
+<h1 class="page-title">Terms and Conditions</h1>
+
+            
+        </div>
+    </div>
+</div>
+<div id="toolbox">
+    <ul>
+        <li id="icon-email" class="btn-widget"><a class="addthis_button_mailto">EMAIL</a></li>
+        <li id="icon-print" class="btn-widget">PRINT</li>
+        <li id="icon-share" class="btn-widget">
+            SHARE
+            
+            <div class="util-widget-box toolbox-icon-share">
+                <div class="inner">
+                    <ul>
+                        <li class="odd"><a class="addthis_button_facebook">Facebook</a></li>
+                        <li class="even"><a class="addthis_button_twitter">Twitter</a></li>
+                        <li class="odd"><a class="addthis_button_linkedin">LinkedIn</a></li>
+                        <li class="even"><a class="addthis_button_google_plusone">Google+</a></li>
+                        <li class="odd"><a class="addthis_button_blogger">Blogger</a></li>
+                        <li class="even"><a class="addthis_button_digg">Digg</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </li>
+    </ul>
+</div>
+
+
+<!--[if gt IE 7]><!--> <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js?domready=1"></script> <!--<![endif]-->
+
+
+<div class="sf_cols">
+    <div class="sf_colsOut sf_1col_1_100">
+        <div id="contentCol_T361D07E4037_Col00" class="sf_colsIn sf_1col_1in_100"><div class='sfContentBlock'><h2 class="content-reg-hdr2">GENERAL TERMS OF USE</h2> <h3 class="content-reg-hdr3">Read this entire agreement carefully.</h3> <p>Welcome to Hess.com. This website is owned and operated by Hess Corporation. Visitors to this site are bound by the following terms and conditions, so please read carefully before going on.<br /> <br />
+Hess Corporation has numerous affiliates that may have their own separate identities, however, for convenience and simplicity in this website these specific affiliates may sometimes be referred to as "Hess" or "Hess Corporation" or "HES" without regard to the actual technical designation of the particular affiliate.<br /> <br />
+Hess Corporation and its affiliated companies provide this website (the "site") and other related or linked Hess sites and certain services, interfaces and functionality on or via this site to you subject to your agreement to comply with the following terms of use. Your use of this site will constitute your acceptance of these terms of use. Once accepted, the terms will constitute a binding agreement between Hess and you governing your use of the site. If any portion of these terms and conditions is held to be unenforceable the remainder of these provisions shall remain in full force and effect.<br /> <br />
+By accessing this site you are granted a limited license to access and make personal use of this site. This license does not include any resale or commercial use of this site or its contents; any collection and use of any product listings, descriptions or prices; any derivative use of this site or its contents; or any use of data mining, robots or similar data gathering and extraction tools. No portion of this site may be reproduced, duplicated, copied, sold, resold, visited or otherwise exploited for any commercial purpose without express written consent of Hess Corporation. You may not frame or utilize framing techniques to enclose any trademark, logo or other proprietary information (including images, text, page layout or form) of Hess Corporation and our affiliates without express written consent. You may not use any meta tags or any other "hidden text" utilizing Hess Corporation's name or trademarks without the express written consent of Hess Corporation. Any unauthorized use terminates the permission or license granted by Hess Corporation.<br /> <br /> </p> <p><strong>IF YOU ARE NOT WILLING TO ABIDE BY THESE TERMS OF USE, DO NOT USE THIS SITE. Disclaimers:</strong></p> <p>The information published on this site is provided without charge as a convenience to our visitors and is to be used for informational purposes only. Although Hess Corporation has made reasonable efforts to provide accurate information, there may be inadvertent technical or factual inaccuracies and typographical errors. Hess Corporation does not guarantee or warrant the accuracy or completeness of the information, text, graphics, links or other items contained or accessed through this site, and Hess Corporation expressly disclaims liability for errors or omissions in these materials. Hess Corporation reserves the right to make changes and corrections at any time, without notice. All information or advice provided as part of this site is intended to be general in nature and you should not rely on it in connection with making any decisions. Hess Corporation is not liable for any action you may take as a result of relying on such information or advice or for any loss or damage suffered by you as a result of taking such action. Visitors to this site assume all responsibility and risk for the use of this site. Nothing contained in this site constitutes investment advice or an invitation to invest or otherwise deal in shares of Hess Corporation.<br /> <br /> </p> <p><strong>THE INFORMATION PROVIDED ON THIS SITE IS PROVIDED "AS IS," "AS AVAILABLE." HESS CORPORATION DOES NOT WARRANT THAT THE FUNCTIONAL ASPECTS OF THIS SITE WILL BE UNINTERRUPTED OR ERROR FREE OR THAT THIS SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS. HESS CORPORATION MAKES NO COMMITMENT TO UPDATE THE INFORMATION CONTAINED ON THIS SITE.</strong></p> <p>The site may include links to external websites. When you follow such links the external website may appear as a full screen (in which case you will have to use the back button on your browser to return to this site) or in some cases it may appear with the frame of this site (in which case you will be able to return to this site by use of the navigation buttons within the frame). Where an external website appears within the frame of this website it is purely for ease of navigation back to this site and does not indicate any responsibility on our part for the content of that external site. These links are provided to you to help you find relevant websites, services and/or products which may be of interest to you. It is your responsibility to decide whether any services or products available through any of these websites are suitable for your purposes. Hess Corporation is not responsible for the owners or operators of these websites or for any goods or services they supply or for the content of their websites and does not give or enter into any conditions, warranties or other terms or representations in relation to any of these or accept any liability in relation to any of these websites (including any liability arising out of any claim that the content of any external website to which this site includes a link infringes on the intellectual property rights of any third party). Hess Corporation assumes no responsibility for and expressly disclaims all liability for errors or omissions in and use or interpretation by others of any information presented here or contained on any linked sites or on any other site accessed by or though this site or any site from which any person may have accessed this site.<br /> <br />
+By providing any non-personal information (such as feedback, data, answers, questions, comments, suggestions, plans or ideas) to Hess Corporation, the visitor agrees that all such information shall be non-confidential and that Hess Corporation shall have unlimited rights to use, distribute, reproduce and disclose such information worldwide as Hess Corporation deems appropriate, without compensation or acknowledgment of its source. Hess Corporation's ownership rights in such information shall extend to and Hess Corporation shall be free to use, any ideas, concepts, know-how or techniques contained in information a visitor provides to Hess Corporation through this site, including but not limited to developing, manufacturing and marketing products or services incorporating or otherwise based on such information.<br /> <br /> </p> <p><strong>HESS CORPORATION AND ITS AFFILIATES DISCLAIM ALL WARRANTIES, REPRESENTATIONS AND ENDORSEMENTS, EXPRESSED OR IMPLIED, WITH REGARD TO INFORMATION ACCESSED FROM OR VIA THIS SITE, INCLUDING BUT NOT LIMITED TO ALL EXPRESS AND IMPLIED WARRANTIES, INCLUDING THE WARRANTY OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND FREEDOM FROM COMPUTER VIRUSES. IN NO EVENT SHALL HESS CORPORATION BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY OTHER DAMAGES OF WHATEVER KIND RESULTING FROM WHATEVER CAUSE, INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION UNDER THEORIES OF CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OR PERFORMANCE OF THE INFORMATION ON, OR ACCESSED THROUGH, THE SITE.</strong></p> <p><strong>Terms &amp; Conditions</strong></p> <p>Hess Corporation may revise the following general terms and conditions of use without notice. You should revisit this site periodically to make sure that you are aware of the most recent general terms and conditions because they will be binding. Your use of this site or services after such changes constitutes your agreement to such changes.<br /> <br />
+You are advised to check each page on the site. Some locations may have special additional terms and conditions of use that apply to use of or interaction with that location. Your use of that location constitutes your acceptance of those special additional terms and conditions.<br /> <br />
+Hess Corporation may change the format and content of this site at any time. Access to the site may be terminated without notice at any time and for any reason at Hess Corporation's sole discretion.<br /> <br />
+This site contains material including text, photographs and other images and audio features which are protected by copyright and/or other intellectual property rights. All copyright and other intellectual property rights in this material are either owned by Hess Corporation or have been licensed to it by the owner(s) of those rights so that Hess Corporation may use that material as part of this site.<br /> <br />
+Requests for commercial use of Hess owned images featured on this website should be directed to: <a href="mailto:webmaster@hess.com">webmaster@hess.com</a>.<br /> <br />
+Permission is likely to be given only where there is a clear business connection with the proposed use of the image or the organization making the request. When making requests please state clearly the image requested and the nature and context of the proposed use. Please note that royalties may be payable to photographers where arrangements have been made for copyright to revert to the photographer in the event of third-party use.<br /> <br />
+Photographs on this website are available for use by news organizations for the purposes of reporting about Hess and/or its affiliates and the activities undertaken by them without further authorization.<br /> <br />
+All content on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations and software, is the property of Hess Corporation or its content suppliers and protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of Hess Corporation and protected by U.S. and international copyright laws. All software used on this site is the property of Hess Corporation or its software suppliers and protected by United States and international copyright laws.<br /> <br />
+Except as otherwise noted, the text and graphics provided on this site are copyrighted by Hess Corporation and/or one of its affiliates. Hess Corporation's name, logos, trade dress, service marks and trademarks may not be otherwise used by you in any manner without the prior written consent of Hess Corporation. Without Hess Corporation's prior written permission, you may not reproduce, distribute, modify, display, prepare derivative works based on,&nbsp;repost&nbsp;or otherwise use the content of this site, except that you may download one copy of the material in temporal storage on one computer for your personal, non-commercial home viewing only, provided you do not delete or change any copyright, trademark or other proprietary notices.<br /> <br />
+The trademarks, trade dress, logos and service marks (collectively the "Trademarks") displayed on this Website are registered and unregistered trademarks of Hess Corporation and others. Nothing contained on the Website should be construed as granting, by implication, estoppel or otherwise, any license or right to use any Trademark displayed on this site without the written permission of Hess Corporation or such third party that may own the Trademark displayed on the site. Your use of the Trademarks displayed on the site or any other content on the site, except as provided herein, is strictly prohibited.<br /> <br />
+Except as expressly provided above, nothing contained herein shall be construed as conferring any license or right under any copyright or other intellectual property right. If you are an owner of intellectual property who believes their intellectual property has been improperly posted or distributed via this Website, please notify Hess immediately at the following address: Hess Corporation, 1185 Avenue of the Americas, New York, New York 10036, Attention: Law Department.<br /> <br />
+Hess Corporation sites may contain sections where visitors may post comments and other content; send e-cards and other communications; and submit suggestions, ideas, comments, questions or other information. You warrant that such content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights or otherwise injurious to third parties or objectionable and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings or any form of spam. You may not use a false e-mail address, impersonate any person or entity or otherwise mislead as to the origin of a card or other content. Hess Corporation reserves the right, but does not have the obligation, to remove or edit such content, but does not regularly review posted content.<br /> <br />
+You are prohibited from using this site to violate or attempt to violate, the integrity or security of this site or for any improper purpose. Any improper use may result in criminal and civil liability to you. Where we deem it appropriate, in our own discretion, we will investigate any improper use and, if a criminal violation is suspected, we will contact the appropriate law enforcement agencies and we will cooperate with such law enforcement agencies in any subsequent investigations. Hess Corporation reserves the right to enforce its rights to the full extent of the law.<br /> <br />
+You may not use this site to:<br /> <br />
+- Engage in data mining;<br />
+- Send obscene or illegal content;<br />
+- Log into or attempt to log into an Hess Corporation server without proper authorization;<br />
+- Log into or attempt to use an account for which you are not authorized;<br />
+- Access data not intended for you or your use;<br />
+- Take any action to obtain services to which you are not entitled;<br />
+- Probe, scan or test the vulnerability of any system, subsystem or network;<br />
+- Tamper with, hack into, modify or otherwise corrupt or breach any Hess Corporation security or authentication measures without proper authorization;<br />
+- Transmit material which contains viruses or other computer programs, codes, routines or engines with the intent or effect of damaging, destroying, disrupting or otherwise impairing a computer's functionality or operation of this site;<br />
+- Misappropriate any data or information on the site;<br />
+- Attempt to interfere with or overload the site in any manner;<br />
+- Infringe on any person's intellectual property rights;<br />
+- Transmit spam, chain letters or commercial advertising;<br />
+- Link to this site, by hyperlink or otherwise, without the written permission of Hess Corporation.<br /> <br />
+This agreement shall be governed by the laws of the State of New York, USA, without regard to principles of conflict of laws. You consent to submit to the exclusive jurisdiction of and venue in the Supreme Court of the State of New York for New York County and/or the United States District Court for the Southern District of New York and agree that any dispute which arises out of the use of this site shall be adjudicated exclusively in such jurisdiction. Any cause of action you may have with respect to this site must be commenced within one year after the claim or cause of action arises or such claim or cause of action is barred. Hess Corporation controls this site from its corporate headquarters in New York, New York. Hess Corporation makes no representations that these materials are appropriate or available for use in other locations or that the content or polices set forth herein comply with the laws of any other jurisdiction.<br /> <br />
+If you have any questions or complaints about this site or about these terms and conditions of use you may contact us by sending an email message to&nbsp;<a href="mailto:webmaster@hess.com">webmaster@hess.com</a>.</p>
+
+
+</div>
+            
+        </div>
+    </div>
+</div>
+            
+        </div>
+    </div>
+</div>
+			 
+			<div class="return-top"><a href="#top">Return to top</a></div>
+        </div>
+        <div id="side-col" class="span4">
+            
+<div id="sideCol_T361D07E4012">
+	
+            <div id="ctl00_sideCol_T361D07E4012_ctl00_ctl00_siteMapControl_verticalsimple" class="RadTabStripVertical RadTabStrip_nav-secondary side-nav-children RadTabStripLeft_nav-secondary side-nav-children RadTabStripLeft">
+		<input id="ctl00_sideCol_T361D07E4012_ctl00_ctl00_siteMapControl_verticalsimple_ClientState" name="ctl00_sideCol_T361D07E4012_ctl00_ctl00_siteMapControl_verticalsimple_ClientState" type="hidden" />
+	</div>
+        
+<script type="text/javascript">
+    
+
+    function radMenuOnClick(sender, args) {
+
+        var state = args.get_item().get_attributes().getAttribute("ExpandOnClick");
+        args.get_item().get_attributes().setAttribute("ExpandOnClick", "true")
+        args.get_item().open();
+    }
+
+    function radMenuOnOpening(sender, args) {
+        var state = args.get_item().get_attributes().getAttribute("ExpandOnClick");
+        if(state != "true")
+            args.set_cancel(true);
+        args.get_item().get_attributes().setAttribute("ExpandOnClick", "false")
+    }
+</script>
+
+</div>
+        </div>
+		
+		
+    </section>
+
+    <div id="footer-area" class="">
+        <footer id="footer-wrppr">
+            <div id="rights" class=" ">
+                
+<div class='sfContentBlock'><div class="footer-left"> <div class="footer-copyright"> <span class="dont-wrap"><img alt="Hess Corporation Logo footer" src="/images/default-source/hess-images/Hess-logo-footer.gif?sfvrsn=2" class="sfimageWrp" />Copyright &copy; 2013-<span class="footer-year">2016</span> Hess Corporation</span></div> <div class="footer-links"> <ul class="rtsUL"> <li> <a href="/utility-pages/site-map"> Site Map</a>
+    / <a href="/utility-pages/terms-and-conditions">Terms and Conditions</a>
+    / <a href="/utility-pages/privacy-policy">Privacy Policy</a> </li> </ul> </div> <div class="footer-right"> <div class="footer-links"> <ul class="rtsUL"> <li><a href="http://www.hesstoytruck.com" target="_blank">HessToyTruck.com</a> </li> </ul> </div> <div class="footer-links"> <ul class="rtsUL footer-icons"> <li><a href="https://www.youtube.com/hesscorporation" target="_blank" title="YouTube" class="youtube-icon icon">Youtube</a></li> <li><a href="https://twitter.com/hesscorporation" title="Twitter" target="_blank" class="twitter-icon icon">Twitter</a></li> <li><a href="https://www.facebook.com/hesscorporation" target="_blank" title="Facebook" class="facebook-icon icon">Facebook</a></li> <li><a href="https://www.linkedin.com/company/hess-corporation" target="_blank" title="LinkedIn" class="linkedin-icon icon">Linkedin</a></li> </ul> </div> </div> </div>
+
+
+</div><script type="text/javascript">var date = new Date();
+$(".footer-year").empty().html(date.getFullYear());   
+</script>
+            </div>
+            <nav id="footer-nav" class=" ">
+                
+
+            </nav>
+        </footer>
+     </div>
+
+  <!-- ScriptWrapper -->
+  <div id="ScriptWrapper">
+    
+    <script src="/Sitefinity/WebsiteTemplates/HessBootstrap/JS/bootstrap.min.js"></script>
+    <script src="/Sitefinity/WebsiteTemplates/HessBootstrap/JS/functions.js"></script>   
+    
+    <!-- custom scripts -->
+    
+
+  </div><!--/.fluid-container-->
+  
+
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl07_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Sitefinity.Resources, Version=11.0.6700.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:ccbfdb4a-4f04-4733-a965-408675324ae8:7a90d6a;Telerik.Web.UI, Version=2018.1.117.40, Culture=neutral, PublicKeyToken=121fae78165ba3d4:en:865a536e-3ec7-4b66-aefb-afa1590d8f4d:ed2942d4:580b2269:eb8d8a8e:8cee9284';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"Sitefinity","clientStateFieldID":"ctl00_mainNav_T361D07E4039_ctl00_ctl00_siteMapControl_horizontaldropdownmenu_ClientState","collapseAnimation":"{\"duration\":450}","expandAnimation":"{\"duration\":450}","itemData":[{"attributes":{"Sitefinity.PageGUID":"973E3765-2619-4D8E-80AD-48866BAD32BF"},"items":[{"attributes":{"Sitefinity.PageGUID":"9DE56A4C-457F-474D-A63A-97DA099BA30F"},"value":"Operations Map","navigateUrl":"~/operations/operations-map"},{"attributes":{"Sitefinity.PageGUID":"1D439DD6-C8D0-491E-A815-B5E99BD171D1"},"value":"Exploration","navigateUrl":"~/operations/exploration"},{"attributes":{"Sitefinity.PageGUID":"02C01212-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Onshore","navigateUrl":"~/operations/onshore"},{"attributes":{"Sitefinity.PageGUID":"C8C81212-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Offshore","navigateUrl":"~/operations/offshore"},{"attributes":{"Sitefinity.PageGUID":"C4041412-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Hess Midstream","navigateUrl":"~/operations/hess-midstream-partners"}],"value":"Operations","navigateUrl":"~/operations"},{"attributes":{"Sitefinity.PageGUID":"D65EC047-DCB9-4082-BAB4-CCF6C286FCD3"},"items":[{"attributes":{"Sitefinity.PageGUID":"43A41EC7-782F-4118-87A0-7D0420BF6938"},"value":"How We Operate","navigateUrl":"~/sustainability/how-we-operate"},{"attributes":{"Sitefinity.PageGUID":"7668EA30-8C2A-4E5C-8206-81DF65914494"},"value":"Social Responsibility","navigateUrl":"~/sustainability/social-responsibility"},{"attributes":{"Sitefinity.PageGUID":"C100B862-B6BA-4DDF-92B8-99F89231FCC7"},"value":"Safety \u0026 Health","navigateUrl":"~/sustainability/hess-employee-safety-and-health"},{"attributes":{"Sitefinity.PageGUID":"48CD1812-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Diversity, Equity and Inclusion","navigateUrl":"~/sustainability/diversity-and-inclusion"},{"attributes":{"Sitefinity.PageGUID":"DC9FBB35-01FA-41B1-8DF3-812C5F311AC8"},"value":"Climate Change \u0026 Energy","navigateUrl":"~/sustainability/climate-change-energy"},{"attributes":{"Sitefinity.PageGUID":"9B3FCC92-37C5-4D04-A35D-B8179CB2418A"},"value":"Environment","navigateUrl":"~/sustainability/environment"},{"attributes":{"Sitefinity.PageGUID":"9A295D94-29F8-46F2-994C-2D925B93128D"},"value":"Sustainability Reports","navigateUrl":"~/sustainability/sustainability-reports"},{"attributes":{"Sitefinity.PageGUID":"52997B28-6538-4F2A-89E5-C9A24C305862"},"value":"Performance Data","navigateUrl":"~/sustainability/performance-data"},{"attributes":{"Sitefinity.PageGUID":"54621412-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Approach to Reporting","navigateUrl":"~/sustainability/approach-to-reporting"}],"value":"Sustainability","navigateUrl":"~/sustainability"},{"attributes":{"Sitefinity.PageGUID":"157E98B4-E9E8-46E4-A40A-862FD3109401"},"items":[{"attributes":{"Sitefinity.PageGUID":"A8960E17-5032-4977-8CD0-D68E73234012"},"value":"Leadership","navigateUrl":"~/company/leadership"},{"attributes":{"Sitefinity.PageGUID":"5FB176E7-B1EB-494D-9E0A-8061CB3B97FA"},"value":"Values","navigateUrl":"~/company/values"},{"attributes":{"Sitefinity.PageGUID":"5B662465-DA59-42B7-A521-CE817311A81E"},"value":"History","navigateUrl":"~/company/hess-history"},{"attributes":{"Sitefinity.PageGUID":"EA2F0C12-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Suppliers","navigateUrl":"~/company/suppliers"},{"attributes":{"Sitefinity.PageGUID":"26D31212-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Owner Relations","navigateUrl":"~/company/owner-relations"},{"attributes":{"Sitefinity.PageGUID":"2E5A8620-24EA-4A81-AB6D-109D6E0B7DC7"},"value":"Contact","navigateUrl":"~/company/contact"}],"value":"Company","navigateUrl":"~/company"},{"attributes":{"Sitefinity.PageGUID":"E89E0D12-A20E-6C24-BC8A-FF0000A61A5D"},"items":[{"attributes":{"Sitefinity.PageGUID":"B6F01812-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Community","navigateUrl":"~/newsroom/community"},{"attributes":{"Sitefinity.PageGUID":"86920812-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Media","navigateUrl":"~/newsroom/media"},{"attributes":{"Sitefinity.PageGUID":"19AB1912-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Speakers","navigateUrl":"~/newsroom/speakers"}],"value":"Newsroom","navigateUrl":"~/newsroom"},{"attributes":{"Sitefinity.PageGUID":"020CF895-1E01-4A0D-A9D3-3E87EFCAF76C"},"items":[{"attributes":{"Sitefinity.PageGUID":"D61267BD-214E-4B6B-BA62-17E640E516E3"},"value":"Life at Hess","navigateUrl":"~/careers/life-at-hess"},{"attributes":{"Sitefinity.PageGUID":"6A7D0A12-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Recruiting Partners","navigateUrl":"~/careers/recruiting-partners"}],"value":"Careers","navigateUrl":"~/careers"},{"attributes":{"Sitefinity.PageGUID":"8A960A12-A20E-6C24-BC8A-FF0000A61A5D"},"value":"Investors","navigateUrl":"~/investors"}]}, {"itemClicked":function(sender, args) {var item = args.get_item();if (!item.get_navigateUrl() || item.get_navigateUrl()=="#") { if (item.get_isOpen()) item.close();else item.open();}}}, null, $get("ctl00_mainNav_T361D07E4039_ctl00_ctl00_siteMapControl_horizontaldropdownmenu"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSiteMap, null, null, null, $get("ctl00_contentCol_T361D07E4025_ctl00_ctl00_Breadcrumb"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTabStrip, {"_orientation":3,"_skin":"nav-secondary side-nav-children","clientStateFieldID":"ctl00_sideCol_T361D07E4012_ctl00_ctl00_siteMapControl_verticalsimple_ClientState"}, null, null, $get("ctl00_sideCol_T361D07E4012_ctl00_ctl00_siteMapControl_verticalsimple"));
+});
+//]]>
+</script>
+</form>
+    <!-- Twitter universal website tag code -->
+<script>
+    !function (e, n, u, a) {
+        e.twq || (a = e.twq = function () {
+            a.exe ? a.exe.apply(a, arguments) :
+            a.queue.push(arguments);
+        }, a.version = '1', a.queue = [], t = n.createElement(u),
+        t.async = !0, t.src = '//static.ads-twitter.com/uwt.js', s = n.getElementsByTagName(u)[0],
+        s.parentNode.insertBefore(t, s))
+    }(window, document, 'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init', 'nvbuk');
+    twq('track', 'PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+</body>
+</html>
+
+

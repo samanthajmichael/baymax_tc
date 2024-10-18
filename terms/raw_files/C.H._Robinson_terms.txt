@@ -1,0 +1,1340 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-us" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Terms Of Use</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="CODE_LANGUAGE" content="C#" />
+    <meta name="vs_defaultClientScript" content="JavaScript" />
+    <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/design/Images/ChRobinson/default/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/design/Images/ChRobinson/default/icons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/design/Images/ChRobinson/default/icons/favicon-16x16.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="mask-icon" href="/design/Images/ChRobinson/default/icons/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#2b5797" />
+    <meta name="theme-color" content="#ffffff" />
+    
+    
+<!-- start MetaTags -->
+
+<script>digitalData = {"page":{"scId":"290e8fba-1a5e-432b-94b7-69c5d8404a35","scPath":"/CHRGlobal/Terms-Of-Use","name":"Terms of Use","section":["Terms-Of-Use"],"canonical":"https://www.chrobinson.com/en-us/terms-of-use/","publishDate":"20230915"},"site":{"region":"North America","name":"chrobinson-en-us","language":"en-us"}};</script>
+<link rel="canonical" href="https://www.chrobinson.com/en-us/terms-of-use/" />
+<meta property="og:title" content="Terms Of Use">
+<meta name="description" content="C.H. Robinson Worldwide, Inc. has clearly defined terms of use that govern users’ access to and use of the website, all terms must be agreed to when navigating the site and using any tools, forms, or features.">
+<meta property="og:description" content="C.H. Robinson Worldwide, Inc. has clearly defined terms of use that govern users’ access to and use of the website, all terms must be agreed to when navigating the site and using any tools, forms, or features.">
+<meta property="og:image" content="https://www.chrobinson.com/en-us/-/media/default%20website/logos/chr_logo_horz_2c_rgb.svg" />
+
+
+
+<!-- end MetaTags -->
+    
+    
+<!-- start LanguageMetaTags-->
+
+    <meta http-equiv="Content-Language" content="en-US"><link rel="alternate" href="https://www.chrobinson.com/en-us/terms-of-use/" hreflang="en-US" /><link rel="alternate" href="https://www.chrobinson.com/es-us/terms-of-use/" hreflang="es-US" /><link rel="alternate" href="https://www.chrobinson.com/en-gb/terms-of-use/" hreflang="en-GB" /><link rel="alternate" href="https://www.chrobinson.com/de-de/terms-of-use/" hreflang="de-DE" /><link rel="alternate" href="https://www.chrobinson.com/es-es/terms-of-use/" hreflang="es-ES" /><link rel="alternate" href="https://www.chrobinson.com/fr-fr/terms-of-use/" hreflang="fr-FR" /><link rel="alternate" href="https://www.chrobinson.com/it-it/terms-of-use/" hreflang="it-IT" /><link rel="alternate" href="https://www.chrobinson.com/pl-pl/terms-of-use/" hreflang="pl-PL" /><link rel="alternate" href="https://www.chrobinson.com/es-ar/terms-of-use/" hreflang="es-AR" /><link rel="alternate" href="https://www.chrobinson.com/pt-br/terms-of-use/" hreflang="pt-BR" /><link rel="alternate" href="https://www.chrobinson.com/zh-cn/terms-of-use/" hreflang="zh-CN" /><link rel="alternate" href="https://www.chrobinson.com/zh-tw/terms-of-use/" hreflang="zh-TW" /><link rel="alternate" href="https://www.chrobinson.com/en-au/terms-of-use/" hreflang="en-AU" /><link rel="alternate" href="https://www.chrobinson.com/fr-ca/terms-of-use/" hreflang="fr-CA" /><link rel="alternate" href="https://www.chrobinson.com/ko-kr/terms-of-use/" hreflang="ko-KR" /><link rel="alternate" href="https://www.chrobinson.com/en-sg/terms-of-use/" hreflang="en-SG" />
+<!-- end LanguageMetaTags-->
+
+    
+<!-- start Include -->
+
+
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="shortcut icon" href="/design/Images/ChRobinson/default/icons/favicon.ico" />
+    <meta name="msvalidate.01" content="F96EE09665C2275EA4E0696D7490FA90" />
+    <!-- Bootstrap -->
+    <link href="/Presentation/chrobinson/design/css/build/chr-bundle.min.css?v=16" rel="stylesheet">    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+
+
+
+<script type="application/ld+json"> 
+
+{"@context": "https://schema.org", 
+
+"@type":"Organization", 
+
+"name": "C.H. Robinson", 
+
+"url": "https://www.chrobinson.com/en-us/", 
+
+"logo": "https://www.chrobinson.com/en-US/-/media/ChRobinson/Logos/CHR_Logo.png", 
+
+"address": {"@type": "PostalAddress","streetAddress": "14701 Charlson Road,", 
+
+"addressLocality": "Eden Prairie", 
+
+"addressRegion": "MN", 
+
+"postalCode": "55347", 
+
+"addressCountry": "United States"}, 
+
+"description": "Reliably meet all your global logistics and technology needs with C.H. Robinson. Supply chain management is optimized with our experience, data, and scale.", 
+
+"contactPoint": { 
+
+"@type": "ContactPoint", 
+
+"telephone": "+1-800-323-7587", 
+
+"contactType": "Sales", 
+
+"areaServed": "Global", 
+
+"availableLanguage": "en-us"}, 
+
+"sameAs": 
+
+["https://www.facebook.com/CHRobinsonInc/", 
+
+"https://twitter.com/chrobinson", 
+
+"http://www.youtube.com/chrobinsonworldwide", 
+
+"http://www.linkedin.com/company/c-h-robinson"] 
+
+} 
+
+</script> 
+</script>
+
+
+<script type="text/javascript" async src="https://play.vidyard.com/embed/v4.js"></script>
+    <script type="text/javascript">window.adobeRsid = "chrobworldwide"</script>
+<script src="//app-ab35.marketo.com/js/forms2/js/forms2.min.js"></script>
+
+<style>#MainPanel > .row, .related-services > .row{margin:0;}.content-module-container{ padding-top: 15px;  padding-bottom: 15px;}</style>
+
+<!-- end Include -->
+    
+    
+    
+    <script src="//assets.adobedtm.com/launch-EN95014310110b4f9d8886d0cf436f230e.min.js" async></script>
+</head>
+<body>
+    <div id="MainPanel">
+        
+<!-- start Breadcrumb-->
+<nav aria-label="breadcrumb" class="chr-nav-breadcrumb">
+    <ol class="container-xxl breadcrumb">
+        
+        
+    </ol>
+</nav>
+
+    
+       
+        <script src="/Presentation/chrobinson/design/js/jquery.min.js"></script>
+        <script type="text/javascript">
+
+                $(document).ready(function() {
+                            if ($(window).width() < 768) {
+                                $('.chr-nav-breadcrumb ol').html('<li class="breadcrumb-item"><a href="/en-us/">Home</a></li>');
+                            }
+                            else {
+                                $('.chr-nav-breadcrumb ol').html('<li class="breadcrumb-item"><a href="/en-us/">Home</a></li><li class="breadcrumb-item active" aria-current="page">Terms of Use</li>');
+                            }
+
+                        $(window).resize(function() {
+                              if ($(window).width() < 768) {
+                                $('.chr-nav-breadcrumb ol').html('<li class="breadcrumb-item"><a href="/en-us/">Home</a></li>');
+                            }
+                            else {
+                                $('.chr-nav-breadcrumb ol').html('<li class="breadcrumb-item"><a href="/en-us/">Home</a></li><li class="breadcrumb-item active" aria-current="page">Terms of Use</li>');
+                            }
+                        });
+                });
+        </script>
+    
+
+
+<!-- end Breadcrumb-->
+
+<!-- start Header-->
+    <nav id="navbar" class="navbar w-100 navbar-expand-lg navbar-light bg-white sticky-top has-utility">
+        <div class="container-xxl g-xxl-0" id="main-nav">
+            <a class="navbar-brand order-1" href="/en-us" nav-loc="logo">
+                <img src="/en-US/-/media/Default Website/Logos/CHR_Logo_Horz_2C_RGB.svg" alt="" title="" class="img-responsive" width="151" height="34" />
+            </a>
+
+            <button class="navbar-toggler order-4 chr-navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-close-icon close"></span>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse chr-show-style order-2" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                                <li class="nav-item dropdown chr-dropdown">
+                                    <a href="#" class="nav-link nav-dropdown-toggle primary-nav-link " target="" role="button" data-bs-toggle="dropdown"
+                                       aria-expanded="false" id="navbarDropdownMenuLink-Shippers" nav-loc="lvl-0">
+                                        Shippers
+                                    </a>
+                                    <div class="dropdown-menu chr-dd-menu-styles" aria-labelledby="navbarDropdownMenuLink-Shippers">
+                                        <div class="subnav-container">
+                                            <div class="subnav-content">
+                                                <div class="subnav-lists">
+                                                    <div class="subnav-col1">
+                                                        <div class="plink-bar">
+                                                            <span class="subnav-back d-lg-none"> back</span>
+                                                            <a class="plink" href="/en-us/shippers/" nav-loc="lvl-1">Shippers <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                                                            <p style="font-size: 13px; margin-top: 16px;">Reduce the need for multiple providers by tapping into our global suite of services</p>
+                                                        </div>
+                                                            <div class="subnav-marketing-content">
+                                                                <p style="color: #54565b;
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: bold;">Take your nearshoring strategy to the next level! </p>
+<p><img height="750" alt="CARM | Connect with a CARM expert" width="750" src="/en-US/-/media//CHRGlobal/global-og/leaders-wp-200-100.jpg" style="width: 200px;
+height: 100px;
+;" /></p>
+
+<p>
+Explore our&nbsp;<a href="/en-us/lp/nast/cross-border/" class="chr-blue-link-arrow trk" trk-desc="shipper-cross-border-nav-text-cta">Cross-border solutions</a>&nbsp;</p>
+                                                            </div>
+                                                    </div>
+                                                        <div class="subnav-col2">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/shippers/freight-services/" target="" nav-loc="lvl-2">Freight Services</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/shippers/freight-services/">Freight Services <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/freight-services/air/" target="" nav-loc="lvl-3">Air Freight</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/freight-services/ltl/" target="" nav-loc="lvl-3">Less than Truckload</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/freight-services/ocean/" target="" nav-loc="lvl-3">Ocean Shipping</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/freight-services/truckload/" target="" nav-loc="lvl-3">Truckload</a>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+            <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/shippers/supply-chain-and-logistics-services/" target="" nav-loc="lvl-2">Supply Chain &amp; Logistics Services</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col3">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/shippers/industries/" target="" nav-loc="lvl-2">Industries</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/shippers/industries/">Industries <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/industries/automotive-logistics/" target="" nav-loc="lvl-3">Automotive Logistics</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/industries/energy-logistics/" target="" nav-loc="lvl-3">Energy Logistics</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/industries/food-and-beverage-logistics/" target="" nav-loc="lvl-3">Food and Beverage Logistics</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/industries/healthcare-logistics/" target="" nav-loc="lvl-3">Healthcare Logistics</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/industries/retail-logistics/" target="" nav-loc="lvl-3">Retail Logistics</a>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col4">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/shippers/logistics-service-regions/" target="" nav-loc="lvl-2">Logistics Services by Region</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/shippers/logistics-service-regions/">Logistics Services by Region <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/logistics-service-regions/asia/" target="" nav-loc="lvl-3">Asia</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/logistics-service-regions/europe/" target="" nav-loc="lvl-3">Europe</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/logistics-service-regions/latin-america/" target="" nav-loc="lvl-3">Latin America</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/logistics-service-regions/north-america/" target="" nav-loc="lvl-3">North America</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/shippers/logistics-service-regions/oceania/" target="" nav-loc="lvl-3">Oceania</a>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown chr-dropdown">
+                                    <a href="#" class="nav-link nav-dropdown-toggle primary-nav-link " target="" role="button" data-bs-toggle="dropdown"
+                                       aria-expanded="false" id="navbarDropdownMenuLink-Carriers" nav-loc="lvl-0">
+                                        Carriers
+                                    </a>
+                                    <div class="dropdown-menu chr-dd-menu-styles" aria-labelledby="navbarDropdownMenuLink-Carriers">
+                                        <div class="subnav-container">
+                                            <div class="subnav-content">
+                                                <div class="subnav-lists">
+                                                    <div class="subnav-col1">
+                                                        <div class="plink-bar">
+                                                            <span class="subnav-back d-lg-none"> back</span>
+                                                            <a class="plink" href="/en-us/carriers/" nav-loc="lvl-1">Carriers <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                                                            <p style="font-size: 13px; margin-top: 16px;">With C.H. Robinson, you get more loads to choose from than any other 3PL in North America</p>
+                                                        </div>
+                                                            <div class="subnav-marketing-content">
+                                                                <p style="color: #54565b; font-family: Nunito Sans; font-size: 20px; font-weight: bold;">Book and make offers instantly</p> 
+<p>Easily find the lanes and freight you want anytime, anywhere with Navisphere<sup>&reg;</sup> Carrier.<p>
+<a target="_blank" href="https://www.navispherecarrier.com/find-loads/single" class="trk text-cta-with-arrow" trk-desc="book-your-shipment-today-navigation-cta-2/1-update">Book your next load today</a>
+
+
+                                                            </div>
+                                                    </div>
+                                                        <div class="subnav-col2">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/carriers/become-a-carrier/" target="" nav-loc="lvl-2">Become a Carrier</a>
+                </li>
+            </ul>
+            <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/carriers/loadboard/" target="" nav-loc="lvl-2">Load Board</a>
+                </li>
+            </ul>
+            <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/carriers/carrier-financial-services/" target="" nav-loc="lvl-2">Carrier Financial Services</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/carriers/carrier-financial-services/">Carrier Financial Services <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/carriers/carrier-programs/carrier-advantage-card/" target="" nav-loc="lvl-3">C.H. Robinson Fuel Card</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/carriers/carrier-financial-services/cash-advance/" target="" nav-loc="lvl-3">Cash Advance</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/carriers/carrier-financial-services/quick-pay/" target="" nav-loc="lvl-3">Quick Pay</a>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+            <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/carriers/carrier-programs/" target="" nav-loc="lvl-2">Carrier Advantage Program</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col3">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/technology/carrier-technology/" target="" nav-loc="lvl-2">Carrier Technology</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/technology/carrier-technology/">Carrier Technology <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/technology/carrier-technology/navisphere-carrier-mobile-app/" target="" nav-loc="lvl-3">Navisphere Carrier Mobile App</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/carriers/api-connectivity/" target="" nav-loc="lvl-3">TMS/API Connectivity</a>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col4">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/carriers/carrier-support/" target="" nav-loc="lvl-2">Carrier Support</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/carriers/carrier-support/">Carrier Support <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/technology/carrier-technology/carrier-tracking/" target="" nav-loc="lvl-3">Set Up Carrier Tracking</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/carriers/carrier-financial-services/profit-calculator/" target="" nav-loc="lvl-3">Profit Calculator</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/carriers/faq/" target="" nav-loc="lvl-3">FAQs</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/technology/carrier-technology/carrier-specs/" target="" nav-loc="lvl-3">Carrier Specs</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/carriers/cross-border-resources/" target="" nav-loc="lvl-3">Cross-Border Resources</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/carriers/carrier-support/glossary/" target="" nav-loc="lvl-3">Glossary</a>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown chr-dropdown">
+                                    <a href="#" class="nav-link nav-dropdown-toggle primary-nav-link " target="" role="button" data-bs-toggle="dropdown"
+                                       aria-expanded="false" id="navbarDropdownMenuLink-Technology" nav-loc="lvl-0">
+                                        Technology
+                                    </a>
+                                    <div class="dropdown-menu chr-dd-menu-styles" aria-labelledby="navbarDropdownMenuLink-Technology">
+                                        <div class="subnav-container">
+                                            <div class="subnav-content">
+                                                <div class="subnav-lists">
+                                                    <div class="subnav-col1">
+                                                        <div class="plink-bar">
+                                                            <span class="subnav-back d-lg-none"> back</span>
+                                                            <a class="plink" href="/en-us/technology/" nav-loc="lvl-1">Technology <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                                                            <p style="font-size: 13px; margin-top: 16px;">Our technology is built by and for supply chain experts to bring faster, more meaningful improvements to you</p>
+                                                        </div>
+                                                            <div class="subnav-marketing-content">
+                                                                <p style="color: #54565b;
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: bold;">End-to-end visibility</p>
+<p>
+More than just identifying disruptions on your shipments, we’re helping to resolve them too.
+</p>
+<p>
+<a href="/en-us/technology/shipper-technology/navisphere/advanced-visibility/" class="chr-blue-link-arrow trk" trk-desc="AVP-richtext-navigation-cta">Advanced visibility</a></p>
+                                                            </div>
+                                                    </div>
+                                                        <div class="subnav-col2">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/technology/shipper-technology/" target="" nav-loc="lvl-2">Shipper Technology</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/technology/shipper-technology/">Shipper Technology <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/technology/shipper-technology/navisphere/" target="" nav-loc="lvl-3">Navisphere</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link has-child " href="/en-us/technology/shipper-technology/global-tms/" target="" nav-loc="lvl-3">Global TMS</a>
+                                                <div class="subnav-lv3-header">
+                                                    <div class="plink-bar d-lg-none">
+                                                        <span class="subnav-lv3-back d-lg-none"> back</span>
+                                                        <a class="plink" href="/en-us/technology/shipper-technology/global-tms/">Global TMS <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to" /></a>
+                                                    </div>
+                                                    <ul class="subnav-lv4">
+                                                                <li>
+                                                                    <a class="subnav-lv4-link " href="/en-us/technology/shipper-technology/global-tms/planning-optimization/" target="" nav-loc="lvl-4">Planning &amp; Optimization</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a class="subnav-lv4-link " href="/en-us/technology/shipper-technology/global-tms/freight-visibility/" target="" nav-loc="lvl-4">Freight Visibility</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a class="subnav-lv4-link " href="/en-us/technology/shipper-technology/global-tms/pricing-booking/" target="" nav-loc="lvl-4">Pricing &amp; Booking</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a class="subnav-lv4-link " href="/en-us/technology/shipper-technology/global-tms/reporting-analytics/" target="" nav-loc="lvl-4">Reporting &amp; Analytics</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a class="subnav-lv4-link " href="/en-us/shippers/supply-chain-and-logistics-services/managed-services/" target="" nav-loc="lvl-4">Managed Services</a>
+                                                                </li>
+
+
+                                                    </ul>
+                                                </div>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col3">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/technology/carrier-technology/" target="" nav-loc="lvl-2">Carrier Technology</a>
+                </li>
+            </ul>
+            <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/technology/shipper-technology/small-business/" target="" nav-loc="lvl-2">Tech for small businesses</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col4">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/technology/connectivity-integrations/" target="" nav-loc="lvl-2">Connectivity &amp; Integrations</a>
+                </li>
+            </ul>
+            <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/technology/robinson-labs/" target="" nav-loc="lvl-2">Innovation</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown chr-dropdown">
+                                    <a href="#" class="nav-link nav-dropdown-toggle primary-nav-link " target="" role="button" data-bs-toggle="dropdown"
+                                       aria-expanded="false" id="navbarDropdownMenuLink-Resources" nav-loc="lvl-0">
+                                        Resources
+                                    </a>
+                                    <div class="dropdown-menu chr-dd-menu-styles" aria-labelledby="navbarDropdownMenuLink-Resources">
+                                        <div class="subnav-container">
+                                            <div class="subnav-content">
+                                                <div class="subnav-lists">
+                                                    <div class="subnav-col1">
+                                                        <div class="plink-bar">
+                                                            <span class="subnav-back d-lg-none"> back</span>
+                                                            <a class="plink" href="/en-us/resources/" nav-loc="lvl-1">Resources <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                                                            <p style="font-size: 13px; margin-top: 16px;">Freight market insights and supply chain resources to help drive better outcomes for your business</p>
+                                                        </div>
+                                                            <div class="subnav-marketing-content">
+                                                                <p style="color: #54565b;
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: bold;">Shipping your products across borders?</p>
+<p style="color: #54565b;
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: bold;">
+<img height="750" alt="CARM | Connect with a CARM expert" width="750" src="/en-US/-/media//CHRGlobal/global-og/leaders-wp-200-100.jpg" style="width: 200px;
+height: 100px;
+;" /></p>
+<p>Engage with our specialized cross-border consultants. </p>
+<p>
+<a href="https://www.chrobinson.com/en-us/lp/nast/cross-border/" class="chr-blue-link-arrow trk" trk-desc="shipper-cross-border-nav-text-cta">Act now and transform your shipping strategy</a></p>
+                                                            </div>
+                                                    </div>
+                                                        <div class="subnav-col2">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/resources/resource-center/" target="" nav-loc="lvl-2">Resource Center</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/resources/resource-center/">Resource Center <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/resources/resource-center/case-studies/" target="" nav-loc="lvl-3">Case Studies</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/resources/resource-center/events/" target="" nav-loc="lvl-3">Events</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/resources/resource-center/guides/" target="" nav-loc="lvl-3">Guides</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/resources/resource-center/videos/" target="" nav-loc="lvl-3">Videos</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/resources/resource-center/webinars/" target="" nav-loc="lvl-3">Webinars</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/resources/resource-center/white-papers/" target="" nav-loc="lvl-3">White Papers</a>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col3">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/resources/insights-and-advisories/" target="" nav-loc="lvl-2">Insights and Advisories</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/resources/insights-and-advisories/">Insights and Advisories <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link has-child " href="/en-us/resources/insights-and-advisories/north-america-freight-insights/" target="" nav-loc="lvl-3">Freight Market Updates</a>
+                                                <div class="subnav-lv3-header">
+                                                    <div class="plink-bar d-lg-none">
+                                                        <span class="subnav-lv3-back d-lg-none"> back</span>
+                                                        <a class="plink" href="/en-us/resources/insights-and-advisories/north-america-freight-insights/">Freight Market Updates <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to" /></a>
+                                                    </div>
+                                                    <ul class="subnav-lv4">
+                                                                <li>
+                                                                    <a class="subnav-lv4-link " href="/en-us/resources/insights-and-advisories/north-america-freight-insights/september-2024-freight-market-updates/" target="" nav-loc="lvl-4">Freight Market Update: September</a>
+                                                                </li>
+                                                                <li>
+                                                                    <a class="subnav-lv4-link " href="/en-us/resources/insights-and-advisories/north-america-freight-insights/rr-09-19-2024/" target="" nav-loc="lvl-4">Robinson Roundup: September</a>
+                                                                </li>
+
+
+                                                    </ul>
+                                                </div>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/resources/insights-and-advisories/trade-tariff-insights/" target="" nav-loc="lvl-3">North American Trade &amp; Tariff Insights</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/resources/insights-and-advisories/client-advisories/" target="" nav-loc="lvl-3">Client Advisories</a>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col4">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/resources/blog/" target="" nav-loc="lvl-2">C.H. Robinson Blog</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown chr-dropdown">
+                                    <a href="#" class="nav-link nav-dropdown-toggle primary-nav-link " target="" role="button" data-bs-toggle="dropdown"
+                                       aria-expanded="false" id="navbarDropdownMenuLink-About" nav-loc="lvl-0">
+                                        About
+                                    </a>
+                                    <div class="dropdown-menu chr-dd-menu-styles" aria-labelledby="navbarDropdownMenuLink-About">
+                                        <div class="subnav-container">
+                                            <div class="subnav-content">
+                                                <div class="subnav-lists">
+                                                    <div class="subnav-col1">
+                                                        <div class="plink-bar">
+                                                            <span class="subnav-back d-lg-none"> back</span>
+                                                            <a class="plink" href="/en-us/about-us/" nav-loc="lvl-1">About <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                                                            <p style="font-size: 13px; margin-top: 16px;">We solve logistics problems for companies across the globe and across industries, from the simple to the most complex</p>
+                                                        </div>
+                                                            <div class="subnav-marketing-content">
+                                                                <p style="color: #54565b;
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: bold;">Achieve your logistics goals faster</p>
+<p style="color: #54565b;
+font-family: Nunito Sans;
+font-size: 18px;
+font-weight: bold; margin-bottom: 0px;">
+<img height="64" alt="TMC logo" width="156" src="/en-US/-/media/logos/logo-tmc--.png" /></p>
+<p>Combine our global TMS technology with a full suite of logistics managed services and supply chain consulting.</p>
+<p>
+<a href="/en-us/about-us/our-company/tmc/" class="chr-blue-link-arrow trk" trk-desc="TMC-richtext-navigation-cta">Explore TMC</a>&nbsp;</p>
+                                                            </div>
+                                                    </div>
+                                                        <div class="subnav-col2">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link has-child " href="/en-us/about-us/corporate-responsibility/" target="" nav-loc="lvl-2">Corporate Responsibility</a>
+                        <div class="subnav-lv2-header">
+                            <div class="plink-bar d-lg-none">
+                                <span class="subnav-lv2-back d-lg-none"> back</span>
+                                <a class="plink" href="/en-us/about-us/corporate-responsibility/">Corporate Responsibility <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                            </div>
+                            <ul class="subnav-lv3">
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/about-us/corporate-responsibility/diversity-inclusion/" target="" nav-loc="lvl-3">Diversity &amp; Inclusion</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/about-us/corporate-responsibility/community/" target="" nav-loc="lvl-3">Community</a>
+                                        </li>
+                                        <li>
+                                            <a class="subnav-lv3-link  " href="/en-us/about-us/corporate-responsibility/sustainability/" target="" nav-loc="lvl-3">Corporate Sustainability</a>
+                                        </li>
+                            </ul>
+                        </div>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col3">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/about-us/our-company/" target="" nav-loc="lvl-2">Our Company</a>
+                </li>
+            </ul>
+            <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="https://jobs.chrobinson.com/?utm_source=chrobinson.com&amp;utm_medium=referral&amp;utm_campaign=Corporate_Site" target="_blank" nav-loc="lvl-2">Careers</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col4">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="https://www.chrobinson.com/en-us/newsroom/" target="_blank" nav-loc="lvl-2">Global Newsroom</a>
+                </li>
+            </ul>
+            <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="https://investor.chrobinson.com/" target="_blank" nav-loc="lvl-2">Investors</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown chr-dropdown">
+                                    <a href="#" class="nav-link nav-dropdown-toggle primary-nav-link " target="" role="button" data-bs-toggle="dropdown"
+                                       aria-expanded="false" id="navbarDropdownMenuLink-Contact" nav-loc="lvl-0">
+                                        Contact
+                                    </a>
+                                    <div class="dropdown-menu chr-dd-menu-styles" aria-labelledby="navbarDropdownMenuLink-Contact">
+                                        <div class="subnav-container">
+                                            <div class="subnav-content">
+                                                <div class="subnav-lists">
+                                                    <div class="subnav-col1">
+                                                        <div class="plink-bar">
+                                                            <span class="subnav-back d-lg-none"> back</span>
+                                                            <a class="plink" href="/en-us/contact/" nav-loc="lvl-1">Contact <img src="/presentation/chrobinson/img/icons/icon-goto-arrow-default.svg" alt="go to"></a>
+                                                            <p style="font-size: 13px; margin-top: 16px;">Our global network of experts acts as an extension of your team, contact us today to learn more how we can help you</p>
+                                                        </div>
+                                                    </div>
+                                                        <div class="subnav-col2">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/contact/find-an-office/" target="" nav-loc="lvl-2">Find an Office</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col3">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/contact/request-a-quote/" target="" nav-loc="lvl-2">Request a Quote</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                                                                            <div class="subnav-col4">
+                                                                        <ul class="subnav-lv2">
+                <li>
+                    <a class="subnav-lv2-link  " href="/en-us/contact/connect-with-an-expert/" target="" nav-loc="lvl-2">Connect with an Expert</a>
+                </li>
+            </ul>
+
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                </ul>
+
+                <!-- utility options -->
+                    <div id="utility" class="utility-nav p-2">
+
+                        <hr class="mx-3" />
+                        <div class="container-fluid container-xxl">
+                            <div class="row align-items-center justify-content-center float-lg-end px-0" style="font-size: 12px; line-height: 28px;">
+                                    <div class="col-12 ps-lg-0 ms-lg-0 h-auto">
+                                        <a href="/en-us/contact/request-a-quote/" class="text-dark text-end" trk-desc="trk" nav-loc="lvl-0">
+                                            <img src="/en-US/-/media/ChRobinson/Icons/get-a-quote.svg" title="" alt="" />
+                                            Get a quote
+                                        </a>
+                                            <span class="text-dark px-1">|</span>
+                                    </div>
+
+
+                                    <div class="col-12 ps-lg-0 ms-lg-0 h-auto">
+                                        <a href="/en-us/carriers/loadboard/" class="text-dark text-start" trk-desc="trk" nav-loc="lvl-0">
+                                            <img src="/en-US/-/media/ChRobinson/Icons/load-board.svg" title="" alt="" />
+                                            Load board
+                                        </a>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+
+            </div>
+
+            <!-- Right nav build -->
+            <div class="order-3">
+                <ul class="d-flex navbar-right ms-auto">
+
+                        <li>
+                            <div class="dropdown navbar-right-wrapper navbar-login ">
+                                
+                                <a href="#" class="dropdown-toggle nav-dropdown-toggle" role="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" nav-loc="login-dd">
+                                    <img src="/en-US/-/media/ChRobinson/Icons/icon-login.svg" title="" alt="" />
+                                    <div class="d-none d-xl-inline-block">Login</div>
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenu2">
+                                    <div class="nr-title">Login</div>
+                                    <button type="button" class="btn-close" aria-label="Close"></button>
+                                            <li><a target="_blank" onclick="trackLogin('Navisphere', 'https://navisphere.chrobinson.com/login.aspx', 'Header Login');" href="https://navisphere.chrobinson.com/login.aspx" rel="nofollow">Navisphere</a></li>
+        <li><a target="_blank" onclick="trackLogin('Navisphere 2.0', 'https://online.chrobinson.com/', 'Header Login');" href="https://online.chrobinson.com/" rel="nofollow">Navisphere 2.0</a></li>
+        <li><a target="_blank" onclick="trackLogin('Navisphere Carrier', 'https://www.navispherecarrier.com/login', 'Header Login');" href="https://www.navispherecarrier.com/login" rel="nofollow">Navisphere Carrier</a></li>
+        <li><a target="_blank" onclick="trackLogin('Canadian Customs Portal – Login', 'https://www.chrobinson.com/en-ca/lp/canada/login/', 'Header Login');" href="https://www.chrobinson.com/en-ca/lp/canada/login/" rel="nofollow">Canadian Customs Portal – Login</a></li>
+        <li><a target="_blank" onclick="trackLogin('Portail Douane Canada -se connecter', 'https://www.chrobinson.com/fr-ca/lp/canada/login/', 'Header Login');" href="https://www.chrobinson.com/fr-ca/lp/canada/login/" rel="nofollow">Portail Douane Canada -se connecter</a></li>
+        <li><a target="_blank" onclick="trackLogin('Oceania WMS Access', 'https://chrobinson.wmsaccess.com/', 'Header Login');" href="https://chrobinson.wmsaccess.com/" rel="nofollow">Oceania WMS Access</a></li>
+        <li><a target="_blank" onclick="trackLogin('Prime WMS', 'https://wms.chrobinson.com', 'Header Login');" href="https://wms.chrobinson.com" rel="nofollow">Prime WMS</a></li>
+
+                                </ul>
+                            </div>
+                        </li>
+                                            <li>
+
+                            <div class="dropdown navbar-right-wrapper navbar-login alertLanguage">
+                                    <a href="/en-us/language-selector/" class="currentLanguage" id="alertCurrentLang" nav-loc="language-selector">
+                                        <img src="/en-US/-/media/ChRobinson/Icons/icon-language-region.svg" title="" alt="" />
+                                        <div class="d-none d-xl-inline-block">EN-US</div>
+                                    </a>
+
+
+
+
+
+
+
+
+                            </div>
+
+
+
+
+
+
+                        </li>
+                    <li onclick="toggleSearch();">
+                        <a href="#" nav-loc="search">
+                            <img id="iconSearchSubmit-new" src="/en-US/-/media/ChRobinson/Icons/icon-search.svg" title="" alt="" />
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+
+        <div id="search-expanded" class="search-container container-xxl g-xxl-0" style="display:none;">
+            <ul class="d-flex align-items-center" style="width: 100%; padding-left: 0; margin-bottom: 0;">
+                <li>
+                    <div id="searchSubmitMegaNav" data-searchurl="/en-US/Search/?new=1&amp;keyword=">
+                        <img id="iconSearchSubmit-new-Active" src="/en-US/-/media/ChRobinson/Icons/icon-search.svg" title="" alt="" />
+                    </div>
+                </li>
+                <li class="search-expanded-li w-100">
+                    <input id="searchInput" name="keyword" placeholder="Search" value="" type="text" />
+                </li>
+                <li class="ms-auto">
+                    <span id="cancel-search" onclick="toggleSearch();"><button type="button" class="btn-close" aria-label="Close"></button></span>
+                </li>
+            </ul>
+        </div>
+
+    </nav>
+
+
+
+
+
+
+<!-- end Header-->
+
+
+<!-- start PlaceholderFullWidthWithGutter-->
+
+<div class="container-fluid " style="">
+    <div class="container ">
+        
+
+
+<!-- start ContentModule -->
+
+
+
+    <div class="content-module-container  " 
+         style="padding-top:;padding-bottom:;
+         
+         
+         ">
+
+                <div class="content-module-rt left">
+<h1>CH ROBINSON WebSite Terms and Conditions of Use</h1>
+<p class="bodycopy"><strong>Definitions</strong></p>
+<p class="bodycopy">The Websites CHROBINSON.COM, CHRWONLINE.COM, NAVISPHERECARRIER.COM, NAVISPHERE.COM, ROBINSONFRESH.COM, WELCHSFRESH.COM, PACKAGING.CHROBINSON.COM and mobile applications NAVISPHERE customer mobile application, CHRWTRUCKS carrier mobile application, as well as other Website or applications operated by or on behalf of C.H. Robinson Worldwide, Inc. (all &ldquo;Website&rdquo;) is provided to you by C.H. Robinson Worldwide, Inc. and its affiliates and subsidiaries and each of their directors, officers, employees, and authorized representatives (&ldquo; C.H. Robinson &rdquo;)</p>
+<p class="bodycopy"><strong><em>In General </em></strong></p>
+<p class="bodycopy">Access to and use of this Website and the services available at this Website are subject to the following terms and conditions as set forth in this notice (&ldquo;Agreement&rdquo;). By accessing or using the Website or downloading materials from the Website, you agree to be legally bound by the terms and conditions set forth below without any modification. Please review them carefully. If you do not agree to the terms, do not use this Website. Content on this site may not be used for commercial benefit without expressed written consent of C.H. Robinson.&nbsp; You must be 18 years of age or older or the age of majority as that is defined in your jurisdiction, whichever is older, to use the Website.&nbsp;</p>
+<p class="bodycopy"><strong><em>Copyrights</em></strong></p>
+<p class="bodycopy" style="margin-bottom: 0in;">Copyright &copy; 2022 C.H. Robinson Worldwide, Inc., All Rights Reserved.</p>
+<p class="bodycopy" style="margin-bottom: 0in;">The copyright in this entire Website is held by C.H. Robinson. All material provided on this Website is protected under United States copyright laws and international copyright laws and treaty provisions. Except as expressly provided herein, none of the material provided on this Website may be copied, distributed, republished, reproduced, downloaded, displayed or transmitted in any form for commercial use without the prior written permission of C.H. Robinson.</p>
+<p class="bodycopy">Individual visitors of this Website are permitted to print one copy of material published on this Website solely for their personal, non-commercial use, provided they do not modify the materials and that they retain all copyright and other proprietary notices contained in the materials. This permission terminates automatically if you breach any of the terms and conditions contained herein. C.H. Robinson does not permit the download or printing of this Website for any commercial purpose, including the use on other Website.</p>
+<p class="bodycopy"><strong><em>Trademarks</em></strong></p>
+<p>Any trademarks, logos, service marks, brand identities, titles, characters, graphics, designs, and/or other properties displayed on this website are property of C.H. Robinson and are protected as registered and unregistered trademarks and copyrights. You may not use trademarks without the express written permission of C.H. Robinson.</p>
+<p class="bodycopy"><strong><em>Licensing and Permissions</em></strong></p>
+<p class="bodycopy">To protect our intellectual property, C.H. Robinson requires a license agreement or written permission from an authorized agent of C.H. Robinson prior to any use of brand names, trademarks, service marks, copyrights and other intellectual property belonging to C.H. Robinson. Any misuse of intellectual property belonging to C.H. Robinson is strictly prohibited. For additional information on license agreements and C.H. Robinson's intellectual property, including trademarks and copyrights, contact us at:&nbsp;<a href="/cdn-cgi/l/email-protection#94f8f1f3f5f8d4f7fce6fbf6fdfae7fbfabaf7fbf9"><span class="__cf_email__" data-cfemail="bcd0d9dbddd0fcdfd4ced3ded5d2cfd3d292dfd3d1">[email&#160;protected]</span></a> <strong></strong></p>
+<p class="bodycopy"><strong><em>All Rights Reserved</em></strong></p>
+<p class="bodycopy">C.H. Robinson does not grant any express or implied right to you under any patents, trademarks, copyrights, trade secret, or any other intellectual property.</p>
+<p class="bodycopy"><strong><em>Your Account</em></strong></p>
+<p style="background: white; margin-bottom: 18.75pt;"><span style="color: #212529;">If the Website is interactive, allowing you to create an account and allowing you to upload and/or download content from the Website, this section applies.&nbsp; If you create an account, you may create a personal user id and password, which will allow you, in accordance with these Terms of Use, access and use your account. We understand that the privacy and security of data that are maintained on the Website are important, and therefore, we use commercially reasonable security technology, features and policies to protect that privacy. However, please keep in mind that such records are only secure if You protect Your password and change Your password frequently.</span></p>
+<p style="background: white; margin-bottom: 18.75pt;"><span style="color: #212529;">It is Your responsibility to ensure that no unauthorized person shall have access to Your user id and password. It is Your sole responsibility to control access to and use of Your user account, and promptly inform C.H. Robinson of any need to deactivate or change Your user id and/or password. C.H. Robinson cannot and will not assume any responsibility or liability for any content submitted to Your account or any content that is used or misused whether submitted, used, or misused by You, Your designees, and/or other third parties. All Your acts and omissions and those of unauthorized users who access the Website via Your user id and password shall be deemed to be Your acts and omissions.</span></p>
+<p style="background: white; margin-bottom: 18.75pt;"><span style="color: #212529;">Regarding Your user id and password, You expressly agree (i) to maintain the security of Your users id, password, and other confidential information relating to Your account and/or the accounts which you have been granted access; (ii) to notify C.H. Robinson as soon as reasonably practicable of any real or suspected unauthorized use of the users account; (iii) to notify C.H. Robinson when You no longer require the use of Your user id and password; and (iv) to comply with instructions provided by C.H. Robinson for using, maintaining, or correcting Your account.</span></p>
+<p style="background: white; margin-bottom: 18.75pt;"><span style="color: #212529;">You hereby grant C.H. Robinson, its employees, officers, directors and all other persons or entities involved in the operation of C.H. Robinson, the right to access, transmit, receive, monitor, retrieve, store, maintain, and use the content in your account for the purpose of providing services, operating the Website, or in order to carry out the legal responsibilities of C.H. Robinson. You understand, agree, consent and authorize Your content to be stored, entered, and maintained on the Website in accordance with these Terms of Use and C.H. Robinson&rsquo;s relevant policies and procedures.</span></p>
+<p style="background: white; margin-bottom: 18.75pt;"><span style="color: #212529;">When you upload and/or download information to or from the Website, such content uploads and downloads will be communicated using commercially reasonable security procedures and processes. However, C.H. Robinson cannot and will not guarantee that: (a) the content, during its transmission, will be protected against loss, misuse or alteration by third parties; or (b) access to Your account will be uninterrupted; or (c) the commercially reasonable security procedures and processes cannot be breached.</span></p>
+<p style="background: white; margin-bottom: 18.75pt;"><span style="color: #212529;">You may not use the Website in order to transmit, post, distribute, store or destroy material, including without limitation, content from the Website, (a) in violation of any applicable law or regulation, (b) in a manner that will infringe the copyright, trademark, trade secret or other intellectual property rights of C.H. Robinson or any other third party or violate the privacy, publicity or other personal rights of others, or (c) that is defamatory, obscene, threatening, abusive or hateful. </span></p>
+<p class="bodycopy"><strong><em>Information Submitted</em></strong></p>
+<p class="bodycopy">Any communication or material submitted to this Website, including by electronic mail and/or website submission, is the exclusive property of C.H. Robinson and is considered to be non-confidential and nonproprietary. Such communication may include without limitation questions, comments, suggestions, and ideas. C.H. Robinson shall be free to use them for any purpose whatsoever without restriction or further compensation. This means that you disclaim any proprietary rights in such submissions, and you acknowledge C.H. Robinson&rsquo; unrestricted right to use them (or materials or ideas similar to them) in any medium, now and in the future, without notice, compensation or other obligation to you or any other person. It also means C.H. Robinson has no obligation to keep your submissions confidential.</p>
+<p class="bodycopy">Although C.H. Robinson is under no obligation to review or monitor information you submit, C.H. Robinson reserves the absolute right to do so in its sole discretion. In addition, C.H. Robinson reserves the right to alter, edit, create derivative works, refuse to post or remove any information you submit, in whole or in part, for any reason or for no reason. You agree that C.H. Robinson does not have any obligation to use or respond to any submission.</p>
+<p class="bodycopy">You are responsible for all of your submissions. You may not submit any material misrepresenting yourself as someone else, or by using a false e-mail address. Do not submit any material or links to material that is libelous, defamatory, false, obscene, violent, abusive, threatening, harassing, prejudicial, or is otherwise in violation of the law or the terms of this Agreement.</p>
+<p class="bodycopy">If you utilize the Chat function, do not submit any confidential information through chat.</p>
+<p class="bodycopy"><strong><em>No Unlawful or Prohibited Use</em></strong></p>
+<p class="Bodyclause">You may use the Website only for lawful purposes and in accordance with these Terms of Use. You agree not to use the Website:</p>
+<ul style="list-style-type: disc;">
+    <li>In any way that violates any applicable federal, state, local or international law or regulation (including, without limitation, any laws regarding the export of data or software to and from the United States or other countries).</li>
+    <li>For the purpose of exploiting, harming, or attempting to exploit or harm minors in any way by exposing them to inappropriate content, asking for personally identifiable information or otherwise.</li>
+    <li>To send, knowingly receive, upload, download, use or re-use any material which does not comply with the Content Standards set out in these Terms of Use.</li>
+    <li>To transmit, or procure the sending of, any advertising or promotional material, including any "junk mail", "chain letter" or "spam" or any other similar solicitation.</li>
+    <li>To impersonate or attempt to impersonate C.H. ROBINSON, a C.H. ROBINSON employee, another user or any other person or entity (including, without limitation, by using e-mail addresses or account names associated with any of the foregoing).</li>
+    <li>To engage in any other conduct that restricts or inhibits anyone's use or enjoyment of the Website, or which, as determined by C.H. ROBINSON, may harm C.H. ROBINSON or users of the Website or expose them to liability.
+    <p>Additionally, you agree not to:</p>
+    </li>
+    <li>Use the Website in any manner that could disable, overburden, damage, or impair the Website or interfere with any other party's use of the Website, including their ability to engage in real time activities through the Website.</li>
+    <li>Use any robot, spider or other automatic device, process or means to access the Website for any purpose, including monitoring or copying any of the material on the Website.</li>
+    <li>Use any manual process to monitor or copy any of the material on the Website or for any other unauthorized purpose without our prior written consent.</li>
+    <li>Use any device, software, or routine that interferes with the proper working of the Website.</li>
+    <li>Introduce any viruses, trojan horses, worms, logic bombs or other material which is malicious or technologically harmful.</li>
+    <li>Attempt to gain unauthorized access to, interfere with, damage or disrupt any parts of the Website, the server on which the Website is stored, or any server, computer or database connected to the Website. </li>
+    <li>Attack the Website via a denial-of-service attack or a distributed denial-of-service attack.</li>
+    <li>Otherwise attempt to interfere with the proper working of the Website.</li>
+</ul>
+<p class="bodycopy"><strong><em>Links to Other Websites</em></strong></p>
+<p class="bodycopy">As a convenience to you, C.H. Robinson provides links to Website operated by others. C.H. Robinson makes no representations about Website accessed from this Website which are not maintained, controlled or created by C.H. Robinson and does not endorse any linked Website or the information appearing thereon. Links do not imply that C.H. Robinson endorses, is affiliated with, or associated with such linked Website.</p>
+<p style="background: white; margin-bottom: 18.75pt;"><strong>Unavailable Products or Services</strong></p>
+<p style="background: white; margin-bottom: 18.75pt;">Information C.H Robinson publishes on the World Wide Web may contain references or cross references to products, programs, and services that are not announced or available in Your country. Such references do not imply that C.H. Robinson intends to announce such products, programs, or services in Your country. Consult Your local C.H. Robinson business contact for information regarding the products, programs, and services that may be available to You.</p>
+<p class="bodycopy"><strong><em>Modification of the Website and these Terms </em></strong><strong><em><br/>
+</em></strong><br/>
+By providing material on this Website, C.H. Robinson does not promise that the materials will remain available to you. C.H. Robinson reserves the right at any time and from time to time to modify the Website or discontinue providing access to the Website (or any part thereof), temporarily or permanently, with or without notice to you. You agree that C.H. Robinson will not be liable to you for any modification, suspension or discontinuance of the Website.</p>
+<p>C.H. Robinson also reserves the right to change the terms, conditions, and notices for the Website at any time by updating this posting and your use of the Website following any such changes will constitute your consent to such modified terms. You agree to review these terms regularly to verify for changes. Certain provisions of these terms may be superseded by expressly designated legal notices or terms located on particular pages at this Website. <br/>
+<br />
+<strong><em>Termination of this Agreement</em></strong><strong><em><br />
+</em></strong><br />
+The terms of this Agreement will continue to apply until terminated by either you or C.H. Robinson as set out below. Your right to access and use the Website terminates automatically upon your breach of any of the terms in this Agreement.</p>
+<p>C.H. Robinson may terminate your access to, and use of, the Website at any time and for any reason. C.H. Robinson will use reasonable efforts to notify you in advance about any material modification, suspension, or termination by C.H. Robinson that is not caused by your breach of the terms of this Agreement.</p>
+<p>The disclaimer, the limitation of liability, indemnification, jurisdiction and applicable law provisions shall survive any termination.</p>
+<p class="bodycopy"><strong><em>Jurisdiction</em></strong><em> <br/>
+</em><br />
+C.H. Robinson controls and operates the Website from the company's headquarters in Minnesota, in the United States of America. Any claim relating to the Website or your use of it shall be governed by the internal substantive laws of the State of Minnesota, without regard to its conflict of laws provisions, and you agree that jurisdiction and venue in any legal proceeding directly or indirectly arising out of or relating to the Website shall be in the state or federal courts located in Hennepin County, Minnesota</span><span style="color: #212529;"> and You expressly consent to the jurisdiction of said courts.</p>
+<p class="bodycopy"><strong><em>Indemnification </em></strong><strong><em><br />
+</em></strong><span><br />
+You agree to indemnify, defend, and hold harmless C.H. Robinson, its officers, directors, employees, agents, licensors and suppliers from and against all losses, expenses, damages and costs, including reasonable attorneys' fees and court costs, resulting from any violation of these terms and conditions or any activity related to accessing the Website (including, but not limited to, negligent or wrongful conduct), by you or any other person accessing the Website under your direction.</p>
+<p style="background: white; margin-bottom: 18.75pt;">YOUR ACCESS AND USE OF THE WEBSITE REPRESENTS YOUR WARRANTY TO C.H. ROBINSON WORLDWIDE, INC. THAT YOU WILL USE THE WEBSITE IN A MANNER CONSISTENT WITH ANY AND ALL APPLICABLE LAWS AND REGULATIONS.</p>
+<p class="bodycopy"><strong><em>Disclaimer </em></strong></p>
+<p class="bodycopy">C.H. Robinson endeavors to maintain the Website and its operation, but is not, and cannot be, responsible for the results of any defects that may exist in the Website or its operation. ALL MATERIALS ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED. C.H. Robinson expressly disclaims all warranties of any kind, whether express or implied, including, but not limited to all implied warranties of merchantability or fitness for a particular purpose, title and non-infringement. C.H. Robinson makes no warranty that (i) the operation of the Website will meet the user's requirements; (ii) access to the Website will be uninterrupted, timely, secure, free of viruses, worms, trojan horses or other harmful components, or free of defects or errors; (iii) the results that may be obtained from the use of the Website will be accurate or reliable; or (iv) defects will be corrected. You (and not C.H. Robinson) assume the entire cost of all servicing, repair, or correction that may be necessary for your computer equipment and software as a result of any viruses, errors or any other problems whatsoever you may have as a result of visiting this Website. Some jurisdictions do not allow the disclaimer of implied warranties, so these limitations may not apply; however, they SHALL apply to the greatest extent permitted by law.</p>
+<p style="background: white; margin-bottom: 18.75pt;"><strong><em>Limitation of Liability</em></strong><em> <br />
+</em><br />
+IN NO EVENT shall C.H. Robinson be liable for any damages or injury, including any direct, special, incidental, consequential (SUCH DAMAGES INCLUDING WITHOUT LIMITATION LOST PROFITS, LOST REVENUES, LOST DATA, AND/OR COSTS OF PROCURING SUBSTITUTE GOODS, SOFTWARE OR SERVICES), punitive or other damages, that may result from the use of, or the inability to use, the Website or any materials in the Website, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of the Website or information available in the website. C.H. Robinson shall not be liable even if C.H. Robinson or a C.H. Robinson authorized representative has been advised of the possibility of such damages. These include but are not limited to damages or injury caused by error, omission, interruption, defect, failure of performance, delay in operation or transmission, line failure or computer virus, worm, trojan horse or other harmful component. IF C.H. Robinson IS RESPONSIBLE FOR ANY DAMAGES, THE MAXIMUM AMOUNT YOU MAY RECOVER FOR ANY AND ALL CLAIMS RELATING TO THIS YOUR USE OF THE WEBSITE SHALL NOT EXCEED TWO HUNDRED DOLLARS ($200). Some jurisdictions do not allow the exclusion or limitation of certain types of damages, so these exclusions may not apply; however, they shall apply to the greatest extent permitted by law.</p>
+<p><strong><em>Severability </em></strong></p>
+<p>If any provision of this Agreement shall be found to be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these terms and conditions and shall not affect the validity and enforceability of any remaining provisions.</p>
+<p class="bodycopy"><strong>Terms of Use Controlling</strong></p>
+<p style="background: white; margin-bottom: 18.75pt;">Except to the extent that You and C.H. Robinson have entered into a written agreement regarding the provision of services (including but not limited to transportation services, logistics services, warehouse services or any other services) by C.H. Robinson to You, or by You to C.H. Robinson, and such written agreement expressly contemplates the use of this Website, these Terms of Use are the entire agreement between the parties relating to the matters contained herein and shall not be modified except in writing, signed by C.H. Robinson.</p>
+<p><strong><em>No Waiver </em></strong></p>
+<p>No failure on the part of C.H. Robinson to enforce any part of this Agreement shall constitute a waiver of any of C.H. Robinson&rsquo; rights under this Agreement whether for past or future actions on the part of any person.&nbsp; Neither the receipt of any funds by C.H. Robinson nor the reliance of any person on C.H. Robinson&rsquo; actions shall be deemed to constitute a waiver of any part of the Agreement.&nbsp; Only a specific, written waiver signed by an authorized representative of C.H. Robinson shall have any legal effect whatsoever.</p>
+<p class="bodycopy"><strong><em>Miscellaneous</em></strong></p>
+<ol style="list-style-type: lower-alpha;">
+    <li>Nothing on this Website constitutes an offer to sell or solicitation to buy securities.</li>
+    <li>No agency, partnership, joint venture, employee-employer or franchisor-franchisee relationship is intended nor created by these Terms of Use.</li>
+    <li>The paragraph titles in this Agreement are for convenience only and have no legal or contractual effect.</li>
+</ol>
+<p class="bodycopy"><strong><em>&nbsp;</em></strong></p>
+<p style="background: white;"><strong><em>How we communicate with you.</em></strong></p>
+<p style="background: white;">Through the use of online services, you may opt in to receive promotional emails, text messages to the mobile number you provide to us, or push notifications from C.H. Robinson. When you opt in to any of these types of communications, you understand and consent that you will receive marketing messages from C.H. Robinson. C.H. Robinson will begin sending transactional messages related to 2-factor authentication, loads, and tracking immediately. You may opt-out by updating your preferences via a link in the footer of emails, by responding “STOP” to text messages, or disabling push notifications within the mobile/web app. Additionally, C.H. Robinson may use the information you have provided to us to communicate with you in accordance with the C.H. Robinson’s Global Privacy Notice.</p>
+<p style="background: white;"><strong><em>Opting out of communications generally.</em></strong></p>
+<p style="background: white;">You have a choice in how we communicate with you. You can generally find your communication preferences with instructions on how to opt out in the profile section of the online service that you use. You may also have the ability to change your communication preferences using your device settings. In addition, our communications themselves may include the opportunity to opt out. You understand and agree that you may need to separately manage your communication preferences for each communication method. For example, if you opt out of receiving marketing emails, you may still receive marketing text messages if you&rsquo;ve opted in to receiving them. While we do our best to offer convenient methods for you to manage your communications preferences, you may need to separately adjust your preferences for each online service. Please note that for some account-related and transactional communications, the only way to stop receiving these communications may be to close your online services account.</p>
+<p class="bodycopy"><strong><em>Incorporation of Privacy Policy</em></strong></p>
+<p class="bodycopy">C.H. Robinson hereby incorporates its Global Privacy Notice into this Agreement and into any Events, Contests or Sweepstakes offered by C.H. Robinson.</p>
+<p><strong><em>Contacting C.H. Robinson</em></strong></p>
+<p>You may direct any questions concerning this Agreement to:</p>
+<p><a href="/cdn-cgi/l/email-protection#5b373e3c3a371b3833293439323528343575383436"><span class="__cf_email__" data-cfemail="84e8e1e3e5e8c4e7ecf6ebe6edeaf7ebeaaae7ebe9">[email&#160;protected]</span></a></p>
+<p>C.H. Robinson </p>
+<p>14701 Charlson Road</p>
+<p>Eden Prairie, Minnesota 55347</p>
+<p>(952) 937-8500</p>                </div>
+
+    </div>
+
+
+<!-- end ContentModule -->
+    </div>
+</div>
+<!-- end PlaceholderFullWidthWithGutter-->
+
+<!-- start Footer -->
+<footer>
+    <div class="container touchpoints footerchr-container">
+        <div class="row">
+            <div class="col-lg-4">
+                
+
+
+<!-- start ContentModule -->
+
+
+
+    <div class="content-module-container  " 
+         style="padding-top:;padding-bottom:;
+         
+         
+         ">
+
+                <div class="content-module-rt left">
+<img src="/en/-/media/Default Website/Logos/CHR_Logo_Horz_2C_RGB.svg" alt="C.H. Robinson Logo new" title="C.H. Robinson Logo new" height="75px" width="275px">
+<br>
+<br>
+<p>14701 Charlson Road<br>
+Eden Prairie, MN 55347-5076</p>
+<br>
+<a href="/en-us/contact/">Contact global headquarters</a>                </div>
+
+    </div>
+
+
+<!-- end ContentModule -->
+            </div>
+            <div class="col-lg-4">
+                
+<!-- start LinkList -->
+    <div class="link-list">
+        <div class="link-list-headline">
+            <h3>Featured links</h3>
+        </div>
+        <div class="link-list-links">
+            <ul>
+                        <li>
+                                            <a href="/en-us/contact/find-an-office/" class="trk" trk-desc="linklist-Find-an-office-footer" trk-loc="footer-col-2" trk-type="Click-Through">Find an Office</a>
+
+                        </li>
+                        <li>
+                                            <a href="/en-us/carriers/carrier-payment-services/" class="trk" trk-desc="linklist_carrier_payments_footer" trk-loc="footer-col-2" trk-type="Click-Through">Carrier Payment Services</a>
+
+                        </li>
+                        <li>
+                                    <a href="https://jobs.chrobinson.com/?utm_source=chrobinson.com&amp;utm_medium=referral&amp;utm_campaign=Corporate_Site" class="trk" trk-desc="linklist_careers" trk-loc="footer-col-2" trk-type="" target="_blank">Careers</a>
+
+                        </li>
+                        <li>
+                                    <a href="https://online.chrobinson.com/payments/?cid=85d97#/" class="trk" trk-desc="pay-invoices-online" trk-loc="footer-col-2" trk-type="" target="_blank">Pay your invoice online</a>
+
+                        </li>
+                        <li>
+                                        <a href="/en-us/resources/blog/" class="trk" trk-desc="linklist_blog_footer" trk-loc="footer-col-2" trk-type="Click-Through">The C.H. Robinson blog</a>
+
+                        </li>
+            </ul>
+        </div>
+    </div>
+
+<!-- end LinkList -->
+
+            </div>
+            <div class="col-lg-4">
+                
+
+
+<!-- start ContentModule -->
+
+
+
+    <div class="content-module-container  " 
+         style="padding-top:;padding-bottom:;
+         
+         
+         ">
+
+                <div class="content-module-rt left">
+<p style="font-weight:bold;padding-top:24px">Follow us on social media </p>
+<div class="social-icons"><a rel="noopener noreferrer" href="https://www.linkedin.com/company/c-h-robinson" target="_blank"> <img height="50" alt="Linkedin" width="50" src="/-/media/chrobinson/new-module-content/social-media/linkedin.png"></a>
+<a rel="noopener noreferrer" href="https://twitter.com/CHRobinson " target="_blank"><img height="50" alt="Twitter" width="50" src="/-/media/chrobinson/new-module-content/social-media/twitter.png"></a>
+<a rel="noopener noreferrer" href="https://www.facebook.com/CHRobinsoninc/" target="_blank"><img height="50" alt="Facebook" width="50" src="/-/media/chrobinson/new-module-content/social-media/facebook.png"></a>
+<a rel="noopener noreferrer" href="http://www.youtube.com/user/CHRobinsonWorldwide" target="_blank"><img height="50" alt="Youtube" width="50" src="/-/media/chrobinson/new-module-content/social-media/youtube.png"></a></div>                </div>
+
+    </div>
+
+
+<!-- end ContentModule -->
+            </div>
+        </div>
+    </div>
+        <div class="bar">
+            <div class="container">
+                <div class="row">
+                        <div class="col-lg-8 order-lg-2">
+                            <p class="global-links">
+                                        <a href="/en-us/site-map/">Site Map</a>  |                                         <a href="/en-us/privacy-notice/">Global Privacy Notice</a>  |                                         <a href="/en-us/your-privacy-rights/">Your Privacy Rights</a>  |                                         <a href="/en-us/terms-of-use/">Terms of Use</a>  |                                         <a href="/en-us/about-us/investors/">Investors</a>                                 | <span id="teconsent"></span>
+                            </p>
+                        </div>
+                        <div class="col-lg-4 order-lg-1">
+                            <p class="copywrite"><p class="copywrite">&copy; 1996-2024 C.H. Robinson Worldwide, Inc. All Rights Reserved.</p> </p>
+                        </div>
+                </div>
+            </div>
+        </div>
+</footer>
+
+<!-- end Footer -->
+
+<!-- start LanguageVariant -->
+
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/Presentation/chrobinson/design/js/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var langAlert = localStorage.getItem("LangAlert");
+        if (langAlert != "Close") {
+
+            langAlertShown();
+            $("#alertCurrentLang").after(`<div class="positionAlert">
+                                <!-- Alert Notification start -->
+
+                                        <div class="alert alert-notification arrow-top" role="alert">
+                                            Prefer a different language? See what's <a href="https://www.chrobinson.com/language-selector/">available here</a>.
+                                            <button type="button" class="btn-close alert-button" data-bs-dismiss="alert" aria-label="Close" onclick="langAlertClose()"></button>
+                                        </div>
+                                    
+                                <!-- Alert Notification end -->
+
+                            </div>`);
+        }
+    });
+
+    function langAlertClose() {
+        localStorage.setItem("LangAlert", "Close");
+        trackLangNotification("Closed");
+    }
+
+    function langAlertClick() {
+        trackLangNotification("Clicked");
+        window.location = "/language-selector/";
+    }
+
+    function langAlertShown() {
+        trackLangNotification("Shown");
+    }
+
+</script>
+<!-- end LanguageVariant -->
+        
+    </div>
+    
+<!-- start SubmitToMarketoForms -->
+
+<!-- end SubmitToMarketoForms -->
+    
+    
+<!-- start Include -->
+
+
+  <div id="teconsent"></div>
+<div id="consent_blackbar"></div>
+<link href="https://fonts.googleapis.com/css?family=Titillium+Web:600,700|Yantramanav" rel="stylesheet" />  
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    
+<script src="/Presentation/chrobinson/design/js/build/chr-bundle.min.js?v=16"></script>
+
+<script>
+$(document).ready(function () {
+
+
+ $('.btn-home-quick-form').click(function (e) {
+        e.preventDefault();
+        var completeForm = true;
+        var qs = "?";
+        $(this).parent().parent().find('input').each(function () {
+            if ($(this).val().length == 0) {
+                completeForm = false;
+            } else {
+                qs += $(this).attr('name') + "=" + $(this).val() + "&";
+            }
+        });
+        if (!completeForm) {
+            //error message
+            alert('error');
+            return false;
+        }
+        var url = $(this).data('url');
+        
+        if($(this).attr('target')){
+             window.open(url + qs.substring(0, qs.length - 1));
+        }else{
+             window.location = url + qs.substring(0, qs.length - 1);
+        }
+    });
+    });
+</script>
+
+<script type="text/javascript">
+        //delivery url cache fix
+        $(function(){
+            $('a[href*="delivery1."]').each(function() {
+                var aHref = $(this).attr('href');
+                $(this).attr('href', aHref.replace('delivery1.', 'www.'));
+            });
+            $('a[href*="delivery2."]').each(function() {
+                var aHref = $(this).attr('href');
+                $(this).attr('href', aHref.replace('delivery2.', 'www.'));
+            });
+        });
+
+    </script>
+
+
+<style>.speaker-photo{padding-right:25px}.speaker-name-title {padding-left:0px;width:320px;}</style>
+
+<style>
+@media only screen and (max-width: 600px){
+
+}
+.brand-separator.separator-option-line, .brand-separator.separator-option-circle {
+    z-index: 2;
+}
+
+sup {font-size: x-small; vertical-align: super;}
+
+#vidyard-overlay-wrapper {
+    z-index: 99999;
+}
+a.subnav-lv3-link.has-child {
+    font-weight: bold;
+}
+
+footer .copywrite, footer .global-links{
+font-size:0.75rem;
+}
+.title__content p{
+font-size:1.125rem;
+}
+.accordion-body-collapse p{
+font-size:1.125rem;
+}
+
+#language-selector a span{
+font-size:0.875rem !important;
+}
+
+.carousel-inner p{
+font-size:1.063rem;
+}
+.image-icon-card .card-content-container p {
+    font-size: 0.875rem;
+}
+
+.related-service-card p{
+font-size: 1.125rem;
+}
+
+.speaker img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: none;
+}
+.speaker-name-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+}
+
+.speaker {
+    display: flex;
+    gap: 32px;
+    margin-top: 16px;
+    padding: 0;
+}
+
+@media only screen and (min-width: 992px){
+.utility-nav a {
+    line-height: 32px;
+}
+}
+#downloadModal {
+    overflow: scroll;
+}
+.grecaptcha-badge {display: none !important;}
+</style>
+<script type="text/javascript">
+    if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)){        
+        $('.nav-dropdown-toggle').click(function(){
+            $(this).toggleClass('show');
+            $(this).next().toggleClass('show');            
+            if($(this).next().hasClass('show')){
+                $(this).next().show();
+                if($(this).next().hasClass('dropdown-menu-end')){
+                    var offset = $(this).offset();
+                    $(this).next().offset({ left: offset.left });
+                }    
+            } else {
+                $(this).next().hide();
+            }
+        });
+    }
+</script>
+
+
+<!-- end Include -->
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8cc16f73a8cc1157',t:'MTcyNzgzNzk1NS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

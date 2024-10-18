@@ -1,0 +1,3673 @@
+
+<!DOCTYPE HTML>
+<html lang="en-US">
+    <head>
+  <meta charset="UTF-8"/>
+  
+  
+    
+    <title>
+      All Treatments and Conditions 
+       - Boston Scientific
+    </title>
+  
+  
+  
+  
+  
+  <meta name="template" content="global-site-content-left-nav-template"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  
+    <!-- Google Tag Manager -->
+    <script type="module">
+  window.RUM_BASE = window.origin;
+  import { sampleRUM } from '/.rum/@adobe/helix-rum-js@%5E2/src/index.js';
+  window.hlx = window.hlx || {};
+  window.hlx.sampleRUM = sampleRUM;
+  sampleRUM();
+</script><script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != "dataLayer" ? "&l=" + l : "";
+        j.async = true;
+        j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(
+        window,
+        document,
+        "script",
+        "dataLayer",
+        "GTM-5224NF"
+      );
+    </script>
+    <!-- End Google Tag Manager -->
+  
+  
+
+  
+  
+  
+  
+<!-- Enabeling Site Specific Style System   -->
+
+
+
+
+
+     <link href="/etc.clientlibs/ewp/clientlibs/clientlib-base.lc-ded57755858e1992cd26836bb971390d-lc.css" type="text/css" rel="stylesheet preload" as="style"> 
+
+
+
+
+     <link href="/etc.clientlibs/ewp/clientlibs/clientlib-corporate.lc-f8c81b1cdeb4728fb437a3b63c116698-lc.min.css" type="text/css" rel="stylesheet preload" as="style"> 
+
+
+
+
+
+<meta name="theme-color" content="#ffffff"/>
+  
+  
+
+
+
+
+
+
+
+<link rel="canonical" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html"/>
+ 
+
+	
+		<link rel="alternate" hreflang="en-us" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html"/>
+	
+		<link rel="alternate" hreflang="x-default" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html"/>
+	
+
+
+<meta name="google-site-verification"/>
+<meta property="og:type" content="website"/>
+
+
+<meta property="og:title" content="All Treatments and Conditions"/>
+
+<meta property="og:url" content="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html"/>
+<meta property="og:site_name" content="www.bostonscientific.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta property="og:image" content="https://www.bostonscientific.com/etc.clientlibs/gwc/clientlibs/assets/resources/img/bsc-default-og.png"/>
+<meta property="og:description" content="Visit our listing page for all patient treatments and conditions served by Boston Scientific, including pre-procedure information such as procedure benefits and how to know if a procedure is right for you."/>
+
+<meta name="format-detection" content="telephone=no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+<meta name="date"/>
+
+<meta name="description" content="Visit our listing page for all patient treatments and conditions served by Boston Scientific, including pre-procedure information such as procedure benefits and how to know if a procedure is right for you."/>
+<meta name="tags"/>
+<meta name="search_data"/>
+<meta name="msapplication-TileColor" content="#003c71"/>
+
+  
+  
+  
+  
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+
+  
+  
+    
+ 
+  <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/ewp/clientlibs/clientlib-corporate/resources/images/apple-touch-icon.png"/>
+   <link rel="icon" type="image/png" sizes="32x32" href="/etc.clientlibs/ewp/clientlibs/clientlib-corporate/resources/images/favicon-32x32.png"/>
+ <link rel="icon" type="image/png" sizes="16x16" href="/etc.clientlibs/ewp/clientlibs/clientlib-corporate/resources/images/favicon-16x16.png"/>
+ <link rel="manifest" href="/etc.clientlibs/ewp/clientlibs/clientlib-corporate/resources/images/site.webmanifest" crossorigin="use-credentials"/>
+ <link rel="mask-icon" href="/etc.clientlibs/ewp/clientlibs/clientlib-corporate/resources/images/safari-pinned-tab.svg" color="#003c71"/>
+ 
+   
+<link rel="preload" href="/etc.clientlibs/ewp/clientlibs/clientlib-default/resources/fonts/SST-Roman/SST-Roman.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/etc.clientlibs/ewp/clientlibs/clientlib-default/resources/fonts/SST-Bold/SST-Bold.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/etc.clientlibs/ewp/clientlibs/clientlib-default/resources/fonts/SST-Heavy/SST-Heavy.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/etc.clientlibs/ewp/clientlibs/clientlib-default/resources/fonts/fontawesome/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/etc.clientlibs/ewp/clientlibs/clientlib-default/resources/fonts/fontawesome/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin/>
+<link rel="preload" href="/etc.clientlibs/ewp/clientlibs/clientlib-default/resources/fonts/fontawesome/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin/>
+
+  
+  
+  <meta name="store-config" content="{&#34;graphqlEndpoint&#34;:&#34;/api/graphql&#34;,&#34;graphqlMethod&#34;:&#34;POST&#34;,&#34;locale&#34;:&#34;en-US&#34;,&#34;enableClientSidePriceLoading&#34;:false}">
+  
+  
+</head>
+    <body class="page basicpage" id="page-8d5f3d507e" data-cmp-link-accessibility-enabled data-cmp-link-accessibility-text="opens in a new tab" data-cmp-data-layer-name="adobeDataLayer">
+        
+        
+        
+            
+
+
+
+
+            
+
+
+
+
+
+
+
+<!--Global Sticky CTA -->
+
+
+  <!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5224NF" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript><!-- End Google Tag Manager (noscript) -->
+
+<div class="root container responsivegrid">
+
+    
+    
+    
+    <div id="container-477c05e04f" class="cmp-container">
+        
+        <div class="experiencefragment">
+<div id="experiencefragment-951c4780dc" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    
+    
+    <div id="container-d0c3a1feb5" class="cmp-container">
+        
+        <div class="primary-navigation">
+  
+  
+
+  <a href="#maincontent" class="bsds-skip-link" id="skiptomaincontent">Skip to main content</a>
+
+  <header class="bsds-nav-header js-nav-header" id="primary-navigation-6d18ad5c4d">
+    <!-- Utility Nav -->
+    <nav class="bsds-nav-utility" aria-label="utility">
+      <div class="bsds-nav-utility-container">
+        
+        <ul class="bsds-nav bsds-nav-advancing-arrows">
+          
+          
+<li class="bsds-nav-item section">
+        
+
+        <a class="bsds-nav-link js-nav-link" id="nav-link-dbe9bf9581" href="https://news.bostonscientific.com">News</a>
+</li>
+<li class="bsds-nav-item section">
+        
+
+        <a class="bsds-nav-link js-nav-link" id="nav-link-a583eb7f0a" href="https://www.bostonscientific.com/en-US/careers.html">Careers</a>
+</li>
+<li class="bsds-nav-item section">
+        
+
+        <a class="bsds-nav-link js-nav-link" id="nav-link-f887424fdc" href="https://investors.bostonscientific.com">Investors</a>
+</li>
+<li class="bsds-nav-item section">
+
+    <div class="bsds-dropdown">
+        <button class="bsds-button bsds-dropdown-trigger bsds-nav-link js-nav-region-selector-btn" aria-haspopup="true" aria-expanded="false">Region selector</button>
+        
+    <ul class="bsds-dropdown-menu js-nav-region-selector-menu visually-hidden" role="menu" hidden>
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-ar/home.html" role="menuitem" class="bsds-link">Argentina
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/pt-BR/home.html" role="menuitem" class="bsds-link">Brazil
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-CL/home.html" role="menuitem" class="bsds-link">Chile
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="https://www.bostonscientific.cn/" role="menuitem" class="bsds-link">China
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-co/home.html" role="menuitem" class="bsds-link">Colombia
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/DE-Deutsch/startseite.html" role="menuitem" class="bsds-link">Deutschland
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-ES/home.html" role="menuitem" class="bsds-link">Espanol
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/en-EU/home.html" role="menuitem" class="bsds-link">Europe
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/en-IN/home.html" role="menuitem" class="bsds-link">India
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/jp-JP/home.html" role="menuitem" class="bsds-link">Japan
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/kr-KR/home.html" role="menuitem" class="bsds-link">Korea
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-MX/home.html" role="menuitem" class="bsds-link">Mexico
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-pe/home.html" role="menuitem" class="bsds-link">Peru
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/en-US/home.html" role="menuitem" class="bsds-link">United States
+    </a>
+
+        
+    </li>
+
+    </ul>
+
+    </div>
+
+
+
+    
+
+</li>
+
+
+        </ul>
+      </div>
+    </nav>
+
+    <!-- Nav Bar-->
+    <nav class="bsds-nav-primary js-nav-primary" aria-label="primary">
+      <div class="bsds-nav-bar">
+        <a href="/" class="bsds-link bsds-link-logo">
+          <img src="/content/dam/logo-bsc.svg" alt="Boston Scientific home" class="bsds-nav-link-logo"/>
+        </a>
+        <ul class="bsds-nav">
+          
+          
+<li class="bsds-nav-item bsds-nav-item-root js-item-root section">
+    <button class="bsds-button-subtle bsds-nav-link js-nav-root-btn" id="nav-tree-b539771e5e-l" type="button" aria-haspopup="true" aria-controls="navPrimaryMenu" aria-expanded="false">For healthcare professionals</button>
+
+</li>
+<li class="bsds-nav-item bsds-nav-item-root js-item-root section">
+    <button class="bsds-button-subtle bsds-nav-link js-nav-root-btn" id="nav-tree-ed177787c5-l" type="button" aria-haspopup="true" aria-controls="navPrimaryMenu" aria-expanded="false">For patients and caregivers</button>
+
+</li>
+<li class="bsds-nav-item bsds-nav-item-root js-item-root section">
+    <button class="bsds-button-subtle bsds-nav-link js-nav-root-btn" id="nav-tree-c8fe3578a1-l" type="button" aria-haspopup="true" aria-controls="navPrimaryMenu" aria-expanded="false">About Boston Scientific</button>
+
+</li>
+<li class="bsds-nav-item bsds-nav-item-search section"><button class="bsds-button-subtle bsds-nav-link js-nav-search-toggle" aria-label="Toggle search" aria-haspopup="true" aria-controls="navPrimarySearch" aria-expanded="false">
+    <span class="bsds-nav-link-search-text">Search</span>
+</button>
+<!-- Search Panel -->
+
+<input type="hidden" value="https://www.bostonscientific.com/en-US/search.html" name="searchPath" data-token="xxa3787c53-e133-4d91-8195-091deeabbc1d" data-organization="bostonscientificnonproduction1gqt0ogqx"/>
+<head>
+  <link rel="stylesheet" href="https://static.cloud.coveo.com/searchui/v2.10098/css/CoveoFullSearch.css"/>
+  <script class="coveo-script" src="https://static.cloud.coveo.com/searchui/v2.10098/js/CoveoJsSearch.Lazy.min.js"></script>
+</head>
+<div id="navPrimarySearch" class="bsds-search-panel js-nav-search-panel" data-cmp-is="search" data-cmp-min-length="3" data-cmp-results-size="10">
+  <div id="searchbox" class="bsds-form-search js-form-search">
+    <div class="coveo-search-section">
+      <div class="CoveoAnalytics" data-search-hub="Corporate"></div>
+      <div class="CoveoSearchbox" data-enable-query-suggest-addon="true" data-query-suggest-character-threshold="3" data-enable-omnibox="true" data-placeholder="Search">
+    </div>
+    </div>
+  </div>
+  <div id="navSearchResults" class="cmp-search__results js-search-results" aria-label="Search results" data-cmp-hook-search="results" role="listbox" aria-multiselectable="false"></div>
+  
+<script data-cmp-hook-search="itemTemplate" type="x-template">
+    <a class="cmp-search__item" data-cmp-hook-search="item" role="option" aria-selected="false">
+        <span class="cmp-search__item-title" data-cmp-hook-search="itemTitle"></span>
+    </a>
+</script>
+
+</div></li>
+
+
+
+          
+          
+            <li class="bsds-nav-item bsds-nav-item-toggle">
+              <button class="bsds-button-subtle bsds-nav-link js-nav-xs-toggle-btn" aria-label="Toggle menu" aria-haspopup="true" aria-controls="navPrimaryMenu" aria-expanded="false" data-close-text="Close" data-menu-text="Menu">
+                Menu
+              </button>
+            </li>
+          
+        </ul>
+      </div>
+
+      
+      
+
+      <!-- Nav Menu -->
+      <div id="navPrimaryMenu" class="bsds-nav-menu js-nav-menu" tabindex="-1">
+        <button class="bsds-button-subtle bsds-nav-menu-back js-nav-menu-back" type="button">
+          Back
+        </button>
+        <div class="bsds-nav-menu-panels">
+          <div class="bsds-nav-menu-panel js-nav-menu-panel js-nav-menu-panel-xs">
+            <ul class="bsds-nav">
+              
+                <li class="bsds-nav-item-parent js-item-nav-parent">
+
+  
+    <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-b539771e5e" aria-expanded="false">
+      <div class="bsds-nav-link-text">For healthcare professionals</div>
+      <div class="bsds-nav-link-description">Find products, medical specialty information, and education opportunities.</div>
+    </button>
+  
+
+  
+  <div class="bsds-nav-menu-panel js-nav-menu-panel has-header">
+    
+        <div class="bsds-nav-menu-panel-header">
+            <p class="bsds-nav-menu-panel-title">For healthcare professionals</p>
+            <p class="body-subtle">Find products, medical specialty information, and education opportunities.</p>
+            <a href="/en-US/header/healthcare-professionals.html" class="body-subtle bsds-nav-menu-panel-header-link">See all healthcare professional information</a>
+        </div>
+
+        <ul class="bsds-nav" aria-describedby="nav-tree-b539771e5e">
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-b539771e5e-item-4356a87c6f" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Medical specialties</div>
+                <div class="bsds-nav-link-description">Learn more about solutions for your specialty area</div>
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-b539771e5e-item-4356a87c6f">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/critical-care.html">Critical Care</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/electrophysiology.html">Electrophysiology</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/female-pelvic-medicine.html">Female Pelvic Medicine</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/gastroenterology.html">Gastroenterology</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/gastrointestinal-surgery.html">Gastrointestinal Surgery</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/gynecology.html">Gynecology</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/heart-failure.html">Heart Failure</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/interventional-cardiology.html">Interventional Cardiology</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/interventional-radiology.html">Interventional Radiology</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/neurological-surgery.html">Neurological Surgery</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/otolaryngology.html">Otolaryngology</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/pain-management.html">Pain management</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/pulmonology.html">Pulmonology</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/structural-heart.html">Structural Heart Valve</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/urology.html">Urology</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/vascular-surgery.html">Vascular Surgery</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/medical-specialties.html">
+                             See all medical specialties
+                            
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-b539771e5e-item-0a2e420e8a" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Products</div>
+                <div class="bsds-nav-link-description">Browse products by specialty or category</div>
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-b539771e5e-item-0a2e420e8a">
+                    
+    
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-b539771e5e-item-ea22995d48" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Products by medical specialty</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-b539771e5e-item-ea22995d48">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/critical-care/products.html">Critical Care products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/electrophysiology/products.html">Electrophysiology products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/female-pelvic-medicine/products.html">Female Pelvic Medicine products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/gastroenterology/products.html">Gastroenterology products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/gastrointestinal-surgery/products.html">Gastrointestinal Surgery products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/gynecology/products.html">Gynecology products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/interventional-cardiology/products.html">Interventional Cardiology products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/interventional-radiology/products.html">Interventional Radiology products </a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/neurological-surgery/products.html">Neurological Surgery products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/otolaryngology/products.html">Otolaryngology products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/pain-management/products.html">Pain Management products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/pulmonology/products.html">Pulmonology products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/urology/products.html">Urology products</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/medical-specialties/vascular-surgery/products.html">Vascular Surgery products</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/healthcare-professionals/products/medical-specialty.html">
+                             See all products by specialty
+                            
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/healthcare-professionals/products/category.html">Products by category</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/healthcare-professionals/products.html">
+                             See all products
+                            
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-b539771e5e-item-96cd3c1001" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Customer support and services</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-b539771e5e-item-96cd3c1001">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/contact-us-email2.html">Contact us</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/elabeling.html">Product literature</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/reimbursement.html">Reimbursement resources and support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/customer-service/ordering/lab-agent.html">Lab Agent</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/customer-service/product-security.html">Product security</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/customer-service/expert-care.html">ExpertCare</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/customer-service.html">
+                             See all customer support
+                            
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-b539771e5e-item-56e987ade5" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Professional education</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-b539771e5e-item-56e987ade5">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/education.html">Educare</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/innovation-center.html">Innovation Center</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/healthcare-professionals/professional-education.html">
+                             See all professional education
+                            
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-b539771e5e-item-7e8f6a10f5" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Administrators</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-b539771e5e-item-7e8f6a10f5">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/healthcare-professionals/administrators/cardiovascular-resources.html">Cardiovascular administrators</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/healthcare-professionals/administrators/gastroenterology-resources.html">Gastroenterology resources</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/healthcare-professionals/administrators.html">
+                             See all administrators
+                            
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        </ul>
+    
+    
+</div>
+</li>
+
+    
+
+              
+                <li class="bsds-nav-item-parent js-item-nav-parent">
+
+  
+    <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5" aria-expanded="false">
+      <div class="bsds-nav-link-text">For patients and caregivers</div>
+      <div class="bsds-nav-link-description">Find the information you need, whether you&#39;ve been diagnosed with a health condition, have an implanted device, or need support.</div>
+    </button>
+  
+
+  
+  <div class="bsds-nav-menu-panel js-nav-menu-panel has-header">
+    
+        <div class="bsds-nav-menu-panel-header">
+            <p class="bsds-nav-menu-panel-title">For patients and caregivers</p>
+            <p class="body-subtle">Find the information you need, whether you&#39;ve been diagnosed with a health condition, have an implanted device, or need support.</p>
+            <a href="/en-US/header/for-patients-and-caregivers.html" class="body-subtle bsds-nav-menu-panel-header-link">All patients and caregivers information</a>
+        </div>
+
+        <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5">
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-76203848e9" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Treatments and conditions</div>
+                <div class="bsds-nav-link-description">Devices, procedures and therapies</div>
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-76203848e9">
+                    
+    
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-df25b79605" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Cancer</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-df25b79605">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/colorectal-cancer.html">Colorectal cancer</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/liver-cancer.html">Liver cancer</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/spaceoar-interstitial.html">Prostate cancer</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html#filter1">
+                            
+                             See all Cancer
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-8a82b8ed43" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Digestion and nutrition</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-8a82b8ed43">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/enteral-feeding-tube.html">Enteral feeding </a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/esophageal-stents.html">Esophageal stents</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html#filter2">
+                            
+                             See all Digestion and nutrition
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-25f50878fd" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Heart and vascular</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-25f50878fd">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/atrial-fibrillation.html">Atrial fibrillation (AFib)</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/cardiac-monitoring.html">Cardiac monitoring</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/crt.html">Cardiac resynchronization therapy</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/coronary-stents.html">Coronary artery disease</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/dvt.html">Deep vein thrombosis</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/defibrillators.html">Defibrillators</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/pacemakers.html">Pacemakers</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/pad.html">Peripheral artery disease</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treatments-conditions/remote-monitoring-system.html">Remote monitoring system</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/treattheheart-interstitial.html">Severe aortic stenosis</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/varithena-interstitial.html">Varicose veins</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html#filter3">
+                            
+                             See all Heart and vascular
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-26c87f1526" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Men&#39;s health</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-26c87f1526">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/edcure-interstitial.html">Erectile dysfunction (ED)</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/greenlight-interstitial.html">GreenLight™ Laser Therapy</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/mykidneystone-interstitial.html">Kidney stone</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/fixincontinence-interstitial.html">Male urinary incontinence</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/rezum-interstitial.html">Rezūm Water Vapor Therapy</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html#filter4">
+                            
+                             See all Men&#39;s health
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-9f03b4a060" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Neurological conditions</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-9f03b4a060">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/dbs-interstitial.html">Deep Brain Stimulation</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html#filter5">
+                            
+                             See all Neurological conditions
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-66ca274c6b" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Pain management</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-66ca274c6b">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/rfa-interstitial.html">Radiofrequency ablation</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/scs-interstitial.html">Spinal Cord Stimulation</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/vertiflex-interstitial.html">Vertiflex</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html#filter5">
+                            
+                             See all Pain management
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-64a02b0755" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Women&#39;s health</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-64a02b0755">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/chooseyou-interstitial.html">Bladder leakage and pelvic organ prolapse</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/treatments-conditions.html#filter6">
+                            
+                             See all Women&#39;s health
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/patients-caregivers/treatments-conditions.html">
+                            
+                             See all Treatments and conditions
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-b97aca7030" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Device support</div>
+                <div class="bsds-nav-link-description">Device setup, user manuals and troubleshooting</div>
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-b97aca7030">
+                    
+    
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-b0275c6a97" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Cancer</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-b0275c6a97">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/cancer-treatment.html">Cancer treatment device support</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/device-support.html#filter1">
+                            
+                             See all Cancer
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-b34e22f9da" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Digestion and nutrition</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-b34e22f9da">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/digestion-nutrition.html">Enteral feeding tube and esophageal stent device support</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/device-support.html#filter2">
+                            
+                             See all Digestion and nutrition
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-d13d2d8f88" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Heart and vascular</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-d13d2d8f88">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/cardiac-monitor.html">Cardiac Monitor device support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/crt.html">Cardiac Resynchronization Therapy (CRT) device support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/coronary-stents.html">Coronary stent device support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/defibrillator.html">Defibrillators device support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/pacemaker.html">Pacemaker device support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/peripheral-artery-vein-interventions.html">Peripheral Artery and Vein interventions device support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/remote-monitoring-system.html">Remote monitoring system device support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/tavr.html">Transcatheter Aortic Valve Replacement device support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/watchman.html">WATCHMAN™ Implant device support</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/device-support.html#filter3">
+                            
+                             See all Heart and vascular
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-ac395395a0" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Men&#39;s health</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-ac395395a0">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/penile-implants.html">Penile implant device support</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/mens-health.html">Men’s health device support</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/device-support.html#filter4">
+                            
+                             See all Men&#39;s health
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-f456e85759" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Neurological conditions</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-f456e85759">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/dbs.html">Deep Brain Stimulation device support</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/device-support.html#filter5">
+                            
+                             See all Neurological conditions
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-1631c7eccf" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Pain management</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-1631c7eccf">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/scs.html">Spinal Cord Stimulator (SCS) systems device support</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="https://www.bostonscientific.com/en-US/patients-caregivers/device-support.html#filter5">
+                            
+                             See all Pain management
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+        
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-ed177787c5-item-a8743f2fe9" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Women’s health</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-ed177787c5-item-a8743f2fe9">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-support/womens-health.html">Women’s health</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/patients-caregivers/device-support/womens-health.html">
+                            
+                             See all Women’s health
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/patients-caregivers/device-support.html">
+                            
+                             See all Device support
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/contact-patient-services.html">Contact patient services</a>
+    </li>
+
+
+        
+            
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/patients-caregivers/device-id-cards.html">Medical device ID cards</a>
+    </li>
+
+
+        </ul>
+    
+    
+</div>
+</li>
+
+    
+
+              
+                <li class="bsds-nav-item-parent js-item-nav-parent">
+
+  
+    <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-c8fe3578a1" aria-expanded="false">
+      <div class="bsds-nav-link-text">About Boston Scientific</div>
+      <div class="bsds-nav-link-description">Find out who we are, explore careers at the company, and view our financial performance.</div>
+    </button>
+  
+
+  
+  <div class="bsds-nav-menu-panel js-nav-menu-panel has-header">
+    
+        <div class="bsds-nav-menu-panel-header">
+            <p class="bsds-nav-menu-panel-title">About Boston Scientific</p>
+            <p class="body-subtle">Find out who we are, explore careers at the company, and view our financial performance.</p>
+            <a href="/en-US/header/about-us.html" class="body-subtle bsds-nav-menu-panel-header-link">All about us</a>
+        </div>
+
+        <ul class="bsds-nav" aria-describedby="nav-tree-c8fe3578a1">
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-c8fe3578a1-item-4ca8ce2871" aria-expanded="false">
+                <div class="bsds-nav-link-text"> About us</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-c8fe3578a1-item-4ca8ce2871">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/about-us/awards.html">Awards</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/about-us/core-businesses.html">Core businesses</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/about-us/leadership.html">Leadership</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/about-us/locations.html">Locations</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/about-us/ventures.html">Ventures</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/about-us.html">
+                             See all about us
+                            
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-c8fe3578a1-item-973ef089b8" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Corporate responsibility</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-c8fe3578a1-item-973ef089b8">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/corporate-responsibility.html">Corporate responsibility</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/corporate-responsibility/care.html">Innovative care</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/corporate-responsibility/people.html">Empowered people</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/corporate-responsibility/planet.html">Healthier planet</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/corporate-responsibility/integrity.html">Performance with integrity</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/corporate-responsibility/resources.html">Resources</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/corporate-responsibility.html">
+                             See all Corporate responsibility
+                            
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-c8fe3578a1-item-9b11648175" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Careers</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-c8fe3578a1-item-9b11648175">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/careers/working-here/diversity-and-inclusion.html">Diversity, equity and inclusion (DE&amp;I)</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/careers/life-at-boston-scientific.html">Life at Boston Scientific</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/careers/working-here.html">Working here</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/careers/students.html">Students and early careers</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/careers/search-apply.html">Search and apply</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/careers.html">
+                            
+                             See all Careers
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-c8fe3578a1-item-a8369f4a52" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Investor relations</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-c8fe3578a1-item-a8369f4a52">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/investor-relations-redirect.html">Investor relations</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/environment-social-governance-redirect.html">Environmental, Social &amp; Governance (ESG)</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/investor-relations-redirect.html">
+                            
+                             See all Investor relations
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        
+            
+    <li class="bsds-nav-item-parent js-item-nav-parent">
+
+        
+            <button class="bsds-button-subtle bsds-nav-link js-nav-item-button" id="nav-tree-c8fe3578a1-item-2fc2f9a30a" aria-expanded="false">
+                <div class="bsds-nav-link-text"> Press releases</div>
+                
+            </button>
+            <div class="bsds-nav-menu-panel js-nav-menu-panel">
+                <ul class="bsds-nav" aria-describedby="nav-tree-c8fe3578a1-item-2fc2f9a30a">
+                    
+    
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/featured-stories-redirect.html">Featured stories</a>
+    </li>
+
+
+    
+        
+    
+
+    
+    <li class="bsds-nav-item js-nav-item">
+        <a class="bsds-nav-link js-nav-link" href="/en-US/press-releases-redirect.html">Press releases</a>
+    </li>
+
+
+    
+
+                    <li class="bsds-nav-item js-nav-item">
+                        <a class="bsds-nav-link-see-all js-link-see-all" href="/en-US/press-releases-redirect.html">
+                            
+                             See all Press releases
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        
+    </li>
+
+    
+
+        </ul>
+    
+    
+</div>
+</li>
+
+    
+
+              
+                
+              
+            </ul>
+          </div>
+        </div>
+
+        <ul class="bsds-nav bsds-nav-block bsds-nav-advancing-arrows js-utility-nav-xs visually-hidden">
+          
+          
+            <li class="bsds-nav-item">
+        
+
+        <a class="bsds-nav-link js-nav-link" id="nav-link-dbe9bf9581" href="https://news.bostonscientific.com">News</a>
+</li>
+
+          
+            <li class="bsds-nav-item">
+        
+
+        <a class="bsds-nav-link js-nav-link" id="nav-link-a583eb7f0a" href="https://www.bostonscientific.com/en-US/careers.html">Careers</a>
+</li>
+
+          
+            <li class="bsds-nav-item">
+        
+
+        <a class="bsds-nav-link js-nav-link" id="nav-link-f887424fdc" href="https://investors.bostonscientific.com">Investors</a>
+</li>
+
+          
+            <li class="bsds-nav-item">
+
+    <div class="bsds-dropdown">
+        <button class="bsds-button bsds-dropdown-trigger bsds-nav-link js-nav-region-selector-btn" aria-haspopup="true" aria-expanded="false">Region selector</button>
+        
+    <ul class="bsds-dropdown-menu js-nav-region-selector-menu visually-hidden" role="menu" hidden>
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-ar/home.html" role="menuitem" class="bsds-link">Argentina
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/pt-BR/home.html" role="menuitem" class="bsds-link">Brazil
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-CL/home.html" role="menuitem" class="bsds-link">Chile
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="https://www.bostonscientific.cn/" role="menuitem" class="bsds-link">China
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-co/home.html" role="menuitem" class="bsds-link">Colombia
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/DE-Deutsch/startseite.html" role="menuitem" class="bsds-link">Deutschland
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-ES/home.html" role="menuitem" class="bsds-link">Espanol
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/en-EU/home.html" role="menuitem" class="bsds-link">Europe
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/en-IN/home.html" role="menuitem" class="bsds-link">India
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/jp-JP/home.html" role="menuitem" class="bsds-link">Japan
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/kr-KR/home.html" role="menuitem" class="bsds-link">Korea
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-MX/home.html" role="menuitem" class="bsds-link">Mexico
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/es-pe/home.html" role="menuitem" class="bsds-link">Peru
+    </a>
+
+        
+    </li>
+
+    
+        
+    <li class="bsds-dropdown-item" role="none">
+        
+    <a href="/en-US/home.html" role="menuitem" class="bsds-link">United States
+    </a>
+
+        
+    </li>
+
+    </ul>
+
+    </div>
+
+
+
+    
+
+</li>
+
+          
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+<main class="container responsivegrid mt-6 mt-lg-0">
+
+    
+    <div id="maincontent" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--large--12 ">
+    
+    <div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-b13390c487" class="cmp-container">
+        
+        
+        
+    </div>
+
+</div>
+<div class="container responsivegrid aem-GridColumn--offset--large--0 aem-GridColumn--large--none aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--large--12">
+
+    
+    <div id="container-c36ad67596" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 aem-Grid--large--12 ">
+    
+    <div class="breadcrumb aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--large--12">
+<nav id="breadcrumb-563c6fb514" class="cmp-breadcrumb" aria-label="Breadcrumb">
+    <ol class="cmp-breadcrumb__list" itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li class="cmp-breadcrumb__item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a href="/en-US/patients-caregivers.html" class="cmp-breadcrumb__item-link" itemprop="item">
+                <span itemprop="name">For patients and caregivers</span>
+            </a>
+            <meta itemprop="position" content="1"/>
+        </li>
+    
+        <li class="cmp-breadcrumb__item cmp-breadcrumb__item--active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            
+                <span itemprop="name">Treatments and conditions</span>
+            
+            <meta itemprop="position" content="2"/>
+        </li>
+    </ol>
+</nav>
+
+    
+</div>
+<div class="teaser cmp-teaser--page-header aem-GridColumn aem-GridColumn--default--12 aem-GridColumn--large--12"><div id="teaser-1264ab64d9" class="cmp-teaser">
+    
+    
+
+    <div class="cmp-teaser__content">
+        
+    
+
+        
+    <h1 class="cmp-teaser__title">
+        
+        All treatments and conditions
+    </h1>
+
+        
+    
+
+        
+    
+
+    </div>
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    
+    
+    <div id="container-4a23539ebd" class="cmp-container">
+        
+        
+        
+    </div>
+
+</div>
+<div class="container responsivegrid template-alpha aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-c56f318576" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--small--12 aem-Grid--default--12 aem-Grid--xsmall--12 aem-Grid--large--12 aem-Grid--medium--12 ">
+    
+    <div class="container responsivegrid ctr-nav-secondary aem-GridColumn--small--none aem-GridColumn--medium--none aem-GridColumn--offset--xsmall--0 aem-GridColumn--default--none aem-GridColumn--xsmall--12 aem-GridColumn--offset--default--0 aem-GridColumn--offset--medium--0 aem-GridColumn--xsmall--none aem-GridColumn--medium--12 aem-GridColumn aem-GridColumn--small--12 aem-GridColumn--offset--small--0 aem-GridColumn--default--3">
+
+    
+    <div id="container-98cebe9501" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--3 aem-Grid--small--12 aem-Grid--default--3 aem-Grid--xsmall--12 aem-Grid--medium--12 ">
+    
+    <div class="options cmp-filters--decorative aem-GridColumn--xsmall--12 aem-GridColumn--medium--12 aem-GridColumn aem-GridColumn--small--12 aem-GridColumn--default--3">
+
+    <fieldset class="cmp-form-options cmp-form-options--checkbox">
+        
+            <legend class="cmp-form-options__legend">Filter by condition area</legend>
+            <label class="cmp-form-options__field-label">
+                <input class="cmp-form-options__field cmp-form-options__field--checkbox" name="filters" value="filter1" type="checkbox"/>
+                <span class="cmp-form-options__field-description">Cancer</span>
+            </label>
+<label class="cmp-form-options__field-label">
+                <input class="cmp-form-options__field cmp-form-options__field--checkbox" name="filters" value="filter2" type="checkbox"/>
+                <span class="cmp-form-options__field-description">Digestion and nutrition</span>
+            </label>
+<label class="cmp-form-options__field-label">
+                <input class="cmp-form-options__field cmp-form-options__field--checkbox" name="filters" value="filter3" type="checkbox"/>
+                <span class="cmp-form-options__field-description">Heart and vascular</span>
+            </label>
+<label class="cmp-form-options__field-label">
+                <input class="cmp-form-options__field cmp-form-options__field--checkbox" name="filters" value="filter4" type="checkbox"/>
+                <span class="cmp-form-options__field-description">Men&#39;s health</span>
+            </label>
+<label class="cmp-form-options__field-label">
+                <input class="cmp-form-options__field cmp-form-options__field--checkbox" name="filters" value="filter5" type="checkbox"/>
+                <span class="cmp-form-options__field-description">Neurological conditions</span>
+            </label>
+<label class="cmp-form-options__field-label">
+                <input class="cmp-form-options__field cmp-form-options__field--checkbox" name="filters" value="filter6" type="checkbox"/>
+                <span class="cmp-form-options__field-description">Pain management</span>
+            </label>
+<label class="cmp-form-options__field-label">
+                <input class="cmp-form-options__field cmp-form-options__field--checkbox" name="filters" value="filter7" type="checkbox"/>
+                <span class="cmp-form-options__field-description">Women&#39;s health</span>
+            </label>
+
+        
+        
+        
+    </fieldset>
+
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid ctr-page-content filterable-content aem-GridColumn--offset--xsmall--0 aem-GridColumn--offset--large--0 aem-GridColumn--default--none aem-GridColumn--xsmall--12 aem-GridColumn--medium--newline aem-GridColumn--xsmall--newline aem-GridColumn--offset--default--0 aem-GridColumn--offset--medium--0 aem-GridColumn--large--9 aem-GridColumn--large--none aem-GridColumn--medium--12 aem-GridColumn aem-GridColumn--small--newline aem-GridColumn--small--12 aem-GridColumn--offset--small--0 aem-GridColumn--default--6">
+
+    
+    <div id="container-037709cf06" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--6 aem-Grid--small--6 aem-Grid--default--6 aem-Grid--xsmall--6 aem-Grid--large--9 aem-Grid--medium--6 ">
+    
+    <div class="text aem-GridColumn--large--9 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+<div id="noResults" class="cmp-text">
+    <p>No results found</p>
+
+</div>
+
+    
+
+</div>
+<div class="container responsivegrid cmp-container--padding-decrease aem-GridColumn--default--none aem-GridColumn--large--6 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--offset--default--0 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+
+    
+    
+    
+    <div id="filter1" class="cmp-container">
+        
+        <div class="title cmp-title--fill-gradient-assertive"><div id="title-5bb6c6b5fd" class="cmp-title">
+    <h2 class="cmp-title__text">
+        
+        Cancer</h2>
+</div>
+
+    
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="text-4c50cce426" class="cmp-text">
+    <p><b>Colorectal cancer</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-50107169b5" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/colorectal-cancer.html">
+    
+    
+
+    <span class="cmp-button__text">Colorectal cancer resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-3601cf25dd" class="cmp-text">
+    <p>Colorectal cancer occurs in the colon, rectum or both.</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="text-50c665fc19" class="cmp-text">
+    <p><b>Liver cancer</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-45b7c51ab2" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/liver-cancer.html">
+    
+    
+
+    <span class="cmp-button__text">Liver cancer resources*</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-464280f51b" class="cmp-text">
+    <p>TheraSphere™ is a proven therapy approved by the FDA that safely delivers high dose radiation to shrink liver cancer tumors and improve patient outcomes.</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="spaceoar" class="cmp-text">
+    <p><b>Prostate Cancer</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-c1d1d41f3c" class="cmp-button" href="/en-US/patients-caregivers/spaceoar-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Prostate cancer resources</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid cmp-container--padding-decrease aem-GridColumn--large--9 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+
+    
+    
+    
+    <div id="filter2" class="cmp-container">
+        
+        <div class="title cmp-title--fill-gradient-assertive"><div id="title-1d784eee10" class="cmp-title">
+    <h2 class="cmp-title__text">
+        
+        Digestion and nutrition</h2>
+</div>
+
+    
+</div>
+<div class="text cmp-text--subtle">
+<div id="text-c2bf331881" class="cmp-text">
+    <p><b>Enteral feeding</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-abc73024a8" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/enteral-feeding-tube.html">
+    
+    
+
+    <span class="cmp-button__text">Enteral feeding resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-6563ff06b1" class="cmp-text">
+    <p>Enteral feeding is the delivery of nutrients directly into the digestive tract via a tube. The tube is usually placed into the stomach, duodenum or jejunum (small intestine) via either the nose, mouth or the direct percutaneous route.¹</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle">
+<div id="esophageal" class="cmp-text">
+    <p><b>Esophageal stents</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-0d64cfa33a" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/esophageal-stents.html">
+    
+    
+
+    <span class="cmp-button__text">Esophageal stents resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-aa78c9f04c" class="cmp-text">
+    <p>Esophageal stents are often used to treat the side effects of cancer of the esophagus by using a flexible mesh tube, or stent, to keep the blocked area open. Find out what to expect from an esophageal stent procedure, resources, support and more. </p>
+
+</div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid cmp-container--padding-decrease aem-GridColumn--large--9 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+
+    
+    
+    
+    <div id="filter3" class="cmp-container">
+        
+        <div class="title cmp-title--fill-gradient-assertive"><div id="title-9a95e11d46" class="cmp-title">
+    <h2 class="cmp-title__text">
+        
+        Heart and vascular</h2>
+</div>
+
+    
+</div>
+<div class="text cmp-text--subtle">
+<div id="afib" class="cmp-text">
+    <p><b>Atrial fibrillation</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-4849e2401b" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/atrial-fibrillation.html">
+    
+    
+
+    <span class="cmp-button__text">Atrial fibrillation resources</span>
+</a>
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="text-3030971cbd" class="cmp-text">
+    <p><b>Cardiac monitoring</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-f4dfe2d954" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/cardiac-monitoring.html">
+    
+    
+
+    <span class="cmp-button__text">Cardiac monitoring resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-550087aff5" class="cmp-text">
+    <p>Whether you’re just starting to research heart monitors or you already have the LUX-Dx™ ICM and want to learn more, explore the sections below to find answers to your questions.</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="text-9c72602fc6" class="cmp-text">
+    <p><b>Cardiac resynchronization therapy</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-1e72382570" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/crt.html">
+    
+    
+
+    <span class="cmp-button__text">Cardiac resynchronization therapy resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-176b190ec8" class="cmp-text">
+    <p>Learn how CRT devices can help your heart beat more efficiently and allow your doctor to monitor your health.</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="text-258697ead4" class="cmp-text">
+    <p><b>Coronary stents</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-066b52cdae" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/coronary-stents.html">
+    
+    
+
+    <span class="cmp-button__text">Coronary stent resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-d50b279798" class="cmp-text">
+    <p>Learn more about Coronary Artery Disease (CAD) including risk factors, symptoms, treatments, and more.</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="text-aba28bbced" class="cmp-text">
+    <p><b>Deep vein thrombosis</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-285a86da4d" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/dvt.html">
+    
+    
+
+    <span class="cmp-button__text">Deep vein thrombosis resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-fcafb8579e" class="cmp-text">
+    <p>Learn about approaches for treating DVT blood clots.</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="defibrillators" class="cmp-text">
+    <p><b>Defibrillators</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-545ef35923" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/defibrillators.html">
+    
+    
+
+    <span class="cmp-button__text">Defibrillator resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-72ef63d6be" class="cmp-text">
+    <p>Boston Scientific ICD and S-ICD systems are designed to monitor and treat abnormally fast ventricular heart rhythms by delivering electrical energy to the heart. Find out how they work, what to expect after your procedure, and how to lead a full and active life with an implanted device.</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="text-642cf9f48a" class="cmp-text">
+    <p><b><a id="pacemakers"></a>Pacemakers</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-eac7be2fca" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/pacemakers.html">
+    
+    
+
+    <span class="cmp-button__text">Pacemaker resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-97e0650954" class="cmp-text">
+    <p>Your Boston Scientific pacemaker is designed to monitor and treat your abnormal heart rhythm. Learn about the device, what to expect from your procedure and how you can get back to the pace of life.  </p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="text-3a33d61d40" class="cmp-text">
+    <p><b>Peripheral artery disease</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-4b473c6757" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/pad.html">
+    
+    
+
+    <span class="cmp-button__text">Peripheral artery disease resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-5b364885b9" class="cmp-text">
+    <p>Learn about approaches to treating PAD circulation problems. </p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="tavr" class="cmp-text">
+    <p><b>Severe aortic stenosis</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-5e9df63c13" class="cmp-button" href="/en-US/patients-caregivers/treattheheart-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">TAVR resources</span>
+</a>
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="remote" class="cmp-text">
+    <p><b>Remote monitoring system</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-560c2ed000" class="cmp-button" href="/en-US/patients-caregivers/treatments-conditions/remote-monitoring-system.html">
+    
+    
+
+    <span class="cmp-button__text">Remote monitoring system resources</span>
+</a>
+</div>
+<div class="text cmp-text--margin-top-decrease">
+<div id="text-c45fcc56e0" class="cmp-text">
+    <p>Get to know your home monitoring system, know the benefits, and understand your system including charging your battery. </p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="varicose" class="cmp-text">
+    <p><b>Varicose veins</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-942fba7bc3" class="cmp-button" href="/en-US/patients-caregivers/varithena-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Varicose veins resources</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid cmp-container--padding-decrease aem-GridColumn--large--9 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+
+    
+    
+    
+    <div id="filter4" class="cmp-container">
+        
+        <div class="title cmp-title--fill-gradient-assertive"><div id="title-3cf1e70dcb" class="cmp-title">
+    <h2 class="cmp-title__text">
+        
+        Men&#39;s health</h2>
+</div>
+
+    
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="bph" class="cmp-text">
+    <p><b>Benign prostatic hyperplasia (BPH) or enlarged prostate</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-791b5990a1" class="cmp-button" href="/en-US/patients-caregivers/greenlight-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">GreenLight™ Laser Therapy resources</span>
+</a>
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-e56d8a5e28" class="cmp-button" href="/en-US/patients-caregivers/rezum-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Rezūm Water Vapor Therapy resources</span>
+</a>
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="stone" class="cmp-text">
+    <p><b>Kidney stone</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-f20b84e650" class="cmp-button" href="/en-US/patients-caregivers/mykidneystone-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Kidney stone resources</span>
+</a>
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="incontinence" class="cmp-text">
+    <p><b>Male urinary incontinence</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-f6393c4c29" class="cmp-button" href="/en-US/patients-caregivers/fixincontinence-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Male urinary incontinence resources</span>
+</a>
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="ed" class="cmp-text">
+    <p><b>Erectile dysfunction (ED)</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-7d56868423" class="cmp-button" href="/en-US/patients-caregivers/edcure-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Erectile dysfunction (ED) resources</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid cmp-container--padding-decrease aem-GridColumn--large--9 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+
+    
+    
+    
+    <div id="filter5" class="cmp-container">
+        
+        <div class="title cmp-title--fill-gradient-assertive"><div id="title-b9b43e4a27" class="cmp-title">
+    <h2 class="cmp-title__text">
+        
+        Neurological conditions</h2>
+</div>
+
+    
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="dbs" class="cmp-text">
+    <p><b>Deep Brain Stimulation</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-1d2516bff1" class="cmp-button" href="/en-US/patients-caregivers/dbs-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Deep Brain Stimulation resources</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid cmp-container--padding-decrease aem-GridColumn--large--9 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+
+    
+    
+    
+    <div id="filter6" class="cmp-container">
+        
+        <div class="title cmp-title--fill-gradient-assertive"><div id="title-48542eac23" class="cmp-title">
+    <h2 class="cmp-title__text">
+        
+        Pain management</h2>
+</div>
+
+    
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="radio" class="cmp-text">
+    <p><b>Radiofrequency ablation</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-9ea4fbc49c" class="cmp-button" href="/en-US/patients-caregivers/rfa-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Radiofrequency ablation resources</span>
+</a>
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="scs" class="cmp-text">
+    <p><b>Spinal Cord Stimulation</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-964c9a24c6" class="cmp-button" href="/en-US/patients-caregivers/scs-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Spinal Cord Stimulation resources</span>
+</a>
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="vertiflex" class="cmp-text">
+    <p><b>Vertiflex</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-5b75304e87" class="cmp-button" href="/en-US/patients-caregivers/vertiflex-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Vertiflex resources</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="container responsivegrid cmp-container--padding-decrease aem-GridColumn--large--9 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+
+    
+    
+    
+    <div id="filter7" class="cmp-container">
+        
+        <div class="title cmp-title--fill-gradient-assertive"><div id="title-c8df688a8d" class="cmp-title">
+    <h2 class="cmp-title__text">
+        
+        Women&#39;s health</h2>
+</div>
+
+    
+</div>
+<div class="text cmp-text--subtle cmp-text--margin-top-increase">
+<div id="bladder" class="cmp-text">
+    <p><b>Bladder leakage and pelvic organ prolapse</b></p>
+
+</div>
+
+    
+
+</div>
+<div class="button cmp-button--link-default cmp-button--margin-top-decrease">
+<a id="button-734b709940" class="cmp-button" href="/en-US/patients-caregivers/chooseyou-interstitial.html">
+    
+    
+
+    <span class="cmp-button__text">Bladder leakage and pelvic organ prolapse resources</span>
+</a>
+</div>
+
+        
+    </div>
+
+</div>
+<div class="text cmp-text--small cmp-text--margin-top-increase aem-GridColumn--large--9 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+<div id="text-477bbf95f4" class="cmp-text">
+    <p>*Hepatocellular carcinoma</p>
+
+</div>
+
+    
+
+</div>
+<div class="text cmp-text--subtle aem-GridColumn--large--9 aem-GridColumn aem-GridColumn--xsmall--6 aem-GridColumn--default--6 aem-GridColumn--small--6 aem-GridColumn--medium--6">
+<div id="text-05a524c0da" class="cmp-text">
+    <p><b>References</b></p>
+<p>National Center for Biotechnology Information, National Institutes for Health. Nutrition Support for Adults: Oral NutriHon Support, Emeral Tube Feeding and Parenteral Nutrition, https://www.ncbi.nlm.nih.gov/books/NBK492531, accessed August 2015</p>
+
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-178f757e8f" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</main>
+<div class="experiencefragment">
+<div id="experiencefragment-c8a380e866" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    
+    
+    <div id="container-64073db9dd" class="cmp-container">
+        
+        <div class="footer">
+ 
+
+
+
+
+<footer role="contentinfo" class="bsc-footer">
+   <div class="bsc-social-media" id="footer-464ef114fb">
+      <div class="bsc-container">
+         <!-- add flex-row-reverse to display social icons on the left at LG breakpoint -->
+         <div class="row align-items-center flex-row-reverse">
+            <div class="col-lg-4">
+               <div class="bsc-social-wrapper">
+                  <ul class="list-unstyled list-inline">
+                     <li class="list-inline-item">
+                        <a class="bsc-social-icon-link" href="https://www.facebook.com/BostonScientific" target="_blank" title="Follow on Facebook">
+                        <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                        <span>Follow on Facebook</span>
+                        </a>
+                     </li>
+                     <li class="list-inline-item">
+                        <a class="bsc-social-icon-link" href="https://twitter.com/bostonsci" title="Follow on Twitter">
+                        <i class="fab fa-twitter" aria-hidden="true"></i>
+                        <span>Follow on Twitter</span>
+                        </a>
+                     </li>
+                     <li class="list-inline-item">
+                        <a class="bsc-social-icon-link" href="https://www.linkedin.com/company/boston-scientific" title="Follow on LinkedIn">
+                        <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+                        <span>Follow on LinkedIn</span>
+                        </a>
+                     </li>
+                     
+                     <li class="list-inline-item">
+                        <a class="bsc-social-icon-link" href="https://www.instagram.com/bostonsci/" target="_blank" title="Follow on Instagram">
+                           <i class="fab fa-instagram" aria-hidden="true"></i>
+                           <span>Follow on Instagram</span>
+                        </a>
+                     </li>
+                  </ul>
+               </div>
+            </div>
+            <div class="col-lg-8">
+               <p class="text-center text-lg-left bsc-tagline">Boston Scientific is dedicated to transforming lives through innovative medical solutions that improve the health of patients around the world.</p>
+            </div>
+         </div>
+         <hr/>
+      </div>
+   </div>
+   <div class="bsc-footer-nav">
+      <div class="bsc-container">
+         <nav class="row text-left text-md-left" aria-label="main footer navigation">
+            <div class="col-md-6 col-lg-4 col-xl-4">
+               <ul class="list-unstyled">
+                  <li class="bsc-footer-link-heading">Professionals</li>
+                  <li><a href="/en-US/medical-specialties.html" title="Medical Specialties ">Medical Specialties </a></li>
+                  <li><a href="/en-US/reimbursement.html" title="Reimbursement">Reimbursement</a></li>
+                  <li><a href="/en-US/education.html" title="EDUCARE – Medical Education and Training Courses">EDUCARE – Medical Education and Training Courses</a></li>
+                  <li><a href="/en-US/investigator-sponsored-research.html" title="Investigator-Sponsored Research Program">Investigator-Sponsored Research Program</a></li>
+               </ul>
+            </div>
+         
+            <div class="col-md-6 col-lg-4 col-xl-4">
+               <ul class="list-unstyled">
+                  <li class="bsc-footer-link-heading">Patients</li>
+                  <li><a href="/en-US/patients-caregivers.html" title="Patients and Caregivers - Support and Resources">Patients and Caregivers - Support and Resources</a></li>
+                  
+                  <li><a href="/en-US/patients-caregivers/treatments-conditions.html" title="All Treatments and Conditions">All Treatments and Conditions</a></li>
+                  <li><a href="/en-US/patient-and-caregiver-support.html" title="Patient and Caregiver Support">Patient and Caregiver Support</a></li>
+               </ul>
+            </div>
+         
+            <div class="col-md-6 col-lg-4 col-xl-4">
+               <ul class="list-unstyled">
+                  <li class="bsc-footer-link-heading">Products</li>
+                  <li><a href="/en-US/products.html" title="Products">Products</a></li>
+                  <li><a href="/en-US/customer-service.html" title="Customer support and services">Customer support and services</a></li>
+                  <li><a href="https://www.bostonscientific.com/imageready" title="ImageReady™ - MRI Information">ImageReady™ - MRI Information</a></li>
+                  <li><a href="/en-US/customer-service/product-security.html" title="Product Security">Product Security</a></li>
+               </ul>
+            </div>
+         
+            <div class="col-md-6 col-lg-4 col-xl-4">
+               <ul class="list-unstyled">
+                  <li class="bsc-footer-link-heading">About</li>
+                  <li><a href="/en-US/about-us.html" title="About Us">About Us</a></li>
+                  <li><a href="/en-US/corporate-responsibility.html" title="Corporate Responsibility">Corporate Responsibility</a></li>
+                  <li><a href="/en-US/careers.html" title="Careers ">Careers </a></li>
+                  
+               </ul>
+            </div>
+         
+            <div class="col-md-6 col-lg-4 col-xl-4">
+               <ul class="list-unstyled">
+                  <li class="bsc-footer-link-heading">Administrators</li>
+                  <li><a href="/en-US/healthcare-professionals/administrators.html" title="Administrators">Administrators</a></li>
+                  
+                  
+                  
+               </ul>
+            </div>
+         
+            <div class="col-md-6 col-lg-4 col-xl-4">
+               <ul class="list-unstyled">
+                  <li class="bsc-footer-link-heading">Compliance &amp; Ethics</li>
+                  <li><a href="/en-US/corporate-responsibility/integrity/compliance-ethics.html" title="Compliance and ethics">Compliance and ethics</a></li>
+                  <li><a href="/en-US/corporate-responsibility/integrity/policy-advocacy.html" title="Policy and Advocacy">Policy and Advocacy</a></li>
+                  <li><a href="https://www.bostonscientific.com/en-US/corporate-social-responsibility/people/labor-human-rights.html#uk-modern-slavery" title="UK Modern Slavery Disclosure Statement">UK Modern Slavery Disclosure Statement</a></li>
+                  <li><a title="Do not sell or share my personal information">Do not sell or share my personal information</a></li>
+               </ul>
+            </div>
+         </nav>
+      </div>
+   </div>
+   
+   <div class="bsc-trust" id="complianceCode">
+      <div class="bsc-container">
+         <p class="text-left">CORP-1407704-AA SEP 2022</p>
+      </div>
+   </div>
+   
+   <div class="bsc-legal-links">
+      <div class="bsc-container">
+         <div class="row align-items-center">
+            <div class="col-md-12 col-lg-6">
+               <p class="text-left bsc-footer-copyright">©2024 Boston Scientific Corporation or its affiliates. All rights reserved. </p>
+            </div>
+            <div class="col-md-12 col-lg-6">
+               <nav class="text-left text-lg-right" aria-label="secondary footer navigation">
+                  <ul class="list-unstyled list-inline">
+                     <li class="list-inline-item">
+                        <a href="/en-US/privacy-policy.html" title="Privacy Policy">Privacy Policy</a>
+                     </li>
+                  
+                     <li class="list-inline-item">
+                        <a href="/en-US/terms-of-use.html" title="Terms of Use">Terms of Use</a>
+                     </li>
+                  
+                     <li class="list-inline-item">
+                        <a href="/en-US/copyright-notice.html" title="Copyright Notice">Copyright Notice</a>
+                     </li>
+                  
+                     <li class="list-inline-item">
+                        <a href="/en-US/sitemap.html" title="Site Map">Site Map</a>
+                     </li>
+                  </ul>
+               </nav>
+            </div>
+         </div>
+      </div>
+   </div>
+</footer>
+
+
+
+</div>
+
+        
+    </div>
+
+</div>
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+
+            
+    
+    
+ 
+     <script src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-027d01df25f17066242db969c9bf2ade-lc.js" defer type="text/javascript"></script>  <script src="/etc.clientlibs/ewp/clientlibs/clientlib-base.lc-a84edeee52de566e4a325f9e1ce7003e-lc.js" defer type="text/javascript"></script> 
+
+
+
+
+
+
+
+
+   <script src="/etc.clientlibs/ewp/clientlibs/clientlib-corporate.lc-b22efebdaf2d35a22b0bba65892fb416-lc.min.js" defer type="text/javascript"></script> 
+
+
+
+
+    
+
+    
+
+    
+    
+    
+
+        
+    </body>
+</html>

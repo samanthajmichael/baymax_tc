@@ -1,0 +1,1195 @@
+<!doctype html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	
+
+
+<head> <script type="text/javascript" src="/js/fehnkc1s97yz.js"></script>
+    <meta name="keywords" content="includeinsearch">
+    <meta name="description" content="" />
+    
+	
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    
+    
+
+
+    <title>Website Terms of Use</title>
+    
+    <link rel="canonical" href="/corporate/website-terms.html"/>
+    
+    <!-- Vendor stylesheets -->
+    <link rel="stylesheet" href="/apps/customer/docroot/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/apps/customer/docroot/css/jquery.faloading.css">
+    <link rel="stylesheet" type="text/css" href="/apps/customer/docroot/css/datatables.min.css"/>
+
+ 	<div class="cssincludes">
+
+
+
+
+
+
+
+
+
+</div>
+
+
+    <!-- First Energy custom stylesheets -->
+    <link rel="stylesheet" href="/apps/customer/docroot/css/style.css">
+    <link rel="stylesheet" href="/apps/customer/docroot/css/vendor.css">
+ 
+    <link href="/etc.clientlibs/settings/wcm/designs/default/static.css" rel="stylesheet" type="text/css">
+<link href="/etc.clientlibs/settings/wcm/designs/default/resources.css" rel="stylesheet" type="text/css">
+
+
+    
+    
+	
+
+		<script>
+            <!-- Google Tag Manager -->
+            var gtm_auth = '&gtm_auth=lrAiixmiQiEoyrgEoM-Rpg&gtm_preview=env-2&gtm_cookies_win=x';
+
+            (function(w,d,s,l,i,gtm_auth){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl+gtm_auth;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-MK2BSVL',gtm_auth);
+        </script>
+	
+	
+    
+       
+
+</head>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- This template may be overridden in individual templates. -->
+<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MK2BSVL&gtm_auth=lrAiixmiQiEoyrgEoM-Rpg&gtm_preview=env-2&gtm_cookies_win=x" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	
+	<div class="nocachecookieheader">
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+    
+    	
+	    	
+    	
+        
+    
+
+
+
+
+
+</div>
+
+
+	
+
+
+
+
+
+
+
+
+
+
+<div class="toppar parsys">
+</div>
+
+<div class="topipar iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="topipar iparsys parsys"><div class="useragentmessage section">
+
+
+
+
+
+
+
+
+
+
+	<div id="userAgentMessageDiv" class="callout warning hidden">
+	<h4>Versions Not Supported</h4>
+<p>You are currently using a browser and/or operating system we do not support.&nbsp; Some of the functionality and menus may not be available with this browser.&nbsp; Please upgrade your browser and/or operating system to improve your user experience.</p>
+<p><a href="#"><span class="btn">CLOSE</span></a><br>
+</p>
+
+	</div>
+	
+	<script>
+	var agents = ["iPhone OS 8","Mozilla/5.0 (Android","iPad; CPU OS 8","iPad2; CPU OS 8","FxiOS/10.3","FxiOS/10.6"];
+	
+	for (var i = 0; i < agents.length; i++) { 
+	    if (navigator.userAgent.indexOf(agents[i]) !== -1 ) {
+	    	document.getElementById("userAgentMessageDiv").style.display="block";
+	    }
+	}
+	</script>
+
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="off-canvas-wrapper">
+    <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+        <header aria-label="header">
+            <div class="rheaderipar iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="rheaderipar iparsys parsys"><div class="smalltopmenu parbase section">
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+        <!-- begin: off-canvas title bar for small screens -->
+        <div class="title-bar hide-for-large" data-responsive-toggle="widemenu" data-hide-for="large">
+            <div class="flex-row space-between">
+                <div class="logo">
+                    <a href="/fehome.html">
+                        <img src="/apps/customer/docroot/img/blank.png" data-interchange="[/content/dam/opcologos/header/small/fe.png, small],
+			                [/content/dam/opcologos/header/small/fe.png, medium]" alt="FirstEnergy"/></a>
+                </div>
+                <div class="flex-row gap">
+                    <div class="search-button">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                        <span class="show-for-sr">Search</span>
+                    </div>
+                    <div class="title-bar-right hide-for-print">
+                        <a href="/my_account.html">
+                            <span class="title-bar-title btn-myAccount"></span>
+                        </a>
+                    </div>
+                    <div class="title-bar-right">
+                        <button class="menu-icon" type="button" data-toggle="offCanvasRight" aria-label="Mobile Menu"></button>
+                    </div>
+                </div>
+            </div>
+            <div id="small-search-menu" class="search-nav search-wrapper hidden">
+                <!-- Wrapped in form to allow mobile search mode? testing -->
+                <form action>
+                    <label for="typeahead-sitesearch-small" class="sr-only">Search</label>
+                    <span class="typeahead-search-icon">
+                        <input id="typeahead-sitesearch-small" type="search" class="search-input" maxlength="45">
+                    </span>
+                    <button id="typeahead-sitesearch-small-button" type="button" class="btn btn-primary fe-button">SEARCH</button>
+                </form>
+            </div>
+        </div>
+        <!-- end: off-canvas title bar for small screens -->
+
+        <!--begin: off canvas mobile menu -->
+        <nav class="mobile-navigation off-canvas position-right hide-for-large" id="offCanvasRight" data-off-canvas>
+            <ul class="vertical dropdown menu" data-drilldown data-parent-link="true">
+                
+                    <li class="bg-grey"><a href="/fehome.html">FirstEnergy Corp Home</a></li>
+                
+                
+                    <li
+                            
+                            data-menu="My Account" >
+                        <a href="/my_account.html">My Account</a>
+                        
+                            <ul class="vertical menu">
+                                
+                                    
+                                        <li><a href="/my_account.html">Account Overview</a></li>
+                                    
+                                        <li><a href="/my_account/pay_my_bill.html">Pay My Bill</a></li>
+                                    
+                                        <li><a href="/my_account/bill_payment_history.html">Bill & Payment History</a></li>
+                                    
+                                        <li><a href="/my_account/payment_billing_options.html">Bill & Payment Options</a></li>
+                                    
+                                        <li><a href="/my_account/Manage_My_Account.html">Manage My Account</a></li>
+                                    
+                                        <li><a href="/my_account/update_alerts.html">Text & Email Alerts</a></li>
+                                    
+                                        <li><a href="/my_account/Submit_Meter_Reading.html">Submit Meter Reading</a></li>
+                                    
+                                        <li><a href="/my_account/view_usage_history.html">Usage History</a></li>
+                                    
+                                        <li><a href="/my_account/analyze-usage.html">Analyze Usage</a></li>
+                                    
+                                        <li><a href="/my_account/supplier-choice.html">Supplier Choice</a></li>
+                                    
+                                
+                            </ul>
+                        
+                    </li>
+                
+                    <li
+                            
+                             >
+                        <a href="/service_requests.html">Request Services</a>
+                        
+                    </li>
+                
+                    <li
+                            
+                            data-menu="Report/View Outages" >
+                        <a href="#">Report/View Outages</a>
+                        
+                            <ul class="vertical menu">
+                                
+                                    
+                                        <li><a href="/outages_help.html">Outages Home</a></li>
+                                    
+                                        <li><a href="/outages_help/Report_Power_Outages.html">Report a Power Outage</a></li>
+                                    
+                                        <li><a href="/outages_help/current_outages_maps.html">My Outage Information</a></li>
+                                    
+                                        <li><a href="/outages_help/current_outages_maps/outages-map.html">Outages Map</a></li>
+                                    
+                                        <li><a href="/help/communication_tools.html">Get Outage Notifications</a></li>
+                                    
+                                        <li><a href="/outages_help/outage_help.html">Outage Help</a></li>
+                                    
+                                        <li><a href="/outages_help/report-lighting-problem2.html">Report Lighting Problem</a></li>
+                                    
+                                
+                            </ul>
+                        
+                    </li>
+                
+                    <li
+                            
+                            data-menu="Electric Companies" >
+                        <a href="#">Electric Companies</a>
+                        
+                            <ul class="vertical menu">
+                                
+                                    
+                                        <li><a href="/ohio_edison.html">Ohio Edison</a></li>
+                                    
+                                        <li><a href="/illuminating_company.html">The Illuminating Company</a></li>
+                                    
+                                        <li><a href="/toledo_edison.html">Toledo Edison</a></li>
+                                    
+                                        <li><a href="/met_edison.html">Met-Ed</a></li>
+                                    
+                                        <li><a href="/penelec.html">Penelec</a></li>
+                                    
+                                        <li><a href="/penn_power.html">Penn Power</a></li>
+                                    
+                                        <li><a href="/west_penn_power.html">West Penn Power</a></li>
+                                    
+                                        <li><a href="/jersey_central_power_light.html">Jersey Central Power & Light</a></li>
+                                    
+                                        <li><a href="/mon_power.html">Mon Power</a></li>
+                                    
+                                        <li><a href="/potomac_edison.html">Potomac Edison</a></li>
+                                    
+                                
+                            </ul>
+                        
+                    </li>
+                
+                    <li
+                            
+                            data-menu="Careers" >
+                        <a href="#">Careers</a>
+                        
+                            <ul class="vertical menu">
+                                
+                                    
+                                        <li><a href="/careers.html">Careers Home</a></li>
+                                    
+                                        <li><a href="/careers/why_firstenergy.html">Why FirstEnergy</a></li>
+                                    
+                                        <li><a href="/careers/diversity_inclusion.html">Diversity & Inclusion</a></li>
+                                    
+                                        <li><a href="https://careers.firstenergycorp.com/#en/sites/FirstEnergyCareers/pages/3">Career Paths</a></li>
+                                    
+                                        <li><a href="/careers/student_opportunities.html">Student Opportunities</a></li>
+                                    
+                                        <li><a href="/careers/student_opportunities/technical_schools.html">Technical Training Programs</a></li>
+                                    
+                                        <li><a href="https://careers.firstenergycorp.com/#en/sites/FirstEnergyCareers/tc-join">Create/View Talent Profile</a></li>
+                                    
+                                        <li><a href="https://careers.firstenergycorp.com/#en/sites/FirstEnergyCareers/pages/3">Search Jobs</a></li>
+                                    
+                                
+                            </ul>
+                        
+                    </li>
+                
+                    <li
+                            
+                            data-menu="Community" >
+                        <a href="#">Community</a>
+                        
+                            <ul class="vertical menu">
+                                
+                                    
+                                        <li><a href="/community.html">Community Involvement</a></li>
+                                    
+                                        <li><a href="/economicdevelopment.html">Economic Development</a></li>
+                                    
+                                        <li><a href="/community/speakers-bureau.html">Speakers Bureau</a></li>
+                                    
+                                
+                            </ul>
+                        
+                    </li>
+                
+                    <li
+                            
+                            data-menu="Investors" >
+                        <a href="/investor.html">Investors</a>
+                        
+                            <ul class="vertical menu">
+                                
+                                    
+                                        <li><a href="/investor.html">Investor Home</a></li>
+                                    
+                                        <li><a href="/investor/investor-materials.html">Investor Materials</a></li>
+                                    
+                                        <li><a href="https://investors.firstenergycorp.com/stock-information/default.aspx">Stock Information</a></li>
+                                    
+                                        <li><a href="/investor/fixed-income-investors.html">Fixed Income Investors</a></li>
+                                    
+                                        <li><a href="https://investors.firstenergycorp.com/sec-filings-and-reports/default.aspx">SEC Filings & Reports</a></li>
+                                    
+                                        <li><a href="/investor/shareholder_services.html">Shareholder Services</a></li>
+                                    
+                                        <li><a href="/investor/corporate_governance.html">Corporate Governance</a></li>
+                                    
+                                
+                            </ul>
+                        
+                    </li>
+                
+                    <li
+                            
+                             >
+                        <a href="/products.html">Products & Services</a>
+                        
+                    </li>
+                
+                    <li
+                            
+                            data-menu="About Us" >
+                        <a href="#">About Us</a>
+                        
+                            <ul class="vertical menu">
+                                
+                                    
+                                        <li><a href="/about.html">Company Profile</a></li>
+                                    
+                                        <li><a href="/newsroom.html">Newsroom</a></li>
+                                    
+                                        <li><a href="/about/grid-investments.html">Grid Investments</a></li>
+                                    
+                                        <li><a href="/about/generation_system.html">Generation System</a></li>
+                                    
+                                        <li><a href="/about/board_of_directors.html">Board of Directors</a></li>
+                                    
+                                        <li><a href="/about/leadership_team.html">Leadership Team</a></li>
+                                    
+                                        <li><a href="https://fecorporateresponsibility.com">Corporate Responsibility Website</a></li>
+                                    
+                                        <li><a href="/about/company_history.html">History</a></li>
+                                    
+                                        <li><a href="/about/standards_of_conduct.html">Standards Of Conduct & Affiliate Restrictions</a></li>
+                                    
+                                
+                            </ul>
+                        
+                    </li>
+                
+                    <li
+                            
+                             >
+                        <a href="/corporate/contact_us.html">Contact Us</a>
+                        
+                    </li>
+                
+                    <li
+                            
+                             >
+                        <a href="/help.html">Help</a>
+                        
+                    </li>
+                
+            </ul>
+        </nav>
+        <!--end: off canvas mobile menu -->
+
+    
+</div>
+<div class="topnavigation parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    <div id="topmenuheader"
+         class='corporate  '>
+        <div class="top-nav">
+            <a class="logo" href="/fehome.html">
+                <img src="/apps/customer/docroot/img/blank.png" data-interchange="[/apps/customer/docroot/img/logo-corporate@2x.png, small], [/apps/customer/docroot/img/logo-corporate@2x.png, medium], [/apps/customer/docroot/img/logo-corporate.png, large]" alt="FirstEnergy"/>
+            </a>
+            <div class="nav-container">
+                <div class="nav-tools-container">
+                    
+                        
+                            
+                                <ul class="tools-nav corporate show-for-large">
+                                    <li class="btn-myAccount">
+                                        <a href="/my_account.html">
+                                                MY ACCOUNT
+                                        </a>
+                                    </li>
+                                    <li class="btn-invest">
+                                        <a href="/investor.html">Investors</a>
+                                    </li>
+                                    <li class="btn-supp">
+                                        <a href="/corporate/Suppliers.html">Suppliers</a>
+                                    </li>
+                                    <li class="btn-careers">
+                                        <a href="/help/safety.html">Safety</a>
+                                    </li>
+                                    <li class="btn-contact">
+                                        <a href="/corporate/contact_us.html"> Contact Us
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            
+                            
+                        
+                    
+                </div>
+                <div class="search-nav show-for-large">
+                    <label for="typeahead-sitesearch-large" class="sr-only">Search</label>
+                    <span class="typeahead-search-icon">
+                        <input id="typeahead-sitesearch-large" type="search" class="search-input fe-input" maxlength="60">
+                    </span>
+                    <button id="typeahead-sitesearch-large-button" type="button" class="btn btn-primary fe-button">
+                            SEARCH
+                    </button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+	
+
+</div>
+<div class="topmenu parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav class="main-navigation show-for-large nav-subpage corporate">
+		<div class="row">
+			<div class="small-12 large-12 columns">
+				<ul class="flex-center">
+					
+						<li><a href="/my_account.html">	My Account </a> 
+							
+								<div class="main-submenu">
+									<div class="inner">
+										
+											<ul>
+												<li class="title">My Account</li>
+												
+													<li><a href="/my_account.html">My Account</a></li>
+												
+													<li><a href="/my_account/pay_my_bill.html">Pay My Bill </a></li>
+												
+													<li><a href="/register_for_onlineaccount/guest-payment.html">Pay As A Guest</a></li>
+												
+													<li><a href="/help/billingpayments.html">Billing & Payment Options</a></li>
+												
+													<li><a href="/my_account/bill_payment_history.html">Billing & Payment History</a></li>
+												
+													<li><a href="/my_account/view_usage_history.html">Usage History</a></li>
+												
+											</ul>
+										
+											<ul>
+												<li class="title">Manage Account</li>
+												
+													<li><a href="/my_account/Manage_My_Account.html">Manage My Account</a></li>
+												
+													<li><a href="/my_account/Manage_My_Account/add_electric_account.html">Add An Account</a></li>
+												
+													<li><a href="/register_for_onlineaccount.html">Register</a></li>
+												
+													<li><a href="/help.html">Help</a></li>
+												
+											</ul>
+										
+											<ul>
+												<li class="title">Moving Requests</li>
+												
+													<li><a href="/service_requests/moving_customer_survey.html">Start Service</a></li>
+												
+													<li><a href="/service_requests/moving_customer_survey.html">Stop Service</a></li>
+												
+													<li><a href="/service_requests/moving_customer_survey.html">Transfer Service</a></li>
+												
+													<li><a href="/service_requests/moving_customer_survey.html">New Construction</a></li>
+												
+											</ul>
+										
+									</div>
+								</div>
+							
+						</li>
+					
+						<li><a href="/our_electric_companies_home.html">	Customer Service </a> 
+							
+								<div class="main-submenu">
+									<div class="inner">
+										
+											<ul>
+												<li class="title">Service Assistance</li>
+												
+													<li><a href="/outages_help/Report_Power_Outages.html">Report a Power Outage</a></li>
+												
+													<li><a href="/outages_help/current_outages_maps.html">View Current Outages</a></li>
+												
+													<li><a href="/service_requests.html">Request Services</a></li>
+												
+													<li><a href="/service_requests/Start_Service/what-to-expect.html">Plan for your Move</a></li>
+												
+											</ul>
+										
+											<ul>
+												<li class="title">Select Your Utility</li>
+												
+													<li><a href="/our_electric_companies_home.html"><b>OHIO</b></a></li>
+												
+													<li><a href="/ohio_edison.html">Ohio Edison</a></li>
+												
+													<li><a href="/illuminating_company.html">The Illuminating Company</a></li>
+												
+													<li><a href="/toledo_edison.html">Toledo Edison</a></li>
+												
+													<li><a href="/our_electric_companies_home.html"> <b>WEST VIRGINIA/MARYLAND</b></a></li>
+												
+													<li><a href="/mon_power.html">Mon Power</a></li>
+												
+													<li><a href="/potomac_edison.html">Potomac Edison</a></li>
+												
+											</ul>
+										
+											<ul>
+												<li class="title"></li>
+												
+													<li><a href="/our_electric_companies_home.html"><b>PENNSYLVANIA</b></a></li>
+												
+													<li><a href="/met_edison.html">Met-Ed</a></li>
+												
+													<li><a href="/penelec.html">Penelec</a></li>
+												
+													<li><a href="/penn_power.html">Penn Power</a></li>
+												
+													<li><a href="/west_penn_power.html">West Penn Power</a></li>
+												
+													<li><a href="/our_electric_companies_home.html"><b>NEW JERSEY</b></a></li>
+												
+													<li><a href="/jersey_central_power_light.html">Jersey Central Power & Light</a></li>
+												
+											</ul>
+										
+									</div>
+								</div>
+							
+						</li>
+					
+						<li><a href="/about.html">	About Us </a> 
+							
+								<div class="main-submenu">
+									<div class="inner">
+										
+											<ul>
+												<li class="title">Our Business</li>
+												
+													<li><a href="/about/utilities.html">Our Electric Companies</a></li>
+												
+													<li><a href="/about/grid-investments.html">Grid Investments</a></li>
+												
+													<li><a href="/about/generation_system.html">Generation System</a></li>
+												
+													<li><a href="/about/company_history.html">History</a></li>
+												
+													<li><a href="/about/lighting-the-way.html">Lighting the Way Campaign</a></li>
+												
+											</ul>
+										
+											<ul>
+												<li class="title">Corporate Responsibility</li>
+												
+													<li><a href="https://fecorporateresponsibility.com/fecorporateresponsibility.html" target="_blank">Corporate Responsibility Website</a></li>
+												
+													<li><a href="https://fecorporateresponsibility.com/fecorporateresponsibility/environment/climate-story.html">Climate Story</a></li>
+												
+													<li><a href="/investor/corporate_governance.html">Corporate Governance</a></li>
+												
+													<li><a href="/investor/corporate_governance/board_of_directors.html">Board of Directors</a></li>
+												
+													<li><a href="/investor/corporate_governance/officers_and_directors.html">Leadership Team</a></li>
+												
+													<li><a href="/about/standards_of_conduct.html">Standards of Conduct & Affiliate Restrictions</a></li>
+												
+											</ul>
+										
+											<ul>
+												<li class="title">Newsroom</li>
+												
+													<li><a href="/newsroom.html">Latest News </a></li>
+												
+													<li><a href="/newsroom/social_media.html">Social Media</a></li>
+												
+													<li><a href="/outages_help.html">Outage Information</a></li>
+												
+													<li><a href="/about.html">Company Profile</a></li>
+												
+											</ul>
+										
+									</div>
+								</div>
+							
+						</li>
+					
+						<li><a href="/community.html">	Community </a> 
+							
+								<div class="main-submenu">
+									<div class="inner">
+										
+											<ul>
+												<li class="title"></li>
+												
+													<li><a href="/economicdevelopment.html">Economic Development</a></li>
+												
+													<li><a href="/community/speakers-bureau.html">Speakers Bureau</a></li>
+												
+													<li><a href="/community.html">Community Involvement</a></li>
+												
+											</ul>
+										
+									</div>
+								</div>
+							
+						</li>
+					
+						<li><a href="/careers.html">	Careers </a> 
+							
+								<div class="main-submenu">
+									<div class="inner">
+										
+											<ul>
+												<li class="title">Power Your Career</li>
+												
+													<li><a href="/careers/why_firstenergy.html">Why FirstEnergy</a></li>
+												
+													<li><a href="/careers/diversity_inclusion.html">Diversity & Inclusion</a></li>
+												
+													<li><a href="https://careers.firstenergycorp.com/#en/sites/FirstEnergyCareers/pages/3">Career Paths</a></li>
+												
+											</ul>
+										
+											<ul>
+												<li class="title">Get Started</li>
+												
+													<li><a href="https://careers.firstenergycorp.com/#en/sites/FirstEnergyCareers/requisitions?mode=location">Search Jobs</a></li>
+												
+													<li><a href="https://careers.firstenergycorp.com/#en/sites/FirstEnergyCareers/my-profile/sign-in">Create/View Profile</a></li>
+												
+											</ul>
+										
+											<ul>
+												<li class="title">Learn More</li>
+												
+													<li><a href="/careers/military.html">Military</a></li>
+												
+													<li><a href="/careers/student_opportunities/technical_schools.html">Technical Training Programs</a></li>
+												
+													<li><a href="/careers/student_opportunities.html">Student Opportunities</a></li>
+												
+											</ul>
+										
+									</div>
+								</div>
+							
+						</li>
+					
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+
+</div>
+<div class="htmlsnippet section">
+
+
+
+
+
+
+
+
+
+
+<style>
+a.btn-search i {
+   color: white;
+}
+
+.tools-nav li.btn-careers {
+    background: url(/apps/customer/docroot/img/safety.png) 12px 7px no-repeat;
+}
+</style>
+</div>
+</div>
+</div>
+</div>
+
+            <div class="rheaderpar parsys">
+</div>
+
+        </header>
+        <div class="alertbanner">
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+</div>
+
+        <div id="main-content-wrap" class="off-canvas-content subpages" data-off-canvas-content tabindex="0">
+            <section class="content subpage-content">
+                
+                    
+
+
+
+
+
+
+
+
+    <!--begin: breadcrumb  -->
+	<nav class="show-for-large" aria-label="You are here:">
+		<ul class="breadcrumbs">
+			
+				<li><a href="/fehome.html">Home</a></li>
+			
+				<li><span class="show-for-sr">Current: </span>Website Terms of Use</li>
+			
+		</ul>
+	</nav>
+	<!-- end: breadcrumb  -->
+
+                
+                
+
+
+
+
+
+
+
+
+
+
+<div class="subpage-template">
+	<div class="row columns">
+		<div class="titleipar iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="titleipar iparsys parsys"></div>
+</div>
+</div>
+
+		<div data-swiftype-name="body" data-swiftype-type="text">
+			<div class="responsiverichtext parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="row columns">
+		<div class="" >
+			<h2>Website Terms of Use</h2>
+<p>This website, located at uniform resource locator&nbsp;<a href="http://www.firstenergycorp.com/">www.firstenergycorp.com</a> (the “Site”), is provided by FirstEnergy Corp. (the “Company,&quot; &quot;we,&quot; &quot;our,&quot; or &quot;us&quot;) to the person accessing these Sites (&quot;you,&quot; &quot;your&quot;).</p>
+<p><b>1. You Agree to These Terms by Using this Site</b><br>
+Your access to, and use of, this Site is subject to the following Terms of Use and all applicable laws and regulations.&nbsp; By accessing and using the Site, you accept, without limitation or qualification, these Terms of Use.&nbsp; The Company may, at any time and without notice, modify these Terms of Use by revising them on the Site.&nbsp; Your continued use of the Site constitutes your acceptance of any such revisions.&nbsp; You should therefore periodically visit this page to review the current Terms of Use.&nbsp; You may not modify these Terms of Use except in writing signed by the Company.</p>
+<p>If you do not agree and accept, without limitation or qualification, these Terms of Use, you must exit the Site immediately.</p>
+<p><b>2. Permitted Use of the Site; Monitoring</b><br>
+The information and materials on this Site are provided for general informational purposes. You may use this Site solely for informational purposes or for the purpose of reviewing and/or purchasing the Company’s services and products.&nbsp; You may not use, reproduce or distribute the text, graphics, downloads, tools or any other content on this Site for any other purpose.&nbsp;</p>
+<p>We retain the right, but do not have the obligation, to monitor any and all activities on this Site and to record, screen, edit, curtail, or remove any content on this Site at any time and for any reason. The Company shall have no liability to any user or third party for the performance or non-performance of any monitoring or other actions.</p>
+<p><b>3. User Submitted Content</b><br>
+The Site may, from time to time, offer interactive features that allow users to submit content to the Site.&nbsp; The Company does not and cannot review all such content, and is not responsible for such content.</p>
+<p>You acknowledge that by providing the ability to view and distribute user-generated content on the Site, the Company is merely acting as a passive conduit for such distribution and is not undertaking any obligation or liability related thereto. However, the Company reserves the right to block or remove communications or materials that it determines to be unacceptable to it in its sole discretion.</p>
+<p>Harassment in any manner or form on the Site, including via email, chat, or by use of obscene or abusive language, is strictly forbidden. Impersonation of others, including the Company’s &nbsp;employee, host, or representative, as well as other members or visitors on the Site is prohibited. You may not upload to, distribute, or otherwise publish through the Site any content which is libelous, defamatory, obscene, threatening, invasive of privacy or publicity rights, abusive, illegal, or otherwise objectionable which may constitute or encourage a criminal offense, violate the rights of any party or which may otherwise give rise to liability or violate any law.</p>
+<p><b>4. Notice; Electronic Communications</b><br>
+When you visit this Site or send emails to the Company, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by email or by posting notices on this Site. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.</p>
+<p><b>5. Mobile Communication Tools and Text Messaging<br>
+ </b>The Site provides access to and content for our customer and mobile website, which provides on-the-go access to important information and services related to your electric account.&nbsp; While there is no direct cost to the public imposed by the Company to utilize any of its mobile application services (including text notification deliveries), STANDARD DATA FEES AND TEXT MESSAGING RATES MAY APPLY BASED ON YOUR PLAN WITH YOUR MOBILE CARRIER.&nbsp; As mobile access and text message delivery is subject to your mobile carrier network availability, such access and delivery is not guaranteed.</p>
+<p>You may opt out of text delivery from FE at any time by texting STOP to 544487.&nbsp; You also have the ability to temporarily discontinue your participation in FE’s text program by texting PAUSE to 544487.</p>
+<p><b>6. Privacy</b><br>
+FE's <a href="http://www.firstenergycorp.com/content/fecorp/corporate/privacy_legal_statement.html">Privacy and Legal Statements</a> located at www.firstenergycorp.com/content/fecorp/corporate/privacy_legal_statement.html is incorporated and made part of these Terms of Use.&nbsp; By using FE’s Site, you hereby agree to such Privacy and Legal Statements.&nbsp; Any personal data (for example, your name, address, telephone number or email address) you transmit to the Site by electronic mail or otherwise will be used by FE in accordance with the Privacy and Legal Statements. Any other communication or material you transmit to the Site, such as questions, comments, suggestions or the like, will be treated as non-confidential and nonproprietary.</p>
+<p><b>7. Typographical Errors</b></p>
+<p>In the event that a product or service is mistakenly listed at an incorrect price or with incorrect specifications, the&nbsp; Company reserves the right to refuse or cancel any orders placed for product listed incorrectly, whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and the Company cancels your order, the Company shall issue a credit to your credit card account in the amount of the incorrect price.</p>
+<p><b>8. Disclaimer - Warranty</b><br>
+THIS SITE, ITS CONTENT, MATERIALS AND PRODUCTS ON THIS SITE ARE PROVIDED &quot;AS IS.&quot;&nbsp;&nbsp; TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, THE COMPANY HEREBY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.</p>
+<p>The Company does not represent or warrant that the functions contained in the Site will be uninterrupted or error-free, that the defects will be corrected, or that this Site or the server that makes the Site available are free of viruses or other harmful components. The Company does not make any warranties or representations regarding the use of the materials in this Site in terms of their correctness, accuracy, adequacy, usefulness, timeliness, reliability or otherwise. Some states do not permit limitations or exclusions on warranties, so the above limitations may not apply to you.</p>
+<p><b>9. Indemnification</b><br>
+You agree to indemnify, defend, and hold harmless the Company, its officers, directors, employees, agents, licensors and suppliers from and against all losses, expenses, damages and costs, including reasonable attorneys' fees, resulting from any violation of these Terms of Use or any activity related to your account (including negligent or wrongful conduct) by you or any other person accessing the Site using your Internet&nbsp;or mobile device account.</p>
+<p><b>10. Limitations of Liability</b><br>
+YOUR USE OF THE SITE IS AT YOUR OWN RISK.&nbsp; NEITHER FIRSTENERGY CORP., NOR ANY OF THEIR SUBSIDIARIES, AFFILIATES, OFFICERS OR DIRECTORS, NOR ANY OF THEIR AGENTS OR ANY OTHER PARTY INVOLVED IN CREATING, PRODUCING, OR DELIVERING THE SITES OR THEIR CONTENT, ARE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR OTHER DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THE SITES WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF ANY SUCH DAMAGES. Some states do not permit limitations or exclusions on warranties, so the above limitations may not apply to you.</p>
+<p><b>11. Third-Party Links</b><br>
+In an attempt to provide increased value to our visitors, the Company may link to websites or electronic services sponsored or operated by third parties.&nbsp; However, even if the third party is affiliated with the Company, the Company has no control over these linked sites or the content therein, all of which may have separate privacy and data collection practices or policies or separate conditions or terms of use, independent of the Company.&nbsp; If you visit a linked site, the separate practices, policies, conditions or terms of use of the linked site will apply, so you should read them before using the linked site or any related service and before disclosing any personal information.&nbsp; These linked sites are only for your convenience and therefore you access them at your own risk. &nbsp;Without limiting the foregoing, the Company makes no warranty of any kind with respect to linked sites and specifically disclaims any responsibility is such sites or services: infringe any third party’s intellectual property rights; are inaccurate, incomplete or misleading; are not merchantable or fit for a particular purpose; do not provide adequate security; contain viruses or other items of a destructive nature; or are libelous or defamatory.&nbsp; The Company does not endorse and is not is not responsible or liable for the conduct of such sites’ operators or for the content, availability, products, services or other materials that may be offered at such sites. Nonetheless, the Company seeks to protect the integrity of its Site and the links placed upon it and therefore requests any feedback on not only its own Site, but for sites it links to as well (including if a specific link does not work).<b></b></p>
+<p><b>12. Trademarks</b><br>
+FirstEnergy trademarks on this Site, include without limitation:&nbsp; FirstEnergy®, Ohio Edison®, The Illuminating Company®, Toledo Edison®, Met-Ed®, Penelec®, Penn Power®, West Penn Power®, Jersey Central Power &amp; Light®, Mon Power® and Potomac Edison®. Nothing on this Site should be construed as granting, by implication, estoppel, or otherwise, any license or right to use any of our trademarks without our written permission. We aggressively enforce our intellectual property rights. Our trademarks may not be used in any way, including in advertising or publicity pertaining to distribution of materials on our Site, without prior written permission. You are not authorized to use our logo as a hyperlink to our Site unless you obtain our written permission in advance.</p>
+<p><b>13. Copyright</b><br>
+Copyright © 2019, FirstEnergy Corp. ALL RIGHTS RESERVED.</p>
+<p>All content included on this Site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is either the property of FE or its content suppliers and protected by United States and international copyright laws. The compilation of all content on this Site is the exclusive property of FE and protected by U.S. and international copyright laws. All software used on this Site is the property of FE or its software suppliers and protected by United States and international copyright laws.&nbsp; You agree not to change or delete any proprietary notices from materials printed or downloaded from the Site.</p>
+<p><b>14. Copyright Complaints</b><br>
+FirstEnergy respects the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please contact us at our <a href="https://www.firstenergycorp.com/content/fecorp/corporate/Contact_Centers.html">Contact Center</a>.</p>
+<p><b>15. No Investment Advice or Soliciting Offers<br>
+ </b>Nothing in this Site constitutes investment advice, including our SEC filings. We provide investor relations materials for your convenience and information only. In addition, investor relations materials and our other Site content are not offers to sell or solicitations of an offer to buy any security.</p>
+<p>All investors should know that there are &quot;ups&quot; and &quot;downs&quot; in every business and stock. There are no guarantees about the future performance of the stock market or our stock. Before you invest in any security, you can protect yourself by being an educated investor. If you are interested in FE stock, we recommend that, at a minimum, you read our latest annual report and Form 10-K, Form 10-Q and Form 8-K reports to the SEC over the past year. Our recent proxy statements for shareholder meetings also contain important information. It is also advisable to learn more about us and our industry through a variety of publicly available materials.</p>
+<p>Our recent annual reports, Form 10-K and Form 10-Q reports and other materials are accessible through this Site. Other materials we have filed with the SEC are available through its Site at http://www.sec.gov. You can also visit the SEC at its Washington or various regional offices for the same information or hire a document retrieval service to obtain the filings for you.</p>
+<p><b>16. Forward-Looking Information<br>
+ </b>Some of the statements on our Site, including those relating to projected future financial performance or events, are considered forward-looking statements within the meaning of the federal securities laws, specifically the Securities Litigation Reform Act of 1995. Forward-looking statements give our expectations or forecasts of future events. Sometimes these statements will use words such as &quot;anticipate,&quot; &quot;estimate,&quot; &quot;expect,&quot; &quot;project,&quot; “will,” &quot;intend,&quot; &quot;plan,&quot; &quot;believe,&quot; &quot;outlook,&quot; &quot;forecast,&quot; and other similar words. These statements are not guarantees of our future performance and are subject to risks, uncertainties and other important factors that could cause our actual performance to be materially different from those we project.</p>
+<p>Our actual results will be different due to the inherent nature of projections and may be better or worse than projected. Given these uncertainties, you should not rely on forward-looking statements. These forward-looking statements also represent our estimates and assumptions only as of the date that they initially were made. We expressly disclaim a duty to provide updates to any forward-looking statements, and the estimates and assumptions associated with them, to reflect events or circumstances or changes in expectations or the occurrence of anticipated events after the date they initially were made.</p>
+<p><b>17. Stock Information<br>
+ </b>We do not generate the information on the Stock Information &amp; Analyst Coverage page. We believe the information on the Stock Information &amp; Analyst Coverage page is accurate, but we cannot guarantee or warrant the accuracy, completeness, or timeliness of the information. You should not rely on such information for trading or investment purposes. We are not liable for any loss or damages, whether direct, indirect, incidental, special, consequential, or exemplary, that arise from reliance on information on the Stock Information &amp; Analyst Coverage page.</p>
+<p><b>18. Export Control</b><br>
+Software and other materials from this Site may be subject to United States Export Control. The United States Export Control laws prohibit the export of certain technical data and software to certain territories. No software from this Site may be downloaded or exported: into (or to a national or resident of) Cuba, Iraq, Libya, North Korea, Iran, Sudan, Syria, or any other country to which the United States has embargoed goods; or anyone on the United States Treasury Department's list of Specially Designated Nationals or the U.S. Commerce Department's Table of Deny Orders.</p>
+<p>The Company does not authorize the downloading or exportation of any software or technical data from this Site to any jurisdiction prohibited by the United States Export Control Laws.</p>
+<p><b>19. Law and Jurisdiction</b><br>
+These Terms of Use and your use of the Site are governed by the laws of the State of Ohio, without regard to its choice of law provisions. The courts of general jurisdiction located within the State of Ohio, will have exclusive jurisdiction over any and all disputes arising out of, relating to or concerning these Terms of Use and/or the Site or in which these Terms of Use and/or the Site are a material fact.</p>
+<p><b>20. Assignment<br>
+ </b>The Company may assign its rights and duties under these Terms of Use to any party at any time without notice to you.</p>
+<p><b>21. Questions and feedback</b><br>
+FirstEnergy welcomes your questions, comments, and concerns about this Site. Please send us any and all feedback pertaining to this Site to our <a href="https://www.firstenergycorp.com/content/fecorp/corporate/Contact_Centers.html">Contact Center</a>.<br>
+<br>
+</p>
+<p>&nbsp;</p>
+
+		</div>
+	</div>
+
+
+</div>
+
+			<div class="mainpar parsys">
+</div>
+
+		</div>
+	</div>
+</div>
+<div class="bottompar parsys">
+</div>
+
+
+
+        
+            </section>
+            <div class="row columns ">
+   				<div class="float-right small">
+
+
+
+
+
+
+
+
+
+<div class="hide-for-print" id="lastmodifieddate">
+Last Modified: October 23, 2019
+</div></div>
+            </div>
+
+            <div class="rfooteripar iparsys parsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="rfooteripar iparsys parsys"><div class="htmlsnippet section">
+
+
+
+
+
+
+
+
+
+
+<style>
+.main-submenu a[href$='.pdf'] {
+    background: none;
+}
+</style>
+</div>
+<div class="corporatefooter parbase section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<footer class="corporate-footer">
+	    <div class="inner">  
+	        <div class="footer-module logo show-for-large">
+	            <a href="/fehome.html"><img class="logo-footer" src="/content/dam/opcologos/footer/large/fe.png" alt="FirstEnergy"/></a>
+	        </div>
+	
+	        <div class="footer-module footer-links">
+				<p class="bold footer-title">Quick Links</p>
+				<ul>	
+	            
+					
+	               	<li><a href="/my_account.html">My Account</a></li>
+				
+					
+	               	<li><a href="/outages_help/Report_Power_Outages.html">Report An Outage</a></li>
+				
+					
+	               	<li><a href="/help/safety.html">Safety</a></li>
+				
+					
+	               	<li><a href="/help/saving_energy.html">Saving Energy</a></li>
+				
+					
+	               	<li><a href="/help/safety/scam-info.html">Scams & Fraud</a></li>
+				
+					
+						</ul><ul>
+					
+	               	<li><a href="/help/communication_tools.html">Mobile Tools</a></li>
+				
+					
+	               	<li><a href="/help.html">Help</a></li>
+				
+					
+	               	<li><a href="/corporate/site_map.html">Site Map</a></li>
+				
+					
+	               	<li><a href="/help/electric-vehicles.html">Electric Vehicles</a></li>
+				
+					
+	               	<li><a href="/newsroom.html">Newsroom</a></li>
+				
+				</ul>
+			</div>
+		
+			<div class="footer-module footer-companies">
+				<p class="bold footer-title">Electric Companies</p>
+				<ul>
+				
+					<li><a href="/ohio_edison.html">Ohio Edison</a></li>
+				
+					<li><a href="/illuminating_company.html">Illuminating Company</a></li>
+				
+					<li><a href="/toledo_edison.html">Toledo Edison</a></li>
+				
+					<li><a href="/met_edison.html">Met-Ed</a></li>
+				
+					<li><a href="/penelec.html">Penelec</a></li>
+				
+					<li><a href="/penn_power.html">Penn Power</a></li>
+				
+					<li><a href="/west_penn_power.html">West Penn Power</a></li>
+				
+					<li><a href="/jersey_central_power_light.html">JCP&L</a></li>
+				
+					<li><a href="/mon_power.html">Mon Power</a></li>
+				
+					<li><a href="/potomac_edison.html">Potomac Edison</a></li>
+				
+				</ul>
+			</div>
+	
+			<div class="footer-module social">
+				<p class="bold footer-title">Connect with us</p>
+				<ul>
+	                   <li><a href="http://www.twitter.com/firstenergycorp"><i class="fa fa-twitter-square socialLink"><p class="show-for-sr">Twitter</p></i></a></li>
+	                   <li><a href="http://www.facebook.com/firstenergyCareers"><i class="fa fa-facebook-square socialLink"><p class="show-for-sr">Face Book</p></i></a></li>
+	                   <li><a href="http://www.linkedin.com/company/firstenergy-corp"><i class="fa fa-linkedin-square socialLink"><p class="show-for-sr">Linked In</p></i></a></li>
+						<li><a href="https://www.youtube.com/user/FirstEnergyTV"><span class="fa-stack fa-lg ytsocial">
+		                       <i class="fa fa-square fa-stack-2x ytbox"><p class="show-for-sr">You Tube</p></i>
+		                       <i class="fa fa-youtube-play fa-stack-1x ytplaysocial"><p class="show-for-sr">You Tube</p></i>
+						</span></a></li>
+	                   <li><a href="http://www.flickr.com/photos/firstenergycorp/"><i class="fa fa-flickr socialLink"><p class="show-for-sr">Flicker</p></i></a></li>
+				</ul>
+			</div>
+	
+	        <div class="footer-module logo hide-for-large">
+	            <a href="/fehome.html"><img class="logo-footer" src="/content/dam/opcologos/footer/large/fe.png" alt="FirstEnergy"/></a>
+	        </div>
+		</div>
+	
+		<div class="inner">
+			<div class="fullWidth">
+	        	<p>Copyright&copy; 2024 FirstEnergy Corp. All Rights Reserved</p>
+	            <ul>
+					
+						<li><a href="/fehome.html"> FIRSTENERGYCORP.COM </a></li>
+					
+						<li><a href="/corporate/contact_us.html"> Contact Us </a></li>
+					
+						<li><a href="/careers.html"> Careers </a></li>
+					
+						<li><a href="/investor.html"> Investors </a></li>
+					
+						<li><a href="/newsroom.html"> Newsroom </a></li>
+					
+						<li><a href="https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/fscmUI/faces/FuseWelcome"> Empower </a></li>
+					
+						<li><a href="https://www.feretirees.com"> Retirees & Alumni </a></li>
+					
+						<li><a href="/corporate/privacy_legal_statement.html"> Privacy & Legal Statement </a></li>
+					
+						<li><a href="/corporate/website-terms.html"> Terms of Use </a></li>
+					
+				</ul>
+			</div>
+		</div>
+	</footer>
+	<!--end: corporate footer -->
+
+
+</div>
+</div>
+</div>
+</div>
+
+        </div>
+    </div>
+</div>
+
+	<!--vendor libraries -->
+
+	<script src="/apps/customer/docroot/js/vendor/jquery.min.js"></script>
+	<script src="/apps/customer/docroot/js/vendor/what-input.min.js"></script>
+	<script src="/apps/customer/docroot/js/vendor/foundation-6.7.5.min.js"></script>
+	<script src="/apps/customer/docroot/js/vendor/handlebars-v4.0.5.min.js"></script>
+	<script src="/apps/customer/docroot/js/vendor/jquery.faloading.min.js"></script>
+	<script src="/apps/customer/docroot/js/vendor/jquery.mask.min.js"></script>
+	<script src="/apps/customer/docroot/js/vendor/typeahead.bundle.min.js"></script>
+
+	<!-- DATEPICKER FILES -->
+	<script src="/apps/customer/docroot/js/vendor/moment-2.29.4.min.js"></script>
+	<script src="/apps/customer/docroot/js/vendor/foundation-datepicker.min.js"></script>
+	<link rel="stylesheet" href="/apps/customer/docroot/css/foundation-datepicker.min.css">
+    
+	<!-- CustomScrollbar JavaScript -->
+	<script src="/apps/customer/docroot/js/jquery.mCustomScrollbar.concat.min.js"></script>
+	<link rel="stylesheet" href="/apps/customer/docroot/css/jquery.mCustomScrollbar.min.css"/>
+
+
+	<!-- First Energy custom script files -->
+	<script src="/apps/customer/docroot/js/app.all.min.js"></script>
+
+	<div class="jsincludes javascriptincludes">
+
+
+
+
+
+
+
+
+
+</div>
+
+	
+	<!-- ClientLib -->
+	
+	
+</body>
+</html>

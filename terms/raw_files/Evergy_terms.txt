@@ -1,0 +1,1087 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Terms and Conditions - Evergy</title>
+<meta property="og:site_name" content="everg.com" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Terms and Conditions" />
+<meta property="og:description" content="Evergy Terms and Conditions" />
+<meta property="og:url" content="https://www.evergy.com/terms-and-conditions" />
+    <link rel="canonical" href="https://www.evergy.com/terms-and-conditions" />
+<meta name="keywords" content="Terms and Conditions" />
+<meta name="description" content="Terms and Conditions" />
+<meta http-equiv="content-language" content="en" />
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<meta http-equiv="last-modified" content="2023-10-03@20:54:00 Z" />
+
+    
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <link rel="shortcut icon" href="/evergy-favicon.ico" type="image/x-icon">
+        <!-- Start SiteRawScripts -->
+<script type="text/javascript">
+    var _elqQ = _elqQ || [];
+    _elqQ.push(['elqSetSiteId', '1739717246']);
+    _elqQ.push(['elqUseFirstPartyCookie', 'tracking.evergy.com']);
+    _elqQ.push(['elqTrackPageView']);
+    
+    (function () {
+        function async_load() {
+            var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+            s.src = '//img04.en25.com/i/elqCfg.min.js';
+            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        }
+        if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+        else if (window.attachEvent) window.attachEvent('onload', async_load); 
+    })();
+
+//BEGIN Sitecore CDP
+
+function isWebView(userAgent) {
+  return /webview|wv|ip((?!.*Safari)|(?=.*like Safari))/i.test(userAgent)
+}
+
+// Initialize the engage variable
+var engage = undefined;
+
+// Create and inject the <script> tag into the HTML
+var s = document.createElement("script");
+s.type = "text/javascript";
+s.async = true;
+s.src = "https://d1mj578wat5n4o.cloudfront.net/sitecore-engage-v.1.4.0.min.js";
+var x = document.querySelector("script");
+x.parentNode.insertBefore(s, x);    
+
+// Initialize the Engage SDK
+s.addEventListener("load", async () => {
+    var settings = {        
+		clientKey: "77c6b08e47b988d13c05ddf9b0d3f826",
+        targetURL: "https://api-engage-us.sitecorecloud.io",
+		pointOfSale: "Evergy",		
+        cookieExpiryDays: 365,
+        forceServerCookieMode: false,
+        includeUTMParameters: true,
+        webPersonalization: true
+    };
+    engage = await window.Engage.init(settings);
+
+	var event = {
+		channel: "WEB",
+		language: "en",
+		currency: "USD",
+		page: window.location.pathname + window.location.search
+	};
+	
+	//Check UTM Parameters
+	const urlParams = new URLSearchParams(window.location.search);
+	const utmSource = urlParams.get('utm_source');
+	const utmMedium = urlParams.get('utm_medium');
+	const utmCampaign = urlParams.get('utm_campaign');
+	const utmTerm = urlParams.get('utm_term');
+	if(utmSource != null && utmMedium != null && utmCampaign != null)
+	{		
+		event.utm_source = utmSource;
+		event.utm_medium = utmMedium;
+		event.utm_campaign = utmCampaign;
+		
+		if(utmTerm != null)
+		{
+			event.utm_term = utmTerm;
+		}
+	}
+	
+	if(!isWebView()){
+		// Send VIEW event
+		engage.event("VIEW", event);
+	}
+});
+
+//END Sitecore CDP
+</script>    <!-- End SiteRawScripts -->
+    <!-- Start ThemeResources -->
+<link rel="stylesheet" type="text/css" href="/Content/EVERGY/css/evergy-global.css" />
+<script>	document.documentElement.className += ' js';	document.createElement('picture');</script><script src="/Scripts/EVERGY/polyfills/picturefill.js" async></script>    <!-- End ThemeResources -->
+
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({event:'ev.gtmChanged',gtmData:{division:'',territory:'',customerType:'R'}});
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TZG79SK');</script>
+<!-- End Google Tag Manager -->    
+<meta name="VIcurrentDateTime" content="638634388699943800" />
+<meta name="VirtualFolder" content="/" />
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+</head>
+<body class="site--EVERGY">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZG79SK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->    
+    <div class="page">
+        
+
+<header id="header" class="header js-header">
+    <div class="utility-nav js-utility-nav" role="navigation" id="utility-nav">
+    <div class="utility-nav__inner-wrapper">
+        <div class="utility-nav__section">
+    <button class="nav-button utility-nav__item utility-nav__item--has-icon icon-location-pin js-gtm-toggle">
+Select Your Location
+</button>
+
+<div class="gtm-nav gtm-nav--desktop is-hidden js-gtm-nav js-gtm-desktop">
+    <div class="gtm-nav__container page-width js-gtm-container-desktop">
+        <button aria-label="Close" class="icon icon-close icon-button js-gtm-toggle"></button>
+        <section class="gtm"
+                 data-gtm data-outside-service-msg="This ZIP code is outside our service area."
+                 data-required-msg="Please enter a ZIP code."
+                 data-invalid-msg="Please enter a valid ZIP code."
+                 data-no-results-msg="No matching results. Please check your address and try again, or use the map.">
+            <div class="gtm-headers-container">
+                <h1 class="gtm__pre-header">
+                    <span class="icon icon-location-pin"></span>
+                    Select Your Location
+                </h1>
+                <h2 class="gtm__headline">
+                    Where do you receive your service?
+                </h2>
+                <p class="gtm__subhead">
+                    Knowing where your account is located will help us serve you better.
+                </p>
+            </div>
+            <div class="gtm-content">
+                <div class="gtm-content__item">
+                    <form class="gtm__form js-gtm-form" novalidate="true">
+                        <div class="field  field--icon">
+                            <label for="gtm-zipcode" class="field__label ">
+                                Zip code
+                            </label>
+                            <input type="text" name="gtm-zipcode" id="gtm-zipcode" class="input input--small js-zipcode-input "
+                                   value="" maxlength="5" autocomplete="off" pattern="\d*" data-territory="" data-division="" />
+                            <span class="icon "></span>
+                            <div class="field__message js-field-message"></div>
+                        </div>
+                        <div class="field">
+                            <label for="division" class="field__label is-vishidden">division</label>
+                            <input type="hidden" name="division" id="division" class="input js-division">
+                        </div>
+                        <div class="field  field--icon address-field js-address-field is-hidden">
+                            <label for="gtm-address" class="field__label ">
+                                Please enter your address
+                            </label>
+                            <input type="text" name="gtm-address" id="gtm-address" class="input address-input js-gtm-address "
+                                   value="" autocomplete="off" data-autocomplete-api="&#x2F;api&#x2F;premise&#x2F;search" />
+                            <span class="icon "></span>
+                            <div class="field__message js-field-message"></div>
+                        </div>
+                        <button class="button js-gtm-submit" type="submit">Submit</button>
+                    </form>
+                </div>
+                <div class="gtm__divider-container">
+                    <div class="gtm__divider"></div>
+                    <div class="gtm__text-wrapper">
+                        <span class="gtm__divider-text">OR</span>
+                    </div>
+                </div>
+                <div class="gtm-map gtm-content__item js-gtm-map">
+                    <div class="gtm-map-container js-map-container"
+                         data-image-large="/Content/EVERGY/images/map/map-lg.svg"
+                         data-image-small="/Content/EVERGY/images/map/map-sm.svg">
+                    </div>
+                    <div class="gtm-territory-container">
+                        <fieldset class="field  ">
+                            <legend class="field__label is-vishidden">
+                                Evergy Territories
+                            </legend>
+                            <ul class="input-list">
+                                <li class="input-list__item input-list__item--kc" data-territory="KC">
+                                    <input type="radio"
+                                           class="is-vishidden"
+                                           name="ks-central"
+                                           id="kansas-central-radio"
+                                           value="KC" />
+                                    <label for="kansas-central-radio"
+                                           class="label label--inline "
+                                           data-text-mobile="KS Central"
+                                           data-text-desktop="Kansas Central">
+                                        Kansas Central
+                                    </label>
+                                </li>
+                                <li class="input-list__item input-list__item--mm" data-territory="MM">
+                                    <input type="radio"
+                                           class="is-vishidden"
+                                           name="mo-metro"
+                                           id="missouri-metro-radio"
+                                           value="MM" />
+                                    <label for="missouri-metro-radio"
+                                           class="label label--inline "
+                                           data-text-mobile="MO Metro"
+                                           data-text-desktop="Missouri Metro">
+                                        Missouri Metro
+                                    </label>
+                                </li>
+                                <li class="input-list__item input-list__item--km" data-territory="KM">
+                                    <input type="radio"
+                                           class="is-vishidden"
+                                           name="ks-metro"
+                                           id="kansas-metro-radio"
+                                           value="KM" />
+                                    <label for="kansas-metro-radio"
+                                           class="label label--inline "
+                                           data-text-mobile="KS Metro"
+                                           data-text-desktop="Kansas Metro">
+                                        Kansas Metro
+                                    </label>
+                                </li>
+                                <li class="input-list__item input-list__item--mw" data-territory="MW">
+                                    <input type="radio"
+                                           class="is-vishidden"
+                                           name="mo-west"
+                                           id="missouri-west-radio"
+                                           value="MW" />
+                                    <label for="missouri-west-radio"
+                                           class="label label--inline "
+                                           data-text-mobile="MO West"
+                                           data-text-desktop="Missouri West">
+                                        Missouri West
+                                    </label>
+                                </li>
+                            </ul>
+                        </fieldset>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+<div class="account-info__selection">
+    <div class="account-info__selection-group">
+        <input type="radio"
+               class="account-info__selection-input is-vishidden"
+               id="residential"
+               name="account-type"
+               value="residential"
+                checked>
+        <label class="account-info__selection-label" for="residential">Residential</label>
+    </div>
+    <div class="account-info__selection-group">
+        <input type="radio"
+               class="account-info__selection-input is-vishidden"
+               id="business"
+               name="account-type"
+               value="business"
+               >
+        <label class="account-info__selection-label" for="business">Business</label>
+    </div>
+</div>    
+</div><div class="utility-nav__section">
+    <div class="search-container">
+    <button class="nav-button search-toggler js-search-toggler utility-nav__item  utility-nav__item--has-icon icon-search">
+        Search
+    </button>
+    <form id="search-form" class="search-form is-hidden" action="/search" method="post">
+        <input autocomplete="off" name="q" id="search-input" type="search" class="input search-form__input" placeholder="Search entry" data-autocomplete data-autocomplete-api="/sc-api/sitesearch"/>
+        <button type="submit" id="search-button" class="button header-search__button button--secondary">
+            Search
+        </button>
+        <span class="icon spinner--loading is-hidden"></span>
+    </form>
+</div><nav class="utility-nav__link-list">
+    <ul class="nav-link-container">
+        <li class="utility-nav__link-list-item">
+    <a class="nav-button utility-nav__item utility-nav__item--has-icon icon-phone-horizontal" href="https://www.evergy.com/bounce-pages/contact-us">Contact Us</a>
+</li><li class="utility-nav__link-list-item">
+    <a class="nav-button utility-nav__item utility-nav__item--has-icon icon-moving-truck" href="/services/moving">Moving</a>
+</li><li class="utility-nav__link-list-item">
+    
+</li>
+    </ul>
+</nav>    <div class="login login--toggle-container ">
+        <button class="login-toggle nav-button utility-nav__item utility-nav__item--has-icon icon-user content-toggler__toggle">
+            Sign In
+        </button>
+        <div class="login__popup-container content-toggler__content is-hidden">
+            <form class="login-form header-login-form" method="post" action="/log-in" data-loading-form>
+                <input name="evrgaf" type="hidden" value="jf6DsMSyVPYZBlKzJFTRPsl1aEjkfx9PFi2qjqKK7PVDSVBwQs4Z9pWqYFpt8w0fP3Kg5BOjlR4-U3FVL3Npp0U0_bVRr1PB-oXjO1Fmq_A1" />
+                <fieldset>
+                    <legend class="is-vishidden"></legend>
+                    <legend class="login-form__title">My Account</legend>
+                    <div class="field  ">
+                        <label for="username" class="field__label ">Username</label>
+                        <input type="text" name="username" id="username" class="input login-form__input " required value="" data-cs-mask=""/>
+                        <div class="field__message js-field-message"></div>
+                    </div>
+                    <div class="field  ">
+                        <label for="password" class="field__label ">Password</label>
+                        <input type="password" name="password" id="password" class="input login-form__input " required value="" data-cs-mask="" />
+                        <div class="field__message js-field-message"></div>
+                    </div>
+                    <div class="field login-form__remember-me-field ">
+                        <input type="checkbox" name="remember-me" id="remember-me" value="true" />
+                        <label for="remember-me" class="label--inline">Remember Me</label>
+                    </div>
+                    <button type="submit" class="green-button button--login-form-pod" data-loading-element>Sign In</button>
+                    <span class="icon spinner--loading is-hidden" data-spinner-element></span>
+                    <div class="login-form__register">
+                        <a href="https://www.evergy.com/registration">Register</a>
+                        <a href="https://www.evergy.com/recovery">Recovery</a>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+    
+</div>
+    </div>
+</div>
+
+<aside class="gtm-success-banner-container is-hidden" data-module="components/gtm/gtmCustomerTypeBanner">
+    <div class="gtm-success-banner">
+        <div class="gtm-success-banner__text-container">
+            <i class="icon icon-check"></i>
+            <p class="gtm-success-banner__text">
+                Thank you! Our website has now been customized to show Residential content.
+            </p>
+            <button class="bare-button icon icon-close js-banner-close"></button>
+        </div>
+    </div>
+</aside>
+
+
+<aside class="gtm-success-banner-container is-hidden" data-module="components/gtm/gtmSuccessBanner">
+    <div class="gtm-success-banner">
+        <div class="gtm-success-banner__text-container">
+            <i class="icon icon-check"></i>
+            <p class="gtm-success-banner__text">
+                Thank you! Our website has now been customized for your account location.
+            </p>
+            <button class="bare-button icon icon-close js-banner-close"></button>
+        </div>
+    </div>
+</aside>
+
+
+<!--
+ UI:  Need to duplicate the aside section above (GTM SuccessMessage) for handling the Success Message when the Customer Type changes.  Please use "custType" as the querystring parameter for this.
+    This is the varible for the message
+    Thank you! Our website has now been customized to show Residential content.
+-->
+
+
+<nav class="primary-nav box-shadow--bottom" role="menu" aria-label="Evergy">
+    <div class="primary-nav__inner-container">
+        <div class="primary-nav__section">
+            <a href="/" class="logo-link">
+                <picture class="logo">
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source srcset="/Content/EVERGY/images/logo.png" media="(min-width: 25em)">
+                    <source srcset="/Content/EVERGY/images/logo-sm.png" media="(max-width: 24.99em)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img class="logo-image" srcset="/Content/EVERGY/images/mobile-header-logo.jpg" alt="">
+                </picture>
+            </a>
+        </div>
+
+        <div class="primary-nav__section">
+                <ul class="primary-nav__container" role="menubar">
+                        <li class="primary-nav__list-section">
+                            <button class="primary-nav__item" role="menuitem" aria-haspopup="true" aria-expanded="false">Manage Account</button>
+        <div class="primary-nav__sub-item-list">
+            <ul class="primary-nav__sub-item-wrapper" role="menu">
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header primary-nav__sub-item-has-icon">
+                                <a class="primary-nav__sub-item-link" href="https://www.evergy.com/manage-account/my-account">My Account</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">View your online account, bill, preferences and more</p>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header primary-nav__sub-item-has-icon">
+                                <a class="primary-nav__sub-item-link" href="/manage-account/energy-analyzer">Energy Analyzer</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">Monitor and take control of your energy usage with ease online</p>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/manage-account/billing">Billing</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">Find detailed billing, payment or financial options</p>
+                            <ul class="primary-nav__link-list">
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/manage-account/billing-link/financial-help" role="menuitem" class="primary-nav__link">Financial Help</a>
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/manage-account/rate-information">Rate Information</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">View rate options and general regulation or tariff information</p>
+                            <ul class="primary-nav__link-list">
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/manage-account/rate-information-link/energy-value" role="menuitem" class="primary-nav__link">Rate Review</a>
+                                    </li>
+                            </ul>
+                    </li>
+            </ul>
+        </div>
+                        </li>
+                        <li class="primary-nav__list-section">
+                            <button class="primary-nav__item" role="menuitem" aria-haspopup="true" aria-expanded="false">Outages</button>
+        <div class="primary-nav__sub-item-list">
+            <ul class="primary-nav__sub-item-wrapper" role="menu">
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/report-outage">Report an Outage</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description"></p>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/Outages/Outage-Map">Outage Map</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">View the outage map, updates or a map walk-through</p>
+                            <ul class="primary-nav__link-list">
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/outages/outage-map-link/outage-alerts" role="menuitem" class="primary-nav__link">Outage Alerts</a>
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/outages/understanding-outages">Understanding Outages</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">Learn more about outages and how you can prepare</p>
+                            <ul class="primary-nav__link-list">
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/outages/understanding-outages-link/preparing-for-outages" role="menuitem" class="primary-nav__link">Preparing for Outages</a>
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/outages/safety">Safety</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">Know how to stay safe in severe weather and see how we prepare</p>
+                            <ul class="primary-nav__link-list">
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/outages/safety-link/medical-customer-program" role="menuitem" class="primary-nav__link">Medical Customer Program</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/outages/safety-link/tree-trimming-guidelines" role="menuitem" class="primary-nav__link">Tree Trimming</a>
+                                    </li>
+                            </ul>
+                    </li>
+            </ul>
+        </div>
+                        </li>
+                        <li class="primary-nav__list-section">
+                            <button class="primary-nav__item" role="menuitem" aria-haspopup="true" aria-expanded="false">Ways to Save</button>
+        <div class="primary-nav__sub-item-list">
+            <ul class="primary-nav__sub-item-wrapper" role="menu">
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/ways-to-save/discounts">Discounts</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">Get discounts when you make energy-efficient updates</p>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/ways-to-save/resources">Resources</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">Find simple, effortless ways you can save energy</p>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/Ways to Save/Programs">Programs</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">Utilize energy efficiency and protection programs to save</p>
+                    </li>
+            </ul>
+        </div>
+                        </li>
+                        <li class="primary-nav__list-section">
+                            <button class="primary-nav__item" role="menuitem" aria-haspopup="true" aria-expanded="false">Smart Energy</button>
+        <div class="primary-nav__sub-item-list">
+            <ul class="primary-nav__sub-item-wrapper" role="menu">
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/Smart-Energy/Renewable-Resources">Renewable Resources</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">There are more options than ever to support clean energy</p>
+                            <ul class="primary-nav__link-list">
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/renewable-resources-link/subscription-programs" role="menuitem" class="primary-nav__link">Subscription Programs</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/renewable-resources-link/private-solar-and-net-metering" role="menuitem" class="primary-nav__link">Private Solar and Net Metering</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/renewable-resources-link/our-energy-mix" role="menuitem" class="primary-nav__link">Our Energy Mix</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/renewable-resources-link/clean-charge-network" role="menuitem" class="primary-nav__link">Clean Charge Network</a>
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/smart-energy/energy-information">Energy Information</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">Get detailed information you need to make smart energy choices</p>
+                            <ul class="primary-nav__link-list">
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/energy-information-link/energy-efficiency" role="menuitem" class="primary-nav__link">Energy Efficiency</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/energy-information-link/energy-delivery" role="menuitem" class="primary-nav__link">Energy Delivery</a>
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav__sub-item">
+                            <h2 class="primary-nav__sub-item-header">
+                                <a class="primary-nav__sub-item-link" href="/smart-energy/environmental-impact">Environmental Impact</a>
+                            </h2>
+
+                        <p class="primary-nav__sub-item-description">Learn more about how we support the environment and clean energy</p>
+                            <ul class="primary-nav__link-list">
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/environmental-impact-link/affordability-hub" role="menuitem" class="primary-nav__link">Affordability Hub</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/environmental-impact-link/reliability-hub" role="menuitem" class="primary-nav__link">Reliability Hub</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/environmental-impact-link/sustainability-hub" role="menuitem" class="primary-nav__link">Sustainability Hub</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/environmental-impact-link/green-team" role="menuitem" class="primary-nav__link">Green Team</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/environmental-impact-link/habitats-and-havens" role="menuitem" class="primary-nav__link">Habitats and Havens</a>
+                                    </li>
+                                    <li class="primary-nav__link-list-item">
+                                        <a href="/smart-energy/environmental-impact-link/avian-protection-program" role="menuitem" class="primary-nav__link">Avian Protection Program</a>
+                                    </li>
+                            </ul>
+                    </li>
+            </ul>
+        </div>
+                        </li>
+                </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="mobile-nav-outer-container">
+    <div class="mobile-nav-header">
+            <button id="nav-toggle" class="icon bare-button mobile-toggle">
+                Menu
+            </button>
+        <a href="/" class="logo-link">
+            <picture class="logo">
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+                <source srcset="/Content/EVERGY/images/logo.png" media="(min-width: 25em)">
+                <source srcset="/Content/EVERGY/images/logo-sm.png" media="(max-width: 24.99em)">
+                <!--[if IE 9]></video><![endif]-->
+                <img class="logo-image" srcset="/Content/EVERGY/images/mobile-header-logo.jpg" alt="">
+            </picture>
+        </a>
+            <div class="login login--mobile login--toggle-container ">
+                    <button class="login-toggle mobile-login-toggle has-icon has-icon--no-margin icon-user">
+                        <span class="button-text ellipsis-overflow">Sign In</span>
+                    </button>
+                    <div class="login__popup-container is-hidden content-toggler__content">
+                        <form class="login-form header-login-form login-form--mobile" method="post" action="/log-in" data-loading-form>
+                            <input name="evrgaf" type="hidden" value="qUHXZIvnjHDqI7xkUOD4pnPqbAvw2VwQ71JLYpwrRd8OIoP3uKtklr-Zw4i4ImJW1WBkZi6ccpu02cK8Cm6Ab2-LjzprQPHTvRyGrys7MIY1" />
+                            <fieldset>
+                                <legend class="is-vishidden">Log In to Pay Bill and Manage Your Account</legend>
+                                <legend class="login-form__title">My Account</legend>
+                                <div class="field  ">
+                                    <label for="username-mobile" class="field__label ">Username</label>
+                                    <input type="text" name="username" id="username-mobile" class="input login-form__input " required  data-cs-mask/>
+                                </div>
+                                <div class="field  ">
+                                    <label for="password-mobile" class="field__label ">Password</label>
+                                    <input type="password" name="password" id="password-mobile" class="input login-form__input " required  data-cs-mask/>
+                                </div>
+                                <div class="field login-form__remember-me-field ">
+                                    <input type="checkbox" name="remember-me" id="remember-me-mobile" value="true" />
+                                    <label for="remember-me-mobile" class="label--inline">Remember Me</label>
+                                </div>
+                                <button type="submit" class="green-button button--login-form-pod" data-loading-element>Log In</button>
+                                <span class="icon spinner--loading is-hidden" data-spinner-element></span>
+                                <div class="login-form__register">
+                                    <a href="https://www.evergy.com/registration">Register</a>
+                                    <a href="https://www.evergy.com/recovery">Can&#39;t Sign In?</a>
+                                </div>
+                            </fieldset>
+                        </form>
+                    </div>
+
+            </div>
+    </div>
+    <nav class="mobile-nav is-hidden">
+        <div class="mobile-nav__account-info">
+            <div class="mobile-nav__account-info-container">
+                <button class="bare-button bare-button--blue-text mobile-nav__item icon-location-pin has-icon mobile-nav__gtm-toggle plus-icon js-gtm-toggle">
+                    Select Your Location
+                </button>
+                <div class="gtm-nav gtm-nav--mobile is-hidden js-gtm-nav">
+                    <div class="gtm-nav__container js-gtm-container-mobile"></div>
+                </div>
+            </div>
+
+            <div class="account-info__selection--mobile">
+                <form class="account-info__selection-form">
+                    <div class="account-info__selection-group">
+                        <input type="radio" class="account-info__selection-input is-vishidden" id="residential-mobile" name="account-type" value="residential" checked>
+                        <label class="account-info__selection-label" for="residential-mobile">Residential</label>
+                    </div>
+                    <div class="account-info__selection-group">
+                        <input type="radio" class="account-info__selection-input is-vishidden" id="business-mobile" name="account-type" value="business" >
+                        <label class="account-info__selection-label" for="business-mobile">Business</label>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <nav class="mobile-nav__primary-link-container">
+            <ul class="mobile-nav__container">
+                        <li class="mobile-nav__list-section">
+                            <button class="bare-button bare-button--white-text mobile-nav__item mobile-nav__button">
+                                Manage Account
+                                <i class="plus-icon"></i>
+                            </button>
+        <ul class="mobile-nav__sub-item-list">
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link primary-nav__sub-item-has-icon" href="https://www.evergy.com/manage-account/my-account">My Account</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link primary-nav__sub-item-has-icon" href="/manage-account/energy-analyzer">Energy Analyzer</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/manage-account/billing">Billing</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/manage-account/rate-information">Rate Information</a>
+                </li>
+        </ul>
+                        </li>
+                        <li class="mobile-nav__list-section">
+                            <button class="bare-button bare-button--white-text mobile-nav__item mobile-nav__button">
+                                Outages
+                                <i class="plus-icon"></i>
+                            </button>
+        <ul class="mobile-nav__sub-item-list">
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/report-outage">Report an Outage</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/Outages/Outage-Map">Outage Map</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/outages/understanding-outages">Understanding Outages</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/outages/safety">Safety</a>
+                </li>
+        </ul>
+                        </li>
+                        <li class="mobile-nav__list-section">
+                            <button class="bare-button bare-button--white-text mobile-nav__item mobile-nav__button">
+                                Ways to Save
+                                <i class="plus-icon"></i>
+                            </button>
+        <ul class="mobile-nav__sub-item-list">
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/ways-to-save/discounts">Discounts</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/ways-to-save/resources">Resources</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/Ways to Save/Programs">Programs</a>
+                </li>
+        </ul>
+                        </li>
+                        <li class="mobile-nav__list-section">
+                            <button class="bare-button bare-button--white-text mobile-nav__item mobile-nav__button">
+                                Smart Energy
+                                <i class="plus-icon"></i>
+                            </button>
+        <ul class="mobile-nav__sub-item-list">
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/Smart-Energy/Renewable-Resources">Renewable Resources</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/smart-energy/energy-information">Energy Information</a>
+                </li>
+                <li class="mobile-nav__sub-item">
+                    <a class="mobile-nav__sub-item-link" href="/smart-energy/environmental-impact">Environmental Impact</a>
+                </li>
+        </ul>
+                        </li>
+            </ul>
+        </nav>
+
+        <div class="mobile-nav__search-container">
+            <button class="mobile-nav__item mobile-search-toggler js-search-toggler-mobile has-icon icon-search">Search</button>
+            <form id="search-form" class="search-form is-hidden" action="/search" method="get">
+                <input autocomplete="off" name="q" id="search-input" type="search" placeholder="Search" class="input search-form__input" data-autocomplete data-autocomplete-api="/sc-api/sitesearch" />
+                <button type="submit" id="search-button" class="button header-search__button button--secondary">search</button>
+                <span class="icon spinner--loading is-hidden"></span>
+            </form>
+        </div>
+
+        <nav>
+            <ul class="mobile-nav__link-list">
+                <li class="mobile-nav__link-container">
+                    <a class="mobile-nav__link-list-item icon icon-phone-horizontal" href="/contact-us">Contact Us</a>
+                </li>
+                <li class="mobile-nav__link-container">
+                    <a class="mobile-nav__link-list-item icon icon-moving-truck" href="/services/moving">Moving</a>
+                </li>
+            </ul>
+        </nav>
+    </nav>
+</div>
+</header>
+
+        
+
+    <nav class="breadcrumbs" aria-label="Breadcumb">
+        <ol class="breadcrumbs__list page-width">
+                        <li class="breadcrumbs__item active"><a href="/" class="breadcrumb__link">Home</a></li>
+                        <li class="breadcrumbs__item active">Terms and Conditions</li>
+        </ol>
+    </nav>
+
+
+<div class="page-width col-wrap content-wrap">
+	<main class="main col col--full">
+    	<h1 class="page-title">Terms and Conditions</h1>
+<div class="content-panel wysiwyg content-panel--white ">
+    <div class="page-width">
+        <p><em>Terms Revised: September 5, 2019</em></p>
+<p><strong>PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING THIS WEBSITE AND RELATED SYSTEMS AND APPLICATIONS.<br>
+</strong><br>
+<strong><em>Terms of use<br>
+</em></strong><br>
+These Terms and Conditions apply to your use of these Websites and related systems and applications owned by Evergy, Inc. and its subsidiaries and affiliates ("Evergy") collectively “Websites” or “Sites”. By accessing or using, you agree to be bound by all of the Terms and Conditions set forth within. Evergy and business partners provide the information and services on these Websites to you, the user, conditioned on your acceptance without modification of the terms, conditions and notices contained herein.&nbsp; Your use of these Websites constitutes your agreement to all such terms, conditions, and notices.&nbsp; THESE TERMS AND CONDITIONS APPLY TO BOTH CUSTOMERS AND NON-CUSTOMERS OF EVERGY PRODUCTS AND SERVICES.<br>
+<br>
+The information and services offered on these Sites are provided with the understanding that neither Evergy, nor its business partners or users, are engaged in rendering legal services or other such advice. Your use of these Websites is subject to the additional disclaimers, caveats, and terms that may appear throughout the Sites.&nbsp; We are not providing investment advice through these Sites, and the material on these Sites should not be regarded as an offer to sell, or a solicitation of an offer to buy, any securities of Evergy.<br>
+<br>
+If you do not accept these Terms and Conditions, please do not use these Websites. Evergy may, in its sole discretion, revise these Terms and Conditions at any time; therefore, it is recommended that you visit this page periodically to review the Terms and Conditions.&nbsp;<br>
+<br>
+Evergy and agents assume no responsibility for any consequence relating directly or indirectly to any action or inaction that you take based on the information, services, or other material on this Site.&nbsp; While Evergy strives to keep the information on this Site accurate, complete and up-to-date, Evergy and business partners cannot guarantee, and will not be responsible for any damage or loss related to, the accuracy, completeness, or timeliness of the information.<br>
+<br>
+<em><strong>Use of Site Content</strong></em><br>
+<br>
+The contents of these Websites, such as text, graphics, images and other materials ("content") are protected by copyright under both United States and foreign laws. Evergy authorizes you to view and download a single copy of the content for your personal use. Unauthorized use of the content violates copyright, trademark, and other laws. You agree to retain all copyright and other proprietary notices contained in the original content on any copy you make of such material. You may not sell or modify our content or reproduce, display, distribute, or otherwise use the content in any way for any public or commercial purpose. Use of the content on any other Website is prohibited. You may not use these Websites for the purpose of competing with Evergy.&nbsp;<br>
+<br>
+The foregoing prohibition expressly includes, but is not limited to, the practices of “screen scraping” or “database scraping” to obtain lists of users or other information.&nbsp; If and when requested by Evergy, you agree to provide true, accurate, and complete user information. You agree to refrain from impersonating or falsely representing your affiliation with any person or entity.&nbsp; Except with the written permission of Evergy, you agree to refrain from accessing or attempting to access password protected, secure or non-public areas of these Sites.&nbsp; Unauthorized individuals attempting to access prohibited areas of these Sites may be subject to prosecution.<br>
+<br>
+You may not, without the prior written permission of Evergy, use any computer code, data mining software, “robot”, “bot”, “spider”, “scraper” or other automatic device, or program, algorithm or methodology having similar processes or functionality, or any manual process, to monitor or copy any of the Web pages, data or content found on or accessed through these Sites.<br>
+<br>
+<em><strong>Trademarks</strong></em><br>
+<br>
+The names, logos and marks appearing in these Sites are trademarks or service marks owned by or licensed to Evergy, unless otherwise noted. The use of these marks is prohibited without the prior written consent of Evergy.<br>
+<br>
+<em><strong>Proprietary rights</strong></em><span style="text-decoration: underline;"><em><strong><br>
+</strong></em></span><br>
+All materials on these Sites (as well as the organization and layout of the Site) are owned and copyrighted, licensed by, and used with permission by Evergy and business partners.&nbsp; No reproduction, distribution, or transmission of the copyrighted materials at these Sites is permitted without the prior written permission of Evergy.<br>
+<br>
+<em><strong>Your account</strong></em><br>
+<br>
+If you use these Sites and the services offered, you are responsible for maintaining the confidentiality of your account ID and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account using your password.&nbsp; If your status as a user of a Site is terminated, you will immediately cease using the Site.<br>
+<br>
+<em><strong>No unlawful or prohibited use</strong></em><br>
+<br>
+As a condition of your use of these Sites and the services offered, you warrant to Evergy that you will not use these Sites for any purpose that is unlawful or prohibited by these terms.&nbsp; If you violate any of these terms, your permission to use the Site automatically terminates. Further, Evergy reserves the right to seek all remedies available at law or in equity for violations of these Terms and Conditions, including the right to block access to a Website.<br>
+<br>
+You are prohibited from posting or transmitting any unlawful, threatening, libelous, defamatory, obscene, pornographic or any material that could constitute or encourage conduct that would be considered a criminal offense, give rise to civil liability, or otherwise violate any law.<br>
+<br>
+You may not use these Websites in any manner which could damage, disable, overburden, or impair the Website or interfere with any other party’s use and enjoyment of these Websites.<br>
+<br>
+Access to and use of password protected and/or secure areas of a Website is restricted to authorized users only. Unauthorized individuals attempting to access these areas of these Websites may be subject to prosecution.<br>
+<br>
+<em><strong>Disclaimer of warranties</strong></em><br>
+<br>
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT:<br>
+<br>
+(a)&nbsp; &nbsp; &nbsp; &nbsp; YOUR USE OF THESE SITES AND THE SERVICE OFFERED AT THESE SITES IS AT YOUR SOLE RISK.&nbsp; THESE SITES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.&nbsp; EVERGY EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.<br>
+<br>
+(b)&nbsp; &nbsp; &nbsp; &nbsp; EVERGY MAKES NO WARRANTY THAT (i) THESE SITES OR SERVICES WILL MEET YOUR REQUIREMENTS, (ii) THESE SITES OR SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THESE SITES OR THE SERVICES WILL BE ACCURATE OR RELIABLE, OR (iv) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL OBTAINED BY YOU THROUGH THESE SITES WILL MEET YOUR EXPECTATIONS.<br>
+<br>
+(c)&nbsp; &nbsp; &nbsp; &nbsp; ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THESE SITES IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.<br>
+<br>
+(d)&nbsp; &nbsp; &nbsp; &nbsp;NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM EVERGY OR THROUGH OR FROM THESE SITES OR ANY SERVICE OFFERED THEREAT SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THIS TERMS AND CONDITIONS.<br>
+<br>
+(e)&nbsp; &nbsp; &nbsp; &nbsp; EVERGY MAKES NO WARRANTY AS TO SERVICES OR PRODUCTS THAT YOU RECEIVE FROM THIRD PARTY PROVIDERS WHO MAY PARTNER WITH EVERGY TO PROVIDE YOU WITH THE OPPORTUNITY TO OBTAIN THEIR SERVICES OR PRODUCTS.<br>
+<br>
+<em><strong>Limitation of liability</strong></em><br>
+<br>
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT EVERGY SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF EVERGY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM: (i) THE USE OR THE INABILITY TO USE THESE SITES OR SERVICES; (ii) THE COST OF PROCUREMENT OF SUBSTITUTE GOODS AND SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR SERVICES PURCHASED OR OBTAINED OR MESSAGES RECEIVED OR TRANSACTIONS ENTERED INTO ON THESE SITES OR THROUGH OR FROM THE SERVICE; (iii) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (iv) STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON THE SERVICE ; (v)&nbsp; THIRD PARTY SERVICE PROVIDERS; OR (vi) ANY OTHER MATTER RELATING TO THESE SITES OR THE SERVICES.<br>
+<br>
+<em><strong>Links</strong></em><br>
+<br>
+These Websites contains links to websites owned by third parties. These links are provided solely as a convenience to you and are not an endorsement by Evergy of the contents on the other sites. Evergy is not responsible for the content of any linked sites and makes no representations regarding the content or accuracy of materials on such sites. If you decide to visit any third-party sites using links from these Websites, you do so at your own risk.&nbsp; &nbsp;<br>
+<br>
+Evergy prohibits caching, unauthorized hypertext links to our Websites, and the framing of any content available through our Websites. Evergy specifically disclaims any responsibility for the content available on any other websites linked to our Websites. Access to any other websites linked to our Websites is at the user's own risk.<br>
+<br>
+<em><strong>Indemnity</strong></em><br>
+<br>
+By using this Website and the services offered, you agree to defend, indemnify, and hold harmless Evergy, its officers, directors, employees and agents, from and against any and all losses, claims, damages, costs and expenses (including reasonable legal and accounting fees) that Evergy may become obligated to pay arising or resulting from your use of these Sites or your breach of these Terms and Conditions. Evergy reserves the right to assume or participate, at your expense, in the investigation, settlement and defense of any such action or claim.<br>
+<br>
+<em><strong>Use of submissions<br>
+</strong></em><br>
+You may submit questions, comments, suggestions, ideas, plans, notes, drawings, original or creative materials or other information about Evergy, these Sites or our products and services. These submissions, whether posted to these Sites or provided to Evergy by email or otherwise, are non-confidential and shall become the sole property of Evergy. Evergy shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of the submissions for any purpose, commercial or otherwise, without acknowledgment or compensation to you.<br>
+<br>
+By uploading or otherwise submitting a file or other information to the Website or through other services offered, you automatically grant, or warrant that the copyright owner of the information has expressly granted, to Evergy a perpetual, royalty-free, irrevocable, worldwide, non-exclusive license to use, reproduce, publicly display, modify, store, create derivative works from, and/or distribute the information (in whole or part) and/or to incorporate it in other works in any medium now known or hereafter developed, as if the information were public domain information.<br>
+<br>
+<em><strong>Changes to site<br>
+</strong></em><br>
+Evergy and business partners, may make improvements or changes in the information, services, products, and other materials on these Sites, or terminate these Sites, at any time without notice.&nbsp; Evergy may modify these Terms and Conditions at any time, and such modifications shall be effective immediately upon posting of the modified Terms and Conditions.&nbsp; Accordingly, you agree to review these Terms and Conditions periodically, and your continued access or use of these Sites shall be deemed your acceptance of the modified Terms and Conditions.<br>
+<br>
+<em><strong>Governing law and jurisdiction</strong></em><br>
+<br>
+These Terms and Conditions and the resolution of any dispute related to these Terms and Conditions or these Sites will be governed by, and construed in accordance with, the laws of the State of Missouri, without regard to conflicts of law principles.&nbsp; Failure by Evergy to insist upon strict enforcement of any provision of these Terms and Conditions shall not be construed as a waiver of any provision or right.&nbsp; Any legal action or proceeding between Evergy or its affiliates and you related to these Terms and Conditions shall be brought exclusively in a federal or state court of competent jurisdiction sitting in the State of Missouri.&nbsp; If any of these terms shall be deemed invalid, void, or for any reason unenforceable, that term shall be deemed severable and shall not affect the validity and enforceability of any remaining term.&nbsp;<br>
+<br>
+<em><strong>Age and responsibility</strong></em><br>
+<br>
+You represent that you are of sufficient legal age to use the Websites and to create binding legal obligations for any liability you may incur as a result of the use of the Websites. You understand that you are financially responsible for all uses of the Websites by you and those using your login information.</p>
+    </div>
+</div>
+    </main>
+</div>
+        
+
+<footer class="footer">
+    <a href="#header" class="back-to-top-link icon icon-back-to-top">Back to Top</a>
+    
+    <div class="page-width footer__inner-wrap">
+        <div class="footer-links">
+    
+<nav class="footer-nav footer-section">
+    <h3 class="footer-nav__heading footer-section__heading">
+        About Evergy
+    </h3>
+    <button class="footer-nav__toggle footer-section__heading content-toggler__toggle">
+        About Evergy
+    </button>
+    <ul class="footer-nav__list footer-section__content">
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/about-evergy/our-company" target="">Our Company</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/about-evergy/diversity-equity-inclusion" target="">Diversity, Equity &amp; Inclusion</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/about-evergy/history" target="">History</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/about-evergy/customer-advisory-panel" target="">Customer Advisory Panel</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="https://newsroom.evergy.com/newsroom" target="">Newsroom</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="https://investors.evergy.com/" target="">Investor Relations</a>
+                </li>
+    </ul>
+</nav>
+
+<nav class="footer-nav footer-section">
+    <h3 class="footer-nav__heading footer-section__heading">
+        Careers
+    </h3>
+    <button class="footer-nav__toggle footer-section__heading content-toggler__toggle">
+        Careers
+    </button>
+    <ul class="footer-nav__list footer-section__content">
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/careers/search-jobs" target="">Search Jobs</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/careers/diversity" target="">Diversity</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/careers/culture" target="">Culture</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/careers/benefits" target="">Benefits</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/careers/internships" target="">Internships</a>
+                </li>
+    </ul>
+</nav>
+
+<nav class="footer-nav footer-section">
+    <h3 class="footer-nav__heading footer-section__heading">
+        Community
+    </h3>
+    <button class="footer-nav__toggle footer-section__heading content-toggler__toggle">
+        Community
+    </button>
+    <ul class="footer-nav__list footer-section__content">
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/community/safety" target="">Safety</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/community/community-involvement" target="">Community Involvement</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/smart-energy/environmental-impact" target="">Environment</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="https://evergy-safety.com/educator/" target="">Kids and Education</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/community/donations-authentication" target="">Donations</a>
+                </li>
+    </ul>
+</nav>
+
+<nav class="footer-nav footer-section">
+    <h3 class="footer-nav__heading footer-section__heading">
+        Partner with Us
+    </h3>
+    <button class="footer-nav__toggle footer-section__heading content-toggler__toggle">
+        Partner with Us
+    </button>
+    <ul class="footer-nav__list footer-section__content">
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/partner-with-us/trade-allies" target="">Trade Allies</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/partner-with-us/contractors" target="">Contractors</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/partner-with-us/suppliers" target="">Suppliers</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/partner-with-us/construction-and-upgrades" target="">Construction &amp; Upgrades</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="/partner-with-us/transmission-projects" target="">Transmission Projects</a>
+                </li>
+                <li class="footer-nav__item footer-section__content-item no-padding">
+                    <a class="footer-nav__link" href="https://www.evergyed.com/" target="">Economic Development</a>
+                </li>
+    </ul>
+</nav>
+
+<div class="footer-section footer-section--help-lines">
+    <h3 class="footer-section__heading">
+        Help Lines
+    </h3>
+    <div class="footer-section__content">
+        <div class="footer-section__content-item">
+    <p>Call 811 before you dig</p>
+    
+</div>
+<div class="footer-section__content-item">
+    <p></p>
+    <p><a href="/help-center" style="font-size:13px !important;">Help Center</a></p>
+</div>
+<div class="footer-section__content-item">
+    <p></p>
+    <p><a href="/sitemap" style="font-size:13px !important;">Sitemap</a></p>
+</div>
+<div class="footer-section__content-item">
+    <p></p>
+    <div style="text-align:center;"><a rel="noopener noreferrer" href="https://apps.apple.com/us/app/evergy-electric/id1642746185" target="Opens in Apple store"><img src="https://www.evergy.com/-/media/media/contact-us/apple-store-image-2023-01.png" style="margin:0;width:160px;" alt="Link to Download Evergy app on the Apple App Store" /></a>&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=com.evergy.css&amp;hl=en&amp;gl=US" target="Opens in Google Play store" rel="noopener noreferrer"><img src="https://www.evergy.com/-/media/media/contact-us/google-play-store-image-2023-01.png" alt="Link to Get Evergy app on the Google Play Store" style="margin:0;width:160px;" /></a></div>
+</div>
+
+    </div>
+</div>
+
+</div>
+
+    </div>
+</footer>
+<div class="copyright">
+    <div class="page-width copyright-column-2">
+        <div class="copyright-txt">
+            <a href="/privacy-policy">Privacy Policy</a>
+            <span>&nbsp;|&nbsp;</span>
+            <a href="/terms-and-conditions">Terms and Conditions</a>
+            <span>&nbsp;|&nbsp;</span>
+            <a href="/about-evergy/accessibility-standards">Accessibility Standards</a>
+            <br />
+            Copyright 2024 Evergy All Rights Reserved
+        </div>
+        <!-- Begin DigiCert site seal HTML and JavaScript -->
+        <div class="digicert-seal is-vishidden">
+            <div id="DigiCertClickID_CbyMMTXw" data-language="en">
+                <a href="https://www.digicert.com/wildcard-ssl-certificates.htm"></a>
+            </div>
+            <script type="text/javascript">
+                var __dcid = __dcid || [];__dcid.push(["DigiCertClickID_CbyMMTXw", "3","m", "black", "CbyMMTXw"]);
+                (function(){var cid=document.createElement("script");cid.async=true;cid.src="//seal.digicert.com/seals/cascade/seal.min.js";var s = document.getElementsByTagName("script");var ls = s[(s.length - 1)];ls.parentNode.insertBefore(cid, ls.nextSibling);}());
+            </script>
+        </div>
+        <!-- End DigiCert site seal HTML and JavaScript -->
+        <div class="social-footer">
+    <div class="social footer-section">
+        <div class="footer-section__content">
+            <ul class="social__list footer-section__content-item">
+                    <li><a href="https://www.facebook.com/EvergyPower/" target=""><img src="/-/media/media/social/tempfacebook/icon_fb_38x39/facebook.png" alt="Facebook" /></a></li>
+                    <li><a href="https://www.twitter.com/evergypower" target=""><img src="/-/media/media/social/twitter/twitter/twitter.png" alt="Twitter" /></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCAzdlieirXso2a1k90zLP7Q?view_as=subscriber" target=""><img src="/-/media/media/social/youtube/icon_youtube_39x39/youtube.png" alt="YouTube" /></a></li>
+                    <li><a href="https://www.linkedin.com/company/evergyco/" target=""><img src="/-/media/media/social/linkedin/in2c41pxr/linkedin.png" alt="LinkedIn" /></a></li>
+            </ul>
+        </div>
+</div>
+
+</div>
+    </div>
+</div>
+
+    </div>
+    
+    
+        <!-- Start ThemeResources -->
+
+<script type="text/javascript" src="/Scripts/EVERGY/jspm_packages/system.js"></script>
+<script type="text/javascript" src="/Scripts/EVERGY/config.js"></script>
+<script>
+System.import('main');
+</script>    <!-- End ThemeResources -->
+
+
+<script type="text/javascript" id="inmoment-intercept" async>
+(function(){var interceptFn=function(interceptHost,orgId,key,isTesting){if(typeof(IMI)==="object")return;
+var url='//'+interceptHost+'/intercept/v1/init/'+orgId+'/'+key+'?testing='+isTesting;this.go=function(){
+var scriptEl=document.createElement("script");scriptEl.type="text/javascript";scriptEl.async=!0;scriptEl.src=url;
+if(document.body){document.body.appendChild(scriptEl)}};this.start=function(){
+if(navigator.userAgent.indexOf('MSIE')>=0&&navigator.userAgent.indexOf('MSIE 11')<0){return}
+var _interceptFn=this;if(!isTesting){if(document.readyState!="loading")_interceptFn.go();else
+if(window.addEventListener)window.addEventListener("DOMContentLoaded",function(){_interceptFn.go()},!1);
+else if(window.attachEvent)window.attachEvent("onload",function(){_interceptFn.go()})}else{_interceptFn.go()}}};
+try{(new interceptFn('dispawsusva.inmoment.com',1352,'ake9OIEBtSAsdzuQbKI2w==',!1)).start()}catch(i){}})()
+</script>    <script src="/Scripts/EVERGY/jspm_packages/system.js"></script>
+    <script src="/Scripts/EVERGY/config.js"></script>
+</body>
+</html>
