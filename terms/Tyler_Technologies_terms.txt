@@ -1,0 +1,2702 @@
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K873LXP');</script>
+<!-- End Google Tag Manager -->
+        <!-- OneTrust Cookies Consent Notice start for tylertech.com -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"  type="text/javascript" charset="UTF-8" data-domain-script="885a1a8b-afdf-4e54-8446-818f8ae4ffcb" ></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for tylertech.com -->
+
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+
+
+<script>
+  window._wcq = window._wcq || [];
+  window._wcq.push({
+    id: "_all",
+    options: {
+      customFont: "Amplitude"
+    }
+  });
+</script>
+<title>
+	Terms | Tyler Technologies
+</title><meta id="MetaDescription" name="description" content="The tylertech.com Web Site is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein." /><meta id="MetaRobots" name="robots" content="INDEX, FOLLOW" /><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/DesktopModules/OpenContent/module.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/Resources/Search/SearchSkinObjectPreview.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/tylerskin/skin.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/Portals/0/OpenContent/Templates/Separador/Template.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/tylerskin/css/animation.min.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/tylerskin/css/tyleri.min.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/tylerskin/css/tyleri-codes.min.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/tylerskin/css/tyleri-embedded.min.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/Portals/_default/skins/tylerskin/css/tyleri-ie7-codes.css?cdv=583" type="text/css" rel="stylesheet"/><link href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/7.0.6/jquery.mmenu.all.css?cdv=583" type="text/css" rel="stylesheet"/><link href="/DesktopModules/DnnCorp/ContentLayout/Css/bootstrap.min.css?cdv=583" type="text/css" rel="stylesheet"/><script src="/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=583" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/03_04_01/jquery-migrate.js?cdv=583" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_13_02/jquery-ui.min.js?cdv=583" type="text/javascript"></script><script src="/Resources/libraries/HoverIntent/01_10_01/jquery.hoverIntent.min.js?cdv=583" type="text/javascript"></script><link rel="canonical" href="https://www.tylertech.com/terms" /><script async type='text/javascript' src='https://dnnapi.com/analytics/js/2038751.js'></script><meta name="viewport" content="width=device-width,initial-scale=1" /><!--[if IE 8]><script src='/DesktopModules/DnnCorp/ContentLayout/ClientScripts/respond.min.js'></script><![endif]--></head>
+<body id="Body">     
+ <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K873LXP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+        
+
+    <form method="post" action="/terms" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="TyAS1U/QOWqZzCxbD5wPqMIo+onfTpbZDXjVC/zOxwWQykhQ5uJDScVxw8bmVl1jffLKzItH+54ZQL6p1FF82xpvLux5ZWXy33fRFXIJ8YMT3QJnDgMBbuO86jt9zv3O8jQ+cdZSDaONx14sO4mo/MHXC4b4DaPYT+wvG2o5sCBiMnmZhcu6r0s/nAidYNnUnAqIARratJvpQ3Qziy/s6IrygUDgcQfv/O9TDCmpBKAL//dX0O3iOSIPk2kVMdIf1M85vO71pBkGL95lGgSsavgFM8giGeddCD0JQ+4spCYGXRWj/mBQVTz86+FAWxZuUnBmdFLE4Dri33RSaJj5rbZkMsbu+7w3+kRXLHHFrJ0SgtNc2u9xkgUQuuhSYCxE/8Cg1dl+g3f7IZ7Vv/F5gpXU/25blQoLzJRj0i7QrZxrDsa7rJ0rv8z+lGSq4ROTE7mu7i0P1wuDbPw6wzDffUNnNCU=" />
+</div>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3Io650g6qaFQYYwywvGALzluc9Jv0zEXFipsT6zk65tTy_CHYn-5-y8ZEqVhSUFs3TNPJhj-LXcMCWQR2eSP3neBcWh1i6gcVpthPm8cmk8wX29kP4DKQKfmUSADhA2&amp;t=74258c30" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoK1j7AMpl7hQxKXZjVp_1ik1fKCrCw0Q3UlPe53epaCtXO2sLEEVke7XovO7MG8Q8VmEyUNl4EX8-bbXdR0p-1vjYLx4ln4brbxL7yKfUD3QJ_nBGOYQ8gwcQUkeSUlBwHeuPsE0&amp;t=74258c30" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="2ufm4+zY7R/20zCV/rsgcJfAz5CYHACw2oKrGfpeyI4GvBkLnWu3P+G1DcBxaxB6o7waDiqmi7dXLFKOib6HUcwkSqL2Ly9Spqqc4k6Kch/qdXzfar4IN0dq20XhD/DzhYvAUlKiXFFUYN2yJqhPfBr30lxG86F7zagCfWu+10rT2RbzRjEI/WW+r4MIW8S3ZcD/SQ==" />
+</div><script src="/js/dnn.js?cdv=583" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=583" type="text/javascript"></script><script src="https://code.jquery.com/ui/1.11.1/jquery-ui.min.js?cdv=583" type="text/javascript"></script><script src="/Portals/_default/skins/tylerskin/bootstrap/js/popper.min.js?cdv=583" type="text/javascript"></script><script src="/Portals/_default/skins/tylerskin/bootstrap/js/bootstrap.min.js?cdv=583" type="text/javascript"></script><script src="/Portals/_default/skins/tylerskin/js/jquery.matchHeight.min.js?cdv=583" type="text/javascript"></script><script src="/Portals/_default/skins/tylerskin/js/detect_browser.min.js?cdv=583" type="text/javascript"></script><script src="/Portals/_default/skins/tylerskin/js/jquery.countdown.min.js?cdv=583" type="text/javascript"></script><script src="https://empower.tylertech.com/js/forms2/js/forms2.min.js?cdv=583" type="text/javascript"></script><script src="/Marketo/marketo-templates/js/ask-a-question-custom.js?cdv=583" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/7.0.6/jquery.mmenu.all.js?cdv=583" type="text/javascript"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.hoverintent/1.9.0/jquery.hoverIntent.min.js?cdv=583" type="text/javascript"></script><script src="/js/dnncore.js?cdv=583" type="text/javascript"></script><script src="/Resources/Search/SearchSkinObjectPreview.js?cdv=583" type="text/javascript"></script><script src="/DesktopModules/OpenContent/js/opencontent.js?cdv=583" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=583" type="text/javascript"></script><script src="/Portals/_default/skins/tylerskin/topNav/topNav.js?cdv=583" type="text/javascript"></script><script src="/Portals/_default/skins/tylerskin/topNavMobile/topNavMobile.js?cdv=583" type="text/javascript"></script><script src="/Portals/0/OpenContent/Templates/Inner-Hero/template.js?cdv=583" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+<!--CDF(Javascript|https://code.jquery.com/ui/1.11.1/jquery-ui.min.js?cdv=583|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/tylerskin/bootstrap/js/popper.min.js?cdv=583|DnnBodyProvider|100)-->
+<!--CDF(Css|/Portals/_default/skins/tylerskin/css/animation.min.css?cdv=583|DnnPageHeaderProvider|100)-->		
+<!--CDF(Css|/Portals/_default/skins/tylerskin/css/tyleri.min.css?cdv=583|DnnPageHeaderProvider|100)-->		
+<!--CDF(Css|/Portals/_default/skins/tylerskin/css/tyleri-codes.min.css?cdv=583|DnnPageHeaderProvider|100)-->		
+<!--CDF(Css|/Portals/_default/skins/tylerskin/css/tyleri-embedded.min.css?cdv=583|DnnPageHeaderProvider|100)-->		
+<!--CDF(Css|/Portals/_default/skins/tylerskin/css/tyleri-ie7-codes.css?cdv=583|DnnPageHeaderProvider|100)-->	
+
+  
+
+    <div class="tyler inner  " id="my-page">
+
+        <div class="breadcrumb-wrapper" style="display: none;">
+            <span id="dnn_dnnBreadcrumb_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.tylertech.com/" class="breadcrumb-link" itemprop="item" ><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></span>•<span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="https://www.tylertech.com/terms" class="breadcrumb-link" itemprop="item"><span itemprop="name">Terms</span></a><meta itemprop="position" content="2" /></span></span></span>
+        </div>
+        <nav class="navbar navbar-expand-xl navbar-light bg-light">
+    <div class="container">
+        <a href="#my-menu" class="hamburguer-menu" title="menu">
+            <em class="ty-menu icon-sm"></em>
+            </a>
+        <span class="navbar-brand">
+            <a id="dnn_dnnLOGO_hypLogo" title="tylertech" aria-label="tylertech" href="https://www.tylertech.com/"><img id="dnn_dnnLOGO_imgLogo" src="/Portals/0/Logo-NavBar.jpg?ver=Js0wL8bzpXBsBHn_bv-Kjg%3d%3d" alt="tylertech" /></a>
+        </span>
+        <div class="search mobile">
+            <a class="search-icon-menu">
+            <em class="ty-search icon-sm"></em>
+            </a>
+            <span id="dnn_SEARCHMOBILE_ClassicSearch">
+    
+    
+    <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+        <input name="dnn$SEARCHMOBILE$txtSearch" type="text" maxlength="255" size="20" id="dnn_SEARCHMOBILE_txtSearch" class="NormalTextBox" aria-label="Search" autocomplete="off" placeholder="Search..." />
+        <a class="dnnSearchBoxClearText" title="Clear search text"></a>
+    </span>
+    <a id="dnn_SEARCHMOBILE_cmdSearch" class="SkinObject" href="javascript:__doPostBack(&#39;dnn$SEARCHMOBILE$cmdSearch&#39;,&#39;&#39;)">Search</a>
+</span>
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof dnn != "undefined" && typeof dnn.searchSkinObject != "undefined") {
+            var searchSkinObject = new dnn.searchSkinObject({
+                delayTriggerAutoSearch : 400,
+                minCharRequiredTriggerAutoSearch : 1000,
+                searchType: 'S',
+                enableWildSearch: true,
+                cultureCode: 'en-US',
+                portalId: -1
+                }
+            );
+            searchSkinObject.init();
+            
+            
+            // attach classic search
+            var siteBtn = $('#dnn_SEARCHMOBILE_SiteRadioButton');
+            var webBtn = $('#dnn_SEARCHMOBILE_WebRadioButton');
+            var clickHandler = function() {
+                if (siteBtn.is(':checked')) searchSkinObject.settings.searchType = 'S';
+                else searchSkinObject.settings.searchType = 'W';
+            };
+            siteBtn.on('change', clickHandler);
+            webBtn.on('change', clickHandler);
+            
+            
+        }
+    });
+</script>
+
+        </div>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    <div class="navbar-nav" data-level="0">
+                <dl  class="nav-item dropdown mega-parent">
+
+
+                    <dt class="nav-link dropdown-toggle">
+                        <a href="https://www.tylertech.com/solutions">
+                            <span>Solutions</span>
+                        </a>
+                    </dt>
+    <dd class="dropdown-menu megadiv">
+        <div data-level="1">
+                    <dl child-name='Appraisal&amp;Tax' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/public-administration/appraisal-tax">Appraisal &amp; Tax</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/public-administration/appraisal-tax">Appraisal &amp; Tax</a>
+                            <p>We provide solutions to manage all aspects of the property tax life cycle. Tyler pioneered computer-assisted mass appraisal (CAMA), and developed integrated software solutions for tax billing and collections, CAMA, and assessment administration functionality.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/appraisal-tax/appraisal-services">Appraisal Services</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/appraisal-tax/computer-assisted-mass-appraisal">Computer-Assisted Mass Appraisal</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/appraisal-tax/tax-billing-collection">Tax Billing &amp; Collection</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Appraisal &amp; Tax Solutions" class="img-fluid" src="/portals/0/images/menu/appraisal-tax-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>--><!--<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>--><!--<p>--&gt;</p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='CivicServices' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/public-administration/civic-services">Civic Services</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/public-administration/civic-services">Civic Services</a>
+                            <p>Our civic services solutions are designed for your public sector agency and the citizens you serve like community development, permitting, enforcement, inspections, business licensing, compliance, maintenance and work orders, 311 requests, utility billing, and parks and recreation management.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/civic-services/asset-management">Asset Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/civic-services#BusinessManagement">Business Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/civic-services#CommunityDevelopment">Community Development</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/civic-services/correspondence-management">Correspondence Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/civic-services#EnvironmentalHealth">Environmental Health</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/civic-services#FirePrevention">Fire Prevention</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/civic-services#MotorVehicle">Motor Vehicle</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/civic-services#ParksRecreation">Parks &amp; Recreation</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Civic Services Solutions" class="img-fluid" src="/portals/0/images/menu/civic-services-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Corrections' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/courts-public-safety/corrections">Corrections</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/courts-public-safety/corrections">Corrections</a>
+                            <p>Seamlessly connect courts, public safety, and supervision agencies to ensure safer and more efficient operations for correctional facilities. Give your justice partners access to critical and sensitive data including pre-booking information from officers in the field and inmate scheduling information for the court.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/corrections#JailManagement">Jail Management</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Corrections SOlution" class="img-fluid" src="/portals/0/images/menu/corrections-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Courts&amp;Justice' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice">Courts &amp; Justice</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice">Courts &amp; Justice</a>
+                            <p>Courts and justice agencies at every level &mdash; state, district, county and municipal &mdash; share a common need for software solutions that simplify&nbsp;processes, improve&nbsp;workflow, and ensure&nbsp;efficient and consistent operations. Tyler has the products and services to do it.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#CivilProcess">Civil Process</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="/solutions/courts-public-safety/courts-justice#computing-system-innovations">Computing System Innovations</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#CourtCaseManagement">Court Case Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#DisputeResolution">Dispute Resolution</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#ElectronicFiling">Electronic Filing</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice/investigations-audits">Investigations &amp; Audits</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice/jury-management">Jury Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice/justice-insights">Justice Insights</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#ProsecutionAttorneys">Prosecution &amp; Attorneys</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice/remote-hearings">Remote Hearings</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#Supervision">Supervision</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Courts &amp; Justice Solution" class="img-fluid" src="/portals/0/images/menu/courts-justice-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+
+<p>&nbsp;</p>
+
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Cybersecurity' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity">Cybersecurity</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity">Cybersecurity</a>
+                            <p>Protecting your organization from cyberattacks is a full-time endeavor that grows more demanding, specialized, and sophisticated every day.</p>
+
+<p>Tyler has the expertise and resources to help you advance your cyber maturity and improve your cyber resilience.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity/advisory-services">Advisory Services</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity/assurance-services">Assurance Services</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity#ManagedThreat">Managed Threat Detection</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity#MaturityProgram">Maturity Program</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Cybersecurity" class="img-fluid" src="\Portals\0\Images\Menu\CYBERSECURITY-Menu.jpg" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Data&amp;Insights' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/transformative-technology/data-insights">Data &amp; Insights</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/transformative-technology/data-insights">Data &amp; Insights</a>
+                            <p>Empower your organization to access a single source of trusted data and securely share analysis, visualizations, and performance measurements across multiple departments and programs. Reuse your data and allow employees to transform data into insights on financial, operational, and strategic outcomes.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/products/data-insights/economic-intelligence">Economic Intelligence</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/products/data-insights/enterprise-data-platform">Enterprise Data Platform</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/products/data-insights/finance-insights">Finance Insights</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/products/data-insights/open-data-platform">Open Data Platform</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/products/data-insights/performance-insights">Performance Insights</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Connected Government Cloud" class="img-fluid" src="/portals/0/images/menu/data-insights-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Disability&amp;Benefits' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/health-human-services/disability-benefits">Disability &amp; Benefits</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits">Disability &amp; Benefits</a>
+                            <p>Our disability and benefits solutions help programs and agencies quickly get benefits into the hands of those who need it most, all while lowering cost and streamlining the process.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/disability-benefits-management">Disability Benefits Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/home-community-based-services">Home &amp; Community Based Services</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/veterans-benefits">Veterans’ Benefits</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/vocational-rehabilitation">Vocational Rehabilitation</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/workers-compensation-case-management">Workers’ Compensation Case Management</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Disability &amp; Benefits Solution" class="img-fluid" src="/portals/0/images/menu/Disability-Benefits-menu.jpg?format=jpg&amp;quality=80" /></p>
+
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='ERP' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/public-administration/erp">ERP</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/public-administration/erp">ERP</a>
+                            <p>Public sector agencies manage a variety of complex, mission-critical tasks each day &mdash; from monitoring the city budget and generating payroll for municipal employees to collecting revenues from citizens and generating utility bills. Our ERP financial solutions are designed to manage public sector core business functions no matter the size or complexity of the organization &mdash; from small towns to large cities and counties.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/erp/financial-management">Financial Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/erp/human-resources-management">Human Resources Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/erp/revenue-management">Revenue Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/erp/utilities">Utilities</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="ERP Solutions" class="img-fluid" src="/portals/0/images/menu/erp-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Land&amp;OfficialRecords' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/public-administration/land-official-records">Land &amp; Official Records</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/public-administration/land-official-records">Land &amp; Official Records</a>
+                            <p>Instant access to the tools you need to tackle your most complex recording challenges in a single, secure, and unified system. You&rsquo;ll save time, increase efficiency, and provide the unparalleled level of customer service your constituents expect and deserve.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/land-official-records#PublicAccessTransparency">Public Access &amp; Transparency</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/land-official-records/records-management">Records Management</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="ERP Solutions" class="img-fluid" src="/portals/0/images/menu/LAND-OFFICIAL-RECORDS-Menu.jpg" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='OutdoorRecreation' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/public-administration/outdoor-recreation">Outdoor Recreation</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/public-administration/outdoor-recreation">Outdoor Recreation</a>
+                            <p>Discover the industry&#39;s leading outdoor recreation platform designed specifically for local, state, and federal agencies.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/outdoor-recreation#Recreation-Management">Campground &amp; Park Reservations</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/outdoor-recreation#Recreational-Licensing">Hunting &amp; Fishing Licensing</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/outdoor-recreation#Parks-Recreation">Parks &amp; Recreation</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Outdoor Recreation Solution" class="img-fluid" src="/portals/0/images/menu/outdoor-recreation-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+
+<p>&nbsp;</p>
+
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Payments' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/transformative-technology/payments">Payments</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/transformative-technology/payments">Payments</a>
+                            <p>Built exclusively for government, Payment Processing&nbsp;and Point-of-Sale Cashiering are a comprehensive and trusted suite of solutions designed to simplify payment processes and provide secure, flexible, and scalable payment and cashiering offerings.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/transformative-technology/payments#Corrections-and-Jail-Disbursements">Corrections and Jail Disbursements</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/transformative-technology/payments#Disbursements">Digital Disbursements and Payouts</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/transformative-technology/payments#Juror-and-Court-Related-Disbursements">Jury and Court Disbursements</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/transformative-technology/payments#PaymentProcessing">Payment Processing</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/transformative-technology/payments#Point-of-SaleCashiering">Point-of-Sale Cashiering</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Payments" class="img-fluid" src="/portals/0/images/menu/payments-solution.png?format=jpg&amp;quality=80" /></p>
+
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='ProductivityTools' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/transformative-technology/productivity-tools">Productivity Tools</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/transformative-technology/productivity-tools">Productivity Tools</a>
+                            <p>Transition work processes from paper-based to electronic for a green, efficient organization. Streamlined workflows through customized, electronic document management tools translate into real-time and dollar savings.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/data-insights/performance-tools#ContentManagement">Content Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/data-insights/performance-tools#MeetingManagement">Meeting Management</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Performance Tools" class="img-fluid" src="/portals/0/images/menu/performance-tools-menu.jpg?format=jpg&quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='PublicSafety' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/courts-public-safety/public-safety">Public Safety</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety">Public Safety</a>
+                            <p>Tyler&rsquo;s public safety solutions improve situation awareness and enhance safety and productivity for public safety professionals. We&rsquo;ve drawn from our extensive experience to design, develop, deliver and support integrated software solutions to meet each agency&rsquo;s unique needs.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/citation-management">Citation Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/computer-aided-dispatch">Computer Aided Dispatch</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/fire-ems">Fire &amp; EMS</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/law-enforcement-records-management">Law Enforcement Records Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/mobile-operations">Mobile Operations</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/public-safety-analytics">Public Safety Analytics</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Public Safety Solutions" class="img-fluid" src="/portals/0/images/menu/public-safety-menu.jpg?format=jpg&amp;quality=80" /></p>
+
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Regulatory' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/public-administration/regulatory">Regulatory</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/public-administration/regulatory">Regulatory</a>
+                            <p>Our regulatory solutions help government agencies and departments of any size simplify every aspect of regulatory compliance &mdash; from workflow and process to licensing and enforcement &mdash; with software to handle the unique needs of your organization.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/regulatory#BusinessLicense">Business Licensing for Local Government</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/regulatory/cannabis-licensing">Cannabis Licensing</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/regulatory/public-service-commission-oversight">Public Service Commission Oversight</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/public-administration/regulatory/state-regulatory-platform-suite">Regulatory Case Management</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Regulatory Solution" class="img-fluid" src="/portals/0/images/menu/regulatory.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+
+<p>&nbsp;</p>
+
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='SchoolERP' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/k-12-education/school-erp">School ERP</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/k-12-education/school-erp">School ERP</a>
+                            <p>When it comes to the financial, human capital, and facility management needs of your school, our software helps you actively plan for change, achieve organizational goals, operate within approved budgets, and hire and retain the right employees. Attain optimal student achievement by making strategic decisions about your school district and workforce.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/school-erp#FacilityManagement">Facility Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/school-erp/financial-management">Financial Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/school-erp#HumanResourcesManagement">Human Resources Management</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="School ERP" class="img-fluid" src="/portals/0/images/menu/school-erp-menu.jpg?format=jpg&quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='StudentTransportation' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/solutions/k-12-education/student-transportation">Student Transportation</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/solutions/k-12-education/student-transportation">Student Transportation</a>
+                            <p>When information flows seamlessly between transportation directors, administrators, drivers, and parents, school districts can deliver safer, more efficient transportation to every student. Our solutions connect every aspect of transportation management, helping districts advance their operations and make student-first decisions.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#BusRouting">Bus Routing</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#FieldTripManagement">Field Trip Management</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#GPS">GPS Tracking &amp; Tablets</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#OnboardiPaaS">Integration Platform Services</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#ParentCommunication">Parent Communication</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/student-transportation/student-ridership">Student Ridership</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#VehicleMaintenance">Vehicle Maintenance</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Student Transportation" class="img-fluid" src="/portals/0/images/menu/student-transportation-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+
+        </div>
+    </dd>
+                </dl>
+                <dl  class="nav-item dropdown">
+
+
+                    <dt class="nav-link dropdown-toggle">
+                        <a href="https://www.tylertech.com/resources">
+                            <span>Resources</span>
+                        </a>
+                    </dt>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Blog]">Blog</a>
+                <a class="dropdown-item" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Downloads]">Downloads</a>
+                <a class="dropdown-item" href="https://www.tylertech.com/event-search">Events</a>
+                <a class="dropdown-item" href="https://www.tylertech.com/resources/podcast">Podcast</a>
+                <a class="dropdown-item" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Success%20Stories]">Success Stories</a>
+                <a class="dropdown-item" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Tyler%20in%20the%20News]">Tyler in the News</a>
+                <a class="dropdown-item" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Videos,Webinars]">Videos</a>
+    </div>
+                </dl>
+                <dl  class="nav-item dropdown mega-parent">
+
+
+                    <dt class="nav-link dropdown-toggle">
+                        <a href="https://www.tylertech.com/about-us">
+                            <span>About Us</span>
+                        </a>
+                    </dt>
+    <dd class="dropdown-menu megadiv">
+        <div data-level="1">
+                    <dl child-name='AboutTyler' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/about-us/about-tyler">About Tyler</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/about-us/about-tyler">About Tyler</a>
+                            <p>Led by a talented group of leaders, we have a rich history and a genuine care for being more than just a technology company.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/about-tyler/corporate-responsibility">Corporate Responsibility</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/about-tyler/leadership-team">Leadership Team</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://investors.tylertech.com/governance-and-esg/board-of-directors/default.aspx">Board of Directors</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/about-tyler/locations">Locations</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/about-tyler/our-mission-vision-values">Our Mission, Vision, &amp; Values</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/about-tyler/product-name-update-faq">Product Name Update FAQ</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Who We Are" class="img-fluid" src="/portals/0/images/menu/who-we-are-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='MediaRoom' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/about-us/media-room">Media Room</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/about-us/media-room">Media Room</a>
+                            <p>Find the latest information about our company &ndash; specially curated for members of the media and investors.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/resources/videos-and-webinars/tyler-technologies-who-we-are">Corporate Overview</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/media-room/fast-facts">Fast Facts</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://investors.tylertech.com/news/default.aspx">Press Releases</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Media Room" class="img-fluid" src="/portals/0/images/menu/media-room-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Partners' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/about-us/partners">Partners</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/about-us/partners">Partners</a>
+                            <p>We collaborate with public sector and technology experts to stay current on ways to improve our communities.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/partners/association-partners">Association Partners</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/partners/government-contract-procurement-vehicles">Government Contract Procurement Vehicles</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/partners/small-business-program">Small Business Program</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/partners/technology-partners">Technology Partners</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/partners/tyler-platform-alliance">Tyler Platform Alliance</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Partners" class="img-fluid" src="/portals/0/images/menu/partners-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='Security&amp;Compliance' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/about-us/security-compliance">Security &amp; Compliance</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/about-us/security-compliance">Security &amp; Compliance</a>
+                            <p>Remaining vigilant about security and maintaining compliance with industry standards are part of our commitment to our clients.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/security-compliance/application-security">Application Security</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/security-compliance/bug-reporting">Bug Reporting</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/security-compliance/cjis-compliance">CJIS Compliance</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/security-compliance/gdpr-compliance">GDPR Compliance</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/security-compliance/pci-compliance">PCI Compliance</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/security-compliance/soc-compliance">SOC Compliance</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/security-compliance/pci-training">PCI Training</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Compliance" class="img-fluid" src="/portals/0/images/menu/compliance-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+        <dl child-name='TylerClientDifference' class="row page-parent">
+                <dt class="page-name has-children">
+                    <a href="https://www.tylertech.com/about-us/tyler-client-difference">Tyler Client Difference</a>
+                </dt>
+
+        <dd data-level="2" class="page-details">
+
+            <div child-name="page-details">
+                <div class="row">
+                    <div class="flex-column col-md-6">
+                        <div class="topPane">
+                            <a class="h2" href="https://www.tylertech.com/about-us/tyler-client-difference">Tyler Client Difference</a>
+                            <p>We partner with our clients to make sure they get the most out of their software. See the Tyler difference.</p>
+
+                        </div>
+                        <ul data-level="3">
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/tyler-client-difference/attend-an-event">Attend an Event</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/tyler-client-difference/client-tools">Client Tools</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/tyler-client-difference/connected-communities">Connected Communities</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/tyler-client-difference/evergreen">Evergreen</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/tyler-client-difference/everguide">EverGuide</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/tyler-client-difference/tyler-excellence-awards">Tyler Excellence Awards</a>
+                                </li>
+                                <li>
+                                        <a class="level3-links" href="https://www.tylertech.com/about-us/tyler-client-difference/why-tyler">Why Tyler</a>
+                                </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6 rightPane">
+                        <p><img alt="Tyler Client Difference" class="img-fluid" src="/portals/0/images/menu/tyler-client-difference-menu.jpg?format=jpg&amp;quality=80" /></p>
+<!--<p><strong>PRODUCT NAME</strong> PRODUCT COPY</p>
+<p><a class="btn btn-secondary" href="/products/URL-HERE">Explore PRODUCT NAME</a></p>-->
+                    </div>
+                </div>
+            </div>
+
+        </dd>
+        </dl>
+
+        </div>
+    </dd>
+                </dl>
+                <dl  class="nav-item dropdown">
+
+
+                    <dt class="nav-link dropdown-toggle">
+                        <a href="https://www.tylertech.com/careers">
+                            <span>Careers</span>
+                        </a>
+                    </dt>
+    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="https://www.tylertech.com/careers/job-openings">Job Openings</a>
+    </div>
+                </dl>
+            </div>
+
+
+
+            <div class="search">
+                <span id="dnn_SEARCH_ClassicSearch">
+    
+    
+    <span class="searchInputContainer" data-moreresults="See More Results" data-noresult="No Results Found">
+        <input name="dnn$SEARCH$txtSearch" type="text" maxlength="255" size="20" id="dnn_SEARCH_txtSearch" class="NormalTextBox" aria-label="Search" autocomplete="off" placeholder="Search..." />
+        <a class="dnnSearchBoxClearText" title="Clear search text"></a>
+    </span>
+    <a id="dnn_SEARCH_cmdSearch" class="SkinObject" href="javascript:__doPostBack(&#39;dnn$SEARCH$cmdSearch&#39;,&#39;&#39;)">Search</a>
+</span>
+
+
+<script type="text/javascript">
+    $(function() {
+        if (typeof dnn != "undefined" && typeof dnn.searchSkinObject != "undefined") {
+            var searchSkinObject = new dnn.searchSkinObject({
+                delayTriggerAutoSearch : 400,
+                minCharRequiredTriggerAutoSearch : 1000,
+                searchType: 'S',
+                enableWildSearch: true,
+                cultureCode: 'en-US',
+                portalId: -1
+                }
+            );
+            searchSkinObject.init();
+            
+            
+            // attach classic search
+            var siteBtn = $('#dnn_SEARCH_SiteRadioButton');
+            var webBtn = $('#dnn_SEARCH_WebRadioButton');
+            var clickHandler = function() {
+                if (siteBtn.is(':checked')) searchSkinObject.settings.searchType = 'S';
+                else searchSkinObject.settings.searchType = 'W';
+            };
+            siteBtn.on('change', clickHandler);
+            webBtn.on('change', clickHandler);
+            
+            
+        }
+    });
+</script>
+
+            </div>
+            <div class="login-register">
+                <a href="/client-support" class="btn btn-primary">Client Support</a>
+                <a href="" id="update-pass" title="profile"><em class="ty-profile" style="color: #d1d2da; font-size: 28px;"></em></a>
+                <div class="access">
+                    
+<div id="dnn_dnnLogin_loginGroup" class="loginGroup">
+    <a id="dnn_dnnLogin_enhancedLoginLink" title="Login" class="btn-access" rel="nofollow" onclick="this.disabled=true;" href="https://www.tylertech.com/tyler-login?returnurl=%2fterms">Login</a>
+</div>
+                    
+<div id="dnn_dnnUser_registerGroup" class="registerGroup">
+    <ul class="buttonGroup">
+        
+        
+    	<li class="userDisplayName"><a id="dnn_dnnUser_enhancedRegisterLink" title="Register" class="btn-access" rel="nofollow" href="https://www.tylertech.com/tyler-registration?returnurl=https%3a%2f%2fwww.tylertech.com%2fterms">Register</a></li>
+                                               
+    </ul>
+</div>
+                </div>
+            </div>
+        </div>
+        <nav id="my-menu">
+            <div>
+                
+
+
+
+
+
+    <ul class="parent">
+                        <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions">Solutions</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/appraisal-tax">Appraisal &amp; Tax</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/appraisal-tax/appraisal-services">Appraisal Services</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/appraisal-tax/computer-assisted-mass-appraisal">Computer-Assisted Mass Appraisal</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/appraisal-tax/tax-billing-collection">Tax Billing &amp; Collection</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/civic-services">Civic Services</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/civic-services/asset-management">Asset Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/civic-services#BusinessManagement">Business Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/civic-services#CommunityDevelopment">Community Development</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/civic-services/correspondence-management">Correspondence Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/civic-services#EnvironmentalHealth">Environmental Health</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/civic-services#FirePrevention">Fire Prevention</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/civic-services#MotorVehicle">Motor Vehicle</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/civic-services#ParksRecreation">Parks &amp; Recreation</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/corrections">Corrections</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/corrections#JailManagement">Jail Management</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice">Courts &amp; Justice</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#CivilProcess">Civil Process</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="/solutions/courts-public-safety/courts-justice#computing-system-innovations">Computing System Innovations</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#CourtCaseManagement">Court Case Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#DisputeResolution">Dispute Resolution</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#ElectronicFiling">Electronic Filing</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice/investigations-audits">Investigations &amp; Audits</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice/jury-management">Jury Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice/justice-insights">Justice Insights</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#ProsecutionAttorneys">Prosecution &amp; Attorneys</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice/remote-hearings">Remote Hearings</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/courts-justice#Supervision">Supervision</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity">Cybersecurity</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity/advisory-services">Advisory Services</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity/assurance-services">Assurance Services</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity#ManagedThreat">Managed Threat Detection</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/cybersecurity#MaturityProgram">Maturity Program</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/data-insights">Data &amp; Insights</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/products/data-insights/economic-intelligence">Economic Intelligence</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/products/data-insights/enterprise-data-platform">Enterprise Data Platform</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/products/data-insights/finance-insights">Finance Insights</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/products/data-insights/open-data-platform">Open Data Platform</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/products/data-insights/performance-insights">Performance Insights</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits">Disability &amp; Benefits</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/disability-benefits-management">Disability Benefits Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/home-community-based-services">Home &amp; Community Based Services</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/veterans-benefits">Veterans’ Benefits</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/vocational-rehabilitation">Vocational Rehabilitation</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/health-human-services/disability-benefits/workers-compensation-case-management">Workers’ Compensation Case Management</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/erp">ERP</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/erp/financial-management">Financial Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/erp/human-resources-management">Human Resources Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/erp/revenue-management">Revenue Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/erp/utilities">Utilities</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/land-official-records">Land &amp; Official Records</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/land-official-records#PublicAccessTransparency">Public Access &amp; Transparency</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/land-official-records/records-management">Records Management</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/outdoor-recreation">Outdoor Recreation</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/outdoor-recreation#Recreation-Management">Campground &amp; Park Reservations</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/outdoor-recreation#Recreational-Licensing">Hunting &amp; Fishing Licensing</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/outdoor-recreation#Parks-Recreation">Parks &amp; Recreation</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/payments">Payments</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/payments#Corrections-and-Jail-Disbursements">Corrections and Jail Disbursements</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/payments#Disbursements">Digital Disbursements and Payouts</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/payments#Juror-and-Court-Related-Disbursements">Jury and Court Disbursements</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/payments#PaymentProcessing">Payment Processing</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/payments#Point-of-SaleCashiering">Point-of-Sale Cashiering</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/transformative-technology/productivity-tools">Productivity Tools</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/data-insights/performance-tools#ContentManagement">Content Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/data-insights/performance-tools#MeetingManagement">Meeting Management</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety">Public Safety</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/citation-management">Citation Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/computer-aided-dispatch">Computer Aided Dispatch</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/fire-ems">Fire &amp; EMS</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/fire-ems/fire-records-reporting-solutions">Fire Records &amp; Reporting Solutions</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/fire-ems/fire-response-solutions">Fire Response Solutions</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/fire-ems/fire-prevention-and-inspection">Fire Prevention and Inspection</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/law-enforcement-records-management">Law Enforcement Records Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/mobile-operations">Mobile Operations</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/courts-public-safety/public-safety/public-safety-analytics">Public Safety Analytics</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/regulatory">Regulatory</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/regulatory#BusinessLicense">Business Licensing for Local Government</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/regulatory/cannabis-licensing">Cannabis Licensing</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/regulatory/public-service-commission-oversight">Public Service Commission Oversight</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/public-administration/regulatory/state-regulatory-platform-suite">Regulatory Case Management</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/school-erp">School ERP</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/school-erp#FacilityManagement">Facility Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/school-erp/financial-management">Financial Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/school-erp#HumanResourcesManagement">Human Resources Management</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/student-transportation">Student Transportation</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#BusRouting">Bus Routing</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#FieldTripManagement">Field Trip Management</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#GPS">GPS Tracking &amp; Tablets</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#OnboardiPaaS">Integration Platform Services</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#ParentCommunication">Parent Communication</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/student-transportation/student-ridership">Student Ridership</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/solutions/k-12-education/student-transportation#VehicleMaintenance">Vehicle Maintenance</a>
+
+                </li>
+
+                        </ul>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/resources">Resources</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Blog]">Blog</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Downloads]">Downloads</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/event-search">Events</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/resources/podcast">Podcast</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Success%20Stories]">Success Stories</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Tyler%20in%20the%20News]">Tyler in the News</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/resources#f:@mrc_resourcetype=[Videos,Webinars]">Videos</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us">About Us</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/about-tyler">About Tyler</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/about-tyler/corporate-responsibility">Corporate Responsibility</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/about-tyler/leadership-team">Leadership Team</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://investors.tylertech.com/governance-and-esg/board-of-directors/default.aspx">Board of Directors</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/about-tyler/locations">Locations</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/about-tyler/our-mission-vision-values">Our Mission, Vision, &amp; Values</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/about-tyler/product-name-update-faq">Product Name Update FAQ</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/media-room">Media Room</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/resources/videos-and-webinars/tyler-technologies-who-we-are">Corporate Overview</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/media-room/fast-facts">Fast Facts</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://investors.tylertech.com/news/default.aspx">Press Releases</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/partners">Partners</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/partners/association-partners">Association Partners</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/partners/government-contract-procurement-vehicles">Government Contract Procurement Vehicles</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/partners/small-business-program">Small Business Program</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/partners/technology-partners">Technology Partners</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/partners/tyler-platform-alliance">Tyler Platform Alliance</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/security-compliance">Security &amp; Compliance</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/security-compliance/application-security">Application Security</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/security-compliance/bug-reporting">Bug Reporting</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/security-compliance/cjis-compliance">CJIS Compliance</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/security-compliance/gdpr-compliance">GDPR Compliance</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/security-compliance/pci-compliance">PCI Compliance</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/security-compliance/soc-compliance">SOC Compliance</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/security-compliance/pci-training">PCI Training</a>
+
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/tyler-client-difference">Tyler Client Difference</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/tyler-client-difference/attend-an-event">Attend an Event</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/tyler-client-difference/client-tools">Client Tools</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/tyler-client-difference/connected-communities">Connected Communities</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/tyler-client-difference/evergreen">Evergreen</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/tyler-client-difference/everguide">EverGuide</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/tyler-client-difference/tyler-excellence-awards">Tyler Excellence Awards</a>
+
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/about-us/tyler-client-difference/why-tyler">Why Tyler</a>
+
+                </li>
+
+                        </ul>
+                </li>
+
+                        </ul>
+                </li>
+                <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/careers">Careers</a>
+
+                        <ul class="subitems">
+                                            <li class="">
+                            <a class="nav-link" href="https://www.tylertech.com/careers/job-openings">Job Openings</a>
+
+                </li>
+
+                        </ul>
+                </li>
+
+    </ul>
+
+            </div>
+        </nav>
+    </div>
+</nav>
+
+        <div class="body-content">
+
+            <div id="dnn_FullwidthPaneTop"><div class="DnnModule DnnModule-TylerLayoutWrapperModule DnnModule-8382"><a name="8382"></a>
+
+<div class="ContainerWrapper">
+    <div class="dnnClear">
+        <div id="dnn_ctr8382_ContentPane" class="containerPane"><!-- Start_Module_8382 --><div id="dnn_ctr8382_ModuleContent" class="DNNModuleContent ModTylerLayoutWrapperModuleC">
+	
+<style>
+    .dnnEditState .dynamic-pane-container {
+        box-shadow: -1px 0 18px 0 rgba(66, 127, 189, 0.5);
+    }
+</style>
+<style></style>
+<div id="dnn_ctr8382_view_pnlPaneWrapper" class="dynamic-pane-container bg-gray-circles-top-right">
+		
+<div id="dnn_8C47_Pane1" class="dynamic-pane pane container"><div class="DnnModule DnnModule-ContentLayout DnnModule-653 DnnVersionableControl"><a name="653"></a>
+
+<div class="ContainerWrapper">
+    <div class="dnnClear">
+        <div id="dnn_ctr8382_view_ctr653_ContentPane" class="containerPane"><!-- Start_Module_653 --><div id="dnn_ctr8382_view_ctr653_ModuleContent" class="DNNModuleContent ModContentLayoutC">
+			<div id="dnn_ctr8382_view_ctr653_View_CL_653" class="layoutContainer container-fluid dnn-cl">
+    <div id="dnn_ctr8382_view_ctr653_View_Row" class="row">
+    <div id="dnn_4D0B_Pane1" class="pane col-lg-6 col-md-6 col-sm-6 col-xs-12" style="width:70%;"><div class="DnnModule DnnModule-OpenContent DnnModule-655"><a name="655"></a>
+
+<div class="ContainerWrapper">
+    <div class="dnnClear">
+        <div id="dnn_ctr8382_view_ctr653_View_ctr655_ContentPane" class="containerPane"><!-- Start_Module_655 --><div id="dnn_ctr8382_view_ctr653_View_ctr655_ModuleContent" class="DNNModuleContent ModOpenContentC">
+				
+
+
+
+
+
+
+
+
+
+<div id="HeaderImageRand-655" class="inner-page-hero">
+    <div class="container">
+        <div class="inner-container">
+            <div id="breadcrumb-container"></div>
+            <h1 class="title"></h1>
+            <div class="description"></div><!-- Trigger/Open The Modal -->
+            <a id="firstButton" class="btn requestModal firstModal" url="button-contact.url" style="display: none;">Get in
+                Touch</a>
+            <a id="secondButton" class="btn requestModal secondModal" url="button-quote.url" style="display: none;">Request a Demo</a>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    var moduleId=  655;
+    function initializeForm() {
+
+    var firstButton = null;
+    var secondButton = null;
+    var randomItem = {"title":"Terms of Use","show_first_button":false,"show_second_button":false,"First_Button_Form":{},"Second_Button_Form":{}};
+    $('#HeaderImageRand-'+moduleId+' .title').html(randomItem.title);
+    $('#HeaderImageRand-'+moduleId+' .description').html(randomItem.description);
+    $('#HeaderImageRand-'+moduleId+' #firstButton').addClass(randomItem.first_button_style);
+
+    if (randomItem.show_first_button === true) {
+        $('#HeaderImageRand-'+moduleId+' #firstButton').show();
+    }
+    if (randomItem.show_second_button === true) {
+        $('#HeaderImageRand-'+moduleId+' #secondButton').show();
+    }
+
+    $('#HeaderImageRand-'+moduleId+' #secondButton').addClass(randomItem.second_button_style);
+
+    if (randomItem.background_image !== undefined) {
+        $('#HeaderImageRand-'+moduleId).css('background-image', 'url(' + randomItem.background_image + '?format=jpg&quality=80' + ')');
+    }
+    else {
+        $('#HeaderImageRand-'+moduleId+'.inner-page-hero').css('height', 'auto');
+        $('.inner-page-hero .inner-container').css('max-width', '90%');
+    }
+
+
+    return { firstButton:firstButton, secondButton:secondButton };
+	
+  }
+
+   $('#HeaderImageRand-'+moduleId+' .firstModal').click(function (e) {
+	 e.preventDefault();
+       
+        firstModal(initializeForm().firstButton);
+
+    });
+
+    $('#HeaderImageRand-'+moduleId+' .secondModal').click(function (e) {
+	e.preventDefault();
+      
+        secondModal(initializeForm().secondButton);
+
+    });
+
+
+
+    function firstModal(content) {
+     cleanInnerForm();
+        var firstButton = {};
+        if (content !== null && content !== '' && content !== undefined) {
+            firstButton = content;
+             $(".modal-Wrapper").fadeIn('slow');
+        }
+        else {
+            firstButton = initializeForm().firstButton;
+            $(".modal-Wrapper").fadeIn('slow');
+        }
+
+		window.scrollTo(0, 0);
+        $("#myModal .title").text(firstButton.Title !== '' && firstButton.Title !== undefined ? firstButton.Title : 'Get in Touch');
+        $("#myModal .description").html(firstButton.Description !== '' && firstButton.Description !== undefined ? firstButton.Description : '');
+        $('<form id=mktoForm_3524></form>').appendTo("#myModal .card");
+        $('<script type="text\/javascript">MktoForms2.loadForm("//app-ab26.marketo.com","015-NUU-525","3524",function(form) {' +
+                'form.vals({"mWebsitePageName":"' + window.location.href + '"});' +
+                'form.onSuccess(function(values, followUpUrl) { form.getFormElem().hide(); $("#myModal .success").show();' +
+                'return false;' +
+                '});' +
+                '});' +
+                'MktoForms2.onFormRender(function(){$(".modal-Wrapper .ask-a-question").addClass("show-modal"); });' +
+                '<\/script>').insertAfter("#myModal .container");
+    }
+    function secondModal(content) {
+       cleanInnerForm();
+        var secondButton = {};
+        if (content !== null && content !== '' && content !== undefined) {
+            secondButton = content;
+             $(".modal-Wrapper").fadeIn('slow');
+        }
+        else {
+            secondButton = initializeForm().secondButton;
+            $(".modal-Wrapper").fadeIn('slow');
+        }
+		window.scrollTo(0, 0);
+        $("#myModal .title").text(secondButton.Title !== '' && secondButton.Title !== undefined ? secondButton.Title : 'Request a Demo');
+        $("#myModal .description").html(secondButton.Description !== '' && secondButton.Description !== undefined ? secondButton.Description : '');
+        $('<form id=mktoForm_3618></form>').appendTo("#myModal .card");
+        $('<script type="text\/javascript">MktoForms2.loadForm("//app-ab26.marketo.com","015-NUU-525","3618",function(form) {' +
+               'form.vals({"mWebsitePageName":"' + window.location.href + '"});' +
+                'form.onSuccess(function(values, followUpUrl) { form.getFormElem().hide(); $("#myModal .success").show(); ' +
+                'return false;' +
+                '});' +
+                '});' +
+                'MktoForms2.onFormRender(function(){$(".modal-Wrapper .ask-a-question").addClass("show-modal"); });' +
+                '<\/script>').insertAfter("#myModal .container");
+
+    }
+
+
+
+    initializeForm();
+
+
+
+    $(document).on("opencontent.change", function (event, element) {
+        setTimeout(function () {
+            initializeForm();
+        }, 500);
+    });
+
+
+</script>
+			</div><!-- End_Module_655 --></div>
+    </div>
+</div>
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-654 DnnVersionableControl"><a name="654"></a>
+
+<div class="ContainerWrapper">
+    <div class="dnnClear">
+        <div id="dnn_ctr8382_view_ctr653_View_ctr654_ContentPane" class="containerPane"><!-- Start_Module_654 --><div id="dnn_ctr8382_view_ctr653_View_ctr654_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+				<div id="dnn_ctr8382_view_ctr653_View_ctr654_HtmlModule_lblContent"><h2>Terms of Use</h2>
+<p>This Terms of Use generally applies to your access to and use of online services (the “Service” or “Services”) developed, operated and made available to you by Tyler Technologies, Inc. and <a href="/Portals/0/Privacy/Tyler-Subsidiaries-Affiliated-Entities.pdf" target="_blank">its subsidiaries</a> (“Tyler”) except where terms specific to a particular Service may apply instead.
+</p>
+<p>Services include online applications and features, digital services, websites and mobile applications provided by Tyler. Access to and use of the Services is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein.
+</p>
+<p>Your access to and use of the Services constitutes a legal agreement between you and Tyler (“Agreement”). Additional or separate terms may apply to your access to and use of the Services. To the extent that the provisions of any additional terms conflict with these Terms of Use, the provisions of the additional terms will govern.
+</p>
+<p>THIS AGREEMENT CONTAINS A BINDING ARBITRATION PROVISION WHICH MAY BE ENFORCED BY THE PARTIES AND A WAIVER OF YOUR CLASS ACTION RIGHTS.
+</p>
+<p><a name="MODIFICATION"></a>
+</p>
+<h2>Modification of These Terms of Use</h2>
+<p>Tyler reserves the right to change the terms, conditions, and notices under which the Services are offered, including but not limited to the charges associated with the use of the Services. Tyler may modify these Terms of Use at any time, and such modifications will be effective immediately upon posting of the modified Terms of Use.  Accordingly, you agree to review the Terms of Use periodically, and your continued access or use of the Services will be deemed your acceptance of the modified Terms of Use.
+</p>
+<p><a name="LINKS"></a>
+</p>
+<h2>Links to Third Party Sites</h2>
+<p>Some Services may contain links to third-party web sites ("Linked Sites"). Linked Sites are not under Tyler’s control and Tyler is not responsible for the contents of any Linked Site, including without limitation, any link contained in a Linked Site, or any changes or updates to a Linked Site. Tyler is not responsible for webcasting or any other form of transmission received from any Linked Site. Any Service containing links to a Linked Site provides these links to you only as a convenience, and the inclusion of any link does not imply endorsement by Tyler of the Linked Site or any association with its operators.
+</p>
+<p><a name="UNLAWFUL"></a>
+</p>
+<h2>No Unlawful or Prohibited Use</h2>
+<p>As a condition of your accessing, using, downloading or logging into the Services, you warrant to Tyler that you will not access or use the Services for any purpose that is unlawful or prohibited by these terms, conditions, and notices or by the terms specific to a particular Service as applicable. You may not use the Services in any manner which could damage, disable, overburden, or impair the Services or interfere with any other party's use and enjoyment of the Services. You may not obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the Services.
+</p>
+<p><a name="RESTRICTIONS"></a>
+</p>
+<h2>Restrictions on Use </h2>
+<p>You agree to use the Services only for lawful purposes and to follow all applicable laws and regulations of the United States and any state, province or country in which you reside that are in effect and that may be in effect in the future when using the Services. While using the Services, you will not:
+</p>
+<ul>
+	<li>Violate any laws, regulations, third-party rights (including intellectual property rights), or Tyler’s policies;</li>
+	<li>If any feature of a Service allows you to post or upload content, post or upload any content that is libelous, defamatory, harmful, harassing, threatening, false, misleading, or discriminatory;</li>
+	<li>If any feature of a Service allows you to post or upload content, post, use, or upload any content that misappropriates any trade secret or infringes any intellectual property rights, rights of publicity, rights of privacy, or proprietary right of any party;</li>
+	<li>Affect Tyler adversely or reflect negatively on the Services, Tyler, our goodwill, name, or reputation;</li>
+	<li>Impersonate anyone or any entity or falsely state or misrepresent your affiliation with a person or entity;</li>
+	<li>Display advertising or commercial content;</li>
+	<li>Collect or store personal data about other users or individuals;</li>
+	<li>Use any computer code, data mining software, "robot," "bot," "spider," "scraper" or other automatic device, or program, algorithm or methodology having similar processes or functionality, or any manual process, to monitor or copy any of the Web pages, data or content found or accessed through the Services;</li>
+	<li>Transmit any material that contains software viruses, trojan horses, worms, time bombs, cancelbots, or other malicious code;</li>
+	<li>Take any action to use the Services in any manner that violates or is inconsistent with this Terms of Use or to circumvent, compromise or defeat any security measures implemented in the Services, including to gain unauthorized access to: (i) Tyler’s applications, products and services; (ii) other users’ accounts, names, passwords, personally identifiable information; or (iii) other computers, websites, or pages connected or linked to Tyler’s Services;</li>
+	<li>Display, distribute, license, perform, publish, reproduce, duplicate, copy, create derivative works from, modify, sell, resell, exploit, transfer, or transmit for any commercial purposes, all or any portion of the Services or use in-line or other linking to display content from the Services without Tyler’s permission; or</li>
+	<li>Modify, disrupt, impair, alter, or interfere with the use, features, functions, operation, or maintenance of the Services or the rights or use and enjoyment of the Services by any other person, firm, or enterprise (collectively, “Person”); or collect, obtain, compile, transmit, reproduce, delete, revise, or display any material or information, whether personally identifiable or not, posted by or concerning any other Person in connection with use of the Services, unless you have obtained the express, prior permission of such other Person.</li>
+	<li>Some Services may contain bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, and/or other message or communication facilities designed to enable you to communicate with the public at large or with a group (collectively, "Communication Services"). You agree to use the Communication Services only to post, send and receive messages and material that are proper and related to the particular Communication Service. Tyler has no obligation to monitor the Communication Services. However, Tyler reserves the right to review materials posted to a Communication Service and to remove any materials in its sole discretion. Tyler reserves the right to terminate your access to any or all of the Communication Services at any time without notice for any reason whatsoever.</li>
+</ul>
+<p>Always use caution when giving out any personally identifying information in any Communication Service. Tyler does not control or endorse the content, messages or information found in any Communication Service and, therefore, Tyler specifically disclaims any liability with regard to the Communication Services and any actions resulting from your participation in any Communication Service.
+</p>
+<p><a name="REGISTRATION"></a>
+</p>
+<h2>Registration and Account Information</h2>
+<p>In some cases, you must register and create an account in order to use the Services. To register and create an account (“Registered Account”) you may be required to create login credentials such as a username and password and provide personal information such as an email address and mobile phone number. You are responsible for maintaining the confidentiality of your login credentials and will be responsible for all activities that occur under your Registered Account. Should you become aware of or suspect any unauthorized use of your Registered Account, you will immediately notify Tyler at info@tylertech.com. In connection with the foregoing, you agree to: (i) provide true, accurate, current and complete registration and account information about yourself as prompted and required by the Services; and (ii) provide any updates to your Registered Account as required to keep it true, accurate, current and complete.
+</p>
+<p><a name="REVIEWS"></a>
+</p>
+<h2>Reviews, Comments and Other Submissions To Any Service</h2>
+<p>We welcome your comments and feedback regarding a Service provided to us using contact information available through the Service. Comments, feedback, suggestions, ideas or materials you provide to Tyler or post, upload, input or submit to any Service or its associated services, features, or applications (collectively "Submissions") are not confidential and will become and remain the property of Tyler. Tyler shall not be liable for any use of a Submission.
+</p>
+<p>No compensation will be paid with respect to the use of your Submission, as provided herein. Tyler is under no obligation to post or use any Submission you may provide.
+</p>
+<p>By posting, uploading, inputting, providing or submitting your Submission you warrant and represent that you own or otherwise control all of the rights to your Submission as described in this section including, without limitation, all the rights necessary for you to provide, post, upload, input or submit the Submissions.
+</p>
+<p>Tyler has no obligation to monitor the Submissions. However, Tyler reserves the right to review materials posted to the Services and to remove any materials in its sole discretion.
+</p>
+<p>Tyler reserves the right at all times to disclose any information as necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit or refuse to post any information or materials, in whole or in part, in Tyler's sole discretion.
+</p>
+<p><a name="DISCLAIMER"></a>
+</p>
+<h2>Liability Disclaimer</h2>
+<p>THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH THE SERVICES MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. TYLER AND/OR ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE SERVICES AT ANY TIME. ADVICE RECEIVED VIA THE SERVICES SHOULD NOT BE RELIED UPON FOR PERSONAL, MEDICAL, LEGAL OR FINANCIAL DECISIONS AND YOU SHOULD CONSULT AN APPROPRIATE PROFESSIONAL FOR SPECIFIC ADVICE TAILORED TO YOUR SITUATION.
+</p>
+<p>TYLER AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY, RELIABILITY, AVAILABILITY, TIMELINESS, AND ACCURACY OF THE INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS CONTAINED WITHIN OR ACCESSED THROUGH THE SERVICES FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL SUCH INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS ARE PROVIDED "AS IS" WITHOUT WARRANTY OR CONDITION OF ANY KIND. TYLER AND/OR ITS SUPPLIERS HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+</p>
+<p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL TYLER AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF USE, DATA OR PROFITS, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OR PERFORMANCE OF THE SERVICES, WITH THE DELAY OR INABILITY TO USE THE SERVICES OR RELATED SERVICES, THE PROVISION OF OR FAILURE TO PROVIDE SERVICES, OR FOR ANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS OBTAINED THROUGH THE SERVICES, OR OTHERWISE ARISING OUT OF THE USE OF THE SERVICES, WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, EVEN IF TYLER OR ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SERVICES, OR WITH ANY OF THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SERVICES.
+</p>
+<p>SERVICE CONTACT : <a href="mailto:info@tylertech.com">info@tylertech.com</a>
+</p>
+<p><a name="TERMINATION"></a>
+</p>
+<h2>Termination/Access Restriction</h2>
+<p>Tyler reserves the right, in its sole discretion, to terminate your access to the Services and the related services or any portion thereof at any time, without notice.
+</p>
+<p><a name="DISPUTES"></a>
+</p>
+<h2>Disputes</h2>
+<p>Please contact Tyler in writing at 5101 Tennyson Pkwy, Plano, Texas 75024, Attn: Legal Department, regarding any claim or controversy arising out of or relating to this Agreement, or any breach thereof, and Tyler will attempt in good faith to resolve the claim, or we can agree to engage in mediation. Each party agrees to pay for its own expenses in engaging in mediation. Any claim, dispute, or controversy that cannot be resolved through mediation within thirty (30) days following receipt of written notice will be settled by arbitration as set forth below.
+</p>
+<ol style="list-style-type: upper-alpha;">
+	<li>Arbitration. Except for claims or controversies for which Tyler may pursue injunctive relief, any claim, dispute, or controversy arising out of or relating to the Services, this Agreement, or the breach, termination, enforcement, interpretation, or validity of this Agreement, will be resolved exclusively by binding arbitration administered by the American Arbitration Association (“AAA”) before a single arbitrator. Payment of all filing, administration, and arbitrator fees will be governed by AAA’s applicable rules. The arbitrator’s decision shall be controlled by this Agreement and any other agreements referenced herein. If the claim or controversy is for $10,000 or less, Tyler agrees that you may choose whether the arbitration will be conducted solely on the basis of documents submitted to the arbitrator through a telephonic hearing or by an in-person hearing as established by the AAA Rules. If the claim or controversy exceeds $10,000, the right to a hearing will be determined by the AAA Rules. Regardless of the manner in which the arbitration is conducted, the award of the arbitrator shall be accompanied by a statement of the reasons upon which the award is based. You understand that, in the absence of this provision, you would have had a right to litigate disputes through a court, including the right to litigate claims on a class-wide or class-action basis, and that you have expressly and knowingly waived those rights and agreed to resolve any disputes through binding arbitration in accordance with the provisions of this paragraph.</li>
+	<li>Limitation on Time to File. YOU AGREE THAT IF YOU DO NOT FILE A DEMAND TO ARBITRATE A DISPUTE WITHIN ONE (1) YEAR AFTER THE DISPUTE ARISES, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.</li>
+	<li>Arbitration on an Individual Basis Only; Class Arbitration Waiver. YOU AGREE THAT, BY ACCEPTING THIS AGREEMENT, YOU AND TYLER ARE EACH WAIVING THE RIGHT TO PARTICIPATE IN OR BRING A CLASS ACTION. TYLER AND YOU AGREE TO ARBITRATE SOLELY ON AN INDIVIDUAL BASIS AND AGREE THAT THIS AGREEMENT DOES NOT PERMIT CLASS ARBITRATION OR ANY CLAIMS BROUGHT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ARBITRATION PROCEEDING. THE ARBITRATOR MAY NOT CONSOLIDATE MORE THAN ONE PERSON’S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE OR CLASS PROCEEDING. THIS AGREEMENT EVIDENCES A TRANSACTION IN INTERSTATE COMMERCE, AND THUS THE FEDERAL ARBITRATION ACT (“FAA”) GOVERNS THE INTERPRETATION AND ENFORCEMENT OF THIS PROVISION. IF FOR ANY REASON, A CLAIM PROCEEDS IN COURT RATHER THAN ARBITRATION, TYLER AND YOU WAIVE ANY RIGHT TO A JURY TRIAL OR TO PARTICIPATE IN A CLASS ACTION AGAINST EACH OTHER.</li>
+	<li>Applicable Law and Venue. The Service is accessible over the Internet and therefore available worldwide, Access to and use of the Services is at your own risk and subject to the laws of the United States of America in addition to the applicable laws in your state, province or country. You are responsible for compliance with any local laws and regulations. Nothing in the Services should be interpreted as a promotion or solicitation for any product of any nature that is not authorized by the laws and regulations of the country where you are located. You agree that the laws of the State of Texas, USA, without giving effect to any principles of conflicts of law, govern this Agreement and any dispute of any sort that may arise between you and us or any of our subsidiaries. Any arbitration related to this Agreement shall occur in Collin County, Texas. Tyler and you acknowledge that this Agreement evidences a transaction involving interstate commerce. Notwithstanding the foregoing paragraph with respect to applicable substantive law, any arbitration conducted pursuant to this Agreement shall be governed by the FAA, 9 U.S.C. §§ 1-16.</li>
+	<li>Conflict. If any part of this arbitration provision is deemed to be invalid, unenforceable or illegal, or otherwise conflicts with the code of procedure established by the AAA, the balance of this arbitration provision shall remain in effect and shall be construed in accordance with its terms as if the invalid, unenforceable, illegal, or conflicting provision were not contained herein.</li>
+	<li>Injunctive Relief. Notwithstanding anything to the contrary, Tyler retains the right to seek injunctive relief if you use the Services in violation of the access rights or the restrictions on use, infringe upon or misappropriate Tyler’s intellectual property rights, or breach your obligation to maintain the confidentiality of Tyler’s confidential or proprietary information made available to you through the Services.</li>
+</ol>
+<p><a name="COPYRIGHT"></a>
+</p>
+<h2>Copyright and Trademark Notices</h2>
+<p>Tyler and our logos, trademarks, service marks, product names, text, design, graphics, interfaces and code displayed by, in or on the Services are: ©2024 Tyler Technologies, Inc. | All Rights Reserved and/or its suppliers. All rights reserved.
+</p>
+<p><a name="TRADEMARKS"></a>
+</p>
+<h2>Trademarks</h2>
+<p>The names of actual companies and products mentioned herein may be the trademarks of their respective owners.
+</p>
+<p>The example companies, organizations, products, people and events depicted herein are fictitious. No association with any real company, organization, product, person, or event is intended or should be inferred.
+</p>
+<p>Any rights not expressly granted herein are reserved.
+</p>
+<p><a name="INFRINGEMENT"></a>
+</p>
+<h2>Notices and Procedure for Making Claims of Copyright Infringement</h2>
+<p>Notifications of claimed copyright infringement should be sent to:
+</p>
+<p>Tyler Technologies, Inc.
+</p>
+<p>Attention: Chief Legal Officer
+</p>
+<p>1 Tyler Drive
+</p>
+<p>Yarmouth, ME 04096
+</p>
+<p><a href="mailto:copyright@tylertech.com">copyright@tylertech.com</a>
+</p>
+<p>The notification must be in writing and include the following:
+</p>
+<ol>
+	<li>The signature of the copyright owner or someone acting on the copyright owner’s behalf;</li>
+	<li>Identification of the copyrighted work(s) claimed to have been infringed;</li>
+	<li>Identification of the material(s) claimed to be infringing;</li>
+	<li>Contact information for the copyright owner or someone acting on the copyright owner’s behalf;</li>
+	<li>A statement that the copyright owner has a good faith belief that use of the material in the manner complained about is not authorized;</li>
+	<li>A statement that the information in the notification is accurate and, under the penalty of perjury, that the complaining party is authorized to act on behalf of the copyright owner.</li>
+</ol>
+<p>Any notification that does not include all of the above information will not receive a response.
+</p>
+<p>It is the policy of Tyler Technologies, Inc., to terminate accounts belonging to users who are repeat infringers.
+</p></div>
+
+
+
+
+			</div><!-- End_Module_654 --></div>
+    </div>
+</div>
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-34393 DnnVersionableControl"><a name="34393"></a>
+
+<div class="ContainerWrapper">
+    <div class="dnnClear">
+        <div id="dnn_ctr8382_view_ctr653_View_ctr34393_ContentPane" class="containerPane"><!-- Start_Module_34393 --><div id="dnn_ctr8382_view_ctr653_View_ctr34393_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+				<div id="dnn_ctr8382_view_ctr653_View_ctr34393_HtmlModule_lblContent"><p>Effective April 29, 2024
+</p></div>
+
+
+
+
+			</div><!-- End_Module_34393 --></div>
+    </div>
+</div>
+
+</div></div><div id="dnn_4D0B_Pane2" class="pane col-lg-6 col-md-6 col-sm-6 col-xs-12" style="width:30%;"><div class="DnnModule DnnModule-OpenContent DnnModule-661"><a name="661"></a>
+
+<div class="ContainerWrapper">
+    <div class="dnnClear">
+        <div id="dnn_ctr8382_view_ctr653_View_ctr661_ContentPane" class="containerPane"><!-- Start_Module_661 --><div id="dnn_ctr8382_view_ctr653_View_ctr661_ModuleContent" class="DNNModuleContent ModOpenContentC">
+				
+
+
+
+
+
+<div class="spacer" style="height:111px; display:block; width:100%; clear:both;"><span>spacer module is 111px</span></div>
+			</div><!-- End_Module_661 --></div>
+    </div>
+</div>
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-656 DnnVersionableControl"><a name="656"></a>
+
+<div class="ContainerWrapper">
+    <div class="dnnClear">
+        <h4><span id="dnn_ctr8382_view_ctr653_View_ctr656_dnnTITLE_titleLabel" class="Head">Terms of Use Contents</span>
+
+
+</h4>
+        <div id="dnn_ctr8382_view_ctr653_View_ctr656_ContentPane" class="containerPane">
+        <!-- Start_Module_656 --><div id="dnn_ctr8382_view_ctr653_View_ctr656_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+				<div id="dnn_ctr8382_view_ctr653_View_ctr656_HtmlModule_lblContent"><ul>
+	<li><a href="#MODIFICATION">Modification of These Terms of Use</a></li>
+	<li><a href="#LINKS">Links to Third Party Sites</a></li>
+	<li><a href="#UNLAWFUL">No Unlawful or Prohibited Use</a></li>
+	<li><a href="#RESTRICTIONS">Restrictions on Use</a></li>
+	<li><a href="#REGISTRATION">Registration and Account Information</a></li>
+	<li><a href="#REVIEWS">Reviews, Comments and Other Submissions To Any Service</a></li>
+	<li><a href="#DISCLAIMER">Liability Disclaimer</a></li>
+	<li><a href="#TERMINATION">Termination/Access Restriction</a></li>
+	<li><a href="#DISPUTES">Disputes</a></li>
+	<li><a href="#COPYRIGHT">Copyright and Trademark Notices</a></li>
+	<li><a href="#TRADEMARKS">Trademarks</a></li>
+	<li><a href="#INFRINGEMENT">Notices and Procedure for Making Claims of Copyright Infringement</a></li>
+</ul></div>
+
+
+
+
+			</div><!-- End_Module_656 --></div>
+    </div>
+</div></div></div></div>
+</div>
+
+		</div><!-- End_Module_653 --></div>
+    </div>
+</div>
+
+</div></div>
+	</div>
+</div><!-- End_Module_8382 --></div>
+    </div>
+</div>
+
+</div></div>
+            <div class="min-height-global">
+                <section class="container">
+                    <div class="row">
+                        <div id="dnn_ContentPane" class="col-12"><div class="DnnModule DnnModule-TylerLayoutWrapperModule DnnModule-652"><a name="652"></a>
+
+<div class="ContainerWrapper">
+    <div class="dnnClear">
+        <div id="dnn_ctr652_ContentPane" class="containerPane"><!-- Start_Module_652 --><div id="dnn_ctr652_ModuleContent" class="DNNModuleContent ModTylerLayoutWrapperModuleC">
+	
+<style>
+    .dnnEditState .dynamic-pane-container {
+        box-shadow: -1px 0 18px 0 rgba(66, 127, 189, 0.5);
+    }
+</style>
+<style></style>
+<div id="dnn_ctr652_view_pnlPaneWrapper" class="dynamic-pane-container ">
+		
+<div id="dnn_CE7B_Pane1" class="dynamic-pane pane container-fluid DNNEmptyPane EditBarEmptyPane EditBarEmptyPane"></div>
+	</div>
+</div><!-- End_Module_652 --></div>
+    </div>
+</div>
+
+</div></div>
+                    </div>
+                </section>
+                <div id="dnn_FullwidthPaneMiddle" class="DNNEmptyPane"></div>
+                <section class="container">
+                    <div class="row">
+                        <div id="dnn_CenterPaneBottom" class="col-12 DNNEmptyPane"></div>
+                    </div>
+                </section>
+            </div>
+            <div id="dnn_FullwidthPaneBottom" class="DNNEmptyPane"></div>
+
+
+            <!-- The Modal -->
+            <div id="myModal" class="modal modal-Wrapper" data-backdrop="false">
+                <div class="container ask-a-question">
+                    <div class="container-close">
+                        <span class="close">&times;</span>
+                    </div>
+                    <span class="d-block text-center title"></span>
+                    <p class="text-center description"></p>
+
+                    <div class="card">
+                        <div class="success" style="display:none;">
+                            <em class="icon-md ty-checkmark light-green mb-3"></em>
+                            <span class="h2 text-center d-block">Your message has been sent!</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- The Modal -->
+
+        </div>
+        <footer>
+  <div class="container">
+    <div class="row">
+      <div class="col- 12 col-sm-6 col-md-3">
+         <div class="item">
+          <div class="title"><a href="/solutions/public-administration/appraisal-tax">Appraisal & Tax</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/public-administration/appraisal-tax/appraisal-services">Appraisal Services</a></li>
+            <li><a href="/solutions/public-administration/appraisal-tax/computer-assisted-mass-appraisal">CAMA</a></li>
+            <li><a href="/solutions/public-administration/appraisal-tax/tax-billing-collection">Tax Billing & Collection</a></li>
+          </ul>
+   
+		  </div>
+        <div class="item">
+          <div class="title"><a href="/solutions/public-administration/civic-services">Civic Services</a></div>
+          <ul class="childs">
+			 <li><a href="/solutions/public-administration/civic-services/Enterprise-Asset-Management">Asset Management</a></li>
+            <li><a href="/solutions/public-administration/civic-services#BusinessManagement">Business Management</a></li>
+            <li><a href="/solutions/public-administration/civic-services#CommunityDevelopment">Community Development</a></li>
+			  <li><a href="/solutions/public-administration/civic-services/correspondence-management">Correspondence Management</a></li>
+            <li><a href="/solutions/public-administration/civic-services#EnvironmentalHealth">Environmental Health</a></li>
+            <li><a href="/solutions/public-administration/civic-services#FirePrevention">Fire Prevention</a></li>
+			<li><a href="/solutions/public-administration/civic-services#MotorVehicle">Motor Vehicle</a></li>  
+            <li><a href="/solutions/public-administration/civic-services#ParksRecreation">Parks & Recreation</a></li>
+			
+          </ul>
+        </div>
+        <div class="item">
+          <div class="title"><a href="/solutions/courts-public-safety/corrections">Corrections</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/courts-public-safety/corrections#JailManagement">Jail Management</a></li>
+          </ul>
+        </div>
+        <div class="item">
+          <div class="title"><a href="/solutions/courts-public-safety/courts-justice">Courts & Justice</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/courts-public-safety/courts-justice#CivilProcess">Civil Process</a></li>
+			<li><a href="/solutions/courts-public-safety/courts-justice#computing-system-innovations">Computing System Innovations</a></li>
+            <li><a href="/solutions/courts-public-safety/courts-justice#CourtCaseManagement">Court Case Management</a></li>
+            <li><a href="/solutions/courts-public-safety/courts-justice#DisputeResolution">Dispute Resolution</a></li>
+            <li><a href="/solutions/courts-public-safety/courts-justice#ElectronicFiling">Electronic Filing</a></li>
+            <li><a href="/solutions/courts-public-safety/courts-justice/investigations-audits">Investigations & Audits</a></li>
+            <li><a href="/solutions/courts-public-safety/courts-justice/jury-management">Jury Management</a></li>
+            <li><a href="/solutions/courts-public-safety/courts-justice/justice-insights">Justice Insights</a></li>
+            <li><a href="/solutions/courts-public-safety/courts-justice#ProsecutionAttorneys">Prosecution & Attorneys</a></li>
+			<li><a href="/solutions/courts-public-safety/courts-justice/remote-hearings">Remote Hearings</a></li>
+            <li><a href="/solutions/courts-public-safety/courts-justice#Supervision">Supervision</a></li>
+          
+          </ul>
+        </div>
+        <div class="item">
+          <div class="title"><a href="/solutions/transformative-technology/cybersecurity">Cybersecurity</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/transformative-technology/cybersecurity/advisory-services">Advisory Services</a></li>
+            <li><a href="/solutions/transformative-technology/cybersecurity/assurance-services">Assurance Services</a></li>
+            <li><a href="/solutions/transformative-technology/cybersecurity#ManagedThreat">Managed Threat Detection</a></li>
+            <li><a href="/solutions/transformative-technology/cybersecurity#MaturityProgram">Maturity Program</a></li>
+          </ul>
+        </div>
+                
+      </div>
+      <div class="col- 12 col-sm-6 col-md-3">
+ <div class="item">
+          <div class="title"><a href="/solutions/transformative-technology/data-insights">Data & Insights</a></div>
+          <ul class="childs">
+              <li><a href="/products/data-insights/economic-intelligence">Economic Intelligence</a></li>
+            <li><a href="/products/data-insights/enterprise-data-platform">Enterprise Data Platform</a></li>
+            <li><a href="/products/data-insights/finance-insights">Finance Insights</a></li>
+            <li><a href="/products/data-insights/open-data-platform">Open Data Platform</a></li>
+            <li><a href="/products/data-insights/performance-insights">Performance Insights</a></li>
+            
+          </ul>
+        </div>
+        <div class="item">
+          <div class="title"><a href="/solutions/health-human-services/disability-benefits">Disability & Benefits</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/health-human-services/disability-benefits/disability-benefits-management">Disability Benefits Management</a></li>
+            <li><a href="/solutions/health-human-services/disability-benefits/home-community-based-services">Home & Community Based Services</a></li>
+            <li><a href="/solutions/health-human-services/disability-benefits/veterans-benefits">Veterans' Benefits</a></li>
+            <li><a href="/solutions/health-human-services/disability-benefits/vocational-rehabilitation">Vocational Rehabilitation</a></li>
+            <li><a href="/solutions/health-human-services/disability-benefits/workers-compensation-case-management">Workers' Compensation Case Management</a></li>
+          </ul>
+        </div>
+        <div class="item">
+          <div class="title"><a href="/solutions/public-administration/erp">ERP</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/public-administration/erp/financial-management">Financial Management</a></li>
+            <li><a href="/solutions/public-administration/erp/human-resources-management">Human Resources
+                Management</a></li>
+            <li><a href="/solutions/public-administration/erp/revenue-management">Revenue Management</a></li>
+			<li><a href="/solutions/public-administration/erp/utilities">Utilities</a></li>
+          </ul>
+        </div>
+        <div class="item">
+          <div class="title"><a href="/solutions/public-administration/land-official-records">Land & Official Records</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/public-administration/land-official-records#PublicAccessTransparency">Public Access & Transparency</a></li>
+            <li><a href="/solutions/public-administration/land-official-records/records-management">Records Management</a></li>
+          </ul>
+        </div>
+		  <div class="item">
+          <div class="title"><a href="/solutions/public-administration/outdoor-recreation">Outdoor Recreation</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/public-administration/outdoor-recreation#Recreation-Management">Campground & Park Reservations</a></li>
+			<li><a href="/solutions/public-administration/outdoor-recreation#Recreational-Licensing">Hunting & Fishing Licensing</a></li>
+			<li><a href="/solutions/public-administration/outdoor-recreation#Parks-Recreation">Parks & Recreation</a></li>
+          </ul>
+        </div>
+		  
+		   <div class="item">
+          <div class="title"><a href="/solutions/transformative-technology/payments">Payments</a></div>
+          <ul class="childs">
+			<li><a href="/solutions/transformative-technology/payments#Corrections-and-Jail-Disbursements">Corrections and Jail Disbursements</a></li>
+			<li><a href="/solutions/transformative-technology/payments#Disbursements">Digital Disbursements and Payouts</a></li>
+			<li><a href="/solutions/transformative-technology/payments#Juror-and-Court-Related-Disbursements">Jury and Court Disbursements</a></li>
+            <li><a href="/solutions/transformative-technology/payments#PaymentProcessing">Payment Processing</a></li>
+            <li><a href="/solutions/transformative-technology/payments#Point-of-SaleCashiering">Point-of-Sale Cashiering</a></li>
+          </ul>
+        </div>
+	
+      
+         
+        <!--Productivity Tools was here - moved to 3rd column due to make it more centered-->
+		</div>	  	  
+      
+      <div class="col- 12 col-sm-6 col-md-3">
+		  
+		   <div class="item">
+          <div class="title"><a href="/solutions/transformative-technology/productivity-tools">Productivity Tools</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/transformative-technology/productivity-tools#ContentManagement">Content Management</a></li>
+            <li><a href="/solutions/transformative-technology/productivity-tools#MeetingManagement">Meeting Management</a></li>
+          </ul>
+        </div>
+	
+		  
+		  
+		  <div class="item">
+          <div class="title"><a href="/solutions/courts-public-safety/public-safety">Public Safety</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/courts-public-safety/public-safety/citation-management">Citation Management</a></li>
+            <li><a href="/solutions/courts-public-safety/public-safety/computer-aided-dispatch">Computer Aided Dispatch</a></li>
+            <li><a href="/solutions/courts-public-safety/public-safety/fire-ems">Fire & EMS</a></li>
+			<li><a href="/solutions/courts-public-safety/public-safety/law-enforcement-records-management">Law Enforcement Records Management</a></li>
+            <li><a href="/solutions/courts-public-safety/public-safety/mobile-operations">Mobile Operations</a></li>
+            <li><a href="/solutions/courts-public-safety/public-safety/public-safety-analytics">Public Safety Analytics</a></li>
+          </ul>
+        </div>
+		  
+        <div class="item">
+          <div class="title"><a href="/solutions/public-administration/regulatory">Regulatory</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/public-administration/regulatory#BusinessLicense">Business Licensing for Local Government</a></li>
+			  <li><a href="/solutions/public-administration/regulatory/cannabis-licensing">Cannabis Licensing</a></li>
+            <li><a href="/solutions/public-administration/regulatory/financial-regulatory-compliance">Financial Regulatory Compliance</a></li>
+            <li><a href="/solutions/public-administration/regulatory/public-service-commission-oversight">Public Service Commission Oversight</a></li>
+            <li><a href="/solutions/public-administration/regulatory/regulatory-case-management">Regulatory Case Management</a></li>
+          </ul>
+        </div>
+        <div class="item">
+          <div class="title"><a href="/solutions/k-12-education/school-erp">School ERP</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/k-12-education/school-erp#FacilityManagement">Facility Management</a></li>
+            <li><a href="/solutions/k-12-education/school-erp/financial-management">Financial Management</a></li>
+            <li><a href="/solutions/k-12-education/school-erp#HumanResourcesManagement">Human Resources Management</a></li>
+          </ul>
+        </div>
+       
+        <div class="item">
+          <div class="title"><a href="/solutions/k-12-education/student-transportation">Student
+              Transportation</a></div>
+          <ul class="childs">
+            <li><a href="/solutions/k-12-education/student-transportation#BusRouting">Bus Routing
+            <li><a href="/solutions/k-12-education/student-transportation#FieldTripManagement">Field Trip Management</li></a>
+            <li><a href="/solutions/k-12-education/student-transportation#GPS">GPS Tracking & Tablets</a></li>
+			<li><a href="/solutions/k-12-education/student-transportation#OnboardiPaaS">Integration Platform Services</a></li> 
+            <li><a href="/solutions/k-12-education/student-transportation#ParentCommunication">Parent Communication</a></li>
+            <li><a href="/solutions/k-12-education/student-transportation/student-ridership">Student Ridership</a></li>
+            <li><a href="/solutions/k-12-education/student-transportation#VehicleMaintenance">Vehicle Maintenance</a></li>
+          </ul>
+        </div>
+
+         <div class="item">
+          <div class="title"><a href="/solutions">Browse All Solutions</a></div>
+        </div>
+        
+      </div>
+      <div class="col-12 col-sm-6 col-md-3">
+        <img alt="Tyler Technologies" class="logo-footer" src="/Portals/_default/skins/tylerskin/img/logo-white.png" />
+        <div>
+          <p>
+            <span class="title">
+              Corporate Headquarters
+            </span> <br />
+            <span class="childs">
+              5101 Tennyson Parkway<br />
+              Plano, Texas 75024<br />
+              972-713-3700<br />
+              <a href="mailto:info@tylertech.com">info@tylertech.com</a>
+            </span>
+          </p>
+        </div>
+        <!--<p class="title"><a href="#">Contact Us</a></p>-->
+        <div class="item">
+          <div class="single"> <a href="/about-us/media-room">Media Relations</a></div>
+          <div class="single"> <a href="/about-us/locations">Office Locations</a></div>
+          <div class="single"><a href="/about-us">About Us</a></div>
+          <div class="single"><a href="/careers">Careers</a></div>
+          <div class="single"><a href="/client-support">Client Support</a></div>
+          <div class="single"><a href="https://investors.tylertech.com/">Investor Community</a></div>
+        <div class="single"><a href="/about-us/who-we-are/corporate-responsibility">Corporate Responsibility</a></div>
+          <div class="single"><a href="/about-us/media-room">Media Room</a></div>
+          <div class="single"><a href="/about-us/security-compliance">Security</a></div>
+          
+        </div>
+        <p>&nbsp;</p>
+        <p class="title">Follow Us</p>
+        <div class="list-icons">
+          <a href="https://twitter.com/tylertech" target="_blank" title="Twitter"><em class="icon-social twitter"></em></a>
+          <a href="https://www.facebook.com/tylertech" target="_blank" title="Facebook"><em class="icon-social facebook"></em></a>
+          <a href="https://www.instagram.com/tylertechnologies/" target="_blank" title="Instagram"><em class="icon-social instagram"></em></a>
+          <a href="https://www.linkedin.com/company/tyler-technologies" target="_blank" title="LinkedIn"><em class="icon-social linkedin"></em></a>
+          <a href="https://www.youtube.com/c/tylertechnologies-inc" target="_blank" title="YouTube"><em class="icon-social youtube"></em></a>
+        </div>
+        <div class="copyright mb-2">
+          <span id="dnn_dnnCopyright_lblCopyright" class="SkinObject">Copyright 2024 Tyler Technologies</span>
+
+          <ul class="nav mt-2">
+            <li><a href="/privacy">Privacy</a></li>
+            <li><a href="/terms">Terms of Use</a></li>
+            <li><a href="/client-terms/money-transmitter-licenses-disclosures">Consumer Notices</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script>(function(){ var s = document.createElement('script'), e = ! document.body ? document.querySelector('head') : document.body; s.src = 'https://acsbapp.com/apps/app/dist/js/app.js'; s.async = true; s.onload = function(){ acsbJS.init({ statementLink : '', footerHtml : '', hideMobile : false, hideTrigger : false, language : 'en', position : 'right', leadColor : '#146FF8', triggerColor : '#146FF8', triggerRadius : '50%', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerIcon : 'people', triggerSize : 'medium', triggerOffsetX : 20, triggerOffsetY : 20, mobile : { triggerSize : 'small', triggerPositionX : 'right', triggerPositionY : 'bottom', triggerOffsetX : 10, triggerOffsetY : 10, triggerRadius : '50%' } }); }; e.appendChild(s);}());</script>
+</footer><!--CDF(Javascript|/Portals/_default/skins/tylerskin/bootstrap/js/bootstrap.min.js?cdv=583|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/tylerskin/js/jquery.matchHeight.min.js?cdv=583|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/tylerskin/js/detect_browser.min.js?cdv=583|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Portals/_default/skins/tylerskin/js/jquery.countdown.min.js?cdv=583|DnnBodyProvider|100)-->
+
+<!--CDF(Javascript|https://empower.tylertech.com/js/forms2/js/forms2.min.js?cdv=583|DnnBodyProvider|100)-->
+<!--CDF(Javascript|/Marketo/marketo-templates/js/ask-a-question-custom.js?cdv=583|DnnBodyProvider|100)-->
+
+<!--CDF(Css|https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/7.0.6/jquery.mmenu.all.css?cdv=583|DnnPageHeaderProvider|100)-->	
+<!--CDF(Javascript|https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/7.0.6/jquery.mmenu.all.js?cdv=583|DnnBodyProvider|100)-->
+<!--CDF(Javascript|https://cdnjs.cloudflare.com/ajax/libs/jquery.hoverintent/1.9.0/jquery.hoverIntent.min.js?cdv=583|DnnBodyProvider|100)-->
+<script>
+    function resizeBlocks() {
+        setTimeout(function () {
+            $('.recent-news .title').matchHeight();
+        }, 100);
+        setTimeout(function () {
+            $('.ctas h3.text-center').matchHeight();
+        }, 100);
+        setTimeout(function () {
+            $('.col-12 .card-hover .description-mh').matchHeight({
+                byRow: true
+            });
+        }, 130);
+        setTimeout(function () {
+            $('.col-12 .card-hover .title').matchHeight({
+                byRow: true
+            });
+        }, 100);
+        setTimeout(function () {
+            $('.col-12 .card-hover .btn').matchHeight({
+                byRow: true
+            });
+        }, 100);
+        setTimeout(function () {
+            $('.col-12 .market-type-card').matchHeight({
+                byRow: true
+            });
+        }, 100);
+        setTimeout(function () {
+            $('.solutions-list .title').matchHeight({
+                byRow: true
+            });
+        }, 100);
+        setTimeout(function () {
+            $('.col-12 .card-with-button .description-mh').matchHeight({
+                byRow: true
+            });
+        }, 130);
+        setTimeout(function () {
+            $('.col-12 .card-with-button .title').matchHeight({
+                byRow: true
+            });
+        }, 100);
+        setTimeout(function () {
+            $('.col-12 .card-with-button .btn').matchHeight({
+                byRow: true
+            });
+        }, 100);
+        setTimeout(function () {
+            $('.col-12 .card-without-button .description-mh').matchHeight({
+                byRow: true
+            });
+        }, 130);
+        setTimeout(function () {
+            $('.col-12 .card-without-button .title').matchHeight({
+                byRow: true
+            });
+        }, 100);     
+         setTimeout(function () {
+            $('.pane.col-md-4 .Head').matchHeight({
+                byRow: true
+            });
+        }, 129);   
+    }
+
+    $(window).on('load', function () {
+        resizeBlocks();        
+    });
+
+
+
+
+    $(window).load(function () {
+        $('.EditDisabled').removeClass('EditDisabled');
+    });
+
+
+    // When the user clicks on <span> (x), close the modal
+
+    $(".container-close .close").click(function () {
+        cleanInnerForm();
+
+
+    });
+
+    function cleanInnerForm() {
+        $(".modal-Wrapper").fadeOut('fast');
+        $("#myModal .ask-a-question").removeClass("show-modal");
+        $("#myModal .title").text("");
+        $("#myModal .description").text("");
+        $("#myModal form").remove();
+        $("#myModal script").remove();
+        $("#myModal .success").hide();
+    }
+
+
+    $(document).ready(function () {
+
+        $("#my-menu").mmenu({
+            "slidingSubmenus": true,
+            "setSelected": {
+                "hover": true,
+                "parent": true
+            },
+            "configuration": {
+                pageNodetype: "div",
+                pageSelector: "#my-page"
+
+            },
+            "extensions": [
+                "border-full",
+                "fx-menu-slide",
+                "fx-panels-slide-100",
+                "fx-listitems-slide",
+                "listview-50",
+                "multiline",
+                "pagedim-black",
+
+                "shadow-panels",
+                "theme-dark"
+            ],
+            "navbars": [
+                        {
+                            "position": "bottom",
+                            "content": [
+                                "<a class='btn login' href='/login'><svg class='icon-sm' viewBox='0 0 38 44'><use xlink:href='#user-login'></use></svg> Login</a>",
+                                "<a class='btn logout' href='/?ctl=logoff'>Logout</a>",                   
+                                "<a class='btn register' href='/register'>Register</a>",                   
+                                "<a class='btn contact' href='/Client-Support'>Client Support</a>"                        
+                            ]
+                        }
+                    ]
+        });
+
+
+        if ($('.personalBarContainer').length > 0) {
+            $('#my-menu').css("left", 80);
+        }
+
+        $('.btn.contact').insertAfter('#mm-0 .parent');
+
+        if ($( ".tyler" ).hasClass( "logged-in" )){
+          $( ".mm-navbars_bottom" ).addClass( "logged-in" );
+        }
+
+        if ($("#my-page").hasClass("logged-in")) {
+            $("a#update-pass").attr("href", "/update-password");
+            $("a#update-pass").attr("title", "Update Password");
+        }
+    });
+
+        _satellite.pageBottom();
+</script>
+    </div>
+
+    <script>
+        $(function() {
+            var $breadcrumb = $('.breadcrumb-wrapper');
+            if ($('#breadcrumb-container').length > 0) {
+                $('#breadcrumb-container').html($breadcrumb);
+                $breadcrumb.show();
+            }
+
+        });
+    </script>
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`trackLinks`:`false`,`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`104`,`evoq_TabId`:`104`,`evoq_PageLanguage`:`en-US`,`evoq_ContentItemId`:`-1`,`evoq_UrlReferrer`:``,`evoq_UrlPath`:`https%3a%2f%2fwww.tylertech.com%2fterms`,`evoq_UrlQuery`:`%3fTabId%3d104%26language%3den-US`,`evoq_ContentItemReferrer`:`-1`,`evoq_PersonalizedUrlReferrer`:`-1`,`evoq_DisableAnalytics`:`False`}" />
+        <input name="__RequestVerificationToken" type="hidden" value="5TzpFEIcZ7iP8UOArbCQmFTG88NrC4BmMeW3ELq4HqtwkeTdTZ3_qbj3rqkMpgT8CpBemw2" />
+    </form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=583|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=583|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=583|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/skins/tylerskin/skin.css?cdv=583|DnnPageHeaderProvider|15)--><!--CDF(Css|/DesktopModules/OpenContent/module.css?cdv=583|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/OpenContent/module.css?cdv=583|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/OpenContent/module.css?cdv=583|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/OpenContent/module.css?cdv=583|DnnPageHeaderProvider|10)--><!--CDF(Css|/Resources/Search/SearchSkinObjectPreview.css?cdv=583|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/Search/SearchSkinObjectPreview.js?cdv=583|DnnBodyProvider|100)--><!--CDF(Css|/Resources/Search/SearchSkinObjectPreview.css?cdv=583|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/Search/SearchSkinObjectPreview.js?cdv=583|DnnBodyProvider|100)--><!--CDF(Javascript|/Portals/0/OpenContent/Templates/Inner-Hero/template.js?cdv=583|DnnBodyProvider|200)--><!--CDF(Javascript|/DesktopModules/OpenContent/js/opencontent.js?cdv=583|DnnBodyProvider|100)--><!--CDF(Css|/Portals/0/OpenContent/Templates/Separador/Template.css?cdv=583|DnnPageHeaderProvider|35)--><!--CDF(Javascript|/DesktopModules/OpenContent/js/opencontent.js?cdv=583|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.js?cdv=583|DnnBodyProvider|12)--><!--CDF(Javascript|/js/dnn.servicesframework.js?cdv=583|DnnBodyProvider|100)--><!--CDF(Javascript|/Portals/_default/skins/tylerskin/topNav/topNav.js?cdv=583|DnnBodyProvider|100)--><!--CDF(Javascript|/Portals/_default/skins/tylerskin/topNavMobile/topNavMobile.js?cdv=583|DnnBodyProvider|100)--><!--CDF(Css|/DesktopModules/DnnCorp/ContentLayout/Css/bootstrap.min.css?cdv=583|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_13_02/jquery-ui.min.js?cdv=583|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_07_01/jquery.js?cdv=583|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/HoverIntent/01_10_01/jquery.hoverIntent.min.js?cdv=583|DnnPageHeaderProvider|55)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_04_01/jquery-migrate.js?cdv=583|DnnPageHeaderProvider|6)-->
+    
+</body>
+</html>
