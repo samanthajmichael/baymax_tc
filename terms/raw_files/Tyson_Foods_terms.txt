@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Tyson Foods, Inc. terms of use information. View full documentation here." />
+<link rel="canonical" href="https://www.tysonfoods.com/legal/terms-of-use" />
+<meta property="og:title" content="Terms of Use" />
+<meta itemprop="name" content="Terms of Use" />
+<meta name="twitter:title" content="Terms of Use" />
+<meta name="google-site-verification" content="nanfTl1ryAhVCH-rUdKRDU_iRnoSdZCHetA89LnhwTo" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "ImageObject",
+            "name": "Tyson Logo",
+            "description": "Tysonfoods logo",
+            "url": "https://www.tysonfoods.com/sites/default/files/2021-06/logo.png"
+        },
+        {
+            "@type": "WebSite",
+            "name": "Tyson Foods",
+            "url": "https://www.tysonfoods.com/",
+            "potentialAction": {
+                "@type": "SearchAction",
+                "target": {
+                    "@type": "EntryPoint",
+                    "urlTemplate": "https://www.tysonfoods.com/search?search={search_term_string}"
+                },
+                "query": "https://www.tysonfoods.com/search?search={search_term_string}",
+                "query-input": "required name=search_term_string"
+            }
+        }
+    ]
+}</script>
+<meta name="msapplication-config" content="/themes/custom/tyson/favicons/browserconfig.xml" />
+<meta name="theme-color" content="#C8102E" />
+<link href="/themes/custom/tyson/favicons/favicon-32x32.png?v=TvlOdTMtZv" rel="icon" type="image/png" sizes="32x32" />
+<link href="/themes/custom/tyson/favicons/favicon-16x16.png?v=GMID7OErG3" rel="icon" type="image/png" sizes="16x16" />
+<link href="/themes/custom/tyson/favicons/apple-touch-icon.png?v=yw3iubCbKo" rel="apple-touch-icon" type="image/png" sizes="180x180" />
+<link href="/themes/custom/tyson/favicons/manifest.json?v=D8AGBlZOq5" rel="manifest" />
+<link href="/themes/custom/tyson/favicons/safari-pinned-tab.svg?v=KMZpheLlDt" rel="mask-icon" />
+<link href="/themes/custom/tyson/favicons/favicon.ico?v=T3hYEP6VhI" rel="shortcut icon" />
+
+    <title>Terms of Use | Tyson Foods, Inc.</title>
+    <link rel="stylesheet" media="all" href="//cloud.typography.com/7091356/7473192/css/fonts.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_m2lvwK4_foXj66lbOrmELE1KENtizH5iTi2qIQA436M.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_qMvRMjmBUUcXK9xr-d014R40I9CQrU3_Wbuc71sKG68.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_bq-OGkaCrYltfxKr1nawR2i4Ypx9BobxtiLRE5l1sB0.css" />
+
+    
+    <meta name="facebook-domain-verification" content="mdgb4hv9jlya4owbtkmpfjqgfa8jh0" />
+
+
+    <script src="https://www.googleoptimize.com/optimize.js?id=OPT-TRCXGPX"></script>
+  </head>
+  <body class="bricked-section-title path-node page-node-type-basic-page">
+
+
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <header role="banner">
+    
+      <div class="region region-header">
+    <a class="mobile-menu-button"></a>
+    <div class="block-topmenu block block-block-content block-block-content2f950e31-5b63-4719-9536-c7406a7d6da2">
+  
+    
+      
+      <div class="field field--name-field-blocks field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item"><nav role="navigation" aria-labelledby="-menu" class="block-mainnavigation block block-menu navigation menu--main">
+            
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are" target="_self" data-drupal-link-system-path="node/56">Who We Are</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                      
+  <div class="clearfix text-formatted field field--name-field-menu-body field--type-text-long field--label-above">
+    <div class="field__label">Body</div>
+              <div class="field__item"><p><a href="/who-we-are">Who We Are</a></p></div>
+          </div>
+
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 1</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are/our-story" target="_self" rel="" data-drupal-link-system-path="node/61">Our Story</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/who-we-are/our-story/purpose-values" target="_self" rel="" data-drupal-link-system-path="node/66">Purpose &amp; Values</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-story/what-we-do" target="_self" rel="" data-drupal-link-system-path="node/71">What We Do</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-story/where-we-came" target="_self" rel="" data-drupal-link-system-path="node/76">Where We Came From</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-story/awards" target="_self" rel="" data-drupal-link-system-path="node/96">Awards</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 2</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are/our-people" target="_self" rel="" data-drupal-link-system-path="node/101">Our People</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/who-we-are/our-people/leadership" target="_self" rel="" data-drupal-link-system-path="node/106">Leadership</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.tysonfoods.com/who-we-are/our-people/team-members" target="_self">Team Members</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-people/inclusion-diversity" target="_self" rel="" data-drupal-link-system-path="node/301">Diversity, Equity and Inclusion</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 3</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are/our-partners" target="_self" rel="" data-drupal-link-system-path="node/111">Our Partners</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/who-we-are/our-partners/farmers" target="_self" rel="" data-drupal-link-system-path="node/116">Farmers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-partners/farmers/prospective-farmers" target="_self" rel="" data-drupal-link-system-path="node/3848">Prospective Farmers</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 4</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are/giving-back" target="_self" rel="" data-drupal-link-system-path="node/121">Giving Back</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/who-we-are/giving-back/hunger-relief" target="_self" rel="" data-drupal-link-system-path="node/126">Hunger Relief</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/giving-back/disaster-relief" target="_self" rel="" data-drupal-link-system-path="node/136">Disaster Relief</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/giving-back/corporate-giving" target="_self" rel="" data-drupal-link-system-path="node/141">Corporate Giving</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/innovation" target="_self" rel="" data-drupal-link-system-path="node/31">Innovation</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                      
+  <div class="clearfix text-formatted field field--name-field-menu-body field--type-text-long field--label-above">
+    <div class="field__label">Body</div>
+              <div class="field__item"><p><a href="/innovation">Innovation</a></p>
+
+<p> </p>
+
+<p><img alt="Our Vision" data-entity-type="file" data-entity-uuid="bb09bc5b-95ca-4cdc-99c5-52cd9c9e087c" src="/sites/default/files/inline-images/Our-Vision_subnav_1_0.jpg" width="200" height="110" loading="lazy" /></p>
+
+<p> </p></div>
+          </div>
+
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 1</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/innovation/protein-leader" target="_self" rel="" data-drupal-link-system-path="node/151">Protein Leader</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/innovation/protein-leader/getting-farm-table" target="_self" rel="" data-drupal-link-system-path="node/156">Getting from Farm to Table</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innovation/protein-leader/helping-people-eat-well" target="_self" rel="" data-drupal-link-system-path="node/161">Helping People Eat Well</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innovation/protein-leader/global-food-company" data-drupal-link-system-path="node/4033">A Global Food Company</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 2</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/food-innovation" target="_self" rel="" data-drupal-link-system-path="node/171">Food Innovation</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/innovation/food-innovation/culinary-innovation" target="_self" rel="" data-drupal-link-system-path="node/176">Culinary Innovation</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/innovation/food-innovation/food-quality-leader" target="_self" rel="" data-drupal-link-system-path="node/181">Food Quality Leader</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innovation/food-innovation/food-quality-leader/certifications-and-programs" target="_self" rel="" data-drupal-link-system-path="node/276">Certifications &amp; Programs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innovation/food-innovation/tyson-ventures" target="_self" rel="" data-drupal-link-system-path="node/186">Tyson Ventures</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col4</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/innovation/pointing-forward" target="_self" data-drupal-link-system-path="node/191">Pointing Forward</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/innovation/pointing-forward/hides-tanneries" target="_self" data-drupal-link-system-path="node/4371">Hides &amp; Tanneries</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item">
+        <a href="/our-brands" target="_self" rel="" data-drupal-link-system-path="node/196">Our Brands</a>
+              </li>
+                <li class="menu-item">
+        <a href="/sustainability" target="_self" rel="" data-drupal-link-system-path="node/201">Sustainability</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://thefeed.blog/" target="_self" rel="">The Feed Blog</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+</div>
+              <div class="field__item"><nav role="navigation" aria-labelledby="-menu" class="block-sitemenu block block-menu navigation menu--site-menu">
+            
+  <h2 class="visually-hidden" id="-menu">Site Menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/careers" target="_self" rel="" data-drupal-link-system-path="node/346">Careers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/investors" target="_self" rel="" data-drupal-link-system-path="node/351">Investors</a>
+              </li>
+                <li class="menu-item">
+        <a href="/news" target="_self" rel="" data-drupal-link-system-path="node/356">News</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contact-us" target="_self" rel="" data-drupal-link-system-path="node/421">Contact Us</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+</div>
+          </div>
+  
+  </div>
+<div class="block-globalsearch block block-tyson-core block-global-search">
+  
+    
+      
+<div class="global-search-block">
+  <div class="controls">
+    <a class="icon-search" href="#opensearch" aria-label=Open Search>
+      <span>Search</span>
+    </a>
+    <a class="icon-close-x" href="#closesearch" aria-label=Close Search></a>
+  </div>
+
+  <div class="full-screen-overlay search-overlay">
+    <form action="/search">
+      <div class="input-box">
+        <input type="text" class="text-box" placeholder="Search TysonFoods.com" aria-label="Search TysonFoods.com">
+        <button type="submit" class="icon-search" aria-label=Search></button>
+      </div>
+      <span class="error">Please fill in field</span>
+    </form>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+      <div class="region region-header-menu">
+    <div class="block-tyson-branding block block-system block-system-branding-block">
+  
+    
+  <div class="block-tyson-branding block block-system block-system-branding-block">
+  <a class="name site-logo" href="/" title="Tyson Foods" aria-label="Return to Tyson foods home page" rel="home">
+      <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1158.72 659.6" style="enable-background:new 0 0 1158.72 659.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E40B0E;}
+	.st1{fill:#FED34C;}
+	.st2{fill:#E10C10;}
+	.st3{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M576.71,566h-0.49c-249-0.14-403.57-90.72-403.5-236.38s154.62-236,403.26-236h0.47
+	c120.06,0.07,220.79,21.3,291.3,61.39C941.2,196.76,980,257.29,980,330s-38.87,133.23-112.36,174.9
+	C797.14,544.88,696.55,566,576.71,566z M576,126.05c-228.68,0-370.72,78-370.81,203.58s142.09,203.79,371.05,203.92h0.47
+	c114.26,0,209.3-19.65,274.88-56.84c62.74-35.57,95.9-86.3,95.92-146.69s-33.08-111.17-95.79-146.82
+	c-65.64-37.32-160.84-57.08-275.29-57.15L576,126.05z"/>
+<path class="st1" d="M576.44,109.83c-238.92-0.11-387.41,84.1-387.5,219.79s148.34,220,387.29,220.15S963.69,465.71,963.73,330
+	S815.42,110,576.44,109.83"/>
+<path class="st2" d="M376.29,188.42h-0.05h0.06C376.3,188.42,376.29,188.4,376.29,188.42z"/>
+<path class="st0" d="M576.34,519.39h-1.7c-9.65-0.03-18.38-5.76-22.24-14.61c-4.49,8.57-13.62,13.67-23.27,13l-1.69-0.12
+	c-9.64-0.7-17.94-7.04-21.17-16.15c-5.09,8.23-14.58,12.66-24.16,11.27l-1.69-0.25c-9.59-1.41-17.42-8.39-19.94-17.75
+	c-5.75,7.83-15.6,11.5-25.07,9.33l-1.63-0.38c-9.5-2.19-16.78-9.85-18.48-19.45c-6.44,7.33-16.64,10.12-25.91,7.07l-1.66-0.55
+	c-9.3-3.11-15.82-11.51-16.54-21.29c-7.23,6.7-17.78,8.39-26.73,4.27L342.9,473c-8.99-4.2-14.52-13.43-14-23.33
+	c-8.14,5.81-19,6.06-27.39,0.63l-1.46-0.95c-8.53-5.59-12.68-15.91-10.38-25.85c-9.35,4.4-20.45,2.42-27.71-4.93l-1.33-1.37
+	c-7.43-7.71-8.95-19.38-3.73-28.73c-10.9,1.61-21.52-4.29-25.9-14.4c-0.28-0.65-0.55-1.29-0.81-1.94
+	c-4.33-10.58-0.71-22.75,8.71-29.24c-10.91-3.89-17.56-14.94-15.9-26.41c0.1-0.68,0.2-1.35,0.31-2
+	c1.83-11.24,11.21-19.7,22.57-20.38c-7.12-8.48-7.62-20.7-1.22-29.73l1.08-1.5c6.22-8.63,17.33-12.23,27.43-8.87
+	c-3.47-9.8-0.32-20.73,7.83-27.18l1.38-1.09c7.97-6.24,18.96-6.91,27.62-1.66c-1.25-9.95,3.74-19.65,12.56-24.43l1.51-0.81
+	c8.72-4.66,19.38-3.59,27,2.71c0.19-9.86,6.3-18.63,15.49-22.21l1.6-0.62c9.15-3.53,19.52-1.23,26.31,5.84
+	c1.27-9.69,8.22-17.68,17.64-20.29l1.62-0.45c9.39-2.57,19.42,0.7,25.48,8.32c2.16-9.47,9.74-16.75,19.29-18.53l1.71-0.31
+	c9.53-1.72,19.17,2.36,24.56,10.4c2.92-9.26,11.07-15.9,20.73-16.89l1.66-0.17c9.61-1,18.9,3.78,23.68,12.17
+	c3.57-8.96,12.1-14.96,21.74-15.3l1.69-0.05c9.65-0.33,18.58,5.11,22.73,13.83c4.17-8.7,13.1-14.12,22.75-13.79l1.74,0.06
+	c9.64,0.37,18.16,6.4,21.71,15.37c4.78-8.4,14.09-13.17,23.7-12.15l1.69,0.18c9.62,1.05,17.71,7.7,20.6,16.94
+	c5.41-8.03,15.07-12.09,24.59-10.34l1.71,0.32c9.55,1.8,17.11,9.1,19.23,18.58c6.08-7.6,16.1-10.85,25.48-8.27l1.68,0.47
+	c9.41,2.64,16.34,10.65,17.58,20.35c6.81-7.04,17.18-9.31,26.31-5.76l1.65,0.65c9.16,3.62,15.23,12.41,15.38,22.26
+	c7.63-6.28,18.3-7.31,27-2.63l1.55,0.84c8.81,4.82,13.76,14.55,12.46,24.51c8.68-5.22,19.69-4.51,27.63,1.78l1.4,1.12
+	c8.13,6.52,11.21,17.5,7.64,27.3c10.1-3.29,21.16,0.35,27.33,9c0.38,0.52,0.75,1.05,1.11,1.58c6.32,9.12,5.67,21.37-1.59,29.77
+	c11.36,0.85,20.61,9.45,22.28,20.72c0.1,0.68,0.19,1.36,0.28,2c1.49,11.52-5.36,22.48-16.36,26.2c9.3,6.64,12.73,18.86,8.24,29.37
+	c-0.27,0.67-0.55,1.31-0.84,1.92c-4.5,10.01-15.16,15.77-26,14.05c5.11,9.39,3.49,21.02-4,28.66l-1.28,1.3
+	c-7.31,7.32-18.43,9.23-27.76,4.76c2.23,9.93-1.96,20.2-10.5,25.74l-1.49,1c-8.41,5.39-19.26,5.09-27.36-0.76
+	c0.47,9.9-5.12,19.1-14.12,23.26l-1.62,0.74c-8.94,4.04-19.44,2.32-26.62-4.38c-0.75,9.79-7.32,18.17-16.65,21.24l-1.6,0.52
+	c-9.28,3.04-19.48,0.23-25.9-7.13c-1.74,9.58-9.02,17.2-18.51,19.37l-1.65,0.38c-9.46,2.13-19.28-1.56-25-9.39
+	c-2.54,9.36-10.4,16.31-20,17.7l-1.69,0.24c-9.59,1.39-19.09-3.05-24.18-11.29c-3.25,9.1-11.57,15.42-21.21,16.11l-1.73,0.11
+	c-9.62,0.64-18.71-4.46-23.18-13c-3.88,8.84-12.63,14.55-22.28,14.54h-0.28L576.34,519.39z"/>
+<path class="st0" d="M1058.2,327.47V280.1c-17.74-6.54-29-10-43.34-10c-19,0-32.2,5.51-40.89,13.57v-49.4l-13.66-14l-57.54,13.35
+	v37.45c-15.43,2.52-28,10.22-36.52,21.78c-10.94-14.2-28.12-22.69-48.9-22.69c-21,0-38.33,8.68-49.25,23.16
+	c-10.91-14.48-28.24-23.16-49.25-23.16c-5.73-0.02-11.44,0.68-17,2.07V222.9H573.39v38.88l10.28,2.22c1.6,0.35,2.75,1.77,2.75,3.41
+	v81.32c-0.01,1.9-1.53,3.45-3.43,3.48l-4.24,0.07c-1.93,0.03-3.51-1.51-3.54-3.44c0-0.02,0-0.03,0-0.05V317.4
+	c0-29.15-16.94-47.25-44.2-47.25c-6.49-0.01-12.9,1.37-18.81,4.05l-5.55-5.69l-51.16,12.21c-9.89-6.77-22.18-10.57-36.08-10.57
+	c-14.13,0-26.6,3.93-36.57,10.91c-20.88-9.18-32.7-10.91-46.86-10.91c-7.14-0.08-14.25,0.85-21.12,2.77h-70.69v-50H95.26v66.45
+	h44.11v59.91c0,1.65-1.16,3.07-2.78,3.41L126,354.88v39h56.44v38.5c7.18,7,22.11,11.13,31.26,11.13c19.75,0,35.77-13.91,47.67-41.45
+	l19.87-46.86v32.38c14.13,5.37,37,9.07,47.85,9.07c19.22,0,35-7.13,44.59-18.95c10.95,11.93,26.86,18.95,45.74,18.95
+	c10.71,0.13,21.29-2.39,30.78-7.35v4.58h211v-36c8.6,23.66,29.94,38.77,57.66,38.77c21,0,38.34-8.68,49.25-23.17
+	c10.89,14.52,28.24,23.15,49.24,23.15c19.75,0,36.26-7.68,47.23-20.64c12,18,32.71,21.14,42.95,21.14
+	c8.12-0.03,16.13-1.85,23.47-5.33h39.19c11.55,3.41,23.51,5.2,35.55,5.34c35.93,0,57-20.53,57-49.19
+	C1062.71,339.55,1061,332.85,1058.2,327.47z"/>
+<path class="st3" d="M958.45,360.63v-120l-3.15-3.23l-37,8.58v11.49h7.88c2.76-0.13,5.1,2,5.23,4.76c0.01,0.16,0.01,0.31,0,0.47
+	v27.13c-5.3-2.77-11.21-4.19-17.2-4.11c-27.88,0-44.63,19-44.63,47.72s10.31,47.72,36.39,47.72c11.85,0,20.57-5.94,26.48-15.79v13
+	h37.31v-10.7l-7.16-1.93C960.1,365.38,958.29,363.16,958.45,360.63z M931.39,350.78c-4.49,8.8-10.95,14.16-16.76,14.16
+	c-11.56,0-16.33-11.55-16.33-31.55c0-21.86,5.47-35.37,17-35.37c12,0,16.06,7.56,16.06,27.25L931.39,350.78z"/>
+<path class="st3" d="M419.41,285.67c-27.89,0-46.29,19-46.29,47.72s18.4,47.72,46.29,47.72s46.29-19,46.29-47.72
+	S447.3,285.67,419.41,285.67z M419.41,368.76c-12,0-17.55-13.51-17.55-35.37S407.39,298,419.41,298S437,311.53,437,333.39
+	S431.43,368.76,419.41,368.76z"/>
+<path class="st3" d="M817.35,285.67c-27.89,0-46.28,19-46.28,47.72s18.39,47.72,46.28,47.72s46.29-19,46.29-47.72
+	S845.24,285.67,817.35,285.67z M817.35,368.76c-12,0-17.55-13.51-17.55-35.37S805.33,298,817.35,298s17.55,13.51,17.55,35.37
+	S829.37,368.76,817.35,368.76z"/>
+<path class="st3" d="M718.85,285.67c-27.88,0-46.28,19-46.28,47.72s18.4,47.72,46.28,47.72s46.29-19,46.29-47.72
+	S746.74,285.67,718.85,285.67z M718.85,368.76c-12,0-17.55-13.51-17.55-35.37S706.84,298,718.85,298s17.56,13.51,17.56,35.37
+	S730.87,368.76,718.85,368.76z"/>
+<path class="st3" d="M320.15,308.49c0-5,4.88-8.74,13.47-8.74c4.38-0.08,8.74,0.66,12.85,2.18c1.35,0.57,2.4,1.67,2.89,3.05l4,11
+	h10.48V290.8c-8.4-3.19-15.2-5.13-27.83-5.13c-28.3,0-39.24,14.39-39.24,30.9c0,36.82,46.65,21.43,46.65,40.64
+	c0,6.74-6,9.54-14.48,9.54c-5.6-0.06-11.07-1.67-15.81-4.66c-1.13-0.71-1.96-1.83-2.3-3.12l-3.27-12.37h-10.82v29.26
+	c5.9,1.68,19.2,5.25,32.34,5.25c25.93,0,39.24-15,39.24-33.16C368.32,310.83,320.15,327,320.15,308.49z"/>
+<path class="st3" d="M999,308.49c0-5,4.88-8.74,13.47-8.74c4.38-0.08,8.74,0.66,12.85,2.18c1.35,0.57,2.4,1.67,2.89,3.05l4,11h10.48
+	V290.8c-8.4-3.19-15.2-5.13-27.83-5.13c-28.3,0-39.24,14.39-39.24,30.9c0,36.82,46.65,21.43,46.65,40.64c0,6.74-6,9.54-14.48,9.54
+	c-5.59-0.06-11.06-1.67-15.79-4.66c-1.13-0.71-1.96-1.83-2.3-3.12l-3.27-12.37h-10.81v29.26c5.9,1.68,19.2,5.25,32.33,5.25
+	c25.94,0,39.25-15,39.25-33.16C1047.2,310.83,999,327,999,308.49z"/>
+<path class="st3" d="M150.76,365.57l-9.25,1.93v10.84h56.42V367.5l-9.25-1.93c-2.5-0.37-4.29-2.59-4.13-5.11V257.62h23.62
+	c2.52-0.17,4.74,1.62,5.11,4.12l2.61,12.1h12.77v-35.42H110.78v35.42h12.76l2.62-12.1c0.37-2.5,2.59-4.29,5.11-4.12h23.61v102.84
+	C155.05,362.98,153.26,365.2,150.76,365.57z"/>
+<path class="st3" d="M686.3,273.84v-35.42h-97.39v10.84l8.9,1.93c2.5,0.37,4.29,2.59,4.13,5.11v104.16
+	c0.16,2.52-1.63,4.74-4.13,5.11l-8.9,1.93v10.84h56.77V367.5l-9.95-1.93c-2.5-0.37-4.29-2.59-4.13-5.11v-44.52h16.64
+	c2.51-0.16,4.73,1.62,5.11,4.1l1.89,8.55h10.84v-40.14h-10.84l-1.89,8.55c-0.38,2.48-2.6,4.26-5.11,4.1H631.6v-43.48h34.21
+	c2.52-0.17,4.74,1.62,5.11,4.12l2.62,12.1H686.3z"/>
+<path class="st3" d="M559.69,360.63V317.4c0-22.35-12-31.73-28.68-31.73c-10.76,0-19.41,5.51-26.17,13.25v-10l-3.15-3.24l-36,8.59
+	v11.48h6.83c2.76-0.13,5.1,2,5.23,4.76c0.01,0.16,0.01,0.31,0,0.47v49.8c0.16,2.49-1.6,4.7-4.07,5.1l-8,1.83v10.67h52.16v-10.71
+	l-8.9-1.93c-2.5-0.37-4.29-2.59-4.13-5.11v-47.24c4.18-3.85,8.59-6.19,14.24-6.19c11.2,0,13.55,6.73,13.55,18.12v53h40.09v-10.65
+	l-8.9-1.93C561.31,365.36,559.53,363.14,559.69,360.63z"/>
+<path class="st3" d="M258.17,299.11l5.81,1.1c3.66,0.69,4.66,3,3.06,7l-15,38l-14.59-37.76c-1.31-3.39-0.81-6.11,3.08-7l5.86-1.34
+	v-10.68h-50.83v10.68l6.93,1.8c1.74,0.29,3.18,1.51,3.75,3.18l30.94,78l-4,10.15c-5.32,13.47-19.62,19.46-31.28,9.17l-4,1.26
+	l-0.12,20.74c4.4,3.21,9.5,4.58,15.91,4.58c10.77,0,22.76-6.91,33.38-32l39.12-92.25c0.59-1.62,2.01-2.8,3.71-3.07l6.52-1.56v-10.68
+	h-38.25V299.11z"/>
+<path class="st0" d="M1068.39,282.23v-2.13h10.88v2.13h-4.17v10.64h-2.54v-10.64H1068.39z M1085.09,280.1l3.26,9.14l3.28-9.14h3.63
+	v12.77h-2.34v-10.31l-3.53,10.31h-2.05l-3.56-10.31v10.31h-2.34V280.1H1085.09z"/>
+</svg>
+  
+    <!--PrideUpdate-->
+    <!--<img src="Tyson Foods" alt="Tyson Foods Logo" class="headerPrideLogo"> --> <!-- replace site_name with logo_svg in src -->
+  </a>
+</div>
+</div>
+<nav role="navigation" aria-labelledby="-menu" class="block-mainnavigation block block-menu navigation menu--main">
+            
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are" target="_self" data-drupal-link-system-path="node/56">Who We Are</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                      
+  <div class="clearfix text-formatted field field--name-field-menu-body field--type-text-long field--label-above">
+    <div class="field__label">Body</div>
+              <div class="field__item"><p><a href="/who-we-are">Who We Are</a></p></div>
+          </div>
+
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 1</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are/our-story" target="_self" rel="" data-drupal-link-system-path="node/61">Our Story</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/who-we-are/our-story/purpose-values" target="_self" rel="" data-drupal-link-system-path="node/66">Purpose &amp; Values</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-story/what-we-do" target="_self" rel="" data-drupal-link-system-path="node/71">What We Do</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-story/where-we-came" target="_self" rel="" data-drupal-link-system-path="node/76">Where We Came From</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-story/awards" target="_self" rel="" data-drupal-link-system-path="node/96">Awards</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 2</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are/our-people" target="_self" rel="" data-drupal-link-system-path="node/101">Our People</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/who-we-are/our-people/leadership" target="_self" rel="" data-drupal-link-system-path="node/106">Leadership</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.tysonfoods.com/who-we-are/our-people/team-members" target="_self">Team Members</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-people/inclusion-diversity" target="_self" rel="" data-drupal-link-system-path="node/301">Diversity, Equity and Inclusion</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 3</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are/our-partners" target="_self" rel="" data-drupal-link-system-path="node/111">Our Partners</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/who-we-are/our-partners/farmers" target="_self" rel="" data-drupal-link-system-path="node/116">Farmers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/our-partners/farmers/prospective-farmers" target="_self" rel="" data-drupal-link-system-path="node/3848">Prospective Farmers</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 4</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/who-we-are/giving-back" target="_self" rel="" data-drupal-link-system-path="node/121">Giving Back</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/who-we-are/giving-back/hunger-relief" target="_self" rel="" data-drupal-link-system-path="node/126">Hunger Relief</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/giving-back/disaster-relief" target="_self" rel="" data-drupal-link-system-path="node/136">Disaster Relief</a>
+              </li>
+                <li class="menu-item">
+        <a href="/who-we-are/giving-back/corporate-giving" target="_self" rel="" data-drupal-link-system-path="node/141">Corporate Giving</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/innovation" target="_self" rel="" data-drupal-link-system-path="node/31">Innovation</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                      
+  <div class="clearfix text-formatted field field--name-field-menu-body field--type-text-long field--label-above">
+    <div class="field__label">Body</div>
+              <div class="field__item"><p><a href="/innovation">Innovation</a></p>
+
+<p> </p>
+
+<p><img alt="Our Vision" data-entity-type="file" data-entity-uuid="bb09bc5b-95ca-4cdc-99c5-52cd9c9e087c" src="/sites/default/files/inline-images/Our-Vision_subnav_1_0.jpg" width="200" height="110" loading="lazy" /></p>
+
+<p> </p></div>
+          </div>
+
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 1</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/innovation/protein-leader" target="_self" rel="" data-drupal-link-system-path="node/151">Protein Leader</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/innovation/protein-leader/getting-farm-table" target="_self" rel="" data-drupal-link-system-path="node/156">Getting from Farm to Table</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innovation/protein-leader/helping-people-eat-well" target="_self" rel="" data-drupal-link-system-path="node/161">Helping People Eat Well</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innovation/protein-leader/global-food-company" data-drupal-link-system-path="node/4033">A Global Food Company</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col 2</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/food-innovation" target="_self" rel="" data-drupal-link-system-path="node/171">Food Innovation</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/innovation/food-innovation/culinary-innovation" target="_self" rel="" data-drupal-link-system-path="node/176">Culinary Innovation</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/innovation/food-innovation/food-quality-leader" target="_self" rel="" data-drupal-link-system-path="node/181">Food Quality Leader</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innovation/food-innovation/food-quality-leader/certifications-and-programs" target="_self" rel="" data-drupal-link-system-path="node/276">Certifications &amp; Programs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innovation/food-innovation/tyson-ventures" target="_self" rel="" data-drupal-link-system-path="node/186">Tyson Ventures</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span target="_self" rel="">Col4</span>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/innovation/pointing-forward" target="_self" data-drupal-link-system-path="node/191">Pointing Forward</a>
+                 <a href="#" class="menu-toggle"><span class="caret"></span></a>
+         <div class="menu-box">
+                                  <ul class="menu">
+                    <li class="menu-item">
+        <a href="/innovation/pointing-forward/hides-tanneries" target="_self" data-drupal-link-system-path="node/4371">Hides &amp; Tanneries</a>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+        </ul>
+  
+        </div>
+              </li>
+                <li class="menu-item">
+        <a href="/our-brands" target="_self" rel="" data-drupal-link-system-path="node/196">Our Brands</a>
+              </li>
+                <li class="menu-item">
+        <a href="/sustainability" target="_self" rel="" data-drupal-link-system-path="node/201">Sustainability</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://thefeed.blog/" target="_self" rel="">The Feed Blog</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+  </header>
+
+    <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div class="region region-content">
+    <div class="block-breadcrumbs-2 block block-system block-system-breadcrumb-block">
+  
+    
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/">Home</a>
+              </li>
+          <li>
+                  <a href="/legal">Legal</a>
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+<div class="block-mainpagecontent block block-system block-system-main-block">
+  
+    
+      
+<article role="article" about="/legal/terms-of-use" class="node node--type-basic-page node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+      <div class="field field--name-field-bricks field--type-bricks field--label-hidden field__items">
+              <div>
+<div  class="brick brick--type--section-title brick--id--10620 brick-section_title theme-title-dash theme-title-sm-padding">
+  <h1>
+            <div class="field field--name-field-sectiontitle-title field--type-string field--label-hidden field__item">Terms of Use</div>
+      </h1>
+</div>
+
+<div  class="brick brick--type--copy brick--id--4056 brick-copy theme-centered">
+  
+            <div class="clearfix text-formatted field field--name-field-brick-copy-copy field--type-text-long field--label-hidden field__item"><p>Your use of Tyson Foods website (located at http://www.tysonfoods.com) on which these terms reside, and the features at this site (collectively, the “Site”) are subject to these Terms of Use. Please read these Terms of Use carefully before using this Site. The Site is owned or controlled Tyson Foods Inc. (“Tyson Foods”). By accessing this Site you agree to and are bound by these terms (the “Terms”).</p>
+
+<p>From time to time we may update this Site and these Terms. Your use of this Site after we post any changes to these Terms constitutes your agreement to those changes. You agree to review these Terms periodically to ensure that you are familiar with the most recent version.</p>
+
+<p> </p>
+
+<h2>Tyson Foods Content</h2>
+
+<p>Content on this Site that is provided by Tyson Foods or its licensors, including certain graphics, photographs, images, screen shots, text, digitally downloadable files, trademarks, logos, product and program names, slogans, and the compilation of the foregoing (“Tyson Foods Content”) is the property of Tyson Foods and its licensors, and is protected in the U.S. and internationally under trademark, copyright, and other intellectual property laws.</p>
+
+<p>You agree not to download, display or use any Tyson Foods Content located on the Site in connection with products or services that are not those of Tyson Foods, in any other manner that is likely to cause confusion among consumers, that dilutes the strength of Tyson Foods or its licensor's property, or that otherwise infringes Tyson Foods’ or its licensors’ intellectual property rights. You further agree to in no other way misuse any Tyson Foods Content or Third Party Content that appears on this Site.</p>
+
+<p>If you are a trademark or copyright owner and you believe that your trademark or copyright rights have been violated, please go to our Takedown Policy and follow the relevant instructions.<strong> <a href="/intellectual-property-infringement-notification">https://www.tysonfoods.com/intellectual-property-infringement-notification</a></strong></p>
+
+<p> </p>
+
+<h3 class="text-align-center">Use of the Site/User Content</h3>
+
+<p>The following requirements apply to your use of the Site: (a) you will not use any electronic communication feature of the Site for any purpose that is unlawful, tortious, intrusive on another’s privacy, harassing, libelous, defamatory, obscene, or threatening; (b) you will not upload, post, reproduce, or distribute any content, information, software, or other material that infringes on the intellectual property rights or other rights of any third party; and (c) you will not use the Site for any commercial purpose not expressly approved by Tyson Foods in writing.</p>
+
+<p>On certain areas of our Site you may be able to submit written posts and certain other materials (“User Content”). By using these features, you agree that you will not post any content that is unlawful, harmful, tortious, defamatory, libelous, obscene, invasive of the privacy of another person, threatening, harassing, infringing, pornographic, or violent; that you will not post any content that infringes or violates the rights of any third party; that you will not impersonate any person or organization, or misrepresent an affiliation with another person or organization; and you will not post any content that contains viruses, corrupted files, or any other similar software or programs that may adversely affect the operation of the Site, or features of the Site.</p>
+
+<p>By displaying, publishing, or otherwise posting any User Content on or through the Site, you hereby grant to Tyson Foods a non-exclusive, sub-licensable, worldwide, fully-paid, royalty free license to use, modify, publicly perform, publicly display, reproduce, and distribute such User Content in any and all media now known or hereinafter developed, to the extent that such User Content is not deemed a work made for hire under the terms of your employment arrangement with Tyson Foods. This license includes the right to host, index, cache, distribute, and tag any User Content. You represent and warrant that you own the content submitted, displayed, published or posted by you on the Site and otherwise have the right to grant the license set forth herein.</p>
+
+<p> </p>
+
+<h3 class="text-align-center">Account/Site Termination</h3>
+
+<p>You understand and agree that you have no ownership rights to the Site or the materials and features therein. Tyson Foods may cancel your account and delete all User Content associated with your account at any time, and without notice, if Tyson Foods deems that you have violated these Terms or the law. Tyson Foods assumes no liability for any information removed from our Site, and reserves the right to permanently restrict access to the Site or a user account.</p>
+
+<p> </p>
+
+<h3 class="text-align-center">Indemnification</h3>
+
+<p>You agree to indemnify and hold Tyson Foods, its affiliates, parents, subsidiaries, officers, employees, and website contractors and each of their officers, employees and agents harmless from any claims, damages and expenses, including reasonable attorneys’ fees and costs, related to your violation of these Terms, or any violations of these Terms by your dependents or which arises from the use of User Content you submitted, posted, or otherwise provided to Tyson Foods or this Site.</p>
+
+<p> </p>
+
+<h3 class="text-align-center">Representations and Limitations of Liability</h3>
+
+<p>Tyson Foods makes no representations about the reliability of the features of this Site, the Content, User Content, or any other Site feature, and disclaims all liability in the event of any service failure. You acknowledge that any reliance on such material or systems will be at your own risk. Tyson Foods makes no representations regarding the amount of time that any Content or User Content will be preserved.</p>
+
+<p>Tyson Foods does not endorse, verify, evaluate or guarantee any information provided by users and nothing shall be considered as an endorsement, verification or guarantee of any User Content. You shall not create or distribute information, including but not limited to advertisements, press releases or other marketing materials, or include links to any sites which contain or suggest an endorsement by Tyson Foods without the prior review and written approval of Tyson Foods.</p>
+
+<p>THIS SITE IS PROVIDED ON AN “AS IS, AS AVAILABLE” BASIS. NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THOSE OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, ARE MADE WITH RESPECT TO THIS SITE OR ANY INFORMATION OR SOFTWARE THEREIN. UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL TYSON FOODS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OF OR INABILITY TO USE THIS SITE, NOR SHALL TYSON FOODS BE RESPONSIBLE FOR ANY DAMAGES WHATSOEVER THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES, ERRORS, DEFECTS, DELAYS IN OPERATION OR TRANSMISSION, OR ANY FAILURE OF PERFORMANCE WHETHER OR NOT CAUSED BY EVENTS BEYOND TYSON FOODS’ REASONABLE CONTROL, INCLUDING BUT NOT LIMITED TO ACTS OF GOD, COMMUNICATIONS LINE FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO THIS SITE'S RECORDS, PROGRAMS, OR SERVICES. UNDER NO CIRCUMSTANCES, INCLUDING BUT NOT LIMITED TO A NEGLIGENT ACT, WILL TYSON FOODS OR ITS AFFILIATES OR AGENTS BE LIABLE FOR ANY DAMAGE OF ANY KIND THAT RESULTS FROM THE USE OF, OR THE INABILITY TO USE, THE SITE, EVEN IF TYSON FOODS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES; AS A RESULT, THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.</p>
+
+<p> </p>
+
+<h3 class="text-align-center">Third Party Websites</h3>
+
+<p>This Site may hyperlink to sites not maintained by or related to Tyson Foods. Hyperlinks are provided as a service to users and are not sponsored by or affiliated with this Site or Tyson Foods, and Tyson Foods makes no representations or warranties about the content, completeness, or accuracy of those third party sites. Information you submit at a third party site accessible from this Site is subject to the terms of that site’s privacy policy, and Tyson Foods has no control over how your information is collected, used, or otherwise handled.</p>
+
+<p> </p>
+
+<h3 class="text-align-center">Miscellaneous</h3>
+
+<p>Both you and Tyson Foods acknowledge and agree that no partnership is formed and neither of you nor Tyson Foods has the power or the authority to obligate or bind the other.</p>
+
+<p>These Terms are governed by the laws of the state of Arkansas, in the United States of America, and are subject to all applicable federal, state and local laws and regulations. All issues and questions concerning the construction, validity, interpretation and enforceability of these Terms shall be governed by, and construed in accordance with, the laws of Arkansas, without giving effect to the conflict of laws rules thereof, and any matters or proceedings which are not subject to arbitration as set forth herein and/or for entering any judgment on an arbitration award, shall take place in the State of Arkansas. By using this site, you hereby agree that any and all disputes regarding these Terms will be subject to the courts located in Arkansas. These Terms operate to the fullest extent permissible by law. YOU AGREE THAT, TO THE EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL DISPUTES, CLAIMS AND CAUSES OF ACTION ARISING OUT OF OR CONNECTED WITH THE WEB SITE, THESE TERMS, AND/OR THE SUBMISSION OF AND/OR OUR USE OR DISTRIBUTION OF CONTENT, WILL BE RESOLVED INDIVIDUALLY, WITHOUT RESORT TO ANY FORM OF CLASS ACTION.</p>
+
+<p>Any controversy or claim arising out of or relating to this Agreement shall be settled by binding arbitration in a location determined by the arbitrator as set forth herein (provided that such location is reasonably convenient for claimant), or at such other location as may be mutually agreed upon by the parties, in accordance with the procedural rules for commercial disputes set forth in the Comprehensive Arbitration Rules and Procedures of JAMS (“JAMS Rules and Procedures”) then prevailing, and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof. The arbitrator shall be selected pursuant to the JAMS Rules and Procedures. The arbitrator shall apply Arkansas law consistent with the Federal Arbitration Act and applicable statutes of limitations, and shall honor claims of privilege recognized at law. In the event that the claimant is able to demonstrate that the costs of arbitration will be prohibitive as compared to the costs of litigation, Tyson Foods will pay as much of the claimant’s filing and hearing fees in connection with the arbitration as the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive. If any part of this arbitration provision is deemed to be invalid, unenforceable or illegal (other than that claims will not be arbitrated on a class or representative basis), or otherwise conflicts with the rules and procedures established by JAMS, then the balance of this arbitration provision shall remain in effect and shall be construed in accordance with its terms as if the invalid, unenforceable, illegal or conflicting provision were not contained herein. If, however, the portion that is deemed invalid, unenforceable or illegal is that claims will not be arbitrated on a class or representative basis, then the entirety of this arbitration provision shall be null and void, and neither claimant nor Tyson Foods shall be entitled to arbitrate their dispute. Upon filing a demand for arbitration, all parties to such arbitration shall have the right of discovery, which discovery shall be completed within sixty days after the demand for arbitration is made, unless further extended by mutual agreement of the parties. THE ARBITRATION OF DISPUTES PURSUANT TO THIS AGREEMENT SHALL BE IN YOUR INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN THE CLAIMS OF OTHER PERSONS OR PARTIES WHO MAY BE SIMILARLY SITUATED. YOU AGREE THAT TO THE EXTENT PERMITTED BY APPLICABLE LAW: (1) ANY AND ALL DISPUTES, CLAIMS AND CAUSES OF ACTION ARISING OUT OF OR CONNECTED WITH THE SITES AND/OR THIS AGREEMENT, WILL BE RESOLVED INDIVIDUALLY THROUGH BINDING ARBITRATION AS SET FORTH ABOVE, WITHOUT RESORT TO ANY FORM OF CLASS ACTION; (2) ANY AND ALL CLAIMS, JUDGMENTS AND AWARDS WILL BE LIMITED TO ACTUAL THIRD-PARTY, OUT-OF-POCKET COSTS INCURRED (IF ANY), BUT IN NO EVENT WILL ATTORNEYS' FEES BE AWARDED OR RECOVERABLE; (3) UNDER NO CIRCUMSTANCES WILL YOU BE PERMITTED TO OBTAIN ANY AWARD FOR, AND YOU HEREBY KNOWINGLY AND EXPRESSLY WAIVE ALL RIGHTS TO SEEK, PUNITIVE, INCIDENTAL, CONSEQUENTIAL OR SPECIAL DAMAGES, LOST PROFITS AND/OR ANY OTHER DAMAGES, OTHER THAN ACTUAL OUT OF POCKET EXPENSES, AND/OR ANY RIGHTS TO HAVE DAMAGES MULTIPLIED OR OTHERWISE INCREASED; AND (4) YOUR REMEDIES ARE LIMITED TO A CLAIM FOR MONEY DAMAGES (IF ANY) AND YOU IRREVOCABLY WAIVE ANY RIGHT TO SEEK INJUNCTIVE OR EQUITABLE RELIEF. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATIONS OR EXCLUSION OF LIABILITY, SO THE ABOVE MAY NOT APPLY TO YOU.</p>
+
+<p>On certain areas of our Site, you may be given the ability to provide us with personally identifiable information. Please read our <a href="/privacy-policy"><strong>Privacy Policy</strong></a> for more information about our information collection and use practices, which Policy applies to information you submit on this Site, and you hereby agree to the terms of that Policy.</p>
+
+<p>If Tyson Foods fails to act with respect to your breach or anyone else’s breach on any occasion, Tyson Foods is not waiving its right to act with respect to future or similar breaches. If any provision of these Terms shall be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these terms of use and shall not affect the validity and enforceability of any remaining provisions. These Terms constitute a binding agreement between you and Tyson Foods, and is accepted by you upon your use of the Site. These Terms constitute the entire agreement between you and Tyson Foods regarding the use of the Site. By using the Site you represent that you are capable of entering into a binding agreement, and that you agree to be bound by these Terms.</p></div>
+      
+</div>
+</div>
+          </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+
+    <footer role="contentinfo">
+        <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="-menu" class="block-footer block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="-menu">Footer</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/who-we-are" target="_self" rel="" data-drupal-link-system-path="node/56">Who We Are</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innovation" target="_self" rel="" data-drupal-link-system-path="node/31">Innovation</a>
+              </li>
+                <li class="menu-item">
+        <a href="/our-brands" target="_self" rel="" data-drupal-link-system-path="node/196">Our Brands</a>
+              </li>
+                <li class="menu-item">
+        <a href="/sustainability" target="_self" rel="" data-drupal-link-system-path="node/201">Sustainability</a>
+              </li>
+                <li class="menu-item">
+        <a href="/careers" target="_self" rel="" data-drupal-link-system-path="node/346">Careers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/investors" target="_self" rel="" data-drupal-link-system-path="node/351">Investors</a>
+              </li>
+                <li class="menu-item">
+        <a href="/news" target="_self" rel="" data-drupal-link-system-path="node/356">News</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contact-us" target="_self" rel="" data-drupal-link-system-path="node/421">Contact Us</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="-menu" class="block-socialmenu block block-menu navigation menu--social-menu">
+            
+  <h2 class="visually-hidden" id="-menu">Social Menu</h2>
+  
+
+        
+
+            <ul class="menu">
+                                        <li  class="menu-item">
+                    <a class="" href="https://www.facebook.com/TysonFoods/" aria-label="Facebook"><i class="icon icon-facebook" aria-hidden="true"></i></a>
+                </li>
+                                                <li  class="menu-item">
+                    <a class="" href="https://twitter.com/TysonFoods/" aria-label="Twitter"><i class="icon fa-brands fa-x-twitter" aria-hidden="true"></i></a>
+                </li>
+                                                <li  class="menu-item">
+                    <a class="" href="https://www.instagram.com/TysonFoods/" aria-label="Instagram"><i class="icon icon-instagram" aria-hidden="true"></i></a>
+                </li>
+                                                <li  class="menu-item">
+                    <a class="" href="https://www.youtube.com/user/TysonCommunity" aria-label="YouTube"><i class="icon icon-youtube" aria-hidden="true"></i></a>
+                </li>
+                                                <li  class="menu-item">
+                    <a class="" href="https://www.linkedin.com/company/Tyson-Foods/" aria-label="LinkedIn"><i class="icon icon-linkedin" aria-hidden="true"></i></a>
+                </li>
+                            </ul>
+    
+
+
+  </nav>
+
+  </div>
+
+        <div class="region region-footer-bottom">
+    <div class="block-copyright block block-block-content block-block-content04a064c1-99b5-405e-ae45-428fe6998afc">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Copyright 2021 Tyson Foods, Inc.</p></div>
+      
+  </div>
+  <div id="cookieAcceptBar" class="cookieAcceptBar">
+    <div class="cookiesacceptbar-wrapper">
+      <span>
+              Your privacy is important to us. This website uses cookies to ensure you get the best experience on this website. To learn more about how to control your cookies, the categories of personal information we collect on this website, and how we use that information, please visit our    <a href="/privacy-policy/">privacy policy.</a>
+          </span>
+      <div class="cookieAcceptBarbtn-wrapper">
+         <button id="cookieAcceptBarConfirm" class="btn btn-success">
+                      Accept
+                  </button>
+        <button id="cookieBarDeclineConfirm" class="btn btn-success cookiesAcceptBarLearn">
+                      Decline
+                  </button>
+      </div>
+    </div>
+
+  </div>
+<nav role="navigation" aria-labelledby="-menu" class="block-legal block block-menu navigation menu--legal">
+            
+  <h2 class="visually-hidden" id="-menu">Legal</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/legal/privacy-policy" target="_self" data-drupal-link-system-path="node/1981">Privacy Policy</a>
+              </li>
+                <li class="menu-item menu-item--active-trail">
+        <a href="/legal/terms-of-use" target="_self" rel="" data-drupal-link-system-path="node/1986" class="is-active">Terms of Use</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/legal" target="_self" rel="" data-drupal-link-system-path="node/1991">Legal</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://app.keysurvey.com/f/1463959/4ffd/" target="_blank" rel="noopener noreferrer">Do Not Sell or Share My Personal Information</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+    </footer>
+
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/1986","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":true,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"user":{"uid":0,"permissionsHash":"eee4e095be6217862075e2466548c96aa0912471a74dbf703892d42da4379c8c"}}</script>
+<script src="/sites/default/files/js/js_KeQ-NrIG8sGt7Qo4GbmjUpJMCDDEhaF_zGuJoEWHDF8.js"></script>
+<script src="/sites/default/files/js/js_oZkik0q6V9Gh1z-eM1EYBVXW8vCQCjsmLm1XjjFQp5k.js"></script>
+<script src="/sites/default/files/js/js_d3IwXPlgKtOdXYhCCVbTI4j_d6EanaGmQ-MI9G9ubTE.js"></script>
+<script src="/sites/default/files/js/js_MZEsxtmTibItiHa05hV2QI23E4kDDvRBid9fQhCUq00.js"></script>
+
+  </body>
+</html>

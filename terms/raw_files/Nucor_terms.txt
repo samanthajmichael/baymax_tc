@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <title>Nucor | 
+         
+             
+                Terms &amp; Conditions  
+                    </title>
+    
+    <meta name="description" content="The following describes the terms and conditions (&quot;Terms&quot;) under which you may use this Web site (the &quot;Site&quot;).">
+    <link rel="canonical" href="http://nucor.com/terms-conditions">
+     
+                    <meta property="og:image" content="https://images.ctfassets.net/aax1cfbwhqog/4paBCL1tmmwX7IIi7rA4Cj/358900a6d5f82cd85caedd87fb4906c6/Nucor_Web_Preview_Homepage.jpg" />
+                
+
+        <script>
+            (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NLQXK2P');
+        </script>
+
+    <style >[wire\:loading], [wire\:loading\.delay], [wire\:loading\.inline-block], [wire\:loading\.inline], [wire\:loading\.block], [wire\:loading\.flex], [wire\:loading\.table], [wire\:loading\.grid], [wire\:loading\.inline-flex] {display: none;}[wire\:loading\.delay\.shortest], [wire\:loading\.delay\.shorter], [wire\:loading\.delay\.short], [wire\:loading\.delay\.long], [wire\:loading\.delay\.longer], [wire\:loading\.delay\.longest] {display:none;}[wire\:offline] {display: none;}[wire\:dirty]:not(textarea):not(input):not(select) {display: none;}input:-webkit-autofill, select:-webkit-autofill, textarea:-webkit-autofill {animation-duration: 50000s;animation-name: livewireautofill;}@keyframes livewireautofill { from {} }</style>
+            <link href="/css/app.css?id=9e9a9c40068ab7ca25879a63858e75e1" rel="stylesheet">
+        <link href="/css/app-compile.css?id=11f4d9f8d584566cae732b86a955066e" rel="stylesheet"> 
+        <script src="/js/app.js?id=d9be2ab96e098c89c997bc110d37c35d" defer></script>
+
+    <script src="/js/libs/jquery.min.js"></script>
+    <script src="/js/libs/gsap.min.js"></script>
+    <script src="/js/libs/ScrollTrigger.min.js"></script>
+    <script src="/js/libs/lity.min.js"></script>
+    <script src="/js/libs/slick.min.js"></script>
+    <script src="/js/modules.js"></script>
+    <script src="/js/libs/product-forms.js"></script>
+    <script src="/js/libs/moment.js"></script>
+
+    <link rel="preconnect" href="https://cdn.fonts.net">
+    <link href="https://cdn.fonts.net/kit/7c4b7071-4cf4-444d-9ae4-f7e03f8a5c24/7c4b7071-4cf4-444d-9ae4-f7e03f8a5c24.css" rel="stylesheet" />
+
+    <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.10.4/dist/instantsearch-theme-algolia.min.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.3.1/themes/reset-min.css" integrity="sha256-t2ATOGCtAIZNnzER679jwcFcKYfLlw01gli6F6oszk8=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@7.4.5/themes/satellite-min.css" integrity="sha256-TehzF/2QvNKhGQrrNpoOb2Ck4iGZ1J/DI4pkd2oUsBc=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/pikaday/css/pikaday.css">
+    <script src="https://cdn.jsdelivr.net/npm/pikaday/pikaday.js"></script>
+    <!-- <style>#DivAssetPlaceHolder1, .PRN_ImbeddedAssetReference {display:none;}</style> -->
+	<style>section#product-resources .third-wrap {flex-wrap: wrap;justify-content: center;}.ais-SearchBox-reset {right:2.5rem;}</style>
+</head>
+<body class="font-sans text-gray-900 antialiased min-h-screen page-terms-conditions">
+    <div class="full-content-wrap">
+        <header
+    x-data="{
+        navIsOpen: false,
+        openDropdown: null,
+    }"
+    class="header relative bg-white px-4 sm:px-6 lg:px-8 z-20"
+    @click.away="navIsOpen = false; openDropdown = null"
+>
+    <div class="container">
+        <div class="flex items-center justify-between">
+            <a href="/" title="Go to Homepage">
+                <img alt="Nucor logo - black" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjE1cHgiIGhlaWdodD0iMjVweCIgdmlld0JveD0iMCAwIDIxNSAyNSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDx0aXRsZT5sb2dvPC90aXRsZT4KICAgIDxnIGlkPSJTeW1ib2xzIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iTmF2MiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTE3LjAwMDAwMCwgLTEuMDAwMDAwKSIgZmlsbD0iIzAwMDAwMCI+CiAgICAgICAgICAgIDxwYXRoIGQ9Ik02NS44NTgzMzAzLDIuMjgxNjA2MzEgTDY1Ljg1ODAwMTksMi40NDEyNDk4NCBDNjUuODU3OTQ4MywyLjQ2NzMxNDY2IDY1Ljg1Nzg4ODQsMi40OTY0MzQxNiA2NS44NTc4MjI1LDIuNTI4NTA2NjQgTDY1Ljg1NzA3MDksMi44OTQxNDMzMiBDNjUuODU2OTcwNCwyLjk0MzAxODMxIDY1Ljg1Njg2NDUsMi45OTQ1NDExNSA2NS44NTY3NTM0LDMuMDQ4NjEwMTUgTDY1Ljg1NjAyNTgsMy40MDI3NjQyNyBDNjUuODUzMjcxOCw0Ljc0MzU0NjMzIDY1Ljg0ODQwMTMsNy4xMTc0NzQzMiA2NS44NDMzNzA1LDkuNTgyNjM1MjMgTDY1Ljg0MTkzMDUsMTAuMjg4NjM1OCBDNjUuODM2ODg3LDEyLjc2MjYzMSA2NS44MzE4Njk1LDE1LjIzODE1MzEgNjUuODI4ODM0NCwxNi43NzMyODkxIEw2NS44MjgwMjI5LDE3LjE4NTQ5NyBDNjUuODI3ODk3MiwxNy4yNDk2NjIzIDY1LjgyNzc3NjQsMTcuMzExNDkxOCA2NS44Mjc2NjA4LDE3LjM3MDg4MzggTDY1LjgyNzAzMDEsMTcuNjk3MTcxOCBDNjUuODI2OTM1OCwxNy43NDY0MDY5IDY1LjgyNjg0NywxNy43OTMwMDEgNjUuODI2NzY0LDE3LjgzNjg1MjYgTDY1LjgyNjMzNywxOC4wNjYyMzYzIEM2OS4xNTYyMjE2LDE4LjQwMjgzNTIgNzIuNTk1NzU5MywxOC41NzY4MTU3IDc2LjMxNjAxMTEsMTguNTc2ODE1NyBDODEuNDcyMDQ1NCwxOC41NzY4MTU3IDg0Ljk4NTgzNjgsMTguMzA1MjAwOSA4Ni43NzQyNzU4LDE4LjEyMzYyOTYgTDg2Ljc3NDI3NTgsMTguMTIzNjI5NiBMODYuNzc0Mjc1OCwyLjI4MTYwNjMxIEw5My44MDY3MDAyLDIuMjgxNjA2MzEgTDkzLjgwNjcwMDIsMjMuNTkzMjcxNSBMOTIuODc4MDY2NywyMy44NDk3MjkgTDkyLjg3ODA2NjcsMjMuODQ5NzI5IEw5Mi44NDM2MTU3LDIzLjg1OTA3MDEgQzkyLjMzMTM0NjgsMjMuOTk1NjM4OSA4Ny4wNjk0MDcxLDI1LjMxNzU3ODUgNzYuMzE2MDExMSwyNS4yNzc3NTA0IEw3NS44MDkwNzg1LDI1LjI3Njc2MTIgQzY1LjI0NzMwNzgsMjUuMjM1NDI5NCA1OS45NjQ2MTQyLDIzLjkxMjM2MjMgNTkuNzQxNjkzNCwyMy44NTQ2OTIyIEw1OS43NDE2OTM0LDIzLjg1NDY5MjIgTDU4Ljc5MTkxNzUsMjMuNjEwNzY0NCBMNTguNzkxOTE3NSwyLjI4MTYwNjMxIEw2NS44NTgzMzAzLDIuMjgxNjA2MzEgTDY1Ljg1ODMzMDMsMi4yODE2MDYzMSBaIE0xMTguMDY4NjYxLDIuMjgxNjMwNjQgQzEyOC44OTM4NjMsMi4yODE2MzA2NCAxMzQuMzY4Nzg1LDMuNjQ4NDg3NjEgMTM0LjU5NTkyNSwzLjcwNjE5NzI0IEwxMzQuNTk1OTI1LDMuNzA2MTk3MjQgTDEzNS41NDM5OTgsMy45NDgwODEzNiBMMTM1LjU4NTU1Myw5LjA4NTg5Mjg0IEwxMzUuNTk4NTQ1LDEwLjc2MjI3IEwxMzQuMDM3NDQxLDEwLjM3MzQ4NDIgQzEzNC4wMzU2NDYsMTAuMzczMDE5NyAxMzQuMDI4MjQyLDEwLjM3MTE4NDIgMTM0LjAxNTI3NCwxMC4zNjgwNjM4IEwxMzMuOTU5NzE5LDEwLjM1NDkzNDYgQzEzMy4yMzgxMDIsMTAuMTg2ODE5OCAxMjcuNTQ3NTk0LDguOTM5ODkxMzcgMTE4LjA2ODYzNiw4LjkzOTg5MTM3IEMxMTMuMzkwNTU2LDguOTM5ODkxMzcgMTA5Ljk1MTQ4LDkuMTgzODE5MTcgMTA3LjY2MDE5OSw5LjQzMTI1MDQyIEwxMDcuNjYwMTk5LDkuNDMxMjUwNDIgTDEwNy42NjAxOTksMTguMTcxNTU4OCBDMTA5LjQ3NDk4NiwxOC4zNjMwMzIxIDExMi45MzQ1NDcsMTguNjE0ODQyNyAxMTguMDY2MzI1LDE4LjYxNDg0MjcgQzEyOC40NDk2NTUsMTguNjE0ODQyNyAxMzMuOTM4NzM2LDE3LjIwMzA5NzggMTMzLjk5NDQyNiwxNy4xODgyMzI0IEwxMzMuOTk0NDI2LDE3LjE4ODIzMjQgTDEzNS41NTIwNTEsMTYuNzg0Mjg5NCBMMTM1LjU1MjA1MSwyMy42NjQ2MyBMMTM0LjU4MDMwNiwyMy44OTg5NDc2IEMxMzQuMzQ4Mjc1LDIzLjk1NTc4MTQgMTI4Ljc1OTAyOSwyNS4yNzg2MjYyIDExOC4wOTcxOTksMjUuMjc4NjI2MiBDMTA3LjM3NzYzNiwyNS4yMzQ5MDYxIDEwMS43OTEzMDksMjMuOTE0OTgwOCAxMDEuNTU3ODE5LDIzLjg1ODczMDkgTDEwMS41NTc4MTksMjMuODU4NzMwOSBMMTAwLjU4Mzc2MiwyMy42MjIzNjk2IEwxMDAuNjE5NTc1LDMuOTUxNTg0ODEgTDEwMS41NzM0MzgsMy43MDYxOTcyNCBDMTAxLjc5OTcwMywzLjY0ODQ4NzYxIDEwNy4yNDU0NzgsMi4yODE2MzA2NCAxMTguMDY4NjYxLDIuMjgxNjMwNjQgWiBNMTYxLjAxMjc3NiwyLjI4MTU4MTk4IEMxNzEuODg0MjA0LDIuMjgxNTgxOTggMTc3LjMzNTY3MiwzLjY0NTA4MTQ4IDE3Ny41NjIyMjksMy43MDI0MDE4MyBMMTc3LjU2MjIyOSwzLjcwMjQwMTgzIEwxNzguNTE5ODg3LDMuOTQ3NjQzNDMgTDE3OC41MTk4ODcsMjMuNjY4MTA5MSBMMTc3LjU0NTQ2NiwyMy45MDE0MjkyIEMxNzcuMzEwNTE1LDIzLjk1ODE2NTcgMTcxLjcxNjAxNCwyNS4yNzg2MjYyIDE2MS4wMDc4NjEsMjUuMjc4NjI2MiBDMTUxLjE5MjAzMSwyNS4yMzkwNzEgMTQ1Ljc3NDYyNSwyNC4xNTA2NjMxIDE0NC42NzUwMDYsMjMuOTA0NzA1NyBMMTQ0LjU3NjY1MSwyMy44ODIzNDQ1IEMxNDQuNTIxMzQ1LDIzLjg2OTU0NCAxNDQuNDg2NTYyLDIzLjg2MTA2MDUgMTQ0LjQ3MjI3NiwyMy44NTc1MTQ0IEwxNDQuNDcyMjc2LDIzLjg1NzUxNDQgTDE0My41MDUwOCwyMy42MjAxMzEzIEwxNDMuNTA1MDgsNC4wMDcyNzUwOSBMMTQ0LjQ0MjIyOSwzLjc1MDExMjAzIEMxNDQuNjYwNDE2LDMuNjkwMTg4NDEgMTQ5LjkwODE0OSwyLjI4MTU4MTk4IDE2MS4wMTI3NzYsMi4yODE1ODE5OCBaIE00NC4wNDIzMTQxLDIuNDIzMjUyOCBMNTEuODA5NTYzMiwyLjQyNjQxNTY0IEw1MS44MDk1NjMyLDI0LjkxNzUwMzEgTDQ0LjA1NDA4OTYsMjQuOTE3NTAzMSBMNDQuMDU0MDg5NiwyNC45MTc1MDMxIEw0NC4wNTQwNDExLDI0Ljg2ODgzNDQgQzQ0LjA1NDAyNTIsMjQuODUyODgwNyA0NC4wNTQwMDU1LDI0LjgzMzE0MDQgNDQuMDUzOTgyMiwyNC44MDk4MTU0IEw0NC4wNTMwMzUyLDIzLjg2MjI4MjggQzQ0LjA1Mjk3MTUsMjMuNzk4NjYzOSA0NC4wNTI5MDU2LDIzLjczMjg3MzMgNDQuMDUyODM3OCwyMy42NjUxMTMgTDQ0LjA1MjE3OSwyMy4wMDc1Mzg1IEM0NC4wNTIxMDEsMjIuOTI5Nzc2OCA0NC4wNTIwMjE2LDIyLjg1MDY1MDkgNDQuMDUxOTQxLDIyLjc3MDM2MjggTDQ0LjA1MTE4OTIsMjIuMDIxODQgQzQ0LjA1MTEwMzMsMjEuOTM2Mzk1MyA0NC4wNTEwMTY3LDIxLjg1MDM5NCA0NC4wNTA5Mjk4LDIxLjc2NDAzOCBMNDQuMDUwMTQyMywyMC45ODI3MDU5IEM0NC4wNTAwNTQ4LDIwLjg5NjAzODIgNDQuMDQ5OTY3NSwyMC44MDk2MjE0IDQ0LjA0OTg4MDYsMjAuNzIzNjU3MyBMNDQuMDQ5MTE0NywxOS45Njc2NTQ4IEM0NC4wNDkwMzIsMTkuODg2MjI0IDQ0LjA0ODk1MDMsMTkuODA1ODUxNSA0NC4wNDg4Njk4LDE5LjcyNjczOTIgTDQ0LjA0ODE4MjksMTkuMDU0MjA1MyBDNDQuMDQ4MTExNCwxOC45ODQ0NzEyIDQ0LjA0ODA0MTYsMTguOTE2NjAzIDQ0LjA0Nzk3MzksMTguODUwODAyNCBMNDQuMDQ3MDEyNiwxNy45MzMzMDkxIEw0NC4wNDcwMTI2LDE3LjkzMzMwOTEgTDQ0LjA0NjkxMjQsMTcuODQyMTg1NyBDNDIuNzU4MjUwNSwxNi44MjI4NTE2IDM5LjM5NjgzNDksMTQuNDE5Mzg2NyAzMy4xNDc4NDU0LDEyLjIxOTk5NzcgQzI5LjYwODE5MTcsMTAuOTc0NDIzNCAyNS43MTg5NzE0LDEwLjA5ODgwMzkgMjQuMDIxNjIyMiw5Ljc5NzI2Mzc4IEwyNC4wMjE2MjIyLDkuNzk3MjYzNzggTDI0LjAyMTYyMjIsMjUuMjc4NTc3NiBMMTcsMjUuMjc4NTc3NiBMMTcsMi41MTQ3MDc0OCBMMTguMjMyNDEyLDIuNTEyOTgwMDggQzE4LjIzNTgzODQsMi41MTI5ODAwOCAxOC4yNDA0NzA4LDIuNTEyOTg3MDkgMTguMjQ2MzEwMiwyLjUxMzAxMTgyIEwxOC4yOTU4Mzk0LDIuNTEzNDU4NjIgQzE4Ljk1NzQ4MTksMi41MjIwNDQ4OCAyNC4yNjY3NTQxLDIuNjgxMTQxNjMgMzQuNDYzNDg4Nyw1LjU0NDU2MDM3IEMzOC44MDcwMzg2LDYuNzY0ODMxOTYgNDEuNjI2ODc5LDcuOTQ2ODgxODYgNDQuMDQwMDI3Miw5LjI0OTY1NDg2IEw0NC4wNDAwMjcyLDkuMjQ5NjU0ODYgTDQ0LjA0MDk1NzQsNi4wMzcwNTA0MyBDNDQuMDQwOTkyNSw1Ljk2NDcwODUzIDQ0LjA0MTAyOCw1Ljg5MzI0Nzk2IDQ0LjA0MTA2MzYsNS44MjI3OTQwNSBMNDQuMDQxOTU2OCw0LjI1NjU0MjA5IEM0NC4wNDE5ODM2LDQuMjE0MzYxODcgNDQuMDQyMDA5Myw0LjE3NDMxNjUgNDQuMDQyMDMzNyw0LjEzNjUzMTM0IEw0NC4wNDIzMTQxLDIuNDIzMjUyOCBaIE0yMDEuNTI2MTUzLDIuMjgxNTU3NjYgQzIxMi4zMzY0MTcsMi4yODE1NTc2NiAyMTcuODgwMzg1LDMuNzQzMDA3ODEgMjE4LjExMDQyMSwzLjgwNDU2MTUgTDIxOC4xMTA0MjEsMy44MDQ1NjE1IEwyMTguODE3MjkxLDMuOTk1NzE4NTcgTDIxOC44MTcyOTEsMTUuMjQ1NTIgTDIxOC4wOTQ4NSwxNS40MjcyMTI5IEMyMTcuOTg5MzgyLDE1LjQ1Mzg1MzcgMjE2LjA4MjMzNiwxNS45MTYzMzM2IDIxMi40NjM5MjgsMTYuMzA2MDQzOSBDMjE2LjU4MTc3MywxNy45MTg3MDIgMjE4LjY1ODYzOCwxOS40MDAyNzI3IDIxOC43NzE0NTQsMTkuNDgyNTMwOCBMMjE4Ljc3MTQ1NCwxOS40ODI1MzA4IEwyMTkuMTgyMTg1LDE5Ljc4MTk3ODYgTDIxOS4xNTY2MTUsMjUuMjc4NjAxOSBMMjExLjk1NjUxMSwyNS4yNzg2MDE5IEwyMTEuOTU2NTExLDI1LjI3ODYwMTkgTDIxMS45NTY4ODEsMjUuMTYwMzQ3NiBDMjExLjk1Njk2LDI1LjEzNTIxOTIgMjExLjk1NzA1MSwyNS4xMDY0Nzc5IDIxMS45NTcxNTMsMjUuMDc0NTA3MSBMMjExLjk1Nzg4MywyNC44NDY5OTY3IEMyMTEuOTU5OTkzLDI0LjE5NjY3NDkgMjExLjk2NDA3NCwyMi45OTIyNzY2IDIxMS45NjY4MDMsMjIuNTI3OTMwMyBDMjEwLjY3MTc0MiwyMS43OTk3MjMzIDIwNi44OTE3NjEsMjAuMTY3ODQ0OSAyMDEuMzQ3NzkzLDE5LjAxNTAxNDcgQzE5Ni42NTQ5NjgsMTguMDM4MjU3MyAxOTIuNDIxMzM5LDE3Ljk5MjEwNDIgMTkwLjY1MTgwNCwxOC4wMjU1MzMgTDE5MC42NTE4MDQsMTguMDI1NTMzIEwxOTAuNjUxODA0LDI0Ljg5OTU3MjMgTDE4NC4xNjc0MDIsMjQuODk5NTcyMyBMMTg0LjE2NzQwMiwzLjk5NDIzNDQ3IEwxODQuODc4NywzLjgwNDU2MTUgQzE4NC45OTg2OCwzLjc3MjUyMTggMTg2LjU0NjYxOSwzLjM2ODYwMzMyIDE4OS41MDAxMjUsMi45ODQ4MjQ0MSBMMTkwLjA1MjYxLDIuOTE1MzU1NjIgQzE5Mi43OTc3NjQsMi41ODE1MDYwMiAxOTYuNjI3MzQ0LDIuMjgxNTU3NjYgMjAxLjUyNjE1MywyLjI4MTU1NzY2IFogTTE2MC45ODA2NjEsOC4yNTg0NDU3NCBDMTU1LjIwMDkzOSw4LjI1ODQ0NTc0IDE1MS42Mjg5NTIsOC42NzUzMDc4IDE1MC40Mzc1MSw4LjgyNzE3MjY4IEwxNTAuNDM3NTEsOC44MjcxNzI2OCBMMTUwLjQwNzc1NSwxOC44MTY1NTg4IEMxNTEuNjg3MDUsMTguOTY2MDg4IDE1NS41NTAzMTEsMTkuMzgyMzkwNSAxNjAuOTgwNjg1LDE5LjM4MjM5MDUgQzE2NS43NzI0MDksMTkuMzgyMzkwNSAxNjkuMTk4NzYsMTkuMDc5ODI4NiAxNzEuNDkyNjIxLDE4LjgxNjU1ODggTDE3MS40OTI2MjEsMTguODE2NTU4OCBMMTcxLjU1MDEzNiw4Ljg2NTAwNTA5IEMxNjkuMTk4NzM2LDguNTYxODU5MjMgMTY1LjcxNTc3LDguMjU4NDQ1NzQgMTYwLjk4MDY2MSw4LjI1ODQ0NTc0IFogTTIwMy41Mjg4MzYsOC42NTU5Nzk2MSBMMjAxLjc4OTE4MSw4LjY1NTUyNTk2IEwyMDEuNzg5MTgxLDguNjU1NTI1OTYgTDIwMC45MTU4NTYsOC42NTc0NDIzNCBDMTk2LjEyMDE3Niw4LjY3MTcyNzU1IDE5MS41MjcxMzQsOC43NDY3OTQ3NCAxOTAuOTUzNTM5LDguODMyNTI1MTggTDE5MC45NTM1MzksOC44MzI1MjUxOCBMMTkwLjk1MzUzOSwxMy41MjY5Nzk3IEMxOTAuOTUzNTM5LDEzLjUyNjk3OTcgMTkwLjk1NjY1MywxMy41MjcwMTYgMTkwLjk2MjgwNCwxMy41MjcwODcgTDE5MS4wMzU1NzksMTMuNTI3OTE3NCBDMTkxLjcwMTgwOSwxMy41MzU0NTU3IDE5Ni4zMjI2MDEsMTMuNTg2MzEzMiAyMDEuMTAyNzQ5LDEzLjYwMjM2MjIgTDIwMi4yNjY2MDcsMTMuNjA1NTM3OCBDMjAyLjY1NDI1OSwxMy42MDYzMzk4IDIwMy4wNDA5MzUsMTMuNjA2ODcxMiAyMDMuNDI0NjEzLDEzLjYwNzA5MDYgTDIwNC4xODczNzIsMTMuNjA3MTAwOCBDMjA4LjEwMTQ0NCwxMy42MDQ4NzU2IDIxMS41NTEzNSwxMy41NjYzNTc4IDIxMi4zMDQ5ODMsMTMuNDQ1NTk3NSBMMjEyLjMwNDk4MywxMy40NDU1OTc1IEwyMTIuMzA0OTgzLDguODc2OTAyMjMgQzIxMS40ODU5MTUsOC43MjY2MDgzOSAyMDcuNjk3MDk0LDguNjY0MzA1MzYgMjAzLjUyODgzNiw4LjY1NTk3OTYxIFogTTIyOC43NjQyNzEsMSBDMjMwLjUyODU1LDEgMjMxLjk2MjI4OSwyLjM5MzgzODQxIDIzMS45NjIyODksNC4xMTgxNjkwNiBDMjMxLjk2MjI4OSw1Ljg0MjQ5OTcyIDIzMC41Mjg1NSw3LjIzNjMzODEyIDIyOC43NjQyNzEsNy4yMzYzMzgxMiBDMjI2Ljk5OTgyMSw3LjIzNjMzODEyIDIyNS41NjYyNTIsNS44NDI1OTcwNCAyMjUuNTY2MjUyLDQuMTE4MTY5MDYgQzIyNS41NjYyNTIsMi4zOTM3NDEwOSAyMjYuOTk5ODIxLDEgMjI4Ljc2NDI3MSwxIFogTTIyOC43NjQyNzEsMS42NDY4MDAzOCBDMjI3LjM1MzAxMiwxLjY0NjgwMDM4IDIyNi4yMTMwMjgsMi43NTUxMDc1IDIyNi4yMTMwMjgsNC4xMTgxNjkwNiBDMjI2LjIxMzAyOCw1LjQ4MTIzMDYyIDIyNy4zNTMwMTIsNi41ODk1Mzc3NCAyMjguNzY0MjcxLDYuNTg5NTM3NzQgQzIzMC4xNzUzNTksNi41ODk1Mzc3NCAyMzEuMzE1NTEzLDUuNDgxMTMzMyAyMzEuMzE1NTEzLDQuMTE4MTY5MDYgQzIzMS4zMTU1MTMsMi43NTUxODA0OSAyMzAuMTc1MzU5LDEuNjQ2ODAwMzggMjI4Ljc2NDI3MSwxLjY0NjgwMDM4IFogTTIyOC45NTAxMjQsMi43NzY2NjM0NiBDMjI5LjI0MDI1MywyLjc3NjY2MzQ2IDIyOS40NTEwNjksMi44MDEwNDE2NCAyMjkuNTgyNTcsMi44NDk4MjIzNCBDMjI5LjcxNDA3MSwyLjg5ODYwMzAzIDIyOS44MTkzMiwyLjk4NTMxMzQ1IDIyOS44OTgzMTgsMy4xMTAwMjY1OSBDMjI5Ljk3NzM0MSwzLjIzNDcxNTQgMjMwLjAxNjg1MiwzLjM3NzMxMDc0IDIzMC4wMTY4NTIsMy41Mzc4MTI2MSBDMjMwLjAxNjg1MiwzLjc0MTUyMzcxIDIyOS45NTY5NzcsMy45MDk3MzgwMyAyMjkuODM3MjAzLDQuMDQyNDU1NTggQzIyOS43MTc0MjgsNC4xNzUxNzMxNCAyMjkuNTM4NDM2LDQuMjU4ODE4MDQgMjI5LjMwMDE1Myw0LjI5MzM5MDI5IEwyMjkuMzAzODc1LDQuMjk1NTU1NjIgQzIyOS40MjA3Myw0LjM2NDE0MDU1IDIyOS41MTczNDIsNC40MzkzNDMxIDIyOS41OTM2ODgsNC41MjExODc2MiBDMjI5LjY3MDg2Miw0LjYwMzkwOCAyMjkuNzc0ODcsNC43NTA4MzM5OSAyMjkuOTA1NzM5LDQuOTYxOTQxMjcgTDIzMC4yMzcyMjksNS40OTE1OTUgTDIyOS41ODE2NDUsNS40OTE1OTUgTDIyOS4xODUzNDIsNC45MDA4MjU1MSBDMjI5LjA0NDU5NSw0LjY4OTY5MzkgMjI4Ljk0ODI5OSw0LjU1NjY4NDQgMjI4Ljg5NjQyOSw0LjUwMTcyNCBDMjI4Ljg0NDU1OCw0LjQ0Njc2MzYxIDIyOC43ODk2MjIsNC40MDkxMjU4MyAyMjguNzMxNTk2LDQuMzg4NzYyMDIgQzIyOC42NzM1Nyw0LjM2ODM5ODIxIDIyOC41ODE1OCw0LjM1ODIwNDE0IDIyOC40NTU2NTEsNC4zNTgyMDQxNCBMMjI4LjM0NDUzOCw0LjM1ODIwNDE0IEwyMjguMzQ0NTM4LDUuNDkxNTk1IEwyMjcuNzk2MzY5LDUuNDkxNTk1IEwyMjcuNzk2MzY5LDIuNzc2NjYzNDYgTDIyOC45NTAxMjQsMi43NzY2NjM0NiBaIE0yMjguNzcyMzcyLDMuMjM1OTU2MjEgTDIyOC4zNDQ1ODYsMy4yMzU5NTYyMSBMMjI4LjM0NDU4NiwzLjkyNDg3MSBMMjI4Ljc1MDEzNSwzLjkyNDg3MSBDMjI5LjAxMzExMywzLjkyNDg3MSAyMjkuMTc3MzEzLDMuOTEzNzUyNCAyMjkuMjQyNzU5LDMuODkxNTM5NTUgQzIyOS4zMDgyMDYsMy44NjkzMjY2OSAyMjkuMzU5NDE5LDMuODMxMDMyMDIgMjI5LjM5NjQ3MywzLjc3NjcyODUzIEMyMjkuNDMzNTAzLDMuNzIyNDAwNyAyMjkuNDUyMDQyLDMuNjU0NDk3IDIyOS40NTIwNDIsMy41NzMwMTc0MyBDMjI5LjQ1MjA0MiwzLjQ4MTY2MDA3IDIyOS40Mjc2NjQsMy40MDc4OTI5NSAyMjkuMzc4ODgzLDMuMzUxNzE2MDggQzIyOS4zMzAxMDIsMy4yOTU1MzkyMSAyMjkuMjYxMjc0LDMuMjYwMDQyNDQgMjI5LjE3MjM5OCwzLjI0NTIyNTc2IEMyMjkuMTI3OTQ4LDMuMjM5MDQ2MDYgMjI4Ljk5NDYyMywzLjIzNTk1NjIxIDIyOC43NzIzNzIsMy4yMzU5NTYyMSBaIiBpZD0ibG9nbyI+PC9wYXRoPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+">
+            </a>
+            <div
+                :class="{
+                    'hidden lg:flex': !navIsOpen,
+                    'flex flex-col lg:flex-row': navIsOpen,
+                }"
+                class="nav-wrap absolute right-0 top-16 w-full sm:w-80 z-10 divide-y overflow-y-auto lg:static lg:w-auto lg:items-stretch lg:space-x-8 lg:divide-y-0 lg:overflow-visible"  
+            >
+                                    <div class="relative bg-white">
+                                                <button
+                            class="flex justify-start items-center w-full px-8 py-3 font-med text-base uppercase text-right transition lg:w-auto lg:pt-6 lg:pb-5 lg:px-0 lg:text-left lg:border-b-4"
+                            :class="openDropdown === 'Products' ? 'lg:border-green-800 text-green-800' : 'border-transparent hover:border-green-800'"
+                            @click.prevent="openDropdown === 'Products' ? openDropdown = null : openDropdown = 'Products'"
+                            style="display:none;"
+                        >
+                            <span class="caret realtive lg:hidden"></span>
+                            <span>Products</span>
+                        </button>
+                        <div x-show="openDropdown === 'Products'" class="subnav bg-gray-200 divide-y divide-gray-300 lg:z-10 lg:absolute lg:right-0 lg:border lg:bg-white" x-cloak>
+                                                            <a
+                                    href="/products"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>All Products</span>
+                                </a>
+                                                            <a
+                                    href="/aeos"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Aeos™</span>
+                                </a>
+                                                            <a
+                                    href="/econiq"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Econiq™</span>
+                                </a>
+                                                            <a
+                                    href="/elcyon"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Elcyon™</span>
+                                </a>
+                                                            <a
+                                    href="/invincia"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Invincia™</span>
+                                </a>
+                                                            <a
+                                    href="/industries-served"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Industries Served</span>
+                                </a>
+                                                            <a
+                                    href="/locations"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Locations</span>
+                                </a>
+                                                    </div>
+                                            </div>
+                                    <div class="relative bg-white">
+                                                <button
+                            class="flex justify-start items-center w-full px-8 py-3 font-med text-base uppercase text-right transition lg:w-auto lg:pt-6 lg:pb-5 lg:px-0 lg:text-left lg:border-b-4"
+                            :class="openDropdown === 'Solutions' ? 'lg:border-green-800 text-green-800' : 'border-transparent hover:border-green-800'"
+                            @click.prevent="openDropdown === 'Solutions' ? openDropdown = null : openDropdown = 'Solutions'"
+                            style="display:none;"
+                        >
+                            <span class="caret realtive lg:hidden"></span>
+                            <span>Solutions</span>
+                        </button>
+                        <div x-show="openDropdown === 'Solutions'" class="subnav bg-gray-200 divide-y divide-gray-300 lg:z-10 lg:absolute lg:right-0 lg:border lg:bg-white" x-cloak>
+                                                            <a
+                                    href="/automotive-solutions"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Automotive Solutions</span>
+                                </a>
+                                                            <a
+                                    href="/construction-solutions"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Construction Solutions</span>
+                                </a>
+                                                            <a
+                                    href="/energy-solutions"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Energy Solutions</span>
+                                </a>
+                                                            <a
+                                    href="/featured-projects"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Featured Projects Map</span>
+                                </a>
+                                                    </div>
+                                            </div>
+                                    <div class="relative bg-white">
+                                                <button
+                            class="flex justify-start items-center w-full px-8 py-3 font-med text-base uppercase text-right transition lg:w-auto lg:pt-6 lg:pb-5 lg:px-0 lg:text-left lg:border-b-4"
+                            :class="openDropdown === 'Sustainability' ? 'lg:border-green-800 text-green-800' : 'border-transparent hover:border-green-800'"
+                            @click.prevent="openDropdown === 'Sustainability' ? openDropdown = null : openDropdown = 'Sustainability'"
+                            style="display:none;"
+                        >
+                            <span class="caret realtive lg:hidden"></span>
+                            <span>Sustainability</span>
+                        </button>
+                        <div x-show="openDropdown === 'Sustainability'" class="subnav bg-gray-200 divide-y divide-gray-300 lg:z-10 lg:absolute lg:right-0 lg:border lg:bg-white" x-cloak>
+                                                            <a
+                                    href="/sustainability"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Overview</span>
+                                </a>
+                                                            <a
+                                    href="/esg"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>ESG</span>
+                                </a>
+                                                            <a
+                                    href="/sustainability#resources"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Certifications &amp; SDS</span>
+                                </a>
+                                                            <a
+                                    href="/madeforgood"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Made for Good</span>
+                                </a>
+                                                            <a
+                                    href="/certifications#epds"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>EPD</span>
+                                </a>
+                                                    </div>
+                                            </div>
+                                    <div class="relative bg-white">
+                                                    <a
+                                href="https://investors.nucor.com/overview/default.aspx"
+                                class="flex justify-start items-center w-full px-8 py-3 font-med text-base uppercase text-right transition lg:w-auto lg:pt-6 lg:pb-5 lg:px-0 lg:text-left lg:border-b-4 border-transparent hover:border-green-800"
+                                style="display:none;"
+                            >
+                                <span>Investors</span>
+                            </a>
+                                            </div>
+                                    <div class="relative bg-white">
+                                                <button
+                            class="flex justify-start items-center w-full px-8 py-3 font-med text-base uppercase text-right transition lg:w-auto lg:pt-6 lg:pb-5 lg:px-0 lg:text-left lg:border-b-4"
+                            :class="openDropdown === 'Careers' ? 'lg:border-green-800 text-green-800' : 'border-transparent hover:border-green-800'"
+                            @click.prevent="openDropdown === 'Careers' ? openDropdown = null : openDropdown = 'Careers'"
+                            style="display:none;"
+                        >
+                            <span class="caret realtive lg:hidden"></span>
+                            <span>Careers</span>
+                        </button>
+                        <div x-show="openDropdown === 'Careers'" class="subnav bg-gray-200 divide-y divide-gray-300 lg:z-10 lg:absolute lg:right-0 lg:border lg:bg-white" x-cloak>
+                                                            <a
+                                    href="/careers"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Overview</span>
+                                </a>
+                                                            <a
+                                    href="/nucor-technical-academy"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Nucor Technical Academy</span>
+                                </a>
+                                                    </div>
+                                            </div>
+                                    <div class="relative bg-white">
+                                                <button
+                            class="flex justify-start items-center w-full px-8 py-3 font-med text-base uppercase text-right transition lg:w-auto lg:pt-6 lg:pb-5 lg:px-0 lg:text-left lg:border-b-4"
+                            :class="openDropdown === 'News+' ? 'lg:border-green-800 text-green-800' : 'border-transparent hover:border-green-800'"
+                            @click.prevent="openDropdown === 'News+' ? openDropdown = null : openDropdown = 'News+'"
+                            style="display:none;"
+                        >
+                            <span class="caret realtive lg:hidden"></span>
+                            <span>News+</span>
+                        </button>
+                        <div x-show="openDropdown === 'News+'" class="subnav bg-gray-200 divide-y divide-gray-300 lg:z-10 lg:absolute lg:right-0 lg:border lg:bg-white" x-cloak>
+                                                            <a
+                                    href="/news-content"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>All News &amp; Content</span>
+                                </a>
+                                                            <a
+                                    href="/news-content?filters[search]=&amp;filters[tags]=&amp;filters[category]=&amp;filters[type]=Article#content-resources"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Articles</span>
+                                </a>
+                                                            <a
+                                    href="/news-content?filters[search]=&amp;filters[tags]=&amp;filters[category]=&amp;filters[type]=Case+Study#content-resources"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Case Studies</span>
+                                </a>
+                                                            <a
+                                    href="/news-content?filters[category]=Minds+of+Steel#content-resources"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Minds of Steel</span>
+                                </a>
+                                                            <a
+                                    href="/news-content#media-kit"
+                                    class="flex justify-between py-3 px-4 text-right text-sm font-med uppercase tracking-wide whitespace-nowrap transition lg:text-left hover:text-green-800"
+                                >
+                                    <!-- <span class="caret transform rotate-90 lg:hidden"></span> -->
+                                    <span>Media Kit</span>
+                                </a>
+                                                    </div>
+                                            </div>
+                                <div id="search-trigger" class="hidden sm:flex">
+                    <span class="icon-search"></span>
+                </div>
+
+                <div id="search-overlay">
+                    <div class="container">
+                        <div class="max-w-2xl mx-auto pt-20 overflow-scroll">
+                            <div id="search-box">
+                            <!-- SearchBox widget will appear here -->
+                            </div>
+
+                            <div id="hits">
+                            <!-- Hits widget will appear here -->
+                            </div>
+
+                            <div id="hits-instant-search-nnd">
+                            <!-- Hits widget will appear here -->
+                            </div>
+
+                            <div id="hits-instant-search-pages">
+                            <!-- Hits widget will appear here -->
+                            </div>
+
+                            <div id="hits-instant-search-fin">
+                            <!-- Hits widget will appear here -->
+                            </div>
+
+                            <div id="hits-instant-search-fin-info">
+                            <!-- Hits widget will appear here -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="lg:hidden">
+                <label style="display:none;">Toggle Nav</label>
+                <button id="nav-toggle" class="py-6" @click.prevent="navIsOpen = !navIsOpen">
+                    <span class="line"></span>
+                    <span class="line"></span>
+                    <span class="line"></span>
+                </button>
+            </div>
+
+        </div>
+    </div>
+</header>                    <div class="content-wrapper">
+                                                
+            
+                                    
+         
+         
+            
+                            <section   class="textarea-default relative
+            bg-white
+                    ">
+    <div class="container">
+        <div class="max-w-full lg:max-w-5xl mx-auto py-12 px-4 sm:px-6 md:py-20 lg:px-8">
+            <div class="w-full">
+                                                
+                                            <h2 class="text-black text-3xl md:text-4xl uppercase text-center">Terms & Conditions</h2>
+                                                                        <div class="mt-4 text-black text-center normal-case">
+                        <p><b>PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY BEFORE USING THIS SITE.</b></p>
+<p>Nucor Corporation, by and through its divisions, affiliates and subsidiaries (collectively hereinafter “Company”), owns and operates the website www.nucor.com (hereinafter the “Site”).  By using the Site, you signify your agreement to these Terms and Conditions of Use (“Terms and Conditions”).  If you do not agree to all of these Terms and Conditions, do not use the Site.  Company may revise and update these Terms and Conditions at any time. Your continued usage of the Site will mean you accept those changes.</p>
+<ol>
+<li><b>Use of Content.</b></li>
+<ol>
+    <li>The contents of the Site, such as text, graphics, user interfaces, visual interfaces, images, logos, trademarks, servicemarks, specifications, certifications, technical guidelines, catalogs, Tools (as defined below), software, data, and other Company material contained on the Site, including the design, structure, selection, coordination, expression, “look and feel” and arrangement of the foregoing (collectively “Content”), is protected by copyright, trademark, and/or other laws of the United States, Canada, and/or Mexico.  Ownership of the Content remains with Company, its licensors, or third-party content providers.  Any use of the Content not expressly permitted by these Terms and Conditions is a breach of these Terms and Conditions and may violate copyright, trademark, and other laws. No part of the Site or Content may be copied, reproduced, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, sold, used to prepare derivative works, or distributed in any way (including “mirroring”) to any other computer, server, website or other medium for publication or distribution or for any commercial enterprise, without Company’s express prior written consent. In addition to the use of the Content provided under this Section 1, the portion of the Content related to the Tools is further subject to Section 3 below.  Content may contain technical inaccuracies or typographical errors.</li>
+    <li>You are not authorized to download or print Content, except that you may download or print no more than one (1) copy of Company’s catalogs for your internal business use if you include all copyright and proprietary rights notices that are contained in such catalogs.  Any special rules for the use of certain Content accessible on the Site may be included elsewhere within the Site and are incorporated into these Terms and Conditions by reference. </li>
+    <li>If you violate any of these Terms and Conditions, your permission to use the Content automatically terminates and you must immediately destroy any copies you have made of any portion of the Content.</li>
+</ol>
+<li><b>Use of the Site.</b></li>
+<ol>
+    <li>In your use of the Site, you agree to act responsibly in a manner demonstrating the exercise of good judgment. For example and without limitation, you agree not to (i) use the Site for any purpose in violation of local, state, federal, provincial, international, or other applicable laws; (ii) insert your own or a third party’s advertising, branding or other promotional content into any of the Content or use, redistribute, republish or exploit the Content for any further commercial or promotional purposes; (iii) infringe or violate the rights of any third party, including without limitation, intellectual property, privacy, publicity or contractual rights; (iv) engage in spidering, “screen scraping”, “database scraping”, harvesting of e-mail addresses, wireless addresses, other contact or personal information, any Content, or any other automatic means of obtaining lists of users or other information from or through the Site or the services offered on or through the Site, including without limitation any information residing on any server or database connected to the Site; (v) attempt to interfere with, interrupt, damage, disable, overburden, or impair the Site or interfere with any other party’s use and enjoyment of the Site or the Content, through the use of any device, software, or routine, including, without limitation, through the use of viruses, cancel bots, Trojan horses, harmful code, flood pings, denial of service attacks, packet or IP spoofing, forged routing or electronic mail address information or similar methods or technology; (vi) probe, scan, or test the vulnerability of the Site or any network connected to the Site, nor breach the security or authentication measures on the Site or any network connected to the Site; (vii) attempt to gain unauthorized access to other computer systems through the Site; (viii) assist anyone else in doing any of the foregoing; or (ix) attempt (or encourage or support anyone else{"'"}s attempt) to circumvent, reverse engineer, decrypt, or otherwise alter or interfere with the Site or any Content thereof, or make any unauthorized use thereof. You shall not obtain or attempt to obtain any materials or information through any means not intentionally made publicly available or provided through the Site.</li>
+    <li>Unless products or services are sold directly through a location on the Site, such as through a Tool, any cost estimates provided elsewhere on the Site, or through a Tool, if any, are simply estimates and should not be relied on by you for any purpose, as such, these estimates are not quotes or offers by Company to sell any products or services to you.</li>
+</ol>
+<li><b>Use of Tools.</b></li>
+<ol>
+    <li>You further agree that your use of the functionality and tools provided on the Site, including the functionality and tools for providing engineering specifications or designs, through web-based applications or downloadable software or add-ins, (collectively “Tools”), is for the sole purpose of identifying potential products or services (except for Tools through which products or services are sold directly).  Output returned by a Tool may include suggestions from Company’s catalogs or data sheets, or calculations made therefrom; as such, the information accessed through use of any Tool is presented for general information only and is not to be used or relied upon for any application without independent verification by a licensed professional engineer, or other qualified professional.</li>
+    <li>In addition to the obligations provided under Section 1 with respect to the Content, you further agree (i) not to, or allow any third party to, disassemble, decompile, or otherwise reverse engineer any Tool provided by or through the Site, including the executable, object, or source code of such Tool; and (ii) to receive independent verification by a licensed professional engineer, or other qualified professional, of the information accessed through the use of any Tool.</li>
+    <li>You hereby agree, warrant and represent to Company that you own or otherwise have rights, including any intellectual property and other proprietary right, in and to any data or other information that you provide in connection with your use of any Tool and you hereby grant Company a license to use such data and other information, including in connection with any Tool. Moreover, you warrant and represent that none of the data or other information that you provide in connection with your use of any Tool infringes any third party’s intellectual property and other proprietary rights.</li>
+</ol>
+<li><b>Liability.</b></li>
+<ol>
+    <li>COMPANY IS NOT RESPONSIBLE FOR ANY VIRUSES OR OTHER ROUTINES THAT HARM YOUR COMPUTER OR SOFTWARE, WHICH YOU MAY COME IN CONTACT WITH WHILE USING THE SITE; NOR IS COMPANY RESPONSIBLE FOR ANY FAILURE, MECHANICAL OR OTHERWISE, OF THE SITE OR OF ANY CONTENT OR SERVICES, INCLUDING THE TOOLS, AVAILABLE THROUGH THE SITE.  FURTHERMORE, WHEN USING THE SITE, INFORMATION WILL BE TRANSMITTED OVER A MEDIUM THAT MAY BE BEYOND THE CONTROL AND JURISDICTION OF COMPANY.  ACCORDINGLY, COMPANY ASSUMES NO LIABILITY FOR OR RELATING TO ANY DELAY, FAILURE, INTERRUPTION, OR CORRUPTION OF ANY DATA OR OTHER INFORMATION OR MATERIAL TRANSMITTED TO OR RECEIVED FROM THE SITE.</li>
+    <li>THE SITE AND THE CONTENT, INCLUDING THE TOOLS AND ANY INFORMATION PROVIDED THROUGH THE TOOLS, ARE PROVIDED ON AN “AS IS” BASIS. COMPANY, ITS LICENSORS, AND ITS THIRD-PARTY CONTENT PROVIDERS, TO THE FULLEST EXTENT PERMITTED BY LAW, DISCLAIM ALL REPRESENTATIONS, WARRANTIES, AND CONDITIONS, EITHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OF THIRD PARTIES’ RIGHTS, AND FITNESS FOR PARTICULAR PURPOSE.</li>
+    <li>TO THE BEST OF COMPANY’S KNOWLEDGE, THE INFORMATION CONTAINED IN THE CONTENT IS ACCURATE.  HOWEVER, COMPANY, ITS LICENSORS, AND ITS THIRD-PARTY CONTENT PROVIDERS, INCLUDING ANY THIRD-PARTY PROVIDERS OF ANY PORTION OF THE TOOLS, MAKE NO REPRESENTATIONS OR WARRANTIES, EITHER EXPRESS OR IMPLIED, THAT THE CONTENT INCLUDED IN OR AVAILABLE THROUGH THE SITE IS ACCURATE, RELIABLE, CURRENT OR CORRECT FOR ANY PARTICULAR PURPOSE OR USE; THAT THE CONTENT WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; OR THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED.</li>
+    <li>IN NO EVENT SHALL COMPANY, ITS LICENSORS, OR ITS THIRD-PARTY CONTENT PROVIDERS BE LIABLE FOR ANY DAMAGES (INCLUDING, WITHOUT LIMITATION, DIRECT, INDIRECT, EXEMPLARY, INCIDENTAL, AND CONSEQUENTIAL DAMAGES, PERSONAL INJURY/WRONGFUL DEATH, DAMAGE TO PROPERTY, LOST PROFITS, OR DAMAGES RESULTING FROM LOST DATA OR BUSINESS INTERRUPTION) RESULTING FROM YOUR USE OF OR INABILITY TO USE THE SITE OR THE CONTENT, INCLUDING THE TOOLS, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT COMPANY, ITS LICENSORS, OR ITS THIRD PARTY CONTENT PROVIDERS ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</li>
+    <li>Any claims arising in connection with your use of the Site or any Content must be brought within one (1) year of the date the event giving rise to such action occurred.  Your remedies arising from any claim relating to the Site or the Content that are set forth in these Terms and Conditions are exclusive and are limited to those expressly provided for in these Terms and Conditions.</li>
+</ol>
+<li><b>User Submissions.</b></li>
+<ol>
+    <li>By submitting to Company via e-mail or the Site any ideas, suggestions, concepts, methods, systems, designs, plans, techniques, business information, inventions, how-to or product information or material relating to Company’s business, products, or services, including any submissions made to the Tools (collectively, “Ideas”), you: (i) agree such submission is non-confidential for all purposes, (ii) grant Company an unrestricted, irrevocable, perpetual, sub-licensable, transferrable, royalty free license to use, reproduce, display, perform, modify, transmit and distribute the Ideas, where applicable, and (iii) represent and warrant that you own or have a license to, or otherwise control all of the rights to, the Ideas and that Company is free to use the Ideas that you provide Company for any purpose.  Company may sublicense its rights through multiple tiers of sublicenses.</li>
+    <li>
+You acknowledge and agree that any personal information you provide to Licensor (including, without limitation, your name, company, title, address, telephone number, e-mail address, social media contact information) will be subject to our privacy policy (<a href="/privacy/">Privacy Policy</a> and
+        <a href="/privacy/#california-privacy-disclosures"> California Privacy Disclosure</a>
+) which is incorporated into these Terms and Conditions by reference.
+    </li>
+    <li>
+        <b>Links to Other Sites.</b>
+        {' '}
+Company may provide links to third-party websites and websites of parent, subsidiary, and affiliate companies (“Linked Sites”).  THESE LINKED SITES ARE NOT UNDER COMPANY’S CONTROL, AND COMPANY IS NOT RESPONSIBLE FOR, AND DOES NOT ENDORSE, THE CONTENT OF LINKED SITES, AND DOES NOT MAKE ANY REPRESENTATIONS OR WARRANTIES REGARDING THEIR CONTENT OR ACCURACY. YOUR USE OF LINKED SITES IS AT YOUR OWN RISK AND SUBJECT TO THE TERMS AND CONDITIONS OF USE FOR SUCH LINKED SITES.
+    </li>
+</ol>
+<li>
+    <b>Indemnity.</b>
+    {' '}
+YOU AGREE TO DEFEND (USING COUNSEL ACCEPTABLE TO COMPANY, IN ITS SOLE DISCRETION), INDEMNIFY AND HOLD COMPANY, ITS OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, AGENTS, LICENSORS, AFFILIATE, AND SUPPLIERS, HARMLESS FROM AND AGAINST ANY AND ALL LIABILITIES, CLAIMS, EXPENSES, CAUSES OF ACTION, DEMANDS, SETTLEMENTS, AND/OR DAMAGES (INCLUDING REASONABLE LEGAL FEES AND COSTS) RESULTING FROM, OR ALLEGED TO RESULT FROM: (I) YOUR USE OF AND ACCESS TO THE SITE AND CONTENT; (II) YOUR VIOLATION OF ANY TERM OF THESE TERMS AND CONDITIONS; (III) INFORMATION OR MATERIAL PROVIDED TO COMPANY BY YOU; (IV) A THIRD PARTY’S RIGHTS (INCLUDING, BUT NOT LIMITED TO, PATENTS, COPYRIGHTS, TRADEMARK, TRADE SECRETS, OR OTHER INTELLECTUAL OR PROPRIETARY RIGHT, MORAL RIGHTS, RIGHTS OF PRIVACY, AND REPUTATIONAL RIGHTS) THAT WERE VIOLATED BY ANY INFORMATION OR MATERIAL PROVIDED TO COMPANY BY YOU OR BY COMPANY’S PUBLICATION OR OTHER LAWFUL USE OF ANY INFORMATION OR MATERIAL PROVIDED TO COMPANY BY YOU.  COMPANY RESERVES THE RIGHT TO ASSUME, AT YOUR COST, THE DEFENSE AND CONTROL OF ANY MATTER OTHERWISE SUBJECT TO INDEMNIFICATION BY YOU, IN WHICH EVENT YOU WILL COOPERATE WITH COMPANY IN ASSERTING ANY AVAILABLE DEFENSES.
+</li>
+<li><b>General.</b></li>
+<ol type="a">
+    <li>Company has locations throughout at least one of the United States, Canada, and Mexico.  Company makes no claims that the Site and the Content are appropriate or may be downloaded outside of the location in which the Company is located.  Access to the Content may not be legal by certain persons or in certain countries. If you access the Site from outside of the location in which the Company is located, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction.</li>
+    <li>Company reserves the right to do any of the following: (i) to modify, suspend or terminate operation of or access to any portion of the Site or Content thereon, for any reason, including without limitation, if Company believes that your conduct violates applicable laws or is harmful to the interests of Company; (ii) to modify or change any portion of the Site or Content thereon; or (iii) to interrupt the operation of any portion of the Site or Content thereon, as necessary to perform routine or non-routine maintenance, error correction, or other changes. All rights not expressly granted herein are reserved to Company and its licensors.</li>
+    <li>If Company takes any legal action against you as a result of your violation, or pursuant to any provision, of these Terms and Conditions, Company will be entitled to recover from you, and you agree to pay all reasonable legal fees and costs of such action, in addition to any other relief granted to Company. You agree that Company will not be liable to you or to any third party for termination of your access to the Site or Content as a result of any violation of these Terms and Conditions.</li>
+    <li>The following provisions survive the expiration or termination of these Terms and Conditions and your use of the Site for any reason whatsoever: Section 3, Section 4, Section 5, Section 6, Section 7, Section 8c, this Section 8d, Section 9, Section 10, and any provision that by its nature would survive expiration or termination.</li>
+    <li>With respect to users located in Canada, the parties to these Terms and Conditions hereby confirm their express wish that these Terms and Conditions, as well as all other documents related to it, including but not limited to all confirmations, notices, waivers, consents and other communications between the parties in connection with these Terms and Conditions be in the English language only and declare themselves satisfied with this; Les parties aux présentes conditions générales par les présentes confirment leur volonté expresse que ces termes et Conditions, ainsi que tous les autres documents concernant, y compris mais non limité à tous les confirmations, les avis, les dispenses, consentements et autres communications entre les parties dans le cadre de ces modalités et Conditions en langue anglaise seulement et se déclarent satisfaits de cette.</li>
+</ol>
+<li><b>Jurisdiction.</b></li>
+<ol>
+    <li>United States</li>
+    <ol>
+        <li>With respect to users located in the United States, you expressly agree that exclusive jurisdiction for any dispute with Company, or in any way relating to your use of the Site, resides in the state or federal courts located in Charlotte, North Carolina, and you further agree and expressly consent to the exercise of personal jurisdiction of such courts in connection with any such dispute including any claim involving Company or its parent companies, affiliates, subsidiaries, employees, contractors, officers, and directors.</li>
+        <li>With respect to users located in the United States, these Terms and Conditions are governed by the laws of the State of North Carolina without respect to the conflict of law principles. If any provision of these Terms and Conditions is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms and Conditions, which shall remain in full force and effect. No waiver of any provision of the Terms and Conditions shall be deemed a further or continuing waiver of such provision of the Terms and Conditions or any other provision therein.</li>
+    </ol>
+    <li>Canada</li>
+    <ol>
+        <li>With respect to users located in Canada, you expressly agree that exclusive jurisdiction for any dispute with Company, or in any way relating to your use of the Site, resides in the courts in the City of Toronto, Ontario, and you further agree and expressly consent to the exercise of personal jurisdiction of such courts in connection with any such dispute including any claim involving Company or its parent companies, affiliates, subsidiaries, employees, contractors, officers, and directors.</li>
+        <li>With respect to users located in Canada, these Terms and Conditions are governed by the internal substantive laws of Ontario, Canada, without respect to the conflict of law principles. If any provision of these Terms and Conditions is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms and Conditions, which shall remain in full force and effect. No waiver of any provision of the Terms and Conditions shall be deemed a further or continuing waiver of such provision of the Terms and Conditions or any other provision therein.</li>
+    </ol>
+    <li>Mexico</li>
+    <ol>
+        <li>With respect to users located in Mexico, you expressly agree that exclusive jurisdiction for any dispute with Company, or in any way relating to your use of the Site, resides in the courts in Mexico City, Mexico, and you further agree and expressly consent to the exercise of personal jurisdiction of such courts in connection with any such dispute including any claim involving Company or its parent companies, affiliates, subsidiaries, employees, contractors, officers, and directors.</li>
+        <li>With respect to users located in Mexico, these Terms and Conditions are governed by the internal substantive laws of Mexico, without reference to, or application of, its conflict of laws rules and principles. If any provision of these Terms and Conditions is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms and Conditions, which shall remain in full force and effect. No waiver of any provision of the Terms and Conditions shall be deemed a further or continuing waiver of such provision of the Terms and Conditions or any other provision therein.</li>
+    </ol>
+</ol>
+<li>
+    <b>Complete Agreement.</b>
+These Terms and Conditions, along with any End User License Agreement, if any, for the Tools, constitutes the entire agreement between you and Company with respect to the use of the Site and Content, including the Tools. Company’s obligations, if any, with regard to its products and services are governed solely by the agreements pursuant to which such products and services are provided, and nothing on this Site should be construed to alter such agreements.
+</li>
+</ol>
+
+                    </div>
+                                            </div>
+        </div>
+    </div>
+</section>                                
+         
+        
+            </div>
+            <footer
+    class="footer relative bg-gray-100 px-0 sm:px-8 lg:px-8 py-8"
+>
+    <div class="container">
+        <div class="flex flex-col flex-wrap lg:flex-nowrap lg:flex-row flex-col-reverse items-center justify-between">
+            <div class="w-full mb-8 sm:mb-0">
+                <a href="/" title="Go to Homepage" class="block mt-8 sm:mt-12 mb-4">
+                    <img alt="Nucor logo - green" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjMycHgiIGhlaWdodD0iMjVweCIgdmlld0JveD0iMCAwIDIzMiAyNSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDx0aXRsZT5Hcm91cCAxODwvdGl0bGU+CiAgICA8ZGVmcz4KICAgICAgICA8cG9seWdvbiBpZD0icGF0aC0xIiBwb2ludHM9IjAuNjk3NTg0OTA2IDAuNjUxMjg1NzE0IDM4Ljg4OTYyMjYgMC42NTEyODU3MTQgMzguODg5NjIyNiAyNSAwLjY5NzU4NDkwNiAyNSI+PC9wb2x5Z29uPgogICAgICAgIDxwb2x5Z29uIGlkPSJwYXRoLTMiIHBvaW50cz0iMC4zODA4NzU0NzIgMC42NTE1IDM4LjU3MjkxMzIgMC42NTE1IDM4LjU3MjkxMzIgMjUgMC4zODA4NzU0NzIgMjUiPjwvcG9seWdvbj4KICAgICAgICA8cG9seWdvbiBpZD0icGF0aC01IiBwb2ludHM9IjAuNTgyMjAzNzc0IDAuNjUxIDM4Ljc3NDI0MTUgMC42NTEgMzguNzc0MjQxNSAyNSAwLjU4MjIwMzc3NCAyNSI+PC9wb2x5Z29uPgogICAgPC9kZWZzPgogICAgPGcgaWQ9IlN5bWJvbHMiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJGb290ZXItR3JheSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEwOS4wMDAwMDAsIC0xMDguMDAwMDAwKSI+CiAgICAgICAgICAgIDxnIGlkPSJHcm91cC0xOCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTA5LjAwMDAwMCwgMTA4LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9Ikdyb3VwLTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDQ1LjAwMDAwMCwgMC4wMDAwMDApIj4KICAgICAgICAgICAgICAgICAgICA8bWFzayBpZD0ibWFzay0yIiBmaWxsPSJ3aGl0ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx1c2UgeGxpbms6aHJlZj0iI3BhdGgtMSI+PC91c2U+CiAgICAgICAgICAgICAgICAgICAgPC9tYXNrPgogICAgICAgICAgICAgICAgICAgIDxnIGlkPSJDbGlwLTIiPjwvZz4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMzcuNTM0OTI0NSwwLjY1MTI4NTcxNCBMMzEuMjE5MTMyMSwwLjY1MTI4NTcxNCBMMzEuMjE5MTMyMSwxNy40MjQxNDI5IEMyOS4yNjgzOTYyLDE3LjYxNjI4NTcgMjUuNDM2MDk0MywxNy45MDQxNDI5IDE5LjgxMiwxNy45MDQxNDI5IEMxNS43NTM3OTI1LDE3LjkwNDE0MjkgMTIuMDAyNDM0LDE3LjcxOTg1NzEgOC4zNzAyODMwMiwxNy4zNjM0Mjg2IEM4LjM3NDY5ODExLDE1LjE5NzcxNDMgOC40MDU2MDM3NywwLjY1MTI4NTcxNCA4LjQwNTYwMzc3LDAuNjUxMjg1NzE0IEwwLjY5NzU4NDkwNiwwLjY1MTI4NTcxNCBMMC42OTc1ODQ5MDYsMjMuMjM0MTQyOSBMMS43MzM2NjAzOCwyMy40OTI3MTQzIEMxLjk4MDkwNTY2LDIzLjU1NDE0MjkgNy45MjI4ODY3OSwyNC45OTkxNDI5IDE5LjgxMiwyNC45OTkxNDI5IEMzMS45MTMwMzc3LDI1LjA0MjcxNDMgMzcuNjM4Njc5MiwyMy41NTEyODU3IDM3Ljg3NjM1ODUsMjMuNDg3IEwzOC44ODk2MjI2LDIzLjIxNTU3MTQgTDM4Ljg4OTYyMjYsMC42NTEyODU3MTQgTDM3LjUzNDkyNDUsMC42NTEyODU3MTQgWiIgaWQ9IkZpbGwtMSIgZmlsbD0iIzA2NjQzMyIgbWFzaz0idXJsKCNtYXNrLTIpIj48L3BhdGg+CiAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOTAuMDM4ODAzOSwxLjgxNTE1NDg5IEw5MCwyMy4xOTk1MTMgTDkxLjA1NzIyMzIsMjMuNDU2MjAxNiBDOTEuMzEwNTQ2OCwyMy41MTc4MDY5IDk3LjM3MzQ3MzEsMjQuOTUyMzI5MyAxMDkuMDA2NTg5LDI1IEMxMjAuNTc3NDczLDI1IDEyNi42NDMzMjgsMjMuNTYxODEwNiAxMjYuODk1MTg3LDIzLjUwMDIwNTQgTDEyNy45NDk0ODIsMjMuMjQ1NzE3IEwxMjcuOTQ5NDgyLDE1Ljc2NTgxMiBMMTI2LjI1OTY4MiwxNi4yMDUxMTYyIEMxMjYuMTk4OTEzLDE2LjIyMTI1MDkgMTIwLjI0MTQxNywxNy43NTU1MTUxIDEwOC45NzI5MSwxNy43NTU1MTUxIEMxMDMuNDA0MTg1LDE3Ljc1NTUxNTEgOTkuNjQ4OTkyMywxNy40ODE5NTg1IDk3LjY4MDI0MzUsMTcuMjczNjc0IEw5Ny42ODAyNDM1LDcuNzcyNTI5OTIgQzEwMC4xNjY2MjIsNy41MDMzNzM2MiAxMDMuODk5MTE4LDcuMjM4NjE3NyAxMDguOTc1ODM5LDcuMjM4NjE3NyBDMTE5Ljk0ODU1Nyw3LjIzODYxNzcgMTI2LjI0MzU3NCw4Ljc4MDIxNTkxIDEyNi4zMDU4MDcsOC43OTcwODQwMiBMMTI4LDkuMjE5NTIwMDcgTDEyNy45ODYwODksNy4zOTcwMzEyMSBMMTI3Ljk0MTQyOCwxLjgxMTQ4NzkxIEwxMjYuOTEyMDI3LDEuNTQ4MTk4NzggQzEyNi42NjUyOTIsMS40ODU4NjAxMyAxMjAuNzIzOTAzLDAgMTA4Ljk3NTgzOSwwIEM5Ny4yMjk5NzE5LDAgOTEuMzIwMDY0NywxLjQ4NTg2MDEzIDkxLjA3NDA2MjcsMS41NDgxOTg3OCBMOTAuMDM4ODAzOSwxLjgxNTE1NDg5IFoiIGlkPSJGaWxsLTQiIGZpbGw9IiMwNjY0MzMiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDxnIGlkPSJHcm91cC04IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMzYuMDAwMDAwLCAwLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgICAgIDxtYXNrIGlkPSJtYXNrLTQiIGZpbGw9IndoaXRlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHVzZSB4bGluazpocmVmPSIjcGF0aC0zIj48L3VzZT4KICAgICAgICAgICAgICAgICAgICA8L21hc2s+CiAgICAgICAgICAgICAgICAgICAgPGcgaWQ9IkNsaXAtNyI+PC9nPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0zMC45NzA4NTY2LDcuNjIxNSBMMzAuOTcwODU2Niw3LjU4MTUgTDMwLjkwODMwOTQsMTguMTU3OTI4NiBDMjguNDA2NDIyNiwxOC40MzcyMTQzIDI0LjY2OTA0NTMsMTguNzU3MjE0MyAxOS40NDIzMDk0LDE4Ljc1NzIxNDMgQzEzLjUxOTQ2MDQsMTguNzU3MjE0MyA5LjMwNTI1MjgzLDE4LjMxNjUgNy45MTAwODMwMiwxOC4xNTc5Mjg2IEw3Ljk0MjQ2MDM4LDcuNTgxNSBDOS4yNDE5Njk4MSw3LjQyMDc4NTcxIDEzLjEzODI5MDYsNi45NzkzNTcxNCAxOS40NDIzMDk0LDYuOTc5MzU3MTQgQzI0LjYwNzIzNCw2Ljk3OTM1NzE0IDI4LjQwNjQyMjYsNy4zMDA3ODU3MSAzMC45NzA4NTY2LDcuNjIxNSBMMzAuOTcwODU2Niw3LjYyMTUgWiBNMC4zODA4NzU0NzIsMi40Nzg2NDI4NiBMMC4zODA4NzU0NzIsMjMuMjQ0MzU3MSBMMS40MzYwODMwMiwyMy40OTU3ODU3IEMxLjY4NTUzNTg1LDIzLjU1NTc4NTcgNy42NTc2ODY3OSwyNC45NTM2NDI5IDE5LjQ3MTc0MzQsMjUuMDAwMDcxNCBDMzEuMTUxODc1NSwyNS4wMDAwNzE0IDM3LjI1NDI3MTcsMjMuNjAyMjE0MyAzNy41MTAzNDcyLDIzLjU0MjIxNDMgTDM4LjU3MjkxMzIsMjMuMjk1MDcxNCBMMzguNTcyOTEzMiwyLjQxNTA3MTQzIEwzNy41Mjg3NDM0LDIuMTU1Nzg1NzEgQzM3LjI4MTQ5ODEsMi4wOTUwNzE0MyAzMS4zMzUxMDE5LDAuNjUxNSAxOS40NzY4OTQzLDAuNjUxNSBDNy4zNjQ4MTg4NywwLjY1MTUgMS42NDEzODQ5MSwyLjE0MjkyODU3IDEuNDAyOTY5ODEsMi4yMDU3ODU3MSBMMC4zODA4NzU0NzIsMi40Nzc5Mjg1NyBMMC4zODA4NzU0NzIsMi40Nzg2NDI4NiBaIiBpZD0iRmlsbC02IiBmaWxsPSIjMDY2NDMzIiBtYXNrPSJ1cmwoI21hc2stNCkiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yOS41MjA5NDExLDEuNDE2MTUyNTUgQzI5LjUyMDk0MTEsMS40MTYxNTI1NSAyOS41MTg3MzE3LDQuOTMxMDc0MTggMjkuNTE4NzMxNyw3LjQ2NjcxNzgzIEMyNi44ODM2MTczLDYuMDQxNzA5NzEgMjMuODA1ODgwMiw0Ljc0ODc5NzEyIDE5LjA2MzcwNTMsMy40MTM4MjA1OSBDNy4zOTQyMjgzNSwwLjEyOTg4MTYzMSAxLjU4Nzg0NDI1LDAuMDk3NDExMjIzIDEuMzQ0ODA2ODcsMC4wOTc0MTEyMjMgTDAsMC4wOTk2MjUxMTQ0IEwwLDI1IEw3LjY2NDUxNTM4LDI1IEw3LjY2NDUxNTM4LDguMDY1OTQ0NDUgQzkuNTE3NDkxMzMsOC4zOTU4MTQyNyAxMy43NjMyODA4LDkuMzUzNjkxMjkgMTcuNjI3NTc1MiwxMC43MTU5NzI1IEMyNC40NDk1NjEsMTMuMTIxNzM0NSAyOC4xMTk0MjU1LDE1Ljc1MTA5OTYgMjkuNTI2MDk2NSwxNi44NjYxNjI5IEMyOS41MjY4MzMsMTcuOTg3MTI5OSAyOS41MzQxOTc3LDI0LjYwNTE4OTQgMjkuNTM0MTk3NywyNC42MDUxODk0IEwzOCwyNC42MDUxODk0IEwzOCwwLjAwMjk1MTg1NTI0IEwyOS41MjA5NDExLDAgTDI5LjUyMDk0MTEsMS40MTYxNTI1NSBaIiBpZD0iRmlsbC05IiBmaWxsPSIjMDY2NDMzIj48L3BhdGg+CiAgICAgICAgICAgICAgICA8ZyBpZD0iR3JvdXAtMTMiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE4MC4wMDAwMDAsIDAuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICAgICAgPG1hc2sgaWQ9Im1hc2stNiIgZmlsbD0id2hpdGUiPgogICAgICAgICAgICAgICAgICAgICAgICA8dXNlIHhsaW5rOmhyZWY9IiNwYXRoLTUiPjwvdXNlPgogICAgICAgICAgICAgICAgICAgIDwvbWFzaz4KICAgICAgICAgICAgICAgICAgICA8ZyBpZD0iQ2xpcC0xMiI+PC9nPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wLjU4MjIwMzc3NCwyLjQ2NDU3MTQzIEwwLjU4MjIwMzc3NCwyNC41OTg4NTcxIEw3LjY1NTE4NDkxLDI0LjU5ODg1NzEgTDcuNjU1MTg0OTEsMTcuMzIwMjg1NyBDOS41ODQ1ODExMywxNy4yODUyODU3IDE0LjIwMjc2OTgsMTcuMzMzODU3MSAxOS4zMjEzMzU4LDE4LjM2ODE0MjkgQzI1LjM2ODU0MzQsMTkuNTg4ODU3MSAyOS40OTE1MDU3LDIxLjMxNjcxNDMgMzAuOTA0MzM1OCwyMi4wODc0Mjg2IEMzMC44OTk5MjA4LDIyLjc3NiAzMC44OTI1NjIzLDI1LjAwMDI4NTcgMzAuODkyNTYyMywyNS4wMDAyODU3IEwzOC43NDYyNzkyLDI1LjAwMDI4NTcgTDM4Ljc3NDI0MTUsMTkuMTgwMjg1NyBMMzguMzI2MTA5NCwxOC44NjMxNDI5IEMzOC4yMDMyMjI2LDE4Ljc3NiAzNS45Mzc1NDM0LDE3LjIwNzQyODYgMzEuNDQ1OTIwOCwxNS41MDAyODU3IEMzNS4zOTMwMTUxLDE1LjA4NzQyODYgMzcuNDczMjYwNCwxNC41OTc0Mjg2IDM3LjU4ODA1MjgsMTQuNTY5NTcxNCBMMzguMzc2MTQ3MiwxNC4zNzc0Mjg2IEwzOC4zNzYxNDcyLDIuNDY2IEwzNy42MDQ5Nzc0LDIuMjYzODU3MTQgQzM3LjM1NDA1MjgsMi4xOTgxNDI4NiAzMS4zMDY4NDUzLDAuNjUxIDE5LjUxNTYsMC42NTEgQzcuNzI0MzU0NzIsMC42NTEgMS42MTE2NTY2LDIuMTk3NDI4NTcgMS4zNTc3ODg2OCwyLjI2Mzg1NzE0IEwwLjU4MjIwMzc3NCwyLjQ2NDU3MTQzIFogTTMxLjI3Mjk5NjIsMTIuNDcxNzE0MyBDMjkuMTc4MDM0LDEyLjc5NzQyODYgNy45ODQxMDk0MywxMi41NTc0Mjg2IDcuOTg0MTA5NDMsMTIuNTU3NDI4NiBMNy45ODQxMDk0Myw3LjU4NzQyODU3IEM5LjI3MzMxNjk4LDcuNDAwMjg1NzEgMjkuMTc4MDM0LDcuMjYxIDMxLjI3Mjk5NjIsNy42MzM4NTcxNCBMMzEuMjcyOTk2MiwxMi40NzE3MTQzIFoiIGlkPSJGaWxsLTExIiBmaWxsPSIjMDY2NDMzIiBtYXNrPSJ1cmwoI21hc2stNikiPjwvcGF0aD4KICAgICAgICAgICAgICAgIDwvZz4KICAgICAgICAgICAgICAgIDxjaXJjbGUgaWQ9Ik92YWwiIHN0cm9rZT0iIzA2NjQzMyIgc3Ryb2tlLXdpZHRoPSIwLjQiIGN4PSIyMjguNSIgY3k9IjMuNSIgcj0iMy4zIj48L2NpcmNsZT4KICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0yMjcuNjczMywzLjI2ODg4NjY4IEwyMjguMTcxNjQyLDMuMjY4ODg2NjggQzIyOC40OTUwMjUsMy4yNjg4ODY2OCAyMjguNjk2NTE3LDMuMjU2OTU4MjUgMjI4Ljc3Nzc3OCwzLjIzMjM1NTg2IEMyMjguODU3MzgsMy4yMDc3NTM0OCAyMjguOTIwMzk4LDMuMTY1MjU4NDUgMjI4Ljk2NjAwMywzLjEwNTYxNjMgQzIyOS4wMTE2MDksMy4wNDUyMjg2MyAyMjkuMDM0ODI2LDIuOTY5OTMwNDIgMjI5LjAzNDgyNiwyLjg4MDQ2NzIgQzIyOS4wMzQ4MjYsMi43NzkwNzU1NSAyMjkuMDA0MTQ2LDIuNjk3ODEzMTIgMjI4Ljk0NDQ0NCwyLjYzNTE4ODg3IEMyMjguODg0NzQzLDIuNTczMzEwMTQgMjI4LjgwMDE2NiwyLjUzNDU0Mjc0IDIyOC42OTA3MTMsMi41MTgxNDExNSBDMjI4LjYzNTk4NywyLjUxMDY4NTg4IDIyOC40NzE4MDgsMi41MDc3MDM3OCAyMjguMTk5MDA1LDIuNTA3NzAzNzggTDIyNy42NzMzLDIuNTA3NzAzNzggTDIyNy42NzMzLDMuMjY4ODg2NjggWiBNMjI4Ljg1MjQwNSwzLjY3ODkyNjQ0IEMyMjguOTk1ODU0LDMuNzU0MjI0NjUgMjI5LjExNDQyOCwzLjgzNzcyMzY2IDIyOS4yMDg5NTUsMy45Mjc5MzI0MSBDMjI5LjMwMzQ4Myw0LjAxOTYzMjIxIDIyOS40MzExNzcsNC4xODIxNTcwNiAyMjkuNTkyMDQsNC40MTU1MDY5NiBMMjMwLDUgTDIyOS4xOTMyMDEsNSBMMjI4LjcwNjQ2OCw0LjM0NzY2NDAyIEMyMjguNTMzOTk3LDQuMTE0MzE0MTIgMjI4LjQxNTQyMywzLjk2NzQ0NTMzIDIyOC4zNTE1NzUsMy45MDYzMTIxMyBDMjI4LjI4NzcyOCwzLjg0NTkyNDQ1IDIyOC4yMjA1NjQsMy44MDQxNzQ5NSAyMjguMTQ5MjU0LDMuNzgxODA5MTUgQzIyOC4wNzc5NDQsMy43NTk0NDMzNCAyMjcuOTY0MzQ1LDMuNzQ4MjYwNDQgMjI3LjgxMDExNiwzLjc0ODI2MDQ0IEwyMjcuNjczMywzLjc0ODI2MDQ0IEwyMjcuNjczMyw1IEwyMjcsNSBMMjI3LDIgTDIyOC40MTcwODEsMiBDMjI4Ljc3NDQ2MSwyIDIyOS4wMzMxNjcsMi4wMjY4Mzg5NyAyMjkuMTk0ODU5LDIuMDgxMjYyNDMgQzIyOS4zNTY1NTEsMi4xMzQ5NDAzNiAyMjkuNDg1OTA0LDIuMjMwMzY3NzkgMjI5LjU4MjkxOSwyLjM2ODI5MDI2IEMyMjkuNjc5OTM0LDIuNTA2MjEyNzIgMjI5LjcyODg1NiwyLjY2MzUxODg5IDIyOS43Mjg4NTYsMi44NDA5NTQyNyBDMjI5LjcyODg1NiwzLjA2Njg0ODkxIDIyOS42NTUwNTgsMy4yNTI0ODUwOSAyMjkuNTA3NDYzLDMuMzk4NjA4MzUgQzIyOS4zNjA2OTcsMy41NDU0NzcxNCAyMjkuMTQwOTYyLDMuNjM3OTIyNDcgMjI4Ljg0ODI1OSwzLjY3NTk0NDMzIEwyMjguODUyNDA1LDMuNjc4OTI2NDQgWiIgaWQ9IkZpbGwtMTYiIGZpbGw9IiMwNjY0MzMiPjwvcGF0aD4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+">
+                </a>
+
+                <address class="not-italic">1915 Rexford Road<br/>Charlotte, North Carolina 28211</address>
+                <a href="tel:7043667000" class="inline-block mb-4">704.366.7000</a>
+                <div>
+                    <a href="#contact" data-lity id="btn-footer-contact" class="btn-pill btn-small inline-block transition hover:text-green-800">Contact Us</a>
+                    <div class="social">
+                        <div class="flex items-start justify-start mx-0 mt-4">
+
+                            <a href="https://www.linkedin.com/company/nucor-corporation" target="_blank" title="LinkedIn" class="inline-block">
+                                <img src="/images/social-icon-linkedin.svg" alt="LinkedIn"/>
+                            </a>
+                            <a href="https://www.instagram.com/nucorcorporation/" target="_blank" title="Instagram" class="inline-block ml-2">
+                                <img src="/images/social-icon-instagram.svg" alt="Instagram" />
+                            </a>
+                            <a href="https://www.facebook.com/NucorCorp/" target="_blank" title="LinkedIn" class="inline-block ml-2">
+                                <img src="/images/social-icon-facebook.svg" alt="Facebook"/>
+                            </a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div
+                class="w-full flex flex-col sm:flex-row items-start justify-between pt-8 lg:pt-0"
+            >
+                <div class="w-full ft-nav-wrap relative mb-8 sm:mb-0 -ml-2">
+                    <a
+                        href="/company"
+                        class="flex justify-between w-full px-0 sm:px-3 pb-2 font-bold text-lg transition"
+                    >
+                        <span>About</span>
+                    </a>
+                    <div class="w-full flex justify-between items-start">
+                        <div class="w-full sm:w-1/2">
+                            <a href="/company"
+                            class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                                <span>Company</span>
+                            </a>
+                            <a href="/leadership"
+                            class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                                <span>Leadership</span>
+                            </a>
+                            <a href="/history"
+                            class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                                <span>History</span>
+                            </a>
+                            <a href="/locations"
+                            class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                                <span>Locations</span>
+                            </a>
+                        </div>
+                        <div class="w-full sm:w-1/2">
+                            <a href="/safety"
+                            class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                                <span>Safety</span>
+                            </a>
+                            <a href="/public-affairs"
+                            class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                                <span>Public Affairs</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="w-full ft-nav-wrap relative mb-8 sm:mb-0">
+                    <a
+                        href="https://investors.nucor.com/overview/default.aspx"
+                        target="_blank"
+                        class="flex justify-between w-full px-0 sm:px-3 pb-2 font-bold text-lg transition"
+                    >
+                        <span>Investors</span>
+                    </a>
+                    <div class="">
+                        <a href="https://investors.nucor.com/financials/sec-filings/default.aspx"
+                        target="_blank"
+                        class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                            <span>SEC Filings</span>
+                        </a>
+                        <a href="/esg"
+                        class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                            <span>ESG</span>
+                        </a>
+                        <a href="https://investors.nucor.com/financials/annual-reports/default.aspx"
+                        target="_blank"
+                        class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                            <span>Financial Information</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="w-full relative mb-8 sm:mb-0">
+                    <a
+                        href="#"
+                        class="flex justify-between w-full px-0 sm:px-3 pb-2 font-bold text-lg transition"
+                    >
+                        <span>Resources</span>
+                    </a>
+                    <div class="">
+                        <a href="/news-content"
+                        class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                            <span>News & Content</span>
+                        </a>
+                        <a href="/news-content#media-kit"
+                        class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                            <span>Media Kit</span>
+                        </a>
+                        <a href="/transportation-logistics"
+                        class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                            <span>Transportation & Logistics</span>
+                        </a>
+                        <a href="/certifications"
+                        class="flex justify-between px-0 sm:px-3 py-1 whitespace-nowrap transition hover:text-green-800">
+                            <span>Certifications & SDS</span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</footer>
+<div class="global-footer bg-white w-full text-center py-2 text-xs relative z-10">
+    
+     
+        <a href="/terms-conditions" class="inline-block transition hover:text-green-800">Terms & Conditions</a>
+        <a href="/privacy" class="inline-block mx-4 transition hover:text-green-800">Privacy</a>
+        <a href="//assets.ctfassets.net/aax1cfbwhqog/1C622KkiETFq2HKfLLRWxx/230b62a60975a7189f1fb9b4fd914fb0/California_Specific_Disclosures_-_Nucor.pdf" class="transition hover:text-green-800" >California Privacy Rights</a>
+    </div>
+<div id="contact" style="background:#fff;" class="w-full m-w-2xl lity-hide">
+    <div class="contact-form-modal">
+        <div class="text">
+            <!-- Dynamics form embed -->
+            <div
+            data-form-id='22b41a94-16ca-ee11-9079-0022482a44f2'
+            data-form-api-url='https://public-usa.mkt.dynamics.com/api/v1.0/orgs/10dbb82d-ad81-4a49-b1b3-7bc12536ee2c/landingpageforms'
+            data-cached-form-url='https://assets-usa.mkt.dynamics.com/10dbb82d-ad81-4a49-b1b3-7bc12536ee2c/digitalassets/forms/22b41a94-16ca-ee11-9079-0022482a44f2' ></div>
+            <script src = 'https://cxppusa1formui01cdnsa01-endpoint.azureedge.net/usa/FormLoader/FormLoader.bundle.js' ></script>
+            </div>
+    </div>
+</div>            </div>
+    <script src="/livewire/livewire.js?id=90730a3b0e7144480175" data-turbo-eval="false" data-turbolinks-eval="false" ></script><script data-turbo-eval="false" data-turbolinks-eval="false" >window.livewire = new Livewire();window.Livewire = window.livewire;window.livewire_app_url = '';window.livewire_token = 'XWV3XAVnLglAt4ZWz8Dt8CIh3Q8EFRFfUJ67Trmk';window.deferLoadingAlpine = function (callback) {window.addEventListener('livewire:load', function () {callback();});};let started = false;window.addEventListener('alpine:initializing', function () {if (! started) {window.livewire.start();started = true;}});document.addEventListener("DOMContentLoaded", function () {if (! started) {window.livewire.start();started = true;}});</script>
+    
+    <!-- D365 Tracking -->    
+    <div id="dogAW3nU7WSWPNpzRKeCnoPsw6bJ1GKqjRY-L_aF1rvU"></div><script src="https://mktdplp102cdn.azureedge.net/public/latest/js/ws-tracking.js?v=1.84.2007"></script><div class="d365-mkt-config" style="display:none" data-website-id="ogAW3nU7WSWPNpzRKeCnoPsw6bJ1GKqjRY-L_aF1rvU" data-hostname="cae045a8cb0a49c1b2a2154dcd4d9099.svc.dynamics.com"></div>
+	
+	<script> (function() {
+		var s = document.createElement('script');
+		var h = document.querySelector('head') || document.body;
+		s.src = 'https://acsbapp.com/apps/app/dist/js/app.js';
+		s.async = true;
+		s.onload = function() {
+			acsbJS.init({
+				statementLink: '',
+				footerHtml: '',
+				hideMobile: false,
+				hideTrigger: false,
+				disableBgProcess: false,
+				language: 'en',
+				position: 'right',
+				leadColor: '#146FF8',
+				triggerColor: '#146FF8',
+				triggerRadius: '50%',
+				triggerPositionX: 'right',
+				triggerPositionY: 'bottom',
+				triggerIcon: 'people',
+				triggerSize: 'bottom',
+				triggerOffsetX: 20,
+				triggerOffsetY: 20,
+				mobile: {
+					triggerSize: 'small',
+					triggerPositionX: 'right',
+					triggerPositionY: 'bottom',
+					triggerOffsetX: 10,
+					triggerOffsetY: 10,
+					triggerRadius: '20'
+				}
+			});
+		};
+		h.appendChild(s);
+	})(); </script>
+	
+</body>
+</html>

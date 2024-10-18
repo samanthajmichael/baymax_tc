@@ -1,0 +1,632 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]> <html class="ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang class="lang-"> <!--<![endif]-->
+<head>
+<script type="text/javascript">
+$__webpack_public_path__ = "/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/js/";
+</script>
+<meta charset="UTF-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+<meta name="format-detection" content="telephone=no">
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-document-language="true" data-domain-script="cb4e2333-38a8-43cc-bf15-ff5a8b3159d5"></script>
+<script type="text/javascript">
+var oneTrustAvailable = true;
+function OptanonWrapper() { };
+</script>
+
+<title>Terms of Use</title>
+<script src="//assets.adobedtm.com/a0f49f083264/be9967bd9de7/launch-3c490be5f3c4.min.js"></script>
+<link rel="dns-prefetch" href="//assets.adobedtm.com" />
+<link href="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/dwec1591d3/images/favicon_rl.ico" rel="shortcut icon" />
+<meta name="description" content=" Explore Ralph Lauren Corporation including company history, brands, careers, investor news and contact information at corporate.ralphlauren.com." />
+<meta name="keywords" content=" , ralph lauren corporate website, ralph lauren corporate overview,  , ralph lauren corporate website, ralph lauren corporate overview,   Ralph Lauren Corporation" />
+<link href="/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/v1727778121777/_common/fonts/df-refresh/fonts.css" rel="stylesheet" />
+
+<!--[if lt IE 9]>
+<script src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/js/lib/html5.js"></script>
+<![endif]-->
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-active_data.js) */
+var dw = (window.dw || {});
+dw.ac = {
+    _analytics: null,
+    _events: [],
+    _category: "",
+    _searchData: "",
+    _anact: "",
+    _anact_nohit_tag: "",
+    _analytics_enabled: "true",
+    _timeZone: "US/Eastern",
+    _capture: function(configs) {
+        if (Object.prototype.toString.call(configs) === "[object Array]") {
+            configs.forEach(captureObject);
+            return;
+        }
+        dw.ac._events.push(configs);
+    },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
+    EV_PRD_SEARCHHIT: "searchhit",
+    EV_PRD_DETAIL: "detail",
+    EV_PRD_RECOMMENDATION: "recommendation",
+    EV_PRD_SETPRODUCT: "setproduct",
+    applyContext: function(context) {
+        if (typeof context === "object" && context.hasOwnProperty("category")) {
+        	dw.ac._category = context.category;
+        }
+        if (typeof context === "object" && context.hasOwnProperty("searchData")) {
+        	dw.ac._searchData = context.searchData;
+        }
+    },
+    setDWAnalytics: function(analytics) {
+        dw.ac._analytics = analytics;
+    },
+    eventsIsEmpty: function() {
+        return 0 == dw.ac._events.length;
+    }
+};
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript">//<!--
+/* <![CDATA[ (head-cquotient.js) */
+var CQuotient = window.CQuotient = {};
+CQuotient.clientId = 'bbxf-RalphLauren_Corporate';
+CQuotient.realm = 'BBXF';
+CQuotient.siteId = 'RalphLauren_Corporate';
+CQuotient.instanceType = 'prd';
+CQuotient.locale = 'default';
+CQuotient.fbPixelId = '__UNKNOWN__';
+CQuotient.activities = [];
+CQuotient.cqcid='';
+CQuotient.cquid='';
+CQuotient.cqeid='';
+CQuotient.cqlid='';
+CQuotient.apiHost='api.cquotient.com';
+/* Turn this on to test against Staging Einstein */
+/* CQuotient.useTest= true; */
+CQuotient.useTest = ('true' === 'false');
+CQuotient.initFromCookies = function () {
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++) {
+	  var c = ca[i];
+	  while (c.charAt(0)==' ') c = c.substring(1,c.length);
+	  if (c.indexOf('cqcid=') == 0) {
+		CQuotient.cqcid=c.substring('cqcid='.length,c.length);
+	  } else if (c.indexOf('cquid=') == 0) {
+		  var value = c.substring('cquid='.length,c.length);
+		  if (value) {
+		  	var split_value = value.split("|", 3);
+		  	if (split_value.length > 0) {
+			  CQuotient.cquid=split_value[0];
+		  	}
+		  	if (split_value.length > 1) {
+			  CQuotient.cqeid=split_value[1];
+		  	}
+		  	if (split_value.length > 2) {
+			  CQuotient.cqlid=split_value[2];
+		  	}
+		  }
+	  }
+	}
+}
+CQuotient.getCQCookieId = function () {
+	if(window.CQuotient.cqcid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqcid;
+};
+CQuotient.getCQUserId = function () {
+	if(window.CQuotient.cquid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cquid;
+};
+CQuotient.getCQHashedEmail = function () {
+	if(window.CQuotient.cqeid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqeid;
+};
+CQuotient.getCQHashedLogin = function () {
+	if(window.CQuotient.cqlid == '')
+		window.CQuotient.initFromCookies();
+	return window.CQuotient.cqlid;
+};
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ cqParamData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.emailId = CQuotient.getCQHashedEmail();
+	cq_params.loginId = CQuotient.getCQHashedLogin();
+	cq_params.product = cqParamData.product;
+	cq_params.realm = cqParamData.realm;
+	cq_params.siteId = cqParamData.siteId;
+	cq_params.instanceType = cqParamData.instanceType;
+	cq_params.locale = CQuotient.locale;
+	
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
+/* ]]> */
+// -->
+</script>
+
+<link rel="preload" href="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/css/style.css" as="style">
+<link href="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/css/style.css" type="text/css" rel="stylesheet" />
+<!--[if lte IE 8]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
+<script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel="preload" href="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/js/lib/flickity/flickity.css" as="style">
+<link href="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/js/lib/flickity/flickity.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<div id="wrapper" class="pt_corporate">
+<header>
+<div class="header-sticky">
+<div class="header-container">
+<div class="header-top">
+<div class="header-left">
+<div class="mobile-menu">
+<button class="mobile-menu-toggle mobile-only tablet-only" aria-expanded="false" tabindex="0">
+<img alt="Expand Navigation" class="header-icon" src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/dw2414d6a8/images/Header-Menu-Toggle.png" />
+</button>
+</div>
+<div class="header-stock-ticker desktop-only">
+<div class="stock-ticker hidden">
+<div class="stock-exchange"></div>
+<div class="stock-symbol"></div>
+<div class="stock-last-trade"></div>
+</div>
+<script>
+window.Urls = {"searchsuggest":"/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Search-GetSuggestions","getStockTicker":"/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/StockTicker-GetStockTicker"};
+</script>
+</div>
+</div>
+<div class="header-logo">
+<a href="/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show">
+<img alt="Ralph Lauren Corporate" src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/dw565cbdb4/images/Ralph-Lauren-Corporate-Logo-2024-2x.png" />
+</a>
+</div>
+<div class="header-right">
+<div class="header-search">
+<div id="search" class="search-button">
+<a href="link-to-search" title="Search" aria-controls="Header_SearchFlyout">
+<img alt="Search Ralph Lauren Corporate" class="header-icon" src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/dw40361458/images/Search-2x.png" />
+</a>
+</div>
+<div id="search-flyout" class="search-flyout" aria-hidden="true" aria-expanded="false">
+<div class="search-flyout-content">
+<div class="header-container">
+<form role="search" action="/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Search-ContentSearch" method="get" class="simpleSearch" name="simpleSearch">
+<label class="visually-hidden" for="q">global.searchcatalog</label>
+<div class="search-flex">
+<button class="search-icon" type="submit">
+<span class="visually-hidden">global.search</span>
+</button>
+<input type="text" id="q-search" name="q" value placeholder="Search" />
+<button class="close-icon" aria-label="global.close global.search"></button>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<nav class="nav" id="navigation" role="navigation">
+<div class="header-container">
+<div class="nav-mobile-header">
+<a href="/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Home-Show">
+Home
+</a>
+<button class="mobile-menu-close">
+<span class="visually-hidden">Close Navigation</span>
+</button>
+</div>
+<ul class="nav-list" role="navigation">
+<li class="nav-item sub-nav">
+<a data-cgid="our-company" data-webcat="our-company" href="https://corporate.ralphlauren.com/our-company" target="_self">
+Our Company
+</a>
+<button class="sub-item-toggle mobile-only tablet-only" aria-expanded="false">
+<span class="visually-hidden">Expand Our Company Menu</span>
+</button>
+<div class="sub-nav-list">
+<div class="nav-mobile-header">
+<a class="sub-item-back" tabindex="0">
+Back
+<span class="visually-hidden">Back to Main Navigation</span>
+</a>
+<button class="mobile-menu-close">
+<span class="visually-hidden">Close Navigation</span>
+</button>
+</div>
+<div class="nav-mobile-header sub-nav-selected">
+<a data-cgid="our-company" data-webcat="our-company" href="https://corporate.ralphlauren.com/our-company" target="_self">
+Our Company
+</a>
+</div>
+<ul tabindex="0">
+<li class="sub-nav-item">
+<a data-cgid="about-us" data-webcat="about-us" href="https://corporate.ralphlauren.com/about-us" target="_self">
+About Us
+</a>
+</li>
+<li class="sub-nav-item">
+<a data-cgid="history" data-webcat="history" href="https://corporate.ralphlauren.com/history" target="_self">
+History
+</a>
+</li>
+<li class="sub-nav-item">
+<a data-cgid="strategy" data-webcat="strategy" href="https://corporate.ralphlauren.com/strategy" target="_self">
+Strategy
+</a>
+</li>
+<li class="sub-nav-item">
+<a data-cgid="leadership" data-webcat="leadership" href="https://corporate.ralphlauren.com/leadership" target="_self">
+Leadership
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="nav-item sub-nav">
+<a data-cgid="brands" data-webcat="brands" href="https://corporate.ralphlauren.com/brands" target="_self">
+Brands
+</a>
+<button class="sub-item-toggle mobile-only tablet-only" aria-expanded="false">
+<span class="visually-hidden">Expand Brands Menu</span>
+</button>
+<div class="sub-nav-list">
+<div class="nav-mobile-header">
+<a class="sub-item-back" tabindex="0">
+Back
+<span class="visually-hidden">Back to Main Navigation</span>
+</a>
+<button class="mobile-menu-close">
+<span class="visually-hidden">Close Navigation</span>
+</button>
+</div>
+<div class="nav-mobile-header sub-nav-selected">
+<a data-cgid="brands" data-webcat="brands" href="https://corporate.ralphlauren.com/brands" target="_self">
+Brands
+</a>
+</div>
+<ul tabindex="0">
+<li class="sub-nav-item">
+<a data-cgid="ralph-lauren-luxury" data-webcat="ralph-lauren-luxury" href="https://corporate.ralphlauren.com/ralph-lauren-luxury" target="_self">
+Ralph Lauren Luxury
+</a>
+</li>
+<li class="sub-nav-item">
+<a data-cgid="polo-ralph-lauren" data-webcat="polo-ralph-lauren" href="https://corporate.ralphlauren.com/polo-ralph-lauren" target="_self">
+Polo Ralph Lauren
+</a>
+</li>
+<li class="sub-nav-item">
+<a data-cgid="lauren-ralph-lauren" data-webcat="lauren-ralph-lauren" href="https://corporate.ralphlauren.com/lauren-ralph-lauren" target="_self">
+Lauren Ralph Lauren
+</a>
+</li>
+<li class="sub-nav-item">
+<a data-cgid="chaps" data-webcat="chaps" href="https://corporate.ralphlauren.com/chaps" target="_self">
+Chaps
+</a>
+</li>
+<li class="sub-nav-item">
+<a data-cgid="hospitality" data-webcat="hospitality" href="https://corporate.ralphlauren.com/hospitality" target="_self">
+Hospitality
+</a>
+</li>
+<li class="sub-nav-item">
+<a data-cgid="protecting-our-brands" data-webcat="protecting-our-brands" href="https://corporate.ralphlauren.com/protecting-our-brands" target="_self">
+Protecting Our Brands
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="nav-item ">
+<a data-cgid="careers" data-webcat="careers" href="https://corporate.ralphlauren.com/careers" target="_self">
+Careers
+</a>
+</li>
+<li class="nav-item ">
+<a data-cgid="citizenship-and-sustainability" data-webcat="citizenship-and-sustainability" href="https://corporate.ralphlauren.com/citizenship-and-sustainability" target="_self">
+Citizenship &amp; Sustainability
+</a>
+</li>
+<li class="nav-item ">
+<a data-cgid="foundation" data-webcat="foundation" href="https://corporate.ralphlauren.com/foundation-2" target="_self">
+Ralph Lauren Corporate Foundation
+</a>
+</li>
+<li class="nav-item ">
+<a data-cgid="investor-relations" data-webcat="investor-relations" href="https://corporate.ralphlauren.com/investor-relations" target="_self">
+Investor Relations
+</a>
+</li>
+<li class="nav-item sub-nav">
+<a data-cgid="newsroom" data-webcat="newsroom" href="https://corporate.ralphlauren.com/newsroom" target="_self">
+Newsroom
+</a>
+<button class="sub-item-toggle mobile-only tablet-only" aria-expanded="false">
+<span class="visually-hidden">Expand Newsroom Menu</span>
+</button>
+<div class="sub-nav-list">
+<div class="nav-mobile-header">
+<a class="sub-item-back" tabindex="0">
+Back
+<span class="visually-hidden">Back to Main Navigation</span>
+</a>
+<button class="mobile-menu-close">
+<span class="visually-hidden">Close Navigation</span>
+</button>
+</div>
+<div class="nav-mobile-header sub-nav-selected">
+<a data-cgid="newsroom" data-webcat="newsroom" href="https://corporate.ralphlauren.com/newsroom" target="_self">
+Newsroom
+</a>
+</div>
+<ul tabindex="0">
+<li class="sub-nav-item">
+<a data-cgid="news" data-webcat="news" href="https://corporate.ralphlauren.com/news" target="_self">
+News
+</a>
+</li>
+<li class="sub-nav-item">
+<a data-cgid="media-assets" data-webcat="media-assets" href="https://corporate.ralphlauren.com/media-assets" target="_self">
+Media Assets
+</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="nav-item ">
+<a data-cgid="contact" data-webcat="contact" href="https://corporate.ralphlauren.com/contact" target="_self">
+Contact
+</a>
+</li>
+<li class="nav-item sub-nav">
+<a data-cgid="shop" data-webcat="shop" href="https://corporate.ralphlauren.com/shop" target="_self">
+Shop
+</a>
+<button class="sub-item-toggle mobile-only tablet-only" aria-expanded="false">
+<span class="visually-hidden">Expand Shop Menu</span>
+</button>
+<div class="sub-nav-list">
+<div class="nav-mobile-header">
+<a class="sub-item-back" tabindex="0">
+Back
+<span class="visually-hidden">Back to Main Navigation</span>
+</a>
+<button class="mobile-menu-close">
+<span class="visually-hidden">Close Navigation</span>
+</button>
+</div>
+<div class="nav-mobile-header sub-nav-selected">
+<a data-cgid="shop" data-webcat="shop" href="https://corporate.ralphlauren.com/shop" target="_self">
+Shop
+</a>
+</div>
+<ul tabindex="0">
+<li class="sub-nav-item">
+<a data-cgid="shop-ralph-lauren" data-webcat="shop-ralph-lauren" href="https://www.ralphlauren.com" target="_blank">
+Ralph Lauren
+</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="mobile-nav-blue-bar header-stock-ticker mobile-only tablet-only">
+<div class="stock-ticker hidden">
+<div class="stock-exchange"></div>
+<div class="stock-symbol"></div>
+<div class="stock-last-trade"></div>
+</div>
+<script>
+window.Urls = {"searchsuggest":"/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Search-GetSuggestions","getStockTicker":"/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/StockTicker-GetStockTicker"};
+</script>
+</div>
+</nav>
+</div>
+</header>
+<div id="main" role="main">
+<div id="container-wrap">
+<div id="rl-content">
+
+<article>
+<div class="landing-page-slots page-terms-of-use">
+<div class="hero">
+</div>
+<div class="landing-page-content">
+<div class="corp-content-asset cid_terms-of-use">
+<div class="corp-anchor" id="terms-of-use"></div>
+
+
+<style>.corp-legal {    text-align: left;}.corp-legal h1 {}.corp-legal h2 {}.corp-legal h3 {}.corp-legal p {    line-height: 1.6em;    margin: 1em 0;    font-size: .875rem;    letter-spacing: .0125rem;}.corp-legal li {    line-height: 1.6em;}.corp-legal a {    color: #007dfe;}.corp-legal .corp-offset {    margin-left: 30px;}.corp-legal .mega-header {    font-weight: bold;}.corp-legal .mega-body {}</style><article class="corp-legal fullwidth"> <div class="four-columns"> <h1>TERMS OF USE & COPYRIGHT</h1> <p class="mega-header">YOUR USE OF THIS WEBSITE IS GOVERNED BY AN AGREEMENT TO ARBITRATE DISPUTES. YOU AGREE TO SUBMIT ALL DISPUTES CONCERNING THIS AGREEMENT AND YOUR USE OF THIS WEBSITE TO CONFIDENTIAL, BINDING INDIVIDUAL ARBITRATION, AND YOU AGREE TO GIVE UP YOUR RIGHT TO REPRESENT OTHER PERSONS IN A CLASS ACTION OR SIMILAR PROCEEDING.</p> <h2>Terms of Use</h2> <p>Please carefully read the following Terms of Use before using the www.corporate.ralphlauren.com website (the “Site”). By accessing this Site, you agree to be bound by these Terms of Use. These Terms of Use may be updated from time to time. Accordingly, you should check the date of the Terms of Use (which appear at the end of this document) and review any changes since the last version. If at any time you do not agree to these Terms of Use, please do not use this Site.</p> <p>This Site is operated by Ralph Lauren Corporation (“Ralph Lauren”). Throughout the Site, the terms “we”, “us”, and “our” refer to Ralph Lauren. Ralph Lauren offers this Site, including all information, tools and services available from this Site, to you, the user, conditioned upon your acceptance of all the terms, conditions, policies, and notices stated here. Your continued use of this Site constitutes your agreement to these Terms of Use.</p> <h2>Accuracy, Completeness, and Timeliness of Information on This Site</h2> <p>We are not responsible if information made available on this Site is not accurate, complete, or current. The material on this Site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete, or more timely sources of information. Any reliance on the material on this Site is at your own risk. This Site may contain certain historical information. Historical information is not necessarily current and is provided for your reference only. We reserve the right to modify the contents of this Site at any time, but we have no obligation to update any information on the Site. You agree that it is your responsibility to monitor changes to the Site.</p> <h2>Products</h2> <p>The information on this Site does not constitute a binding offer to sell products described on the Site or to make such products available in your area. </p> <h2>Use of Material on the Site</h2> <p>All content on this Site (including, without limitation, text, design, graphics, logos, icons, images, audio clips, downloads, interfaces, code, and software, as well as the selection and arrangement thereof) is the exclusive property of and owned by Ralph Lauren, its licensors, or its content providers and is protected by copyright, trademark, and other applicable laws. You may access, copy, download, and print the material contained on the Site for your personal and non-commercial use, provided you do not modify or delete any copyright, trademark, or other proprietary notice that appears on the material you access, copy, download, or print. Any other use of content on the Site, including but not limited to the modification, distribution, transmission, performance, broadcast, publication, uploading, licensing, reverse engineering, transfer or sale of, or the creation of derivative works from, any material, information, software, products or services obtained from the Site, or use of the Site for purposes competitive to Ralph Lauren, is expressly prohibited. Ralph Lauren reserves the right to refuse or cancel any person’s registration for this Site, remove any person from this Site, or prohibit any person from using this Site for any reason whatsoever. Ralph Lauren, or its licensors or content providers, retain full and complete title to the material provided on the Site, including all associated intellectual property rights, and provide this material to you under a license that is revocable at any time in Ralph Lauren’s sole discretion. Ralph Lauren neither warrants nor represents that your use of materials on this Site will not infringe rights of third parties not affiliated with Ralph Lauren.</p> <p>You may not use contact information provided on the Site for unauthorized purposes, including marketing. You may not use any hardware or software intended to damage or interfere with the proper working of the Site or to surreptitiously intercept any system, data, or personal information from the Site. You agree not to interrupt or attempt to interrupt the operation of the Site in any way. Ralph Lauren reserves the right, in its sole discretion, to limit or terminate your access to or use of the Site at any time without notice. Termination of your access or use will not waive or affect any other right or relief to which Ralph Lauren may be entitled, at law or in equity.</p> <h2>Material You Submit </h2> <p>You acknowledge that you are responsible for any material you may submit via the Site, including the legality, reliability, appropriateness, originality, and copyright of any such material. You may not upload to, distribute, or otherwise publish through this Site any content that (i) is false, fraudulent, libelous, defamatory, obscene, threatening, invasive of privacy or publicity rights, infringing on intellectual property rights, abusive, illegal, or otherwise objectionable; (ii) may constitute or encourage a criminal offense, violate the rights of any party, or otherwise give rise to liability or violate any law; or (iii) may contain software viruses, political campaigning, chain letters, mass mailings, or any form of spam. You may not use a false email address or other identifying information, impersonate any person or entity, or otherwise mislead as to the origin of any content. You may not upload commercial content onto the Site.</p> <p>If you do submit material, and unless we indicate otherwise, you grant Ralph Lauren and its affiliates a non-exclusive, royalty-free, perpetual, irrevocable, and fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such material throughout the world in any media. You grant Ralph Lauren and its affiliates the right to use the name you submit in connection with such material, if they so choose. All personal information provided via this Site will be handled in accordance with the Site’s online <a href="https://corporate.ralphlauren.com/privacy-policy" title="Privacy Policy">Privacy Notice</a>. You represent and warrant that you own or otherwise control all the rights to the content you post; that the content is accurate; that use of the content you supply does not violate any provision herein and will not cause injury to any person or entity; and that you will indemnify Ralph Lauren for all claims resulting from content you supply.</p> <h2>Conduct on the Site </h2> <p>Some features that may be available on this Site may require registration. By registering at and in consideration of your use of the Site, you agree to provide true, accurate, current, and complete information about yourself. </p> <p>Some features on this Site may require use of a password. You are responsible for protecting your password. You agree that you will be responsible for any and all statements made, and acts or omissions that occur, through the use of your password. If you have any reason to believe or become aware of any loss, theft, or unauthorized use of your password, notify Ralph Lauren immediately. Ralph Lauren may assume that any communications Ralph Lauren receives under your password have been made by you unless Ralph Lauren receives notice otherwise.</p> <p>You or third parties acting on your behalf are not allowed to frame this Site or use our proprietary marks as meta tags, without our written consent. These marks include, but are not limited to, “Polo”, “Ralph Lauren”, “Polo Ralph Lauren”, and “Lauren”. You may not use frames or utilize framing techniques or technology to enclose any content included on the Site without Ralph Lauren’s express written consent. Further, you may not utilize any Site content in any meta tags or any other “hidden text” techniques or technologies without Ralph Lauren’s express written consent. </p> <h2>Links</h2> <p>This Site may contain links to other websites, some of which are operated by Ralph Lauren or its affiliates and others of which are operated by third parties. These links are provided as a convenience to you and as an additional avenue of access to the information contained therein. We have not necessarily reviewed all the information on those other sites and are not responsible for the content of those or any other sites or any products or services that may be offered through those or any other sites. Inclusion of links to other sites should not be viewed as an endorsement of the content of linked sites. Different terms and conditions may apply to your use of any linked Sites. Ralph Lauren is not responsible for any losses, damages, or other liabilities incurred as a result of your use of any linked sites. </p> <h2>Trademarks and Copyrights</h2> <p>Trademarks, logos, and service marks displayed on this Site are registered and unregistered trademarks of Ralph Lauren Media LLC and Ralph Lauren Corporation, their licensors or content providers, or other third parties. All of these trademarks, logos, and service marks are the property of their respective owners. Nothing on this Site shall be construed as granting, by implication, estoppel, or otherwise, any license or right to use any trademark, logo, or service mark displayed on the Site without the owner’s prior written permission, except as otherwise described herein. Ralph Lauren reserves all rights not expressly granted in and to the Site and its content. This Site and all of its content, including but not limited to text, design, graphics, interfaces, and code, and the selection and arrangement thereof, is protected as a compilation under the copyright laws of the United States and other countries. </p> <h2>Infringement Notice</h2> <p>We respect the intellectual property rights of others and request that you do the same. If you think your work has been copied in a manner that constitutes copyright infringement, you may notify our Legal Department, who can be reached at:</p> <p>625 Madison Avenue<br/> New York, New York <br/></p> <p>Or by phone at: <a class="phone-link" href="tel:2127058200">212-705-8200</a></p> <p>In order for us to more effectively assist you, the notification must include ALL of the following: </p> <ol> <li>A physical or electronic signature of the copyright owner or the person authorized to act on the owner’s behalf;</li> <li>A description of the copyrighted work you claim has been infringed;</li> <li>Information reasonably sufficient to locate the material in question on the Site; </li> <li>Your name, address, telephone number, email address, and all other information reasonably sufficient to permit Ralph Lauren to contact you; </li> <li>A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and </li> <li>A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or are authorized to act on behalf of the copyright owner.</li> </ol> <p>Ralph Lauren is under no obligation to post, forward, transmit, distribute, or otherwise provide any material available on this Site, including material you provide to us, and therefore, we have an absolute right to remove any material from the Site in our sole discretion at any time.</p> <p class="mega-header">DISCLAIMERS</p> <p class="mega-body">YOUR USE OF THIS SITE IS AT YOUR SOLE RISK. THE SITE IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS. WE RESERVE THE RIGHT TO RESTRICT OR TERMINATE YOUR ACCESS TO THE SITE OR ANY FEATURE OR PART THEREOF AT ANY TIME. RALPH LAUREN EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE AND ANY WARRANTIES THAT MATERIALS ON THE SITE ARE NONINFRINGING, AS WELL AS WARRANTIES IMPLIED FROM A COURSE OF PERFORMANCE OR COURSE OF DEALING; THAT ACCESS TO THE SITE WILL BE UNINTERRUPTED OR ERROR-FREE; THAT THE SITE WILL BE SECURE; THAT THE SITE OR THE SERVER THAT MAKES THE SITE AVAILABLE WILL BE VIRUSFREE; OR THAT INFORMATION ON THE SITE WILL BE COMPLETE, ACCURATE, OR TIMELY. IF YOU DOWNLOAD ANY MATERIALS FROM THIS SITE, YOU DO SO AT YOUR OWN DISCRETION AND RISK. YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIALS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM RALPH LAUREN OR THROUGH OR FROM THE SITE SHALL CREATE ANY WARRANTY OF ANY KIND. RALPH LAUREN DOES NOT MAKE ANY WARRANTIES OR REPRESENTATIONS REGARDING THE USE OF THE MATERIALS ON THIS SITE IN TERMS OF THEIR COMPLETENESS, CORRECTNESS, ACCURACY, ADEQUACY, USEFULNESS, TIMELINESS, RELIABILITY, OR OTHERWISE.</p> <p class="mega-body">IN CERTAIN JURISDICTIONS, THE LAW MAY NOT PERMIT THE DISCLAIMER OF WARRANTIES, SO THE ABOVE DISCLAIMER MAY NOT APPLY TO YOU.</p> <p class="mega-header">LIMITATION OF LIABILITY </p> <p class="mega-body">YOU ACKNOWLEDGE AND AGREE THAT YOU ASSUME FULL RESPONSIBILITY FOR YOUR USE OF THE SITE. YOU ACKNOWLEDGE AND AGREE THAT ANY INFORMATION YOU SEND OR RECEIVE DURING YOUR USE OF THE SITE MAY NOT BE SECURE AND MAY BE INTERCEPTED BY UNAUTHORIZED PARTIES. YOU ACKNOWLEDGE AND AGREE THAT YOUR USE OF THE SITE IS AT YOUR OWN RISK AND THAT THE SITE IS MADE AVAILABLE TO YOU AT NO CHARGE. RECOGNIZING SUCH, YOU ACKNOWLEDGE AND AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, NEITHER RALPH LAUREN NOR ITS AFFILIATES, SUPPLIERS, OR THIRD-PARTY CONTENT PROVIDERS WILL BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, EXEMPLARY, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES ARISING OUT OF OR IN ANY WAY RELATED TO THE SITE, OR ANY OTHER SITE YOU ACCESS THROUGH A LINK FROM THIS SITE OR FROM ANY ACTIONS WE TAKE OR FAIL TO TAKE AS A RESULT OF COMMUNICATIONS YOU SEND TO US, OR THE DELAY OR INABILITY TO USE THE SITE, OR FOR ANY INFORMATION, PRODUCTS, OR SERVICES ADVERTISED IN THE SITE, RALPH LAUREN’S REMOVAL OR DELETION OF ANY MATERIALS SUBMITTED OR POSTED ON ITS SITE, OR OTHERWISE ARISING OUT OF THE USE OF THE SITE, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE, EVEN IF RALPH LAUREN, ITS AFFILIATES, OR ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. THIS DISCLAIMER APPLIES, WITHOUT LIMITATION, TO ANY DAMAGES OR INJURY ARISING FROM ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DELETION, DEFECTS, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUSES, FILE CORRUPTION, COMMUNICATION-LINE FAILURE, NETWORK OR SYSTEM OUTAGE, YOUR LOSS OF PROFITS, OR THEFT, DESTRUCTION, UNAUTHORIZED ACCESS TO, ALTERATION OF, LOSS OR USE OF ANY RECORD OR DATA, AND ANY OTHER TANGIBLE OR INTANGIBLE LOSS. YOU SPECIFICALLY ACKNOWLEDGE AND AGREE THAT NEITHER RALPH LAUREN NOR ITS SUPPLIERS SHALL BE LIABLE FOR ANY DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY USER OF THE SITE. YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY OF THE ABOVE CLAIMS OR ANY DISPUTE WITH RALPH LAUREN IS TO DISCONTINUE YOUR USE OF THE SITE. YOU AND RALPH LAUREN AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SITE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES OR THE CAUSE OF ACTION IS PERMANENTLY BARRED. BECAUSE SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, OR THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, ALL OR A PORTION OF THE ABOVE LIMITATION MAY NOT APPLY TO YOU.</p> <h2>Indemnification</h2> <p>You agree to indemnify, defend, and hold harmless Ralph Lauren and its affiliates and their officers, directors, employees, contractors, agents, licensors, service providers, subcontractors, and suppliers from and against any and all losses, liabilities, expenses, damages, and costs, including reasonable attorneys’ fees and court costs, arising or resulting from your use of the Site and any violation of these Terms of Use. If you cause a technical disruption of the Site or the systems transmitting the Site to you or others, you agree to be responsible for any and all losses, liabilities, expenses, damages, and costs, including reasonable attorneys’ fees and court costs, arising or resulting from that disruption. Ralph Lauren reserves the right, at its own expense, to assume exclusive defense and control of any matter otherwise subject to indemnification by you and, in such case, you agree to cooperate with Ralph Lauren in the defense of such matter.</p> <h2>Applicable Law</h2> <p>The laws of the State of New York govern these Terms of Use and your use of the Site. We recognize that it is possible for you to obtain access to this Site from any jurisdiction in the world, but we have no practical ability to prevent such access. This Site has been designed to comply with the laws of the State of New York and of the United States. If any material on this Site, or your use of the Site, is contrary to the laws of the place where you are when you access it, the Site is not intended for you, and we ask you not to use the Site. You are responsible for informing yourself of the laws of your jurisdiction and complying with them.</p> <h2>Disputes</h2> <p>Ralph Lauren, including its subsidiaries, affiliates, agents, employees, predecessors in interest, successors and assigns, and you agree that any and all disputes or claims relating in any way to these Terms of Use, your use of the Site, or to any products or services sold or distributed by us or through the Site, including disputes concerning the scope or applicability of this agreement to arbitration (“Disputes”), as well as questions as to the arbitrability of any and all Disputes, and even if the events giving rise to Disputes occurred before this Terms of Use became effective, will be resolved in a confidential, individual and fair arbitration process, and not in court. Each of us agrees to give up our right to sue in court (except small claims court), our right to have our claims heard by a jury, and our right to represent, in a class action or otherwise, anyone but ourselves.</p> <p>The only exceptions to this arbitration agreement are that (i) each of you and we retain the right to sue in small claims court and (ii) each of you and we may bring suit in court against the other to enjoin infringement or other misuse of intellectual property rights.</p> <p>This agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act (“FAA”), 9 U.S.C. ¤¤ 1-16, and federal arbitration law apply and govern the interpretation and enforcement of this Terms of Use.</p> <p>There is no judge or jury in arbitration, and court review of an arbitration award is limited. However, an arbitrator can award on an individual basis the same damages and relief as a court (including injunctive and declaratory relief or statutory damages), and must follow the terms of these Terms of Use as a court would.</p> <h2>Commencing Disputes</h2> <p>To begin an arbitration proceeding, you must send a letter requesting arbitration and describing your claim to our registered agent Corporation Service Company, 2711 Centerville Road, Wilmington, DE 19808. During the first 45 days after we receive your notice (the “Pre-Arbitration Period”), we may try to reach a settlement of the dispute. If we do not resolve the dispute ourselves within the Pre-Arbitration Period, you may commence arbitration. The arbitration will be conducted by Judicial Arbitration and Mediation Services, Inc. (“JAMS”), pursuant to the JAMS Streamlined Arbitration Rules & Procedures effective July 1, 2014 (the “JAMS Rules”), as modified by this Agreement. The JAMS Rules are available at <a href="http://www.jamsadr.com/rules-streamlined-arbitration/" target="_blank">http://www.jamsadr.com/rules-streamlined-arbitration/</a> <a href="http://www.adr.org" target="_blank">www.adr.org</a> or by calling 1-800-352- 5267.</p> <p>Arbitration firms ordinarily charge fees to both sides to conduct arbitrations. The claimant in arbitration heard by JAMS has to pay $250 to start a case, whether the claimant wins or loses. In the event you commence arbitration for an amount less than $10,000, after we receive notice that you have done so, we will reimburse you for your payment of this filing fee and we will pay JAMS any case management fees associated with the arbitration and the professional fees for the arbitrator’s services, pursuant to the JAMS Rules. We will not seek to recover the filing fee we reimbursed to you unless the arbitrator determines that you brought your claim frivolously or for an improper purpose. </p> <p>Each of us may incur attorneys’ fees during the arbitration. Each of us will bear our own attorneys’ fees, except in the following circumstances. If applicable law permits a prevailing party to recover attorneys’ fees, the prevailing party may seek fees as applicable law permits. If applicable law does not permit a prevailing party to recover its attorneys’ fees, but you prevail in the arbitration and win an award at least 25% greater than our highest pre-arbitration settlement offer, then we will pay your reasonable attorneys’ fees for time reasonably expended at rates that prevail for attorneys in your home county, in an amount not to exceed the greater of $10,000 or 20% of the arbitrator’s damages award to you. If we prevail in the arbitration, we will seek to recover our reasonable attorneys’ fees and reimbursement of arbitration costs only if applicable law permits a prevailing party to see fees or if the arbitrator finds that you brought a claim frivolously or for an improper purpose and applicable law does not preclude us from seeking our fees and costs.</p> <h2>The Arbitration</h2> <p>The arbitration will be conducted by one neutral arbitrator selected with the participation and involvement of both parties pursuant to the JAMS Rules. </p> <p>If your claim is for $10,000 or less, we agree, pursuant to the JAMS Rules, that the dispute should be resolved without an oral hearing, unless the arbitrator requests otherwise. Any in-person hearing for a claim of less than $10,000 must be conducted in New York, New York. If your claim is for more than $10,000, the manner and place of the hearing will be determined in accordance with the JAMS Rules.</p> <p>Regardless of how the arbitration proceeds, the arbitrator shall issue a reasoned written decision sufficient to explain his or her findings and conclusions. The arbitrator’s decision and award are final and binding, subject only to the limited court review permitted under the FAA, and judgment on the award may be entered in any court of competent jurisdiction. </p> <h2>Class Action Waiver: No Consolidation of Arbitral Claims </h2> <p>We agree that the arbitrator may award declaratory or injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party's individual claim. The arbitrator may not order us to pay any monies to or take any actions with respect to persons other than you, unless we explicitly consent in advance, after an arbitrator is selected, to permit the arbitrator to enter such an order. YOU AND WE AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR OUR INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS ACTION, REPRESENTATIVE OR MULTICLAIMANT PROCEEDING. Further, unless we both agree in writing, the arbitrator may not consolidate other persons’ claims with yours or ours, and may not otherwise preside over any form of a representative, multi-claimant or class arbitration proceeding. If this specific provision is found to be unenforceable, then the entirety of this arbitration provision shall be null and void. </p> <p>If for any reason a claim proceeds in court rather than in arbitration, we each waive any right to a jury trial and we each irrevocably consent to the exclusive jurisdiction of the courts located in New York County, New York.</p> <h2>Changes to These Terms of Use</h2> <p>We reserve the right, in our sole discretion, to change these Terms of Use at any time by posting revised terms on the Site. It is your responsibility to check periodically for any changes we may make to these Terms of Use. Your continued use of this Site following the posting of changes to these Terms of Use or other policies means you accept the changes.</p> <p>In the event we make material changes to the Terms of Use, notice of these changes will be posted on the homepage of this website and the revised Terms of Use will take effect 30 days after their publication on this Site. </p> <h2>Entire Agreement and Admissibility</h2> <p>This agreement and any policies or operating rules posted on this Site constitute the entire agreement and understanding between you and Ralph Lauren with respect to the subject matter thereof and supersede all prior or contemporaneous communications and proposals, whether oral or written, between the parties with respect to such subject matter. A printed version of these Terms of Use shall be admissible in judicial or administrative proceedings based on or relating to use of the Site to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. </p> <h2>Severability</h2> <p>If any provision of this agreement is unlawful, void, or unenforceable, the remaining provisions of the agreement will remain in place. </p> <h2>How to Contact Us</h2> <p>If you have questions or comments about these Terms of Use or this Site, please contact Customer Assistance at <a href="mailto:CustomerAssistance@RalphLauren.com">CustomerAssistance@RalphLauren.com</a>. </p> <p>Date: June 12, 2019</p> </div></article>
+</div>
+</div>
+<div class="landing-page-bottom">
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div id="footer" class="footer" role="contentinfo">
+<footer>
+<div class="footer-container">
+<div class="footer-social">
+<div class="content-asset">
+<a alt="Ralph Lauren LinkedIn" href="https://www.linkedin.com/company/ralph-lauren" target="_blank">
+<span>Follow us on</span>
+<img alt="Ralph Lauren LinkedIn" src="https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw9426da21/logos/LinkedIn-Logo.png" />
+</a>
+</div> 
+</div>
+<div class="footer-shop">
+<div class="content-asset">
+<a alt="Shop Ralph Lauren" href="https://www.ralphlauren.com/" target="_blank"><img alt="Shop Ralph Lauren" src="https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dwb26b5d16/logos/Ralph-Lauren-Logo.png" target="_blank" /></a>
+</div> 
+</div>
+<div class="footer-navigation desktop-only">
+<ul class="footer-nav-list" tabindex="0">
+<li class="footer-nav-item">
+<a data-cgid="our-company" data-webcat="our-company" href="https://corporate.ralphlauren.com/our-company">
+Our Company
+</a>
+</li>
+<li class="footer-nav-item">
+<a data-cgid="brands" data-webcat="brands" href="https://corporate.ralphlauren.com/brands">
+Brands
+</a>
+</li>
+<li class="footer-nav-item">
+<a data-cgid="careers" data-webcat="careers" href="https://corporate.ralphlauren.com/careers">
+Careers
+</a>
+</li>
+<li class="footer-nav-item">
+<a data-cgid="citizenship-and-sustainability" data-webcat="citizenship-and-sustainability" href="https://corporate.ralphlauren.com/citizenship-and-sustainability">
+Citizenship &amp; Sustainability
+</a>
+</li>
+<li class="footer-nav-item">
+<a data-cgid="foundation" data-webcat="foundation" href="https://corporate.ralphlauren.com/foundation-2">
+Ralph Lauren Corporate Foundation
+</a>
+</li>
+<li class="footer-nav-item">
+<a data-cgid="investor-relations" data-webcat="investor-relations" href="https://corporate.ralphlauren.com/investor-relations">
+Investor Relations
+</a>
+</li>
+<li class="footer-nav-item">
+<a data-cgid="newsroom" data-webcat="newsroom" href="https://corporate.ralphlauren.com/newsroom">
+Newsroom
+</a>
+</li>
+<li class="footer-nav-item">
+<a data-cgid="contact" data-webcat="contact" href="https://corporate.ralphlauren.com/contact">
+Contact
+</a>
+</li>
+<li class="footer-nav-item">
+<a data-cgid="shop" data-webcat="shop" href="https://corporate.ralphlauren.com/shop">
+Shop
+</a>
+</li>
+</ul>
+</div>
+<div class="footer-legal-links">
+<div class="content-asset">
+<ul>
+<li><a href="https://corporate.ralphlauren.com/accessibility-statement" title="Accessibility Statement">Accessibility Statement</a></li>
+<li><a href="https://corporate.ralphlauren.com/transparency-acts" title="Forced Labor, Child Labor, and Modern Slavery Statements">Modern Slavery Statements</a></li>
+<li><a href="https://corporate.ralphlauren.com/on/demandware.static/-/Sites-RalphLauren_Corporate-Library/default/dw17b5c2fe/documents/RL_COBCE_FINAL.pdf" target="_blank" download">Code of Business Conduct</a></li>
+<li><a href="https://corporate.ralphlauren.com/operating-guidelines" title="Operating Standards">Operating Standards</a></li>
+<li><a href="https://corporate.ralphlauren.com/privacy-policy" title="Privacy Notice">Privacy Notice</a></li>
+<li><a href="https://corporate.ralphlauren.com/terms-of-use" title="Terms of Use">Terms of Use</a></li>
+<li><a href="http://www.ralphlauren.ethicspoint.com/" target="_blank" title="RL Hotline">RL Hotline</a></li>
+</ul>
+</div> 
+</div>
+</div>
+<div class="footer-copyright">
+<div class="content-asset">
+&copy; Copyright 2024 Ralph Lauren. All Rights reserved.
+</div> 
+</div>
+</footer>
+</div>
+<!--[if gte IE 9 | !IE]><!-->
+<script src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/lib/jquery/jquery-3.6.0.min.js" type="text/javascript"></script>
+<!--<![endif]-->
+<!--[if lte IE 8]>
+<script src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
+<script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
+<![endif]-->
+<script src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/lib/jquery/ui/jquery-ui-1.13.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/lib/jquery/jquery.validate-1.19.5.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/lib/jquery/intlTelInput.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+(function(){
+
+window.Resources = {"VALIDATE_PHONE":"Please Enter a Valid Phone Number.","VALIDATE_INCORRECTCHARACTERSS":"Incorrect characters were entered.","PROFANITY_INCORRECTCHARACTERSS":"Your message contains offensive language"};
+window.Urls = {"searchsuggest":"/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/Search-GetSuggestions","getStockTicker":"/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/StockTicker-GetStockTicker"};
+window.SitePreferences = {"PROFANITY_WORDS":"roid|afraud|ahole|aroid|biteme|roidriguez|ster rod|sterrod|fraud|sucart|sucarti|kalas|bad newz|badnews|badnewz|detroit sux|ammo|ammunition|bullet|bullets|gun|guns|pistol|pistols|shotgun|shotguns|alcoholic|badnewz|dog fight|dog fighter|dog fite|dog killer|dogfight|dogfighter|dogfite|dogkiller|drug addict|drugaddict|mexican|ookie|pitbull|pittbull|pjones|racist|tankjohnson|wife beater|wifebeater|killer|pit|xmexicox|poon|xronmexicox|devildawgs|devildawgz|devildogs|devildogz|herpes|anus|phuck|kunts|douchebag|pedophile|fukov|fukov|fuck|fuk|sex|anal|ass|asshole|jackass|fellatio|erotic|sadism|bdsm|beastiality|bestiality|bitch|beeeitch|beeeotch|blowjob|blow|dyke|nude|clit|cock|cum|cunnilingus|cunt|porn|dildo|doggystyle|faggot|fetish|gangbang|heroin|horny|hump|jackoff|jerk|jism|jizm|jizz|naked|nympho|oral|orgasm|orgy|pcp|porno|prick|pussies|pussy|screwing|shit|slut|strip|tit|transvestite|twat|twink|whore|xxx|bastard|kunt|cocksucker|damn|crap|dammit|dike|kyke|kike|dickhead|retard|queer|homo|retart|nigger|suck|kkk|schlong|jackhole|penis|nazi|kukluxklan|hitler|sweatshop|sweat shop|child labor|childlabor|rape|rapist|asshead|youass|youasswhole|youasshole|neckass|mother fucker|philadelphia phillies|anahiem angels|boston red sox|chicago white sox|arizona diamondbacks|st. louis cardinals|atlanta braves|new york yankees|new york mets|seattle mariners|kansas city royals|okland athletics|oakland as|milwaukee brewers|toronto blue jays|montreal expos|detroit tigers|colorado rockies|san fransisco giants|san diego padres|milwaukee braves|baltimore orioles|chicago cubs|cincinnati reds|cleveland indians|florida marlins|houston astros|los angeles dodgers|minnesota twins|pittsburgh pirates|tampa bay devil rays|texas rangers|boner|fckyou|bitchitis|ass clown|dicklick|arsehole|asshole|fuckface|fuckhead|fucking bitch|gob the knob|god damn whore|jesus h. christ|libido|n.f.g.|tits|wax the dolphin|assfuck|asswipe|bang|beat off|beef|biatch|blow job|blow your wad|bollocks|boob|bull dyke|bullshit|bum-bandit|bunghole|buns|but fucker| butt fucker|camel toes|carpet muncher|choad|choke the chicken|chow box|clap, the|cock ring|cocksmoker|come stain|cornhole|cotton picker|crabs|cracker|crapper|darky|dickwad|diddle|diesel dyke|dingleberry|dink|dipshit|dong|doo-doo|dork|drag queen|eat shit|fag|fag hag|fag stag|fairy|fart|felch|finger fuck|fist fuck|foursome|french kiss|french tickler|fucked|fucked up|fucker|fucking|fugly|gangsta|get it on|get it up|get laid|get off|give a shit|go down on|god damn|golden shower|gook|grostulation|hair pie|hard-on|hell|hershey highway|hodgie|honkey|hork|itchy eye|jack off|jackshit|jerk off|jit bag|jitbag|jizzum|jugs|jungle fever|knock up|knockers|krunk|lace curtains|loo|lop cock|love juice|lucky pierre|meat|meat puppet|meatrack|morning wood|mother fucker|mother fucking|motherfucker|muff diver|nigga|nookey|nudger|nut|oh shit|old fart|p.w.t.|pain in the ass|pearl necklace|pecker|pecker cheese|pecker tracks|peckerwood|pee|pee-pee|period|piece of ass|pillow biter|pimp|pinch one off|piss|piss ant|piss flappers|piss off|piss up a storm|pissed|pitch a tent|plow|pocket pool|poon tang|poop|poop chute|pooper-scooper|poopshoot|poor white trash|porch monkey|pubes|queef|quim|rack|rag week|redneck|reestie|rice queen|rim|rim job|rump-shaker|sausage jockey|scallywag|screw|sex fight|sex fighter|shitcan|shitface|shitfaced|shitfit|shithead|shithouse|shitlist|shits|shitstain|shoot off|shoot one's load|shoot one's wad|sixty-nine|slapper|snatch|sod off|son of a bitch|spank the monkey|spic|spooge|squirt -n- spurt|stiffy|suck a fatty|sweet f.a.|sweet fucking jesus|take a crap|take a dump|take a piss|take a shit|tea bagging|threesome|threeway|tittie|titty fuck|toss my salad|tosser|trailer trash|trick|tripping/trippin|turd|turd burglar|up shit creek|up yours|wanker|wasted|wee-wee|wetback|whack off|white swallow|whiz|wicked pisser|wordhole|wuss|zipperhead|convict|fuck you|fuckyou|grrrrrrrrrrrrrrrrrrrrrrrrr|pit killer|r mexico|r.mexico|rmexico|rn mexico|rnmexico|ronmexico|woof|woof woof|woofwoof|dogcrap|ikilldogs|mad dogs|biteme|doglover|bad news|dawg killa|dawg killer|dawgkilla|dog killa|dogkilla|guilty|incarcerated|lassie|scum bag|bite me|cell block|cellblock|asterisk|steroid|steroids|dogs|bad news|cat lover|dawg fiter|dick|inmate|lethimplay|o o k i e|puppy lovr|badnews|dawgslayer|dogslayer|dumbass|muthafucka|muthafucka|mc gruff|mcgruff|newz|peta|poo|dogkillah|dogystyle|fuckme|dick bag|dickbag|*sucks|stern sucks|asswip|fuckers|shitheads|sucks|the fuckers|the shitheads|boli|boli|fubar|hater|sux|skanksblow|murderer|snausages|bite me|dtf|rapistbrgr|oakland athletics|tampa bay rays|crittenton|fuck*|dooshbag|traitor|vagina*|rapistberger|therapist|deez nuts|deeznuts|douche|douche bag|four|four|negra|favre|nosefacekila|nosefacekillah|aint|problems|a fraud|a hole|a roid|a roid fraud|your name|bad newz|asshole|bad news|dicks"};
+}());
+</script>
+<script src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/js/app.js" type="text/javascript"></script>
+<script>pageContext = {"title":"Storefront","type":"storefront","ns":"storefront"};</script>
+<script>
+var meta = "Explore Ralph Lauren Corporation including company history, brands, careers, investor news and contact information at corporate.ralphlauren.com.";
+var keywords = ", ralph lauren corporate website, ralph lauren corporate overview,  , ralph lauren corporate website, ralph lauren corporate overview,  ";
+</script>
+<script type="text/javascript">if(typeof(_satellite) != 'undefined') {_satellite.pageBottom();}</script>
+<div class="visually-hidden" id="live-error-messages" role="alert" aria-live="assertive"></div>
+<script src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/js/lib/flickity/flickity.pkgd.min.js"></script>
+</div>
+
+<script type="text/javascript">//<!--
+/* <![CDATA[ */
+function trackPage() {
+    try{
+        var trackingUrl = "https://corporate.ralphlauren.com/on/demandware.store/Sites-RalphLauren_Corporate-Site/default/__Analytics-Start";
+        var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
+        if (typeof dw.ac == "undefined") {
+            dwAnalytics.trackPageView();
+        } else {
+            dw.ac.setDWAnalytics(dwAnalytics);
+        }
+    }catch(err) {};
+}
+/* ]]> */
+// -->
+</script>
+<script type="text/javascript" src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/internal/jscript/dwanalytics-22.2.js" async="async" onload="trackPage()"></script>
+
+<script src="/on/demandware.static/Sites-RalphLauren_Corporate-Site/-/default/v1727778121777/internal/jscript/dwac-21.7.js" type="text/javascript" async="async"></script>
+<script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
+</body>
+</html>
