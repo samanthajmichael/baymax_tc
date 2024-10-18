@@ -1,0 +1,1481 @@
+
+<!DOCTYPE HTML>
+
+
+
+
+    
+        <html lang="en" data-language="en" data-i18n-dictionary-src="/libs/cq/i18n/dict.en_US.json" data-publish-runmode="true" data-dateformat="MM/DD/YYYY" dir="ltr" data-country="us" data-brand="corteva" data-currency="$" data-apicurrency="USD" data-apiendpts="{&#34;redirectURI&#34;:&#34;/accounts-dashboard.html&#34;,&#34;apiurlgdunormal&#34;:&#34;https://api-gducalculatorbl-api.pioneer.com/api/v1.0/gducalculator/normal&#34;,&#34;salesRep&#34;:&#34;/bin/pioneer/api.salesRep.json&#34;,&#34;references&#34;:&#34;/bin/pioneer/api.references.json&#34;,&#34;productDetails&#34;:&#34;/bin/pioneer/api.productDetails.json&#34;,&#34;searchEndpoint&#34;:&#34;https://api-productdetailbl.pioneer.com/api/v1.0/productSearch/searchProducts&#34;,&#34;fetchCarts&#34;:&#34;/bin/api/ecommerce.fetchCarts.json&#34;,&#34;fetchMiniCart&#34;:&#34;/bin/api/ecommerce.fetchMiniCart.json&#34;,&#34;getLoanDetails&#34;:&#34;/bin/pioneer/api.getLoanDetails.json&#34;,&#34;updatePaymentType&#34;:&#34;/bin/api/ecommerce.updatePaymentType.json&#34;,&#34;mltDataAuthApi&#34;:&#34;/bin/api/v2/apim.mltDataAuthApiDetails.json&#34;,&#34;searchProducts&#34;:&#34;/bin/api/ecommerce.searchProducts.json&#34;,&#34;accountActivityUrl&#34;:&#34;/accounts-dashboard.html&#34;,&#34;updateShippingAddress&#34;:&#34;/bin/api/ecommerce.updateShippingAddress.json&#34;,&#34;currentPioneerPLP&#34;:&#34;/bin/pioneer/api.currentPioneerPLP.json&#34;,&#34;mltDataFetchApiV2&#34;:&#34;/bin/api/v2/apim.mltDataFetchApiV2Details.json&#34;,&#34;htmlToPdfConvertor&#34;:&#34;https://api-utilityservicebl.pioneer.com/api/v1.0/pdf/htmlPdfGenerator&#34;,&#34;planterSettingSubmit&#34;:&#34;https://api-plantersettingsbl.pioneer.com/api/v1.0/plantersettings/batchIds&#34;,&#34;addressSuggestions&#34;:&#34;https://api-locationbl-api.pioneer.com/api/v1.0/setmylocation/addressSuggestions&#34;,&#34;yieldDataPlotResults&#34;:&#34;/bin/api/v2/apim.yieldDataPlotResultsDetails.json&#34;,&#34;fetchCurrentCart&#34;:&#34;/bin/api/ecommerce.fetchCurrentCart.json&#34;,&#34;seedGuide&#34;:&#34;https://api-seedguidebl.pioneer.com/api/v1.0/seedguide/productCatalog&#34;,&#34;apiurlgdulocation&#34;:&#34;https://api-gducalculatorbl-api.pioneer.com/api/v1.0/gducalculator/location&#34;,&#34;fetchOperation&#34;:&#34;/bin/api/ecommerce.fetchOperation.json&#34;,&#34;fetchCustomerProfile&#34;:&#34;/bin/api/ecommerce.fetchCustomerProfile.json&#34;,&#34;locationSearchAPI&#34;:&#34;https://api-locationbl-api.pioneer.com/api/v1.0/setmylocation/locationSuggestions&#34;,&#34;saveCartEntries&#34;:&#34;/bin/api/ecommerce.saveCartEntries.json&#34;,&#34;fetchplanterRateEstimates&#34;:&#34;https://api-plantingratebl.pioneer.com/api/v1.0/planterrateestimator/estimateAndTestedYearsAndLocations&#34;,&#34;productDetailsCorn&#34;:&#34;/bin/pioneer/api.productDetails-corn.json&#34;,&#34;getAccountInfo&#34;:&#34;/bin/pioneer/api.getAccountInfo.json&#34;,&#34;planterMake&#34;:&#34;https://api-plantersettingsbl.pioneer.com/api/v1.0/plantersettings/planterMakes&#34;,&#34;fetchProductDetails&#34;:&#34;/bin/api/ecommerce.fetchProductDetails.json&#34;,&#34;deleteEntry&#34;:&#34;/bin/api/ecommerce.deleteEntry.json&#34;,&#34;planterMakeWithBpid&#34;:&#34;https://api-plantersettingsbl.pioneer.com/api/v1.0/plantersettings/batchids/planterMake&#34;,&#34;dataStateAPI&#34;:&#34;https://api-locationbl-api.pioneer.com/api/v1.0/setmylocation/states&#34;,&#34;productDetailsVariant&#34;:&#34;/bin/pioneer/api.productDetailsVariant.json&#34;,&#34;getProductDetails&#34;:&#34;/bin/api/ecommerce.getProductDetails.json&#34;,&#34;b2bCustomer&#34;:&#34;/bin/pioneer/api.b2bCustomer.json&#34;,&#34;getCartByIdResponse&#34;:&#34;/bin/pioneer/api.getCartByIdResponse.json&#34;,&#34;placeOrder&#34;:&#34;/bin/api/ecommerce.placeOrder.json&#34;,&#34;coordinatesFromZipcode&#34;:&#34;https://api-proxy.pioneer.com/bingmapsdata/locations&#34;,&#34;addressValidation&#34;:&#34;https://api-locationbl-api.pioneer.com/api/v1.0/setmylocation/addressValidation&#34;,&#34;updateEntry&#34;:&#34;/bin/api/ecommerce.updateEntry.json&#34;,&#34;search&#34;:&#34;/bin/pioneer/api.search.json&#34;,&#34;searchAndPromote&#34;:&#34;&#34;,&#34;\u0026redirectURI\u003d&#34;:&#34;&#34;,&#34;seedGuideProductDetails&#34;:&#34;https://api-seedguidebl.pioneer.com/api/v1.0/product/details&#34;,&#34;locationSuggestions&#34;:&#34;https://api-locationbl-api.pioneer.com/api/v1.0/setmylocation/locationSuggestions&#34;,&#34;getOrderResponse&#34;:&#34;/bin/pioneer/api.getOrderResponse.json&#34;,&#34;salesRepUrl&#34;:&#34;/sales-representatives/my-local-team.html&#34;,&#34;apiurlgduforecast&#34;:&#34;https://api-gducalculatorbl-api.pioneer.com/api/v1.0/gducalculator/forecast&#34;,&#34;loginAPI&#34;:&#34;/login/account&#34;,&#34;productDetailsSoybean&#34;:&#34;/bin/pioneer/api.productDetails-soybean.json&#34;,&#34;requestNewSalesRep&#34;:&#34;/bin/api/ecommerce.requestNewSalesRep.json&#34;,&#34;fetchTechnologyDescription&#34;:&#34;/bin/api/ecommerce.fetchTechnologyDescription.json&#34;,&#34;getProductRecommendations&#34;:&#34;/bin/api/ecommerce.getProductRecommendations.json&#34;,&#34;coordinates&#34;:&#34;https://api-locationbl-api.pioneer.com/api/v1.0/setmylocation/coordinates&#34;,&#34;fetchClientLoginSession&#34;:&#34;&#34;,&#34;calculateIncentives&#34;:&#34;/bin/api/ecommerce.calculateIncentives.json&#34;,&#34;fetchOrder&#34;:&#34;/bin/api/ecommerce.fetchOrder.json&#34;,&#34;truChoiceOnline&#34;:&#34;https://truchoiceonline.com/GetTransPDF.aspx?&#34;,&#34;browserMaxInactiveTime&#34;:&#34;1200000&#34;,&#34;salesRepsDataFetchApi&#34;:&#34;/bin/api/v2/apim.salesRepsDataFetchApiDetails.json&#34;,&#34;productImages&#34;:&#34;https://api-seedguidebl.pioneer.com/api/v1.0/product/productImages&#34;,&#34;planterRateEstimaterPlatformApi&#34;:&#34;https://api-plantingratebl.pioneer.com/api/v1.0/planterrateestimator/platforms&#34;,&#34;b2bUnit&#34;:&#34;/bin/pioneer/api.b2bUnit.json&#34;,&#34;updateUserProfile&#34;:&#34;/bin/api/ecommerce.updateUserProfile.json&#34;,&#34;currentCart&#34;:&#34;/bin/pioneer/api.currentCart.json&#34;,&#34;territoryReps&#34;:&#34;/bin/pioneer/api.territoryReps.json&#34;,&#34;locationLatLongAPI&#34;:&#34;https://api-locationbl-api.pioneer.com/api/v1.0/setmylocation/location&#34;,&#34;mltDataFetchApi&#34;:&#34;/bin/api/v2/apim.mltDataFetchApiDetails.json&#34;,&#34;yieldDataPlotReport&#34;:&#34;/bin/api/v2/apim.yieldDataPlotReportDetails.json&#34;,&#34;category&#34;:&#34;/bin/pioneer/api.category.json&#34;,&#34;requestCartReview&#34;:&#34;/bin/api/ecommerce.requestCartReview.json&#34;,&#34;getPioneerAccount&#34;:&#34;/bin/pioneer/api.getPioneerAccount.json&#34;,&#34;planterRateEstimaterHybridApi&#34;:&#34;https://api-plantingratebl.pioneer.com/api/v1.0/planterrateestimator/hybrids&#34;,&#34;bingMapApi&#34;:&#34;https://api-proxy.pioneer.com/bingmapsdata/pioneer/locations&#34;,&#34;territory&#34;:&#34;/bin/pioneer/api.territory.json&#34;}" data-ldclient="5f2424104f35bc0be2c7a6dd" data-rich-profile-enabled="false">
+        <head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+ 
+ 
+ 
+ <script type="module">
+  window.RUM_BASE = 'https://rum.hlx.page/';
+  import { sampleRUM } from 'https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/src/index.js';
+  window.hlx = window.hlx || {};
+  window.hlx.sampleRUM = sampleRUM;
+  sampleRUM();
+</script><script id="digital-data-values">
+  var digitalData = {
+		country: 'us',
+		language: 'en',
+        region: '',
+	   	pageTemplate: 'corteva-vertical-in-page-nav-template',
+        company: 'corteva-corporate',
+		environment: 'prod',
+		category: 'terms-and-conditions',
+		subcategory: '',
+		pageName: 'terms-and-conditions',
+       	productCategory: 'Corteva Agriscience™ | Global',
+		cropCategory: '',
+        productTypeTags: '',
+        productName: '',
+		productId: '',
+		associatedBrand: 'corteva',
+        contentType: 'Legal',
+        topic: '',
+        regions: '',
+        state: '',
+        brands: '',
+        pestsWeedsDiseases: '',
+        activeIngredients: '',
+        useSites: '',
+        markets: '',
+        seasons: '',
+        referrer: document.referrer
+   }
+  </script>
+
+  
+
+
+
+<meta name="keywords" content="Corteva Agriscience, terms of use, Corteva"/>
+<meta name="description" content="Find Corteva Legal and Terms of Use here."/>
+
+    <link rel="canonical" href="https://www.corteva.com/terms-and-conditions.html"/>
+
+<meta name="robots" content="index,follow"/>
+<meta name="contentType" content="Legal"/>
+<meta name="lastModifiedDate" content="26 Aug 2019 08:25:30 UTC"/>
+<meta name="title" content="Corteva Terms of Use"/>
+<meta name="productType"/>
+<meta property="og:title" content="Corteva Terms of Use"/>
+<meta name="twitter:title" content="Corteva Terms of Use"/>
+<meta name="twitter:description" content="Find Corteva Legal and Terms of Use here."/>
+<meta property="og:type" content="website"/>
+
+    <meta name="facebook-domain-verification" content="desqax5qff28cinj81okq017hhh087"/>
+
+
+
+    
+        <link rel="alternate" href="https://www.corteva.com/terms-and-conditions.html" hreflang="en"/>
+    
+
+
+    <meta property="og:url" content="https://www.corteva.com/terms-and-conditions.html"/>
+
+
+
+    <meta property="og:description" content="Read about the terms of use for interacting with Corteva.com, the website for Corteva, the Agricultural Division"/>
+
+
+
+          
+	
+
+    
+
+
+        <script type="text/javascript" src="//assets.adobedtm.com/774f5cd356eb/4f4e5c010e65/launch-8d2f81594131.min.js" async></script>
+
+
+	
+
+
+
+
+<!--Parent Brand-->
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/corteva/components/clientlib/toplib.lc-629002949719da9bc2cca4f81ef4ad7e-lc.min.css" type="text/css">
+
+
+
+<!--if not not corteva,include brand specific category eg:[category name-]-->
+
+<!--end -->
+
+
+
+
+
+
+
+
+    
+<script src="/etc/designs/app/clientlibraries/third-party.lc-cc57fd2abe8ec6d973f6c811fd73019a-lc.min.js"></script>
+
+
+
+
+
+
+
+
+
+<link href="//cdn.fonts.net/kit/3c797980-11a6-11ec-9b4a-02718c7f9742/3c797980-11a6-11ec-9b4a-02718c7f9742.css" rel="stylesheet"/>
+
+
+    <!-- generics -->
+    <link rel="icon" type="image/ico" href="/etc/designs/app/favicon.ico"/>
+    <link rel="icon" href="/etc/designs/app/favicon-16x16.png" sizes="16x16"/>
+    <link rel="icon" href="/etc/designs/app/favicon-32x32.png" sizes="32x32"/>
+    <link rel="icon" href="/etc/designs/app/favicon-96x96.png" sizes="96x96"/>
+
+    <!-- Android -->
+    <link rel="shortcut icon" sizes="192x192" href="/etc/designs/app/android-icon-192x192.png"/>
+
+    <!-- iOS -->
+    <link rel="apple-touch-icon" href="/etc/designs/app/apple-icon-57x57.png" sizes="57x57"/>
+    <link rel="apple-touch-icon" href="/etc/designs/app/apple-icon-76x76.png" sizes="76x76"/>
+    <link rel="apple-touch-icon" href="/etc/designs/app/apple-icon-120x120.png" sizes="120x120"/>
+    <link rel="apple-touch-icon" href="/etc/designs/app/apple-icon-152x152.png" sizes="152x152"/>
+    <link rel="apple-touch-icon" href="/etc/designs/app/apple-icon-180x180.png" sizes="180x180"/>
+
+    <!-- Windows 8 IE 10-->
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="/etc/designs/app/ms-icon-144x144.png"/>
+
+    <!-- Windows 8.1 + IE11 and above -->
+    <meta name="msapplication-config" content="/etc/designs/app/browserconfig.xml"/>
+
+<title>Corteva Terms of Use | Corteva Agriscience</title>
+</head>
+    
+    
+    <body>
+  
+
+
+	
+    	
+  	
+
+
+  
+    
+        <div class="globalNewNavigation nav scrollable">
+            
+            
+            <a class="skip-nav" href="#body">Skip Navigation</a>
+            <div class="nav__topline">
+                <nav class="nav__topline--left">
+                    
+                        <span class="nav__topline_brand">Corporate Global</span>
+                        <hr class="separator--tabs"/>
+                    
+                    
+                        <i class="icon-globe"></i>
+                    
+                    
+                        
+                        
+                            <a class="location__button" id="locationSelector" data-analytics-type="global-country-selector" data-analytics-value="Select A Location" href="/country-selector.html">
+                                <span class="label_country">Select A Location</span>
+                            </a>
+                        
+                    
+
+                    
+
+                    <!--Location -->
+                    
+                    
+                </nav>
+
+                <nav class="nav__topline--right">
+                    
+                        
+                            
+                            
+                                <a class="utility-link" href="https://investors.corteva.com" target="_blank" rel="noopener noreferrer" ria-haspopup="true" aria-expanded="false" data-analytics-type="global-utility-navigation" data-analytics-value="Investors">Investors</a>
+                            
+                        
+                    
+                        
+                            
+                            
+                                <a class="utility-link" href="https://careers.corteva.com" target="_blank" rel="noopener noreferrer" ria-haspopup="true" aria-expanded="false" data-analytics-type="global-utility-navigation" data-analytics-value="Careers">Careers</a>
+                            
+                        
+                    
+                        
+                            
+                                <a class="utility-link" href="/contact-us.html" target="_self" ria-haspopup="true" aria-expanded="false" data-analytics-type="global-utility-navigation" data-analytics-value="Contact Us">Contact Us</a>
+                            
+                            
+                        
+                    
+
+                    
+    
+
+                </nav>
+            </div>
+
+            <hr class="separator--nav"/>
+
+            <div class="nav__main">
+                <nav class="nav__main_tabs">
+                    <a class="logo" href="https://www.corteva.com">
+                        <picture>
+                            <source srcset="https://assets.corteva.com/is/image/Corteva/CortevaLegal_HorColor_RGB_no_tagline" media="(min-width: 1200px)"/>
+                            <source srcset="https://assets.corteva.com/is/image/Corteva/CortevaLegal_HorColor_RGB_no_tagline" media="(min-width: 992px)"/>
+                            <source srcset="https://assets.corteva.com/is/image/Corteva/CortevaLegal_HorColor_RGB_no_tagline" media="(max-width: 991px)"/>
+                            <img src="https://assets.corteva.com/is/image/Corteva/CortevaLegal_HorColor_RGB_no_tagline" alt="Corteva Agriscience™ logo"/>
+                        </picture>
+                    </a>
+
+                    <div class="arrow--left icon-blue-carot">
+                        <span class="arrow__text">Go Back</span>
+                    </div>
+
+                    <span class="mobile__tab"></span>
+
+                    <button class="hambuger__menu_icon icon-burger-menu">
+                        <span class="hambuger__menu_text">Menu</span>
+                    </button>
+
+                    <div class="hamburger__menu_wrapper" role="navigation">
+                        <div class="nav__topline--mobile">
+                            
+    
+
+
+                            <!-- Test if location selector is checked by author -->
+                            <p>
+                                Location
+                            </p>
+
+                            <ul class="hamburger__menu_options">
+                                
+                                    <li>
+                                        
+                                        
+                                            <i class="icon-globe"></i>
+                                        
+
+                                        
+                                            <a class="location__button" href="/country-selector.html">
+                                                <span class="label_country">Select A Location</span>
+                                                <i class="icon-blue-carot"></i>
+                                            </a>
+                                        
+                                    </li>
+                                
+
+                                
+                                
+                            </ul>
+
+                            <p class="">Menu</p>
+                        </div>
+
+                        <ul class="hamburger__menu_options" role="menubar">
+                            <!--CONTENT-->
+                            
+                                
+                                    <li class="navigation-level-one" role="none">
+                                        <a class="nav__tab" role="menuitem" aria-haspopup="true" aria-expanded="false" tabindex="0" data-analytics-type="global-dropdown-navigation">Who We Are</a>
+                                        
+                                        <div class="tab-indicator"></div>
+                                        
+                                            <i class="icon-blue-carot"></i>
+                                            <div class="tabs__content subnav_content">
+                                                <div class="tabs__content--row tabs__content--block" role="tabpanel">
+                                                    <!--SUBNAV CONTENT-->
+                                                    
+
+  
+    
+      <div class="cards__container">
+        
+          
+            
+              <picture class="picture--one">
+                <source srcset="https://assets.corteva.com/is/image/Corteva/IMG-TAC_GBL_02_Nav_Dropdown_Opt2_1005x667-Global" media="(min-width: 1200px)"/>
+                <source srcset="https://assets.corteva.com/is/image/Corteva/IMG-TAC_GBL_02_Nav_Dropdown_Opt2_1005x667-Global" media="(min-width: 992px)"/>
+                <source srcset="https://assets.corteva.com/is/image/Corteva/IMG-TAC_GBL_02_Nav_Dropdown_Opt2_1005x667-Global" media="(max-width: 991px)"/>
+                <img class="tabs__content--image image--one" src="https://assets.corteva.com/is/image/Corteva/IMG-TAC_GBL_02_Nav_Dropdown_Opt2_1005x667-Global" alt="Together at Corteva"/>
+              </picture>
+
+              <div class="tabs__content--feature feature--image">
+                
+                <a href="/who-we-are/keepgrowing/together-at-corteva.html" target="_self" role="menuitem" tabindex="-1" data-analytics-type="global-sub-navigation">Together at Corteva</a>
+                
+
+                <p>Corteva celebrates our employee stories, the heartbeat of our company.</p>
+              </div>
+            
+            
+          
+
+          
+        
+      </div>
+      <hr class="separator--subnav"/>
+  
+
+
+    <!--LIST CONTENT-->
+  <div>
+    <!--TEXT-->
+    <div class="tabs__content--list">
+      <ul class="variable--list multiple-column" role="menu">
+        
+            <li role="none">
+              <a href="/who-we-are/our-purpose-and-values.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Our Purpose &amp; Values">Our Purpose &amp; Values</a>
+            </li>
+        
+            <li role="none">
+              <a href="/who-we-are/our-leadership.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Leadership">Leadership</a>
+            </li>
+        
+            <li role="none">
+              <a href="/who-we-are/our-history.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="History">History</a>
+            </li>
+        
+            <li role="none">
+              <a href="/who-we-are/outlook.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Outlook">Outlook</a>
+            </li>
+        
+            <li role="none">
+              <a href="/who-we-are/keepgrowing.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Keep Growing">Keep Growing</a>
+            </li>
+        
+            <li role="none">
+              <a href="/code-of-conduct.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Our Code of Conduct">Our Code of Conduct</a>
+            </li>
+        
+            <li role="none">
+              <a href="/who-we-are/position-statements.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Position Statements">Position Statements</a>
+            </li>
+        
+      </ul>
+    </div>
+
+    <!--HIERARCHICAL-->
+    
+    <!--TAGS-->
+    
+  </div>
+
+                                                </div>
+                                            </div>
+                                        
+                                    </li>
+                                
+                                    <li class="navigation-level-one" role="none">
+                                        <a class="nav__tab" role="menuitem" aria-haspopup="true" aria-expanded="false" tabindex="0" data-analytics-type="global-dropdown-navigation">Our Impact</a>
+                                        
+                                        <div class="tab-indicator"></div>
+                                        
+                                            <i class="icon-blue-carot"></i>
+                                            <div class="tabs__content subnav_content">
+                                                <div class="tabs__content--row tabs__content--block" role="tabpanel">
+                                                    <!--SUBNAV CONTENT-->
+                                                    
+
+  
+    
+
+
+    <!--LIST CONTENT-->
+  <div>
+    <!--TEXT-->
+    <div class="tabs__content--list">
+      <ul class="variable--list multiple-column" role="menu">
+        
+            <li role="none">
+              <a href="/our-impact.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Our Impact">Our Impact</a>
+            </li>
+        
+            <li role="none">
+              <a href="/our-impact/innovation.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Innovation">Innovation</a>
+            </li>
+        
+            <li role="none">
+              <a href="/sustainability.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Sustainability">Sustainability</a>
+            </li>
+        
+            <li role="none">
+              <a href="/our-impact/product-stewardship.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Product Stewardship">Product Stewardship</a>
+            </li>
+        
+            <li role="none">
+              <a href="/our-impact/transparency.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Commitment to Transparency">Commitment to Transparency</a>
+            </li>
+        
+            <li role="none">
+              <a href="/our-impact/global-food-security-index.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Global Food Security">Global Food Security</a>
+            </li>
+        
+            <li role="none">
+              <a href="/our-impact/growing-for-good.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Growing for Good">Growing for Good</a>
+            </li>
+        
+      </ul>
+    </div>
+
+    <!--HIERARCHICAL-->
+    
+    <!--TAGS-->
+    
+  </div>
+
+                                                </div>
+                                            </div>
+                                        
+                                    </li>
+                                
+                                    <li class="navigation-level-one" role="none">
+                                        <a class="nav__tab" role="menuitem" aria-haspopup="true" aria-expanded="false" tabindex="0" data-analytics-type="global-dropdown-navigation">Products &amp; Services</a>
+                                        
+                                        <div class="tab-indicator"></div>
+                                        
+                                            <i class="icon-blue-carot"></i>
+                                            <div class="tabs__content subnav_content">
+                                                <div class="tabs__content--row tabs__content--block" role="tabpanel">
+                                                    <!--SUBNAV CONTENT-->
+                                                    
+
+  
+    
+
+
+    <!--LIST CONTENT-->
+  <div>
+    <!--TEXT-->
+    <div class="tabs__content--list">
+      <ul class="variable--list multiple-column" role="menu">
+        
+            <li role="none">
+              <a href="/products-and-services.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Products &amp; Services">Products &amp; Services</a>
+            </li>
+        
+            <li role="none">
+              <a href="/products-and-services/crop-protection.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Crop Protection">Crop Protection</a>
+            </li>
+        
+            <li role="none">
+              <a href="/products-and-services/seeds.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Seeds">Seeds</a>
+            </li>
+        
+            <li role="none">
+              <a href="/products-and-services/biologicals.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Biologicals">Biologicals</a>
+            </li>
+        
+            <li role="none">
+              <a href="/products-and-services/seed-applied-technologies.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Seed Applied Technologies">Seed Applied Technologies</a>
+            </li>
+        
+            <li role="none">
+              <a href="/products-and-services/crop-protection/fruit-and-vegetable-solutions.html" target="_self" rel="noopener noreferrer" tabindex="-1" role="menuitem" data-analytics-type="global-sub-navigation" data-analytics-value="Fruit and Vegetable Solutions">Fruit and Vegetable Solutions</a>
+            </li>
+        
+      </ul>
+    </div>
+
+    <!--HIERARCHICAL-->
+    
+    <!--TAGS-->
+    
+  </div>
+
+                                                </div>
+                                            </div>
+                                        
+                                    </li>
+                                
+                                    <li class="navigation-level-one" role="none">
+                                        
+                                        <a role="menuitem" class="nav__tab" href="/resources/blog.html" target="_self" data-analytics-type="global-navigation" data-analytics-value="Blog">Blog</a>
+                                        <div class="tab-indicator"></div>
+                                        
+                                    </li>
+                                
+                                    <li class="navigation-level-one" role="none">
+                                        
+                                        <a role="menuitem" class="nav__tab" href="/resources/media-center.html" target="_self" data-analytics-type="global-navigation" data-analytics-value="Media Center">Media Center</a>
+                                        <div class="tab-indicator"></div>
+                                        
+                                    </li>
+                                
+                            
+                            <!--CONTENT-->
+                        </ul>
+
+                        <div class="nav__topline--mobile utility__menu">
+                            
+                                
+                                    <a href="https://investors.corteva.com" target="_blank" class="utility__tab" data-analytics-type="global-utility-navigation" data-analytics-value="Investors">Investors</a>
+                                    <hr class="separator--tabs"/>
+                                
+                            
+                                
+                                    <a href="https://careers.corteva.com" target="_blank" class="utility__tab" data-analytics-type="global-utility-navigation" data-analytics-value="Careers">Careers</a>
+                                    <hr class="separator--tabs"/>
+                                
+                            
+                                
+                                    <a href="/contact-us.html" target="_self" class="utility__tab" data-analytics-type="global-utility-navigation" data-analytics-value="Contact Us">Contact Us</a>
+                                    
+                                
+                            
+                        </div>
+                    </div>
+                </nav>
+                
+  
+
+    
+
+      
+        <div class="nav__search">
+          <form class="searchNav" method="get" action="/search.html" data-autocomplete-url="https://content.atomz.com/autocomplete/sp10/04/f8/eb/" data-suggestions-limit="5" data-minchars="3">
+            <button aria-label="close search" type="close" class="close-search nav__search_close-button">
+              <i class="nav__search_icon icon-close"></i>
+            </button>
+            <input type="text" id="top-search" name="q" class="top-search nav__search_input" autocomplete="off" placeholder="Search"/>
+            <button aria-label="submit search" type="submit" class="submit-search nav__search_button">
+              <i class="nav__search_icon icon-search"></i>
+            </button>
+            <input type="hidden" id="search-country" name="country"/>
+          </form>
+        </div>
+      
+    
+  
+
+            </div>
+        </div>
+        <a id="body"></a>
+    
+
+
+
+  
+
+
+
+
+<div class="root responsivegrid">
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="cmp cmp-breadcrumb aem-GridColumn aem-GridColumn--default--12"> 
+
+<div class="feature-flag" data-componentname="breadcrumb" data-featureflagvalue="on">
+    
+        
+        <div class="band nav01-breadcrumbs">
+            <div class="band-content">
+                <div class="breadcrumb-links">
+            
+            	
+                	<a href="https://www.corteva.com" data-analytics-type="global-breadcrumb">
+                   		 Home
+                    </a> 
+                    /
+                
+            
+
+             
+
+            
+            
+
+            <a>Corteva Terms of Use</a> 
+
+            </div>
+            
+                
+
+<div class="feature-flag" id="social_share_breadcrumb" data-componentname="socialshare" data-featureflagvalue="on">
+  
+    
+      <div class="social-share">
+        <span class="social_share_heading">Share:</span>
+        
+  
+    
+      <a title="Facebook" class="social-sharing-button__link" href="https://www.facebook.com/sharer/sharer.php?u=https://www.corteva.com/terms-and-conditions.html" target="_blank" rel="noopener" aria-label="Share on Facebook" data-analytics-type="share" data-analytics-value="facebook">
+        <div class="social-widget socialshare-facebook"></div>
+      </a>
+    
+  
+    
+      
+        <a title="Twitter" class="social-sharing-button__link" href="https://www.twitter.com/intent/tweet/?url=https://www.corteva.com/terms-and-conditions.html" target="_blank" rel="noopener" aria-label="Share on Twitter" data-analytics-type="share" data-analytics-value="twitter">
+          <div class="social-widget socialshare-twitter"></div>
+        </a>
+      
+  
+  
+      
+        <a title="LinkedIn" class="social-sharing-button__link" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.corteva.com/terms-and-conditions.html" target="_blank" rel="noopener" aria-label="Share on LinkedIn" data-analytics-type="share" data-analytics-value="linkedin">
+          <div class="social-widget socialshare-linkedin"></div>
+        </a>
+      
+  
+  
+      
+        <a title="WhatsApp" class="social-sharing-button__link" href="https://api.whatsapp.com/send?text=https://www.corteva.com/terms-and-conditions.html" target="_blank" rel="noopener" aria-label="Share on WhatsApp" data-analytics-type="share" data-analytics-value="whatsapp">
+          <div class="social-widget socialshare-whatsapp"></div>
+        </a>
+      
+  
+  
+      
+        <a title="E-Mail" class="social-sharing-button__link" href="mailto:?subject=Corteva%20Terms%20of%20Use&body=https://www.corteva.com/terms-and-conditions.html" target="_self" rel="noopener" aria-label="Share by E-Mail" data-analytics-type="share" data-analytics-value="email">
+          <div class="social-widget socialshare-email"></div>
+        </a>
+      
+  
+
+      </div>
+      <div class="social-share-mobile-dropdown social-share">
+  
+    
+      <a title="Facebook" class="social-sharing-button__link" href="https://www.facebook.com/sharer/sharer.php?u=https://www.corteva.com/terms-and-conditions.html" target="_blank" rel="noopener" aria-label="Share on Facebook" data-analytics-type="share" data-analytics-value="facebook">
+        <div class="social-widget socialshare-facebook"></div>
+      </a>
+    
+  
+    
+      
+        <a title="Twitter" class="social-sharing-button__link" href="https://www.twitter.com/intent/tweet/?url=https://www.corteva.com/terms-and-conditions.html" target="_blank" rel="noopener" aria-label="Share on Twitter" data-analytics-type="share" data-analytics-value="twitter">
+          <div class="social-widget socialshare-twitter"></div>
+        </a>
+      
+  
+  
+      
+        <a title="LinkedIn" class="social-sharing-button__link" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.corteva.com/terms-and-conditions.html" target="_blank" rel="noopener" aria-label="Share on LinkedIn" data-analytics-type="share" data-analytics-value="linkedin">
+          <div class="social-widget socialshare-linkedin"></div>
+        </a>
+      
+  
+  
+      
+        <a title="WhatsApp" class="social-sharing-button__link" href="https://api.whatsapp.com/send?text=https://www.corteva.com/terms-and-conditions.html" target="_blank" rel="noopener" aria-label="Share on WhatsApp" data-analytics-type="share" data-analytics-value="whatsapp">
+          <div class="social-widget socialshare-whatsapp"></div>
+        </a>
+      
+  
+  
+      
+        <a title="E-Mail" class="social-sharing-button__link" href="mailto:?subject=Corteva%20Terms%20of%20Use&body=https://www.corteva.com/terms-and-conditions.html" target="_self" rel="noopener" aria-label="Share by E-Mail" data-analytics-type="share" data-analytics-value="email">
+          <div class="social-widget socialshare-email"></div>
+        </a>
+      
+  
+</div>
+      <div class="social-share-mobile"></div>
+    
+  
+</div>
+
+            
+          </div>            
+        </div>
+</div>
+<div class="social-share-clear-float"></div></div>
+<div class="articleHeader aem-GridColumn aem-GridColumn--default--12">
+
+<div class="feature-flag" data-componentname="articleHeader">
+    
+
+    <div id="articleHeader" data-title="Terms of Use" data-description="&lt;p>&lt;strong>Revised&amp;nbsp;8/23/2019&lt;/strong>&lt;/p>
+&lt;p>Welcome. Corteva Agriscience™ (“Corteva,” “Company,” “We,” or “Us”) offers this website to you subject to the following terms and conditions (“Terms”). &lt;strong>By accessing or using any website with an authorized link to these Terms (each, a “Site”), registering an account or accessing or using any content, information, products, services, features or resources available or enabled via the Site (together with the Site, the “Services”), you agree to these Terms. These Terms are a legal contract with you.&amp;nbsp; If you do not agree with any of these Terms, do not use the Services.&lt;/strong>&lt;/p>
+" data-path="/content/corteva/corporate/our-homepage/terms-and-conditions">
+        
+    <div class="band white det23-article">
+        <article class="band-content">
+            <header class="det23-article-header">
+                
+                
+                
+                
+                <h1>Terms of Use</h1>
+
+                
+                
+                
+  
+    <div class="bookmark-api-error" :class="{'show': isAPIError}">
+        Something went wrong. Please try again later...
+    </div>
+
+                
+  
+
+                
+  
+      <div class="intro">
+          <p><strong>Revised 8/23/2019</strong></p>
+<p>Welcome. Corteva Agriscience™ (“Corteva,” “Company,” “We,” or “Us”) offers this website to you subject to the following terms and conditions (“Terms”). <strong>By accessing or using any website with an authorized link to these Terms (each, a “Site”), registering an account or accessing or using any content, information, products, services, features or resources available or enabled via the Site (together with the Site, the “Services”), you agree to these Terms. These Terms are a legal contract with you.  If you do not agree with any of these Terms, do not use the Services.</strong></p>
+
+      </div>
+  
+
+            </header>
+        </article>
+    </div>
+
+
+        
+
+        
+        <warning-modal v-show="isOpened" :is-opened="isOpened" @close-warning-modal="handleModal(false)" :properties="properties" :page-meta-model="{
+                language:'en',
+                region: '',
+                country: 'us',
+                brandName: 'corteva',
+                email: ''
+            }">
+        </warning-modal>
+    </div>
+</div>
+</div>
+<div class="anchorNavigation aem-GridColumn aem-GridColumn--default--12">
+
+<div class="feature-flag" data-componentname="anchorNavigation" data-featureflagvalue="on">
+    
+        
+
+		
+			
+		  
+		
+		
+    
+		
+			
+
+<div class="band">
+  <div class="band-content">
+      <nav class="nav05-in-page-nav-vertical">
+          <select name="" class="form-dropdown" id="GENERATE-ID"> 	
+         <option value="-1">      
+              Jump To a Section      
+          </option>
+            
+            <option value="0">
+                    Terms of Use Revisions  
+            </option>
+            
+            <option value="1">
+                    Privacy  
+            </option>
+            
+            <option value="2">
+                    Supplemental and Third-Party Terms  
+            </option>
+            
+            <option value="3">
+                    Usernames, Passwords, and Accounts  
+            </option>
+            
+            <option value="4">
+                    Ownership of and License to Use Corteva Agriscience™ Properties  
+            </option>
+            
+            <option value="5">
+                    Restrictions on Use  
+            </option>
+            
+            <option value="6">
+                    Availability of Services  
+            </option>
+            
+            <option value="7">
+                    Links  
+            </option>
+            
+            <option value="8">
+                    Disclaimer of Warranties and Limitation of Liability  
+            </option>
+            
+            <option value="9">
+                    Local Laws; Export Control  
+            </option>
+            
+            <option value="10">
+                    Unsolicited Ideas and Feedback  
+            </option>
+            
+            <option value="11">
+                    Alternative Dispute Resolution  
+            </option>
+            
+            <option value="12">
+                    Applicable Law and Venue  
+            </option>
+            
+            <option value="13">
+                    Unauthorized Activities  
+            </option>
+            
+            <option value="14">
+                    Indemnification  
+            </option>
+            
+            <option value="15">
+                    Electronic Communications  
+            </option>
+            
+            <option value="16">
+                    Entire Agreement  
+            </option>
+               
+      	</select>
+         <label class="hide" for="GENERATE-ID">Jump To a Section</label>
+          <strong>Sections</strong>
+        </nav>    
+      	
+         
+             <section id="TermsofUseRevisions_2" data-title="TermsofUseRevisions_2">
+             <h2>Terms of Use Revisions</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>Corteva Agriscience™ may revise these Terms at any time without notice by updating this posting.&nbsp;Your continued use of the Services after such modifications have been made will constitute your acceptance of such revised Terms.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="Privacy_1" data-title="Privacy_1">
+             <h2>Privacy</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>Corteva Agriscience™ is committed to protecting the privacy of personal information.&nbsp; To the extent that Corteva collects personal information about you through the Services, our use of that information is subject to Corteva’s Privacy Policy, which can be found at <a href="https://www.corteva.com/privacy.html" target="_blank" title="Privacy page">https://www.corteva.com/privacy.html</a>.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="GeneralUseRestrictions_3" data-title="GeneralUseRestrictions_3">
+             <h2>Supplemental and Third-Party Terms</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>Your use of the Services is also subject to any additional terms, conditions and policies that we separately post on the Services (“Supplemental Terms”), which are incorporated by reference into this Agreement.&nbsp; Some features and tools accessible through our Services are provided by third-party service providers pursuant to their own separate Terms of Service (“Third-Party Terms”) that differ from ours.&nbsp; Please review carefully the Third-Party Terms before using such features and tools.&nbsp; By using such third-party features and tools, you agree that your relationships with the third-party service providers are governed by the applicable Third-Party Terms.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="Availability_4" data-title="Availability_4">
+             <h2>Usernames, Passwords, and Accounts</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>When registering an account for the Services (&quot;<strong>Account</strong>&quot;), you agree to provide only true, accurate, current and complete information requested by the registration form (the &quot;<strong>Registration Data</strong>&quot;) and to promptly update the Registration Data if it changes or you become aware that it is inaccurate or incomplete. You represent that you are not barred from using the Services under any applicable law and that you will be responsible for all activities that occur under your Account. You agree to monitor your Account to restrict its use by minors and other unauthorized users and agree not to share your username or password with anyone. You further agree to notify Corteva Agriscience™ immediately of any unauthorized use of your password or any other breach of the security of your Account and to exit from your Account at the end of each session. You agree not to create an Account using a false identity or alias or if you previously have been banned from using any of the Services. You further agree that you will not maintain more than one Account for the same Corteva service at any given time. Corteva Agriscience™ reserves the right to remove or reclaim any usernames at any time and for any reason. You acknowledge and agree that you have no ownership or other property interest in your Account and that all rights in and to your Account are owned by and inure to the benefit of&nbsp;Corteva Agriscience™.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="Links_5" data-title="Links_5">
+             <h2>Ownership of and License to Use Corteva Agriscience™ Properties</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>Corteva Agriscience™ or third parties granting rights to Corteva Agriscience™ hold all right, title, and interest in and to the materials on this Site, which are the copyrighted work of Corteva Agriscience™ or such third parties.&nbsp; Corteva Agriscience™ grants you a limited, personal, non-exclusive and non-transferable license to use and display the materials on this Site only on your personal computer or mobile device, and only for purposes of your interaction with this Site. Except as stated herein, you have no right to copy, download, display, perform, reproduce, distribute, modify, edit, alter, or enhance any of the materials on this Site in any manner. This limited license terminates automatically, without notice to you, if you breach any of these Terms. Upon termination, you must immediately delete and destroy any downloaded and printed materials. You have no right, title, or interest (and no copyright, trademark, or other intellectual property right) in or to this Site or any materials on this Site.</p>
+<p>The foregoing limitation does not apply to Material Safety Data Sheets (MSDS) or to product labels which may be furnished on the Site and are intended for reproduction and use.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="DisclaimerofWarranties_6" data-title="DisclaimerofWarranties_6">
+             <h2>Restrictions on Use</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>The rights granted to you in these Terms are subject to the following restrictions: (a) you shall not license, sell, rent, lease, transfer, assign, reproduce, distribute, host or otherwise commercially exploit the Services or any portion of the Services; (b) you shall not frame or use framing techniques to enclose any trademark, logo or Services (including images, text, page layout or form) of Corteva; (c) you shall not use any metatags or other &quot;hidden text&quot; using Corteva's name or trademarks; (d) you shall not modify, translate, adapt, merge, make derivative works of, disassemble, decompile, reverse compile or reverse engineer any part of the Services except to the extent the foregoing restrictions are expressly prohibited by applicable law; (e) you shall not use any manual or automated software, devices or other processes (including but not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools or the like) to &quot;scrape&quot; or download data from the Services (except that we grant the operators of public search engines revocable permission to use spiders to copy materials from the Site for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials); (f) you shall not access the Services to build a similar or competitive website, application or service; (g) except as expressly stated herein, no part of the Services may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means; (h) you shall not remove or destroy any copyright notices or other proprietary markings contained on or in the Services; (i) you shall not interfere with or attempt to interfere with the proper functioning of the Services or use the Services in any way not expressly permitted by these Terms; and (j) you shall not attempt to harm our Services, including but not limited to, by violating or attempting to violate any related security features, introducing viruses, worms, or similar harmful code into the Services, or interfering or attempting to interfere with use of the Services by any other user, host or network, including by means of overloading, &quot;flooding,&quot; &quot;spamming,&quot; &quot;mail bombing,&quot; or &quot;crashing&quot; the Services. Any unauthorized use of the Services terminates the licenses granted by Corteva pursuant to this Agreement.</p>
+<p>Corteva Agriscience™ does not routinely monitor your postings or other activity on the Site, but reserves the right so to do. If Corteva Agriscience™ becomes aware of inappropriate use of the Site or any of its Services, Corteva Agriscience™ will respond in any way that it, at its sole discretion, deems appropriate. You acknowledge that Corteva Agriscience™ has the right to report to law enforcement authorities any actions that may be considered illegal, as well as any reports it receives of such conduct. When requested, we will cooperate fully with law enforcement agencies in any investigation of alleged illegal activity on the Internet.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="InaccuraciesorErrors_7" data-title="InaccuraciesorErrors_7">
+             <h2>Availability of Services</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>Corteva Agriscience™ has several websites offering Services to specific regions worldwide. The Services offered in one region may differ from those in other regions due to availability, local or regional laws, regulatory status, shipment and other considerations. Corteva Agriscience™ does not make any warranty or representation that a user in one region may obtain the Services in another region, and Corteva Agriscience™ may cancel a user’s order or redirect a user to the Site for that user’s region if a user attempts to order Services offered on a Site in another region.</p>
+<p>Information that Corteva Agriscience™ publishes on the Sites may contain references or cross-references to products, programs and services that are not announced or available in your region. Such references do not imply that the company intends to announce such products, programs or services in your region. Consult your local Corteva Agriscience™ business contact for information regarding the products, programs and services that may be available to you.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="LocalLaws_ExportControl_8" data-title="LocalLaws_ExportControl_8">
+             <h2>Links</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>This Site may contain links to third-party services such as third-party websites, applications, or ads (“Third-Party Links”). When you click on such a link, we will not warn you that you have left the Site.&nbsp; Corteva Agriscience™ does not control and is not responsible for Third-Party Links.&nbsp; We provide these Third-Party Links only as a convenience and do not review, approve, monitor, endorse, warrant, or make any representations with respect to them, or any content, products or services accessible through such links.&nbsp; Your use of all Third-Party Links is at your own risk.</p>
+<p><em>From Third-Party Websites to Corteva</em></p>
+<p>If you link to one of the Sites, you must comply with all applicable laws.&nbsp; A site that links to a Corteva Site:</p>
+<ul style="list-style-position: inside;">
+<li>may not create frames or border environments around any page or materials on the Site or use other techniques that alter in any way the visual presentation or appearance of any content within the Site;</li>
+<li>may not create comparisons of Corteva Agriscience™ products or services with competitive products or services;</li>
+<li>may not replicate any materials from this website or any Corteva Agriscience™ logo or trademark;</li>
+<li>may not misrepresent a relationship with Corteva Agriscience™;</li>
+<li>may not imply that Corteva Agriscience™ approves or endorses the linking
+party, the linking party’s website, or the linking party’s service or product
+offerings in any way;</li>
+<li>may not present false or misleading impressions about Corteva
+Agriscience™ or otherwise damage the goodwill associated with the Corteva
+Agriscience™ name and trademarks;<br>
+</li>
+<li>may not contain content that could be construed as abusive, threatening,
+harassing, profane or offensive, excessively violent, or which violates or
+encourages others to violate any applicable law; and<br>
+</li>
+<li>may not contain content that could be construed as obscene,
+pornographic, or sexually explicit.<br>
+</li>
+</ul>
+<p>Corteva Agriscience™ may at any time, at its sole discretion, terminate
+permission to link to its Sites. In such event, the linking party agrees to
+immediately remove all links to the Sites.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="Trademarks_9" data-title="Trademarks_9">
+             <h2>Disclaimer of Warranties and Limitation of Liability</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>Your use of this Site is at your own risk. This Site may include inaccuracies or errors that may affect the quality of the materials on the Site.&nbsp;The materials have not been independently verified or authenticated in whole or in part by Corteva Agriscience™.&nbsp; Corteva Agriscience™ does not warrant the accuracy or timeliness of the materials.&nbsp; Corteva Agriscience™ has no liability for any errors or omissions in the materials, whether provided by Corteva Agriscience™ or third parties.</p>
+<p>THIS SITE IS PROVIDED TO YOU ON AN “AS IS” AND “WHERE-IS” BASIS, WITHOUT ANY WARRANTY OF ANY KIND. CORTEVA AGRISCIENCE™, FOR ITSELF AND ANY THIRD PARTY PROVIDING MATERIALS, SERVICES, OR CONTENT TO THIS WEBSITE, MAKES NO REPRESENTATIONS OR WARRANTIES IN CONNECTION WITH THE SITE, INCLUDING BUT NOT LIMITED TO THE QUALITY, SUITABILITY, TRUTH, ACCURACY OR COMPLETENESS OF ANY MATERIAL, INFORMATION, PRODUCT, OR SERVICE CONTAINED ON THE SITE. ALL CONDITIONS, REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF THIRD PARTY RIGHTS, ARE HEREBY DISCLAIMED. CORTEVA AGRISCIENCE™&nbsp; WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, ARISING FROM OR CONNECTED WITH THE SERVICES, INCLUDING (BUT NOT LIMITED TO) YOUR USE OF THIS SITE OR YOUR INABILITY TO USE THE SITE, EVEN IF CORTEVA AGRISCIENCE™&nbsp; HAS PREVIOUSLY BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+<p><em>Exception for EU citizens:</em>&nbsp;IF YOU ARE RESIDENT IN THE EUROPEAN UNION, CORTEVA AGRISCIENCE™ DOES NOT EXCLUDE OR LIMIT ITS LIABILITY FOR DEATH OR PERSONAL INJURY RESULTING FROM NEGLIGENCE.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="UnsolicitedIdeas_10" data-title="UnsolicitedIdeas_10">
+             <h2>Local Laws; Export Control</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>Corteva Agriscience™ controls and operates this Site from the United States of America. The materials and Services on this Site are subject in all respects to laws and regulations of the United States of America as shall from time to time govern the license and delivery of technology and products abroad, including the U.S. Export Control Regulations, and any successor legislation or regulations issued by the U.S. Department of Commerce, International Trade Administration, or Office of Export Licensing. Diversion of such materials contrary to United States law is prohibited. Neither the materials, nor any information acquired through the use of the Site, may be acquired for, shipped, transferred, or re-exported, directly or indirectly, to proscribed or embargoed countries or their nationals, nor may they be used for nuclear activities, chemical or biological weapons, or missile projects, unless specifically authorized by the United States Government for such purposes. You shall comply strictly with all United States export laws and assume sole responsibility for obtaining licenses to export or re-export as may be required.</p>
+<p>If you use this Site from outside the United States of America, you are also responsible for compliance with applicable local laws, including local export and import regulations.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="ProductandSiteComments_11" data-title="ProductandSiteComments_11">
+             <h2>Unsolicited Ideas and Feedback</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>To avoid misunderstandings or disputes that may occur when Corteva Agriscience’s products, services, technologies, promotions, marketing strategies or content might seem similar to ideas or suggestions provided to Corteva, we ask that you do not submit unsolicited ideas, works, materials, proposals, products or product enhancements, processes, marketing strategies, or product names (all of the foregoing hereinafter referred to as “submissions”) to Corteva Agriscience™.&nbsp; If you nevertheless choose to send us your submissions, the following terms will apply to such submissions:</p>
+<ul style="list-style-position: inside;">
+<li>Corteva Agriscience™ and its affiliates shall be under no obligation to keep the submission secret or receive it on a confidential basis;</li>
+<li>Corteva Agriscience™ and its affiliates shall be under no obligation to review the submission or respond to the submitter;<br>
+</li>
+<li>By making a submission, you assign to Corteva Agriscience™ all right, title and interest in the submission and all related intellectual property rights, without any compensation to you;<br>
+</li>
+<li>You warrant that you are authorized to make the submission and that the submission does not violate any obligation that you have to a present or former employer or to any other party.<br>
+</li>
+</ul>
+<p>Corteva Agriscience does, however, welcome your feedback about its existing products and business.&nbsp; Contact information can be found at <a><a title="Contact Us" href="https://www.corteva.com/contact-us.html" target="_blank">https://www.corteva.com/contact-us.html</a></a> or at the Contact Us link on the Site. Any comments you provide are non-confidential, and Corteva Agriscience™ may use them without restriction.<br>
+</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="ApplicableLaw_12" data-title="ApplicableLaw_12">
+             <h2>Alternative Dispute Resolution</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>In the event of a dispute, the parties agree to refrain from litigation as much as possible or reasonable, and to first seek and use alternative dispute resolution methods, such as mediation and arbitration, administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules.&nbsp; The place of arbitration shall be Wilmington, Delaware, and judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.&nbsp; Disputes concerning or related to the use of limited licenses associated with the use of the Services or concerning or related to the intellectual property rights of the Corteva Parties, as defined below, against users of the Services for failure to pay for Services, are not subject to this section.&nbsp; Except as otherwise provided for by state law, parties shall resort to the court system only upon failure of alternative dispute resolution methods after a reasonable time period.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="UnauthorizedActivities_13" data-title="UnauthorizedActivities_13">
+             <h2>Applicable Law and Venue</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>Except for any mandatory application of local law, any action related to these Terms shall be governed by the law of the State of Delaware, United States of America, without regard to the choice or conflicts of law provisions of any jurisdiction. You agree to submit to the jurisdiction of the courts located in the State of Delaware for the resolution of all disputes arising from or related to these Terms and/or your use of the Site.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="UnauthorizedActivities_14" data-title="UnauthorizedActivities_14">
+             <h2>Unauthorized Activities</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>Submissions to this Site or unauthorized use of any materials contained on this site may violate copyright laws, trademark laws, the laws of privacy and publicity, certain communications statutes and regulations, and other applicable laws and regulations. You alone are responsible for your actions or the actions of any person using your user name and/or password.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="Indemnification_15" data-title="Indemnification_15">
+             <h2>Indemnification</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>You agree to indemnify and hold Corteva Agriscience™, its corporate parents, subsidiaries, and affiliates, and the officers, directors, employees, agents, representatives, partners and licensors of each (collectively, the &quot;Corteva Parties&quot;) harmless from and against any and all losses, costs, damages, liabilities and expenses, including (without limitation) attorney’s fees and costs of defense, incurred in relation to, arising from, or for the purpose of avoiding, any claim or demand concerning: (a) your Content; (b) your misuse of the Services; (c) your breach of these Terms; or (d) violation of any applicable law or regulation, or the rights of any third party, through your use of the Site or the Services, or the use of the Site or the Services by any person using your user name and/or password (including without limitation your participating in the posting areas of your submissions).&nbsp; Corteva Agriscience™ reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you will fully cooperate with Corteva in asserting any available defenses. This provision does not require you to indemnify any of the Corteva Parties for any unconscionable commercial practice by such party or for such party's negligence, fraud, deception, false promise, misrepresentation or concealment, suppression or omission of any material fact. You agree that the provisions in this section will survive any termination of your Account, this Agreement or your access to the Services.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="ElectronicCommunications_16" data-title="ElectronicCommunications_16">
+             <h2>Electronic Communications</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>The communications between you and Corteva Agriscience™ use electronic means, whether you visit the Services or send Corteva e-mails, or whether Corteva posts notices on the Services or communicates with you via e-mail. For contractual purposes, you (1) consent to receive communications from Corteva Agriscience™ in an electronic form; and (2) agree that all terms and conditions, agreements, notices, disclosures, and other communications and documents that Corteva provides to you electronically will have the same legal effect that such communications or documents would have if they were set forth in &quot;writing.&quot;</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+             <section id="EntireAgreement_17" data-title="EntireAgreement_17">
+             <h2>Entire Agreement</h2>
+              
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+
+	<div class="band det16-rich-text-field ">
+  <div class="band-content">
+     <p>This Agreement is the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to such subject matter.</p>
+
+    </div>
+</div>
+</div>
+
+    
+</div>
+          	</section>
+          
+
+     </div>
+  </div>
+
+		
+		
+	
+  
+</div> 
+
+</div>
+<div class="aem-wrap--rich-text aem-GridColumn aem-GridColumn--default--12">
+
+
+</div>
+
+    
+</div></div>
+
+
+  
+
+
+  
+
+<div class="feature-flag" data-componentname="globalfooter" data-featureflagvalue="on">
+	
+		<footer class="band">
+			<div class="band-content">
+				
+					<div class="footer-col-left">	
+							<a class="logo" href="https://www.corteva.com">
+								<img class="lazyload" data-src="https://assets.corteva.com/is/image/Corteva/LG-corteva-logo-white-footer-Corteva-Global_Corporate-V2?$icon_desktop$" alt="corteva-logo-white-footer-New"/>
+							</a>
+					
+						<nav class="social">
+							<p>Connect with us:</p>
+								
+									<a href="https://www.facebook.com/Corteva/" class="Facebook" target="_blank" rel="noopener noreferrer"><img class="lazyload" data-src="https://assets.corteva.com/is/image/Corteva/ICN-Facebook-Negative?$icon_desktop$" alt="Facebook"/></a>
+								
+									<a href="https://twitter.com/corteva" class="Twitter" target="_blank" rel="noopener noreferrer"><img class="lazyload" data-src="https://assets.corteva.com/is/image/Corteva/ICN-Twitter_Negative?$icon_desktop$" alt="Twitter"/></a>
+								
+									<a href="https://www.instagram.com/corteva/" class="Instagram" target="_blank" rel="noopener noreferrer"><img class="lazyload" data-src="https://assets.corteva.com/is/image/Corteva/ICON-instagram-Negative?$icon_desktop$" alt="Instagram"/></a>
+								
+									<a href="https://www.linkedin.com/company/corteva" class="Linkedin" target="_blank" rel="noopener noreferrer"><img class="lazyload" data-src="https://assets.corteva.com/is/image/Corteva/ICN-LinkedIn-Negative?$icon_desktop$" alt="Linkedin"/></a>
+								
+									<a href="https://www.youtube.com/corteva" class="YouTube" target="_blank" rel="noopener noreferrer"><img class="lazyload" data-src="https://assets.corteva.com/is/image/Corteva/ICN-YouTube-Negative?$icon_desktop$" alt="YouTube"/></a>
+								
+						</nav>
+					
+				</div>
+				<div class="footer-col-right">
+					<div class="primary">
+						
+<div class="feature-flag" data-componentname="linkList" data-featureflagvalue="on">
+   
+      
+      
+         <nav class="without-seperator">
+            
+			   
+			   
+               
+                  <a data-analytics-type="globel-footer" href="/contact-us.html" title="Contact Corteva Agriscience" target="_self"> 
+                     Contact Corteva Agriscience
+                  </a>
+               
+               
+            
+			   
+			   
+               
+                  <a data-analytics-type="globel-footer" href="/resources/media-center.html" title="Media Center" target="_self"> 
+                     Media Center
+                  </a>
+               
+               
+            
+			   
+			   
+               
+               
+                  <a data-analytics-type="globel-footer" href="https://investors.corteva.com" title="Investors" target="_blank" rel="noopener noreferrer"> 
+                     Investors
+                  </a>
+               
+            
+			   
+			   
+               
+               
+                  <a data-analytics-type="globel-footer" href="https://careers.corteva.com" title="Careers" target="_blank" rel="noopener noreferrer"> 
+                     Careers
+                  </a>
+               
+            
+			   
+			   
+               
+                  <a data-analytics-type="globel-footer" href="/accessibility.html" title="Accessibility" target="_self"> 
+                     Accessibility
+                  </a>
+               
+               
+            
+			   
+			   
+               
+                  <a data-analytics-type="globel-footer" href="/sitemap.html" title="Sitemap" target="_self"> 
+                     Sitemap
+                  </a>
+               
+               
+            
+			   
+			   
+               
+                  <a data-analytics-type="globel-footer" href="/code-of-conduct.html" title="Ethics Hotline" target="_self"> 
+                     Ethics Hotline
+                  </a>
+               
+               
+            
+			   
+			   
+               
+                  <a data-analytics-type="globel-footer" href="https://www.supplier-center.corteva.com/" title="Supplier Center" target="_self"> 
+                     Supplier Center
+                  </a>
+               
+               
+            
+         </nav>
+      
+   
+</div>
+
+					</div>
+					<div class="secondary">
+						
+<div class="feature-flag" data-componentname="linkList" data-featureflagvalue="on">
+   
+      
+      
+         <nav class="without-seperator">
+            
+			   
+			   
+               
+                  <a data-analytics-type="globel-footer" href="/terms-and-conditions.html" title="Terms of Use" target="_self"> 
+                     Terms of Use
+                  </a>
+               
+               
+            
+			   
+			   
+               
+                  <a data-analytics-type="globel-footer" href="/privacy.html" title="Privacy Policy" target="_self"> 
+                     Privacy Policy
+                  </a>
+               
+               
+            
+			   
+			   
+               
+               
+                  <a data-analytics-type="globel-footer" href="https://investors.corteva.com/corporate-governance/board-of-directors" title="Corporate Governance" target="_blank" rel="noopener noreferrer"> 
+                     Corporate Governance
+                  </a>
+               
+            
+			   
+			   
+               
+                  <a data-analytics-type="globel-footer" href="/us-privacy-rights.html" title="US Privacy Notice" target="_self"> 
+                     US Privacy Notice
+                  </a>
+               
+               
+            
+         </nav>
+      
+   
+</div>
+
+					</div>
+					<div class="copyright"><p><a href="https://www.corteva.com/us-privacy-rights.html#NoticeatCollection_25" target="_blank" rel="noopener noreferrer"><strong>California Notice at Collection</strong></a>      <strong>|</strong>       <a href="https://www.corteva.com/privacy.html#region" target="_blank" rel="noopener noreferrer"><strong>Your Privacy Choices</strong> <img src="/content/dam/dpagco/corteva/global/corporate/images/footer/IMG-shadedb_your_privacy_choices_112x57-Global.jpg" alt="Your Privacy Choices" width="32" height="16"/></a></p>
+<p><sup><br />
+ </sup>™ ®<sup> </sup>Trademarks of Corteva Agriscience and its affiliated companies.<br />
+© #year Corteva.</p>
+</div>
+				</div>
+				
+			</div>
+		</footer>
+	
+</div>
+  
+
+
+
+    
+<script src="/etc.clientlibs/corteva/components/clientlib/toplib.lc-826e0f7cab5240658f163cbacd6263d2-lc.min.js"></script>
+<script src="/etc/designs/app/clientlibraries/verticalNavPage.lc-3b743709c9e449ef0ee8a411c83c072a-lc.min.js"></script>
+
+
+
+
+
+
+  
+<div class="feature-flag" data-componentname="jsFramework" data-featureflagvalue="on">
+</div>
+
+  
+  
+	  <a href="#top" class="back-to-top" title="back-to-top"></a>
+
+  
+  <div class="language" data-language="en"></div>
+  <div class="productSource" data-product-source-api="/bin/corteva/product/getProductDetails.json"></div>
+</body>
+    </html>
+
+
+
+

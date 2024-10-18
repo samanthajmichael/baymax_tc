@@ -1,0 +1,101 @@
+﻿
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+	<meta name="title" property="og:title" content="Limited Time Offer - Act Now and Save!"> <meta name="twitter:title" content="Limited Time Offer - Act Now and Save!">
+	<meta name="viewport" content="width=device-width, initial-scale=1"> <meta name="twitter:viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="noindex,nofollow"> <meta name="twitter:robots" content="noindex,nofollow">
+	<meta name="googlebot" content="noindex,nofollow"> <meta name="twitter:googlebot" content="noindex,nofollow">
+	<meta property="og:url" content="https://www.adp.com/terms/3-month-offer-terms.aspx"> <meta name="twitter:url" content="https://www.adp.com/terms/3-month-offer-terms.aspx">
+    <meta name="sc-language-en" content="https://www.adp.com/terms/3-month-offer-terms.aspx">
+    <script type="text/javascript" src="/ruxitagentjs_ICA7NVfghqrux_10293240704151944.js" data-dtconfig="rid=RID_1341631985|rpid=-123583087|domain=adp.com|reportUrl=https://bf11493kpk.bf.dynatrace.com/bf|app=e4f6cc6076001d54|cors=1|featureHash=ICA7NVfghqrux|rdnt=0|uxrgce=1|bp=3|cuc=gxpr07tv|mdl=mdcc2=20|mel=100000|dpvc=1|md=mdcc1=bdocument.referrer,mdcc2=bnavigator.userAgent,mdcc3=dutm_source,mdcc4=dutm_medium,mdcc5=dutm_campaign,mdcc6=dutm_term,mdcc7=dutm_content|ssv=4|lastModification=1727809776361|tp=500,50,0|agentUri=/ruxitagentjs_ICA7NVfghqrux_10293240704151944.js"></script><link rel="canonical" href="https://www.adp.com/terms/3-month-offer-terms.aspx">
+<script>dataLayer = [{ 'continent': 'NA', 'country': 'US', 'state': 'IA', 'zip': '51501-51503', 'city': 'COUNCILBLUFFS'}];</script>
+	<link rel="preload" href="/static/project/adp/fonts/TaubSans-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/static/project/adp/fonts/TaubSans-Medium.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/static/project/adp/fonts/TaubSans-Bold.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/static/project/adp/fonts/TaubSans-RegularItalic.woff2" as="font" type="font/woff2" crossorigin>
+
+<link rel="preload" href="/-/media/adp2022/main/css-main-base-mobile.css?rev=c7ae16327cb6436ebb79b524c46f2759" as="style" media="screen and (max-width: 767px)"> <!-- mobile -->
+<link rel="preload" href="/-/media/adp2022/main/css-main-base-desktop.css?rev=eb7e618f128944cc8bcdd359d66d89b5" as="style" media="screen and (min-width: 768px)"> <!-- desktop -->
+<link rel="stylesheet" media="screen and (max-width: 767px)" href="/-/media/adp2022/main/css-main-base-mobile.css?rev=c7ae16327cb6436ebb79b524c46f2759"> <!-- mobile -->
+<link rel="stylesheet" media="screen and (min-width: 768px)" href="/-/media/adp2022/main/css-main-base-desktop.css?rev=eb7e618f128944cc8bcdd359d66d89b5"> <!-- desktop -->
+<link rel="shortcut icon" href="/-/media/adp2018/ui/favicon.ico">
+
+<script defer src="/-/media/adp2022/js-vendor.js?rev=a10f9e9fb4a149cdb8d07f1bb9ce2744"></script><!-- RESKIN 2022 js-vendor refactor -->
+<script defer src="/-/media/adp2022/main/js-main-base-refactor.js?rev=9c0446a88bd74e21ab85d3b016ccffd0"></script><!-- RESKIN 2022 js-main-base refactor -->
+
+<link href="/-/media/adp2022/ui/touch-icons/ios_adplogo_120x120_en.png?rev=6fcc44dc722142afbf9e810ac0f38755" rel="apple-touch-icon" /> <!-- 120x120 -->
+<link href="/-/media/adp2022/ui/touch-icons/ios_adplogo_120x120_en.png?rev=6fcc44dc722142afbf9e810ac0f38755" rel="apple-touch-icon-precomposed" sizes="120x120"> <!-- 120x120 precomposed -->
+<link href="/-/media/adp2022/ui/touch-icons/ios_adplogo_152x152_en.png?rev=e7ea0600e9fd43babd322593ecaa7573" rel="apple-touch-icon" sizes="152x152" />
+<link href="/-/media/adp2022/ui/touch-icons/ios_adplogo_167x167_en.png?rev=62d05c060d954fd2afb86f9070562ac6" rel="apple-touch-icon" sizes="167x167" />
+<link href="/-/media/adp2022/ui/touch-icons/ios_adplogo_180x180_en.png?rev=30676d9224214b1792885f6c111e8330" rel="apple-touch-icon" sizes="180x180" />
+<link href="/-/media/adp2022/ui/touch-icons/android_adplogo_192x192_en.png?rev=5627d66726b34b0e8390b25f5b072d4c" rel="icon" sizes="192x192" />
+<link href="/-/media/adp2022/ui/touch-icons/android_adplogo_128x128_en.png?rev=662da0f9350e43138ca7ab72cac0c3ab" rel="icon" sizes="128x128" />
+
+<style type="text/css">
+@media (max-width: 869px) { 
+  button.cmp-revoke-consent { bottom: 55px !important; }
+}
+</style>  <style>
+@media (max-width: 869px) {
+  body.en button.cmp-revoke-consent { bottom: 0 !important; }
+}
+body.en button.cmp-revoke-consent { bottom: 0 !important; }
+html, body { height: 100%; }
+</style>
+	<!-- <script defer src="/-/media/adp/redesign2018/js/elqCfg.js"></script> -->
+
+<script type="text/javascript" src="//cdn.evgnet.com/beacon/adpinc/prod/scripts/evergage.min.js"></script>
+
+<!-- Google Tag Manager -->
+<!-- <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MMKNHG5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-MMKNHG5');</script>
+<!-- End Google Tag Manager -->  
+	
+    <title>Limited Time Offer - Act Now and Save!</title> 
+
+    
+    
+    
+    
+    
+</head>
+<body class="en " data-sitename="website">
+    
+
+<!-- BEGIN NOINDEX -->
+    
+<!-- END NOINDEX -->
+
+
+
+
+        <div class="p-15" id="ADP_f5248557ab824c5583525a1e665d6f5d" data-source-title="3 month offer TC" data-source-id="21243ba5-4671-4b29-9c40-c9765161d356" >
+<style>
+p { font-size: 14px; line-height: 18px; }
+</style>
+<p class="text-right size12"><a href="javascript:self.close();" style="color: #333; text-decoration:none;" onmouseover="style.color='#d0271d'" onmouseout="style.color='#333'">Close window &raquo;</a></p>
+
+
+<p><strong>Terms &amp; Conditions</strong></p>
+<h2>Three Free Months Offer*</h2>
+
+<p>*In order to receive three free months with RUN Powered by ADP®, company must complete and sign an ADP sales order by June 30, 2025 (must be submitted by this date), start processing payroll by July 6, 2025 and continue processing for three consecutive months at the originally implemented bundle, payroll frequency, and discounting level. Eligible companies must have 1-99 employees, unless otherwise stated and use Direct Debit of Fees. Three months free payroll will be applied to client's invoice for clients in good standing after the first three months of processing. This offer cannot be combined with any other promotions and is only available to new ADP Clients using RUN Powered by ADP in the Continental U.S. This promotion applies to all features of standard payroll processing invoiced on your regular processing cycle and does not include additional non-payroll services; excludes pass through costs, courier and other delivery fees, including off cycle fees, hardware, or penalty and interest fees.</p>
+
+<p>This offer shall not apply for sales orders signed after June 30, 2025 and may not be combined with any other offers. If failure to begin processing by July 6, 2025 is due exclusively to Client delay in implementation of the payroll processing services, then ADP reserves the right to terminate this promotion. Other exclusions may apply. Quote based on information provided by you and may vary if frequency, employee size, services or other features change.</p>
+
+<p>ADP, the ADP logo and RUN Powered by ADP are registered trademarks of ADP, Inc. and/or its affiliates.  Copyright &copy; <script type="text/javascript">var d = new Date(); document.write(d.getFullYear());</script> ADP, Inc. ALL RIGHTS RESERVED.</p>        </div>
+
+
+
+<script src="/-/media/adp2022/js-jquery-3-6-0-min.js?rev=ada88ea5c95f4d9ea32b30f7f59fa493"></script><!-- jQuery 3.6.0 min -->
+  
+
+
+</body>
+</html>

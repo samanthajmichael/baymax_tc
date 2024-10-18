@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+
+<html lang="en" ng-app="cfi" >
+<head>
+    <meta name="viewport" content="width=device-width"  />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Google Tag Manager -->
+    <script >
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-54N642K');
+
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <meta name="description" />
+<meta name="keywords"/>
+<meta http-equiv="last-modified" content="2016-01-21@14:36:53"/>
+<meta name="robots">
+<meta property="og:title" content="Terms and Conditions"/>
+<meta property="og:url" content="https://www.cfindustries.com/terms-and-conditions" />
+<link rel="canonical" href="https://www.cfindustries.com/terms-and-conditions" />
+<title>Terms and Conditions | CF Industries</title>
+            <link rel="icon" type="image/png" sizes="192x192" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="114x114" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/apple-icon-114x114.png">
+        <link rel="icon" type="image/png" sizes="120x120" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/apple-icon-120x120.png">
+        <link rel="icon" type="image/png" sizes="144x144" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/apple-icon-144x144.png">
+        <link rel="icon" type="image/png" sizes="152x152" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/apple-icon-152x152.png">
+        <link rel="icon" type="image/png" sizes="180x180" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="57x57" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/apple-icon-57x57.png">
+        <link rel="icon" type="image/png" sizes="60x60" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/apple-icon-60x60.png">
+        <link rel="icon" type="image/png" sizes="72x72" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/apple-icon-72x72.png">
+        <link rel="icon" type="image/png" sizes="76x76" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/apple-icon-76x76.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/favicon-16x16.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/globalassets/cf-industries/media/images/block-images/favicon-block-images/favicon-96x96.png">
+
+
+   
+
+    <!-- Fallback Google Font temporarily until we get embed code -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500&display=swap" rel="stylesheet">
+
+    <!-- Vendor styles for splide carousel -->
+    <link rel="stylesheet" type="text/css" href="/Static-Adage/src/splide-core.min.css" />
+    
+    <!-- inject:css -->
+    <link rel="stylesheet" href="/static/cfi/css/cfi-main.css">
+    <!-- endinject -->
+    
+
+    
+<script type="text/javascript">var appInsights=window.appInsights||function(config){function t(config){i[config]=function(){var t=arguments;i.queue.push(function(){i[config].apply(i,t)})}}var i={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",r,f;setTimeout(function(){var t=u.createElement(o);t.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(t)});try{i.cookie=u.cookie}catch(y){}for(i.queue=[],r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)t("track"+r.pop());return t("set"+s),t("clear"+s),t(h+a),t(c+a),t(h+v),t(c+v),t("flush"),config.disableExceptionTracking||(r="onerror",t("_"+r),f=e[r],e[r]=function(config,t,u,e,o){var s=f&&f(config,t,u,e,o);return s!==!0&&i["_"+r](config,t,u,e,o),s}),i}({instrumentationKey:"4552f10e-f479-4006-917e-0c58502e8011",sdkExtension:"a"});window.appInsights=appInsights;appInsights.queue&&appInsights.queue.length===0&&appInsights.trackPageView();</script></head>
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-54N642K"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div class="nav-overlay"></div>
+
+    <div ng-controller="searchOverlay">
+        <div ng-cloak class="search-overlay ng-hide" ng-show="searchOverlayVisible">
+    <div class="search-overlay-content">
+        <div class="container">
+            <span class="search-overlay-toggle" ng-click="searchOverlayVisible = !searchOverlayVisible"></span> 
+            <!-- 3/8/2021 this overlay is no longer in use via new design. Keeping file for reference. -->
+
+<div class="search-box" ng-controller="searchBox" ng-init="init('/search')" ng-class="searchBoxError ? 'has-error' : ''">
+    <div class="search-error-box ng-hide" ng-show="searchBoxError">
+        Please enter a query to search
+    </div>
+    <div class="input-holder">
+        <input type="text" placeholder="Search" value=""
+               ng-class="error ? 'has-error' : ''"
+               ng-model="searchInput"
+               ng-keypress="keyPressRedirect($event, searchInput)"
+               ng-focus="selectInput($event)" />
+        <button ng-click="clickRedirect(searchInput)"></button>
+    </div>
+</div>      
+        </div>
+    </div>
+</div>
+ 
+        <div class="site-header-block-container">
+    <header class="site-header-block">
+
+        <div class="mobile-header container">
+    <div class="row">
+        <div class="mobile-nav-toggle-container">
+            <button type="button" class="mobile-nav-toggle" aria-label="Open navigation">
+                <span>
+                    <i></i>
+                    <i></i>
+                    <i></i>
+                </span>
+            </button>
+        </div>
+        <div class="mobile-logo">
+            <div class="site-logo">
+    <div class="flex-v-align">
+        <a href="/" aria-label="Home"><img alt="CF Logo" src="/globalassets/cf-industries/media/images/block-images/site-header-block-logos/cfi_logo_tm_rgb_color_pos.svg"/></a>
+    </div>
+</div> 
+        </div>
+    </div>
+</div>
+
+
+        <div class="navigation">
+            <div class="mobile-top-bar">
+                <button type="button" aria-label="Close navigation" class="mobile-nav-toggle close"></button>
+            </div>
+            <div class="bottom-bar">
+                <div class="container">
+                    <div class="row">
+                        <div class="site-logo">
+    <div class="flex-v-align">
+        <a href="/" aria-label="Home"><img alt="CF Logo" src="/globalassets/cf-industries/media/images/block-images/site-header-block-logos/cfi_logo_tm_rgb_color_pos.svg"/></a>
+    </div>
+</div> 
+                        <div class="main-navigation navigation-with-children">
+                            <ul>
+                                    <li>
+        <div class="has-children">
+
+        <a href="/who-we-are" class="mobile-toggle" target="_self">
+            About Us
+        </a>
+
+    <div class="nav-items">
+        <a href="/who-we-are" class="page-link" target="_self">
+            Who We Are
+        </a>
+            <ul>
+                    <li>
+                        <a href="/who-we-are/our-strategy" target="_self" aria-label="Our Strategy">
+                            Our Strategy
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/who-we-are/clean-energy-initiatives" target="_self" aria-label="Clean Energy Initiatives">
+                            Clean Energy Initiatives
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/who-we-are/decarbonization-roadmap" target="_self" aria-label="Decarbonization Roadmap">
+                            Decarbonization Roadmap
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/who-we-are/safety-excellence" target="_self" aria-label="Safety Excellence">
+                            Safety Excellence
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/who-we-are/operations-overview" target="_self" aria-label="Operations Overview">
+                            Operations Overview
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/who-we-are/senior-leadership" target="_self" aria-label="Senior Leadership">
+                            Senior Leadership
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/who-we-are/cf-fertilisers-uk" target="_self" aria-label="CF Fertilisers UK">
+                            CF Fertilisers UK
+                        </a>
+                    </li>
+            </ul>
+    </div>
+
+</div>
+    </li>
+    <li>
+        <div class="has-children">
+
+        <a href="/what-we-do" class="mobile-toggle" target="_self">
+            What We Do
+        </a>
+
+    <div class="nav-items">
+        <a href="/what-we-do" class="page-link" target="_self">
+            What We Do
+        </a>
+            <ul>
+                    <li>
+                        <a href="/what-we-do/ammonia-production" target="_self">
+                            Ammonia Production
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/what-we-do/clean-energy" target="_self">
+                            Clean Energy
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/what-we-do/fertilizer" target="_self">
+                            Fertilizer
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/what-we-do/emissions-control" target="_self">
+                            Emissions Control
+                        </a>
+                    </li>
+            </ul>
+    </div>
+
+</div>
+    </li>
+    <li>
+        <div class="has-children">
+
+        <a href="/sustainability" class="mobile-toggle" target="_self">
+            Sustainability
+        </a>
+
+    <div class="nav-items">
+        <a href="/sustainability" class="page-link" target="_self">
+            Sustainability
+        </a>
+            <ul>
+                    <li>
+                        <a href="/sustainability/environment" target="_self">
+                            Environment
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/sustainability/safety" target="_self">
+                            Safety
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/sustainability/workforce" target="_self">
+                            Workforce
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/sustainability/community" target="_self">
+                            Community
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/sustainability/governance" target="_self">
+                            Governance
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/sustainability/downloads" target="_self">
+                            Downloads
+                        </a>
+                    </li>
+            </ul>
+    </div>
+
+</div>
+    </li>
+    <li>
+        <div class="no-children">
+
+
+    <div class="nav-items">
+        <a href="/newsroom" class="page-link" target="_self">
+            Newsroom
+        </a>
+    </div>
+
+</div>
+    </li>
+    <li>
+        <div class="no-children">
+
+
+    <div class="nav-items">
+        <a href="/foundation" class="page-link" target="_self">
+            Foundation
+        </a>
+    </div>
+
+</div>
+    </li>
+
+
+                                    <li>
+        <div class="has-children">
+
+        <a href="https://cfindustries.q4ir.com/corporate-profile/default.aspx" class="mobile-toggle" target="_blank">
+            Investors
+        </a>
+
+    <div class="nav-items">
+        <a href="https://cfindustries.q4ir.com/corporate-profile/default.aspx" class="page-link" target="_blank">
+            Investors
+        </a>
+            <ul>
+                    <li>
+                        <a href="https://cfindustries.q4ir.com/corporate-profile/default.aspx" target="_blank">
+                            Corporate Information
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://cfindustries.q4ir.com/sec-filings/documents/default.aspx" target="_blank">
+                            SEC Filings
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://cfindustries.q4ir.com/news-market-information/press-releases/default.aspx" target="_blank">
+                            News &amp; Market Information
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://cfindustries.q4ir.com/event-calendar/default.aspx" target="_blank">
+                            Event Calendar
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://cfindustries.q4ir.com/terra-nitrogen-company/default.aspx" target="_blank">
+                            Terra Nitrogen Company, L.P. Update
+                        </a>
+                    </li>
+            </ul>
+    </div>
+
+</div>
+    </li>
+    <li>
+        <div class="has-children">
+
+        <a href="https://careers.cfindustries.com/" class="mobile-toggle" target="_blank">
+            Careers
+        </a>
+
+    <div class="nav-items">
+        <a href="https://careers.cfindustries.com/" class="page-link" target="_blank">
+            Careers
+        </a>
+            <ul>
+                    <li>
+                        <a href="https://careers.cfindustries.com/about-us" target="_self">
+                            About Us
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://careers.cfindustries.com/why-cf-industries" target="_self">
+                            Why CF Industries
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://careers.cfindustries.com/business-areas" target="_self">
+                            Business Areas
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://careers.cfindustries.com/locations" target="_self">
+                            Locations
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://careers.cfindustries.com/search-jobs" target="_self">
+                            Search Jobs
+                        </a>
+                    </li>
+            </ul>
+    </div>
+
+</div>
+    </li>
+
+                            </ul>
+                        </div>
+                        <div class="site-search">
+    <div class="site-search-inner" ng-controller="searchBox">
+        <input type="text" class="site-search-input"
+               placeholder="Search"
+               ng-class="error ? 'has-error' : ''"
+               ng-model="searchInput"
+               ng-keypress="keyPressRedirect($event, searchInput)"
+               ng-focus="selectInput($event)" />
+        <button type="button" class="icon-wrapper search-button" ng-click="clickRedirect(searchInput)" aria-label="Search">
+            <span class="search-button-icon"></span>
+        </button>
+    </div>
+</div>
+                    </div>
+                </div>
+                <div class="top-bar">
+                    <div class="container">
+                        <div class="universal-navigation">
+    <ul>
+            <li><a href="/products" target="_self" aria-label="Products">Products</a></li>
+            <li><a href="/products/safety-data-sheets" target="_self" aria-label="Safety Data Sheets">Safety Data Sheets</a></li>
+            <li><a href="/reports" target="_self" aria-label="Reports">Reports</a></li>
+            <li><a href="/policies" target="_self" aria-label="Policies">Policies</a></li>
+            <li><a href="/whoweare/locations" target="_self" aria-label="Locations">Locations</a></li>
+            <li><a href="/contact" target="_self" aria-label="Contact">Contact</a></li>
+
+        
+
+    </ul>
+</div> 
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </header>
+</div>
+    </div>
+
+    <div class="page-content">
+        
+
+<div class="general-inner-page">
+
+        <div class="general-page-hero">
+        <div class="background"></div>
+        <div class="container">
+            <h1>
+                Terms and Conditions
+            </h1>
+        </div>
+    </div>
+
+
+    
+<div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3></h3><!-- title -->
+                <p><p>Welcome to the CF Industries website.</p>
+<p>By using this website you agree to be bound by these Terms and Conditions and all applicable laws, as well as our <a href="/link/55b9484012fe45d19cb9805cbcb42f6c.aspx">Privacy Policy</a>.</p></p>
+            </div>
+        </div>
+    </div>
+</div> <div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3>Intellectual Property Rights</h3><!-- title -->
+                <p><p>Unless otherwise stated, the contents of this website, including but not limited to the text and images contained herein, are the property of CF Industries Holdings, Inc. and/or its CF Industries subsidiary (“CF”). No reproduction, modification, distribution, transmission, republication, display or performance of the content on this website is permitted without CF’s written permission.</p>
+<p>“CF Industries” and the CF logo are trademarks of CF Industries, Inc. These and all other trademarks, trade names, brand names, and service marks of CF (the “CF Marks”), whether registered or unregistered, are the property of CF and are protected by United States trademark laws and the trademark laws of other countries, including international treaties. The CF Marks may not be used in any manner not expressly authorized by CF. Any other trademarks used or referred to in this website are the property of their respective owners.</p>
+<p>Any unauthorized use of any materials contained on this website may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes.</p>
+<p>Nothing contained in this website shall be construed as conferring by implication, estoppel, or otherwise, any license or right to any copyright, patent, trademark or other proprietary interest of CF or any third party.</p></p>
+            </div>
+        </div>
+    </div>
+</div> <div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3>No Client Relationship</h3><!-- title -->
+                <p><p>The information provided on this website is free of charge and for informational purposes only and does not create a client, advisory, business, fiduciary or professional relationship between you and CF.&nbsp;</p></p>
+            </div>
+        </div>
+    </div>
+</div> <div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3>Disclaimer</h3><!-- title -->
+                <p><p>This website and its contents are provided “AS IS” and CF makes no representation or warranty of any kind with respect to this website, its content, or the products and services described herein. &nbsp;CF disclaims all express and implied warranties including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement. &nbsp;CF does not make any warranty or representation as to the accuracy, reliability, completeness, timeliness, or content of the material on this website. CF does not warrant that this website or the servers that make such materials available are free of viruses or other harmful components.</p>
+<p>Nothing contained on this website shall be construed as a recommendation to use any product, process, or equipment in conflict with any patent.</p>
+<p>CF may provide links to other sites that are not maintained by CF. CF does not monitor or endorse these sites nor does it make any representations or warranties with respect thereto. We also explicitly disclaim any responsibility for the accuracy, content, or availability of information found on sites that link to or from this website.</p>
+<p>CF affiliates, including CF Fertilisers UK, may maintain websites. Any such websites are independent of this website, and are governed by separate policies. We encourage you to review such policies in connection with your use of those websites.&nbsp;</p></p>
+            </div>
+        </div>
+    </div>
+</div> <div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3>Limitation of Liability</h3><!-- title -->
+                <p><p>In no event will CF or any of its partners, parent companies, directors, officers, or employees, or any of its third party suppliers, be liable to any party for any direct, indirect, incidental, special, exemplary, consequential, punitive, or other damages (including, but not limited to, lost profits, business interruption, loss of programs or data) even if we or any other party have been advised on the possibility thereof, without regard to the form of action and whether in contract, tort, negligence, strict liability, or otherwise, arising out of or in connection with this website, the delay or inability to use this website, any content on or accessed through this website (including any website service linked to by this website), or any copying, displaying, or use thereof. If you are dissatisfied with any portion of this website or with any of these Terms and Conditions, your sole and exclusive remedy is to discontinue using this website.</p></p>
+            </div>
+        </div>
+    </div>
+</div> <div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3>Communications with CF</h3><!-- title -->
+                <p><p>If you voluntarily email CF, you grant CF a perpetual, worldwide, irrevocable, non-exclusive, royalty-free license to use, copy, modify, distribute, and otherwise exploit any and all information in such unsolicited communication.&nbsp; You waive all rights to any claim against CF for any alleged or actual infringement of any proprietary or attribution rights in connection with such unsolicited communication.</p>
+<p>Any information submitted by you shall be deemed non-confidential and non-proprietary. You represent that you have the lawful right to provide such information and agree that you will not provide any information unless you are legally entitled to do so.&nbsp;</p></p>
+            </div>
+        </div>
+    </div>
+</div> <div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3>Unlawful and Prohibited Use</h3><!-- title -->
+                <p><p>You agree that you will not use this website for any purpose that is unlawful or prohibited by these Terms and Conditions, or to obtain or attempt to obtain any materials or information through any means not intentionally made available by CF. If you email or otherwise contact CF, you agree that your communications will not:</p>
+<ul>
+<li>Contain any inappropriate, defamatory, or unlawful content;</li>
+<li>Include material protected by intellectual property laws unless you have the right to do so;</li>
+<li>Contain files that contain viruses or any other similar software or programs that may damage the operation of another’s computer or property of another.</li>
+</ul></p>
+            </div>
+        </div>
+    </div>
+</div> <div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3>Terms and Conditions Updates</h3><!-- title -->
+                <p><p>CF may, from time to time, make changes to this Privacy Policy. We encourage you to reread this Privacy Policy periodically to learn of any updates and changes we have made to this Policy.&nbsp;</p></p>
+            </div>
+        </div>
+    </div>
+</div> <div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3>General</h3><!-- title -->
+                <p><p>You agree that any dispute, controversy or claim arising out of or relating in any way to your use of this website shall be exclusively resolved by binding arbitration. You further agree that these Terms and Conditions and any legal action or proceeding relating to this website shall be governed by the laws of the State of Illinois without reference to its choice of law rules.&nbsp;</p>
+<p>The failure of CF to exercise or enforce any right or provision of these Terms and Conditions does not constitute a waiver of such right or provision. If any provision of these Terms and Conditions is found to be invalid, then that provision shall be deemed severable from these Terms and Conditions and shall not affect the validity and enforceability of any remaining provisions. Regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of this website or these Terms and Conditions must be filed within one (1) year after such claim or cause of action arose or be forever barred. The section titles in these Terms and Conditions are for convenience only and have no legal or contractual effect.</p></p>
+            </div>
+        </div>
+    </div>
+</div> <div class="text-block">
+    <div class="container">
+        <div class="row">
+
+            <div class="text-content cf-content">
+                <h3>Contact Us</h3><!-- title -->
+                <p><p>If you have any questions regarding the use of this website or its material please contact CF as indicated in the “Contacts” section of this website.</p></p>
+            </div>
+        </div>
+    </div>
+</div> 
+    <br</>
+</div>
+    </div>
+
+    <div class="back-to-top">
+    <div class="back-to-top-inner"></div>
+</div>
+
+    <footer class="site-footer-block">
+    <div class="container">
+        <div class="logo-social">
+            <div class="row">
+                <div class="left">
+                    <img src="/globalassets/cf-industries/media/images/block-images/site-header-block-logos/cfi_logo_tm_rgb_color_pos.svg" alt="CF Industries Holdings, Inc."/>
+                </div>
+                <div class="social-icons right">
+                    <div class="footer-social-links">
+    <ul>
+            <li>
+                <a href="https://twitter.com/cfindustries" class="fa fa-twitter" aria-label="Twitter" target="_blank"></a>
+            </li>
+            <li>
+                <a href="http://www.facebook.com/cfindustries" class="fa fa-facebook-official" aria-label="Facebook" target="_blank"></a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/company/cf-industries" class="fa fa-linkedin-square" aria-label="LinkedIn" target="_blank"></a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/channel/UCVjLbOkaq0kjAerKgGbb7ag" class="fa fa-youtube" aria-label="YouTube" target="_blank"></a>
+            </li>
+    </ul>
+</div> 
+                </div>
+            </div>
+        </div>
+        <div class="copyright row">
+            <div class="left">
+                Copyright 2024 CF Industries Holdings, Inc.
+            </div>
+            <div class="right">
+                <div class="footer-legal-links">
+    <ul>
+            <li>
+                <a href="/privacy-policy" aria-label="Privacy Policy">
+                    Privacy Policy
+                </a>
+            </li>
+            <li>
+                <a href="/terms-and-conditions" aria-label="Terms and Conditions">
+                    Terms and Conditions
+                </a>
+            </li>
+        
+    </ul>
+</div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+    <script src="/Static/CFI/libs/jquery/jquery-3.7.1.min.js"></script>
+    <script src="/Static/CFI/libs/angular/angular.min.js"></script>
+    <script src="/Static/CFI/libs/angular/angular-animate.min.js"></script>
+    <script src="/Static/CFI/libs/angular/angular-sanitize.min.js"></script>
+    <script src="/Static/CFI/libs/bootstrap/javascripts/bootstrap.min.js"></script>
+    <script src="/Static/CFI/libs/slick-slider/slick.min.js"></script>
+
+    <!-- inject:js -->
+    <script src="/static/cfi/js/cfi-main.bundle.js"></script>
+    <!-- endinject -->
+    <script type="text/javascript" src="https://dl.episerver.net/13.5.9/epi-util/find.js"></script>
+<script type="text/javascript">
+if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
+</script>
+
+
+    <script src="/Static-Adage/dist/javascript/common-bundle.js"></script>
+    <script src="/Static-Adage/dist/javascript/shared-bundle.js"></script>
+    <script src="/Static-Adage/dist/javascript/carousel-bundle.js"></script>
+
+    
+    <script type="text/javascript">
+
+        _linkedin_partner_id = "5715754";
+
+        window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+
+        window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+
+    </script>
+    <script type="text/javascript">
+
+        (function (l) {
+
+            if (!l) {
+                window.lintrk = function (a, b) { window.lintrk.q.push([a, b]) };
+
+                window.lintrk.q = []
+            }
+
+            var s = document.getElementsByTagName("script")[0];
+
+            var b = document.createElement("script");
+
+            b.type = "text/javascript"; b.async = true;
+
+            b.src = https://snap.licdn.com/li.lms-analytics/insight.min.js;
+
+            s.parentNode.insertBefore(b, s);
+        })(window.lintrk);
+
+    </script>
+
+    <noscript>
+
+        <img height="1" width="1" style="display:none;" alt="" src=https://px.ads.linkedin.com/collect/?pid =5715754&fmt =gif />
+
+    </noscript>
+    
+</body>
+</html>
