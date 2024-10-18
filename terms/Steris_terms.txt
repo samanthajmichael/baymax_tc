@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script>
+        dataLayer = [];
+    </script>
+    <!-- OneTrust Cookies Consent Notice start for www.steris.com -->
+    <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="7b839934-1b68-4187-9a92-d4308294128b"></script>
+    <script type="text/javascript">
+        function OptanonWrapper() { }
+    </script>
+    <!-- OneTrust Cookies Consent Notice end for www.steris.com -->
+    <!--BEGIN QUALTRICS WEBSITE FEEDBACK SNIPPET -->
+    <script type='text/javascript'>
+        (function () {
+            var g = function (e, h, f, g) {
+                this.get = function (a) { for (var a = a + "=", c = document.cookie.split(";"), b = 0, e = c.length; b < e; b++) { for (var d = c[b]; " " == d.charAt(0);)d = d.substring(1, d.length); if (0 == d.indexOf(a)) return d.substring(a.length, d.length) } return null };
+                this.set = function (a, c) { var b = "", b = new Date; b.setTime(b.getTime() + 6048E5); b = "; expires=" + b.toGMTString(); document.cookie = a + "=" + c + b + "; path=/; " };
+                this.check = function () { var a = this.get(f); if (a) a = a.split(":"); else if (100 != e) "v" == h && (e = Math.random() >= e / 100 ? 0 : 100), a = [h, e, 0], this.set(f, a.join(":")); else return !0; var c = a[1]; if (100 == c) return !0; switch (a[0]) { case "v": return !1; case "r": return c = a[2] % Math.floor(100 / c), a[2]++, this.set(f, a.join(":")), !c }return !0 };
+                this.go = function () { if (this.check()) { var a = document.createElement("script"); a.type = "text/javascript"; a.src = g; document.body && document.body.appendChild(a) } };
+                this.start = function () { var t = this; "complete" !== document.readyState ? window.addEventListener ? window.addEventListener("load", function () { t.go() }, !1) : window.attachEvent && window.attachEvent("onload", function () { t.go() }) : t.go() };
+            };
+            try { (new g(100, "r", "QSI_S_ZN_2mE3eBrjhEDY3Vc", "https://zn2me3ebrjhedy3vc-ims.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_2mE3eBrjhEDY3Vc")).start() } catch (i) { }
+        })();
+    </script>
+    <div id='ZN_2mE3eBrjhEDY3Vc'><!--DO NOT REMOVE-CONTENTS PLACED HERE-->
+    </div>
+    <!--END WEBSITE FEEDBACK SNIPPET-->
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/43700821.js"></script>
+    <!-- End of HubSpot Embed Code -->
+    <script>
+        (function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })
+            (window, document, 'script', 'dataLayer', 'GTM-PFJG8X');
+    </script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+
+
+
+    <title>Terms of Sale | STERIS</title>
+
+    <meta name="description" content="This page provides details of STERIS Terms of Sale. Learn more here." />
+    <link rel="canonical" href="https://www.steris.com/about/terms_sale" />
+
+
+
+
+    <title>Terms of Sale | STERIS</title>
+
+    <meta name="description" content="This page provides details of STERIS Terms of Sale. Learn more here." />
+    <link rel="canonical" href="https://www.steris.com/about/terms_sale" />
+
+
+        
+
+
+
+
+
+
+    <link rel="shortcut icon" href="/favicon.ico">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- build:css styles/vendor.css -->
+    <!-- bower:css -->
+    <!-- endbower -->
+    <!-- endbuild -->
+
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <!-- build:css styles/main.css -->
+    <link href="/styles/main.css" rel="stylesheet" />
+    <!-- endbuild -->
+    <link href="/styles/all.min.css" rel="stylesheet" />
+
+        
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700" rel="stylesheet">
+	<link rel="stylesheet" href="https://unpkg.com/flickity@2.2.1/dist/flickity.min.css" integrity="sha384-YUf2GTc+8SEfw9NTIrQvlptcV/7jkO53QXZKUqJ3sp3QVKUbMAdb8txjxf8BjgFX" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha384-NXgwF8Kv9SSAr+jemKKcbvQsz+teULH/a5UNJvZc6kP47hZgl62M1vGnw6gHQhb1" crossorigin="anonymous"></script>
+    <script src="/scripts/jquery.cookie.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <script src="/scripts/hotspot.js"></script>
+
+
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" integrity="sha384-p8hrLdCuwU96YzWVlo0bxczkuDGwoLDfVDXgvu7uhCZMsWz4kvW6YHPMcdCKT8Ng" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" integrity="sha384-ZwVa1S/NX6dEzJaHv2OILVrnj7ERqTH6pd/ubsDTHTrgAEz2kUufO/KLo6frtnOB" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="/Assets/CorporateWeb/css/index-generated.css">
+
+
+    <style>
+        .btnDisabled {
+            display: inline-block;
+            font-family: 'Open Sans', sans-serif;
+            text-transform: uppercase;
+            color: #ffffff;
+            font-size: 14px;
+            background: #cccccc !important;
+            padding: 9px;
+            text-decoration: none;
+            text-align: center;
+            cursor: not-allowed;
+            border: none;
+        }
+    </style>
+
+</head>
+
+
+
+<body>
+<!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+  <![endif]-->
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PFJG8X" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<!-- Site header placeholder -->
+<div class="header">
+    <div class="container">
+        <div class="tab-bar pt-3 pb-3">
+            <img src="/-/media/images/header-images/sterislogo.png"
+                alt="STERIS Corporation - Helping to provide a healthier today and a safer tomorrow.">
+            <div class="header-search-icon">
+                <i class="far fa-search"></i>
+            </div>
+            <div class="header-hamburg-icon">
+                <i class="fal fa-bars"></i>
+            </div>
+            <div class="mobile-search-field">
+                <div class="mobile-search-field-container">
+                    <i class="fal fa-times mobile-search-close"></i>
+                    <input type="text" placeholder="search" class="addsearch form-control js-focus-target" />
+                </div>
+            </div>
+        </div>
+        <div class="header-top pt-3 pb-3">
+            <a href="/">
+                <img src='/-/media/images/header-images/sterislogo.png'
+                    alt="STERIS Corporation - Helping to provide a healthier today and a safer tomorrow.">
+            </a>
+            <div class="header-desktop-search__large">
+                <div class="input-group">
+                    <input type="text" style="width:580px;" class="addsearch form-control js-focus-target"
+                        data-addsearch-field="true" placeholder="Search...">
+                    <div class="input-group-append">
+                        <span class="btn input-group-text" style="cursor:default;"><i class="far fa-search"></i></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="neighbors" onfocus="$('#shopCountries').show();" onmouseover="$('#shopCountries').show();"
+                onmouseout="$('#shopCountries').hide();" onblur="$('#shopCountries').hide();">
+                <p style="margin-bottom:0px;">Shop STERIS Online Account <img src="/images/Icons/cart.png"
+                        alt="Shopping Cart" /></p>
+                <div id="shopCountries"
+                    style="display:none;width:238px;border:solid thin #cccccc;padding:10px;margin-top:5px;position:absolute;top:60px;right:auto;z-index:500;background-color:white;">
+                    <p><img src="/images/Icons/flag-usa.png" alt="United States" /> <a
+                            href="https://shop.steris.com/en/us">UNITED STATES</a></p>
+                    <p><img src="/images/Icons/flag-canada.png" alt="Canada" /> <a
+                            href="https://shop.steris.com/en/ca">CANADA</a></p>
+                    <p><img src="/images/Icons/flag-uk.png" alt="United Kingdom" /> <a
+                            href="https://shop.steris.com/en/gb">UNITED KINGDOM</a></p>
+                    <p><img src="/images/Icons/flag-ireland.png" alt="Ireland" /> <a
+                            href="https://shop.steris.com/en/ie">IRELAND</a></p>
+                    <p><img src="/images/Icons/info-icon.png" alt="Learn how to order from STERIS online" /> <a
+                            href="https://shop.steris.com/en/us/how-to-order-online?utm_source=healthcare&utm_medium=global-header&utm_campaign=how-to-order-online-page-promo">HOW
+                            TO ORDER ONLINE</a></p>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="header-bottom">
+            <div window-size my-directive ng-app="app" ng-controller="mainController as mainCtrl">
+
+
+<div class="primary-nav header-nav">
+    <ul>
+            <li class="primary-nav-item">
+                <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                <a href="/" class="primary-nav-link">Home</a>
+            </li>
+ <!-- Closing top menu item li -->
+            <li class="primary-nav-item has-children lvl-1 is-mega">
+                <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                <a href="/products-and-services" class="primary-nav-link">Products and Services</a>
+                    <ul>
+                                    <li class="primary-nav-item has-children lvl-2 has-3-cols">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                                <span class="primary-nav-link">Hospitals &amp; Surgery Centers</span>
+                                            <ul>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/surgical" class="primary-nav-link">Operating Room Equipment &amp; Solutions</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/sterile-processing" class="primary-nav-link">Sterilization Solutions &amp; Sterile Processing Equipment</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/products/surgical-instrument-cleaning-chemistries" class="primary-nav-link">Surgical Instrument Cleaning Chemistries</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/products/sterility-assurance-and-monitoring" class="primary-nav-link">Sterility Assurance and Monitoring</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/products/spd-consulting-and-performance-improvements" class="primary-nav-link">Sterile Processing Process Improvement</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/products/offsite-reprocessing-services" class="primary-nav-link">Offsite Reprocessing Center</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/products/endoscopy-devices" class="primary-nav-link">Endoscopy Devices</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/products/endoscope-reprocessing" class="primary-nav-link">Endoscope Reprocessing</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/products/endoscopy-equipment" class="primary-nav-link">Endoscopy Equipment</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.steris-ims.co.uk/" class="primary-nav-link">Medical Device Repair</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="/healthcare/service/securecare-services" class="primary-nav-link">SecureCare Services</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://servicetraining.steris.com" class="primary-nav-link">Service Training Center</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://shop.steris.com/en/us" class="primary-nav-link">Service Parts</a>
+                                                        </li>
+                                            </ul>
+                                    </li>
+                                    <li class="primary-nav-item has-children lvl-2 has-3-cols">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                                <span class="primary-nav-link">MEDICAL DEVICE, PHARMACEUTICAL &amp; BIOTECHNOLOGY MANUFACTURERS</span>
+                                            <ul>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/equipment" class="primary-nav-link">Washing, Sterilization, Decontamination and Water Purification Equipment</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/detergents/pharmaceutical-detergents-and-cleaners" class="primary-nav-link">Process Cleaning Detergents</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/surface-disinfectants" class="primary-nav-link">Surface Disinfectants, Cleaners and Alcohols</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/sterility-assurance-and-barrier-products" class="primary-nav-link">Sterility Assurance and Barrier Products</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/services/decontamination-services" class="primary-nav-link">Biodecontamination Services</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/services" class="primary-nav-link">Equipment Maintenance Services</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://shop.steris.com/en/us" class="primary-nav-link">Service Parts</a>
+                                                        </li>
+                                            </ul>
+                                                <span class="primary-nav-link">
+                                                    <a href="https://www.steris-ast.com/" style="color:#006bc8;border:none;" class="primary-nav-link">Contract Sterilization Services</a>
+                                                </span>
+                                            <ul>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.steris-ast.com/services/gamma-irradiation/" class="primary-nav-link">Gamma Irradiation</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.steris-ast.com/services/electron-beam-irradiation/" class="primary-nav-link">Electron Beam Irradiation</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.steris-ast.com/services/x-ray-irradiation/" class="primary-nav-link">X-ray Irradiation</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.steris-ast.com/services/ethylene-oxide-sterilization/" class="primary-nav-link">Ethylene Oxide Sterilization</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.steris-ast.com/services/vaporized-hydrogen-peroxide/ " class="primary-nav-link">Vaporized Hydrogen Peroxide</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.steris-ast.com/laboratories/" class="primary-nav-link">Medical Device and Pharmaceutical Laboratory Services</a>
+                                                        </li>
+                                            </ul>
+                                    </li>
+                                    <li class="primary-nav-item has-children lvl-2 has-3-cols">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                                <span class="primary-nav-link">Research Laboratory</span>
+                                            <ul>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/steam-sterilizers/steam-sterilizers" class="primary-nav-link">Sterilizers</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/equipment/washers-and-dryers" class="primary-nav-link">Glassware Washers and Dryers</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/equipment/washers-and-dryers" class="primary-nav-link">Washing Equipment</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/equipment/vhp-sterilization-and-biodecontamination" class="primary-nav-link">VHP Decontamination</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/detergents/glassware-washing-detergents" class="primary-nav-link">Glassware Washing Detergents</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/surface-disinfectants/pharmaceutical-disinfectants" class="primary-nav-link">Surface Disinfection</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/products/sterility-assurance-and-barrier-products" class="primary-nav-link">Sterility Assurance and Barrier Products</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://www.sterislifesciences.com/services" class="primary-nav-link">Equipment Maintenance Services</a>
+                                                        </li>
+                                                        <li class="primary-nav-item lvl-3">
+                                                            <a href="https://shop.steris.com/en/us" class="primary-nav-link">Service Parts</a>
+                                                        </li>
+                                            </ul>
+                                    </li>
+                                            </ul>
+            </li>
+ <!-- Closing top menu item li -->
+            <li class="primary-nav-item">
+                <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                <a href="https://careers.steris.com/?utm_source=careersite&amp;utm_campaign=steris.com" class="primary-nav-link">Careers</a>
+            </li>
+ <!-- Closing top menu item li -->
+            <li class="primary-nav-item has-children lvl-1">
+                <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                <a href="https://sterisplc.gcs-web.com/investor-relations" class="primary-nav-link">Investors</a>
+                    <ul>
+                                                            <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="https://sterisplc.gcs-web.com/" class="primary-nav-link">Investor Relations Home</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="https://sterisplc.gcs-web.com/news-and-events/news-releases" class="primary-nav-link">Press Releases</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="https://sterisplc.gcs-web.com/stock-information/stock-quote-chart" class="primary-nav-link">Stock Information</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="https://sterisplc.gcs-web.com/financials/sec-filings" class="primary-nav-link">Financials</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="https://sterisplc.gcs-web.com/dividend-information" class="primary-nav-link">Dividend Information</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="https://sterisplc.gcs-web.com/corporate-governance/highlights" class="primary-nav-link">Corporate Governance</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="https://sterisplc.gcs-web.com/shareholder-resources/email-alerts" class="primary-nav-link">Shareholder Resources</a>
+                                    </li>
+                    </ul>
+            </li>
+ <!-- Closing top menu item li -->
+            <li class="primary-nav-item">
+                <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                <a href="/sustainability" class="primary-nav-link">Sustainability</a>
+            </li>
+ <!-- Closing top menu item li -->
+            <li class="primary-nav-item has-children lvl-1 is-button">
+                <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                <a href="/about/company" class="primary-nav-link">About Us</a>
+                    <ul>
+                                                            <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/about/company" class="primary-nav-link">Company Overview</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/about/business" class="primary-nav-link">Doing Business with STERIS</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/about/product-cybersecurity/coordinated-vulnerability-disclosure-process-at-steris" class="primary-nav-link">Product Cybersecurity</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/about/steris-quality/commitment" class="primary-nav-link">STERIS Quality</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/about/hse" class="primary-nav-link">Health, Safety and Environment</a>
+                                    </li>
+                    </ul>
+            </li>
+ <!-- Closing top menu item li -->
+            <li class="primary-nav-item has-children lvl-1">
+                <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                <a href="/contact/contact-information" class="primary-nav-link">Contact Us</a>
+                    <ul>
+                                                            <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/contact/contact-information" class="primary-nav-link">Contact Information</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/contact/contactform" class="primary-nav-link">Contact Form</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/contact/key-locations" class="primary-nav-link">Key Locations</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/contact/live-chat" class="primary-nav-link">Live Chat</a>
+                                    </li>
+                                    <li class="primary-nav-item lvl-2">
+                                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                                        <a href="/contact/socialmediaengagement" class="primary-nav-link">Social Media Rules of Engagement</a>
+                                    </li>
+                    </ul>
+            </li>
+ <!-- Closing top menu item li -->
+            <li class="primary-nav-item">
+                <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                <a href="https://shop.steris.com/en/us" class="primary-nav-link">Service Parts</a>
+            </li>
+ <!-- Closing top menu item li -->
+        <li class="header-desktop-search">
+            <div class="header-desktop-search__med">
+                <button class="btn btn-secondary js-focus" data-toggle="button"><i class="far fa-search"></i></button>
+                <div class="input-group">
+                    <input type="text" class="addsearch form-control js-focus-target" data-addsearch-field="true" placeholder="Search...">
+                </div>
+            </div>
+            <!--            <div class="header-desktop-search__large">
+            <div class="input-group">
+            <input type="text" class="addsearch form-control js-focus-target" data-addsearch-field="true" placeholder="Search...">
+            <div class="input-group-append js-focus">
+            <span class="btn input-group-text"><i class="far fa-search"></i></span>
+            </div>
+            </div>
+            </div>-->
+        </li>
+    </ul>
+</div>
+            </div>
+            <ul class="utility">
+                <li>Shop STERIS Online Account - <a
+                        href="https://shop.steris.com/en/us#utm_source=healthcare-website&utm_medium=global-header&utm_campaign=new-hc-header&utm_content=us">UNITED
+                        STATES</a></li>
+                <li>Shop STERIS Online Account - <a
+                        href="https://shop.steris.com/en/ca#utm_source=healthcare-website&utm_medium=global-header&utm_campaign=new-hc-header&utm_content=ca">CANADA</a>
+                </li>
+                <li>Shop STERIS Online Account - <a
+                        href="https://shop.steris.com/en/gb#utm_source=healthcare-website&utm_medium=global-header&utm_campaign=new-hc-header&utm_content=gb">UNITED
+                        KINGDOM</a></li>
+                <li>Shop STERIS Online Account - <a
+                        href="https://shop.steris.com/en/ie#utm_source=healthcare-website&utm_medium=global-header&utm_campaign=new-hc-header&utm_content=ie">IRELAND</a>
+                </li>
+                
+                <li><a href="/contact/live-chat">Live Chat</a></li>
+            </ul>
+
+        </div>
+    </div>
+</div>
+
+<a name="top"></a>
+
+<nav aria-label="breadcrumb">
+    <div class="container">
+        <ol class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
+            <!-- Home Node Element -->
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/"><span itemprop="name">Home</span></a>
+<span itemprop="position" content="1">&nbsp;&nbsp;/&nbsp;&nbsp;</span>                    </li>
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                        <a itemprop="item" href="/about"><span itemprop="name">About Us</span></a>
+                        <span itemprop="position" content="2">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
+                    </li>
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="breadcrumb-item  active" aria-current=page>
+                        <span itemprop="name">Terms of Sale</span>
+                        <span itemprop="position" content="3"></span>
+                    </li>
+        </ol>
+    </div>
+</nav>
+
+<!-- Main Content placeholder -->
+
+
+
+
+<section class="section pb-5 pt-5 component-section " >
+
+    <!-- Also need text input for custom class we can add on a section element -->
+    <!-- Need condition: isContained? 'container' class can become 'container-fluid' to span the entire width of the screen -->
+    <div class="container">
+
+
+        <!-- /Boolean: isContained -->
+
+        <div class="row component component-article-layout-2-col">
+    <div class="col-md">
+        
+
+
+<nav class="primary-nav side-nav">
+    <ul>
+        <li class="primary-nav-item has-children lvl-1 is-active">
+            <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+            <a href="/about" class="primary-nav-link">About Us</a>
+            <ul>
+                    <li class="primary-nav-item    lvl-2">
+                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                        <a href="/about/company" class="primary-nav-link">
+                            Company Overview
+                        </a>
+
+                    </li>
+                    <li class="primary-nav-item  has-children  lvl-2">
+                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                        <a href="/about/business" class="primary-nav-link">
+                            Doing Business with STERIS
+                        </a>
+
+                            <ul>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/code_of_conduct" class="primary-nav-link">
+                                            code_of_conduct
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/code-of-conduct" class="primary-nav-link">
+                                            Code of Business Conduct
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/code-of-conduct-translated" class="primary-nav-link">
+                                            Code of Conduct Translated
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/how-to-order" class="primary-nav-link">
+                                            How to Order
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/steris-uk-tax-strategy" class="primary-nav-link">
+                                            STERIS UK Tax Strategy
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/gsa" class="primary-nav-link">
+                                            Government Contracts
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/edi" class="primary-nav-link">
+                                            Electronic Data Interchange
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/trading" class="primary-nav-link">
+                                            EDI Trading Partner Form
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/ediconnect" class="primary-nav-link">
+                                            EDI Connection Information
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/ediadditional" class="primary-nav-link">
+                                            Request Additional EDI Address
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/eft" class="primary-nav-link">
+                                            Electronic Funds Transfer
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/finance" class="primary-nav-link">
+                                            Flexible Financing
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/terms" class="primary-nav-link">
+                                            Terms of Use
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/business/steris-biometric-data-privacy-policy" class="primary-nav-link">
+                                            STERIS Biometric Data Privacy Policy
+                                        </a>
+
+
+                                        
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav-item is-active has-children is-page-active lvl-2">
+                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                        <a href="/about/terms_sale" class="primary-nav-link">
+                            Terms of Sale
+                        </a>
+
+                            <ul>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/terms_sale/certified-pre-owned-equipment-warranty" class="primary-nav-link">
+                                            Certified Pre-Owned Equipment Warranty
+                                        </a>
+
+
+                                        
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav-item  has-children  lvl-2">
+                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                        <a href="/about/product-cybersecurity" class="primary-nav-link">
+                            Product Cybersecurity
+                        </a>
+
+                            <ul>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/product-cybersecurity/coordinated-vulnerability-disclosure-process-at-steris" class="primary-nav-link">
+                                            Coordinated Vulnerability Disclosure Process at STERIS
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/product-cybersecurity/product-security-bulletins-and-advisories" class="primary-nav-link">
+                                            ​Product Security Bulletins and Advisories
+                                        </a>
+
+
+                                        
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav-item  has-children  lvl-2">
+                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                        <a href="/about/steris-quality" class="primary-nav-link">
+                            STERIS Quality
+                        </a>
+
+                            <ul>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/steris-quality/commitment" class="primary-nav-link">
+                                            STERIS Commitment to Regulatory,  Quality and Safety Compliance
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/steris-quality/quality" class="primary-nav-link">
+                                            Quality System Certificates
+                                        </a>
+
+
+                                        
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav-item  has-children  lvl-2">
+                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                        <a href="/about/hse" class="primary-nav-link">
+                            Health, Safety and Environment
+                        </a>
+
+                            <ul>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/hse/steris-health-safety-and-environmental-policy" class="primary-nav-link">
+                                            STERIS Health Safety and Environmental Policy
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/hse/health-safety-and-environmental-excellence" class="primary-nav-link">
+                                            Health, Safety, and Environmental Excellence
+                                        </a>
+
+
+                                        
+                                    </li>
+                                    <li class="primary-nav-item  lvl-3">
+                                        <a href="/about/hse/safety-data-sheets" class="primary-nav-link">
+                                            Safety Data Sheets
+                                        </a>
+
+
+                                        
+                                    </li>
+                            </ul>
+                    </li>
+                    <li class="primary-nav-item    lvl-2">
+                        <span class="primary-nav-item-toggle"><i class="fas fa-caret-up"></i></span>
+                        <a href="/about/sustainability" class="primary-nav-link">
+                            Sustainability
+                        </a>
+
+                    </li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+    </div>
+    <div class="col-md-8 col-lg-9">
+        
+<h1 style="margin-bottom: 20px;">Terms of Sale</h1>
+<p><strong>NOTICE TO BUYER: </strong>STERIS Corporation ("Seller") hereby certifies that these goods were produced in compliance with all applicable requirements of Sections 6, 7, and 12 of the Fair Labor Standards Act, as amended, and of regulations and orders of the U.S. Department of Labor issued under Section 14 thereof.</p>
+<h2>I. Offer and Acceptance</h2>
+<p>STERIS's electronic commerce websites constitute offers for the sale of products and the provision of services for your applicable STERIS product (the "Offer"). An order or request that is properly entered through the applicable website, or any other form of acceptance that we receive from you, shall result in a contract for the purchase of the requested products or services on the applicable terms and conditions. STERIS's "Terms and Conditions of Sale" govern your product orders. At STERIS Service Online, the "Service Terms and Conditions" govern your requests for service and our standard list rates shall apply, unless other contractual rates are applicable to you. Prices of certain items or components of your order may be unavailable due to technical reasons at the time of order submission. If you include these items in your cart at the time of checkout, our standard eCommerce prices will be assigned to the items automatically. Should other components of your order (shipping &amp; handling, tax, etc.) be unavailable at the time of order submission, the applicable charges will be added upon order processing.</p>
+<p>You shall be deemed to have accepted all of the applicable terms and conditions except those to which you have specifically objected. You are required to set forth each objection to the applicable terms and conditions in writing, signed and dated by you and delivered to us prior to or contemporaneous with your order or request. Our failure to object to provisions in any communication shall not be a waiver of any of the applicable terms and conditions, nor an acceptance by us of any such provisions. Any terms proposed by you which are different from or additional to the applicable terms and conditions on our websites are hereby rejected unless specifically accepted by us in a separate document signed by both you and us, regardless of whether such other terms would materially alter the terms hereof. No course of dealing, custom or usage which is contrary to the applicable terms and conditions shall apply.</p>
+<p>STERIS reserves the right to correct any typographical or clerical errors in prices, specifications or acknowledgments.</p>
+<h2>II. Products or Services Subject to Sale</h2>
+<p>The Products or Services subject to this sale shall be limited to those described in the Offer. They do not include, and Customer assumes responsibility for (A) any set-up, installation, and start-up (B) safety equipment used with the Products or Services or by Customer's employees or any third parties in handling or working with the products; and (C) signs, plaques, and training related to the proper use of the Products.</p>
+<h2>III. Financial Condition</h2>
+<p>At Seller's request, Customer will furnish sufficient information to enable Seller to assess Customer's creditworthiness. Seller may, in its discretion, require full or partial payment in advance.</p>
+<h2>IV. Prices</h2>
+<p style="margin-bottom: 5px;"><strong>A</strong>. Prices are subject to change without prior notification.</p>
+<p><strong>B.</strong> Prices are based on U.S. dollars and are F.O.B. point of shipment. Prices do not include freight or delivery charges or taxes (sales, excise, use, ad valorem, etc.) or any export or import duties. Those charges may be prepaid by Seller and added to Customer's invoice. </p>
+<h2>V. Shipment, Delivery, and Inspection</h2>
+<p style="margin-bottom: 5px;"><strong>A.</strong> Seller shall select the method and carrier for delivery of all Products. Title and risk of loss or damage to the Products shall pass from Seller to Customer upon delivery to a carrier at point of shipment.</p>
+<p style="margin-bottom: 5px;"><strong>B.</strong> Any shipment, delivery, or performance date stated in the Offer or other contract document is approximate only and does not constitute any guarantee of shipment, delivery, or performance on any particular date.</p>
+<p><strong>C.</strong> Time shall not be of the essence of this agreement. </p>
+<h2>VI. Payments, Title and Security Interest</h2>
+<p style="margin-bottom: 5px;"><strong>A.</strong>&nbsp; All payments shall be made at the time of sale, or if the purchase is made through a purchase order, within 30 days of the date of Seller's invoice. All payments shall be in United States currency and shall be without deductions for back-charges, other accounts between Seller and Customer, and the like, which shall be settled independently of the payment of the invoice. Payment shall not prejudice claims on account of omissions or shortages in shipment, but no such claim will be allowed unless made within 96 hours after receipt of the applicable shipment by Customer.</p>
+<p><strong>B.</strong>&nbsp; Should Customer delay payment beyond the date it is due, interest may be charged on the unpaid balance at the rate of one and one-half (1-1/2%) percent per month. </p>
+<h2>VII. Delays</h2>
+<p style="margin-bottom: 5px;"><strong>A.</strong>&nbsp; Seller shall not be liable for loss, damages, or non-performance resulting from delays in receipt of final specifications or instructions from Customer, changes in specifications, force majeure, including but not limited to strikes, labor disturbances, material shortages, non-manufacturing conditions, delays or failures of carriers or communication, epidemics, fire flood, storms, accident, riot, acts of terrorism, war and invasion, governmental requisition or priorities, acts of God, or other causes beyond Seller's reasonable control.</p>
+<p style="margin-bottom: 5px;"><strong>B.</strong>&nbsp; In such event, the delivery date shall be extended for a period equal to the time lost by reason thereof, or Seller at its option may cancel the delivery and refund any amounts paid by Customer, as Customer's sole and exclusive remedy. Seller shall undertake to notify the Customer promptly of any significant delay and will specify the revised delivery date as soon as practical. <strong>IN NO EVENT SHALL SELLER BE LIABLE FOR INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES RISING OUT OF A DELAY IN, CANCELLATION OF, OR FAILURE TO DELIVER OR MANUFACTURE.</strong></p>
+<p><strong>C.</strong>&nbsp; If shipment is delayed or extended by Customer, Customer shall arrange for and notify Seller of the place or places to which Seller shall ship the Products covered by the order for warehousing or storage at Customer's expense and all risk of loss or damage to the Products or Services shall be borne by Customer. If Customer is unwilling or unable to promptly arrange for warehousing or storage facility, Seller may do so at Customer's expense. Customer hereby agrees to pay any and all storage charges so incurred and Seller's invoice, which it shall issue upon shipment of Products to the place of storage.</p>
+<h2>VIII. Cancellation</h2>
+<p>Cancellation or suspension of the order by Customer after acceptance by Seller may be made only on terms which will compensate Seller for loss due to the cancellation. Prior to shipment, Customer may cancel by giving written notice of cancellation to Seller. Customer may cancel after shipment only if Products are re-salable and Customer pays restocking, shipping and handling charges as reasonably determined by Seller.</p>
+<h2>IX. Product Design</h2>
+<p>Seller reserves the right to make changes and improvements in the design and specifications of its Products without notice or obligation to Customer. </p>
+<h2>X. Warranty and Disclaimers</h2>
+<p style="margin-bottom: 5px;"><strong>A.</strong> Seller warrants that its consumable products comply with Seller's specifications. This warranty shall run for a period of 90 days from the date of shipment, unless the product is subject to an expiration date, in which case, the expiration date shall apply. Seller's warranties do not apply to damage resulting from unauthorized installation, accident, casualty, alteration, misuse, or failure to follow seller's written instructions. ENTIRE WARRANTY: SELLER MAKES NO OTHER WARRANTY, EXPRESS OR IMPLIED, AND SELLER EXPRESSLY DISCLAIMS ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE, AND ALL OTHER WARRANTIES ARE HEREBY EXPRESSLY EXCLUDED. SELLER SHALL HAVE NO OTHER LIABILITY, DIRECT OR INDIRECT, OF ANY KIND, INCLUDING LIABILITY FOR SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.</p>
+<p style="margin-bottom: 5px;"><strong>B.</strong> Customer's sole and exclusive remedy for breach of the foregoing warranties shall be the repair or replacement of the defective Product, or, at the Seller's option, a refund of the purchase price; provided (1) the Product has not been altered or modified by other than Seller, (2) it has been properly stored, installed, maintained and operated within the limits specified by Seller, and (3) Customer promptly sends to Seller notice of defect and satisfactory proof thereof, including allowing Seller the opportunity to inspect the Products, and in the event of repair or replacement, returns the product to Seller, freight prepaid. Defective parts replaced by Seller shall become the property of the Seller. Repaired or replacement parts will be shipped to the Customer FOB point of shipment.</p>
+<p style="margin-bottom: 5px;"><strong>C.</strong> If the Product sold is not manufactured by Seller, Seller will extend to the Customer the same warranty protection Seller received from the original manufacturer.</p>
+<p style="margin-bottom: 5px;"><strong>D.</strong> Seller is not responsible for any charges relating to warranty work or product replacement that have not been authorized by Seller in writing.</p>
+<p><strong>E.</strong>&nbsp; <strong><span style="text-decoration: underline;">NEITHER SELLER NOR CUSTOMER SHALL BE LIABLE TO THE OTHER FOR SPECIAL OR CONSEQUENTIAL DAMAGES OR FOR DAMAGES FOR LOSS OF USE ARISING DIRECTLY OR INDIRECTLY FROM ANY BREACH OF CONTRACT, MATERIAL OR OTHERWISE, OR FROM ANY TORTIOUS ACTS OR OMISSIONS OF THEIR RESPECTIVE EMPLOYEES OR AGENTS, AND IN NO EVENT SHALL THE LIABILITY OF SELLER EXCEED THE PRICE OF THE DEFECTIVE PRODUCT OR OF THE PRODUCT SUBJECT TO LATE DELIVERY.</span></strong> If Seller, without separate compensation therefor, furnishes the Customer with advice or other assistance concerning any product supplied hereunder or any system or equipment in which any such product may be installed which is not required hereunder, the furnishing of such advice or assistance will not subject Seller to any liability whether in contract, tort (including negligence and strict liability) or otherwise.</p>
+<h2>XI. Patents, Trademarks, Copyrights, and Software</h2>
+<p style="margin-bottom: 5px;"><strong>A.</strong> Seller warrants that Products shall be delivered free of any rightful claim for infringement of any United States patent, trademark or copyright.</p>
+<p style="margin-bottom: 5px;"><strong>B.</strong> If Seller is notified promptly in writing of any claim of infringement, Seller will defend or may settle at its expense any such claim. Seller shall pay all damages and costs awarded against Customer due to breach of this warranty; provided, however, that Customer must cooperate with Seller in the defense of any claim. Seller shall, at its expense and option, either procure for the Customer the right to continue using any infringing Products, or replace or modify them so they become non-infringing, or remove the Products and refund the purchase price (less reasonable depreciation for any period of use). The foregoing states the entire liability of Seller for patent, trademark, or copyright infringement by Products or any part thereof.</p>
+<p><strong>C.</strong> The preceding representations shall not apply to any Product specified by Customer or manufactured to Customer's design, or to the use of any Product furnished hereunder in conjunction with any other item in a combination not furnished by Seller as a part of this transaction. As to any such item, part, or use in such combination, Seller shall have no liability whatsoever for patent, trademark or copyright infringement and Customer will indemnify Seller and hold Seller harmless against any claims, liability, damages or expenses, including reasonable attorney fees, as a result of infringement claims arising therefrom.</p>
+<h2>XII. Disclosure Information</h2>
+<p>Any information, suggestions or ideas given by the Customer to Seller in connection with Seller's performance hereunder are not secret or submitted in confidence, except as may be otherwise provided in writing, signed by Seller. </p>
+<h2>XIII. Assignment</h2>
+<p>No right accruing to the Customer by virtue of the manufacturer/purchaser relationship between Seller and the Customer nor any duty of Seller resulting from that relationship shall be assignable without Seller's prior written consent. </p>
+<h2>XIV. Severability</h2>
+<p>Invalidity of any provision of Seller's Terms shall not affect the validity of any other provision hereof and any invalid provision shall be severed from the valid provisions. </p>
+<h2>XV. Non-Waiver</h2>
+<p>No failure by Seller to exercise any right accruing to it by virtue of the manufacturer/purchaser relationship or under any contract of sales entered into with the Customer shall operate as a waiver thereof or preclude the exercise of any other right or privilege by Seller.</p>
+<h2>XVI. Notice</h2>
+<p>Any notice required or contemplated hereunder shall be in writing and shall be delivered personally or sent by telefax or by prepaid registered mail. Notice by telefax shall be deemed to have been received when transmitted and any notice sent by registered mail shall be deemed to have been received on the second day following the date mailed.</p>
+<h2>XVII. Entire Agreement and Amendments</h2>
+<p>There are no other Terms and Conditions applicable to the purchase and sales of Seller's Products other than those contained in the Offer (including any specifications or other documents incorporated by reference in the Offer). No modification, amendment, waiver or other change of any provision of Seller's Terms shall be binding on Seller without Seller's written consent. </p>
+<h2>XVIII. Limitations of Actions</h2>
+<p>Any action for a breach of contract arising out of Seller's acceptance of Customer's order or arising out of Customer's acceptance of Product supplied must be commenced within one year after the cause of action has accrued. </p>
+<h2>XIX. Governing Laws; Remedies</h2>
+<p style="margin-bottom: 5px;"><strong>A.</strong>&nbsp; The rights and obligations of the Customer and Seller, and the construction and effect of any contract formed between them shall be governed by the laws of the State of Ohio.</p>
+<p><strong>B.</strong>&nbsp; If the Customer fails to fulfill their terms of payment of any invoice or if the financial or business condition or responsibility of the Customer shall become impaired or unsatisfactory to the Seller, Seller may, without liability to Customer or prejudice to any other legal or equitable remedy, suspend performance until past due payments are made and satisfactory assurance of payment is received. </p>
+<h2>XX. Operating Directions</h2>
+<p style="margin-bottom: 5px;"><strong>A.</strong> Customer shall comply with and require its agents and employees to comply with all directions, safety notices, warnings, and other instructions furnished by Seller, and shall use and require its agents and employees to use reasonable care in the use of the Products.</p>
+<p><strong>B.</strong> SELLER SHALL HAVE NO OBLIGATION OR LIABILITY FOR ANY FAILURE OF CUSTOMER, CUSTOMER'S EMPLOYEES, AGENTS, OR ANY THIRD PARTY TO OBSERVE THE PROVISIONS OF THIS SECTION, OR FOR ANY INJURY OR DAMAGE CAUSED, IN WHOLE OR IN PART, BY CUSTOMER'S FAILURE TO COMPLY WITH APPLICABLE FEDERAL, STATE, OR LOCAL SAFETY REQUIREMENTS AND CUSTOMER SHALL INDEMNIFY AND HOLD SELLER HARMLESS FOR ANY CLAIMS, LIABILITIES OR LOSSES ARISING OUT OF OR IN CONNECTION WITH ANY SUCH INJURY OR DAMAGE OR CLAIM THEREOF.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+    </div>
+</div>
+
+
+
+        <!-- Need condition: isContained? -->
+    </div>
+    <!-- /Boolean: isContained -->
+</section>
+
+
+<!-- Footer placeholder -->
+
+
+        <footer class="footer">
+            <div class="container py-5">
+                <div class="footer-top">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-4">
+                            <p>
+                                <a href="/" title="Click to visit home page">
+                                    <img src='/-/media/images/footer-images/logo_footer.png' alt="" />
+                                </a>
+                            </p>
+                            <p>
+                                STERIS is a leading global provider of products and services that support patient care with an emphasis on infection prevention.
+                            </p>
+                            <p>
+                                5960 Heisley Road, Mentor, OH 44060 U.S.A.
+                                <br><strong><em class="fas fa-phone fa-flip-horizontal"></em> 1.440.354.2600</strong>
+                            </p>
+                        </div>
+                        <div class="col-sm-12 col-md-2 order-md-last">
+                            <div class="footer-logo-link-container">
+                                <a href='https://www.advamed.org/about-advamed' target='_blank'>
+                                    <img src='/-/media/images/footer-images/footer_code_of_ethics.png' alt="Code of Ethics Logo - links to www.advamed.org">
+                                </a>
+                            </div>
+                            <div class="footer-logo-link-container">
+                                <p>
+                                    <img src="/Images/steriscomicon.png" alt="STERIS" />
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-sm-12 col-md-6">
+                            <h5 class="d-none d-md-block">Quick Links</h5>
+                            <button class="btn d-md-none footer-quick-links-toggle" data-toggle="button">
+                                Quick Links
+                            </button>
+                            <div class="footer-toggle-container">
+                                <div class="footer-quick-links">
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <ul class="list-unstyled text-small">
+                                                        <li><a href="/careers">Careers</a></li>
+                                                        <li><a href="/investors">Investors</a></li>
+                                                        <li><a href="/news">News</a></li>
+                                                        <li><a href="/healthcare/products/requestquotegen">Get a Quote or Information</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="list-unstyled text-small">
+                                                        <li><a href="/about">About Us</a></li>
+                                                        <li><a href="/contact/contact-information">Contact Information</a></li>
+                                                        <li><a href="/contact/key-locations">Key Locations</a></li>
+                                                        <li><a href="/healthcare/support/coa">Certificates of Analysis</a></li>
+                                                        <li><a href="/healthcare/instructions-for-use">Instructions For Use</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <ul class="list-unstyled text-small">
+                                                        <li><a href="/shop-steris">Shop STERIS</a></li>
+                                                        <li><a href="/steris-service-parts">STERIS Service Parts</a></li>
+                                                        <li><a href="/products-and-services">Products and Services</a></li>
+                                                        <li><a href="/about/hse/safety-data-sheets">Safety Data Sheets</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- <hr class="footer-bottom-hr"> -->
+                <div class="footer-bottom">
+                    <div class="row">
+                        <div class="col-xs-12 col-md">
+                            <p>
+<a rel="noopener noreferrer" href="https://www.linkedin.com/company/steris-corporation/ " target="_blank"><img style="margin-right:20px;" alt="STERIS on LinkedIn" src="/images/footer-images/linkedin.png" width="35" height="35" /></a>
+<a rel="noopener noreferrer" href="https://www.youtube.com/channel/UC_ZGVruqQ2fQUNnBqbNZYTg " target="_blank"><img style="margin-right:20px;" alt="STERIS on youtube" src="/images/footer-images/youtube.png" width="35" height="35" /></a>
+<a rel="noopener noreferrer" href="https://www.facebook.com/steriscorporate" target="_blank"><img style="margin-right:20px;" alt="STERIS on Facebook" src="/images/footer-images/facebook.png" width="35" height="35" /></a>
+<a rel="noopener noreferrer" href="https://www.instagram.com/steris.healthcare.usa/" target="_blank" gaeventtrack="1"><img alt="STERIS on Instagram" src="/images/footer-images/instagram.png" width="35" height="35" /></a>
+</p>
+<p>&copy; 2024 STERIS. All rights reserved.<br />
+Registered in Ireland No 595593<br />
+Registered office: 70 Sir John Rogerson's Quay, Dublin 2 Ireland</p>
+                            <hr>
+                        </div>
+                        <div class="col-xs-12 col-md">
+                                <ul class="nav">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href='/sitemap'>Sitemap</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href='/orders'>Order Tracker</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href='/sustainability/corporate-governance/privacy'>Privacy Policy</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href='/about/terms_sale'>Terms of Sale</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href='/about/business/terms'>Terms of Use</a>
+                                        </li>
+                                </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+
+
+
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/flickity@2.2.1/dist/flickity.pkgd.min.js" integrity="sha384-bbqpT4L0LrPaMT563kDc2Vj+2MPL/vQOoEHVOrXRO71BwJBFDIHhuBEmjcXxl7zD" crossorigin="anonymous"></script>
+
+<script src="/scripts/main.js"></script>
+<script src="/scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="/scripts/jquery.validate.min.js"></script>
+<script src="/scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/simple-parallax-js@5.6.1/dist/simpleParallax.min.js" integrity="sha384-ohB+5y9D6Wfz2z6y7iXG8HQmYGZBwdtlk7fZ5Q/Cq3fJCd21icGtf58IwyVkRki8" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha384-OOQxAlvDeToeGLa7+PiUtbtpQyESK8Ej4fNM8foz5VaMpO8TCp1vbi2HIOIzMurt" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+    $(".product-carousel-slick").slick({
+        lazyLoad: 'ondemand',
+        asNavFor: ".carousel-nav-slick",
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: true
+    });
+
+    function genMore() {
+        var getHeight = $('.carousel-nav-slick .slick-slide.slick-active').first().find('img').outerHeight() + 7;
+        var getWidth = $('.carousel-nav-slick .slick-slide.slick-active').first().find('img').outerWidth() + 8;
+        $('.carousel-nav-slick-more').height(getHeight)
+        $('.carousel-nav-slick-more').width(getWidth)
+    }
+
+
+    $('.carousel-nav-slick').on('init', function (event, slick, currentSlide, nextSlide) {
+        var count = 0;
+        if (slick.slideCount > slick.options.slidesToShow) {
+            $(this).addClass('has-more');
+            var count = (slick.slideCount - slick.options.slidesToShow) + 1
+        }
+        $('.carousel-nav-slick').append('<div class="carousel-nav-slick-more"><span>+' + count + '</span></div>');
+
+        setInterval(function () {
+            genMore();
+        }, 100)
+    });
+
+    $('.carousel-nav-slick').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
+        var count = 0;
+        if (slick.slideCount > slick.options.slidesToShow) {
+            $(this).addClass('has-more');
+            var count = (slick.slideCount - slick.options.slidesToShow) + 1
+        }
+
+        if ($('.carousel-nav-slick-more').length < 1) {
+            $('.carousel-nav-slick').append('<div class="carousel-nav-slick-more"><span>+' + count + '</span></div>');
+        }
+        console.log($('.carousel-nav-slick-more').length)
+    })
+
+    window.addEventListener('resize', function () {
+        genMore();
+    });
+
+    $(".carousel-nav-slick").slick({
+        slidesToShow: 6,
+        asNavFor: ".product-carousel-slick",
+        focusOnSelect: true,
+        arrows: false,
+        draggable: false,
+        responsive: [
+            {
+                breakpoint: 1000,
+                settings: {
+                    slidesToShow: 4
+                }
+            },
+            {
+                breakpoint: 500,
+                settings: {
+                    slidesToShow: 3
+                }
+            }
+        ]
+    });
+
+</script>
+
+<script>
+    function GetProductCategory(_productFamilyId) {
+
+        var url = '/api/sitecore/Forms/GetProductCategory';
+
+        $.ajax({
+            url: url,
+            data: { productFamilyId: _productFamilyId },
+            cache: false,
+            type: "POST",
+            success: function (data) {
+                var markup = "<option value='0'></option>";
+                for (var x = 0; x < data.length; x++) {
+                    markup += "<option value=" + data[x].SitecoreId + ">" + data[x].Name + "</option>"
+                }
+                $("#Form_ProductCategory").html(markup).removeClass('d-none');
+            },
+            error: function (response) {
+                alert("error: " + response);
+            }
+        });
+    };
+
+</script>
+<script src="https://addsearch.com/js/?key=9348ad0e637427e60defafc9575c3252"></script>
+<script src="/Assets/CorporateWeb/js/index-generated.js" type="module"></script>
+</body>
+
+</html>
