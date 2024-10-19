@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="iem7"  lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="lt-ie9 lt-ie8 lt-ie7"  lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="lt-ie9 lt-ie8"  lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="lt-ie9"  lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><!--><html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/Legal/Site-Terms-Conditions-Terms-Use" />
+<link rel="shortlink" href="/node/277" />
+<link rel="shortcut icon" href="https://www.textron.com/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Site Terms &amp; Conditions - Terms of Use | Textron</title>
+
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="viewport" content="width=device-width">
+    <!--[if IEMobile]><meta http-equiv="cleartype" content="on"><![endif]-->
+
+  <link type="text/css" rel="stylesheet" href="https://www.textron.com/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.textron.com/sites/default/files/css/css_W7fxoGck6n5EZMKwBG-bD_Ktmmams6xKe2ZzEQnysRE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.textron.com/sites/default/files/css/css_ttDLzRB4Q6t2ePKBm8nXqkfwQCsdt7pDU_tx7_yZ4XA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.textron.com/sites/default/files/css/css_cteol8H3fBlNYpT8JZMwT15pbnShhppoJiSyf0JVyiM.css" media="all" />
+<style>.page-home #marquee .marquee-content{background-color:!important;background-image:url('https://www.textron.com/sites/default/files/TextronAviation_Longitude-Certification_.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:center center !important;background-size:cover !important;-webkit-background-size:cover !important;-moz-background-size:cover !important;-o-background-size:cover !important;}
+#industry-grid .bs_192 .background-image{background-color:!important;background-image:url('https://www.textron.com/sites/default/files/Keirsten%20Gomez.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:left top !important;}
+#industry-grid .bs_191 .background-image{background-color:!important;background-image:url('https://www.textron.com/sites/default/files/Textron_TRU_Tampa_Employee_19-5484.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:left top !important;}
+#industry-grid .bs_190 .background-image{background-color:!important;background-image:url('https://www.textron.com/sites/default/files/manufacturing_career.png') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:left top !important;}
+#industry-grid .bs_189 .background-image{background-color:!important;background-image:url('https://www.textron.com/sites/default/files/CSS_Bell_2_2019.jpeg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:left top !important;}
+div.callout-full-width.bs_182{background-color:!important;background-image:url('https://www.textron.com/sites/default/files/2019-dec-greatthings.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:left top !important;}
+#industry-grid .bs_3 .background-image{background-color:#005186 !important;background-image:url('https://www.textron.com/sites/default/files/BELL-SEGMENT.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:center center !important;}
+#industry-grid .bs_4 .background-image{background-color:#005186 !important;background-image:url('https://www.textron.com/sites/default/files/TEXTRON-AVIATION.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:center center !important;}
+#industry-grid .bs_43 .background-image{background-color:#005186 !important;background-image:url('https://www.textron.com/sites/default/files/TEXTRON-eAVIATION.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:center center !important;}
+#industry-grid .bs_5 .background-image{background-color:#005186 !important;background-image:url('https://www.textron.com/sites/default/files/INDUSTRIAL.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:center center !important;}
+#industry-grid .bs_142 .background-image{background-color:#005186 !important;background-image:url('https://www.textron.com/sites/default/files/TEXTRON-SYSTEMS.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:center center !important;}
+#industry-grid .bs_141 .background-image{background-color:#005186 !important;background-image:url('https://www.textron.com/sites/default/files/FINANCE.jpg') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:center center !important;}
+</style>
+  
+<!--   -->
+      <!--[if lt IE 9]>
+    <script src="/sites/all/themes/zen/js/html5-respond.js"></script>
+    <![endif]-->
+  </head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-277 node-type-page section-legal" >
+    <script src="https://txt-cdn.azureedge.net/00113AEB/js/modernizr?XdfzdDzgrXw1ReiZ21gQSQ7wgQ6l0CPN9g_QHJHmPyCiFaSIhlcjOlWanENUFmbA"></script>
+<script src="https://txt-cdn.azureedge.net/00113AEB/js/jquery?XdfzdDzgrXw1ReiZ21gQSQ7wgQ6l0CPN9g_QHJHmPyCiFaSIhlcjOlWanENUFmbA"></script>
+<script>window.jQuery || document.write('<script type="text/javascript" src="/sites/all/themes/TEXTRON/css/libs/jquery/js/jquery.min.js"><\/script>')</script>
+<script>window.Modernizr || document.write('<script type="text/javascript" src="/sites/all/themes/TEXTRON/css/libs/modernizr/modernizr.min.js"><\/script>')</script>
+<script src="https://www.textron.com/sites/default/files/js/js_Ni6Gpj57a4V6hSmzcw4hsZ1zGHo8YyWz3IJZqqhNDxs.js"></script>
+<script src="https://www.textron.com/sites/default/files/js/js_TVTqjz8JHRb2KK9hlzuk0YsjzD013dKyYX_OTz-2VXU.js"></script>
+<script src="https://www.textron.com/sites/default/files/js/js_aP5CRxD4RNJA3rbakvUd_bll6xiPB6uJoWsMrKOtK40.js"></script>
+<script src="https://www.textron.com/sites/default/files/js/js_jh-skVPJ0Vf8LH0gtbYv5ozbc8K2SiYLhC-885Ywe7c.js"></script>
+<script src="https://www.textron.com/sites/default/files/js/js_8gQBe6jNgh4NYL8sRc_Enps30LIB9DBCOahz-ERhx4g.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"TEXTRON","theme_token":"RfLjRu-reFcn5Z1apjD2bX189AHm59QkHRs0DJDTZR0","js":{"sites\/all\/modules\/custom\/custom_feature_cron\/assets\/js\/scrollbar.js":1,"sites\/all\/modules\/custom\/custom_feature_cron\/assets\/js\/browser.js":1,"sites\/all\/modules\/custom\/custom_feature_cron\/assets\/js\/script.js":1,"sites\/all\/modules\/custom\/custom_feature_cron\/assets\/js\/fakitconfig.js":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"https:\/\/txt-cdn.azureedge.net\/00113AEB\/js\/modernizr?XdfzdDzgrXw1ReiZ21gQSQ7wgQ6l0CPN9g_QHJHmPyCiFaSIhlcjOlWanENUFmbA":1,"https:\/\/txt-cdn.azureedge.net\/00113AEB\/js\/jquery?XdfzdDzgrXw1ReiZ21gQSQ7wgQ6l0CPN9g_QHJHmPyCiFaSIhlcjOlWanENUFmbA":1,"1":1,"2":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/eu_cookie_compliance\/js\/jquery.cookie-1.4.1.min.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/google_cse\/google_cse.js":1,"sites\/all\/modules\/floating_block\/floating_block.js":1,"sites\/all\/modules\/iframe\/iframe.js":1,"sites\/all\/modules\/video\/js\/video.js":1,"sites\/all\/themes\/TEXTRON\/css\/libs\/jquery\/js\/reset.js":1,"sites\/all\/themes\/TEXTRON\/css\/libs\/jquery\/js\/hoverIntent.js":1,"sites\/all\/themes\/TEXTRON\/css\/libs\/jquery\/js\/sr-linkicons.js":1,"sites\/all\/themes\/TEXTRON\/css\/libs\/jquery\/js\/sr-responsive.js":1,"sites\/all\/themes\/TEXTRON\/css\/libs\/jquery\/js\/uniform-2.1.2.js":1,"sites\/all\/themes\/TEXTRON\/css\/libs\/jquery\/js\/touchSwipe-1.6.5.js":1,"sites\/all\/themes\/TEXTRON\/css\/libs\/jquery\/js\/bxSlider-4.1.2.js":1,"sites\/all\/themes\/TEXTRON\/css\/libs\/jquery\/js\/sr-accordion.js":1,"sites\/all\/themes\/TEXTRON\/css\/libs\/jquery\/js\/magnific-0.9.3.min.js":1,"sites\/all\/themes\/TEXTRON\/css\/skin\/js\/owl-carousel-custom.js":1,"sites\/all\/themes\/TEXTRON\/css\/skin\/js\/owl.carousel.js":1,"sites\/all\/themes\/TEXTRON\/css\/skin\/js\/_main.js":1,"sites\/all\/themes\/TEXTRON\/css\/skin\/js\/mainCareers.js":1,"sites\/all\/themes\/TEXTRON\/css\/skin\/js\/plugins\/waypoints\/4.0.0.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/video\/css\/video.css":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"public:\/\/ctools\/css\/655b3afca201e5f0fef5a5780f31ade7.css":1,"sites\/all\/themes\/TEXTRON\/system.menus.css":1,"sites\/all\/themes\/TEXTRON\/system.messages.css":1,"sites\/all\/themes\/TEXTRON\/system.theme.css":1,"sites\/all\/themes\/TEXTRON\/css\/skin\/css\/fontsheet.css":1,"sites\/all\/themes\/TEXTRON\/css\/skin\/css\/owl.carousel.css":1,"sites\/all\/themes\/TEXTRON\/css\/skin\/css\/style.css":1,"sites\/all\/themes\/TEXTRON\/css\/magnific-0.9.3.css":1,"sites\/all\/themes\/TEXTRON\/css\/skin\/css\/style_careers.css":1,"0":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"10":1,"11":1}},"floating_block":{"settings":{".region-career-left-button":[]},"minWidth":"0"},"googleCSE":{"cx":"009258837660656939231:95aqrbo_tgs","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":1},"eu_cookie_compliance":{"cookie_policy_version":"2.0.1","popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cdiv class=\u0022cookie-pop-title\u0022\u003E\u003Ch6\u003EWe use cookies on this site to enhance your user experience\u003C\/h6\u003E\u003C\/div\u003E\u003Cdiv class=\u0022popup-pass-txt\u0022\u003E\u003Cp\u003EBy clicking the Accept button, you agree to us doing so.\u003C\/p\u003E\u003C\/div\u003E              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore Information\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EReject\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EMore Information\u003C\/button\u003E\n          \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAccept\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022 \u003EReject\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","mobile_breakpoint":"768","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class=\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EHide\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EMore info\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/Legal\/Website-Privacy-Policy","popup_link_new_window":1,"popup_position":null,"fixed_top_position":1,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":0,"reload_page":0,"domain":"","domain_all_sites":0,"popup_eu_only_js":0,"cookie_lifetime":"100","cookie_session":false,"disagree_do_not_show_popup":0,"method":"opt_in","allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EWe use cookies on this site to enhance your user experienceYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","withdraw_enabled":false,"withdraw_button_on_info_popup":0,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":1,"cookie_name":"","containing_element":"body","automatic_cookies_removal":1}});</script>
+  <script src="//www.youtube.com/iframe_api"></script>
+<div class="one-sidebar">
+	<header class="header" id="header" role="banner">
+		<div class="wrapper-container">
+			  <div class="region region-header-top">
+    <div id="block-block-2" class="block block-block first last odd">
+
+      
+  <a class="logo" href="/"></a>
+</div>
+  </div>
+			<nav id="main-menu">
+				
+ 
+    <div id="block-menu-menu-header-menu" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/About/Company" style="font-weight: bold;" class="menu__link">About</a><ul class="menu"><li class="menu__item is-collapsed first collapsed"><a href="/About/Our-Businesses" class="menu__link">Businesses</a></li>
+<li class="menu__item is-leaf leaf"><a href="/About/Our-Leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item is-collapsed collapsed"><a href="/About/Company" class="menu__link">Company</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/location/textron-locations" class="menu__link">Our Locations</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="http://investor.textron.com/news/news-releases/default.aspx" style="font-weight: bold;" class="menu__link">News</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://investor.textron.com/news/news-releases/default.aspx" class="menu__link">News Releases</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/news/email-alerts/default.aspx" class="menu__link">Email Alerts</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/news/media-resources/default.aspx" class="menu__link">Media Resources</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/news/media-contacts/default.aspx" class="menu__link">Media Contacts</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://investor.textron.com/news/photo-and-logo-request/default.aspx" class="menu__link">Photo &amp; Logo Request</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="http://investor.textron.com/investors/default.aspx" style="font-weight: bold;" class="menu__link">Investors</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://investor.textron.com/investors/stock-information/default.aspx" class="menu__link">Stock Information</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/investors/events-and-presentations/default.aspx" class="menu__link">Events &amp; Information</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/investors/financial-reports/financial-summary/default.aspx" class="menu__link">Financial Reports</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/investors/corporate-governance/default.aspx" class="menu__link">Corporate Governance</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://investor.textron.com/investors/investor-resources/annual-report-and-proxy-materials/default.aspx" class="menu__link">Investor Resources</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/CorpResponsibility" style="font-weight: bold;" class="menu__link">Corporate Responsibility</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/CorpResponsibility/Community" class="menu__link">In The Community</a></li>
+<li class="menu__item is-leaf leaf"><a href="/CorpResponsibility/Charitable-Giving" class="menu__link">Charitable Giving</a></li>
+<li class="menu__item is-leaf leaf"><a href="/CorpResponsibility/corporate-responsibility-report" class="menu__link">Corporate Responsibility Report</a></li>
+<li class="menu__item is-leaf leaf"><a href="/CorpResponsibility/Ethics" class="menu__link">Ethics &amp; Compliance</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/CorpResponsibility/EHS" class="menu__link">Environmental Health &amp; Safety</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="https://careers.textron.com" style="font-weight: bold;" target="_blank" class="menu__link">Careers</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/Contact-Us" style="font-weight: bold;" class="menu__link">Contact Us</a></li>
+</ul>
+</div>
+				
+ 		<!-- <link rel="stylesheet" type="text/css" href="/sites/all/libraries/customsearch/css/default.css" /> -->
+		<link rel="stylesheet" type="text/css" href="/sites/all/libraries/customsearch/css/component.css" />
+<div id="sb-search" class="sb-search">
+	<form action="/search/gss" method="post">
+		<input class="sb-search-input" placeholder="Enter your search term and hit enter..." type="search" value="" name="keys" id="search">
+		<input class="sb-search-submit" type="submit" value="">
+		<span class="sb-icon-search"></span>
+	</form>
+</div>
+		<script src="/sites/all/libraries/customsearch/js/classie.js"></script>
+		<script src="/sites/all/libraries/customsearch/js/uisearch.js"></script>
+		<script>
+			new UISearch( document.getElementById( 'sb-search' ) );
+		</script>
+
+		<!-- <input type="text" id="edit-keys" name="keys" value="" size="40" maxlength="255" class="form-text ui-autocomplete-input" autocomplete="off"/>  -->
+			</nav>	
+			<div id="menu-button">
+				<div class="bar"></div>
+			</div>
+		</div>
+		  <div class="region region-header-ticker">
+    <div id="block-block-3" class="block block-block first last odd">
+
+      
+  <a class="stock" target="_blank" rel="noopener noreferrer" href="https://investor.textron.com/investors/stock-information/default.aspx" style="height:106px;"><div class="heading">Current Price</div><div class="value">$87.45<span class="change down">1.13</span></div><div class="traded">NYSE: TXT</div></a>
+
+</div>
+  </div>
+	</header>
+	 
+	<section id="marquee" style="background-image: url('https://www.textron.com/sites/default/files/TSV_7.jpg');">
+		<div class="wrapper-container">
+             <div class="easy-breadcrumb"><a href="/">Home</a><a href="/Legal">Legal</a><span>Site Terms &amp; Conditions   Terms of Use</span></div>		
+            <div class="marquee-content">
+                <h1 id="page-title">Site Terms & Conditions - Terms of Use</h1>
+            </div>
+        </div>
+	</section>
+
+		
+	<section id="main">
+		<section class="sidebar-left">
+   				
+			                        
+ 
+    
+ 
+    <div id="block-menu-menu-header-menu" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-expanded first expanded"><a href="/About/Company" style="font-weight: bold;" class="menu__link">About</a><ul class="menu"><li class="menu__item is-collapsed first collapsed"><a href="/About/Our-Businesses" class="menu__link">Businesses</a></li>
+<li class="menu__item is-leaf leaf"><a href="/About/Our-Leadership" class="menu__link">Leadership</a></li>
+<li class="menu__item is-collapsed collapsed"><a href="/About/Company" class="menu__link">Company</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/location/textron-locations" class="menu__link">Our Locations</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="http://investor.textron.com/news/news-releases/default.aspx" style="font-weight: bold;" class="menu__link">News</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://investor.textron.com/news/news-releases/default.aspx" class="menu__link">News Releases</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/news/email-alerts/default.aspx" class="menu__link">Email Alerts</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/news/media-resources/default.aspx" class="menu__link">Media Resources</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/news/media-contacts/default.aspx" class="menu__link">Media Contacts</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://investor.textron.com/news/photo-and-logo-request/default.aspx" class="menu__link">Photo &amp; Logo Request</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="http://investor.textron.com/investors/default.aspx" style="font-weight: bold;" class="menu__link">Investors</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="http://investor.textron.com/investors/stock-information/default.aspx" class="menu__link">Stock Information</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/investors/events-and-presentations/default.aspx" class="menu__link">Events &amp; Information</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/investors/financial-reports/financial-summary/default.aspx" class="menu__link">Financial Reports</a></li>
+<li class="menu__item is-leaf leaf"><a href="http://investor.textron.com/investors/corporate-governance/default.aspx" class="menu__link">Corporate Governance</a></li>
+<li class="menu__item is-leaf last leaf"><a href="http://investor.textron.com/investors/investor-resources/annual-report-and-proxy-materials/default.aspx" class="menu__link">Investor Resources</a></li>
+</ul></li>
+<li class="menu__item is-expanded expanded"><a href="/CorpResponsibility" style="font-weight: bold;" class="menu__link">Corporate Responsibility</a><ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/CorpResponsibility/Community" class="menu__link">In The Community</a></li>
+<li class="menu__item is-leaf leaf"><a href="/CorpResponsibility/Charitable-Giving" class="menu__link">Charitable Giving</a></li>
+<li class="menu__item is-leaf leaf"><a href="/CorpResponsibility/corporate-responsibility-report" class="menu__link">Corporate Responsibility Report</a></li>
+<li class="menu__item is-leaf leaf"><a href="/CorpResponsibility/Ethics" class="menu__link">Ethics &amp; Compliance</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/CorpResponsibility/EHS" class="menu__link">Environmental Health &amp; Safety</a></li>
+</ul></li>
+<li class="menu__item is-leaf leaf"><a href="https://careers.textron.com" style="font-weight: bold;" target="_blank" class="menu__link">Careers</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/Contact-Us" style="font-weight: bold;" class="menu__link">Contact Us</a></li>
+</ul>
+</div>
+		</section>
+		<section class="main-content">
+			<div id="messages">
+				
+			</div>
+			<div id="block-system-main"> 
+                                <h2>General Terms of Use</h2>
+
+<p>Attention: Please Read These Terms, Conditions And Legal Restrictions Carefully Before Using This Web Site.<strong> By accessing, viewing, using, or downloading materials from the Site, you agree to be legally bound by these Terms of Use (the "Agreement") and all other terms, conditions and notices contained or referenced in the Site. This Site is owned and operated by the Company.</strong></p>
+
+<h3>Definitions</h3>
+
+<p>"Company" means Textron Inc.</p>
+
+<p>"Site" means this web site or the web site of any one of Textron Inc.'s subsidiaries or unincorporated operating divisions, as appropriate.</p>
+
+<p>"Textron" means Textron Inc., and its subsidiaries and its unincorporated operating divisions.</p>
+
+<p>See the Legal Entity Disclaimer below for additional terms and definitions.</p>
+
+<p>1. Binding Agreement<br />
+Use of this Site is available only to those users who are in compliance and agreement with these terms and conditions of use as well as the other terms and conditions referenced elsewhere on this Site. Please note that by accessing, viewing, using, or downloading materials from the Site, you agree to be legally bound by all of the terms, conditions and notices contained or referenced herein.</p>
+
+<p>2. License and Site Access<br />
+Subject to these terms and conditions and all applicable laws and regulations, the Company grants you a non-exclusive, non-transferable, personal, limited license to download, access, view, use and display this Site and the text, graphics, content, information, audio, video and other services (the "Materials"), which the Company makes available to you from time to time on the terms and conditions set forth in this Agreement. This authorization is not a transfer of title to the Site or the Materials contained herein, and any downloading, modification, reproduction, copying or redistribution for commercial purposes of any information or Materials or design elements of the Site is strictly prohibited without the prior written consent of the Company. Requests for permission to reproduce any information contained on this Site should be addressed to the Company at <a href="mailto:website@textron.com"><strong>website@textron.com</strong></a>.</p>
+
+<p>Notwithstanding the above, the Company authorizes you to make one (1) electronic or paper copy of the information posted on any page of the Site, provided that the copy is used solely for non-commercial, personal purposes, and further provided that any such copy remains protected by all copyright, trademarks, Site marks, and other proprietary notices and legends contained on the Site.</p>
+
+<p>This license does not include the right to modify this Site, or any portion of it, except with the express written consent of the Company. Any resale or commercial use of this Site or its contents; any collection and use of any product or service listings, descriptions, or prices; any derivative use of this Site or its contents; any downloading or copying of account information for the benefit of another merchant; or any use of data mining, robots, or similar data gathering and extraction rules is prohibited.</p>
+
+<p>You agree to all additional restrictions displayed on the Site as it may be updated from time to time. You agree to use this Site for lawful purposes only, and shall not post or transmit any information or material which in any way infringes or violates the rights of others or which is unlawful, defamatory, threatening, invasive of privacy or publicity, obscene, harassing or otherwise objectionable.</p>
+
+<p>The Company reserves the right, at its sole discretion, to pursue all of its legal remedies, including but not limited to prosecution of users in violation of these terms and conditions.</p>
+
+<p>3. Ownership<br />
+You have no ownership rights in the Site or in the Materials. Rather, you have a license to download, access, view, use and display this Site and the Materials as long as this Agreement remains in full force and effect. Unless otherwise noted, ownership of the Site and the Materials and all intellectual property rights therein shall remain at all times with the Company or their respective owners.</p>
+
+<p>4. Your Account and Registered Users<br />
+You may be required to register in order to access the Site or certain portions of the Site. If the Site or certain portions of the site require you to register, you must complete the registration process by providing the Company with current, complete and accurate information about yourself as prompted by the applicable registration form.</p>
+
+<p>If you are required to register in order to access the Site or certain portions of the Site, you may be provided with, or you may choose, a password and a user name. If you are a registered user of this Site, you are responsible for maintaining the confidentiality of your account and password. If you use this Site, you are responsible for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. You agree to notify the Company immediately of any unauthorized use of your account or any other breach of security. The Company reserves the right to refuse service, terminate accounts, or remove or edit content in its sole discretion.</p>
+
+<p>5. Security<br />
+In addition to the issuance of a password for registered users, the Company maintains numerous security standards and procedures to help prevent unauthorized access to any confidential information about you which may be collected by us or submitted by you. You may learn more about the Company's security procedures and the Company's privacy practices by viewing our <a href="/legal/website-privacy-policy"><strong>privacy policy</strong></a>.</p>
+
+<p>6. Legal Entity Disclaimer<br />
+<strong>The terms and descriptions contained in this site are not intended to alter or otherwise affect the independent legal entity status of Textron and its subsidiary corporations or alter or otherwise affect the ownership and reporting relationship of unincorporated operating divisions.</strong></p>
+
+<p>Textron consists of several subsidiary corporations and unincorporated operating divisions. For example, Bell Helicopter Textron Inc.; Cessna Aircraft Company and Avco Corporation are wholly owned subsidiaries of Textron. Lycoming Engines is an operating division of Avco Corporation.</p>
+
+<p>The Textron subsidiaries are separately incorporated legal entities which have legal rights and liabilities independent of Textron. The subsidiaries also have their own officers and directors, maintain their own books and records and the like, and their management teams are responsible for the daily operation of their respective businesses. Textron, as the parent corporation, exercises oversight and provides direction and assistance, when necessary, to its subsidiaries consistent with corporate governance legal requirements and accepted practices for parent corporations.</p>
+
+<p>As stated, operating divisions are unincorporated companies which are owned by Textron or its subsidiaries.</p>
+
+<p>This site contains terms such as "Textron," , "Enterprise," "Company," "Textron Family of Businesses," and "Textron Businesses." Unless otherwise specified, these terms refer to Textron and its subsidiaries and operating divisions. These terms are used to convey the fact that from an organizational and legal entity perspective, Textron consists of several subsidiaries and operating divisions. Where practicable, the legal entity names of Textron's subsidiaries and the relationship of the operating divisions to Textron or the subsidiaries, are set forth on the appropriate site pages.</p>
+
+<p>"Brand" refers to the name which customers associate with the product or products produced by the Textron and its member companies. Brand names used on this site do not necessarily denote the legal entity status of any Textron entity.</p>
+
+<p>7. General Disclaimer<br />
+YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK. THE SITE, MATERIALS, CONTENT, RELATED COMMUNICATIONS AND SOFTWARE MADE AVAILABLE ON THE SITE ARE PROVIDED "AS IS" WITHOUT ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, OR FITNESS FOR PARTICULAR PURPOSE. SOME JURISDICTIONS DO NOT ALLOW FOR THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS OF IMPLIED WARRANTIES MAY NOT BE APPLICABLE UNDER CERTAIN CIRCUMSTANCES. THE COMPANY DOES NOT WARRANT THE ACCURACY OR COMPLETENESS OF THE MATERIALS OR CONTENT DISPLAYED OR DISTRIBUTED ON THIS SITE, INCLUDING BUT NOT LIMITED TO THE RELIABILITY OF ANY ADVICE, STATEMENT, ADVERTISEMENT OR OTHER INFORMATION DISPLAYED OR DISTRIBUTED THROUGH THE SITE. YOU ACKNOWLEDGE BY THE USE OF THIS SITE THAT ANY RELIANCE ON ANY SUCH MATERIALS, CONTENT, ADVICE, STATEMENT, ADVERTISEMENT OR INFORMATION SHALL BE AT YOUR SOLE RISK.</p>
+
+<p>THE COMPANY DISCLAIMS ANY WARRANTIES FOR THE SECURITY OR RELIABILITY OF THE MATERIALS. THE COMPANY DOES NOT ASSUME ANY RESPONSIBILITY, AND SHALL NOT BE LIABLE FOR ANY DAMAGE TO, OR VIRUSES OR OTHER HARMFUL COMPONENTS THAT MAY INFECT YOUR COMPUTER EQUIPMENT OR OTHER PROPERTY ON ACCOUNT OF YOUR ACCESS TO, USE, OR BROWSING OF THE SITE (INCLUDING ANY BULLETIN BOARD OR CHAT ROOM) OR YOUR DOWNLOADING OF ANY MATERIALS FROM THE SITE.</p>
+
+<p>THE MATERIALS INCLUDED IN THE SITE MAY CONTAIN INACCURACIES AND TYPOGRAPHICAL ERRORS. THE COMPANY RESERVES THE RIGHT, IN ITS SOLE DISCRETION, TO CORRECT ANY ERRORS OR OMISSIONS IN ANY PORTION OF THE SITE. THE COMPANY MAY MAKE ANY OTHER CHANGES TO THE SITE, THE MATERIALS AND THE PRODUCTS, PROGRAMS, SERVICES OR PRICES (IF ANY) DESCRIBED IN THE SITE AT ANY TIME WITHOUT NOTICE.</p>
+
+<p>8. Links to Affiliate or Third-Party Sites<br />
+The Company may provide on this Site, solely as a convenience to its users, links to web sites operated by our affiliates or other entities. If you use these sites, you will leave this Site. If you decide to visit any linked site, you do so at your own risk and it is your responsibility to take all protective measures to guard against viruses or other destructive elements. The Company does not make any warranty or representation regarding, or endorse or otherwise sponsor, any linked web sites or the information appearing thereon or any of the products or services described thereon. Links do not imply that the Company is affiliated or associated with the linked site, or is legally authorized to use any trademark, trade name, logo or copyright symbol displayed in or accessible through the links; or that any linked site is affiliated or associated with the Company or is authorized to use any trademark, trade name, logo or copyright symbol of the Company.</p>
+
+<p>9. Third-Party Content<br />
+Any information, statements, opinions, services or other information provided by third parties and made available on this Site are those of the respective author(s) and not the Company. Such information and the like may be updated from time to time directly by the respective authors. The disclaimer set forth above applies regardless of the updating party.</p>
+
+<p>10. Deep Linking and Framing<br />
+You are prohibited from reproducing or "framing" pages or content provided by the Company or its affiliates. Subject to the provisions of paragraph 10, you may link to internal pages within this Site, provided that you do not copy or frame the content found there.</p>
+
+<p>In no case does the Company approve any links which, by their appearance, content, position or otherwise, create the false impression that the Company sponsors, endorses or is associated with the entity operating any third-party site ("the External Site") or the products or services offered by the External Site operator. In no case does the Company approve any links which the Company believes damages or impairs the goodwill associated with the name, logos, trademarks, service marks, copyrights or tradenames of the Company or any of its affiliates. The Company reserves the right to revoke its approval to link or change terms or conditions of its approval to link at any time in its sole discretion.</p>
+
+<p>11. Children<br />
+Because of the nature of the Company's business, and its products and services, this Site is not intended for use by minors and the Company does not knowingly attempt to solicit or receive any information from children. These terms and conditions of use require that use of this Site, or any registration that might be required to access this Site or portions of this Site, or to purchase or license products or services, may only be made by those over the age of 18 and that any products or services purchased or licensed may only be done by those over the age of 18. By using this Site, you are representing that you are an adult (at least 18 years of age) or have the permission of a parent or legal guardian to use the Site.</p>
+
+<p>12. Unsolicited Information Provided by You<br />
+The Company does not want you to, and you should not, send any confidential or proprietary information to the Company through this Site unless specifically requested by the Company. Please note that any unsolicited information or material sent to the Company will be deemed not to be confidential or proprietary. By submitting information and material to this Site, you grant to the Company (or warrant that the owner of such information and material has expressly granted to the Company) a royalty-free, perpetual, irrevocable, unrestricted, right and license to use, reproduce, display, perform, modify, adapt, publish, translate, transmit and distribute or otherwise make available to others such information and material (in whole or in part and for any purpose) worldwide and/or to incorporate it in other works in any form, media, or technology now known or hereafter developed. You also agree that the Company is free to use any ideas, concepts, know-how or techniques that you send to either of them for any purpose.</p>
+
+<p>The Company does not want to receive, and you are deemed to agree through the use of this Site not to provide, any information or materials to the Company that are defamatory, threatening, obscene, harassing, in violation of any law, governmental requirements or otherwise unlawful, or that incorporate the proprietary information or materials of another person or entity. If you provide any such information, it is agreed that you are solely responsible and liable for any damages or other harm resulting from such submission.</p>
+
+<p>You shall not upload, post or otherwise make available on this Site any information and material protected by copyright, trademark or other proprietary right without the express written permission of the owner of such right(s). You shall be solely liable for any damages resulting from any infringement of copyright, proprietary rights, or any other harm resulting from such a submission.</p>
+
+<p>13. Notice of Copyright Infringement<br />
+We respect the intellectual property of others, and we ask our users to do the same. To the extent that you have provided any work and if you believe that your work has been copied and is accessible on this Site in a way that constitutes copyright infringement, please provide the Copyright Agent (as identified below) with the following information:</p>
+
+<p>(a) identification of the copyrighted work claimed to have been infringed;</p>
+
+<p>(b) identification of the allegedly infringing material on the Site that is requested to be removed;</p>
+
+<p>(c) your name, address and daytime telephone number, and an e-mail address if available, so that the Company may contact you if necessary;</p>
+
+<p>(d) a statement that you have a good faith belief that use of the copyrighted work is not authorized by the copyright owner, its agent or the law;</p>
+
+<p>(e) a statement that the information in the notification is accurate and, under penalty of perjury, that the signatory is authorized to act on behalf of the owner of an exclusive copyright right that is allegedly infringed; and</p>
+
+<p>(f) an electronic or physical signature of the copyright owner or someone authorized on the owner's behalf to assert infringement of copyright and to submit the statement.<br />
+The Copyright Agent for Notice of claims of copyright infringement on the Site can be reached at <a href="mailto:website@textron.com"><strong>website@textron.com</strong></a>.</p>
+
+<p>If the Company is notified of any claims of copyright infringement on the Site, it may investigate the allegation and determine in good faith and at its sole discretion whether to remove or request the removal of the work or material. The Company has no liability or responsibility to users for performance or nonperformance of such activities.</p>
+
+<p>14. Limitation of Liability<br />
+YOUR USE AND BROWSING OF THE SITE IS AT YOUR RISK. IF YOU ARE DISSATISFIED WITH ANY OF THE SOFTWARE, MATERIALS, PRODUCTS OR SERVICES CONTAINED IN THE SITE, OR WITH ANY OF THESE TERMS AND CONDITIONS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO REQUEST THE REMOVAL OF YOUR CONTENT FROM THE SITE AND/OR TO DISCONTINUE ACCESSING AND USING THE SITE.</p>
+
+<p>UNDER NO CIRCUMSTANCES WILL THE COMPANY OR ITS SUPPLIERS OR OTHER THIRD PARTIES MENTIONED ON, OR INVOLVED IN CREATING, PRODUCING, OR DELIVERING THIS SITE BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, INDIRECT, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION OR LOSS OF BUSINESS INFORMATION OR DATA) ARISING OUT OF YOUR ACCESS TO, USE OF, INABILITY TO USE OR THE RESULTS OF USE OF THIS SITE OR THE MATERIALS, ANY WEB SITES LINKED TO THIS SITE, OR ANY MATERIALS CONTAINED AT ANY OR ALL SUCH SITES (INCLUDING BUT NOT LIMITED TO THOSE CAUSED BY OR RESULTING FROM A FAILURE OF PERFORMANCE; ERROR; OMISSION; LINKING TO OTHER WEB SITES; INTERRUPTION; DELETION; DEFECT; DELAY IN OPERATION OR TRANSMISSION; COMPUTER VIRUS; COMMUNICATION LINE FAILURE; OR DESTRUCTION, UNAUTHORIZED ACCESS TO, ALTERATION OF, OR USE OF ANY COMPUTER OR SYSTEM), WHETHER BASED ON WARRANTY, CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER LEGAL THEORY AND WHETHER OR NOT THE COMPANY WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p>
+
+<p>THE COMPANY SHALL NOT HAVE ANY LIABILITY OR RESPONSIBILITY FOR ANY ACTS, OMISSIONS OR CONDUCT OF ANY USER OR OTHER THIRD PARTY.</p>
+
+<p>15. Purchase or License of Products or Services<br />
+If the purchase or licensing of products or services is available on this Site and you seek to make a purchase or establish a license through this Site, the obligations and responsibilities of the Company regarding its products and services, if any, are governed solely by the terms and conditions of sale or license under which such products and services are sold or licensed. Copies of such terms and conditions are available directly from the Company.</p>
+
+<p>16. Changes<br />
+All content contained herein is subject to change without notice, but the Company has no responsibility to update any information on this Site. The Company reserves the right to change or modify the terms and conditions applicable to the use of this Site at any time. Such changes, modifications, additions, or deletions to the terms and conditions of use shall be effective immediately upon notice thereof, which may be given by any means including, but not limited to, posting new terms and conditions on the Site. Any use of the Site after such change or modification shall be deemed to constitute acceptance by you of such changes, modifications, additions, or deletions. Because they will be binding on you, you should revisit these terms from time to time. The Company may terminate, change, suspend or discontinue any aspect of the Site, including the availability of any features of the Site, at any time. The Company may also impose limits on certain features and services or restrict your access to parts of the Site without notice or liability.</p>
+
+<p>17. Termination<br />
+This Agreement and the licenses granted herein will terminate automatically and without notice if you fail to comply with any term or condition of this Agreement; provided, however, that all provisions relating to disclaimers, limitation of liability, copyright, trademarks and other proprietary rights of the Company shall survive the termination of this Agreement.</p>
+
+<p>18. International Users and Export Restrictions<br />
+This Site is administered by Company from its offices (within the United States of America.) The Company does not make any representation that all products, services or programs, if any, are available in your country or that materials published at this Site are appropriate or legally available for use at locations outside of the United States. Access to such materials from territories where their contents are illegal is prohibited. You may not use the Site or transfer, download or use any information or materials in violation of U. S. laws and regulations, including those relating to export controls. This Agreement is expressly made subject to any laws, regulations, orders, or other restrictions on the export from the United States of the Materials or information about the Materials that may be imposed from time to time by the government of the United States. You shall not export Materials or information about the Materials without the consent of the Company and compliance with such laws, regulations, orders or other restrictions. If you access the Site from a location outside of the United States, you are responsible for compliance with all local laws. By your use of this Site, you represent and warrant to the Company that you are in compliance with all laws applicable to your use of this Site.</p>
+
+<p>19. Choice of Law and Forum<br />
+These terms and conditions of use and any dispute between you and the Company arising out of or related to this Agreement or your use of this Site (the "Disputes") shall be construed, interpreted and governed by the laws of the State of Delaware, U.S.A., without giving effect to its conflict of laws provisions. The state and federal courts located in Delaware shall have primary and exclusive jurisdiction and be the exclusive venue for the Disputes and you consent to the personal and exclusive jurisdiction and venue of these courts in connection with the Disputes. You must commence any claim or cause of action that you may have with respect to the Disputes by filing only in these courts within one (1) year after the claim or cause of action arises. The Company may file any claim or cause of action which it has within the time limits established for such claim by the laws of Delaware.</p>
+
+<p>20. Entire Agreement<br />
+These terms and conditions shall constitute the entire agreement between the Company and you and supersedes any previous oral, written or electronic communications or documents with respect to the subject matter herein. If any part of this Agreement is found invalid or unenforceable by a court of competent jurisdiction, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this Agreement shall continue in full force and effect.</p>
+
+<p>21. Copyright<br />
+This Site, including all information and Materials contained in it, are copyrighted and protected by worldwide copyright, trademark and other laws and treaty provisions. You agree to comply with all copyright, trademark and other laws worldwide in your use of this Site and to prevent any copying, reproduction, modification, distribution, displaying, performing or transmission in violation thereof or of these terms and conditions. Except as expressly provided in these terms and conditions, the Company does not grant any express or implied license or third party right to you under any patents, trademarks, copyrights or trade secret information of the Company or of any third party.</p>
+
+<p>22. Copyright Notice<br />
+All Web Site design, text, graphics and the selection and arrangement thereof, are the property of the Company.</p>
+
+<p>23. Trademark and Site Mark Rights<br />
+All rights in the product names, company names, trademarks, trade names, Site marks, logos, product packaging and designs of the Company or third party products or web sites ("Company Marks"), whether or not appearing in large print or with the trademark symbol, belong exclusively to the Company or their respective owners and are protected under national and international trademark and copyright laws. Users are not permitted to use the Company Marks without the prior express written consent of the owner of such mark.</p>
+
+<p>24. Transfer Restrictions<br />
+You shall not sublicense, transfer or assign this Agreement or any of the rights or licenses granted under this Agreement. Any attempted transfer in violation of the foregoing is void.</p>
+
+<p><a href="/legal">Return to Legal</a></p>
+ 
+				                                  <div class="tabs"></div>
+                                
+				 
+                        </div>
+
+					<div id="search">
+				         
+						 
+					</div>
+					
+			<section id="industry-grid">
+								<!--<div class="grid-item about">-->
+				<div class="content">
+									</div>
+				<!-- </div>-->
+			</section>
+			<section id="contact-us">
+				<div class="contact-directory">
+									</div>
+			</section>
+		
+		</section>
+	</section>
+	<footer id="footer">
+		<div class="wrapper-container">
+			  <div class="region region-social-media">
+    <div id="block-block-1" class="block block-block first last odd">
+
+      
+  <h6>Follow Us On</h6>
+
+<p>&nbsp;</p>
+
+<ul class="social-media">
+	<li class="facebook"><a href="https://www.facebook.com/Textron.Inc?fref=ts"><span class="icon-facebook">&nbsp;</span></a></li>
+	<li class="twitter"><a href="https://twitter.com/Textron"><span class="icn-twitter-X">&nbsp;</span></a></li>
+	<li class="linkedin"><a href="https://www.linkedin.com/company/textron"><span class="icon-linkedin">&nbsp;</span></a></li>
+	<li class="instagram"><a href="https://instagram.com/textron/"><span class="icon-instagram">&nbsp;</span></a></li>
+	<li class="youtube"><a href="http://www.youtube.com/textroninc"><span class="icon-youtube">&nbsp;</span></a></li>
+</ul>
+
+<p>&nbsp;</p>
+
+</div>
+  </div>
+			<div class="secondary-menu">
+ 
+    <div id="block-menu-menu-pre-footer-menu" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/About/Company" title="About" class="menu__link">About</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://investor.textron.com/news/news-releases/default.aspx" title="Newsroom" class="menu__link">News</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://investor.textron.com/investors/default.aspx" title="Investor Relations" class="menu__link">Investors</a></li>
+<li class="menu__item is-leaf leaf"><a href="/CorpResponsibility" class="menu__link">Corporate Responsibility</a></li>
+<li class="menu__item is-leaf leaf"><a href="/Contact-Us" title="Contact Us" class="menu__link">Contact Us</a></li>
+<li class="menu__item is-leaf leaf"><a href="https://myeric.textron.com" title="http://myeric2-1.textron.com/" rel="noopener noreferrer" target="_blank" class="menu__link">Employees</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/Suppliers" title="Suppliers" class="menu__link">Suppliers</a></li>
+</ul>
+</div>
+</div>			
+  <div class="running-footer">
+    <div class="logo"></div>
+    <div class="copyright">&copy; 2004-2024 Textron Inc. All Rights Reserved.</div>
+	<ul class="running-footer-menu">
+    <div id="block-menu-menu-footer-menu" class="block block-menu first last odd" role="navigation">
+
+      
+  <ul class="menu"><li class="menu__item is-leaf first leaf"><a href="/Legal/Website-Privacy-Policy" class="menu__link">Privacy Policy</a></li>
+<li class="menu__item is-leaf is-active-trail leaf active-trail"><a href="/Legal/Site-Terms-Conditions-Terms-Use" title="Terms &amp; Conditions" class="menu__link is-active-trail active-trail active">Terms &amp; Conditions</a></li>
+<li class="menu__item is-leaf leaf"><a href="/Legal" title="Legal" class="menu__link">Legal</a></li>
+<li class="menu__item is-leaf leaf"><a href="/Legal/California-Transparency-Supply-Chains-Act" title="CA Transparency in Supply Chains Act" class="menu__link">CA Transparency in Supply Chains Act</a></li>
+<li class="menu__item is-leaf leaf"><a href="/Site-Map" title="Site Map" class="menu__link">Site Map</a></li>
+<li class="menu__item is-leaf last leaf"><a href="/search" class="menu__link">Search</a></li>
+</ul>
+</div>
+	</ul>
+  </div> 	
+
+		</div>
+	</footer>
+</div>
+    <script src="https://www.textron.com/sites/default/files/js/js_vo50kx8j0pE4Uzm9I8r8Mg89nsqYs5LOiayRW16chzc.js"></script>
+<script>window.eu_cookie_compliance_cookie_name = "";</script>
+<script src="https://www.textron.com/sites/default/files/js/js_AenfGBNtOEe0HYn0feB5L7i4Sutuo0zMqumxu9tLOrY.js"></script>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe sandbox src="//www.googletagmanager.com/ns.html?id=GTM-K5C3FZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.setAttribute("sandbox","");j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K5C3FZ');</script>
+<!-- End Google Tag Manager -->
+</body>
+</html>

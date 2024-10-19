@@ -1,0 +1,3271 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8"/>
+    <title>Disclosure</title>
+    
+    <meta name="description" content="Explore PG&amp;E&#39;s website disclosure."/>
+    <meta name="template" content="l3-page-template"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="robots" content="index, follow"/>
+    
+    
+    <script type="module">
+  window.RUM_BASE = window.origin;
+  import { sampleRUM } from '/.rum/@adobe/helix-rum-js@%5E2/src/index.js';
+  window.hlx = window.hlx || {};
+  window.hlx.sampleRUM = sampleRUM;
+  sampleRUM();
+</script><link rel="canonical" href="https://www.pge.com/en/privacy-center/disclosure.html"/>
+
+
+<link rel="alternate" href="https://www.pge.com/en/privacy-center/disclosure.html" hreflang="x-default"/>
+<link rel="alternate" href="https://www.pge.com/en/privacy-center/disclosure.html" hreflang="en"/>
+
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/zh/privacy-center/disclosure.html" hreflang="zh"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/ko/privacy-center/disclosure.html" hreflang="ko"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/tl/privacy-center/disclosure.html" hreflang="tl"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/ja/privacy-center/disclosure.html" hreflang="ja"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/hmn/privacy-center/disclosure.html" hreflang="hmn"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/ar/privacy-center/disclosure.html" hreflang="ar"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/es/privacy-center/disclosure.html" hreflang="es"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/fa/privacy-center/disclosure.html" hreflang="fa"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/hi/privacy-center/disclosure.html" hreflang="hi"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/km/privacy-center/disclosure.html" hreflang="km"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/pa/privacy-center/disclosure.html" hreflang="pa"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/pt/privacy-center/disclosure.html" hreflang="pt"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/th/privacy-center/disclosure.html" hreflang="th"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/vi/privacy-center/disclosure.html" hreflang="vi"/>
+
+
+
+
+<link rel="alternate" href="https://www.pge.com/ru/privacy-center/disclosure.html" hreflang="ru"/>
+
+
+
+
+    
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/pge/clientlibs/clientlib-base.lc-90d80003e1dc27a64aa29e71b3ebd9fb-lc.min.css" type="text/css">
+
+
+
+
+
+    
+    
+    
+
+    
+
+    
+
+
+        <script type="text/javascript" src="//assets.adobedtm.com/066d2b523dbe/358ed22ff8f3/launch-86a50ae8f133.min.js"></script>
+
+
+    
+    
+
+    
+    <link rel="stylesheet" href="/etc.clientlibs/pge/clientlibs/clientlib-site.lc-b33cce9e2b9617910d89ea19e7314f19-lc.min.css" type="text/css">
+
+
+    
+    
+    
+
+    
+    
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="2Z55M-7ABB5-48T4Q-85MCU-VS4GH",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"2Z55M-7ABB5-48T4Q-85MCU-VS4GH",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="epadkmyxij7zgzx4zd4q-f-5fa41f169-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"37","ak.cp":"1538544","ak.ai":parseInt("576579",10),"ak.ol":"0","ak.cr":11,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"5d2be89","ak.r":42223,"ak.a2":e,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"35.192.53.0","ak.cport":36282,"ak.gh":"23.66.124.136","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1727842553","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==R6uoDo9IJ19xvVFPgsPWZWsJQa1L/0+gkOoJFPQTR8OgpXSwm8hF+Oe6cSiBp+fRpbmBSF3n/S/owu0sDbDiK+wNetcDpiGz9s+dK/r8BnjhFwwVlp900mL2vSCQePbP0nHUJbSzdnquo+z8EuXn1nQKXwVzNXXLmRD5nzDdWduoc1A6JxRClR0DJDKz5XjmYlvN3xr8adxsnhMG0YIV4Mqej/VySXEU2sPFzQCphEtVazQObB9rjpia4LK1lr9cBpuu7HnCgsGD6u+4qYx7Tebk2vvj5hyobX/VZ/0q/FkLgW1zAwc6RLSES6rmSWXGKMocu7L5g3HZ7lzQwH8yMeuA2o+cVuB2cRvpQMiNZKPvffjCb1FVDPKzUml3AvyOpUcedZjiza1l3aB/piRbx5E0AdYCAPZ6jG5/uOet0aU=","ak.pv":"268","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+    <body class="page basicpage" id="page-8445fe6039" data-cmp-data-layer-enabled>
+		<script>
+		window.digitalData = {
+			page: {
+					destinationURL: "https://www.pge.com/en/privacy-center/disclosure.html",
+					previousURL: document.referrer,
+					pageName: "Disclosure",
+					pageTitle: "Disclosure",
+					pageL1Category: "Privacy Center",
+					pageL2Category: "Disclosure",
+					pageL3Category: "",
+					pageL4Category: "",
+					siteSection: "Privacy Center",
+					language: "en"
+				  }
+		}
+		</script>
+		
+        <script>
+          window.adobeDataLayer = window.adobeDataLayer || [];
+          adobeDataLayer.push({
+              page: JSON.parse("{\x22page\u002D8445fe6039\x22:{\x22@type\x22:\x22pge\/components\/structure\/page\x22,\x22repo:modifyDate\x22:\x222023\u002D11\u002D08T00:10:19Z\x22,\x22dc:title\x22:\x22Disclosure\x22,\x22dc:description\x22:\x22Explore PG\x26E\x27s website disclosure.\x22,\x22xdm:template\x22:\x22\/conf\/pge\/settings\/wcm\/templates\/l3\u002Dpage\u002Dtemplate\x22,\x22xdm:language\x22:\x22en\x22,\x22xdm:tags\x22:[],\x22repo:path\x22:\x22\/content\/pge\/language\u002Dmasters\/en\/privacy\u002Dcenter\/disclosure.html\x22}}"),
+              event:'cmp:show',
+              eventInfo: {
+                  path: 'page.page\u002D8445fe6039'
+              }
+          });
+        </script>
+<a class="skip-content-link" href="#main-content" tabindex="0">
+      <span class="skip-content-link__text">Skip to main content</span>
+    </a>
+        
+        
+            
+
+
+
+
+            <main role="main">
+<div class="root container responsivegrid">
+
+    
+    <div id="container-265bd75cf9" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <header class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-8145794797" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    <div id="container-bbc41c577c" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="header aem-GridColumn aem-GridColumn--default--12">
+    <div class="global-alert global-alert--urgent">
+        <div class="global-alert__wrapper">
+            <div class="global-alert__heading-title">
+                <div class="global-alert__title"> <i class="icon icon--alert-octagon" aria-hidden="true">
+                    </i>IMPORTANT</div>
+                <button type="button" class="global-alert__cross-icon" aria-label="Close Alert">
+                    <i class="icon icon--x" aria-hidden="true">
+                    </i>
+                </button>
+            </div>
+            <div class="global-alert__description">
+            </div>
+        </div>
+    </div>
+<div class="header-navigation " id="534535659">
+    <div class="header-navigation--top-section">
+        <div class="header-navigation__mobile-nav">
+            <div class="header-navigation__menu-and-logo">
+                <div class="header-navigation__actions">
+                    <a href="javascript:void(0)" class="header-navigation__link navigation-bar__menu-link" aria-haspopup="true" role="button">
+                        <span class="header-navigation__text">Menu</span>
+                        
+                        <i class="icon icon--menu" aria-hidden="true">
+                        </i>
+                    </a>
+                </div>
+                <div class="header-navigation__logo-container ">
+                    
+<div data-cmp-is="image" data-cmp-lazythreshold="0" data-cmp-src="/xfrags/pge/en/site/header/master/_jcr_content/root/header/image.coreimg{.width}.png/1719424187605/pge-logo.png" data-asset="/content/dam/pge/images/pge-logo.png" data-asset-id="86d50eb5-d0f5-48ce-aedb-fc10f85f4fe7" data-title="Pacific Gas and Electric Company logo" id="image-image-4fcc87227f" data-cmp-data-layer="{&#34;image-4fcc87227f&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/core/image&#34;,&#34;repo:modifyDate&#34;:&#34;2024-05-20T17:18:37Z&#34;,&#34;xdm:linkURL&#34;:&#34;/en.html&#34;,&#34;image&#34;:{&#34;repo:id&#34;:&#34;86d50eb5-d0f5-48ce-aedb-fc10f85f4fe7&#34;,&#34;repo:modifyDate&#34;:&#34;2024-06-26T17:49:47Z&#34;,&#34;@type&#34;:&#34;image/png&#34;,&#34;repo:path&#34;:&#34;/content/dam/pge/images/pge-logo.png&#34;,&#34;xdm:tags&#34;:[&#34;properties:orientation/square&#34;],&#34;xdm:smartTags&#34;:{&#34;glue&#34;:0.76,&#34;graphic design&#34;:0.811}}}}" class="cmp-image" itemscope itemtype="http://schema.org/ImageObject">
+
+	
+	
+	
+	<a class="cmp-image__link" href="/en.html" target="_self" data-cmp-clickable data-cmp-hook-image="link">
+	        
+	            
+	            <img src="/xfrags/pge/en/site/header/master/_jcr_content/root/header/image.coreimg.png/1719424187605/pge-logo.png" class="cmp-image__image" itemprop="contentUrl" data-cmp-hook-image="image" alt="Pacific Gas and Electric Company logo"/>
+	            
+	        
+	    </a>
+	
+
+    
+    
+</div>
+
+    
+
+                </div>
+            </div>
+            <div class="header-navigation__actions">   
+                
+    <div class="nav-item nav-dropdown">
+        
+            <a href="javascript:void(0)" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="nav-link">
+                <i class="icon icon--alert-triangle" aria-hidden="true"> </i>
+                <span> Outages</span>
+            </a>
+        
+        
+        <ul class="menu">
+            
+                <li>
+					
+                    <a href="https://pgealerts.alerts.pge.com/" class="item" target="_blank">
+                        View/Report Outage
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/contact-us/report-an-emergency.html#tabs-f116b0d8e5-item-f3dfe5f52d-tab" class="item" target="_self">
+                        Report Gas Leak
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/contact-us/report-an-emergency.html#tabs-f116b0d8e5-item-6ba3182eb3-tab" class="item" target="_self">
+                        Downed Powerline
+                        
+                    </a>
+					
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    
+
+    
+                
+                   <!-- FE code for popup-->
+                <a href="javascript:void(0)" class="header-navigation__link navigation-bar__report-link" aria-haspopup="true" role="button" aria-expanded="false">
+				    <span class="header-navigation__text">Outages</span>
+                    
+                    <i class="icon icon--alert-triangle" aria-hidden="true">
+                    </i>
+                </a>
+
+            <div class="header-navigation__sign-in">
+                <div class="button button--singin button--icon-cta aem-GridColumn aem-GridColumn--default--12">
+                    
+    
+		
+        <a id="button-153dacbd7d" class="cmp-button" href="https://m.pge.com" data-cmp-clickable data-cmp-data-layer="{&#34;button-153dacbd7d&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/pge-core/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-28T16:08:51Z&#34;,&#34;dc:title&#34;:&#34;Sign In&#34;,&#34;xdm:linkURL&#34;:&#34;https://m.pge.com&#34;}}">
+            
+    <i class="icon icon--user sb-icon sb-icon--user" aria-hidden="true"></i>
+
+            <span class="cmp-button__text">Sign In</span>
+        </a>
+		
+    
+
+		
+    
+
+    
+
+	
+	
+	
+
+                </div>
+                <div class="button button--singout button--hidden button--icon-cta aem-GridColumn aem-GridColumn--default--12">
+                    
+    
+		
+        <a id="button-2940dc2a8b" class="cmp-button" href="https://m.pge.com/#logout" data-cmp-clickable data-cmp-data-layer="{&#34;button-2940dc2a8b&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/pge-core/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-28T16:08:28Z&#34;,&#34;dc:title&#34;:&#34;Sign out&#34;,&#34;xdm:linkURL&#34;:&#34;https://m.pge.com/#logout&#34;}}">
+            
+    <i class="icon icon--log-out sb-icon sb-icon--log-out" aria-hidden="true"></i>
+
+            <span class="cmp-button__text">Sign out</span>
+        </a>
+		
+    
+
+		
+    
+
+    
+
+	
+	
+	
+
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="header-navigation--drawer">
+        <div class="header-menu">
+            <div class="header-menu--wrapper">
+                <div class="aem-Grid aem-Grid--12 aem-Grid--default--12 top-navigation-bar">
+                    <div class="aem-GridColumn aem-GridColumn--default--12  aem-GridColumn--tablet--12 aem-GridColumn--offset--tablet--0 aem-GridColumn--phone--12 aem-GridColumn--offset--phone--0">
+                        <div class="top-navigation-bar__wrapper">
+                             <!-- Search component starts here -->
+                             <div class="search-bar--wrapper tablet-hide">
+                                <section id="search-83d1c1f9c7" class="cmp-search" role="search" data-cmp-is="search" data-cmp-min-length="3" data-cmp-results-size="10">
+    <form class="cmp-search__form" data-cmp-hook-search="form" method="get" action="/en/search-results.html" autocomplete="off">
+        <div class="cmp-search__field">
+            <span class="cmp-search__loading-indicator" data-cmp-hook-search="loadingIndicator"></span>
+            <input class="cmp-search__input" id="cmp-search__input" data-cmp-hook-search="input" type="text" name="fulltext" placeholder="Search" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-invalid="false" aria-label="Search" aria-expanded="false" tabindex="0"/>
+            <label for="cmp-search__input-desktop" class="cmp-search__label"></label>
+            <button type="button" class="Qsearch-bar__clear cmp-search__clear" data-cmp-hook-search="clear" aria-label="Clear" aria-hidden="true">
+                <i class="icon icon--x"></i>
+            </button>
+            <button type="submit" id="Qsearch-bar_submit" class="Qsearch-bar__search" aria-label="Search" aria-hidden="false">
+                <i class="icon icon--search"></i>
+            </button> 
+        </div>
+           <!-- Added custom cancel button here -->
+           <button type="button" class="search__cancel tablet-show" aria-label="Quick links Cancel" aria-hidden="false" tabindex="0">
+            <span class="cmp-button__text">Cancel</span>
+          </button>
+    </form>
+    <div data-cmp-hook-search="results" aria-hidden="true"></div>
+    
+        <div class="cmp-search__results-wrapper" aria-label="Quick Search results" aria-hidden="true">
+            <div class="Qsearch-error-msg Qsearch-empty" id="Qsearch-empty" aria-live="assertive"><p>Error: Field cannot left blank.</p>
+</div>
+            <div class="Qsearch-error-msg Qsearch-invalid" id="Qsearch-invalid" aria-live="assertive"><p>Error: Invalid entry. Do not use equal signs [&#61;] or colons [:].</p>
+</div>
+            <span class="cmp-search__heading">Quick links</span>
+                <ul class="menu">
+				    
+						<li>
+							<a class="cmp-search__item" href="/en/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html" target="_self">
+								<span class="cmp-search__item-title">CARE. Find out if you qualify for a discount.</span>
+							</a>
+						</li>
+					
+						<li>
+							<a class="cmp-search__item" href="/en/save-energy-and-money/rebates-and-incentives.html" target="_self">
+								<span class="cmp-search__item-title">Rebates. Explore PG&amp;E rebates for your home.</span>
+							</a>
+						</li>
+					
+						<li>
+							<a class="cmp-search__item" href="https://www.pge.com/outages" target="_blank">
+								<span class="cmp-search__item-title">Outages. Report and view electric outages.</span>
+							</a>
+						</li>
+					
+						<li>
+							<a class="cmp-search__item" href="/en/account/billing-and-assistance/financial-assistance/medical-baseline-program.html" target="_self">
+								<span class="cmp-search__item-title">Medical Baseline Allowance. Learn how to apply.</span>
+							</a>
+						</li>
+					
+						<li>
+							<a class="cmp-search__item" href="https://jobs.pge.com" target="_blank">
+								<span class="cmp-search__item-title">Jobs/Careers. Find out about jobs at PG&amp;E.</span>
+							</a>
+						</li>
+					
+                </ul>
+        </div>
+    
+</section>
+                                </div>
+                                <!-- Search component ends here -->
+                            <!-- navigation-link-list custom component starts here -->
+                            <div class="navigation-link-list">
+                                <div class="nav" role="navigation">
+                                    
+    <div class="nav-item nav-dropdown">
+        
+            <a href="javascript:void(0)" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="nav-link">
+                <i class="icon icon--alert-triangle" aria-hidden="true"> </i>
+                <span> Outages</span>
+            </a>
+        
+        
+        <ul class="menu">
+            
+                <li>
+					
+                    <a href="https://pgealerts.alerts.pge.com/" class="item" target="_blank">
+                        View/Report Outage
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/contact-us/report-an-emergency.html#tabs-f116b0d8e5-item-f3dfe5f52d-tab" class="item" target="_self">
+                        Report Gas Leak
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/contact-us/report-an-emergency.html#tabs-f116b0d8e5-item-6ba3182eb3-tab" class="item" target="_self">
+                        Downed Powerline
+                        
+                    </a>
+					
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    
+
+
+                                </div>
+                            </div>
+                            <!-- navigation-link-list custom component ends here -->
+                            <!-- Contact Us Button component starts here -->
+                            <div class="contact">
+                                <div class="button">
+    
+
+    
+
+	
+		<a id="button-4cc531b387" class="cmp-button" href="tel:(877)%20660-6789" data-cmp-clickable data-cmp-data-layer="{&#34;button-4cc531b387&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/pge-core/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-04-22T16:25:21Z&#34;,&#34;dc:title&#34;:&#34;Contact Us&#34;,&#34;xdm:linkURL&#34;:&#34;/en/contact-us.html&#34;}}">
+            
+    <i class="icon icon--phone sb-icon sb-icon--phone" aria-hidden="true"></i>
+
+            <span class="cmp-button__text">1-877-660-6789</span>
+        </a>
+		
+    
+
+	
+	
+	
+</div>
+                            </div>
+                            <!-- Contact Us Button component ends here -->
+                            <!-- languagenavigation OOTB component starts here -->
+                            <div class="language-navigation-wrapper"><div data-cmp-data-layer="{&#34;languagenavigation-3c7929896d&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/structure/languagenavigation&#34;,&#34;repo:modifyDate&#34;:&#34;2022-05-04T10:37:49Z&#34;}}" class="cmp-custom-language-navigation">
+<!-- Added for Accessibility changes-->
+    <!-- insert Button component here -->
+       <button type="button" class="cmp-button" aria-expanded="false" aria-haspopup="true">
+         <i class="icon icon--globe" aria-hidden="true"></i>
+         
+           <span class="cmp-button__text">
+            English</span>
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+       </button>
+     <!-- end Button component -->
+<!-- Added for Accessibility changes-->
+<div class="languagenavigation">
+<nav class="cmp-languagenavigation">
+    <ul class="cmp-languagenavigation__group">
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-en cmp-languagenavigation__item--level-0 cmp-languagenavigation__item--active" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-8445fe6039&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-05-26T00:43:11Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/en/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;en&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable aria-current="page" class="cmp-languagenavigation__item-link" href="/en/privacy-center/disclosure.html" hreflang="en" lang="en" rel="alternate"> English</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-zh cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-c07e06c9a8&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:58:54Z&#34;,&#34;dc:title&#34;:&#34;太平洋煤電公司 - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/zh/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;zh&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/zh/privacy-center/disclosure.html" hreflang="zh" lang="zh" rel="alternate"> 中文</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ko cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-a1b2c1050b&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:01:43Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/ko/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ko&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/ko/privacy-center/disclosure.html" hreflang="ko" lang="ko" rel="alternate"> 한국어 </a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-tl cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-6f1dad35ae&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:02:03Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/tl/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;tl&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/tl/privacy-center/disclosure.html" hreflang="tl" lang="tl" rel="alternate"> Tagalog </a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ja cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-cf9957e926&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:01:04Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/ja/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ja&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/ja/privacy-center/disclosure.html" hreflang="ja" lang="ja" rel="alternate"> 日本語</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-hmn cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-a9313dc70b&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:00:44Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/hmn/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ho&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+  <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/hmn/privacy-center/disclosure.html" hreflang="hmn" lang="hmn" rel="alternate"> Hmoob</a>
+	
+	 
+
+            
+        </li>
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ar cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-c3fd5032f2&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:01:39Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/ar/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ar&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/ar/privacy-center/disclosure.html" hreflang="ar" lang="ar" rel="alternate"> عربي</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-es cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-ea56914354&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:00:21Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/es/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;es&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/es/privacy-center/disclosure.html" hreflang="es" lang="es" rel="alternate"> Español</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-fa cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-f139fbd0a4&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:58:23Z&#34;,&#34;dc:title&#34;:&#34;شرکت گاز و برق پاسیفیک - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/fa/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;fa&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/fa/privacy-center/disclosure.html" hreflang="fa" lang="fa" rel="alternate"> فارسی</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-hi cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-a7836f8c80&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:59:52Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/hi/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;hi&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/hi/privacy-center/disclosure.html" hreflang="hi" lang="hi" rel="alternate"> हिन्दी</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-km cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-eabf0b8113&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-31T01:27:15Z&#34;,&#34;dc:title&#34;:&#34;ក្រុមហ៊ុន Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/km/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;km&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/km/privacy-center/disclosure.html" hreflang="km" lang="km" rel="alternate"> ខ្មែរ</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-pa cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-8f1758bbf8&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:01:22Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/pa/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;pa&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/pa/privacy-center/disclosure.html" hreflang="pa" lang="pa" rel="alternate"> ਪੰਜਾਬੀ</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-pt cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-93cd377811&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:59:15Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/pt/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;pt&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/pt/privacy-center/disclosure.html" hreflang="pt" lang="pt" rel="alternate"> Português</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-th cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-06030281bd&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:02:23Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/th/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;th&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/th/privacy-center/disclosure.html" hreflang="th" lang="th" rel="alternate"> ไทย</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-vi cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-4be6fc0cf7&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:02:07Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/vi/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;vi&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/vi/privacy-center/disclosure.html" hreflang="vi" lang="vi" rel="alternate"> Tiếng Việt</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ru cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-240dd0577a&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:59:32Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/ru/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ru&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/ru/privacy-center/disclosure.html" hreflang="ru" lang="ru" rel="alternate"> русский</a>
+	
+
+            
+        </li>
+    
+    
+
+    </ul>
+</nav>
+</div>
+
+    
+
+</div>
+</div>
+                            <!-- languagenavigation OOTB component ends here -->
+                        </div>
+                    </div>
+                </div>
+                <div class="navigation-bar">              
+                    <div class="navigation-bar__header navigation-bar__header-mobile">
+                        <!-- Image for mobile component starts here -->
+                        
+                        <!-- Image for mobile component ends here -->
+                
+                        <!-- Search component starts here -->
+                        <div class="search-bar--wrapper">
+                            <section id="search-83d1c1f9c7" class="cmp-search" role="search" data-cmp-is="search" data-cmp-min-length="3" data-cmp-results-size="10">
+    <form class="cmp-search__form" data-cmp-hook-search="form" method="get" action="/en/search-results.html" autocomplete="off">
+        <div class="cmp-search__field">
+            <span class="cmp-search__loading-indicator" data-cmp-hook-search="loadingIndicator"></span>
+            <input class="cmp-search__input" id="cmp-search__input" data-cmp-hook-search="input" type="text" name="fulltext" placeholder="Search" role="combobox" aria-autocomplete="list" aria-haspopup="true" aria-invalid="false" aria-label="Search" aria-expanded="false" tabindex="0"/>
+            <label for="cmp-search__input-desktop" class="cmp-search__label"></label>
+            <button type="button" class="Qsearch-bar__clear cmp-search__clear" data-cmp-hook-search="clear" aria-label="Clear" aria-hidden="true">
+                <i class="icon icon--x"></i>
+            </button>
+            <button type="submit" id="Qsearch-bar_submit" class="Qsearch-bar__search" aria-label="Search" aria-hidden="false">
+                <i class="icon icon--search"></i>
+            </button> 
+        </div>
+           <!-- Added custom cancel button here -->
+           <button type="button" class="search__cancel tablet-show" aria-label="Quick links Cancel" aria-hidden="false" tabindex="0">
+            <span class="cmp-button__text">Cancel</span>
+          </button>
+    </form>
+    <div data-cmp-hook-search="results" aria-hidden="true"></div>
+    
+        <div class="cmp-search__results-wrapper" aria-label="Quick Search results" aria-hidden="true">
+            <div class="Qsearch-error-msg Qsearch-empty" id="Qsearch-empty" aria-live="assertive"><p>Error: Field cannot left blank.</p>
+</div>
+            <div class="Qsearch-error-msg Qsearch-invalid" id="Qsearch-invalid" aria-live="assertive"><p>Error: Invalid entry. Do not use equal signs [&#61;] or colons [:].</p>
+</div>
+            <span class="cmp-search__heading">Quick links</span>
+                <ul class="menu">
+				    
+						<li>
+							<a class="cmp-search__item" href="/en/account/billing-and-assistance/financial-assistance/california-alternate-rates-for-energy-program.html" target="_self">
+								<span class="cmp-search__item-title">CARE. Find out if you qualify for a discount.</span>
+							</a>
+						</li>
+					
+						<li>
+							<a class="cmp-search__item" href="/en/save-energy-and-money/rebates-and-incentives.html" target="_self">
+								<span class="cmp-search__item-title">Rebates. Explore PG&amp;E rebates for your home.</span>
+							</a>
+						</li>
+					
+						<li>
+							<a class="cmp-search__item" href="https://www.pge.com/outages" target="_blank">
+								<span class="cmp-search__item-title">Outages. Report and view electric outages.</span>
+							</a>
+						</li>
+					
+						<li>
+							<a class="cmp-search__item" href="/en/account/billing-and-assistance/financial-assistance/medical-baseline-program.html" target="_self">
+								<span class="cmp-search__item-title">Medical Baseline Allowance. Learn how to apply.</span>
+							</a>
+						</li>
+					
+						<li>
+							<a class="cmp-search__item" href="https://jobs.pge.com" target="_blank">
+								<span class="cmp-search__item-title">Jobs/Careers. Find out about jobs at PG&amp;E.</span>
+							</a>
+						</li>
+					
+                </ul>
+        </div>
+    
+</section>
+                        </div>
+                        <!-- Search component ends here -->
+                        <div class="navigation-bar__header--cross-icon-wrapper">
+                            <a class="navigation-bar__header--cross-icon navigation-bar__menu-link" href="javascript:void(0)" role="button" aria-label="close menu">
+                                <i class="icon icon--x" aria-hidden="true">
+                                </i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="navigation-bar__header-dropdown">
+                
+                        <!--Navigation OOTB component Starts  -->
+                        <!--Added wrapper for navigation dropdown-->
+<div class="navigation navigation--header">
+	<nav id="navigation-2b4020f410" class="cmp-navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" data-cmp-data-layer="{&#34;navigation-2b4020f410&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/structure/navigation&#34;,&#34;repo:modifyDate&#34;:&#34;2024-09-26T18:44:56Z&#34;}}" aria-label="Header navigation for english language">
+  <ul class="cmp-navigation__group">
+    
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-0 cmp-navigation__item--active" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-1d9dfcb7b4&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-05-26T17:38:56Z&#34;,&#34;dc:title&#34;:&#34;Home&#34;,&#34;xdm:linkURL&#34;:&#34;/en.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en.html" data-cmp-clickable class="cmp-navigation__item-link">Home
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+      
+        
+
+  <li class="cmp-navigation__item cmp-navigation__item--level-1">
+    <a href="#" aria-expanded="false" role="button" aria-haspopup="true" class="cmp-navigation__item-link">
+      Account
+    </a>
+    <ul class="cmp-navigation__group">
+      
+      <li class="cmp-navigation__item cmp-navigation__item--level-2">
+        
+    
+    
+
+    
+        <a href="/en/account.html" aria-label="Account Overview" class="cmp-navigation__item-link">
+            Account Overview
+            
+        </a>
+    
+
+      </li>
+      
+      <li class="cmp-navigation__item cmp-navigation__item--level-2">
+        
+    
+    
+        <a href="https://m.pge.com/#dashboard" aria-label="Go To My Account" class="cmp-navigation__item-link">
+            Go To My Account
+            <i class="icon icon--user" aria-hidden="true"></i>
+        </a>
+    
+
+    
+
+      </li>
+      
+      <li class="cmp-navigation__item cmp-navigation__item--level-2">
+        
+    
+    
+        <a href="https://m.pge.com/#dashboard" aria-label="Pay My Bill" class="cmp-navigation__item-link">
+            Pay My Bill
+            <i class="icon icon--user" aria-hidden="true"></i>
+        </a>
+    
+
+    
+
+      </li>
+      
+      <li class="cmp-navigation__item cmp-navigation__item--level-2">
+        
+    
+    
+        <a href="https://m.pge.com/#myusage" aria-label="View My Usage" class="cmp-navigation__item-link">
+            View My Usage
+            <i class="icon icon--user" aria-hidden="true"></i>
+        </a>
+    
+
+    
+
+      </li>
+      
+      <li class="cmp-navigation__item cmp-navigation__item--level-2">
+        
+    
+    
+        <a href="https://m.pge.com/#startorstopservice" aria-label="Start, Stop or Transfer Service" class="cmp-navigation__item-link">
+            Start, Stop or Transfer Service
+            
+        </a>
+    
+
+    
+
+      </li>
+      
+      <li class="cmp-navigation__item cmp-navigation__item--level-2">
+        
+    
+    
+        <a href="https://m.pge.com/#appointments" aria-label="Schedule an Appointment" class="cmp-navigation__item-link">
+            Schedule an Appointment
+            <i class="icon icon--user" aria-hidden="true"></i>
+        </a>
+    
+
+    
+
+      </li>
+      
+      <li class="cmp-navigation__item cmp-navigation__item--level-2">
+        
+    
+    
+
+    
+        <a href="/en/account/rate-plans.html" aria-label="Rate Plans" class="cmp-navigation__item-link">
+            Rate Plans
+            
+        </a>
+    
+
+      </li>
+      
+      <li class="cmp-navigation__item cmp-navigation__item--level-2">
+        
+    
+    
+
+    
+        <a href="/en/account/service-requests/building-and-renovation.html" aria-label="Building and Renovation" class="cmp-navigation__item-link">
+            Building &amp; Renovation
+            
+        </a>
+    
+
+      </li>
+      
+    </ul>
+  </li>
+
+
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-a5a84bf593&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-05-26T21:28:41Z&#34;,&#34;dc:title&#34;:&#34;Outages &amp; Safety&#34;,&#34;xdm:linkURL&#34;:&#34;/en/outages-and-safety.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+    
+        <a href="/en/outages-and-safety.html" aria-expanded="false" role="button" aria-haspopup="true" data-cmp-clickable class="cmp-navigation__item-link">
+            
+			Outages &amp; Safety
+			
+            </a>
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    <li class="cmp-navigation__item cmp-navigation__item--level-2">
+      <a href="/en/outages-and-safety.html" data-cmp-clickable class="cmp-navigation__item-link">Outages &amp; Safety Overview</a>
+    </li>
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-e877a8e9e2&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-28T01:03:24Z&#34;,&#34;dc:title&#34;:&#34;View/Report Outage&#34;,&#34;xdm:linkURL&#34;:&#34;https://pgealerts.alerts.pge.com/&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="https://pgealerts.alerts.pge.com/" data-cmp-clickable class="cmp-navigation__item-link">View/Report Outage
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-5281ea2958&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-29T05:49:46Z&#34;,&#34;dc:title&#34;:&#34;Report an Emergency&#34;,&#34;xdm:linkURL&#34;:&#34;/en/contact-us/report-an-emergency.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/contact-us/report-an-emergency.html" data-cmp-clickable class="cmp-navigation__item-link">Report an Emergency
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-0c8ef0f42d&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-16T17:54:07Z&#34;,&#34;dc:title&#34;:&#34;Outage Preparedness &amp; Support&#34;,&#34;xdm:linkURL&#34;:&#34;/en/outages-and-safety/outage-preparedness-and-support.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/outages-and-safety/outage-preparedness-and-support.html" data-cmp-clickable class="cmp-navigation__item-link">Outage Preparedness &amp; Support
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-4b76b9895d&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-28T01:09:22Z&#34;,&#34;dc:title&#34;:&#34;Community Wildfire Safety Program&#34;,&#34;xdm:linkURL&#34;:&#34;/en/outages-and-safety/safety/community-wildfire-safety-program.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/outages-and-safety/safety/community-wildfire-safety-program.html" data-cmp-clickable class="cmp-navigation__item-link">Learn About Wildfire Safety
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-0c0301e247&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-05-26T21:28:41Z&#34;,&#34;dc:title&#34;:&#34;Save Energy &amp; Money&#34;,&#34;xdm:linkURL&#34;:&#34;/en/save-energy-and-money.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+    
+        <a href="/en/save-energy-and-money.html" aria-expanded="false" role="button" aria-haspopup="true" data-cmp-clickable class="cmp-navigation__item-link">
+            
+			Save Energy &amp; Money
+			
+            </a>
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    <li class="cmp-navigation__item cmp-navigation__item--level-2">
+      <a href="/en/save-energy-and-money.html" data-cmp-clickable class="cmp-navigation__item-link">Save Energy &amp; Money Overview</a>
+    </li>
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-09cd7596bc&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-29T17:00:13Z&#34;,&#34;dc:title&#34;:&#34;Financial Assistance&#34;,&#34;xdm:linkURL&#34;:&#34;/en/account/billing-and-assistance/financial-assistance.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/account/billing-and-assistance/financial-assistance.html" data-cmp-clickable class="cmp-navigation__item-link">Get Financial Assistance
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-2e86178fd7&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-07-21T04:07:53Z&#34;,&#34;dc:title&#34;:&#34;Energy Usage &amp; Tips&#34;,&#34;xdm:linkURL&#34;:&#34;/en/save-energy-and-money/energy-usage-and-tips.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/save-energy-and-money/energy-usage-and-tips.html" data-cmp-clickable class="cmp-navigation__item-link">Energy Usage &amp; Tips
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-f49bfdc05d&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-07-21T19:25:45Z&#34;,&#34;dc:title&#34;:&#34;Rebates &amp; Incentives&#34;,&#34;xdm:linkURL&#34;:&#34;/en/save-energy-and-money/rebates-and-incentives.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/save-energy-and-money/rebates-and-incentives.html" data-cmp-clickable class="cmp-navigation__item-link">Rebates &amp; Incentives
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-11c6325936&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-05-26T21:28:40Z&#34;,&#34;dc:title&#34;:&#34;Business Resources&#34;,&#34;xdm:linkURL&#34;:&#34;/en/business-resources.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+    
+        <a href="/en/business-resources.html" aria-expanded="false" role="button" aria-haspopup="true" data-cmp-clickable class="cmp-navigation__item-link">
+            
+			Business Resources
+			
+            </a>
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    <li class="cmp-navigation__item cmp-navigation__item--level-2">
+      <a href="/en/business-resources.html" data-cmp-clickable class="cmp-navigation__item-link">Business Resources Overview</a>
+    </li>
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-3d0fc37a8f&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-12-06T19:43:29Z&#34;,&#34;dc:title&#34;:&#34;Large Business&#34;,&#34;xdm:linkURL&#34;:&#34;/en/business-resources/large-business.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/business-resources/large-business.html" data-cmp-clickable class="cmp-navigation__item-link">Large Business
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-bf0ae3ff97&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-19T00:47:27Z&#34;,&#34;dc:title&#34;:&#34;Small &amp; Medium Business&#34;,&#34;xdm:linkURL&#34;:&#34;/en/business-resources/small-and-medium-business.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/business-resources/small-and-medium-business.html" data-cmp-clickable class="cmp-navigation__item-link">Small &amp; Medium Business
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-bf96b187f8&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-19T00:36:28Z&#34;,&#34;dc:title&#34;:&#34;Economic Development&#34;,&#34;xdm:linkURL&#34;:&#34;/en/business-resources/economic-development.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/business-resources/economic-development.html" data-cmp-clickable class="cmp-navigation__item-link">Economic Development
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-0102674903&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-19T00:47:11Z&#34;,&#34;dc:title&#34;:&#34;Education &amp; Tools&#34;,&#34;xdm:linkURL&#34;:&#34;/en/business-resources/business-education-and-tools.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/business-resources/business-education-and-tools.html" data-cmp-clickable class="cmp-navigation__item-link">Education &amp; Tools
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-68c18193fc&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-19T00:28:31Z&#34;,&#34;dc:title&#34;:&#34;Property Management Portal&#34;,&#34;xdm:linkURL&#34;:&#34;/en/business-resources/property-management-portal.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/business-resources/property-management-portal.html" data-cmp-clickable class="cmp-navigation__item-link">Property Management Portal
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-8b46c93d61&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-05T00:38:12Z&#34;,&#34;dc:title&#34;:&#34;Business Center&#34;,&#34;xdm:linkURL&#34;:&#34;/en/business-resources/business-center.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/business-resources/business-center.html" data-cmp-clickable class="cmp-navigation__item-link">Business Center
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-1" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-bfa7fab32e&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-04T05:32:52Z&#34;,&#34;dc:title&#34;:&#34;Clean Energy&#34;,&#34;xdm:linkURL&#34;:&#34;/en/clean-energy.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+    
+        <a href="/en/clean-energy.html" aria-expanded="false" role="button" aria-haspopup="true" data-cmp-clickable class="cmp-navigation__item-link">
+            
+			Clean Energy
+			
+            </a>
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    <li class="cmp-navigation__item cmp-navigation__item--level-2">
+      <a href="/en/clean-energy.html" data-cmp-clickable class="cmp-navigation__item-link">Clean Energy Overview</a>
+    </li>
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-193cf84f83&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-07T20:15:17Z&#34;,&#34;dc:title&#34;:&#34;Solar&#34;,&#34;xdm:linkURL&#34;:&#34;/en/clean-energy/solar.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/clean-energy/solar.html" data-cmp-clickable class="cmp-navigation__item-link">Solar
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-48f5e1a50a&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-07T20:11:42Z&#34;,&#34;dc:title&#34;:&#34;Electric Vehicles (EV)&#34;,&#34;xdm:linkURL&#34;:&#34;/en/clean-energy/electric-vehicles.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/clean-energy/electric-vehicles.html" data-cmp-clickable class="cmp-navigation__item-link">Electric Vehicles (EV)
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-ceb3a38704&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-07T20:12:15Z&#34;,&#34;dc:title&#34;:&#34;Natural Gas Vehicles (NGV)&#34;,&#34;xdm:linkURL&#34;:&#34;/en/clean-energy/natural-gas-vehicles.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/clean-energy/natural-gas-vehicles.html" data-cmp-clickable class="cmp-navigation__item-link">Natural Gas Vehicles (NGV)
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-56e7b1c2e2&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-04T05:34:56Z&#34;,&#34;dc:title&#34;:&#34;Battery Storage&#34;,&#34;xdm:linkURL&#34;:&#34;/en/clean-energy/battery-storage.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/clean-energy/battery-storage.html" data-cmp-clickable class="cmp-navigation__item-link">Battery Storage
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+      
+      
+  <li class="cmp-navigation__item cmp-navigation__item--level-2" data-cmp-data-layer="{&#34;navigation-2b4020f410-item-6c14b53cbf&#34;:{&#34;@type&#34;:&#34;pge/components/structure/navigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2024-02-07T22:00:16Z&#34;,&#34;dc:title&#34;:&#34;Building Electrification&#34;,&#34;xdm:linkURL&#34;:&#34;/en/clean-energy/building-electrification.html&#34;}}">
+    
+    <!-- Added for accessbility changes-->
+    
+        <a href="/en/clean-energy/building-electrification.html" data-cmp-clickable class="cmp-navigation__item-link">Building Electrification
+            
+        </a>
+    
+    	
+    <!-- Added for accessbility changes-->
+
+    
+  <ul class="cmp-navigation__group">
+    
+    
+  </ul>
+
+  </li>
+
+      
+    
+  </ul>
+
+  </li>
+
+      
+    
+  </ul>
+
+  </li>
+
+      
+    
+  </ul>
+</nav>
+	
+    
+
+</div>
+                        <!-- Navigation Ends  -->
+                    </div>
+                    
+                    <!-- Added for Accessibility changes-->
+                    <div class="top-navigation-bar__tablet">
+                        <!-- navigation-link-list custom component starts here -->
+                        <div class="navigation-link-list">
+                            <div class="nav" role="navigation">
+                                
+    <div class="nav-item nav-dropdown">
+        
+            <a href="javascript:void(0)" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="nav-link">
+                <i class="icon icon--alert-triangle" aria-hidden="true"> </i>
+                <span> Outages</span>
+            </a>
+        
+        
+        <ul class="menu">
+            
+                <li>
+					
+                    <a href="https://pgealerts.alerts.pge.com/" class="item" target="_blank">
+                        View/Report Outage
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/contact-us/report-an-emergency.html#tabs-f116b0d8e5-item-f3dfe5f52d-tab" class="item" target="_self">
+                        Report Gas Leak
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/contact-us/report-an-emergency.html#tabs-f116b0d8e5-item-6ba3182eb3-tab" class="item" target="_self">
+                        Downed Powerline
+                        
+                    </a>
+					
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    
+
+
+                            </div>
+                        </div>
+                        <!-- navigation-link-list custom component ends here -->
+                        <!-- Contact Us Button component starts here -->
+                        <div class="contact">
+                            <div class="button">
+    
+
+    
+
+	
+		<a id="button-4cc531b387" class="cmp-button" href="tel:(877)%20660-6789" data-cmp-clickable data-cmp-data-layer="{&#34;button-4cc531b387&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/pge-core/button&#34;,&#34;repo:modifyDate&#34;:&#34;2024-04-22T16:25:21Z&#34;,&#34;dc:title&#34;:&#34;Contact Us&#34;,&#34;xdm:linkURL&#34;:&#34;/en/contact-us.html&#34;}}">
+            
+    <i class="icon icon--phone sb-icon sb-icon--phone" aria-hidden="true"></i>
+
+            <span class="cmp-button__text">1-877-660-6789</span>
+        </a>
+		
+    
+
+	
+	
+	
+</div>
+                        </div>
+                        <!-- Contact Us Button component ends here -->
+                        <!-- insert Languagenavigation component here -->
+                        <div data-cmp-data-layer="{&#34;languagenavigation-3c7929896d&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/structure/languagenavigation&#34;,&#34;repo:modifyDate&#34;:&#34;2022-05-04T10:37:49Z&#34;}}" class="cmp-custom-language-navigation">
+<!-- Added for Accessibility changes-->
+    <!-- insert Button component here -->
+       <button type="button" class="cmp-button" aria-expanded="false" aria-haspopup="true">
+         <i class="icon icon--globe" aria-hidden="true"></i>
+         
+           <span class="cmp-button__text">
+            English</span>
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+           
+         
+       </button>
+     <!-- end Button component -->
+<!-- Added for Accessibility changes-->
+<div class="languagenavigation">
+<nav class="cmp-languagenavigation">
+    <ul class="cmp-languagenavigation__group">
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-en cmp-languagenavigation__item--level-0 cmp-languagenavigation__item--active" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-8445fe6039&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-05-26T00:43:11Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/en/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;en&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable aria-current="page" class="cmp-languagenavigation__item-link" href="/en/privacy-center/disclosure.html" hreflang="en" lang="en" rel="alternate"> English</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-zh cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-c07e06c9a8&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:58:54Z&#34;,&#34;dc:title&#34;:&#34;太平洋煤電公司 - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/zh/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;zh&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/zh/privacy-center/disclosure.html" hreflang="zh" lang="zh" rel="alternate"> 中文</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ko cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-a1b2c1050b&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:01:43Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/ko/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ko&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/ko/privacy-center/disclosure.html" hreflang="ko" lang="ko" rel="alternate"> 한국어 </a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-tl cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-6f1dad35ae&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:02:03Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/tl/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;tl&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/tl/privacy-center/disclosure.html" hreflang="tl" lang="tl" rel="alternate"> Tagalog </a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ja cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-cf9957e926&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:01:04Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/ja/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ja&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/ja/privacy-center/disclosure.html" hreflang="ja" lang="ja" rel="alternate"> 日本語</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-hmn cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-a9313dc70b&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:00:44Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/hmn/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ho&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+  <a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/hmn/privacy-center/disclosure.html" hreflang="hmn" lang="hmn" rel="alternate"> Hmoob</a>
+	
+	 
+
+            
+        </li>
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ar cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-c3fd5032f2&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:01:39Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/ar/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ar&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/ar/privacy-center/disclosure.html" hreflang="ar" lang="ar" rel="alternate"> عربي</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-es cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-ea56914354&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:00:21Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/es/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;es&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/es/privacy-center/disclosure.html" hreflang="es" lang="es" rel="alternate"> Español</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-fa cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-f139fbd0a4&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:58:23Z&#34;,&#34;dc:title&#34;:&#34;شرکت گاز و برق پاسیفیک - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/fa/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;fa&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/fa/privacy-center/disclosure.html" hreflang="fa" lang="fa" rel="alternate"> فارسی</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-hi cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-a7836f8c80&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:59:52Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/hi/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;hi&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/hi/privacy-center/disclosure.html" hreflang="hi" lang="hi" rel="alternate"> हिन्दी</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-km cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-eabf0b8113&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-31T01:27:15Z&#34;,&#34;dc:title&#34;:&#34;ក្រុមហ៊ុន Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/km/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;km&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/km/privacy-center/disclosure.html" hreflang="km" lang="km" rel="alternate"> ខ្មែរ</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-pa cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-8f1758bbf8&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:01:22Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/pa/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;pa&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/pa/privacy-center/disclosure.html" hreflang="pa" lang="pa" rel="alternate"> ਪੰਜਾਬੀ</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-pt cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-93cd377811&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:59:15Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/pt/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;pt&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/pt/privacy-center/disclosure.html" hreflang="pt" lang="pt" rel="alternate"> Português</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-th cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-06030281bd&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:02:23Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/th/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;th&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/th/privacy-center/disclosure.html" hreflang="th" lang="th" rel="alternate"> ไทย</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-vi cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-4be6fc0cf7&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T21:02:07Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/vi/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;vi&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/vi/privacy-center/disclosure.html" hreflang="vi" lang="vi" rel="alternate"> Tiếng Việt</a>
+	
+
+            
+        </li>
+    
+    
+
+    
+        
+    
+        <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-ru cmp-languagenavigation__item--level-0" data-cmp-data-layer="{&#34;languagenavigation-3c7929896d-item-240dd0577a&#34;:{&#34;@type&#34;:&#34;pge/components/structure/languagenavigation/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-10-30T20:59:32Z&#34;,&#34;dc:title&#34;:&#34;Pacific Gas &amp; Electric Company - PG&amp;E&#34;,&#34;xdm:linkURL&#34;:&#34;/ru/privacy-center/disclosure.html&#34;,&#34;xdm:language&#34;:&#34;ru&#34;}}">
+            
+  
+  
+ 
+ 
+  
+   
+   
+	 
+	<a data-cmp-clickable class="cmp-languagenavigation__item-link" href="/ru/privacy-center/disclosure.html" hreflang="ru" lang="ru" rel="alternate"> русский</a>
+	
+
+            
+        </li>
+    
+    
+
+    </ul>
+</nav>
+</div>
+
+    
+
+</div>
+
+                        <!-- end Languagenavigation component -->
+                        <div class="sign-in">
+                            <div class="button button--singin ">                           
+                                
+    
+		
+        <a id="button-270590c88e" class="cmp-button" href="https://m.pge.com/" data-cmp-clickable data-cmp-data-layer="{&#34;button-270590c88e&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/pge-core/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-21T17:24:54Z&#34;,&#34;dc:title&#34;:&#34;Sign In&#34;,&#34;xdm:linkURL&#34;:&#34;https://m.pge.com/&#34;}}">
+            
+    <i class="icon icon--user sb-icon sb-icon--user" aria-hidden="true"></i>
+
+            <span class="cmp-button__text">Sign In</span>
+        </a>
+		
+    
+
+		
+    
+
+    
+
+	
+	
+	
+                      
+                            </div>
+                            <div class="button button--singout button--hidden ">
+                                
+    
+		
+        <a id="button-f6afc759a0" class="cmp-button" href="https://m.pge.com/#logout" data-cmp-clickable data-cmp-data-layer="{&#34;button-f6afc759a0&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/pge-core/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-28T16:09:50Z&#34;,&#34;dc:title&#34;:&#34;Sign out&#34;,&#34;xdm:linkURL&#34;:&#34;https://m.pge.com/#logout&#34;}}">
+            
+    <i class="icon icon--log-out sb-icon sb-icon--log-out" aria-hidden="true"></i>
+
+            <span class="cmp-button__text">Sign out</span>
+        </a>
+		
+    
+
+		
+    
+
+    
+
+	
+	
+	
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="navigation-bar__sign-in ">
+                        <!-- sign in button here -->
+                        <div class="button button--singin ">                           
+							
+    
+		
+        <a id="button-270590c88e" class="cmp-button" href="https://m.pge.com/" data-cmp-clickable data-cmp-data-layer="{&#34;button-270590c88e&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/pge-core/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-08-21T17:24:54Z&#34;,&#34;dc:title&#34;:&#34;Sign In&#34;,&#34;xdm:linkURL&#34;:&#34;https://m.pge.com/&#34;}}">
+            
+    <i class="icon icon--user sb-icon sb-icon--user" aria-hidden="true"></i>
+
+            <span class="cmp-button__text">Sign In</span>
+        </a>
+		
+    
+
+		
+    
+
+    
+
+	
+	
+	
+                      
+                        </div>
+                        <div class="button button--singout button--hidden ">
+                            
+    
+		
+        <a id="button-f6afc759a0" class="cmp-button" href="https://m.pge.com/#logout" data-cmp-clickable data-cmp-data-layer="{&#34;button-f6afc759a0&#34;:{&#34;@type&#34;:&#34;/apps/pge/components/pge-core/button&#34;,&#34;repo:modifyDate&#34;:&#34;2023-09-28T16:09:50Z&#34;,&#34;dc:title&#34;:&#34;Sign out&#34;,&#34;xdm:linkURL&#34;:&#34;https://m.pge.com/#logout&#34;}}">
+            
+    <i class="icon icon--log-out sb-icon sb-icon--log-out" aria-hidden="true"></i>
+
+            <span class="cmp-button__text">Sign out</span>
+        </a>
+		
+    
+
+		
+    
+
+    
+
+	
+	
+	
+
+                        </div>
+                    </div>
+                    <!-- Added for Accessibility changes-->
+                </div>
+            </div>
+        </div>
+        <div class="header-menu__mobile-bg">
+        </div>
+    </div>
+</div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</header>
+<div class="breadcrumb aem-GridColumn aem-GridColumn--default--12">
+<nav id="breadcrumb-054896cf8c" class="cmp-breadcrumb" aria-label="Breadcrumb" data-cmp-data-layer="{&#34;breadcrumb-054896cf8c&#34;:{&#34;@type&#34;:&#34;pge/components/core/breadcrumb&#34;,&#34;repo:modifyDate&#34;:&#34;2022-03-08T04:18:44Z&#34;}}">
+    <ol class="cmp-breadcrumb__list" itemscope itemtype="http://schema.org/BreadcrumbList">
+        
+
+    
+        <li class="cmp-breadcrumb__item" data-cmp-data-layer="{&#34;breadcrumb-054896cf8c-item-7039b41d3a&#34;:{&#34;@type&#34;:&#34;pge/components/core/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-05-26T00:43:09Z&#34;,&#34;dc:title&#34;:&#34;Privacy Center&#34;,&#34;xdm:linkURL&#34;:&#34;/en/privacy-center.html&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+
+            <a href="/en/privacy-center.html" class="cmp-breadcrumb__item-link" itemprop="item" data-cmp-clickable>
+                <span itemprop="name">Privacy Center</span>
+			</a>
+            <meta itemprop="position" content="2"/>
+
+
+		<span class="icon">
+				<svg xmlns="http://www.w3.org/2000/svg" width="4" height="10" viewBox="0 0 6 10" fill="none" aria-hidden="true" focusable="false">                   
+			   		 <path d="M1 9L5 5L1 1" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+					 </path> 
+			    </svg>
+			</span>
+        </li>
+
+    
+        <li class="cmp-breadcrumb__item cmp-breadcrumb__item--active bold" aria-current="location" data-cmp-data-layer="{&#34;breadcrumb-054896cf8c-item-8445fe6039&#34;:{&#34;@type&#34;:&#34;pge/components/core/breadcrumb/item&#34;,&#34;repo:modifyDate&#34;:&#34;2023-05-26T00:43:11Z&#34;,&#34;dc:title&#34;:&#34;Disclosure&#34;,&#34;xdm:linkURL&#34;:&#34;/en/privacy-center/disclosure.html&#34;}}" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+
+            
+                <span itemprop="name">Disclosure</span>
+			
+            <meta itemprop="position" content="3"/>
+
+
+		
+        </li>
+
+    </ol>
+</nav>
+
+    
+
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-421e38ad3d" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="hero-component teaser teaser-informational-hero--no-image aem-GridColumn aem-GridColumn--default--12"><div id="teaser-ec52668f33" class="teaser-informational cmp-teaser" data-cmp-data-layer="{&#34;teaser-ec52668f33&#34;:{&#34;@type&#34;:&#34;core/wcm/components/teaser/v1/teaser&#34;,&#34;repo:modifyDate&#34;:&#34;2023-05-26T00:45:57Z&#34;,&#34;dc:title&#34;:&#34;Disclosure&#34;}}">
+    
+    
+
+    <div class="cmp-teaser__content">
+        
+    
+
+        
+   <h1 class="cmp-teaser__title">
+      Disclosure
+   </h1>
+   
+
+
+		
+		
+
+		
+			
+				<div class="cmp-teaser__description"><h2><span style="	font-weight: normal;
+">Pacific Gas &amp; Electric Company website terms of use </span></h2>
+<p><span style="	font-weight: normal;
+">Revised July 2020</span></p>
+</div>
+			
+			
+		
+
+    </div>
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-75b7e75e05" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="text aem-GridColumn aem-GridColumn--default--12">
+<div data-cmp-data-layer="{&#34;text-dde66e9fa0&#34;:{&#34;@type&#34;:&#34;pge/components/core/text&#34;,&#34;repo:modifyDate&#34;:&#34;2023-11-08T00:10:19Z&#34;,&#34;xdm:text&#34;:&#34;&lt;p>&lt;img class=\&#34;cmp-image__image\&#34; src=\&#34;/content/dam/pge/icons/ic-info-note.svg\&#34; alt=\&#34;important notice icon\&#34; style=\&#34;font-family: Nunito , times , serif; max-width: 16.0px;\&#34;>&amp;nbsp;&lt;b style=\&#34;font-family: Nunito , times , serif;\&#34;>Note: &lt;/b>By using this website, you will be accepting these terms of use and the referenced requirements of pg&amp;amp;e&#39;s privacy policies and security policies. If you do not accept these terms of use, do not use this website.&lt;br>\r\n&lt;/p>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>Welcome to&amp;nbsp;&lt;a title=\&#34;PGE Website\&#34; href=\&#34;https://www.pge.com/\&#34;>pge.com&lt;/a>. This Website,&amp;nbsp;&lt;a title=\&#34;PGE Website\&#34; href=\&#34;https://www.pge.com/\&#34;>pge.com&lt;/a>, (the &amp;quot;Website&amp;quot;) is operated by Pacific Gas and Electric Company (&amp;quot;PG&amp;amp;E,&amp;quot; &amp;quot;the Company,&amp;quot; &amp;quot;we,&amp;quot; &amp;quot;us&amp;quot; or &amp;quot;our&amp;quot;). We are located at 300 Lakeside Drive, Suite 210, Oakland, CA 94612; telephone&amp;nbsp;&lt;a href=\&#34;tel:18007435000\&#34;>1-800-743-5000&lt;/a>.&lt;/p>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Please check these Terms of Use frequently, as we may from time to time unilaterally amend the Terms of Use by posting revised language on the Website. The most up-to-date version of these Terms of Use will always be available for your review on the Website. Amendments will become effective at the time they are posted on the Website. Your continued use of the Website after amendments are posted will constitute your acceptance of such amendments.&lt;/b>&lt;/p>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>We may at any time modify or discontinue any aspect or component of the Website. If you breach any of these Terms of Use, we can terminate your right to use the Website. Upon termination, you agree to immediately delete or destroy any downloaded or printed material obtained from the Website.&lt;/b>&lt;/p>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>General&lt;/b>&lt;/p>\r\n&lt;p>Through the Website, we provide a variety of information and services to our energy customers and other visitors to the Website. You may use the Website solely for your own internal lawful purposes and pursuant to these Terms of Use. You may view and download material displayed on the Website, provided you retain and comply with all copyright, trademark and other proprietary notices displayed on the materials. Use of these materials in publications, other websites or presentations is prohibited without PG&amp;amp;E&#39;s prior written consent.&lt;/p>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>User Accounts&lt;/b>&lt;/p>\r\n&lt;ul>\r\n&lt;li>The Website provides access to a variety of functions and services. Many of the services provide information about customer accounts and other personal information. To protect privacy, we may require you to establish one or more user accounts to access such Services (&amp;quot;User Account&amp;quot;). We reserve the unqualified right (i) to accept or decline to accept an application to open a User Account; (ii) to terminate any User Account and (iii) to discontinue the provision of any Service related to such User Account.&lt;/li>\r\n&lt;li>In connection with opening your User Account, you will either designate or receive a username and password and/or other credentials to authenticate your identity when you login to use certain Services. You agree (i) to provide accurate and complete information when opening a User Account; (ii) to update your information as necessary so it remains accurate and complete and (iii) not to impersonate any other person, operate under an alias, conceal your identity, or otherwise fraudulently mislead or misuse information of another person to gain access to Services.&lt;/li>\r\n&lt;/ul>\r\n&lt;ul>\r\n&lt;li>By establishing a User Account and obtaining access to customer energy, billing and other personal data, you are agreeing and representing that you are either (1) the PG&amp;amp;E customer for such data; or (2) a representative of the PG&amp;amp;E customer, duly and expressly authorized in writing by the customer to obtain access to such data on that customer&#39;s behalf, which documentation of authorization PG&amp;amp;E may require at any time.&lt;/li>\r\n&lt;/ul>\r\n&lt;ul>\r\n&lt;li>The right to use the Services and functions of a User Account on the Website is limited to you as the enrolling party. You are responsible for safeguarding your username, password and other required credentials and agree to hold PG&amp;amp;E harmless from any claims resulting from improper use of your username, password and other required credentials. You agree to be responsible for all acts or omissions with respect to use of your User Account. If you believe the security of your username, password, other required credentials or other personal information has been misused, stolen or compromised in any way please contact PG&amp;amp;E at&amp;nbsp;&lt;a href=\&#34;tel:1-833-500-7226\&#34;>1-833-500-7226&lt;/a>. To learn more about scams and scam prevention, please visit&amp;nbsp;&lt;a href=\&#34;/content/pge/language-masters/en/account/customer-service/scams.html\&#34;>pge.com/scams&lt;/a>.&lt;/li>\r\n&lt;/ul>\r\n&lt;ul>\r\n&lt;li>Information collected from you on the Website (including information about your company energy account and personal information) is subject to the PG&amp;amp;E&#39;s&amp;nbsp;&lt;a title=\&#34; Privacy Policy\&#34; href=\&#34;/content/pge/language-masters/en/privacy-center/privacy-policy.html\&#34;>Privacy Policy and other federal, state and local laws protecting your privacy&lt;/a>.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Services&lt;/b>&lt;br>\r\n&lt;/p>\r\n&lt;ul>\r\n&lt;li>&lt;b>Customer Energy Management.&amp;nbsp;&lt;/b>The Website offers information about energy-efficiency measures and energy conservation programs developed by or for the Company that is available to the public.&amp;nbsp;&lt;/li>\r\n&lt;li>&lt;b>Merchant Information.&lt;/b>&amp;nbsp;The Website may include services that enable you to search for third-party businesses selling energy-related goods and services in certain geographical locations. PG&amp;amp;E IS NOT AFFILIATED WITH ANY THIRD PARTY SELLING ENERGY-RELATED GOODS OR PROVIDING SUCH SERVICES AND DOES NOT ENDORSE ANY SUCH BUSINESSES, GOODS OR SERVICES.&lt;/li>\r\n&lt;li>&lt;b>Promotions.&amp;nbsp;&lt;/b>The Company may from time to time offer promotions, surveys, contests or sweepstakes (collectively, &amp;quot;Promotions&amp;quot;) to its residential or business customers. For further information about such Promotions, please consult the applicable rules posted with or linked to such Promotions.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Linking, Framing, Bots and Spiders&lt;/b>&lt;/p>\r\n&lt;ul>\r\n&lt;li>&lt;b>Links to Third-Party Sites.&amp;nbsp;&lt;/b>The Company displays links to websites or electronic services sponsored by third parties which are not PG&amp;amp;E services or paid for by PG&amp;amp;E. PG&amp;amp;E is not responsible for the content or operation of third-party websites or electronic services reached by virtue of such links or content, and the presence of such links or content does not imply PG&amp;amp;E endorses or is affiliated with such third-party websites, services or third parties, or any services or products they offer. The submitting third parties, and not the Company, are solely responsible for any advertisements, opinions, advice, statements, services, offers, data, information, content, or other materials that such third parties express or make available.&lt;/li>\r\n&lt;li>&lt;b>Links to the Website.&amp;nbsp;&lt;/b>The Website may not be linked to in such a way that the pages of the Website are displayed within a frame on a third-party website or are otherwise displayed on a browser screen accompanied by advertising or other content not found on the Website. The fact that a third party provides a link to the Website will not in any way be or imply an endorsement, agency, joint venture or similar relationship between PG&amp;amp;E and any such third party.&lt;/li>\r\n&lt;li>&lt;b>Mining.&amp;nbsp;&lt;/b>No user or third party is authorized to use any software, bots, spiders, or other information-gathering devices or programming routines to monitor, copy, or otherwise &amp;quot;mine&amp;quot; information displayed on the Website for display on or use with any Website or service, except as authorized by PG&amp;amp;E or by a PG&amp;amp;E customer of record.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Copyrights&lt;/b>&lt;br>\r\n&lt;/p>\r\n&lt;ul>\r\n&lt;li>All content on the Website, including all text, graphics, artwork, logos, buttons, icons, images, audio clips, video clips, software and code, is the copyrighted property of the Company or other content suppliers and is protected by U.S. and foreign copyright laws and international conventions. Any unauthorized use of materials on this Website may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations or statutes. Except as allowed in these Terms of Use, such content may not be reproduced, modified, edited, distributed, republished, downloaded, displayed, posted, sold, or transmitted (in whole or in part) in any form or by any means, including but not limited to electronic, mechanical, photocopying, recording, or otherwise, without the express prior written permission of PG&amp;amp;E or any other copyright owner.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Trademarks&lt;/b>&lt;/p>\r\n&lt;ul>\r\n&lt;li>The trademarks, service marks, logos, graphics, page headers, button icons, scripts, domain names, URLs and other identifiers (&amp;quot;Trademarks&amp;quot;) used and displayed on the Website are registered and unregistered Trademarks of the Company and others in the United States and other countries. No display or use of such Trademarks may be made without the express prior written permission of PG&amp;amp;E or other Trademark owner, as the case may be. You may not use any meta tags or any other &amp;quot;hidden text&amp;quot; utilizing PG&amp;amp;E&#39;s name or Trademarks without the express prior written permission of PG&amp;amp;E.&lt;/li>\r\n&lt;li>If you believe that material included on the Website infringes another party&#39;s trademark rights, contact us promptly so PG&amp;amp;E may investigate the situation and, if appropriate, block or remove the material.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Security&lt;/b>&lt;br>\r\n&lt;/p>\r\n&lt;ul>\r\n&lt;li>When you login to Services requiring a username, password and any other required credentials, any personal information you enter in fields or forms provided in these Services are secured using an industry standard security technology known as Secure Sockets Layer (&amp;quot;SSL&amp;quot;). By using SSL, we attempt to safeguard the confidentiality of your username, password and other personal information. For SSL to work, your browser must be capable of supporting SSL. Please check with your browser manufacturer for details.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>User Conduct&lt;/b>&lt;/p>\r\n&lt;p>While using the Website or any Service, you may not:&lt;/p>\r\n&lt;ul>\r\n&lt;li>Retransmit, republish, distribute, reuse, resell, repost, re-engineer or make multiple copies of the Website or any portion thereof without PG&amp;amp;E&#39;s prior written consent.&lt;/li>\r\n&lt;li>Upload, post, publish, transmit, reproduce or distribute through the Website any material that infringes any third party&#39;s copyright, patent, trademark, service mark, trade dress, trade secret or other proprietary rights, or which violates any contractual, fiduciary, or judicially imposed nondisclosure obligations.&lt;/li>\r\n&lt;li>Engage in conduct, during use of the Website, that is unlawful, threatening, harassing, abusive, fraudulent, defamatory, libelous or invasive of the privacy or publicity rights of others.&lt;/li>\r\n&lt;li>Upload, post, publish, transmit, reproduce or distribute through the Website any material that contains advertising solicitations, bulk unsolicited emails or spam, chain letters, pyramid opportunities or offers for the sale of goods or services.&lt;/li>\r\n&lt;li>Upload, post, publish, transmit, reproduce or distribute through the Website, or place any links on the Website to, any material that is vulgar, obscene, profane, hateful, sexually explicit or otherwise objectionable.&lt;/li>\r\n&lt;li>Alter, interfere or disrupt the content or functioning of the Website or the Service, including but not limited to uploading, posting or transmitting any material that (i) contains viruses, Trojan horses, worms, time bombs, cancelbots or other computer programming routines that damage, interfere with, capture, intercept or expropriate the Website or any data contained therein; or (ii) disproportionately burdens the operation of the Website.&lt;/li>\r\n&lt;li>Use the Website to gain unauthorized entry or access to other computer systems or networks.&lt;/li>\r\n&lt;li>&amp;quot;Mirror&amp;quot; the Website or any of its content on any other server without the express prior written permission of PG&amp;amp;E.&lt;/li>\r\n&lt;li>Impersonate any person or entity, falsely state or otherwise misrepresent your affiliation with any person or entity, forge headers, or otherwise manipulate identifiers in order to disguise the origin of any content you post or otherwise transmit to us or via the Website.&lt;/li>\r\n&lt;li>Upload, post, publish, transmit, reproduce or distribute through the Website any material encouraging conduct that would constitute a criminal offense, give rise to civil liability, or otherwise violate any law, regulation or government order.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Termination&lt;/b>&lt;br>\r\n&lt;/p>\r\n&lt;ul>\r\n&lt;li>In PG&amp;amp;E&#39;s sole and absolute discretion, we may, without notice, restrict or terminate any person&#39;s use of the Website and any service, user accounts, usernames, or passwords. Upon termination, you agree to immediately delete or destroy any downloaded or printed material obtained from the Website. Any such restriction or termination will not relieve any person of obligations incurred and accrued prior to the effective date of such termination.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Disclaimer of Warranties&lt;/b>&lt;/p>\r\n&lt;ul>\r\n&lt;li>The Website and any content, information, software, functions and applets provided on or through the Website are made available on an &amp;quot;as is&amp;quot; and &amp;quot;as available&amp;quot; basis. PG&amp;amp;E does not warrant the Website or any content or Service provided in connection with the Website will be timely, secure, uninterrupted or error-free, or that defects in the Website or in any content or service provided on or through the Website, if any exist from time to time, will be corrected.&lt;/li>\r\n&lt;li>The Company will not be responsible for errors, omissions, interruptions, deletions, defects or delays in the operation or transmission of the Website, any Services or related content, for communication line failures, or for computer viruses associated with the operation of the Website. The Company makes no warranty regarding any information made available through or on the Website. THE COMPANY MAKES NO EXPRESS OR IMPLIED WARRANTIES WITH RESPECT TO THE WEBSITE, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. YOU EXPRESSLY AGREE YOUR USE OF THIS WEBSITE IS AT YOUR SOLE RISK.&lt;/li>\r\n&lt;li>No PG&amp;amp;E employee, agent, representative or any third party is authorized to create any warranty of any kind not expressly made in these Terms of Use.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Limitation of Liability&lt;/b>&lt;/p>\r\n&lt;ul>\r\n&lt;li>PG&amp;amp;E, its affiliates or subsidiaries, and their officers, directors, employees, agents, successors, or assigns, will not be liable to you or any third party for any indirect, consequential, incidental, exemplary, special or punitive damages (including without limitation damages resulting from lost data, lost profits or costs of procurement of substitute products or services) arising out of or in connection with the Website or any of the Services available on or through the Website.&lt;/li>\r\n&lt;li>In no event will the liability of PG&amp;amp;E, its affiliates or subsidiaries, or their officers, directors, employees, agents, successors or assigns, under any theory of liability (whether in contract, tort, strict liability or otherwise) exceed $500, regardless of whether such parties have been advised of the possibility of such damages. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS IN SECTION 11 (&amp;quot;DISCLAIMER OF WARRANTIES&amp;quot;) AND THIS SECTION 12 (&amp;quot;LIMITATION OF LIABILITY&amp;quot;) MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Indemnity&lt;/b>&lt;br>\r\n&lt;/p>\r\n&lt;ul>\r\n&lt;li>You agree to defend, indemnify, and hold harmless PG&amp;amp;E, its affiliates and subsidiaries, and their officers, directors, employees, agents, successors or assigns from any and all claims, liabilities, costs, and expenses (including reasonable attorneys&#39; and experts&#39; fees) arising in any way from your use of the Website or the placement or transmission of any message, information, software, or other materials or content on or through the Website by you or users of your User Account or related to any violation of these Terms of Use by you or users of your User Account.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>&lt;b>Other&lt;/b>&lt;/p>\r\n&lt;ul>\r\n&lt;li>The Company controls and operates this Website from its headquarters in San Francisco, California, USA. If you use this Website from other locations you are responsible for compliance with applicable local laws. These Terms of Use will be governed by the substantive laws of the State of California, as applied to contracts entered into between California residents and performed in California, regardless of whether you reside or transact business with the Company in California or elsewhere.&lt;/li>\r\n&lt;li>Use of the Website will be deemed to take place solely in California. You agree the courts located in San Francisco, California, will have exclusive jurisdiction over any and all disputes arising out of or related to these Terms of Use or your use of the Website, and you agree to submit to the jurisdiction of such court. The prevailing party in any dispute will be entitled to its reasonable attorneys&#39; fees and costs, in addition to all other available recovery and relief.&lt;/li>\r\n&lt;li>If any provision of these Terms of Use is held to be unlawful, void, or for any reason unenforceable, then that provision will be deemed severable and will not affect the validity and enforceability of the remaining provisions.&lt;/li>\r\n&lt;li>The Terms of Use, which incorporate by reference PG&amp;amp;E&#39;s Website Privacy Policy, state the entire agreement between you and PG&amp;amp;E relating to your use of the Website, and all prior and contemporaneous agreements and understandings relating to the subject matter of these Terms of Use are superseded by and merged into these Terms of Use. These Terms of Use may not be amended except by PG&amp;amp;E as provided herein.&lt;/li>\r\n&lt;/ul>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>You may direct any questions about these Terms of Use to:&lt;/p>\r\n&lt;p>&amp;nbsp;&lt;/p>\r\n&lt;p>Pacific Gas and Electric Company&lt;br>\r\nDirector, Digital Channels&lt;br>\r\n300 Lakeside Drive, Suite 210&lt;br>\r\nOakland, CA 94612&lt;/p>\r\n&#34;}}" id="text-dde66e9fa0" class="cmp-text">
+    <p><img class="cmp-image__image" src="/assets/pge/icons/ic-info-note.svg" alt="important notice icon" style="	font-family: Nunito , times , serif;
+	max-width: 16.0px;
+"/> <b style="	font-family: Nunito , times , serif;
+">Note: </b>By using this website, you will be accepting these terms of use and the referenced requirements of pg&amp;e&#39;s privacy policies and security policies. If you do not accept these terms of use, do not use this website.<br />
+</p>
+<p> </p>
+<p>Welcome to <a title="PGE Website" href="https://www.pge.com/">pge.com</a>. This Website, <a title="PGE Website" href="https://www.pge.com/">pge.com</a>, (the &#34;Website&#34;) is operated by Pacific Gas and Electric Company (&#34;PG&amp;E,&#34; &#34;the Company,&#34; &#34;we,&#34; &#34;us&#34; or &#34;our&#34;). We are located at 300 Lakeside Drive, Suite 210, Oakland, CA 94612; telephone <a href="tel:18007435000">1-800-743-5000</a>.</p>
+<p> </p>
+<p><b>Please check these Terms of Use frequently, as we may from time to time unilaterally amend the Terms of Use by posting revised language on the Website. The most up-to-date version of these Terms of Use will always be available for your review on the Website. Amendments will become effective at the time they are posted on the Website. Your continued use of the Website after amendments are posted will constitute your acceptance of such amendments.</b></p>
+<p> </p>
+<p><b>We may at any time modify or discontinue any aspect or component of the Website. If you breach any of these Terms of Use, we can terminate your right to use the Website. Upon termination, you agree to immediately delete or destroy any downloaded or printed material obtained from the Website.</b></p>
+<p> </p>
+<p><b>General</b></p>
+<p>Through the Website, we provide a variety of information and services to our energy customers and other visitors to the Website. You may use the Website solely for your own internal lawful purposes and pursuant to these Terms of Use. You may view and download material displayed on the Website, provided you retain and comply with all copyright, trademark and other proprietary notices displayed on the materials. Use of these materials in publications, other websites or presentations is prohibited without PG&amp;E&#39;s prior written consent.</p>
+<p> </p>
+<p><b>User Accounts</b></p>
+<ul><li>The Website provides access to a variety of functions and services. Many of the services provide information about customer accounts and other personal information. To protect privacy, we may require you to establish one or more user accounts to access such Services (&#34;User Account&#34;). We reserve the unqualified right (i) to accept or decline to accept an application to open a User Account; (ii) to terminate any User Account and (iii) to discontinue the provision of any Service related to such User Account.</li><li>In connection with opening your User Account, you will either designate or receive a username and password and/or other credentials to authenticate your identity when you login to use certain Services. You agree (i) to provide accurate and complete information when opening a User Account; (ii) to update your information as necessary so it remains accurate and complete and (iii) not to impersonate any other person, operate under an alias, conceal your identity, or otherwise fraudulently mislead or misuse information of another person to gain access to Services.</li></ul>
+<ul><li>By establishing a User Account and obtaining access to customer energy, billing and other personal data, you are agreeing and representing that you are either (1) the PG&amp;E customer for such data; or (2) a representative of the PG&amp;E customer, duly and expressly authorized in writing by the customer to obtain access to such data on that customer&#39;s behalf, which documentation of authorization PG&amp;E may require at any time.</li></ul>
+<ul><li>The right to use the Services and functions of a User Account on the Website is limited to you as the enrolling party. You are responsible for safeguarding your username, password and other required credentials and agree to hold PG&amp;E harmless from any claims resulting from improper use of your username, password and other required credentials. You agree to be responsible for all acts or omissions with respect to use of your User Account. If you believe the security of your username, password, other required credentials or other personal information has been misused, stolen or compromised in any way please contact PG&amp;E at <a href="tel:1-833-500-7226">1-833-500-7226</a>. To learn more about scams and scam prevention, please visit <a href="/en/account/customer-service/scams.html">pge.com/scams</a>.</li></ul>
+<ul><li>Information collected from you on the Website (including information about your company energy account and personal information) is subject to the PG&amp;E&#39;s <a title=" Privacy Policy" href="/en/privacy-center/privacy-policy.html">Privacy Policy and other federal, state and local laws protecting your privacy</a>.</li></ul>
+<p> </p>
+<p> </p>
+<p><b>Services</b><br />
+</p>
+<ul><li><b>Customer Energy Management. </b>The Website offers information about energy-efficiency measures and energy conservation programs developed by or for the Company that is available to the public. </li><li><b>Merchant Information.</b> The Website may include services that enable you to search for third-party businesses selling energy-related goods and services in certain geographical locations. PG&amp;E IS NOT AFFILIATED WITH ANY THIRD PARTY SELLING ENERGY-RELATED GOODS OR PROVIDING SUCH SERVICES AND DOES NOT ENDORSE ANY SUCH BUSINESSES, GOODS OR SERVICES.</li><li><b>Promotions. </b>The Company may from time to time offer promotions, surveys, contests or sweepstakes (collectively, &#34;Promotions&#34;) to its residential or business customers. For further information about such Promotions, please consult the applicable rules posted with or linked to such Promotions.</li></ul>
+<p> </p>
+<p><b>Linking, Framing, Bots and Spiders</b></p>
+<ul><li><b>Links to Third-Party Sites. </b>The Company displays links to websites or electronic services sponsored by third parties which are not PG&amp;E services or paid for by PG&amp;E. PG&amp;E is not responsible for the content or operation of third-party websites or electronic services reached by virtue of such links or content, and the presence of such links or content does not imply PG&amp;E endorses or is affiliated with such third-party websites, services or third parties, or any services or products they offer. The submitting third parties, and not the Company, are solely responsible for any advertisements, opinions, advice, statements, services, offers, data, information, content, or other materials that such third parties express or make available.</li><li><b>Links to the Website. </b>The Website may not be linked to in such a way that the pages of the Website are displayed within a frame on a third-party website or are otherwise displayed on a browser screen accompanied by advertising or other content not found on the Website. The fact that a third party provides a link to the Website will not in any way be or imply an endorsement, agency, joint venture or similar relationship between PG&amp;E and any such third party.</li><li><b>Mining. </b>No user or third party is authorized to use any software, bots, spiders, or other information-gathering devices or programming routines to monitor, copy, or otherwise &#34;mine&#34; information displayed on the Website for display on or use with any Website or service, except as authorized by PG&amp;E or by a PG&amp;E customer of record.</li></ul>
+<p> </p>
+<p><b>Copyrights</b><br />
+</p>
+<ul><li>All content on the Website, including all text, graphics, artwork, logos, buttons, icons, images, audio clips, video clips, software and code, is the copyrighted property of the Company or other content suppliers and is protected by U.S. and foreign copyright laws and international conventions. Any unauthorized use of materials on this Website may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations or statutes. Except as allowed in these Terms of Use, such content may not be reproduced, modified, edited, distributed, republished, downloaded, displayed, posted, sold, or transmitted (in whole or in part) in any form or by any means, including but not limited to electronic, mechanical, photocopying, recording, or otherwise, without the express prior written permission of PG&amp;E or any other copyright owner.</li></ul>
+<p> </p>
+<p><b>Trademarks</b></p>
+<ul><li>The trademarks, service marks, logos, graphics, page headers, button icons, scripts, domain names, URLs and other identifiers (&#34;Trademarks&#34;) used and displayed on the Website are registered and unregistered Trademarks of the Company and others in the United States and other countries. No display or use of such Trademarks may be made without the express prior written permission of PG&amp;E or other Trademark owner, as the case may be. You may not use any meta tags or any other &#34;hidden text&#34; utilizing PG&amp;E&#39;s name or Trademarks without the express prior written permission of PG&amp;E.</li><li>If you believe that material included on the Website infringes another party&#39;s trademark rights, contact us promptly so PG&amp;E may investigate the situation and, if appropriate, block or remove the material.</li></ul>
+<p> </p>
+<p><b>Security</b><br />
+</p>
+<ul><li>When you login to Services requiring a username, password and any other required credentials, any personal information you enter in fields or forms provided in these Services are secured using an industry standard security technology known as Secure Sockets Layer (&#34;SSL&#34;). By using SSL, we attempt to safeguard the confidentiality of your username, password and other personal information. For SSL to work, your browser must be capable of supporting SSL. Please check with your browser manufacturer for details.</li></ul>
+<p> </p>
+<p><b>User Conduct</b></p>
+<p>While using the Website or any Service, you may not:</p>
+<ul><li>Retransmit, republish, distribute, reuse, resell, repost, re-engineer or make multiple copies of the Website or any portion thereof without PG&amp;E&#39;s prior written consent.</li><li>Upload, post, publish, transmit, reproduce or distribute through the Website any material that infringes any third party&#39;s copyright, patent, trademark, service mark, trade dress, trade secret or other proprietary rights, or which violates any contractual, fiduciary, or judicially imposed nondisclosure obligations.</li><li>Engage in conduct, during use of the Website, that is unlawful, threatening, harassing, abusive, fraudulent, defamatory, libelous or invasive of the privacy or publicity rights of others.</li><li>Upload, post, publish, transmit, reproduce or distribute through the Website any material that contains advertising solicitations, bulk unsolicited emails or spam, chain letters, pyramid opportunities or offers for the sale of goods or services.</li><li>Upload, post, publish, transmit, reproduce or distribute through the Website, or place any links on the Website to, any material that is vulgar, obscene, profane, hateful, sexually explicit or otherwise objectionable.</li><li>Alter, interfere or disrupt the content or functioning of the Website or the Service, including but not limited to uploading, posting or transmitting any material that (i) contains viruses, Trojan horses, worms, time bombs, cancelbots or other computer programming routines that damage, interfere with, capture, intercept or expropriate the Website or any data contained therein; or (ii) disproportionately burdens the operation of the Website.</li><li>Use the Website to gain unauthorized entry or access to other computer systems or networks.</li><li>&#34;Mirror&#34; the Website or any of its content on any other server without the express prior written permission of PG&amp;E.</li><li>Impersonate any person or entity, falsely state or otherwise misrepresent your affiliation with any person or entity, forge headers, or otherwise manipulate identifiers in order to disguise the origin of any content you post or otherwise transmit to us or via the Website.</li><li>Upload, post, publish, transmit, reproduce or distribute through the Website any material encouraging conduct that would constitute a criminal offense, give rise to civil liability, or otherwise violate any law, regulation or government order.</li></ul>
+<p> </p>
+<p><b>Termination</b><br />
+</p>
+<ul><li>In PG&amp;E&#39;s sole and absolute discretion, we may, without notice, restrict or terminate any person&#39;s use of the Website and any service, user accounts, usernames, or passwords. Upon termination, you agree to immediately delete or destroy any downloaded or printed material obtained from the Website. Any such restriction or termination will not relieve any person of obligations incurred and accrued prior to the effective date of such termination.</li></ul>
+<p> </p>
+<p><b>Disclaimer of Warranties</b></p>
+<ul><li>The Website and any content, information, software, functions and applets provided on or through the Website are made available on an &#34;as is&#34; and &#34;as available&#34; basis. PG&amp;E does not warrant the Website or any content or Service provided in connection with the Website will be timely, secure, uninterrupted or error-free, or that defects in the Website or in any content or service provided on or through the Website, if any exist from time to time, will be corrected.</li><li>The Company will not be responsible for errors, omissions, interruptions, deletions, defects or delays in the operation or transmission of the Website, any Services or related content, for communication line failures, or for computer viruses associated with the operation of the Website. The Company makes no warranty regarding any information made available through or on the Website. THE COMPANY MAKES NO EXPRESS OR IMPLIED WARRANTIES WITH RESPECT TO THE WEBSITE, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. YOU EXPRESSLY AGREE YOUR USE OF THIS WEBSITE IS AT YOUR SOLE RISK.</li><li>No PG&amp;E employee, agent, representative or any third party is authorized to create any warranty of any kind not expressly made in these Terms of Use.</li></ul>
+<p> </p>
+<p><b>Limitation of Liability</b></p>
+<ul><li>PG&amp;E, its affiliates or subsidiaries, and their officers, directors, employees, agents, successors, or assigns, will not be liable to you or any third party for any indirect, consequential, incidental, exemplary, special or punitive damages (including without limitation damages resulting from lost data, lost profits or costs of procurement of substitute products or services) arising out of or in connection with the Website or any of the Services available on or through the Website.</li><li>In no event will the liability of PG&amp;E, its affiliates or subsidiaries, or their officers, directors, employees, agents, successors or assigns, under any theory of liability (whether in contract, tort, strict liability or otherwise) exceed $500, regardless of whether such parties have been advised of the possibility of such damages. CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS IN SECTION 11 (&#34;DISCLAIMER OF WARRANTIES&#34;) AND THIS SECTION 12 (&#34;LIMITATION OF LIABILITY&#34;) MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.</li></ul>
+<p> </p>
+<p><b>Indemnity</b><br />
+</p>
+<ul><li>You agree to defend, indemnify, and hold harmless PG&amp;E, its affiliates and subsidiaries, and their officers, directors, employees, agents, successors or assigns from any and all claims, liabilities, costs, and expenses (including reasonable attorneys&#39; and experts&#39; fees) arising in any way from your use of the Website or the placement or transmission of any message, information, software, or other materials or content on or through the Website by you or users of your User Account or related to any violation of these Terms of Use by you or users of your User Account.</li></ul>
+<p> </p>
+<p><b>Other</b></p>
+<ul><li>The Company controls and operates this Website from its headquarters in San Francisco, California, USA. If you use this Website from other locations you are responsible for compliance with applicable local laws. These Terms of Use will be governed by the substantive laws of the State of California, as applied to contracts entered into between California residents and performed in California, regardless of whether you reside or transact business with the Company in California or elsewhere.</li><li>Use of the Website will be deemed to take place solely in California. You agree the courts located in San Francisco, California, will have exclusive jurisdiction over any and all disputes arising out of or related to these Terms of Use or your use of the Website, and you agree to submit to the jurisdiction of such court. The prevailing party in any dispute will be entitled to its reasonable attorneys&#39; fees and costs, in addition to all other available recovery and relief.</li><li>If any provision of these Terms of Use is held to be unlawful, void, or for any reason unenforceable, then that provision will be deemed severable and will not affect the validity and enforceability of the remaining provisions.</li><li>The Terms of Use, which incorporate by reference PG&amp;E&#39;s Website Privacy Policy, state the entire agreement between you and PG&amp;E relating to your use of the Website, and all prior and contemporaneous agreements and understandings relating to the subject matter of these Terms of Use are superseded by and merged into these Terms of Use. These Terms of Use may not be amended except by PG&amp;E as provided herein.</li></ul>
+<p> </p>
+<p>You may direct any questions about these Terms of Use to:</p>
+<p> </p>
+<p>Pacific Gas and Electric Company<br />
+Director, Digital Channels<br />
+300 Lakeside Drive, Suite 210<br />
+Oakland, CA 94612</p>
+
+</div>
+
+    
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-c9bcc50597" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="card-feature-tile-informational aem-GridColumn aem-GridColumn--default--12">
+   <div class="column-tiles-wrapper column-tiles--informational">
+      <div class="column-tiles__title-description">
+         <h2 class="column-tiles__title">More on privacy</h2>
+         
+      </div>
+      <div class="column-tiles__col-wrapper">
+         
+            <div class="column-tiles__column">
+               <div class="column-tiles__item">
+                  <div class="column-tiles__item-title">
+                     <h3 class="column-tiles__item-heading">California Consumer Privacy Act (CCPA)</h3>
+                  </div>
+                  <div class="column-tiles__item-text"><p>Understand your consumer privacy rights.</p>
+</div>
+                  <div class="button  button--link-primary">
+                     
+                         
+                           
+                              <a class="cmp-button" href="/en/privacy-center/california-consumer-privacy-act.html" target="_self">
+                              <i class="icon icon--arrow-right" aria-hidden="true">
+                              </i>
+                              <span class="cmp-button__text">CCPA</span>
+                               
+                              </a>
+                           
+                        
+                     
+                     
+                     
+                  </div>
+               </div>
+            </div>
+         
+            <div class="column-tiles__column">
+               <div class="column-tiles__item">
+                  <div class="column-tiles__item-title">
+                     <h3 class="column-tiles__item-heading">Social media policy</h3>
+                  </div>
+                  <div class="column-tiles__item-text"><p>Review PG&amp;E&#39;s social media policies and guidelines.</p>
+</div>
+                  <div class="button  button--link-primary">
+                     
+                         
+                           
+                              <a class="cmp-button" href="/en/privacy-center/social-media-policy.html" target="_self">
+                              <i class="icon icon--arrow-right" aria-hidden="true">
+                              </i>
+                              <span class="cmp-button__text">Social media policy</span>
+                               
+                              </a>
+                           
+                        
+                     
+                     
+                     
+                  </div>
+               </div>
+            </div>
+         
+            <div class="column-tiles__column">
+               <div class="column-tiles__item">
+                  <div class="column-tiles__item-title">
+                     <h3 class="column-tiles__item-heading">Digital communications policy</h3>
+                  </div>
+                  <div class="column-tiles__item-text"><p>How we plan to interact with you through voice, text messages, emails and more</p>
+</div>
+                  <div class="button  button--link-primary">
+                     
+                         
+                           
+                              <a class="cmp-button" href="/en/privacy-center/digital-communications-policy.html" target="_self">
+                              <i class="icon icon--arrow-right" aria-hidden="true">
+                              </i>
+                              <span class="cmp-button__text">Digital communications policy</span>
+                               
+                              </a>
+                           
+                        
+                     
+                     
+                     
+                  </div>
+               </div>
+            </div>
+         
+      </div>
+   </div>
+
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="container responsivegrid aem-GridColumn aem-GridColumn--default--12">
+
+    
+    <div id="container-351c751f15" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    
+    
+</div>
+
+    </div>
+
+    
+</div>
+<div class="experiencefragment aem-GridColumn aem-GridColumn--default--12">
+<div id="experiencefragment-ba79f3b972" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    <div id="container-ba9c4760bd" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="footer aem-GridColumn aem-GridColumn--default--12">
+<div class="footer-navigation"> 
+  <div class="footer-navigation__top-links">
+    <div class="footer-navigation__links-wrapper">
+      <div class="navigation-link-list">
+        <div class="nav" role="navigation">
+          <div class='nav-item-wrapper'>
+    <div class="nav-item">
+        
+        
+            <span class="nav-link">
+                <h2>About</h2>
+                <i class="icon icon--" aria-hidden="true"> </i>
+            </span>
+        
+        <ul class="menu">
+            
+                <li>
+					
+                    <a href="/en/about.html" class="item" target="_self">
+                        About PG&amp;E
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/company-information.html" class="item" target="_self">
+                        Company Information
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/giving-locally.html" class="item" target="_self">
+                        Giving Locally
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/educational-resources.html" class="item" target="_self">
+                        Educational Resources
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="https://pgepublicsafety.my.site.com/firstresponder" class="item" target="_blank">
+                        First Responder Resources
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="https://jobs.pge.com/" class="item" target="_blank">
+                        Careers
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/pge-systems.html" class="item" target="_self">
+                        PG&amp;E Systems
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/in-your-community.html" class="item" target="_self">
+                        In Your Community
+                        
+                    </a>
+					
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    
+
+</div>
+          <div class='nav-item-wrapper'>
+    <div class="nav-item">
+        
+        
+            <span class="nav-link">
+                <h2>Newsroom</h2>
+                <i class="icon icon--" aria-hidden="true"> </i>
+            </span>
+        
+        <ul class="menu">
+            
+                <li>
+					
+                    <a href="/en/newsroom.html" class="item" target="_self">
+                        PG&amp;E News
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/corporate-responsibility-and-sustainability.html" class="item" target="_self">
+                        Corporate Sustainability
+                        
+                    </a>
+					
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    
+
+</div>
+          <div class='nav-item-wrapper'>
+    <div class="nav-item">
+        
+        
+            <span class="nav-link">
+                <h2>Contact Us</h2>
+                <i class="icon icon--" aria-hidden="true"> </i>
+            </span>
+        
+        <ul class="menu">
+            
+                <li>
+					
+                    <a href="/en/contact-us.html" class="item" target="_self">
+                        Contact Us
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="https://help.pge.com/s/?language=en_US" class="item" target="_blank">
+                        Help Center
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="https://secure.opinionlab.com/ccc01/o.asp?id=QgcYWBgjhttps://mtst4.pge.com/#dashboard" class="item" target="_self">
+                        Site Feedback
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/doing-business-with-pge.html" class="item" target="_self">
+                        Doing Business with PG&amp;E
+                        
+                    </a>
+					
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    
+
+</div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-navigation__social-links-wrapper">
+      <!-- social-media-links custom component starts here -->
+      <h2 class="social-media-links__text">Connect</h2>
+<ul class="social-media-links">
+	<li class="social-media-links__title">
+		
+			<ul class="social-media-links__wrapper">
+									
+					<li class="social-media-links__item">
+						<a href="https://www.facebook.com/pacificgasandelectric/?nr" class="social-media-links__link" aria-label="Facebook" target="_blank">
+							<i class="icon icon--facebook_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://twitter.com/pge4me" class="social-media-links__link" aria-label="Twitter" target="_blank">
+							<i class="icon icon--twitter_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://www.linkedin.com/company/pacific-gas-and-electric-company" class="social-media-links__link" aria-label="LinkedIn" target="_blank">
+							<i class="icon icon--linkedln_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://www.youtube.com/user/pgevideo" class="social-media-links__link" aria-label="YouTube" target="_blank">
+							<i class="icon icon--youtube_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://www.instagram.com/accounts/login/?next=/pacificgasandelectric/" class="social-media-links__link" aria-label="Instagram" target="_blank">
+							<i class="icon icon--instagram" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://www.pgecurrents.com/" class="social-media-links__link" aria-label="PGE Currents" target="_blank">
+							<i class="icon icon--c_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+				
+			</ul>
+		
+	</li>
+</ul>
+
+
+    
+
+      <!-- social-media-links custom component ends here -->
+    </div>
+  </div>
+  <!-- footer copyright component starts here -->
+  <div class="footer-navigation__bottom-links">
+  <div class="footer-bottom-link-wrapper">
+    <ul class="footer-bottom-links">
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/accessibility.html" class="footer-bottom-links__link">Accessibility
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/privacy-center/disclosure.html" class="footer-bottom-links__link">Terms &amp; Conditions
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/regulation.html" class="footer-bottom-links__link">Regulation
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/privacy-center.html" class="footer-bottom-links__link">Privacy
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/about/company-information/vulnerability-disclosure-policy.html" class="footer-bottom-links__link">Security
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/sitemap.html" class="footer-bottom-links__link">Sitemap
+          </a>
+        </li>
+        
+          <li class="footer-bottom-links__item footer-navigation__onetrust-link">
+<button id="ot-sdk-btn" class="ot-sdk-show-settings" aria-label="Do not sell my personal information opens as a modal">Do Not Sell My Personal Information</button>
+</li>
+        
+      
+    </ul>
+  </div>
+  <div class="footer-navigation__copyright-wrapper">
+    <div class="footer-navigation__copyright-text">
+      <div class="text">
+        <div class="cmp-text">
+          <p>©2024 Pacific Gas and Electric Company
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    
+
+</div>
+  <!-- footer copyright component ends here -->
+</div>
+<!-- new pgecorp design for desktop and mobile-->
+
+<!-- new pgecorp design for tablet-->
+<div class="footer-navigation-tablet ">
+  <div class="footer-navigation__top-links">
+    <div class="footer-navigation__links-wrapper">
+      <div class="navigation-link-list">
+        <div class="nav" role="navigation">
+          <div class="row1">
+            <div class='nav-item-wrapper'>
+    <div class="nav-item">
+        
+        
+            <span class="nav-link">
+                <h2>About</h2>
+                <i class="icon icon--" aria-hidden="true"> </i>
+            </span>
+        
+        <ul class="menu">
+            
+                <li>
+					
+                    <a href="/en/about.html" class="item" target="_self">
+                        About PG&amp;E
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/company-information.html" class="item" target="_self">
+                        Company Information
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/giving-locally.html" class="item" target="_self">
+                        Giving Locally
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/educational-resources.html" class="item" target="_self">
+                        Educational Resources
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="https://pgepublicsafety.my.site.com/firstresponder" class="item" target="_blank">
+                        First Responder Resources
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="https://jobs.pge.com/" class="item" target="_blank">
+                        Careers
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/pge-systems.html" class="item" target="_self">
+                        PG&amp;E Systems
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/in-your-community.html" class="item" target="_self">
+                        In Your Community
+                        
+                    </a>
+					
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    
+
+</div>
+            <div class='nav-item-wrapper'>
+    <div class="nav-item">
+        
+        
+            <span class="nav-link">
+                <h2>Newsroom</h2>
+                <i class="icon icon--" aria-hidden="true"> </i>
+            </span>
+        
+        <ul class="menu">
+            
+                <li>
+					
+                    <a href="/en/newsroom.html" class="item" target="_self">
+                        PG&amp;E News
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/corporate-responsibility-and-sustainability.html" class="item" target="_self">
+                        Corporate Sustainability
+                        
+                    </a>
+					
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    
+
+</div>
+          </div>
+          <div class="row2">
+            <div class='nav-item-wrapper'>
+    <div class="nav-item">
+        
+        
+            <span class="nav-link">
+                <h2>Contact Us</h2>
+                <i class="icon icon--" aria-hidden="true"> </i>
+            </span>
+        
+        <ul class="menu">
+            
+                <li>
+					
+                    <a href="/en/contact-us.html" class="item" target="_self">
+                        Contact Us
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="https://help.pge.com/s/?language=en_US" class="item" target="_blank">
+                        Help Center
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="https://secure.opinionlab.com/ccc01/o.asp?id=QgcYWBgjhttps://mtst4.pge.com/#dashboard" class="item" target="_self">
+                        Site Feedback
+                        
+                    </a>
+					
+                </li>
+            
+                <li>
+					
+                    <a href="/en/about/doing-business-with-pge.html" class="item" target="_self">
+                        Doing Business with PG&amp;E
+                        
+                    </a>
+					
+                </li>
+            
+        </ul>
+    </div>
+
+
+
+    
+
+</div>
+            <div class="nav-item-wrapper">
+              <div class="nav-item">
+                <div class="footer-navigation__social-links-wrapper">
+                  <!-- social-media-links custom component starts here -->
+                  <h2 class="social-media-links__text">Connect</h2>
+<ul class="social-media-links">
+	<li class="social-media-links__title">
+		
+			<ul class="social-media-links__wrapper">
+									
+					<li class="social-media-links__item">
+						<a href="https://www.facebook.com/pacificgasandelectric/?nr" class="social-media-links__link" aria-label="Facebook" target="_blank">
+							<i class="icon icon--facebook_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://twitter.com/pge4me" class="social-media-links__link" aria-label="Twitter" target="_blank">
+							<i class="icon icon--twitter_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://www.linkedin.com/company/pacific-gas-and-electric-company" class="social-media-links__link" aria-label="LinkedIn" target="_blank">
+							<i class="icon icon--linkedln_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://www.youtube.com/user/pgevideo" class="social-media-links__link" aria-label="YouTube" target="_blank">
+							<i class="icon icon--youtube_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://www.instagram.com/accounts/login/?next=/pacificgasandelectric/" class="social-media-links__link" aria-label="Instagram" target="_blank">
+							<i class="icon icon--instagram" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+									
+					<li class="social-media-links__item">
+						<a href="https://www.pgecurrents.com/" class="social-media-links__link" aria-label="PGE Currents" target="_blank">
+							<i class="icon icon--c_solid" aria-hidden="true">
+							</i>
+						</a>
+					</li>
+				
+			</ul>
+		
+	</li>
+</ul>
+
+
+    
+
+                  <!-- social-media-links custom component ends here -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <!-- footer copyright component starts here -->
+  <div class="footer-navigation__bottom-links">
+  <div class="footer-bottom-link-wrapper">
+    <ul class="footer-bottom-links">
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/accessibility.html" class="footer-bottom-links__link">Accessibility
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/privacy-center/disclosure.html" class="footer-bottom-links__link">Terms &amp; Conditions
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/regulation.html" class="footer-bottom-links__link">Regulation
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/privacy-center.html" class="footer-bottom-links__link">Privacy
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/about/company-information/vulnerability-disclosure-policy.html" class="footer-bottom-links__link">Security
+          </a>
+        </li>
+        
+      
+        <li class="footer-bottom-links__item">
+          <a href="/en/sitemap.html" class="footer-bottom-links__link">Sitemap
+          </a>
+        </li>
+        
+          <li class="footer-bottom-links__item footer-navigation__onetrust-link">
+<button id="ot-sdk-btn" class="ot-sdk-show-settings" aria-label="Do not sell my personal information opens as a modal">Do Not Sell My Personal Information</button>
+</li>
+        
+      
+    </ul>
+  </div>
+  <div class="footer-navigation__copyright-wrapper">
+    <div class="footer-navigation__copyright-text">
+      <div class="text">
+        <div class="cmp-text">
+          <p>©2024 Pacific Gas and Electric Company
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+    
+
+</div>
+  <!-- footer copyright component ends here -->
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+</main>
+            
+    
+    <script src="/etc.clientlibs/pge/clientlibs/clientlib-site.lc-18ac7d529bf1bbd7e915c44365b93d04-lc.min.js"></script>
+
+
+    
+
+    
+    
+<script src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-0a6aff292f5cc42142779cde92054524-lc.min.js"></script>
+<script src="/etc.clientlibs/pge/clientlibs/clientlib-base.lc-37033a3927fd38ca9dbc882e351903f4-lc.min.js"></script>
+
+
+
+
+    
+
+    
+
+    
+
+
+        <script type="text/javascript">_satellite.pageBottom();</script>
+
+
+    
+    
+
+        
+<div class="NonAvailableLanguages" data-non-available-lang="{}"></div>
+<div class="Social-Share" data-article-appId="626439176032801"></div>
+    </body>
+</html>
