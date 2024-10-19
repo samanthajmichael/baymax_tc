@@ -1,0 +1,916 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="format-detection" content="telephone=no" />
+
+<title>Terms of Use: Regeneron Pharmaceuticals</title>
+<meta name="description" content="View our terms and conditions govern your access to and use of Regeneron's websites." />
+<link rel="canonical" href="https://www.regeneron.com/terms" />
+<script type="application/ld+json">{ "@context": "http://schema.org",  "@type": "MedicalWebPage",  "url": "https://www.regeneron.com/terms",  "name":"TERMS OF USE", "headline": "Terms of Use: Regeneron Pharmaceuticals",    "description":"Regeneron Pharmaceuticals, Inc. provides the services available on our website at regeneron.com and any of our other websites, mobile applications or other online services that link to these terms and conditions to you subject to the following terms and conditions. By accessing or using the Website, you are acknowledging that you have read, understand and agree, without limitation or qualification, to be bound by these Terms and Conditions, and that you have read and understood the terms and conditions of Regeneron's Privacy Policy.",                    "mainContentOfPage":[                        {"@type": "WebPageElement",                "name":"Accuracy of Information",                "text":["The information on our Website is provided to you for information purposes only and does not constitute investment advice. We attempt to be as accurate as possible when providing you with information about us on the Website; however, to the extent permitted by applicable law, we do not warrant that the content available on the Website is accurate, complete, reliable, current or error-free. We reserve the right to add, modify, correct or delete any information to or from the Website at any time without any notice. We make no commitment, however, to update or correct such information. The reports filed by us with the Securities and Exchange Commission and the news releases issued by us and posted on the Website are current only as of the respective dates on which they are filed or issued by us. The contents of these reports and releases can become out-of-date. We make no commitment, and disclaim any duty, to update any of these reports and releases. We do not warrant the accuracy or completeness of the materials or the reliability of any advice, opinion, statement or other information displayed or distributed through the Website. You acknowledge that any reliance on any such opinion, advice, statement, memorandum, report or information shall be at your sole risk. The marketing contents of our Website are for informational purposes only and do not constitute an offer of securities. Nothing herein is intended as an offer or solicitation in any jurisdiction or to any potential investor where such offer or sale is not qualified or exempt from regulation. The Website provides selected information about a range of disease topics. Like any printed material, it may become out of date over time. The Website is not designed to give specific medical advice and should not be relied on as doing so. Regeneron recommends that any user requiring medical advice should consult a physician or other medical professional. Product information contained in the Website is intended for residents of the U.S., unless otherwise specified. Product labeling for Regeneron products approved for marketing outside of the U.S.may be different from the product labeling for such products approved by the U.S. Food and Drug Administration. There are ups and downs in practically every business and stock. Although there are no guarantees about the stock market or our stock or other securities, before you invest in any security, you can help protect yourself by being an educated investor. If you are interested in our stock, we recommend that, at a minimum, you read our latest annual report and our reports on Forms 10-K, 10-Q and 8-K filed with the SEC over the past year. Our recent proxy statements for shareholder meetings also contain important information. It is also advisable to learn more about us and our industry through a variety of public materials. Certain materials, including our filings with the SEC, are available through this web site or the SEC's web site https://www.sec.gov. Forward-Looking Statements: We and our representatives from time to time make written or oral forward-looking statements, including statements contained in the Website, in press releases and in filings with the Securities and Exchange Commission, and in our reports to stockholders. The words and phrases will likely result, expects, believes, will continue, is anticipated, estimates, projects or similar expressions are intended to identify forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements include, without limitation, our expectations regarding sales, earnings or other future financial performance and liquidity, product introductions, entry into new geographic regions, new methods of sale and future operations or operating results. Although we believe that our expectations are based on reasonable assumptions within the bounds of our knowledge of our business and operations, there can be no assurance that actual results will not differ materially from our expectations. Factors that could cause actual results to differ from expectations include risks associated with product discovery and development as well as risks detailed from time to time in Regeneron's public disclosure filings with the SEC, including its most recent Annual Report on Form 10-K and any subsequent Quarterly Reports on Form 10-Q. There can be no assurance that such development efforts will succeed, that such products will receive required regulatory clearance or that, even if such regulatory clearance were received, such products would ultimately achieve commercial success."]},                        {"@type": "WebPageElement",                "name":"Intellectual Property",                "text":["All content available on the Website, including, but not limited to, text, graphics, logos, button icons, images, audio clips, data compilations, and software, and the compilation thereof is the property of Regeneron, our affiliates, our partners or our licensors, and is protected by U.S. and international copyright laws. The trademarks, logos, and service marks displayed on the Website are the registered and unregistered marks of Regeneron, our affiliates, our partners/collaborators or our licensors, in the U.S. and other countries. All Trademarks not owned by us, our affiliates or our partners/collaborators that appear on the Website are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by us. Except as set forth in the limited license in Section 3 below, or as required under applicable law, neither the Content, the Trademarks, nor any other portion of the Website may be used, reproduced, duplicated, copied, sold, resold, accessed, modified or otherwise exploited, in full or in part, for any purpose without our prior written consent."]},              {"@type": "WebPageElement",                "name":"Limited License",                "text":["We grant you a limited, revocable, and non-exclusive license to access and make personal, non-commercial use of the Website. Please note that you may not frame or utilize framing techniques to enclose the Website or any portion thereof without our prior written consent. The limited license set forth in this Section 3 does not include the right to: (i) modify the Website or its contents; (ii) make any use of the Website or its Content other than personal, non-commercial use; (iii) create any derivative work based upon either the Website or its Content; (iv) remove copyright notices or other proprietary rights notices contained in the Website or its Content; (v) use any meta tags or any other hidden text utilizing our name or the Trademarks without our express written consent; or (vi) use software robots, spiders, crawlers, or similar data gathering and extraction tools, or take any other action that may impose an unreasonable burden or load on our infrastructure."]},            {"@type": "WebPageElement",                "name":"Third-Party Links",                "text":["We are not responsible for the content of any websites linked to or from the Website. Links appearing on our Website to other websites are for convenience only and are not an endorsement, sponsorship or recommendation by us, our affiliates or our partners of the referenced content, product, service or supplier. Your linking to or from any other website is at your own risk. We are in no way responsible for examining or evaluating, and we do not warrant the offerings of, websites linked to or from the Website, nor do we assume any responsibility or liability for the actions, content, products or services of such websites, including their privacy statements and terms and conditions. When leaving the Website, you should be aware that our terms and policies no longer govern. You should carefully review the terms and conditions and privacy policies of other websites that you visit."]},                    {"@type": "WebPageElement",                "name":"Submissions",                "text":["If you transmit or otherwise provide to Regeneron any feedback, suggestions, ideas, comments, inquiries or other information, including resumes and other employment-related information. these Submissions will be treated as non-proprietary and non-confidential. By transmitting or posting any Submission, you hereby grant us a nonexclusive, royalty-free, perpetual, transferable, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, sell, assign, translate, create derivative works from, distribute and display any Submission in any form, media or technology, whether now known or hereafter developed, alone or as part of other works. You also acknowledge that we may use your Submission, and any ideas, concepts or know how contained therein, for any purpose including, without limitation, developing, manufacturing, distributing and marketing products. If you make a Submission, you represent and warrant that you own or otherwise control the rights to your Submission. You further represent and warrant that such Submission does not constitute or contain software viruses, commercial solicitation, chain letters, mass mailings, any form of spam or any threatening, harassing, libelous, false, defamatory, offensive, obscene or pornographic material, or other material that would violate any applicable law or regulation, including but not limited to any federal or state laws or regulations governing equal employment opportunities. You may not use a false email address, impersonate any person or entity, or otherwise mislead us as to the origin of any Submission. We may, but are not obligated to, review or monitor areas on the Website where users may transmit or post communications, including discussion groups, bulletin boards, chat rooms and user forums. We are not responsible for the accuracy of any posted information, including but not limited to information, data, opinions, advice or statements transmitted or posted in these areas. We reserve the right to remove any content which allegedly infringes another person's copyright. You agree to indemnify us for all claims arising from your claims to any rights in any Submission."]},                    {"@type": "WebPageElement",                "name":"Mobile Application Terms",                "text":["To the extent this agreement applies your use of a Regeneron mobile application, this section applies to your use of the mobile application, in addition to the rest of the Terms and Conditions. You acknowledge that you are entering into the Terms and Conditions with us and not with the operator of the mobile platform on which the app operates; that the Platform and its subsidiaries are third-party beneficiaries of the Terms and the Platform may enforce them; that we are solely responsible for the mobile application and its associated data; that the Platform makes no warranty with respect to the mobile application and its associated data and has no obligation whatsoever to furnish any maintenance and support services for the mobile application; that the Platform is not responsible for addressing any claims relating to the mobile application and its associated data or your possession or use of the mobile application and its associated data, including but not limited to: (i) product liability claims, (ii) any claims that the mobile application fails to conform to any legal or regulatory requirement and (iii) claims arising under consumer protection and similar legislation; and that if a third party claims that the mobile application and its associated data or your possession or use of such infringes a third party's intellectual property rights, the Platform is not responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim. In the event of any failure of the mobile application to conform to any applicable warranty, you may notify the Platform, and the Platform may refund the purchase price for the mobile application to you; and, to the maximum extent permitted by applicable law, the Platform will have no other warranty obligation whatsoever with respect to the mobile application, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be our sole responsibility if not effectively disclaimed. Your license to use the mobile application is limited to a non-transferable license to use the mobile application on a mobile device that you own or control, and must conform to these Terms and Conditions as well as any terms and conditions imposed by the Platform (e.g., the Usage Rules set forth in the Apple Inc. By downloading the mobile application, you represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a terrorist supporting country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties."]}], "manufacturer":                 {"@type": "Corporation",                "name": "Regeneron",                "logo": "https://www.regeneron.com/content/images/REGENERON-logo-white.svg"}}    </script>
+<meta name="robots" content="index, follow" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Global|Global|Regeneron|Global|Global|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Global|Global|Regeneron|Global|Global|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Global|Global|Regeneron|Global|Global|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Global|Global|Regeneron|Global|Global|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Global|Global|Regeneron|Global|Global|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Regeneron|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close|Close|Close|Close|Close|Close|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Regeneron|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close|Close|Close|Close|Close|Close|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Regeneron|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close|Close|Close|Close|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Regeneron|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Regeneron|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Regeneron|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Regeneron|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Regeneron|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close" />
+<meta property="ariatag" content="Navigation Top|Search|Regeneron|Regeneron|Primary Navigation|Toggle navigation|Search|Footer|footer navigation|Close|Close" />
+<meta property="og:description" content="Regeneron (NASDAQ: REGN) is a leading biotechnology company using the power of science to bring new medicines to patients in need. Learn more." />
+<meta property="og:image" content="https://www.regeneron.com/content/images/Regeneron_Web_OGimage.png" />
+<meta property="og:title" content="Regeneron Pharmaceuticals: Delivering Life-transforming Medicines" />
+<meta property="og:type" content="Website" />
+<meta property="og:url" content="https://www.regeneron.com/terms" />
+
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MHC9VMF');</script>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,100;1,300;1,400;1,500;1,700&display=swap">
+<link href="/Content/css?v=0HyEPaaHeQWyRS6a-UMUHYNfmLM2dfeTWQGVcjRvGI81" rel="stylesheet" />
+<script src="https://player.vimeo.com/api/player.js"></script>
+</head>
+<body class="page-terms-of-use default-head">
+<section class="covid-banner-update">
+<div class="container">
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<div class="cbu-content">
+<div class="cbu-content--img">
+<img src="/Content/images/covid19/icon-covid-alert.png" alt />
+</div>
+<div class="cbu-content--info">
+<div class="cbu-content--txt">
+Our antibody combination is not currently authorized for use in any U.S. region. Please refer to the <a href="/downloads/treatment-covid19-eua-fact-sheet-for-hcp.pdf" target="_blank">authorized Fact Sheet and FDA statement</a> for additional details.
+</div>
+<div class="cbu-content--btn">
+<a href="/downloads/treatment-covid19-eua-fact-sheet-for-hcp.pdf" target="_blank" role="button" class="cta-btn white">
+<em>Learn More</em>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<header class="page-head" data-bg-theme="dark" role="banner">
+<div class="d-none d-md-block">
+<div class="container">
+<div class="row d-none d-lg-block skip-to-main">
+<div class="col-md-10 offset-md-1 mt-2">
+<a class="text-white" href="#main-content"><small>Skip to content</small></a>
+</div>
+</div>
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<nav class="nav navbar brow" role="navigation" aria-label="Navigation Top">
+<a class="nav-link" href="/scientists">Scientists</a>
+<a class="nav-link" href="/patients">Patients</a>
+<a class="nav-link" href="/medical-professionals">Medical<br>Professionals</a>
+<a class="nav-link" href="https://investor.regeneron.com/" target="_blank">Investors<br>and Media</a>
+<a class="nav-link" href="https://careers.regeneron.com/" target="_blank">Careers</a>
+<form class="form-inline my-2 my-lg-0 site-search" action="/search" role="search">
+<div class="input-group">
+<input type="text" name="query" class="form-control site-search-box" placeholder="Search" aria-label="Search" spellcheck="false" autocomplete="off" aria-autocomplete="list" aria-expanded="false">
+<button type="submit" class="btn-search" href="#">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class><circle cx="10.5" cy="10.5" r="7.5"></circle><line x1="21" y1="21" x2="15.8" y2="15.8"></line></svg>
+</button>
+</div>
+</form>
+<div class="global-lang-nav position-absolute dropdown" id="dd">
+<a href="/" aria-label="Regeneron" class="back-home"></a>
+<button id="glbl" class="global-link-btn dropdown-toggle" href="#" role="button" data-boundary="dd" data-toggle="dropdown" aria-expanded="false" aria-controls="menu" aria-label="Global">
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="global-open" viewBox="0 0 275.22 144.69">
+<path d="M131.3 68.29h-13.72c-1.37 0-1.32 0-1.48-1.32-.38-3.1-.77-6.2-1.21-9.3-1.15-7.91-3.46-15.49-6.54-22.87-.25-.61-.16-.93.49-1.15 6.65-2.38 13.07-5.29 19.19-8.82.55-.31.88-.28 1.29.22 5.38 6.4 9.67 13.47 12.54 21.35 1.27 3.52 2.38 7.13 3.19 10.78.72 3.24 1.01 6.58 1.4 9.88.14 1.23.03 1.24-1.16 1.24h-13.98ZM38.22 34.43c-.87 2.31-1.82 4.58-2.53 6.92-1.12 3.73-2.2 7.49-3.04 11.28-.82 3.68-1.32 7.44-1.92 11.18-.19 1.18-.22 2.39-.3 3.59-.03.63-.28.87-.96.87-9.53-.02-19.08 0-28.61-.02-.24 0-.47-.05-.83-.08 0-.68-.06-1.34 0-1.97.69-6.53 1.98-12.93 4.28-19.11 3.02-8.13 7.31-15.53 12.93-22.13.47-.55.82-.46 1.37-.16 3.84 2.11 7.65 4.28 11.58 6.23 2.56 1.27 5.3 2.25 8.04 3.38v.02ZM146.53 77.71c-.31 2.31-.57 4.66-.98 6.95-.46 2.53-.94 5.08-1.67 7.55-.9 3.07-1.93 6.12-3.15 9.08-2.8 6.81-6.69 12.96-11.4 18.61-.36.44-.63.49-1.12.22-4.67-2.64-9.47-5.07-14.47-7.06-1.27-.5-2.56-1.04-3.85-1.49-.55-.2-.66-.39-.46-.98 1.15-3.29 2.34-6.56 3.32-9.89.76-2.58 1.21-5.25 1.79-7.9.94-4.29 1.38-8.65 1.65-13.04.05-.69.05-1.38.05-2.08 0-.61.27-.83.88-.83 2.31.02 4.62 0 6.95 0h21.3c.58 0 1.23-.08 1.15.87ZM15.15 76.86h14.08c.79 0 1.07.17 1.1 1.04.13 4.81.58 9.61 1.57 14.33.72 3.49 1.49 6.98 2.44 10.41.68 2.49 1.64 4.89 2.52 7.31.28.76.28 1.12-.6 1.43a92.895 92.895 0 0 0-17.56 8.7c-.69.44-1.12.38-1.65-.27-4.36-5.19-7.91-10.89-10.7-17.05-1.87-4.17-3.48-8.45-4.36-12.93C1.22 85.91.67 81.96.06 78.02c-.16-1.05-.05-1.13 1.02-1.13h14.08l-.02-.03ZM101.05 108.68c-3.05-.71-6.04-1.45-9.06-2.08-2.17-.44-4.37-.77-6.58-1.05-2.36-.3-4.72-.49-7.08-.69-.49-.05-.72-.2-.69-.71V78.04q0-1.2 1.2-1.2h27.99c1.21 0 1.24 0 1.13 1.21-.3 3.32-.46 6.67-.98 9.97-1.12 6.98-2.94 13.78-5.69 20.31-.06.13-.16.25-.22.35h-.02ZM38.63 76.86h29.12q1.21 0 1.21 1.18c0 8.56 0 17.1.02 25.66 0 .88-.22 1.13-1.15 1.2-3.29.22-6.59.44-9.86.91-3.59.52-7.13 1.31-10.67 2.01-2.14.42-2.16.47-2.85-1.65-1.09-3.27-2.27-6.53-3.13-9.86-.79-3.04-1.32-6.15-1.76-9.27s-.63-6.28-.91-9.41c-.02-.2 0-.41 0-.77h-.02ZM92.62 68.29c-4.62 0-9.27-.02-13.89.02-.87 0-1.12-.25-1.12-1.12.03-8.7.03-17.4 0-26.11 0-.87.25-1.09 1.1-1.15 2.83-.25 5.68-.57 8.49-.96 2.64-.38 5.27-.87 7.88-1.35 1.23-.24 2.45-.55 3.65-.9.99-.28 1.27-.22 1.64.77 1.43 3.95 2.94 7.87 4.2 11.88.8 2.56 1.32 5.24 1.78 7.9.55 3.26.91 6.53 1.34 9.82.16 1.18.08 1.24-1.09 1.24H92.62v-.03ZM53.83 68.29c-4.62 0-9.27-.02-13.89 0-.82 0-1.23-.14-1.1-1.09.41-3.04.64-6.1 1.21-9.09.68-3.56 1.46-7.11 2.5-10.57 1.02-3.41 2.42-6.7 3.65-10.05.2-.53.55-.58 1.07-.46 2.42.55 4.86 1.05 7.3 1.56 4.42.93 8.9 1.29 13.39 1.51.85.05 1.04.41 1.02 1.18-.02 8.6-.02 17.23 0 25.83 0 .88-.22 1.21-1.16 1.2-4.66-.05-9.33-.02-13.98-.02ZM61.22.03c-.35.41-.53.66-.76.88-4.31 4.5-8.29 9.3-11.74 14.49-2.14 3.22-4.06 6.59-6.06 9.91-.71 1.18-.68 1.2-1.97.76-5.63-1.97-10.96-4.56-16.08-7.61-.17-.11-.31-.25-.58-.44C34.71 8.49 47 2.53 61.22.03ZM122.49 18.17c-1.73.88-3.38 1.86-5.13 2.61-4.04 1.76-8.13 3.41-12.19 5.14-.71.3-1.04-.02-1.34-.6-2.3-4.34-4.94-8.46-7.8-12.44-3.02-4.17-6.29-8.13-9.86-11.83-.27-.27-.5-.57-.96-1.05 5.02.76 9.63 2.05 14.09 3.74 8.26 3.11 19.96 10.46 23.19 14.44v-.02ZM24.1 126.71c2.72-1.45 5.41-2.96 8.2-4.29 2.45-1.18 5.02-2.14 7.52-3.24.76-.33 1.1-.13 1.48.57 4.55 8.7 10.29 16.52 17.19 23.49.42.42.82.85 1.18 1.37-13.51-2.49-25.34-8.35-35.57-17.51v-.38ZM122.59 126.93c-10.34 9.27-22.16 15.15-35.61 17.76l-.16-.19c.2-.22.39-.47.6-.68a95.889 95.889 0 0 0 14.03-17.35c1.35-2.12 2.55-4.36 3.78-6.56.31-.58.66-.71 1.23-.5 5.43 2.03 10.71 4.39 15.76 7.25.08.05.14.11.36.27h.02ZM68.69 140.98c-1.07-.99-2.17-1.95-3.22-2.97-6.37-6.2-11.77-13.17-16.06-20.95-.33-.58-.28-.82.41-.98 4.78-1.2 9.61-2.05 14.52-2.42 1.29-.09 2.58-.16 3.87-.25.55-.05.77.2.76.72v26.71c-.09.05-.17.09-.27.14ZM77.63 140.82v-26.25c0-1.23.02-1.31 1.29-1.15 3.74.49 7.5.96 11.23 1.56 2.09.33 4.15.88 6.23 1.35.28.06.55.17.98.3-5.08 9.33-11.61 17.34-19.46 24.27-.09-.03-.19-.05-.27-.08ZM50.4 28.99C55.4 19.98 61.47 12 68.92 4.7c.03.58.05.9.05 1.21V30.2c0 1.32 0 1.37-1.29 1.27-3.05-.24-6.12-.41-9.14-.79-2.38-.3-4.72-.87-7.06-1.34-.31-.06-.61-.2-1.07-.35v-.02ZM77.88 4.86c7.11 7.06 13.2 14.9 18.15 23.83-1.54.35-2.97.71-4.44.98-2.53.46-5.07.91-7.61 1.26-1.87.25-3.76.33-5.65.5-.5.05-.72-.17-.69-.68V4.96c.08-.03.17-.06.25-.08l-.02-.02Z" fill="currentColor" />
+<path fill="none" stroke="currentColor" stroke-width="12.6" d="m216.97 86.06 26.91-26.67 26.9 26.67" />
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="global-close" viewBox="0 0 275.22 144.69">
+<path d="M131.3 68.29h-13.72c-1.37 0-1.32 0-1.48-1.32-.38-3.1-.77-6.2-1.21-9.3-1.15-7.91-3.46-15.49-6.54-22.87-.25-.61-.16-.93.49-1.15 6.65-2.38 13.07-5.29 19.19-8.82.55-.31.88-.28 1.29.22 5.38 6.4 9.67 13.47 12.54 21.35 1.27 3.52 2.38 7.13 3.19 10.78.72 3.24 1.01 6.58 1.4 9.88.14 1.23.03 1.24-1.16 1.24h-13.98ZM38.22 34.43c-.87 2.31-1.82 4.58-2.53 6.92-1.12 3.73-2.2 7.49-3.04 11.28-.82 3.68-1.32 7.44-1.92 11.18-.19 1.18-.22 2.39-.3 3.59-.03.63-.28.87-.96.87-9.53-.02-19.08 0-28.61-.02-.24 0-.47-.05-.83-.08 0-.68-.06-1.34 0-1.97.69-6.53 1.98-12.93 4.28-19.11 3.02-8.13 7.31-15.53 12.93-22.13.47-.55.82-.46 1.37-.16 3.84 2.11 7.65 4.28 11.58 6.23 2.56 1.27 5.3 2.25 8.04 3.38v.02ZM146.53 77.71c-.31 2.31-.57 4.66-.98 6.95-.46 2.53-.94 5.08-1.67 7.55-.9 3.07-1.93 6.12-3.15 9.08-2.8 6.81-6.69 12.96-11.4 18.61-.36.44-.63.49-1.12.22-4.67-2.64-9.47-5.07-14.47-7.06-1.27-.5-2.56-1.04-3.85-1.49-.55-.2-.66-.39-.46-.98 1.15-3.29 2.34-6.56 3.32-9.89.76-2.58 1.21-5.25 1.79-7.9.94-4.29 1.38-8.65 1.65-13.04.05-.69.05-1.38.05-2.08 0-.61.27-.83.88-.83 2.31.02 4.62 0 6.95 0h21.3c.58 0 1.23-.08 1.15.87ZM15.15 76.86h14.08c.79 0 1.07.17 1.1 1.04.13 4.81.58 9.61 1.57 14.33.72 3.49 1.49 6.98 2.44 10.41.68 2.49 1.64 4.89 2.52 7.31.28.76.28 1.12-.6 1.43a92.895 92.895 0 0 0-17.56 8.7c-.69.44-1.12.38-1.65-.27-4.36-5.19-7.91-10.89-10.7-17.05-1.87-4.17-3.48-8.45-4.36-12.93C1.22 85.91.67 81.96.06 78.02c-.16-1.05-.05-1.13 1.02-1.13h14.08l-.02-.03ZM101.05 108.68c-3.05-.71-6.04-1.45-9.06-2.08-2.17-.44-4.37-.77-6.58-1.05-2.36-.3-4.72-.49-7.08-.69-.49-.05-.72-.2-.69-.71V78.04q0-1.2 1.2-1.2h27.99c1.21 0 1.24 0 1.13 1.21-.3 3.32-.46 6.67-.98 9.97-1.12 6.98-2.94 13.78-5.69 20.31-.06.13-.16.25-.22.35h-.02ZM38.63 76.86h29.12q1.21 0 1.21 1.18c0 8.56 0 17.1.02 25.66 0 .88-.22 1.13-1.15 1.2-3.29.22-6.59.44-9.86.91-3.59.52-7.13 1.31-10.67 2.01-2.14.42-2.16.47-2.85-1.65-1.09-3.27-2.27-6.53-3.13-9.86-.79-3.04-1.32-6.15-1.76-9.27s-.63-6.28-.91-9.41c-.02-.2 0-.41 0-.77h-.02ZM92.62 68.29c-4.62 0-9.27-.02-13.89.02-.87 0-1.12-.25-1.12-1.12.03-8.7.03-17.4 0-26.11 0-.87.25-1.09 1.1-1.15 2.83-.25 5.68-.57 8.49-.96 2.64-.38 5.27-.87 7.88-1.35 1.23-.24 2.45-.55 3.65-.9.99-.28 1.27-.22 1.64.77 1.43 3.95 2.94 7.87 4.2 11.88.8 2.56 1.32 5.24 1.78 7.9.55 3.26.91 6.53 1.34 9.82.16 1.18.08 1.24-1.09 1.24H92.62v-.03ZM53.83 68.29c-4.62 0-9.27-.02-13.89 0-.82 0-1.23-.14-1.1-1.09.41-3.04.64-6.1 1.21-9.09.68-3.56 1.46-7.11 2.5-10.57 1.02-3.41 2.42-6.7 3.65-10.05.2-.53.55-.58 1.07-.46 2.42.55 4.86 1.05 7.3 1.56 4.42.93 8.9 1.29 13.39 1.51.85.05 1.04.41 1.02 1.18-.02 8.6-.02 17.23 0 25.83 0 .88-.22 1.21-1.16 1.2-4.66-.05-9.33-.02-13.98-.02ZM61.22.03c-.35.41-.53.66-.76.88-4.31 4.5-8.29 9.3-11.74 14.49-2.14 3.22-4.06 6.59-6.06 9.91-.71 1.18-.68 1.2-1.97.76-5.63-1.97-10.96-4.56-16.08-7.61-.17-.11-.31-.25-.58-.44C34.71 8.49 47 2.53 61.22.03ZM122.49 18.17c-1.73.88-3.38 1.86-5.13 2.61-4.04 1.76-8.13 3.41-12.19 5.14-.71.3-1.04-.02-1.34-.6-2.3-4.34-4.94-8.46-7.8-12.44-3.02-4.17-6.29-8.13-9.86-11.83-.27-.27-.5-.57-.96-1.05 5.02.76 9.63 2.05 14.09 3.74 8.26 3.11 19.96 10.46 23.19 14.44v-.02ZM24.1 126.71c2.72-1.45 5.41-2.96 8.2-4.29 2.45-1.18 5.02-2.14 7.52-3.24.76-.33 1.1-.13 1.48.57 4.55 8.7 10.29 16.52 17.19 23.49.42.42.82.85 1.18 1.37-13.51-2.49-25.34-8.35-35.57-17.51v-.38ZM122.59 126.93c-10.34 9.27-22.16 15.15-35.61 17.76l-.16-.19c.2-.22.39-.47.6-.68a95.889 95.889 0 0 0 14.03-17.35c1.35-2.12 2.55-4.36 3.78-6.56.31-.58.66-.71 1.23-.5 5.43 2.03 10.71 4.39 15.76 7.25.08.05.14.11.36.27h.02ZM68.69 140.98c-1.07-.99-2.17-1.95-3.22-2.97-6.37-6.2-11.77-13.17-16.06-20.95-.33-.58-.28-.82.41-.98 4.78-1.2 9.61-2.05 14.52-2.42 1.29-.09 2.58-.16 3.87-.25.55-.05.77.2.76.72v26.71c-.09.05-.17.09-.27.14ZM77.63 140.82v-26.25c0-1.23.02-1.31 1.29-1.15 3.74.49 7.5.96 11.23 1.56 2.09.33 4.15.88 6.23 1.35.28.06.55.17.98.3-5.08 9.33-11.61 17.34-19.46 24.27-.09-.03-.19-.05-.27-.08ZM50.4 28.99C55.4 19.98 61.47 12 68.92 4.7c.03.58.05.9.05 1.21V30.2c0 1.32 0 1.37-1.29 1.27-3.05-.24-6.12-.41-9.14-.79-2.38-.3-4.72-.87-7.06-1.34-.31-.06-.61-.2-1.07-.35v-.02ZM77.88 4.86c7.11 7.06 13.2 14.9 18.15 23.83-1.54.35-2.97.71-4.44.98-2.53.46-5.07.91-7.61 1.26-1.87.25-3.76.33-5.65.5-.5.05-.72-.17-.69-.68V4.96c.08-.03.17-.06.25-.08l-.02-.02Z" fill="currentColor" />
+<path fill="none" stroke="currentColor" stroke-width="12.6" d="m270.78 59.39-26.9 26.67-26.91-26.67" />
+</svg>
+</button>
+<div class="dropdown-menu global" name="global" role="menu">
+<div class="global-mbl-brow">
+<a class="navbar-brand" href="/">
+<img src="/content/images/REGENERON-logo-white.svg" alt="Regeneron logo" title="REGENERON" class="brand-logo">
+</a>
+<button id="glbl" class="global-link-btn mbl dropdown-toggle" data-boundary="dd" href="#" role="button" data-toggle="dropdown" aria-expanded="false" aria-controls="menu" aria-label="Global">
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="global-open" viewBox="0 0 275.22 144.69">
+<path d="M131.3 68.29h-13.72c-1.37 0-1.32 0-1.48-1.32-.38-3.1-.77-6.2-1.21-9.3-1.15-7.91-3.46-15.49-6.54-22.87-.25-.61-.16-.93.49-1.15 6.65-2.38 13.07-5.29 19.19-8.82.55-.31.88-.28 1.29.22 5.38 6.4 9.67 13.47 12.54 21.35 1.27 3.52 2.38 7.13 3.19 10.78.72 3.24 1.01 6.58 1.4 9.88.14 1.23.03 1.24-1.16 1.24h-13.98ZM38.22 34.43c-.87 2.31-1.82 4.58-2.53 6.92-1.12 3.73-2.2 7.49-3.04 11.28-.82 3.68-1.32 7.44-1.92 11.18-.19 1.18-.22 2.39-.3 3.59-.03.63-.28.87-.96.87-9.53-.02-19.08 0-28.61-.02-.24 0-.47-.05-.83-.08 0-.68-.06-1.34 0-1.97.69-6.53 1.98-12.93 4.28-19.11 3.02-8.13 7.31-15.53 12.93-22.13.47-.55.82-.46 1.37-.16 3.84 2.11 7.65 4.28 11.58 6.23 2.56 1.27 5.3 2.25 8.04 3.38v.02ZM146.53 77.71c-.31 2.31-.57 4.66-.98 6.95-.46 2.53-.94 5.08-1.67 7.55-.9 3.07-1.93 6.12-3.15 9.08-2.8 6.81-6.69 12.96-11.4 18.61-.36.44-.63.49-1.12.22-4.67-2.64-9.47-5.07-14.47-7.06-1.27-.5-2.56-1.04-3.85-1.49-.55-.2-.66-.39-.46-.98 1.15-3.29 2.34-6.56 3.32-9.89.76-2.58 1.21-5.25 1.79-7.9.94-4.29 1.38-8.65 1.65-13.04.05-.69.05-1.38.05-2.08 0-.61.27-.83.88-.83 2.31.02 4.62 0 6.95 0h21.3c.58 0 1.23-.08 1.15.87ZM15.15 76.86h14.08c.79 0 1.07.17 1.1 1.04.13 4.81.58 9.61 1.57 14.33.72 3.49 1.49 6.98 2.44 10.41.68 2.49 1.64 4.89 2.52 7.31.28.76.28 1.12-.6 1.43a92.895 92.895 0 0 0-17.56 8.7c-.69.44-1.12.38-1.65-.27-4.36-5.19-7.91-10.89-10.7-17.05-1.87-4.17-3.48-8.45-4.36-12.93C1.22 85.91.67 81.96.06 78.02c-.16-1.05-.05-1.13 1.02-1.13h14.08l-.02-.03ZM101.05 108.68c-3.05-.71-6.04-1.45-9.06-2.08-2.17-.44-4.37-.77-6.58-1.05-2.36-.3-4.72-.49-7.08-.69-.49-.05-.72-.2-.69-.71V78.04q0-1.2 1.2-1.2h27.99c1.21 0 1.24 0 1.13 1.21-.3 3.32-.46 6.67-.98 9.97-1.12 6.98-2.94 13.78-5.69 20.31-.06.13-.16.25-.22.35h-.02ZM38.63 76.86h29.12q1.21 0 1.21 1.18c0 8.56 0 17.1.02 25.66 0 .88-.22 1.13-1.15 1.2-3.29.22-6.59.44-9.86.91-3.59.52-7.13 1.31-10.67 2.01-2.14.42-2.16.47-2.85-1.65-1.09-3.27-2.27-6.53-3.13-9.86-.79-3.04-1.32-6.15-1.76-9.27s-.63-6.28-.91-9.41c-.02-.2 0-.41 0-.77h-.02ZM92.62 68.29c-4.62 0-9.27-.02-13.89.02-.87 0-1.12-.25-1.12-1.12.03-8.7.03-17.4 0-26.11 0-.87.25-1.09 1.1-1.15 2.83-.25 5.68-.57 8.49-.96 2.64-.38 5.27-.87 7.88-1.35 1.23-.24 2.45-.55 3.65-.9.99-.28 1.27-.22 1.64.77 1.43 3.95 2.94 7.87 4.2 11.88.8 2.56 1.32 5.24 1.78 7.9.55 3.26.91 6.53 1.34 9.82.16 1.18.08 1.24-1.09 1.24H92.62v-.03ZM53.83 68.29c-4.62 0-9.27-.02-13.89 0-.82 0-1.23-.14-1.1-1.09.41-3.04.64-6.1 1.21-9.09.68-3.56 1.46-7.11 2.5-10.57 1.02-3.41 2.42-6.7 3.65-10.05.2-.53.55-.58 1.07-.46 2.42.55 4.86 1.05 7.3 1.56 4.42.93 8.9 1.29 13.39 1.51.85.05 1.04.41 1.02 1.18-.02 8.6-.02 17.23 0 25.83 0 .88-.22 1.21-1.16 1.2-4.66-.05-9.33-.02-13.98-.02ZM61.22.03c-.35.41-.53.66-.76.88-4.31 4.5-8.29 9.3-11.74 14.49-2.14 3.22-4.06 6.59-6.06 9.91-.71 1.18-.68 1.2-1.97.76-5.63-1.97-10.96-4.56-16.08-7.61-.17-.11-.31-.25-.58-.44C34.71 8.49 47 2.53 61.22.03ZM122.49 18.17c-1.73.88-3.38 1.86-5.13 2.61-4.04 1.76-8.13 3.41-12.19 5.14-.71.3-1.04-.02-1.34-.6-2.3-4.34-4.94-8.46-7.8-12.44-3.02-4.17-6.29-8.13-9.86-11.83-.27-.27-.5-.57-.96-1.05 5.02.76 9.63 2.05 14.09 3.74 8.26 3.11 19.96 10.46 23.19 14.44v-.02ZM24.1 126.71c2.72-1.45 5.41-2.96 8.2-4.29 2.45-1.18 5.02-2.14 7.52-3.24.76-.33 1.1-.13 1.48.57 4.55 8.7 10.29 16.52 17.19 23.49.42.42.82.85 1.18 1.37-13.51-2.49-25.34-8.35-35.57-17.51v-.38ZM122.59 126.93c-10.34 9.27-22.16 15.15-35.61 17.76l-.16-.19c.2-.22.39-.47.6-.68a95.889 95.889 0 0 0 14.03-17.35c1.35-2.12 2.55-4.36 3.78-6.56.31-.58.66-.71 1.23-.5 5.43 2.03 10.71 4.39 15.76 7.25.08.05.14.11.36.27h.02ZM68.69 140.98c-1.07-.99-2.17-1.95-3.22-2.97-6.37-6.2-11.77-13.17-16.06-20.95-.33-.58-.28-.82.41-.98 4.78-1.2 9.61-2.05 14.52-2.42 1.29-.09 2.58-.16 3.87-.25.55-.05.77.2.76.72v26.71c-.09.05-.17.09-.27.14ZM77.63 140.82v-26.25c0-1.23.02-1.31 1.29-1.15 3.74.49 7.5.96 11.23 1.56 2.09.33 4.15.88 6.23 1.35.28.06.55.17.98.3-5.08 9.33-11.61 17.34-19.46 24.27-.09-.03-.19-.05-.27-.08ZM50.4 28.99C55.4 19.98 61.47 12 68.92 4.7c.03.58.05.9.05 1.21V30.2c0 1.32 0 1.37-1.29 1.27-3.05-.24-6.12-.41-9.14-.79-2.38-.3-4.72-.87-7.06-1.34-.31-.06-.61-.2-1.07-.35v-.02ZM77.88 4.86c7.11 7.06 13.2 14.9 18.15 23.83-1.54.35-2.97.71-4.44.98-2.53.46-5.07.91-7.61 1.26-1.87.25-3.76.33-5.65.5-.5.05-.72-.17-.69-.68V4.96c.08-.03.17-.06.25-.08l-.02-.02Z" fill="currentColor" />
+<path fill="none" stroke="currentColor" stroke-width="12.6" d="m216.97 86.06 26.91-26.67 26.9 26.67" />
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="global-close" viewBox="0 0 275.22 144.69">
+<path d="M131.3 68.29h-13.72c-1.37 0-1.32 0-1.48-1.32-.38-3.1-.77-6.2-1.21-9.3-1.15-7.91-3.46-15.49-6.54-22.87-.25-.61-.16-.93.49-1.15 6.65-2.38 13.07-5.29 19.19-8.82.55-.31.88-.28 1.29.22 5.38 6.4 9.67 13.47 12.54 21.35 1.27 3.52 2.38 7.13 3.19 10.78.72 3.24 1.01 6.58 1.4 9.88.14 1.23.03 1.24-1.16 1.24h-13.98ZM38.22 34.43c-.87 2.31-1.82 4.58-2.53 6.92-1.12 3.73-2.2 7.49-3.04 11.28-.82 3.68-1.32 7.44-1.92 11.18-.19 1.18-.22 2.39-.3 3.59-.03.63-.28.87-.96.87-9.53-.02-19.08 0-28.61-.02-.24 0-.47-.05-.83-.08 0-.68-.06-1.34 0-1.97.69-6.53 1.98-12.93 4.28-19.11 3.02-8.13 7.31-15.53 12.93-22.13.47-.55.82-.46 1.37-.16 3.84 2.11 7.65 4.28 11.58 6.23 2.56 1.27 5.3 2.25 8.04 3.38v.02ZM146.53 77.71c-.31 2.31-.57 4.66-.98 6.95-.46 2.53-.94 5.08-1.67 7.55-.9 3.07-1.93 6.12-3.15 9.08-2.8 6.81-6.69 12.96-11.4 18.61-.36.44-.63.49-1.12.22-4.67-2.64-9.47-5.07-14.47-7.06-1.27-.5-2.56-1.04-3.85-1.49-.55-.2-.66-.39-.46-.98 1.15-3.29 2.34-6.56 3.32-9.89.76-2.58 1.21-5.25 1.79-7.9.94-4.29 1.38-8.65 1.65-13.04.05-.69.05-1.38.05-2.08 0-.61.27-.83.88-.83 2.31.02 4.62 0 6.95 0h21.3c.58 0 1.23-.08 1.15.87ZM15.15 76.86h14.08c.79 0 1.07.17 1.1 1.04.13 4.81.58 9.61 1.57 14.33.72 3.49 1.49 6.98 2.44 10.41.68 2.49 1.64 4.89 2.52 7.31.28.76.28 1.12-.6 1.43a92.895 92.895 0 0 0-17.56 8.7c-.69.44-1.12.38-1.65-.27-4.36-5.19-7.91-10.89-10.7-17.05-1.87-4.17-3.48-8.45-4.36-12.93C1.22 85.91.67 81.96.06 78.02c-.16-1.05-.05-1.13 1.02-1.13h14.08l-.02-.03ZM101.05 108.68c-3.05-.71-6.04-1.45-9.06-2.08-2.17-.44-4.37-.77-6.58-1.05-2.36-.3-4.72-.49-7.08-.69-.49-.05-.72-.2-.69-.71V78.04q0-1.2 1.2-1.2h27.99c1.21 0 1.24 0 1.13 1.21-.3 3.32-.46 6.67-.98 9.97-1.12 6.98-2.94 13.78-5.69 20.31-.06.13-.16.25-.22.35h-.02ZM38.63 76.86h29.12q1.21 0 1.21 1.18c0 8.56 0 17.1.02 25.66 0 .88-.22 1.13-1.15 1.2-3.29.22-6.59.44-9.86.91-3.59.52-7.13 1.31-10.67 2.01-2.14.42-2.16.47-2.85-1.65-1.09-3.27-2.27-6.53-3.13-9.86-.79-3.04-1.32-6.15-1.76-9.27s-.63-6.28-.91-9.41c-.02-.2 0-.41 0-.77h-.02ZM92.62 68.29c-4.62 0-9.27-.02-13.89.02-.87 0-1.12-.25-1.12-1.12.03-8.7.03-17.4 0-26.11 0-.87.25-1.09 1.1-1.15 2.83-.25 5.68-.57 8.49-.96 2.64-.38 5.27-.87 7.88-1.35 1.23-.24 2.45-.55 3.65-.9.99-.28 1.27-.22 1.64.77 1.43 3.95 2.94 7.87 4.2 11.88.8 2.56 1.32 5.24 1.78 7.9.55 3.26.91 6.53 1.34 9.82.16 1.18.08 1.24-1.09 1.24H92.62v-.03ZM53.83 68.29c-4.62 0-9.27-.02-13.89 0-.82 0-1.23-.14-1.1-1.09.41-3.04.64-6.1 1.21-9.09.68-3.56 1.46-7.11 2.5-10.57 1.02-3.41 2.42-6.7 3.65-10.05.2-.53.55-.58 1.07-.46 2.42.55 4.86 1.05 7.3 1.56 4.42.93 8.9 1.29 13.39 1.51.85.05 1.04.41 1.02 1.18-.02 8.6-.02 17.23 0 25.83 0 .88-.22 1.21-1.16 1.2-4.66-.05-9.33-.02-13.98-.02ZM61.22.03c-.35.41-.53.66-.76.88-4.31 4.5-8.29 9.3-11.74 14.49-2.14 3.22-4.06 6.59-6.06 9.91-.71 1.18-.68 1.2-1.97.76-5.63-1.97-10.96-4.56-16.08-7.61-.17-.11-.31-.25-.58-.44C34.71 8.49 47 2.53 61.22.03ZM122.49 18.17c-1.73.88-3.38 1.86-5.13 2.61-4.04 1.76-8.13 3.41-12.19 5.14-.71.3-1.04-.02-1.34-.6-2.3-4.34-4.94-8.46-7.8-12.44-3.02-4.17-6.29-8.13-9.86-11.83-.27-.27-.5-.57-.96-1.05 5.02.76 9.63 2.05 14.09 3.74 8.26 3.11 19.96 10.46 23.19 14.44v-.02ZM24.1 126.71c2.72-1.45 5.41-2.96 8.2-4.29 2.45-1.18 5.02-2.14 7.52-3.24.76-.33 1.1-.13 1.48.57 4.55 8.7 10.29 16.52 17.19 23.49.42.42.82.85 1.18 1.37-13.51-2.49-25.34-8.35-35.57-17.51v-.38ZM122.59 126.93c-10.34 9.27-22.16 15.15-35.61 17.76l-.16-.19c.2-.22.39-.47.6-.68a95.889 95.889 0 0 0 14.03-17.35c1.35-2.12 2.55-4.36 3.78-6.56.31-.58.66-.71 1.23-.5 5.43 2.03 10.71 4.39 15.76 7.25.08.05.14.11.36.27h.02ZM68.69 140.98c-1.07-.99-2.17-1.95-3.22-2.97-6.37-6.2-11.77-13.17-16.06-20.95-.33-.58-.28-.82.41-.98 4.78-1.2 9.61-2.05 14.52-2.42 1.29-.09 2.58-.16 3.87-.25.55-.05.77.2.76.72v26.71c-.09.05-.17.09-.27.14ZM77.63 140.82v-26.25c0-1.23.02-1.31 1.29-1.15 3.74.49 7.5.96 11.23 1.56 2.09.33 4.15.88 6.23 1.35.28.06.55.17.98.3-5.08 9.33-11.61 17.34-19.46 24.27-.09-.03-.19-.05-.27-.08ZM50.4 28.99C55.4 19.98 61.47 12 68.92 4.7c.03.58.05.9.05 1.21V30.2c0 1.32 0 1.37-1.29 1.27-3.05-.24-6.12-.41-9.14-.79-2.38-.3-4.72-.87-7.06-1.34-.31-.06-.61-.2-1.07-.35v-.02ZM77.88 4.86c7.11 7.06 13.2 14.9 18.15 23.83-1.54.35-2.97.71-4.44.98-2.53.46-5.07.91-7.61 1.26-1.87.25-3.76.33-5.65.5-.5.05-.72-.17-.69-.68V4.96c.08-.03.17-.06.25-.08l-.02-.02Z" fill="currentColor" />
+<path fill="none" stroke="currentColor" stroke-width="12.6" d="m270.78 59.39-26.9 26.67-26.91-26.67" />
+</svg>
+</button>
+</div>
+<div class="global-head">
+<ul>
+<li>
+<a href="/global" target="_blank">View our global site</a>
+<i class="arrow"></i>
+</li>
+<li>
+<a href="/locations">View our locations worldwide</a>
+<i class="arrow"></i>
+</li>
+</ul>
+</div>
+<div class="link-wrapper">
+<div class="link-col">
+<ul>
+<li>
+<span class="global-nav-label">Canada</span>
+<p>
+<a href="https://www.regeneron.ca" lang rel="internal">
+EN</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.ca/fr" lang rel="internal">FR</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">France</span>
+<p>
+<a href="https://www.regeneron.fr" lang rel="internal">
+FR</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.fr/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Germany</span>
+<p>
+<a href="https://www.regeneron.de/" lang rel="internal">
+DE</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.de/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Ireland</span>
+<p>
+<a href="https://www.regeneron.ie" lang rel="internal">
+EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Italy</span>
+<p>
+<a href="https://www.regeneron.it" lang rel="internal">
+IT</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.it/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Japan</span>
+<p>
+<a href="https://www.regeneron.co.jp" lang="ja" rel="internal">
+日本</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.co.jp/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Netherlands</span>
+<p>
+<a href="https://www.regeneron.nl" lang rel="internal">
+NL</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.nl/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Spain</span>
+<p>
+<a href="https://www.regeneron.es" lang rel="internal">
+ES</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.es/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">United Kingdom</span>
+<p>
+<a href="https://www.regeneron.co.uk" lang rel="internal">
+EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">United States</span>
+<p>
+EN </p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="container px-0">
+<div class="d-block d-md-none position-relative">
+<div class="global-lang-nav position-absolute dropdown" id="dd">
+<a href="/" aria-label="Regeneron" class="back-home"></a>
+<button id="glbl" class="global-link-btn dropdown-toggle" href="#" role="button" data-boundary="dd" data-toggle="dropdown" aria-expanded="false" aria-controls="menu" aria-label="Global">
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="global-open" viewBox="0 0 275.22 144.69">
+<path d="M131.3 68.29h-13.72c-1.37 0-1.32 0-1.48-1.32-.38-3.1-.77-6.2-1.21-9.3-1.15-7.91-3.46-15.49-6.54-22.87-.25-.61-.16-.93.49-1.15 6.65-2.38 13.07-5.29 19.19-8.82.55-.31.88-.28 1.29.22 5.38 6.4 9.67 13.47 12.54 21.35 1.27 3.52 2.38 7.13 3.19 10.78.72 3.24 1.01 6.58 1.4 9.88.14 1.23.03 1.24-1.16 1.24h-13.98ZM38.22 34.43c-.87 2.31-1.82 4.58-2.53 6.92-1.12 3.73-2.2 7.49-3.04 11.28-.82 3.68-1.32 7.44-1.92 11.18-.19 1.18-.22 2.39-.3 3.59-.03.63-.28.87-.96.87-9.53-.02-19.08 0-28.61-.02-.24 0-.47-.05-.83-.08 0-.68-.06-1.34 0-1.97.69-6.53 1.98-12.93 4.28-19.11 3.02-8.13 7.31-15.53 12.93-22.13.47-.55.82-.46 1.37-.16 3.84 2.11 7.65 4.28 11.58 6.23 2.56 1.27 5.3 2.25 8.04 3.38v.02ZM146.53 77.71c-.31 2.31-.57 4.66-.98 6.95-.46 2.53-.94 5.08-1.67 7.55-.9 3.07-1.93 6.12-3.15 9.08-2.8 6.81-6.69 12.96-11.4 18.61-.36.44-.63.49-1.12.22-4.67-2.64-9.47-5.07-14.47-7.06-1.27-.5-2.56-1.04-3.85-1.49-.55-.2-.66-.39-.46-.98 1.15-3.29 2.34-6.56 3.32-9.89.76-2.58 1.21-5.25 1.79-7.9.94-4.29 1.38-8.65 1.65-13.04.05-.69.05-1.38.05-2.08 0-.61.27-.83.88-.83 2.31.02 4.62 0 6.95 0h21.3c.58 0 1.23-.08 1.15.87ZM15.15 76.86h14.08c.79 0 1.07.17 1.1 1.04.13 4.81.58 9.61 1.57 14.33.72 3.49 1.49 6.98 2.44 10.41.68 2.49 1.64 4.89 2.52 7.31.28.76.28 1.12-.6 1.43a92.895 92.895 0 0 0-17.56 8.7c-.69.44-1.12.38-1.65-.27-4.36-5.19-7.91-10.89-10.7-17.05-1.87-4.17-3.48-8.45-4.36-12.93C1.22 85.91.67 81.96.06 78.02c-.16-1.05-.05-1.13 1.02-1.13h14.08l-.02-.03ZM101.05 108.68c-3.05-.71-6.04-1.45-9.06-2.08-2.17-.44-4.37-.77-6.58-1.05-2.36-.3-4.72-.49-7.08-.69-.49-.05-.72-.2-.69-.71V78.04q0-1.2 1.2-1.2h27.99c1.21 0 1.24 0 1.13 1.21-.3 3.32-.46 6.67-.98 9.97-1.12 6.98-2.94 13.78-5.69 20.31-.06.13-.16.25-.22.35h-.02ZM38.63 76.86h29.12q1.21 0 1.21 1.18c0 8.56 0 17.1.02 25.66 0 .88-.22 1.13-1.15 1.2-3.29.22-6.59.44-9.86.91-3.59.52-7.13 1.31-10.67 2.01-2.14.42-2.16.47-2.85-1.65-1.09-3.27-2.27-6.53-3.13-9.86-.79-3.04-1.32-6.15-1.76-9.27s-.63-6.28-.91-9.41c-.02-.2 0-.41 0-.77h-.02ZM92.62 68.29c-4.62 0-9.27-.02-13.89.02-.87 0-1.12-.25-1.12-1.12.03-8.7.03-17.4 0-26.11 0-.87.25-1.09 1.1-1.15 2.83-.25 5.68-.57 8.49-.96 2.64-.38 5.27-.87 7.88-1.35 1.23-.24 2.45-.55 3.65-.9.99-.28 1.27-.22 1.64.77 1.43 3.95 2.94 7.87 4.2 11.88.8 2.56 1.32 5.24 1.78 7.9.55 3.26.91 6.53 1.34 9.82.16 1.18.08 1.24-1.09 1.24H92.62v-.03ZM53.83 68.29c-4.62 0-9.27-.02-13.89 0-.82 0-1.23-.14-1.1-1.09.41-3.04.64-6.1 1.21-9.09.68-3.56 1.46-7.11 2.5-10.57 1.02-3.41 2.42-6.7 3.65-10.05.2-.53.55-.58 1.07-.46 2.42.55 4.86 1.05 7.3 1.56 4.42.93 8.9 1.29 13.39 1.51.85.05 1.04.41 1.02 1.18-.02 8.6-.02 17.23 0 25.83 0 .88-.22 1.21-1.16 1.2-4.66-.05-9.33-.02-13.98-.02ZM61.22.03c-.35.41-.53.66-.76.88-4.31 4.5-8.29 9.3-11.74 14.49-2.14 3.22-4.06 6.59-6.06 9.91-.71 1.18-.68 1.2-1.97.76-5.63-1.97-10.96-4.56-16.08-7.61-.17-.11-.31-.25-.58-.44C34.71 8.49 47 2.53 61.22.03ZM122.49 18.17c-1.73.88-3.38 1.86-5.13 2.61-4.04 1.76-8.13 3.41-12.19 5.14-.71.3-1.04-.02-1.34-.6-2.3-4.34-4.94-8.46-7.8-12.44-3.02-4.17-6.29-8.13-9.86-11.83-.27-.27-.5-.57-.96-1.05 5.02.76 9.63 2.05 14.09 3.74 8.26 3.11 19.96 10.46 23.19 14.44v-.02ZM24.1 126.71c2.72-1.45 5.41-2.96 8.2-4.29 2.45-1.18 5.02-2.14 7.52-3.24.76-.33 1.1-.13 1.48.57 4.55 8.7 10.29 16.52 17.19 23.49.42.42.82.85 1.18 1.37-13.51-2.49-25.34-8.35-35.57-17.51v-.38ZM122.59 126.93c-10.34 9.27-22.16 15.15-35.61 17.76l-.16-.19c.2-.22.39-.47.6-.68a95.889 95.889 0 0 0 14.03-17.35c1.35-2.12 2.55-4.36 3.78-6.56.31-.58.66-.71 1.23-.5 5.43 2.03 10.71 4.39 15.76 7.25.08.05.14.11.36.27h.02ZM68.69 140.98c-1.07-.99-2.17-1.95-3.22-2.97-6.37-6.2-11.77-13.17-16.06-20.95-.33-.58-.28-.82.41-.98 4.78-1.2 9.61-2.05 14.52-2.42 1.29-.09 2.58-.16 3.87-.25.55-.05.77.2.76.72v26.71c-.09.05-.17.09-.27.14ZM77.63 140.82v-26.25c0-1.23.02-1.31 1.29-1.15 3.74.49 7.5.96 11.23 1.56 2.09.33 4.15.88 6.23 1.35.28.06.55.17.98.3-5.08 9.33-11.61 17.34-19.46 24.27-.09-.03-.19-.05-.27-.08ZM50.4 28.99C55.4 19.98 61.47 12 68.92 4.7c.03.58.05.9.05 1.21V30.2c0 1.32 0 1.37-1.29 1.27-3.05-.24-6.12-.41-9.14-.79-2.38-.3-4.72-.87-7.06-1.34-.31-.06-.61-.2-1.07-.35v-.02ZM77.88 4.86c7.11 7.06 13.2 14.9 18.15 23.83-1.54.35-2.97.71-4.44.98-2.53.46-5.07.91-7.61 1.26-1.87.25-3.76.33-5.65.5-.5.05-.72-.17-.69-.68V4.96c.08-.03.17-.06.25-.08l-.02-.02Z" fill="currentColor" />
+<path fill="none" stroke="currentColor" stroke-width="12.6" d="m216.97 86.06 26.91-26.67 26.9 26.67" />
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="global-close" viewBox="0 0 275.22 144.69">
+<path d="M131.3 68.29h-13.72c-1.37 0-1.32 0-1.48-1.32-.38-3.1-.77-6.2-1.21-9.3-1.15-7.91-3.46-15.49-6.54-22.87-.25-.61-.16-.93.49-1.15 6.65-2.38 13.07-5.29 19.19-8.82.55-.31.88-.28 1.29.22 5.38 6.4 9.67 13.47 12.54 21.35 1.27 3.52 2.38 7.13 3.19 10.78.72 3.24 1.01 6.58 1.4 9.88.14 1.23.03 1.24-1.16 1.24h-13.98ZM38.22 34.43c-.87 2.31-1.82 4.58-2.53 6.92-1.12 3.73-2.2 7.49-3.04 11.28-.82 3.68-1.32 7.44-1.92 11.18-.19 1.18-.22 2.39-.3 3.59-.03.63-.28.87-.96.87-9.53-.02-19.08 0-28.61-.02-.24 0-.47-.05-.83-.08 0-.68-.06-1.34 0-1.97.69-6.53 1.98-12.93 4.28-19.11 3.02-8.13 7.31-15.53 12.93-22.13.47-.55.82-.46 1.37-.16 3.84 2.11 7.65 4.28 11.58 6.23 2.56 1.27 5.3 2.25 8.04 3.38v.02ZM146.53 77.71c-.31 2.31-.57 4.66-.98 6.95-.46 2.53-.94 5.08-1.67 7.55-.9 3.07-1.93 6.12-3.15 9.08-2.8 6.81-6.69 12.96-11.4 18.61-.36.44-.63.49-1.12.22-4.67-2.64-9.47-5.07-14.47-7.06-1.27-.5-2.56-1.04-3.85-1.49-.55-.2-.66-.39-.46-.98 1.15-3.29 2.34-6.56 3.32-9.89.76-2.58 1.21-5.25 1.79-7.9.94-4.29 1.38-8.65 1.65-13.04.05-.69.05-1.38.05-2.08 0-.61.27-.83.88-.83 2.31.02 4.62 0 6.95 0h21.3c.58 0 1.23-.08 1.15.87ZM15.15 76.86h14.08c.79 0 1.07.17 1.1 1.04.13 4.81.58 9.61 1.57 14.33.72 3.49 1.49 6.98 2.44 10.41.68 2.49 1.64 4.89 2.52 7.31.28.76.28 1.12-.6 1.43a92.895 92.895 0 0 0-17.56 8.7c-.69.44-1.12.38-1.65-.27-4.36-5.19-7.91-10.89-10.7-17.05-1.87-4.17-3.48-8.45-4.36-12.93C1.22 85.91.67 81.96.06 78.02c-.16-1.05-.05-1.13 1.02-1.13h14.08l-.02-.03ZM101.05 108.68c-3.05-.71-6.04-1.45-9.06-2.08-2.17-.44-4.37-.77-6.58-1.05-2.36-.3-4.72-.49-7.08-.69-.49-.05-.72-.2-.69-.71V78.04q0-1.2 1.2-1.2h27.99c1.21 0 1.24 0 1.13 1.21-.3 3.32-.46 6.67-.98 9.97-1.12 6.98-2.94 13.78-5.69 20.31-.06.13-.16.25-.22.35h-.02ZM38.63 76.86h29.12q1.21 0 1.21 1.18c0 8.56 0 17.1.02 25.66 0 .88-.22 1.13-1.15 1.2-3.29.22-6.59.44-9.86.91-3.59.52-7.13 1.31-10.67 2.01-2.14.42-2.16.47-2.85-1.65-1.09-3.27-2.27-6.53-3.13-9.86-.79-3.04-1.32-6.15-1.76-9.27s-.63-6.28-.91-9.41c-.02-.2 0-.41 0-.77h-.02ZM92.62 68.29c-4.62 0-9.27-.02-13.89.02-.87 0-1.12-.25-1.12-1.12.03-8.7.03-17.4 0-26.11 0-.87.25-1.09 1.1-1.15 2.83-.25 5.68-.57 8.49-.96 2.64-.38 5.27-.87 7.88-1.35 1.23-.24 2.45-.55 3.65-.9.99-.28 1.27-.22 1.64.77 1.43 3.95 2.94 7.87 4.2 11.88.8 2.56 1.32 5.24 1.78 7.9.55 3.26.91 6.53 1.34 9.82.16 1.18.08 1.24-1.09 1.24H92.62v-.03ZM53.83 68.29c-4.62 0-9.27-.02-13.89 0-.82 0-1.23-.14-1.1-1.09.41-3.04.64-6.1 1.21-9.09.68-3.56 1.46-7.11 2.5-10.57 1.02-3.41 2.42-6.7 3.65-10.05.2-.53.55-.58 1.07-.46 2.42.55 4.86 1.05 7.3 1.56 4.42.93 8.9 1.29 13.39 1.51.85.05 1.04.41 1.02 1.18-.02 8.6-.02 17.23 0 25.83 0 .88-.22 1.21-1.16 1.2-4.66-.05-9.33-.02-13.98-.02ZM61.22.03c-.35.41-.53.66-.76.88-4.31 4.5-8.29 9.3-11.74 14.49-2.14 3.22-4.06 6.59-6.06 9.91-.71 1.18-.68 1.2-1.97.76-5.63-1.97-10.96-4.56-16.08-7.61-.17-.11-.31-.25-.58-.44C34.71 8.49 47 2.53 61.22.03ZM122.49 18.17c-1.73.88-3.38 1.86-5.13 2.61-4.04 1.76-8.13 3.41-12.19 5.14-.71.3-1.04-.02-1.34-.6-2.3-4.34-4.94-8.46-7.8-12.44-3.02-4.17-6.29-8.13-9.86-11.83-.27-.27-.5-.57-.96-1.05 5.02.76 9.63 2.05 14.09 3.74 8.26 3.11 19.96 10.46 23.19 14.44v-.02ZM24.1 126.71c2.72-1.45 5.41-2.96 8.2-4.29 2.45-1.18 5.02-2.14 7.52-3.24.76-.33 1.1-.13 1.48.57 4.55 8.7 10.29 16.52 17.19 23.49.42.42.82.85 1.18 1.37-13.51-2.49-25.34-8.35-35.57-17.51v-.38ZM122.59 126.93c-10.34 9.27-22.16 15.15-35.61 17.76l-.16-.19c.2-.22.39-.47.6-.68a95.889 95.889 0 0 0 14.03-17.35c1.35-2.12 2.55-4.36 3.78-6.56.31-.58.66-.71 1.23-.5 5.43 2.03 10.71 4.39 15.76 7.25.08.05.14.11.36.27h.02ZM68.69 140.98c-1.07-.99-2.17-1.95-3.22-2.97-6.37-6.2-11.77-13.17-16.06-20.95-.33-.58-.28-.82.41-.98 4.78-1.2 9.61-2.05 14.52-2.42 1.29-.09 2.58-.16 3.87-.25.55-.05.77.2.76.72v26.71c-.09.05-.17.09-.27.14ZM77.63 140.82v-26.25c0-1.23.02-1.31 1.29-1.15 3.74.49 7.5.96 11.23 1.56 2.09.33 4.15.88 6.23 1.35.28.06.55.17.98.3-5.08 9.33-11.61 17.34-19.46 24.27-.09-.03-.19-.05-.27-.08ZM50.4 28.99C55.4 19.98 61.47 12 68.92 4.7c.03.58.05.9.05 1.21V30.2c0 1.32 0 1.37-1.29 1.27-3.05-.24-6.12-.41-9.14-.79-2.38-.3-4.72-.87-7.06-1.34-.31-.06-.61-.2-1.07-.35v-.02ZM77.88 4.86c7.11 7.06 13.2 14.9 18.15 23.83-1.54.35-2.97.71-4.44.98-2.53.46-5.07.91-7.61 1.26-1.87.25-3.76.33-5.65.5-.5.05-.72-.17-.69-.68V4.96c.08-.03.17-.06.25-.08l-.02-.02Z" fill="currentColor" />
+<path fill="none" stroke="currentColor" stroke-width="12.6" d="m270.78 59.39-26.9 26.67-26.91-26.67" />
+</svg>
+</button>
+<div class="dropdown-menu global" name="global" role="menu">
+<div class="global-mbl-brow">
+<a class="navbar-brand" href="/">
+<img src="/content/images/REGENERON-logo-white.svg" alt="Regeneron logo" title="REGENERON" class="brand-logo">
+</a>
+<button id="glbl" class="global-link-btn mbl dropdown-toggle" data-boundary="dd" href="#" role="button" data-toggle="dropdown" aria-expanded="false" aria-controls="menu" aria-label="Global">
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="global-open" viewBox="0 0 275.22 144.69">
+<path d="M131.3 68.29h-13.72c-1.37 0-1.32 0-1.48-1.32-.38-3.1-.77-6.2-1.21-9.3-1.15-7.91-3.46-15.49-6.54-22.87-.25-.61-.16-.93.49-1.15 6.65-2.38 13.07-5.29 19.19-8.82.55-.31.88-.28 1.29.22 5.38 6.4 9.67 13.47 12.54 21.35 1.27 3.52 2.38 7.13 3.19 10.78.72 3.24 1.01 6.58 1.4 9.88.14 1.23.03 1.24-1.16 1.24h-13.98ZM38.22 34.43c-.87 2.31-1.82 4.58-2.53 6.92-1.12 3.73-2.2 7.49-3.04 11.28-.82 3.68-1.32 7.44-1.92 11.18-.19 1.18-.22 2.39-.3 3.59-.03.63-.28.87-.96.87-9.53-.02-19.08 0-28.61-.02-.24 0-.47-.05-.83-.08 0-.68-.06-1.34 0-1.97.69-6.53 1.98-12.93 4.28-19.11 3.02-8.13 7.31-15.53 12.93-22.13.47-.55.82-.46 1.37-.16 3.84 2.11 7.65 4.28 11.58 6.23 2.56 1.27 5.3 2.25 8.04 3.38v.02ZM146.53 77.71c-.31 2.31-.57 4.66-.98 6.95-.46 2.53-.94 5.08-1.67 7.55-.9 3.07-1.93 6.12-3.15 9.08-2.8 6.81-6.69 12.96-11.4 18.61-.36.44-.63.49-1.12.22-4.67-2.64-9.47-5.07-14.47-7.06-1.27-.5-2.56-1.04-3.85-1.49-.55-.2-.66-.39-.46-.98 1.15-3.29 2.34-6.56 3.32-9.89.76-2.58 1.21-5.25 1.79-7.9.94-4.29 1.38-8.65 1.65-13.04.05-.69.05-1.38.05-2.08 0-.61.27-.83.88-.83 2.31.02 4.62 0 6.95 0h21.3c.58 0 1.23-.08 1.15.87ZM15.15 76.86h14.08c.79 0 1.07.17 1.1 1.04.13 4.81.58 9.61 1.57 14.33.72 3.49 1.49 6.98 2.44 10.41.68 2.49 1.64 4.89 2.52 7.31.28.76.28 1.12-.6 1.43a92.895 92.895 0 0 0-17.56 8.7c-.69.44-1.12.38-1.65-.27-4.36-5.19-7.91-10.89-10.7-17.05-1.87-4.17-3.48-8.45-4.36-12.93C1.22 85.91.67 81.96.06 78.02c-.16-1.05-.05-1.13 1.02-1.13h14.08l-.02-.03ZM101.05 108.68c-3.05-.71-6.04-1.45-9.06-2.08-2.17-.44-4.37-.77-6.58-1.05-2.36-.3-4.72-.49-7.08-.69-.49-.05-.72-.2-.69-.71V78.04q0-1.2 1.2-1.2h27.99c1.21 0 1.24 0 1.13 1.21-.3 3.32-.46 6.67-.98 9.97-1.12 6.98-2.94 13.78-5.69 20.31-.06.13-.16.25-.22.35h-.02ZM38.63 76.86h29.12q1.21 0 1.21 1.18c0 8.56 0 17.1.02 25.66 0 .88-.22 1.13-1.15 1.2-3.29.22-6.59.44-9.86.91-3.59.52-7.13 1.31-10.67 2.01-2.14.42-2.16.47-2.85-1.65-1.09-3.27-2.27-6.53-3.13-9.86-.79-3.04-1.32-6.15-1.76-9.27s-.63-6.28-.91-9.41c-.02-.2 0-.41 0-.77h-.02ZM92.62 68.29c-4.62 0-9.27-.02-13.89.02-.87 0-1.12-.25-1.12-1.12.03-8.7.03-17.4 0-26.11 0-.87.25-1.09 1.1-1.15 2.83-.25 5.68-.57 8.49-.96 2.64-.38 5.27-.87 7.88-1.35 1.23-.24 2.45-.55 3.65-.9.99-.28 1.27-.22 1.64.77 1.43 3.95 2.94 7.87 4.2 11.88.8 2.56 1.32 5.24 1.78 7.9.55 3.26.91 6.53 1.34 9.82.16 1.18.08 1.24-1.09 1.24H92.62v-.03ZM53.83 68.29c-4.62 0-9.27-.02-13.89 0-.82 0-1.23-.14-1.1-1.09.41-3.04.64-6.1 1.21-9.09.68-3.56 1.46-7.11 2.5-10.57 1.02-3.41 2.42-6.7 3.65-10.05.2-.53.55-.58 1.07-.46 2.42.55 4.86 1.05 7.3 1.56 4.42.93 8.9 1.29 13.39 1.51.85.05 1.04.41 1.02 1.18-.02 8.6-.02 17.23 0 25.83 0 .88-.22 1.21-1.16 1.2-4.66-.05-9.33-.02-13.98-.02ZM61.22.03c-.35.41-.53.66-.76.88-4.31 4.5-8.29 9.3-11.74 14.49-2.14 3.22-4.06 6.59-6.06 9.91-.71 1.18-.68 1.2-1.97.76-5.63-1.97-10.96-4.56-16.08-7.61-.17-.11-.31-.25-.58-.44C34.71 8.49 47 2.53 61.22.03ZM122.49 18.17c-1.73.88-3.38 1.86-5.13 2.61-4.04 1.76-8.13 3.41-12.19 5.14-.71.3-1.04-.02-1.34-.6-2.3-4.34-4.94-8.46-7.8-12.44-3.02-4.17-6.29-8.13-9.86-11.83-.27-.27-.5-.57-.96-1.05 5.02.76 9.63 2.05 14.09 3.74 8.26 3.11 19.96 10.46 23.19 14.44v-.02ZM24.1 126.71c2.72-1.45 5.41-2.96 8.2-4.29 2.45-1.18 5.02-2.14 7.52-3.24.76-.33 1.1-.13 1.48.57 4.55 8.7 10.29 16.52 17.19 23.49.42.42.82.85 1.18 1.37-13.51-2.49-25.34-8.35-35.57-17.51v-.38ZM122.59 126.93c-10.34 9.27-22.16 15.15-35.61 17.76l-.16-.19c.2-.22.39-.47.6-.68a95.889 95.889 0 0 0 14.03-17.35c1.35-2.12 2.55-4.36 3.78-6.56.31-.58.66-.71 1.23-.5 5.43 2.03 10.71 4.39 15.76 7.25.08.05.14.11.36.27h.02ZM68.69 140.98c-1.07-.99-2.17-1.95-3.22-2.97-6.37-6.2-11.77-13.17-16.06-20.95-.33-.58-.28-.82.41-.98 4.78-1.2 9.61-2.05 14.52-2.42 1.29-.09 2.58-.16 3.87-.25.55-.05.77.2.76.72v26.71c-.09.05-.17.09-.27.14ZM77.63 140.82v-26.25c0-1.23.02-1.31 1.29-1.15 3.74.49 7.5.96 11.23 1.56 2.09.33 4.15.88 6.23 1.35.28.06.55.17.98.3-5.08 9.33-11.61 17.34-19.46 24.27-.09-.03-.19-.05-.27-.08ZM50.4 28.99C55.4 19.98 61.47 12 68.92 4.7c.03.58.05.9.05 1.21V30.2c0 1.32 0 1.37-1.29 1.27-3.05-.24-6.12-.41-9.14-.79-2.38-.3-4.72-.87-7.06-1.34-.31-.06-.61-.2-1.07-.35v-.02ZM77.88 4.86c7.11 7.06 13.2 14.9 18.15 23.83-1.54.35-2.97.71-4.44.98-2.53.46-5.07.91-7.61 1.26-1.87.25-3.76.33-5.65.5-.5.05-.72-.17-.69-.68V4.96c.08-.03.17-.06.25-.08l-.02-.02Z" fill="currentColor" />
+<path fill="none" stroke="currentColor" stroke-width="12.6" d="m216.97 86.06 26.91-26.67 26.9 26.67" />
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="global-close" viewBox="0 0 275.22 144.69">
+<path d="M131.3 68.29h-13.72c-1.37 0-1.32 0-1.48-1.32-.38-3.1-.77-6.2-1.21-9.3-1.15-7.91-3.46-15.49-6.54-22.87-.25-.61-.16-.93.49-1.15 6.65-2.38 13.07-5.29 19.19-8.82.55-.31.88-.28 1.29.22 5.38 6.4 9.67 13.47 12.54 21.35 1.27 3.52 2.38 7.13 3.19 10.78.72 3.24 1.01 6.58 1.4 9.88.14 1.23.03 1.24-1.16 1.24h-13.98ZM38.22 34.43c-.87 2.31-1.82 4.58-2.53 6.92-1.12 3.73-2.2 7.49-3.04 11.28-.82 3.68-1.32 7.44-1.92 11.18-.19 1.18-.22 2.39-.3 3.59-.03.63-.28.87-.96.87-9.53-.02-19.08 0-28.61-.02-.24 0-.47-.05-.83-.08 0-.68-.06-1.34 0-1.97.69-6.53 1.98-12.93 4.28-19.11 3.02-8.13 7.31-15.53 12.93-22.13.47-.55.82-.46 1.37-.16 3.84 2.11 7.65 4.28 11.58 6.23 2.56 1.27 5.3 2.25 8.04 3.38v.02ZM146.53 77.71c-.31 2.31-.57 4.66-.98 6.95-.46 2.53-.94 5.08-1.67 7.55-.9 3.07-1.93 6.12-3.15 9.08-2.8 6.81-6.69 12.96-11.4 18.61-.36.44-.63.49-1.12.22-4.67-2.64-9.47-5.07-14.47-7.06-1.27-.5-2.56-1.04-3.85-1.49-.55-.2-.66-.39-.46-.98 1.15-3.29 2.34-6.56 3.32-9.89.76-2.58 1.21-5.25 1.79-7.9.94-4.29 1.38-8.65 1.65-13.04.05-.69.05-1.38.05-2.08 0-.61.27-.83.88-.83 2.31.02 4.62 0 6.95 0h21.3c.58 0 1.23-.08 1.15.87ZM15.15 76.86h14.08c.79 0 1.07.17 1.1 1.04.13 4.81.58 9.61 1.57 14.33.72 3.49 1.49 6.98 2.44 10.41.68 2.49 1.64 4.89 2.52 7.31.28.76.28 1.12-.6 1.43a92.895 92.895 0 0 0-17.56 8.7c-.69.44-1.12.38-1.65-.27-4.36-5.19-7.91-10.89-10.7-17.05-1.87-4.17-3.48-8.45-4.36-12.93C1.22 85.91.67 81.96.06 78.02c-.16-1.05-.05-1.13 1.02-1.13h14.08l-.02-.03ZM101.05 108.68c-3.05-.71-6.04-1.45-9.06-2.08-2.17-.44-4.37-.77-6.58-1.05-2.36-.3-4.72-.49-7.08-.69-.49-.05-.72-.2-.69-.71V78.04q0-1.2 1.2-1.2h27.99c1.21 0 1.24 0 1.13 1.21-.3 3.32-.46 6.67-.98 9.97-1.12 6.98-2.94 13.78-5.69 20.31-.06.13-.16.25-.22.35h-.02ZM38.63 76.86h29.12q1.21 0 1.21 1.18c0 8.56 0 17.1.02 25.66 0 .88-.22 1.13-1.15 1.2-3.29.22-6.59.44-9.86.91-3.59.52-7.13 1.31-10.67 2.01-2.14.42-2.16.47-2.85-1.65-1.09-3.27-2.27-6.53-3.13-9.86-.79-3.04-1.32-6.15-1.76-9.27s-.63-6.28-.91-9.41c-.02-.2 0-.41 0-.77h-.02ZM92.62 68.29c-4.62 0-9.27-.02-13.89.02-.87 0-1.12-.25-1.12-1.12.03-8.7.03-17.4 0-26.11 0-.87.25-1.09 1.1-1.15 2.83-.25 5.68-.57 8.49-.96 2.64-.38 5.27-.87 7.88-1.35 1.23-.24 2.45-.55 3.65-.9.99-.28 1.27-.22 1.64.77 1.43 3.95 2.94 7.87 4.2 11.88.8 2.56 1.32 5.24 1.78 7.9.55 3.26.91 6.53 1.34 9.82.16 1.18.08 1.24-1.09 1.24H92.62v-.03ZM53.83 68.29c-4.62 0-9.27-.02-13.89 0-.82 0-1.23-.14-1.1-1.09.41-3.04.64-6.1 1.21-9.09.68-3.56 1.46-7.11 2.5-10.57 1.02-3.41 2.42-6.7 3.65-10.05.2-.53.55-.58 1.07-.46 2.42.55 4.86 1.05 7.3 1.56 4.42.93 8.9 1.29 13.39 1.51.85.05 1.04.41 1.02 1.18-.02 8.6-.02 17.23 0 25.83 0 .88-.22 1.21-1.16 1.2-4.66-.05-9.33-.02-13.98-.02ZM61.22.03c-.35.41-.53.66-.76.88-4.31 4.5-8.29 9.3-11.74 14.49-2.14 3.22-4.06 6.59-6.06 9.91-.71 1.18-.68 1.2-1.97.76-5.63-1.97-10.96-4.56-16.08-7.61-.17-.11-.31-.25-.58-.44C34.71 8.49 47 2.53 61.22.03ZM122.49 18.17c-1.73.88-3.38 1.86-5.13 2.61-4.04 1.76-8.13 3.41-12.19 5.14-.71.3-1.04-.02-1.34-.6-2.3-4.34-4.94-8.46-7.8-12.44-3.02-4.17-6.29-8.13-9.86-11.83-.27-.27-.5-.57-.96-1.05 5.02.76 9.63 2.05 14.09 3.74 8.26 3.11 19.96 10.46 23.19 14.44v-.02ZM24.1 126.71c2.72-1.45 5.41-2.96 8.2-4.29 2.45-1.18 5.02-2.14 7.52-3.24.76-.33 1.1-.13 1.48.57 4.55 8.7 10.29 16.52 17.19 23.49.42.42.82.85 1.18 1.37-13.51-2.49-25.34-8.35-35.57-17.51v-.38ZM122.59 126.93c-10.34 9.27-22.16 15.15-35.61 17.76l-.16-.19c.2-.22.39-.47.6-.68a95.889 95.889 0 0 0 14.03-17.35c1.35-2.12 2.55-4.36 3.78-6.56.31-.58.66-.71 1.23-.5 5.43 2.03 10.71 4.39 15.76 7.25.08.05.14.11.36.27h.02ZM68.69 140.98c-1.07-.99-2.17-1.95-3.22-2.97-6.37-6.2-11.77-13.17-16.06-20.95-.33-.58-.28-.82.41-.98 4.78-1.2 9.61-2.05 14.52-2.42 1.29-.09 2.58-.16 3.87-.25.55-.05.77.2.76.72v26.71c-.09.05-.17.09-.27.14ZM77.63 140.82v-26.25c0-1.23.02-1.31 1.29-1.15 3.74.49 7.5.96 11.23 1.56 2.09.33 4.15.88 6.23 1.35.28.06.55.17.98.3-5.08 9.33-11.61 17.34-19.46 24.27-.09-.03-.19-.05-.27-.08ZM50.4 28.99C55.4 19.98 61.47 12 68.92 4.7c.03.58.05.9.05 1.21V30.2c0 1.32 0 1.37-1.29 1.27-3.05-.24-6.12-.41-9.14-.79-2.38-.3-4.72-.87-7.06-1.34-.31-.06-.61-.2-1.07-.35v-.02ZM77.88 4.86c7.11 7.06 13.2 14.9 18.15 23.83-1.54.35-2.97.71-4.44.98-2.53.46-5.07.91-7.61 1.26-1.87.25-3.76.33-5.65.5-.5.05-.72-.17-.69-.68V4.96c.08-.03.17-.06.25-.08l-.02-.02Z" fill="currentColor" />
+<path fill="none" stroke="currentColor" stroke-width="12.6" d="m270.78 59.39-26.9 26.67-26.91-26.67" />
+</svg>
+</button>
+</div>
+<div class="global-head">
+<ul>
+<li>
+<a href="/global" target="_blank">View our global site</a>
+<i class="arrow"></i>
+</li>
+<li>
+<a href="/locations">View our locations worldwide</a>
+<i class="arrow"></i>
+</li>
+</ul>
+</div>
+<div class="link-wrapper">
+<div class="link-col">
+<ul>
+<li>
+<span class="global-nav-label">Canada</span>
+<p>
+<a href="https://www.regeneron.ca" lang rel="internal">
+EN</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.ca/fr" lang rel="internal">FR</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">France</span>
+<p>
+<a href="https://www.regeneron.fr" lang rel="internal">
+FR</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.fr/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Germany</span>
+<p>
+<a href="https://www.regeneron.de/" lang rel="internal">
+DE</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.de/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Ireland</span>
+<p>
+<a href="https://www.regeneron.ie" lang rel="internal">
+EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Italy</span>
+<p>
+<a href="https://www.regeneron.it" lang rel="internal">
+IT</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.it/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Japan</span>
+<p>
+<a href="https://www.regeneron.co.jp" lang="ja" rel="internal">
+日本</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.co.jp/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Netherlands</span>
+<p>
+<a href="https://www.regeneron.nl" lang rel="internal">
+NL</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.nl/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">Spain</span>
+<p>
+<a href="https://www.regeneron.es" lang rel="internal">
+ES</a>
+<span class="pipe-separator">|</span>
+<a href="https://www.regeneron.es/en" lang rel="internal">EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">United Kingdom</span>
+<p>
+<a href="https://www.regeneron.co.uk" lang rel="internal">
+EN</a>
+</p>
+</li>
+<li>
+<span class="global-nav-label">United States</span>
+<p>
+EN </p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<nav class="navbar navbar-expand-md" role="menubar" aria-label="Primary Navigation">
+<a class="navbar-brand" href="/">
+<img src="/content/images/REGENERON-logo-white.svg" alt="Regeneron logo" title="REGENERON" class="brand-logo">
+</a>
+<button id="hbgr" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+<span></span>
+<span></span>
+<span></span>
+<span></span>
+</button>
+<div class="collapse navbar-collapse" id="navbar">
+<ul class="navbar-nav" aria-orientation="horizontal" role="menubar">
+<div class="d-block d-sm-none">
+<form class="form-inline my-2 my-lg-0 site-search" action="/search" role="search">
+<div class="input-group">
+<input type="text" name="query" class="form-control site-search-box" placeholder="Search" aria-label="Search" spellcheck="false" autocomplete="off" aria-autocomplete="list" aria-expanded="false">
+<button class="btn-search" type="submit">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class><circle cx="10.5" cy="10.5" r="7.5"></circle><line x1="21" y1="21" x2="15.8" y2="15.8"></line></svg>
+</button>
+</div>
+</form>
+</div>
+<li class="nav-item dropdown nav-1 disable-hover" role="none">
+<a href="/about"><span>About</span> <i class="arrow white"></i></a>
+<a role="menuitem" aria-haspopup="true" aria-expanded="false" href="#" tabindex="-1" class="dropdown-toggle toggle-caret" data-toggle="dropdown"><span class="caret"></span></a>
+<ul class="dropdown-menu mt-0 dropdown-space" aria-orientation="vertical" role="menu">
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/about/leadership">Leadership</a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/about/perspectives">Perspectives</a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/about/history">History</a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/about/collaborations">Collaborations</a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/locations">Our Locations</a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/contact">Contact Us</a></li>
+</ul>
+</li>
+<li class="nav-item dropdown nav-2 disable-hover" role="none">
+<a href="/science"><span>Science &amp; <br class="hidden-xs" />Technology</span> <i class="arrow white"></i></a>
+<a href="#" class="dropdown-toggle toggle-caret" data-toggle="dropdown"><span class="caret"></span></a>
+<ul class="dropdown-menu mt-0 dropdown-space" aria-orientation="vertical" role="menu">
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/science/research-areas">Research Areas</a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/science/antibodies">Antibodies</a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/science/genetic-medicines">Genetic Medicines</a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/science/technology">Technology</a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/science/genetics-center">Regeneron Genetics Center<sup>&reg;</sup></a></li>
+<li class="nav-item" role="none"><a role="menuitem" class="dropdown-item" href="/science/scientific-publications">Scientific Publications</a></li>
+</ul>
+</li>
+<li class="nav-item dropdown nav-3 disable-hover" role="none">
+<a href="/pipeline-medicines/"><span>Pipeline &amp; <br class="hidden-xs" /> Medicines</span><i class="arrow white"></i></a>
+<a href="#" class="dropdown-toggle toggle-caret" data-toggle="dropdown"><span class="caret"></span></a>
+<ul class="dropdown-menu mt-0 dropdown-space" aria-orientation="vertical" role="menu">
+<li class="nav-item"><a role="menuitem" class="dropdown-item" href="/pipeline-medicines/investigational-pipeline">Investigational Pipeline</a></li>
+<li class="nav-item"><a role="menuitem" class="dropdown-item" href="/pipeline-medicines/approved-medicines">Approved Medicines</a></li>
+<li class="nav-item"><a role="menuitem" class="dropdown-item" href="/pipeline-medicines/industrial-operations">Industrial Operations</a></li>
+<li class="nav-item"><a role="menuitem" class="dropdown-item js-leave" href="https://clinicaltrials.regeneron.com/" target="_blank">Investigational Clinical Trials</a></li>
+</ul>
+</li>
+<li class="nav-item dropdown nav-4 disable-hover" role="none">
+<a href="/responsibility"><span>Responsibility</span> <i class="arrow white"></i></a>
+<a href="#" class="dropdown-toggle toggle-caret" data-toggle="dropdown"><span class="caret"></span></a>
+<ul class="dropdown-menu mt-0" aria-orientation="vertical" role="menu">
+<li class="nav-item"><a role="menuitem" class="dropdown-item" href="/responsibility/improving-lives">Improving Lives</a></li>
+<li class="nav-item"><a role="menuitem" class="dropdown-item" href="/responsibility/corporate-integrity">Integrity & Excellence</a></li>
+<li class="nav-item"><a role="menuitem" class="dropdown-item dei-wd" href="/responsibility/diversity-inclusion">Diversity, Equity & Inclusion</a></li>
+<li class="nav-item"><a role="menuitem" class="dropdown-item" href="/responsibility/sustainable-communities">Sustainable Communities</a></li>
+<li class="nav-item"><a role="menuitem" class="dropdown-item" href="/responsibility/sts-isef">Regeneron STS & ISEF</a></li>
+<li class="nav-item"><a role="menuitem" class="dropdown-item" href="/responsibility/policies-corporate-transparency">Transparency & Policies</a></li>
+<li class="nav-item"><a role="menuitem" class="dropdown-item" href="/responsibility/grants">Grants & Funding</a></li>
+</ul>
+</li>
+<div class="d-block d-sm-none nav-auxiliary">
+<ul class="mt-0" role="menu">
+<li class="nav-item"><a role="menuitem" class="nav-link" href="/scientists">Scientists <i class="arrow"></i></a></li>
+<li class="nav-item"><a role="menuitem" class="nav-link" href="/patients">Patients <i class="arrow"></i></a></li>
+<li class="nav-item"><a role="menuitem" class="nav-link" href="/medical-professionals">Medical Professionals <i class="arrow"></i></a></li>
+<li class="nav-item"><a role="menuitem" class="nav-link" href="https://investor.regeneron.com/" target="_blank">Investors and Media <i class="arrow"></i></a></li>
+<li class="nav-item"><a role="menuitem" class="nav-link" href="https://careers.regeneron.com/" target="_blank">Careers <i class="arrow"></i></a></li>
+</ul>
+</div>
+</ul>
+</div>
+</nav>
+</div>
+</div>
+</div>
+<div class="nav-mask fade-in"></div>
+</header>
+<main class="page-content">
+<header class="hero-head ">
+<div class="container">
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<h1>
+<span class="page-title"></span>
+GLOBAL TERMS OF USE
+</h1>
+</div>
+</div>
+</div>
+</header>
+<section class="page-wrapper" id="main-content">
+
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-md-10">
+<section>
+<div class="row">
+<div class="col-md-12">
+<div class><h3>Notice to our readers</h3>
+<p>Regeneron Pharmaceuticals, Inc. ("Regeneron", "we", "us" or "our") provides the services available on our website at regeneron.com and any of our other websites, mobile applications or other online services that link to these terms and conditions (collectively the "Website") to you subject to the following terms and conditions (the "Terms and Conditions"). By accessing or using the Website, you are acknowledging that you have read, understand and agree, without limitation or qualification, to be bound by these Terms and Conditions, and that you have read and understood the terms and conditions of <a href="https://www.regeneron.com/privacy-notice">Regeneron's Privacy Notice</a>.</p>
+<h3>1. Intended Audience</h3>
+<p>This Website provides information on the global operations of Regeneron and its affiliates, and is not intended for persons residing in any particular jurisdiction.</p>
+<p>Regeneron and its affiliates operate jurisdiction-specific websites intended for persons residing in specific jurisdictions. <strong>If you reside in any of the jurisdictions below, please proceed to the relevant Regeneron website linked below. Note that each of the websites below has its own terms and conditions that apply to your use of such website.</strong></p>
+<p>a. <strong>Ireland</strong>, linked <a href="https://www.regeneron.ie/terms" target="_blank" rel="noopener">here</a>.</p>
+<p>b. <strong>United Kingdom</strong>, linked <a href="https://regeneron.co.uk/terms-of-use" target="_blank" rel="noopener">here</a>.</p>
+<p>c. <strong>Germany</strong>, linked <a href="https://regeneron.de/nutzungsbedingungen" target="_blank" rel="noopener">here</a>.</p>
+<p>d. <strong>Canada</strong>, linked <a href="https://regeneron.ca/terms-of-use" target="_blank" rel="noopener">here</a>.</p>
+<p>e. <strong>The Netherlands</strong>, linked <a href="https://regeneron.nl/gebruiksvoorwaarden" target="_blank" rel="noopener">here</a>.</p>
+<h3>2. Accuracy of Information</h3>
+<p>The information on our Website is provided to you for information purposes only and does not constitute investment advice. We attempt to be as accurate as possible when providing you with information about us on the Website; however, to the extent permitted by applicable law, we do not warrant that the content available on the Website is accurate, complete, reliable, current or error-free. We reserve the right to add, modify, correct or delete any information to or from the Website at any time without any notice. We make no commitment, however, to update or correct such information.</p>
+<p>a. SEC Filings and News Releases</p>
+<p>The reports filed by us with the U.S. Securities and Exchange Commission (the "SEC") and the news releases issued by us and posted on the Website are current only as of the respective dates on which they are filed or issued by us. The contents of these reports and releases can become out-of-date. We make no commitment, and disclaim any duty (publicly or otherwise), to update any of these reports and releases. We do not warrant the accuracy or completeness of the materials or the reliability of any advice, opinion, statement or other information displayed or distributed through the Website. You acknowledge that any reliance on any such opinion, advice, statement, memorandum, report or information shall be at your sole risk.</p>
+<p>b. Marketing Content</p>
+<p>The marketing contents of our Website are for informational purposes only and do not constitute an offer of securities. Nothing herein is intended as an offer or solicitation in any jurisdiction or to any potential investor where such offer or sale is not qualified or exempt from regulation.</p>
+<p>c. Medical Advice</p>
+<p>The Website provides selected information about a range of disease topics. Like any printed material, it may become out of date over time. The Website is not designed to give specific medical advice and should not be relied on as doing so. Regeneron recommends that any user requiring medical advice should consult a physician or other medical professional.</p>
+<p>Product information contained in the Website is intended for residents of the U.S., unless otherwise specified. Product labeling for Regeneron products approved for marketing outside of the U.S.may be different from the product labeling for such products approved by the U.S. Food and Drug Administration.</p>
+<p>d. Forward-Looking Statements</p>
+<p>We and our representatives from time to time make written or oral forward-looking statements, including statements contained on the Website, in press releases, filings with the SEC, and our reports to stockholders that involve risks and uncertainties relating to future events and future performance of Regeneron. The words and phrases "will likely result," "expects," "believes," "will continue," "is anticipated," "estimates," "projects," &ldquo;intends,&rdquo; &ldquo;seeks&rdquo; or similar expressions are intended to identify such forward-looking statements, although not all forward-looking statements contain these identifying words. These statements include, without limitation, the nature, timing, and possible success and therapeutic applications of products marketed or otherwise commercialized by us and/or our collaborators (collectively, "Regeneron&rsquo;s Products") and product candidates being developed by us and/or our collaborators ("Regeneron&rsquo;s Product Candidates") and research and clinical programs now underway or planned; uncertainty of market acceptance and commercial success of Regeneron&rsquo;s Products and Regeneron&rsquo;s Product Candidates and the impact of studies (whether conducted by Regeneron or others and whether mandated or voluntary) on the commercial success of Regeneron&rsquo;s Products and Regeneron&rsquo;s Product Candidates; and the likelihood, timing, and scope of possible regulatory approval and commercial launch of Regeneron&rsquo;s Product Candidates and new indications for Regeneron&rsquo;s Products. A more complete description of these and other material risks can be found in Regeneron&rsquo;s filings with the SEC, including its most recent Annual Report on Form 10-K and any subsequent Quarterly Reports on Form 10-Q, which are incorporated by reference herein. Copies of Regeneron's public disclosure filings are available on this website or through the SEC's website at&nbsp;<a href="https://www.sec.gov/" target="_blank" rel="external noopener">https://www.sec.gov</a>. Any forward-looking statements are made based on management&rsquo;s current beliefs and judgment, and the reader is cautioned not to rely on any forward-looking statements made by Regeneron. Regeneron does not undertake any obligation to update (publicly or otherwise) any forward-looking statement, including without limitation any financial projection or guidance, whether as a result of new information, future events, or otherwise.</p>
+<h3>3. Intellectual Property</h3>
+<p>All content available on the Website, including, but not limited to, text, graphics, logos, button icons, images, audio clips, data compilations, and software, and the compilation thereof (the "Content") is the property of Regeneron, our affiliates, our partners/collaborators or our licensors, and is protected by U.S. and international copyright laws.</p>
+<p>The trademarks, logos, and service marks displayed on the Website (collectively, the "Trademarks") are the registered and unregistered marks of Regeneron, our affiliates, our partners/collaborators or our licensors, in the U.S. and other countries. All Trademarks not owned by us, our affiliates or our partners/collaborators that appear on the Website are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by us.</p>
+<p>Except as set forth in the limited license in Section 4 below, or as required under applicable law, the Content, the Trademarks, and any other portion of the Website may not be used, reproduced, duplicated, copied, sold, resold, accessed, modified or otherwise exploited, in full or in part, for any purpose without our prior written consent.</p>
+<h3>4. Limited License</h3>
+<p>We grant you a limited, revocable, and non-exclusive license to access and make personal, non-commercial use of the Website, provided such use excludes the use of any personal information that may be found on the Website. Please note that you may not frame or utilize framing techniques to enclose the Website or any portion thereof without our prior written consent.</p>
+<p>The limited license set forth in this Section 4 does not include the right to: (i) modify the Website or its contents; (ii) make any use of the Website or its Content other than personal, non-commercial use; (iii) create any derivative work based upon either the Website or its Content; (iv) remove copyright notices or other proprietary rights notices contained in the Website or its Content; (v) use any meta tags or any other "hidden text" utilizing our name or the Trademarks without our express written consent; (vi) introduce any unauthorized computer code, device, software routines, program or other feature embedded by anyone designed to disrupt, disable, or harm in any manner the operation of the Website, such as (without limitation) any virus, Trojan horse, worm, time bomb, automatic shut down, software lock, drop dead device, malicious logic, trap or back door, botnet, malware, or (vii) use software robots, spiders, crawlers, or similar data gathering and extraction tools, or take any other action that may impose an unreasonable burden or load on our infrastructure.</p>
+<p>Any unauthorized use by you of the Website terminates the limited license set forth in this Section 4 without prejudice to any other remedy provided by applicable law.</p>
+<h3>5. Cookies</h3>
+<p>The Website makes use of "cookies" to optimize the use of the Website and improve our services to you. Click <a href="https://www.regeneron.com/downloads/cookie-policy.pdf" target="_blank" rel="noopener">here</a> for more information.</p>
+<h3>6. Privacy</h3>
+<p>Regeneron respects the privacy of every individual who visits this Website. Please see our Global Privacy Policy, by clicking <a href="https://www.regeneron.com/privacy-notice">here</a>. The privacy policy explains your rights and our responsibilities with respect to personal data collected via the Website.</p>
+<h3>7. Third-Party Links</h3>
+<p>We are not responsible for the content of any websites linked to or from the Website. Links appearing on our Website to other websites are for convenience only and are not an endorsement, sponsorship or recommendation by us, our affiliates or our partners of the referenced content, product, service or supplier. Your linking to or from any other website is at your own risk. We are in no way responsible for examining or evaluating, and we do not warrant the offerings of, websites linked to or from the Website, nor do we assume any responsibility or liability for the actions, content, products or services of such websites, including their privacy statements and terms and conditions. When leaving the Website, you should be aware that our terms and policies no longer govern. You should carefully review the terms and conditions and privacy policies of other websites that you visit.</p>
+<h3>8. Submissions</h3>
+<p>If you transmit or otherwise provide to Regeneron any feedback, suggestions, ideas, comments, inquiries or other information, including resumes and other employment-related information (collectively, "Submissions"), these Submissions will be treated as non-proprietary and non-confidential. By transmitting or posting any Submission, you hereby grant us a nonexclusive, royalty-free, fully paid up, perpetual, transferable, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, sell, assign, translate, create derivative works from, distribute and display any Submission in any form, media or technology, whether now known or hereafter developed, alone or as part of other works. You also acknowledge that we may use your Submission, and any ideas, concepts or know how contained therein, for any purpose including, without limitation, developing, manufacturing, distributing and marketing products.</p>
+<p>If you make a Submission, you represent and warrant that you own or otherwise control the rights to your Submission and may provide them to Regeneron for Regeneron&rsquo;s use. You further represent and warrant that such Submission does not constitute or contain software viruses, commercial solicitation, chain letters, mass mailings, any form of "spam" or any threatening, harassing, libelous, false, defamatory, offensive, obscene or pornographic material, or other material that would violate any applicable law or regulation, including but not limited to any federal or state laws or regulations governing equal employment opportunities. You may not use a false email address, impersonate any person or entity, or otherwise mislead us as to the origin of any Submission. We may, but are not obligated to, review or monitor areas on the Website where users may transmit or post communications, including discussion groups, bulletin boards, chat rooms and user forums. We are not responsible for the accuracy of any posted information, including but not limited to information, data, opinions, advice or statements transmitted or posted in these areas. We reserve the right to remove any content that allegedly infringes another person's copyright. You agree to indemnify us for all claims arising from your claims to any rights in any Submission.</p>
+<h3>9. Mobile Application Terms</h3>
+<p>To the extent these Terms and Conditions apply to your use of a Regeneron mobile application, this Section 9 applies to your use of the mobile application, in addition to the rest of the Terms and Conditions.</p>
+<p>You acknowledge that you are entering into the Terms and Conditions with us and not with the operator of the mobile platform on which the app operates (the "Platform"); that the Platform and its subsidiaries are third-party beneficiaries of the Terms and Conditions and the Platform may enforce them; that we are solely responsible for the mobile application and its associated data; that the Platform makes no warranty with respect to the mobile application and its associated data and has no obligation whatsoever to furnish any maintenance and support services for the mobile application; that the Platform is not responsible for addressing any claims relating to the mobile application and its associated data or your possession or use of the mobile application and its associated data, including but not limited to: (i) product liability claims, (ii) claims that the mobile application fails to conform to any legal or regulatory requirement and (iii) claims arising under consumer protection and similar legislation; and that if a third party claims that the mobile application and its associated data or your possession or use of such infringes a third party's intellectual property rights, the Platform is not responsible for the investigation, defense, settlement and discharge of any such intellectual property infringement claim. In the event of any failure of the mobile application to conform to any applicable warranty, you may notify the Platform, and the Platform may refund the purchase price for the mobile application to you; and, to the maximum extent permitted by applicable law, the Platform will have no other warranty obligation whatsoever with respect to the mobile application, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty will be our sole responsibility if not effectively disclaimed.</p>
+<p>Your license to use the mobile application is limited to a non-transferable license to use the mobile application on a mobile device that you own or control, and must conform to these Terms and Conditions as well as any terms and conditions imposed by the Platform (e.g., the Usage Rules set forth in the Apple Inc. "App Store Terms of Service").</p>
+<p>By downloading the mobile application, you represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.</p>
+<p>Your use of the mobile application may also be subject to the terms and conditions of any service agreement with your wireless carrier.</p>
+<p>From time to time we may issue updates to the mobile application through the Platform's online store, and a notification may be sent to your device. Depending on the update, you may not be able to use the mobile application until you have downloaded the latest version of the mobile application and accepted any new terms.</p>
+<h3>10. Representations and Warranties; Limitation of Liability</h3>
+<p>THE WEBSITE IS PRESENTED "AS IS." WE MAKE NO REPRESENTATIONS, WARRANTIES OR CONDITIONS OF QUALITY OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED, IN CONNECTION WITH THESE TERMS AND CONDITIONS OR THE WEBSITE, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE, UNLESS SUCH REPRESENTATIONS AND WARRANTIES ARE NOT LEGALLY EXCLUDABLE.</p>
+<p>YOU ARE ENCOURAGED TO CONFIRM THE INFORMATION CONTAINED HEREIN, AND TO REVIEW AND DISCUSS INFORMATION CAREFULLY WITH YOUR HEALTHCARE PROVIDER. REGENERON IS NOT ENGAGED IN RENDERING MEDICAL OR SIMILAR PROFESSIONAL SERVICES OR ADVICE VIA THE WEBSITE, AND THE INFORMATION PROVIDED IS NOT INTENDED TO REPLACE MEDICAL ADVICE OFFERED BY A MEDICAL PROFESSIONAL. IF YOU DESIRE OR NEED SUCH SERVICES OR ADVICE, YOU SHOULD CONSULT A PROFESSIONAL HEALTHCARE PROVIDER. YOU SHOULD NOT CONSTRUE OUR PUBLICATION OF THIS CONTENT AS ANY WARRANTY OR GUARANTEE OF ANY STRATEGY, RECOMMENDATION, TREATMENT, ACTION OR APPLICATION OF MEDICATION OR PREPARATION.</p>
+<p>FURTHER, TO THE MAXIMUM EXTENT PERMITTED BY LAW WE WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING LOST PROFITS) RELATED TO THE WEBSITE REGARDLESS OF THE FORM OF ACTION WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL OUR MAXIMUM AGGREGATE LIABILITY EXCEED ONE HUNDRED DOLLARS ($100.00). NOTHING IN THESE TERMS AND CONDITIONS EXCLUDES OR LIMITS OUR LIABILITY FOR DEATH OR PERSONAL INJURY ARISING FROM OUR NEGLIGENCE, FRAUD OR FRAUDULENT MISREPRESENTATION.</p>
+<p>IN THE EVENT OF ANY PROBLEM WITH THE WEBSITE OR ANY CONTENT, YOU AGREE THAT YOUR SOLE REMEDY IS TO CEASE USING THE WEBSITE.</p>
+<h3>11. Disputes</h3>
+<p>With respect to any dispute regarding the Website, your rights and obligations and all actions contemplated by these Terms and Conditions shall be governed by the laws of the United States of America and the State of New York, as if the Terms and Conditions were a contract wholly entered into and wholly performed within the State of New York. Any dispute relating in any way to your visit to the Website shall be submitted to confidential arbitration in New York, except that, to the extent you have in any manner violated or threatened to violate our intellectual property rights, we may seek injunctive or other appropriate relief in a court of competent jurisdiction in White Plains, New York, and you consent to exclusive jurisdiction and venue in such courts. Arbitration under this agreement shall be conducted under the rules then prevailing of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration under this Agreement shall be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise.</p>
+<p><strong><u>Waiver of Class, Collective, and Representative Actions:</u></strong>&nbsp;To the maximum extent permitted by applicable law, you agree that no dispute regarding the Website (&ldquo;Covered Claims&rdquo;) may be initiated or maintained on a class action, collective action, or representative action basis either in court or arbitration. This means that you may not serve or participate as a class, collective, or representative action involving Covered Claims either in court or in arbitration. In addition, you may not participate as a plaintiff or claimant in a class, collective or representative action to the extent that the action asserts Covered Claims against us. You further agree that a court of competent jurisdiction, not an arbitrator, must resolve issues concerning the enforceability or validity of the class action, collective action, or representative action waiver set forth above.</p>
+<p><strong><u>Right to Challenge Validity of Arbitration Provisions:</u></strong>&nbsp;You have the right to challenge the validity of the arbitration and waiver of class, collective and representative actions of these Terms and Conditions on any grounds that may exist in law and equity, and we reserve the right to enforce these provisions If, for any reason, the arbitration and/or waiver of class action, collective action, or representative action provisions are held unenforceable or invalid in whole or in part, then a court of competent jurisdiction, not an arbitrator, will decide the claim as to which the provision(s) was held unenforceable or invalid and all other claims will remain subject to arbitration.</p>
+<h3>12. General</h3>
+<p>You acknowledge and agree that these Terms and Conditions constitute the complete and exclusive agreement between us concerning your use of the Website, and supersede and govern all prior proposals, agreements or other communications. If any provision of these Terms and Conditions is held invalid, illegal or unenforceable for any reason by any court of competent jurisdiction, such provision shall be severed and the remainder of these provisions shall continue in full force and effect as if these Terms and Conditions had not included the invalid, illegal or unenforceable provision.</p>
+<p>We reserve the right, in our sole discretion, to change these Terms and Conditions at any time by posting the changes on the Website. Any changes are effective immediately upon posting to the Website. Your continued use of the Website constitutes your agreement to all such terms and conditions. We may, with or without prior notice, terminate any of the rights granted by these Terms and Conditions. You shall comply immediately with any termination or other notice, including, as applicable, by ceasing all use of the Website.</p>
+<p>Nothing contained in these Terms and Conditions shall be construed as creating any agency, partnership or other form of joint enterprise between us. Our failure to require your performance of any provision hereof shall not affect the full right to require such performance at any time thereafter, nor shall our waiver of a breach of any provision hereof be taken or held to be a waiver of the provision itself. In the event that any provision of these Terms and Conditions shall be unenforceable or invalid under any applicable law or be so held by any applicable court decision, such unenforceability or invalidity shall not render these Terms and Conditions unenforceable or invalid as a whole. We will amend or replace such provision with one that is valid and enforceable and that achieves, to the extent possible, our original objectives and intent as reflected in the original provision.</p>
+<p>If you have any questions regarding these Terms and Conditions, please contact us at <a href="tel:1-800-637-8322">1-800-637-8322</a>.</p>
+<p>Updated March 2024</p></div>
+</div>
+</div>
+</section>
+<link href="/kentico/bundles/pageComponents/styles?v=C68Uj8ivL81g0uahM4tbEXTZhnUMMiQNECwUWSNiJdc1" rel="stylesheet" />
+</div>
+</div>
+</div>
+</section>
+</main>
+<footer class="page-foot" aria-label="Footer" data-bg-theme="dark">
+<div class="container">
+<div class="row">
+<div class="col-md-10 offset-md-1">
+<nav class="foot-nav" aria-label="footer navigation">
+<div class="row">
+<div class="col-md-3">
+<a class="foot-brand" href="/">
+<img src="/content/images/REGENERON-logo-footer.svg" alt="Regeneron logo" title="REGENERON">
+</a>
+<aside class="social-links">
+<div class="social-link-container">
+<div class="social-link-item"><a href="https://www.linkedin.com/company/regeneron-pharmaceuticals" rel="external" target="_blank"><img src="/content/images/icon-LinkedIn-white.svg" alt="LinkedIn logo" title="LinkedIn"></a></div>
+<div class="social-link-item"><a href="https://www.instagram.com/regeneron/" rel="external" target="_blank"><img src="/content/images/icon_instagram.png" alt="Instagram logo" title="Instagram"></a></div>
+<div class="social-link-item"><a href="https://www.facebook.com/Regeneron/" rel="external" target="_blank"><img src="/content/images/icon-Facebook-white.svg" alt="Facebook logo" title="Facebook"></a></div>
+<div class="social-link-item"><a href="https://www.youtube.com/c/Regeneron/" rel="external" target="_blank"><img src="/content/images/icon-YouTube-white.svg" alt="YouTube logo" title="YouTube"></a></div>
+<div class="social-link-item"><a href="https://twitter.com/regeneron" rel="external" target="_blank"><img src="/content/images/icon-x-white.svg" alt="X logo" title="X"></a></div>
+</div>
+</aside>
+</div>
+
+<div class="col-md-6 foot-links">
+<div class="row">
+<div class="col-md-5">
+<ul class="foot-links--list top-list">
+<li><a href="/terms" class="footer-link">Terms of Use</a></li>
+<li><a href="/social-media-terms" class="footer-link">Social Media Terms</a></li>
+<li><a href="/accessibility-statement" class="footer-link">Accessibility Statement</a></li>
+<li><a href="/sitemap" class="footer-link">Site Map</a></li>
+</ul>
+</div>
+<div class="col-md-7">
+<ul class="foot-links--list">
+<li><a href="/privacy-notice" class="footer-link">Privacy Notice</a></li>
+<li><a href="/downloads/cookie-policy.pdf" class="footer-link" target="_blank">Cookie Policy</a></li>
+<li><a id="ot-sdk-btn" class="ot-sdk-show-settings footer-link" href="#">Privacy Preference Center</a></li>
+<li><a href="https://www.regeneron.com/downloads/consumer-health-data-privacy-policy.pdf" class="footer-link" target="_blank" rel="nofollow noreferrer">Consumer Health Data Privacy Policy</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-3 foot-external-link">
+<ul>
+<li><a href="/locations" class="footer-link">Our Locations</a></li>
+<li><a href="https://investor.regeneron.com/" class="footer-link" target="_blank">Investors &amp; Media</a></li>
+<li><a href="https://careers.regeneron.com/" class="footer-link" target="_blank">Careers</a></li>
+<li><a href="https://clinicaltrials.regeneron.com/" class="footer-link" " target="_blank">Clinical Trials</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="row">
+<div class="col-md-12">
+<div class="trademarks">
+<p>Copyright © 2024 Regeneron Pharmaceuticals Inc. All rights reserved. All trademarks mentioned are the property of their respective owners.</p>
+<p>The information provided on this website is for U.S. residents only.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<a href="#" class="scrolltotop" title="Scroll back to top"><i class="arrow white"></i> Back <br/>to top</a>
+<div class="modal fade leave-regeneron-modal" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document" data-bg-theme="dark">
+<div class="modal-content modal-success">
+<p>You are now leaving Regeneron.com. The site you are about to visit is maintained by a third party who is solely responsible for its content. We encourage you to read the privacy policy of every website you visit.</p>
+<div class="btn-center mb-3">
+<a class="pill-cta leave-regeneron-yes" href="#" target="_blank" style="width:fit-content; margin:auto;"><span class="pill-cta_text">Continue</span><span class="pill-cta_arrow"></span></a>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-to-regeneron-modal" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document" data-bg-theme="dark">
+<div class="modal-content modal-success">
+<p>You are now leaving Regeneron.com to visit another Regeneron website.</p>
+<div class="btn-center mb-3">
+<a class="pill-cta leave-regeneron-yes" href="#" target="_blank" style="width: fit-content; margin: auto;"><span class="pill-cta_text">Continue</span><span class="pill-cta_arrow"></span></a>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal-generic" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>You are now leaving our global website. The site you are about to visit is maintained by a third party who is solely responsible for its content. We encourage you to read the privacy notice of every website you visit.</p>
+<div class="btn-center mb-3">
+<a class="pill-cta leave-regeneron-yes" href="#" target="_blank" style="width: fit-content; margin: auto;"><span class="pill-cta_text">Continue</span><span class="pill-cta_arrow"></span></a>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>RETURN</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal-generic-to-regeneron" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document" data-bg-theme="dark">
+<div class="modal-content modal-success">
+<p>You are now leaving our global website. The site you are about to visit may not be intended for an audience in your location. We encourage you to read the privacy notice of every website you visit. </p>
+<div class="btn-center mb-3">
+<a class="pill-cta leave-regeneron-yes" href="#" target="_blank" style="width: fit-content; margin: auto;"><span class="pill-cta_text">Continue</span><span class="pill-cta_arrow"></span></a>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>RETURN</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal-to-regeneron" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank" data-dismiss="modal"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-to-other-regeneron" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>You are now leaving our global website to visit another Regeneron website that is intended for U.S. audiences only.</p>
+<div class="btn-center mb-3">
+<a class="pill-cta leave-regeneron-yes" href="#" target="_blank" style="width: fit-content; margin: auto;"><span class="pill-cta_text">Continue</span><span class="pill-cta_arrow"></span></a>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal leave-regeneron-global-site-modal-WOE leave-regeneron-global-site-modal-de" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="https://www.regeneron.de" target="_blank"><span>Visit Regeneron.de</span></a>
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal leave-regeneron-global-site-modal-WOE leave-regeneron-global-site-modal-nl" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="https://www.regeneron.nl" target="_blank"><span>Visit Regeneron.nl</span></a>
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal leave-regeneron-global-site-modal-WOE leave-regeneron-global-site-modal-ca" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="https://www.regeneron.ca" target="_blank"><span>Visit Regeneron.ca</span></a>
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal leave-regeneron-global-site-modal-WOE leave-regeneron-global-site-modal-ie" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="https://www.regeneron.ie" target="_blank"><span>Visit Regeneron.ie</span></a>
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal leave-regeneron-global-site-modal-WOE leave-regeneron-global-site-modal-gb" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="https://www.regeneron.co.uk" target="_blank"><span>Visit Regeneron.co.uk</span></a>
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal leave-regeneron-global-site-modal-WOE leave-regeneron-global-site-modal-jp" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="https://www.regeneron.co.jp" target="_blank"><span>Visit Regeneron.co.jp</span></a>
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal leave-regeneron-global-site-modal-WOE leave-regeneron-global-site-modal-es" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="https://www.regeneron.es" target="_blank"><span>Visit Regeneron.es</span></a>
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal leave-regeneron-global-site-modal-WOE leave-regeneron-global-site-modal-it" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="https://www.regeneron.it" target="_blank"><span>Visit Regeneron.it</span></a>
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<div class="modal fade leave-regeneron-global-site-modal leave-regeneron-global-site-modal-WOE leave-regeneron-global-site-modal-fr" tabindex="-1" role="dialog" aria-labelledby="leave_Regeneron_site" aria-hidden="true">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content modal-success" data-bg-theme="dark">
+<p>
+The site you are about to visit may not be intended for an audience in your location.
+Please select one of the options below:
+</p>
+<div class="btn-center">
+<a class="pill-cta leave-regeneron-yes" href="https://www.regeneron.fr" target="_blank"><span>Visit Regeneron.fr</span></a>
+<a class="pill-cta leave-regeneron-yes" href="/global" target="_blank"><span>Visit our global site</span></a>
+<span class="pill-cta leave-regeneron-yes" data-dismiss="modal"><span>Continue to Regeneron.com</span></span>
+</div>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<span aria-hidden="true" data-dismiss="modal"><span class="arrow-left"></span> <small>Cancel</small></span>
+</button>
+</div>
+</div>
+</div>
+<script src="/bundles/jquery?v=235DeCRyc2KKtm5-u-WowaGmWHU3ft44y448NxHpMf41"></script>
+<script src="/kentico/bundles/jquery-unobtrusive-ajax?v=yWiSJlfkRWGOtjh38MIfwsmv_b3zyMucdfkOPGDhEoA1"></script>
+<script src="/kentico/bundles/forms/scripts?v=-bjGh-FOT6yDTxgrHwJwJf92VzWLPBz3wNicLVM1-v01"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+<script src="/Scripts/jquery.validate.min.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="/Scripts/atleastonecheckbox.js"></script>
+<script src="/Scripts/aos.js"></script>
+<script>
+        AOS.init({
+            easing: 'ease-in-out-sine'
+        });
+    </script>
+<script src="/bundles/scripts?v=1ngfbE1-dkJnnDzuiu9qZ5MIUT3lW9tqpXvUFs-LEX41"></script>
+<script type="application/javascript">
+
+        let controller = 'Home';
+
+        function getIP(json) {
+            console.log("Public IP address is: ", json.ip);
+            if (json.ip) {
+                let countryCodeRequest = new XMLHttpRequest();
+                countryCodeRequest.onreadystatechange = function () {
+                    if (this.readyState === 4 && this.status === 200) {
+                        let countryCodeResponse = countryCodeRequest.response;
+
+                        if(countryCodeResponse !== null)
+                        {
+                            console.log(countryCodeResponse);
+
+                            let responseSplit = countryCodeResponse.split('|');
+                            let countryCode = responseSplit[0];
+                            let displayModal = responseSplit[1];
+
+
+                            let countryModalClass = 'leave-regeneron-global-site-modal-' + countryCode;
+
+                            if(countryCode !== 'us' && controller !== 'Global' && displayModal === 'true')
+                            {
+                                if($('.' + countryModalClass).length > 0){
+                                    $('.' + countryModalClass).modal('show');
+                                } else {
+                                    $('.leave-regeneron-global-site-modal-to-regeneron').modal('show');
+
+                                }
+                            }
+                        }
+                    }
+                    if (this.readyState === 4 && this.status === 500) {
+                        //internal server error for country code call. do nothing.
+                    }
+                }
+                countryCodeRequest.open("GET", "/api/setcountry?ip=" + json.ip + "&ver=" + Date.now(), true);
+                countryCodeRequest.send();
+            }
+            else {
+                console.log('IP address could not retrieved');
+            }
+        }
+    </script>
+<script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+</body>
+</html>
