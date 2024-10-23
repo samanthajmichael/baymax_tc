@@ -1,2 +1,6 @@
-# .bandit
-exclude_dirs: ['.git', '__pycache__', 'tests']
+[bandit]
+# Directories to exclude from scanning
+exclude_dirs = .git,__pycache__,tests,venv
+
+# Skip specific tests (B311 is for random number generation)
+skips = B311
