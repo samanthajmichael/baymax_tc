@@ -1,0 +1,57 @@
+name: Code Quality and Tests
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+
+jobs:
+  code-quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install black bandit isort
+          
+      - name: Check Black formatting
+        run: black . --check
+        
+      - name: Check Import sorting
+        run: isort . --check-only --diff
+        
+      - name: Run Bandit security checks
+        run: bandit -c .bandit -r .
+
+  tests:
+    needs: code-quality
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        python-version: ['3.10']
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          # Assuming you have a requirements.txt file
+          pip install -r requirements.txt
+          pip install pytest
+          
+      - name: Run tests
+        run: pytest
