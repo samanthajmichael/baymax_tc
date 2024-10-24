@@ -78,6 +78,15 @@ Tool settings are maintained in the following files:
 | Bandit | `.bandit` | Security check settings|
 | Pre-commit | `.pre-commit-config.yaml` | Pre-commit hook settings|
 
+### How to Run the Py Tests 🐍
+
+1. **`q_a.json` file:** This file contains the question-answer pairs for evaluation.
+2. **`evaluate_rag.py` script:** This script loads the data, generates answers using the language model, and then uses `deepeval` to calculate the three metrics.
+
+* Correctness: How factually accurate are the answers?
+* Faithfulness: How well do answers align with the information in the source document?
+* Contextual Relevancy: How well do the answers address the specific question and its context within the source document?
+
 ### Python Version 🐍
 - This project uses Python 3.10.12
 - Dependencies listed in requirements.txt
@@ -87,3 +96,7 @@ If any tool fails:
   - Run the tool manually (e.g., black . or isort .)
   - Stage changes: git add .
   - Try committing again
+
+### A Simple Map For Organization
+
+![alt text](<LLM Project (1).png>)
