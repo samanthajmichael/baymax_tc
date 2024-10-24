@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Baymax T&amp;C User Manual</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="milestone-2_files/libs/clipboard/clipboard.min.js"></script>
+<script src="milestone-2_files/libs/quarto-html/quarto.js"></script>
+<script src="milestone-2_files/libs/quarto-html/popper.min.js"></script>
+<script src="milestone-2_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="milestone-2_files/libs/quarto-html/anchor.min.js"></script>
+<link href="milestone-2_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="milestone-2_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="milestone-2_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="milestone-2_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="milestone-2_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#about-baymax-tc" id="toc-about-baymax-tc" class="nav-link active" data-scroll-target="#about-baymax-tc"><span class="header-section-number">1</span> About Baymax T&amp;C</a></li>
+  <li><a href="#features-of-baymax-tc" id="toc-features-of-baymax-tc" class="nav-link" data-scroll-target="#features-of-baymax-tc"><span class="header-section-number">2</span> Features of Baymax T&amp;C</a></li>
+  <li><a href="#what-problems-can-baymax-tc-address" id="toc-what-problems-can-baymax-tc-address" class="nav-link" data-scroll-target="#what-problems-can-baymax-tc-address"><span class="header-section-number">3</span> What Problems can Baymax T&amp;C Address?</a></li>
+  <li><a href="#what-types-of-terms-of-service-agreements-does-it-cover" id="toc-what-types-of-terms-of-service-agreements-does-it-cover" class="nav-link" data-scroll-target="#what-types-of-terms-of-service-agreements-does-it-cover"><span class="header-section-number">4</span> What types of Terms of Service agreements does it cover?</a></li>
+  <li><a href="#baymax-tc-vs-our-competitors" id="toc-baymax-tc-vs-our-competitors" class="nav-link" data-scroll-target="#baymax-tc-vs-our-competitors"><span class="header-section-number">5</span> Baymax T&amp;C vs Our Competitors</a></li>
+  <li><a href="#accuracy-and-reliability" id="toc-accuracy-and-reliability" class="nav-link" data-scroll-target="#accuracy-and-reliability"><span class="header-section-number">6</span> Accuracy and Reliability</a></li>
+  <li><a href="#customization" id="toc-customization" class="nav-link" data-scroll-target="#customization"><span class="header-section-number">7</span> Customization</a></li>
+  <li><a href="#finding-specific-terms-of-service" id="toc-finding-specific-terms-of-service" class="nav-link" data-scroll-target="#finding-specific-terms-of-service"><span class="header-section-number">8</span> Finding Specific Terms of Service</a></li>
+  <li><a href="#providing-feedback" id="toc-providing-feedback" class="nav-link" data-scroll-target="#providing-feedback"><span class="header-section-number">9</span> Providing Feedback</a></li>
+  <li><a href="#business-use" id="toc-business-use" class="nav-link" data-scroll-target="#business-use"><span class="header-section-number">10</span> Business Use</a></li>
+  <li><a href="#limitations-of-baymax-tc" id="toc-limitations-of-baymax-tc" class="nav-link" data-scroll-target="#limitations-of-baymax-tc"><span class="header-section-number">11</span> Limitations of Baymax T&amp;C</a></li>
+  <li><a href="#future-plans" id="toc-future-plans" class="nav-link" data-scroll-target="#future-plans"><span class="header-section-number">12</span> Future Plans</a></li>
+  <li><a href="#faqs-for-the-business" id="toc-faqs-for-the-business" class="nav-link" data-scroll-target="#faqs-for-the-business"><span class="header-section-number">13</span> FAQs for the Business</a>
+  <ul class="collapse">
+  <li><a href="#success-metrics" id="toc-success-metrics" class="nav-link" data-scroll-target="#success-metrics"><span class="header-section-number">13.1</span> Success Metrics</a></li>
+  <li><a href="#model-performance-measurement" id="toc-model-performance-measurement" class="nav-link" data-scroll-target="#model-performance-measurement"><span class="header-section-number">13.2</span> Model Performance Measurement</a></li>
+  <li><a href="#technical-challenges" id="toc-technical-challenges" class="nav-link" data-scroll-target="#technical-challenges"><span class="header-section-number">13.3</span> Technical Challenges</a></li>
+  <li><a href="#non-technical-challenges" id="toc-non-technical-challenges" class="nav-link" data-scroll-target="#non-technical-challenges"><span class="header-section-number">13.4</span> Non-Technical Challenges</a></li>
+  <li><a href="#in-scope-features" id="toc-in-scope-features" class="nav-link" data-scroll-target="#in-scope-features"><span class="header-section-number">13.5</span> In-Scope Features</a></li>
+  <li><a href="#out-of-scope-features" id="toc-out-of-scope-features" class="nav-link" data-scroll-target="#out-of-scope-features"><span class="header-section-number">13.6</span> Out-of-Scope Features</a></li>
+  <li><a href="#ethical-concerns" id="toc-ethical-concerns" class="nav-link" data-scroll-target="#ethical-concerns"><span class="header-section-number">13.7</span> Ethical Concerns</a></li>
+  </ul></li>
+  <li><a href="#user-testing-plan" id="toc-user-testing-plan" class="nav-link" data-scroll-target="#user-testing-plan"><span class="header-section-number">14</span> User Testing Plan</a>
+  <ul class="collapse">
+  <li><a href="#target-user-group" id="toc-target-user-group" class="nav-link" data-scroll-target="#target-user-group"><span class="header-section-number">14.1</span> Target User Group</a></li>
+  <li><a href="#recruitment-strategy" id="toc-recruitment-strategy" class="nav-link" data-scroll-target="#recruitment-strategy"><span class="header-section-number">14.2</span> Recruitment Strategy</a></li>
+  <li><a href="#testing-methodology" id="toc-testing-methodology" class="nav-link" data-scroll-target="#testing-methodology"><span class="header-section-number">14.3</span> Testing Methodology</a></li>
+  <li><a href="#feedback-collection" id="toc-feedback-collection" class="nav-link" data-scroll-target="#feedback-collection"><span class="header-section-number">14.4</span> Feedback Collection</a></li>
+  <li><a href="#metrics" id="toc-metrics" class="nav-link" data-scroll-target="#metrics"><span class="header-section-number">14.5</span> Metrics</a></li>
+  <li><a href="#timeline" id="toc-timeline" class="nav-link" data-scroll-target="#timeline"><span class="header-section-number">14.6</span> Timeline</a></li>
+  <li><a href="#iteration" id="toc-iteration" class="nav-link" data-scroll-target="#iteration"><span class="header-section-number">14.7</span> Iteration</a></li>
+  </ul></li>
+  <li><a href="#github-workflow-enhancement" id="toc-github-workflow-enhancement" class="nav-link" data-scroll-target="#github-workflow-enhancement"><span class="header-section-number">15</span> Github Workflow Enhancement</a></li>
+  <li><a href="#code-quality-tools" id="toc-code-quality-tools" class="nav-link" data-scroll-target="#code-quality-tools"><span class="header-section-number">16</span> Code Quality Tools</a>
+  <ul class="collapse">
+  <li><a href="#code-formatting-and-style" id="toc-code-formatting-and-style" class="nav-link" data-scroll-target="#code-formatting-and-style"><span class="header-section-number">16.1</span> Code Formatting and Style</a></li>
+  <li><a href="#security-analysis" id="toc-security-analysis" class="nav-link" data-scroll-target="#security-analysis"><span class="header-section-number">16.2</span> Security Analysis</a></li>
+  </ul></li>
+  <li><a href="#reflections" id="toc-reflections" class="nav-link" data-scroll-target="#reflections"><span class="header-section-number">17</span> Reflections</a>
+  <ul class="collapse">
+  <li><a href="#challenges" id="toc-challenges" class="nav-link" data-scroll-target="#challenges"><span class="header-section-number">17.1</span> Challenges</a></li>
+  <li><a href="#rag-process-and-its-impact-on-application-performance" id="toc-rag-process-and-its-impact-on-application-performance" class="nav-link" data-scroll-target="#rag-process-and-its-impact-on-application-performance"><span class="header-section-number">17.2</span> RAG Process and its Impact on Application Performance</a></li>
+  <li><a href="#looking-ahead" id="toc-looking-ahead" class="nav-link" data-scroll-target="#looking-ahead"><span class="header-section-number">17.3</span> Looking Ahead</a></li>
+  </ul></li>
+  </ul>
+</nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Baymax T&amp;C User Manual</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="about-baymax-tc" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="about-baymax-tc"><span class="header-section-number">1</span> About Baymax T&amp;C</h2>
+<p><strong>What is Baymax T&amp;C?</strong></p>
+<p>Baymax T&amp;C is an LLM application designed to simplify complex Terms of Service agreements using the power of Large Language Models (LLMs). It aims to help users understand the legalese in these often daunting documents by providing clear and concise explanations.</p>
+<p><strong>How does it work?</strong></p>
+<p>Baymax T&amp;C works by combining a large repository of Terms and Conditions agreements with a powerful LLM. When you ask a question about a specific T&amp;C, the application searches its document store for relevant information (RAG). This information is then processed by the LLM, which translates the legal language into plain English and generates a concise and easy-to-understand explanation.</p>
+<p><strong>Who can use Baymax T&amp;C?</strong></p>
+<p>Baymax T&amp;C is designed for anyone who wants to better understand the Terms and Conditions of online services they use. This includes:</p>
+<ul>
+<li><strong>Consumers</strong> who want to be informed about their online rights and responsibilities.</li>
+<li><strong>Employees</strong> who need to understand company policies or review contracts with other businesses.</li>
+<li><strong>Students</strong> studying law or business who are learning about legal contracts and agreements.</li>
+</ul>
+<p><strong>Is Baymax T&amp;C free to use?</strong></p>
+<p>Currently, Baymax T&amp;C is free to use for all users. However, we may introduce different subscription tiers in the future to offer additional features and benefits.</p>
+<p><strong>How do I use Baymax T&amp;C?</strong></p>
+<p>Using Baymax T&amp;C is simple:</p>
+<ol type="1">
+<li>Enter the URL of the Terms of Service agreement you want to understand.</li>
+<li>Ask your question in plain language. For example, “What are the rules about sharing personal information on this website?”</li>
+<li>Baymax T&amp;C will analyze the document and provide you with a clear and concise explanation.</li>
+</ol>
+</section>
+<section id="features-of-baymax-tc" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="features-of-baymax-tc"><span class="header-section-number">2</span> Features of Baymax T&amp;C</h2>
+<p>Baymax T&amp;C offers several key features:</p>
+<ul>
+<li><strong>User-Friendly Interface:</strong> A simple and intuitive interface allows users to easily input queries and receive clear explanations.</li>
+<li><strong>Comprehensive Coverage:</strong> The application covers a wide range of Terms of Service agreements, from popular social media platforms to online marketplaces.</li>
+<li><strong>Accurate and Reliable:</strong> The LLM is trained on a vast dataset of legal documents, ensuring accurate and reliable explanations.</li>
+<li><strong>Customizable:</strong> Users can customize the level of detail in the explanations to suit their needs and understanding.</li>
+</ul>
+</section>
+<section id="what-problems-can-baymax-tc-address" class="level2" data-number="3">
+<h2 data-number="3" class="anchored" data-anchor-id="what-problems-can-baymax-tc-address"><span class="header-section-number">3</span> What Problems can Baymax T&amp;C Address?</h2>
+<p>Baymax T&amp;C addresses several problems associated with understanding Terms and Conditions agreements:</p>
+<ul>
+<li><strong>Legal jargon:</strong> Many T&amp;Cs are written in complex and technical legal language that can be difficult for non-lawyers to understand.</li>
+<li><strong>Length and complexity:</strong> T&amp;Cs can be very long and complex, making them time-consuming and difficult to read through entirely.</li>
+<li><strong>Lack of clarity:</strong> Often, T&amp;Cs lack clear explanations of important terms and concepts.</li>
+</ul>
+</section>
+<section id="what-types-of-terms-of-service-agreements-does-it-cover" class="level2" data-number="4">
+<h2 data-number="4" class="anchored" data-anchor-id="what-types-of-terms-of-service-agreements-does-it-cover"><span class="header-section-number">4</span> What types of Terms of Service agreements does it cover?</h2>
+<p>Baymax T&amp;C covers a wide range of Terms of Service agreements, from popular social media platforms like Facebook and Twitter to online marketplaces like Amazon and eBay. We are constantly expanding our collection to include more services and platforms. Currently in our database: (HireVue, Llama2, Mettler Toledo, Open AI, Pentair, Qdoba Mexican Eats, Bank of America, Ulta Beauty, Verizon, Truist)</p>
+</section>
+<section id="baymax-tc-vs-our-competitors" class="level2" data-number="5">
+<h2 data-number="5" class="anchored" data-anchor-id="baymax-tc-vs-our-competitors"><span class="header-section-number">5</span> Baymax T&amp;C vs Our Competitors</h2>
+<p>Baymax T&amp;C differentiates itself by focusing on providing clear and concise explanations of legal jargon in a user-friendly interface. It leverages the power of LLMs for accurate and reliable information retrieval and processing, offering a more comprehensive and personalized experience compared to traditional methods of understanding T&amp;Cs.</p>
+<p>Our competitor - TOSDR (Terms of Service; Didn’t Read) offers a simplified version of T&amp;Cs by highlighting key sections and providing brief summaries. While TOSDR is helpful for quickly scanning through lengthy documents, it lacks the depth of explanation that Baymax T&amp;C provides.</p>
+<p><strong>Key Differences:</strong></p>
+<ul>
+<li>TOSDR focuses on highlighting important sections and providing brief summaries, while Baymax T&amp;C provides detailed explanations of legal jargon in plain language.</li>
+<li>TOSDR relies on human-generated summaries, while Baymax T&amp;C utilizes an LLM for more accurate and personalized explanations.</li>
+<li>TOSDR is a web-based tool, while Baymax T&amp;C can potentially offer a more integrated user experience through a dedicated app.</li>
+</ul>
+</section>
+<section id="accuracy-and-reliability" class="level2" data-number="6">
+<h2 data-number="6" class="anchored" data-anchor-id="accuracy-and-reliability"><span class="header-section-number">6</span> Accuracy and Reliability</h2>
+<p>The LLM powering Baymax T&amp;C is trained on a massive dataset of legal documents and is designed to understand and interpret complex legal language. This ensures that the explanations provided are accurate and reliable. However, it’s important to remember that Baymax T&amp;C is not a substitute for legal advice.</p>
+</section>
+<section id="customization" class="level2" data-number="7">
+<h2 data-number="7" class="anchored" data-anchor-id="customization"><span class="header-section-number">7</span> Customization</h2>
+<p>Yes, Baymax T&amp;C allows you to customize the level of detail in the explanations provided. You can choose to receive a brief overview or a more detailed breakdown of the relevant information.</p>
+</section>
+<section id="finding-specific-terms-of-service" class="level2" data-number="8">
+<h2 data-number="8" class="anchored" data-anchor-id="finding-specific-terms-of-service"><span class="header-section-number">8</span> Finding Specific Terms of Service</h2>
+<p>If you can’t find the specific Terms of Service you’re looking for, please contact us through the website and we’ll do our best to help you.</p>
+</section>
+<section id="providing-feedback" class="level2" data-number="9">
+<h2 data-number="9" class="anchored" data-anchor-id="providing-feedback"><span class="header-section-number">9</span> Providing Feedback</h2>
+<p>You can provide feedback or report any issues through the “Contact Us” page on the Baymax T&amp;C Github website. Your feedback is invaluable to help us improve the application.</p>
+</section>
+<section id="business-use" class="level2" data-number="10">
+<h2 data-number="10" class="anchored" data-anchor-id="business-use"><span class="header-section-number">10</span> Business Use</h2>
+<p>While Baymax T&amp;C is designed for individual users, it can be a valuable tool for businesses as well. For example, you can use it to help employees understand company policies or to review contracts with other businesses. However, it’s essential to remember that Baymax T&amp;C is not a substitute for legal advice and you should consult with a lawyer for any legal matters.</p>
+</section>
+<section id="limitations-of-baymax-tc" class="level2" data-number="11">
+<h2 data-number="11" class="anchored" data-anchor-id="limitations-of-baymax-tc"><span class="header-section-number">11</span> Limitations of Baymax T&amp;C</h2>
+<p>It’s important to remember that Baymax T&amp;C is a tool for understanding legal language, not a replacement for legal advice.</p>
+<ul>
+<li>It might not capture every nuance of legal language.</li>
+<li>The LLM is constantly learning and improving, but it may not always be perfect.</li>
+<li>The information provided by Baymax T&amp;C should not be used as a substitute for professional legal advice.</li>
+</ul>
+<p>We are constantly working to improve Baymax T&amp;C and address these limitations, but it’s important to be aware of them when using the tool.</p>
+</section>
+<section id="future-plans" class="level2" data-number="12">
+<h2 data-number="12" class="anchored" data-anchor-id="future-plans"><span class="header-section-number">12</span> Future Plans</h2>
+<p>We are constantly working to improve Baymax T&amp;C and add new features. Our future plans include:</p>
+<ul>
+<li>Expanding our document store to cover even more services and platforms.</li>
+<li>Adding support for different languages.</li>
+<li>Integrating with other applications and services.</li>
+<li>Developing new features to enhance the user experience.</li>
+</ul>
+</section>
+<section id="faqs-for-the-business" class="level2" data-number="13">
+<h2 data-number="13" class="anchored" data-anchor-id="faqs-for-the-business"><span class="header-section-number">13</span> FAQs for the Business</h2>
+<section id="success-metrics" class="level3" data-number="13.1">
+<h3 data-number="13.1" class="anchored" data-anchor-id="success-metrics"><span class="header-section-number">13.1</span> Success Metrics</h3>
+<p>We will measure the success of Baymax T&amp;C through various metrics:</p>
+<ul>
+<li><strong>User engagement:</strong> Number of active users, frequency of use, and time spent on the platform.</li>
+<li><strong>User satisfaction:</strong> Feedback from users regarding ease of use, accuracy of explanations, and overall experience.</li>
+<li><strong>Growth and adoption:</strong> Rate of new user acquisition and adoption across different target demographics.</li>
+<li><strong>Business impact:</strong> Number of users who report understanding T&amp;Cs better after using Baymax T&amp;C, leading to improved online safety and informed decision-making.</li>
+</ul>
+</section>
+<section id="model-performance-measurement" class="level3" data-number="13.2">
+<h3 data-number="13.2" class="anchored" data-anchor-id="model-performance-measurement"><span class="header-section-number">13.2</span> Model Performance Measurement</h3>
+<p>We will measure model performance using metrics from deepeval, which automatically assess the generated answers across three key dimensions:</p>
+<ul>
+<li><strong>Correctness:</strong> How factually accurate are the answers?</li>
+<li><strong>Faithfulness:</strong> How well do answers align with the information in the source document? This includes identifying potential “hallucinations” (information not present in the source).</li>
+<li><strong>Contextual Relevancy:</strong> How well do the answers address the specific question and its context within the source document?</li>
+</ul>
+<p>These metrics provide us with scores, thresholds, strictness levels, and reasoning for each evaluation, allowing us to gauge the model’s overall performance and identify areas for improvement.</p>
+</section>
+<section id="technical-challenges" class="level3" data-number="13.3">
+<h3 data-number="13.3" class="anchored" data-anchor-id="technical-challenges"><span class="header-section-number">13.3</span> Technical Challenges</h3>
+<ul>
+<li><strong>Maintaining accuracy:</strong> Ensuring the LLM remains up-to-date with changes in legal language and constantly evolving T&amp;Cs.</li>
+<li><strong>Handling large amounts of data:</strong> Managing and processing the massive amount of data from different T&amp;C documents.</li>
+<li><strong>Scalability:</strong> Ensuring the platform can handle a growing number of users and requests without compromising performance.</li>
+<li><strong>Security:</strong> Protecting user data and ensuring the platform is secure from malicious actors.</li>
+</ul>
+</section>
+<section id="non-technical-challenges" class="level3" data-number="13.4">
+<h3 data-number="13.4" class="anchored" data-anchor-id="non-technical-challenges"><span class="header-section-number">13.4</span> Non-Technical Challenges</h3>
+<ul>
+<li><strong>User trust and adoption:</strong> Gaining user trust and encouraging widespread adoption of the platform.</li>
+<li><strong>Competition:</strong> Competing with other platforms and services that provide similar functionalities.</li>
+<li><strong>Legal and ethical considerations:</strong> Ensuring compliance with legal and ethical standards in using and interpreting legal documents.</li>
+<li><strong>Maintaining neutrality:</strong> Avoiding biases and ensuring explanations are objective and unbiased.</li>
+</ul>
+</section>
+<section id="in-scope-features" class="level3" data-number="13.5">
+<h3 data-number="13.5" class="anchored" data-anchor-id="in-scope-features"><span class="header-section-number">13.5</span> In-Scope Features</h3>
+<ul>
+<li><strong>Core summarization functionality:</strong> Providing concise and clear explanations of T&amp;Cs based on user queries.</li>
+<li><strong>Document repository:</strong> Maintaining a comprehensive and up-to-date database of T&amp;Cs from various platforms.</li>
+<li><strong>User-friendly interface:</strong> Designing a simple and intuitive interface for easy navigation and interaction.</li>
+<li><strong>Customizable explanations:</strong> Allowing users to choose the level of detail they require in explanations.</li>
+<li><strong>Feedback mechanisms:</strong> Implementing user feedback mechanisms to gather insights and continuously improve the platform.</li>
+</ul>
+</section>
+<section id="out-of-scope-features" class="level3" data-number="13.6">
+<h3 data-number="13.6" class="anchored" data-anchor-id="out-of-scope-features"><span class="header-section-number">13.6</span> Out-of-Scope Features</h3>
+<ul>
+<li><strong>Legal advice:</strong> Baymax T&amp;C will not provide legal advice as it is not a legal professional.</li>
+<li><strong>Automated contract negotiation:</strong> This feature is complex and requires a deeper understanding of legal contracts and negotiation strategies.</li>
+<li><strong>Integration with other platforms:</strong> While integration is possible, it will be explored in future iterations after establishing the core functionalities.</li>
+</ul>
+</section>
+<section id="ethical-concerns" class="level3" data-number="13.7">
+<h3 data-number="13.7" class="anchored" data-anchor-id="ethical-concerns"><span class="header-section-number">13.7</span> Ethical Concerns</h3>
+<p>Potential ethical concerns with Baymax T&amp;C include:</p>
+<ul>
+<li><strong>Misinterpretation:</strong> The LLM could misinterpret legal language, leading to inaccurate explanations.</li>
+<li><strong>Bias:</strong> The LLM might exhibit biases in its processing of legal documents, potentially affecting the objectivity of explanations.</li>
+<li><strong>Privacy concerns:</strong> Handling and storing user data, including T&amp;C documents, requires robust security measures to protect privacy.</li>
+</ul>
+<p>We address these concerns by:</p>
+<ul>
+<li><strong>Continuously improving the LLM:</strong> Constantly training and refining the LLM to improve accuracy and reduce bias.</li>
+<li><strong>Transparency:</strong> Providing users with clear information about how the platform works and the limitations of the technology.</li>
+<li><strong>User feedback mechanisms:</strong> Implementing feedback mechanisms to identify and address potential issues related to accuracy and bias.</li>
+<li><strong>Data privacy:</strong> Implementing robust security measures to protect user data and comply with privacy regulations.</li>
+</ul>
+<p>We believe that addressing these ethical considerations is crucial for the long-term success and responsible development of Baymax T&amp;C.</p>
+</section>
+</section>
+<section id="user-testing-plan" class="level2" data-number="14">
+<h2 data-number="14" class="anchored" data-anchor-id="user-testing-plan"><span class="header-section-number">14</span> User Testing Plan</h2>
+<section id="target-user-group" class="level3" data-number="14.1">
+<h3 data-number="14.1" class="anchored" data-anchor-id="target-user-group"><span class="header-section-number">14.1</span> Target User Group</h3>
+<ul>
+<li><strong>Demographics:</strong> We will recruit a diverse group of testers reflecting our target audience, encompassing various age groups, backgrounds, and levels of technical proficiency.</li>
+<li><strong>Expertise Level:</strong> Our target group includes:
+<ul>
+<li><strong>General users:</strong> Individuals with varying degrees of familiarity with online services and T&amp;Cs, from casual users to tech-savvy individuals.</li>
+<li><strong>Students:</strong> Students studying law, business, or related fields who are learning about legal contracts.</li>
+<li><strong>Business professionals:</strong> Employees who regularly encounter and need to understand T&amp;Cs in their work.</li>
+</ul></li>
+</ul>
+</section>
+<section id="recruitment-strategy" class="level3" data-number="14.2">
+<h3 data-number="14.2" class="anchored" data-anchor-id="recruitment-strategy"><span class="header-section-number">14.2</span> Recruitment Strategy</h3>
+<ul>
+<li><strong>Social Media:</strong> We will leverage targeted advertising on social media platforms like Facebook, Twitter, and LinkedIn to reach potential testers within our desired demographics.</li>
+<li><strong>Online Communities:</strong> We will engage with relevant online communities, forums, and groups related to technology, law, and online services to identify and recruit testers.</li>
+<li><strong>Email Campaigns:</strong> We will create targeted email campaigns to reach individuals in our database and solicit their participation in user testing.</li>
+<li><strong>Personal Networks:</strong> We will utilize our personal networks to reach out to individuals who might be interested in testing and providing feedback on Baymax T&amp;C.</li>
+</ul>
+</section>
+<section id="testing-methodology" class="level3" data-number="14.3">
+<h3 data-number="14.3" class="anchored" data-anchor-id="testing-methodology"><span class="header-section-number">14.3</span> Testing Methodology</h3>
+<ul>
+<li><strong>Guided Tasks:</strong> We will provide testers with specific tasks, such as searching for specific information in a T&amp;C document or asking questions about particular clauses, to evaluate the usability and effectiveness of the application.</li>
+<li><strong>Open Exploration:</strong> We will encourage testers to freely explore Baymax T&amp;C, using it in their own way and providing feedback based on their experience.</li>
+</ul>
+</section>
+<section id="feedback-collection" class="level3" data-number="14.4">
+<h3 data-number="14.4" class="anchored" data-anchor-id="feedback-collection"><span class="header-section-number">14.4</span> Feedback Collection</h3>
+<ul>
+<li><strong>Google Forms:</strong> We will use online surveys and questionnaires via Google Forms to gather structured feedback from testers, covering aspects like ease of use, clarity of explanations, and overall satisfaction.</li>
+<li><strong>In-Person Interviews:</strong> We will conduct individual interviews with a select group of testers to gather more detailed and qualitative feedback on their experience using Baymax T&amp;C.</li>
+<li><strong>Screen Recordings:</strong> We will request testers to record their screens while interacting with Baymax T&amp;C to identify potential usability issues and areas for improvement.</li>
+</ul>
+</section>
+<section id="metrics" class="level3" data-number="14.5">
+<h3 data-number="14.5" class="anchored" data-anchor-id="metrics"><span class="header-section-number">14.5</span> Metrics</h3>
+<p><strong>User Experience:</strong></p>
+<ul>
+<li><strong>System Usability Scale (SUS):</strong> A standardized survey to measure overall usability and satisfaction with the application.</li>
+<li><strong>Task Completion Rate:</strong> The percentage of testers successfully completing assigned tasks.</li>
+<li><strong>Time on Task:</strong> The time it takes testers to complete specific tasks, indicating efficiency.</li>
+</ul>
+<p><strong>Application Effectiveness:</strong></p>
+<ul>
+<li><strong>BERT, ROUGE, BLEU:</strong> We will use these metrics to evaluate the quality and accuracy of the LLM-generated explanations, comparing them to human-written summaries.</li>
+<li><strong>Likert Scale:</strong> We will use Likert scale questions to assess user satisfaction with the clarity and accuracy of explanations.</li>
+</ul>
+</section>
+<section id="timeline" class="level3" data-number="14.6">
+<h3 data-number="14.6" class="anchored" data-anchor-id="timeline"><span class="header-section-number">14.6</span> Timeline</h3>
+<ul>
+<li><strong>Week 1:</strong> Recruitment and initial testing setup</li>
+<li><strong>Week 2-3:</strong> Conducting user tests with a diverse group of participants.</li>
+<li><strong>Week 4:</strong> Analyzing gathered data, identifying areas for improvement, and refining the application.</li>
+<li><strong>Week 5:</strong> Implementing feedback and re-testing with a smaller group to validate changes.</li>
+</ul>
+</section>
+<section id="iteration" class="level3" data-number="14.7">
+<h3 data-number="14.7" class="anchored" data-anchor-id="iteration"><span class="header-section-number">14.7</span> Iteration</h3>
+<p>This user testing process will be iterative, meaning we will conduct user testing throughout the development cycle to gather feedback and continuously improve Baymax T&amp;C.</p>
+</section>
+</section>
+<section id="github-workflow-enhancement" class="level2" data-number="15">
+<h2 data-number="15" class="anchored" data-anchor-id="github-workflow-enhancement"><span class="header-section-number">15</span> Github Workflow Enhancement</h2>
+<p>The process for the PR:</p>
+<p>We decided to implement development tools like Black, isort, and bandit, along with pre-commit, to ensure our commits were rigorously checked before being pushed to GitHub.</p>
+<p>We started by creating a new issue on our GitHub repository and branching off from the main branch. Then, we used pip to install Black, bandit, isort, and pre-commit, followed by running pre-commit install to activate the hooks. Next, we added the necessary configuration files to our local repository – .bandit, pyproject.toml, and .pre-commit-config.yaml – and updated our README file with instructions on how to use these tools. Once everything was in place, we staged the changes, committed them to our remote repository, and created a pull request to close out the issue. This workflow ensures that our code is consistently formatted, secure, and adheres to quality standards.</p>
+<p><strong>GitHub Issue Link:</strong> <a href="https://github.com/samanthajmichael/baymax_tc/issues/20">https://github.com/samanthajmichael/baymax_tc/issues/20</a></p>
+</section>
+<section id="code-quality-tools" class="level2" data-number="16">
+<h2 data-number="16" class="anchored" data-anchor-id="code-quality-tools"><span class="header-section-number">16</span> Code Quality Tools</h2>
+<p>This project prioritizes maintaining high code quality through a suite of automated tools for formatting, style checking, and security analysis. We leverage Python 3.10.12 as our runtime environment and rely on the following tools for ensuring clean and secure code:</p>
+<section id="code-formatting-and-style" class="level3" data-number="16.1">
+<h3 data-number="16.1" class="anchored" data-anchor-id="code-formatting-and-style"><span class="header-section-number">16.1</span> Code Formatting and Style</h3>
+<ul>
+<li><strong>Black:</strong> This uncompromising code formatter enforces consistent style across the project, ensuring readability and maintainability. It enforces a line length limit of 88 characters.</li>
+<li><strong>isort:</strong> This tool automatically organizes and formats import statements, ensuring consistent import ordering and making code easier to understand.</li>
+</ul>
+</section>
+<section id="security-analysis" class="level3" data-number="16.2">
+<h3 data-number="16.2" class="anchored" data-anchor-id="security-analysis"><span class="header-section-number">16.2</span> Security Analysis</h3>
+<ul>
+<li><strong>Bandit:</strong> This security linter helps identify common security vulnerabilities in Python code, improving the overall security posture of the project.</li>
+</ul>
+<p>These automated checks contribute to a robust and reliable development process, ensuring that our code meets the highest standards of quality and security.</p>
+</section>
+</section>
+<section id="reflections" class="level2" data-number="17">
+<h2 data-number="17" class="anchored" data-anchor-id="reflections"><span class="header-section-number">17</span> Reflections</h2>
+<section id="challenges" class="level3" data-number="17.1">
+<h3 data-number="17.1" class="anchored" data-anchor-id="challenges"><span class="header-section-number">17.1</span> Challenges</h3>
+<p>Using Modal and successfully hosting our local LLaMA 3 model has remained a persistent obstacle. Despite our efforts, we haven’t been able to overcome the technical hurdles associated with this integration. This has led us to temporarily utilize OpenAI’s API to ensure we could move forward with testing and development.</p>
+</section>
+<section id="rag-process-and-its-impact-on-application-performance" class="level3" data-number="17.2">
+<h3 data-number="17.2" class="anchored" data-anchor-id="rag-process-and-its-impact-on-application-performance"><span class="header-section-number">17.2</span> RAG Process and its Impact on Application Performance</h3>
+<p>Our journey with RAG has been a learning experience, filled with both successes and challenges. While we’ve made significant progress, there are areas we’re actively working on to improve the performance and user experience of our application.</p>
+<ul>
+<li><strong>The Shift to OpenAI API:</strong> Initially, we encountered difficulties getting our local LLaMA 3 model running seamlessly on Modal. To ensure we could start testing and evaluating our RAG pipeline quickly, we decided to utilize OpenAI’s API for this milestone. This strategic shift allowed us to focus on building a usable and functional application, enabling us to gather crucial feedback and refine our approach.</li>
+<li><strong>RAG Pipeline Progress:</strong> Our RAG pipeline has demonstrated promising results, particularly with the 10 cleaned files we’ve incorporated so far. However, we recognize that scalability and robustness are key, and we’re continuously working on enhancing the testing process to ensure its effectiveness.</li>
+<li><strong>Optimizing Answer Length:</strong> A major hurdle we’ve encountered is finding the optimal balance in answer length. We’ve found that overly long answers can sometimes hinder performance, especially when evaluated against metrics like correctness, faithfulness, and contextual relevancy using deepeval. Conversely, overly short answers can also lead to failing these metrics. We’re actively refining our approach to identify the “sweet spot” that maximizes accuracy and relevance while remaining concise and impactful.</li>
+</ul>
+</section>
+<section id="looking-ahead" class="level3" data-number="17.3">
+<h3 data-number="17.3" class="anchored" data-anchor-id="looking-ahead"><span class="header-section-number">17.3</span> Looking Ahead</h3>
+<p>Our next milestone is to implement the RAG pipeline using Modal and LLaMA 3, which will require further exploration and optimization. We’re confident that by leveraging the learnings from our current iteration, we can create a more efficient, robust, and user-friendly system.</p>
+<p>To ensure the accuracy and robustness of our RAG pipeline, we plan to significantly improve our unit tests by incorporating a wider range of metrics, including ROUGE, BLEU, and hallucination scores from deepeval. This will enable us to more comprehensively assess the quality of generated answers, identify potential biases, and refine our model’s performance in generating accurate and relevant responses.</p>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
