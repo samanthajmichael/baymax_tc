@@ -14,4 +14,6 @@ repos:
     rev: 1.7.5
     hooks:
     -   id: bandit
-        args: ['-ll']
+        args: ['-c', '.bandit', '--recursive', '--level', 'low']
+        files: '\.py$'
+        exclude: ^tests/
