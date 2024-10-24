@@ -292,7 +292,7 @@ async def exponential_backoff(attempt):
     The wait time is calculated as (2^attempt) + a random fraction of a second.
     """
     # Calculate the wait time with exponential backoff and jitter
-    wait_time = (2**attempt) + random.uniform(0, 1)
+    wait_time = (2**attempt) + random.uniform(0, 1)  # nosec B311
     print(f"Rate limit hit. Retrying in {wait_time:.2f} seconds...")
 
     # Asynchronously sleep for the calculated wait time
