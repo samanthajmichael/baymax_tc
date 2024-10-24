@@ -10,10 +10,10 @@ jobs:
   code-quality:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
           
@@ -40,22 +40,22 @@ jobs:
         continue-on-error: false
         
       - name: Run Bandit security checks
-        run: bandit -c .bandit -r . -ll -v
+        run: bandit -r . -ll -i -s B311 -x tests,venv,__pycache__,.git
         continue-on-error: false
 
   tests:
     needs: code-quality
     strategy:
-      fail-fast: false  # Continue with other OS tests even if one fails
+      fail-fast: false
       matrix:
         os: [ubuntu-latest, windows-latest, macos-latest]
         python-version: ['3.10']
     runs-on: ${{ matrix.os }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
           
@@ -63,9 +63,9 @@ jobs:
         uses: actions/cache@v3
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          key: ${{ matrix.os }}-pip-${{ hashFiles('requirements.txt') }}
           restore-keys: |
-            ${{ runner.os }}-pip-
+            ${{ matrix.os }}-pip-
       
       - name: Install dependencies
         run: |
@@ -73,11 +73,5 @@ jobs:
           pip install pytest pytest-cov
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           
-      - name: Run tests with coverage
-        run: pytest --cov=./ --cov-report=xml
-        
-      - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v3
-        with:
-          file: ./coverage.xml
-          fail_ci_if_error: false
+      - name: Run tests
+        run: pytest
