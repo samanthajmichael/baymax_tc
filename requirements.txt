@@ -175,7 +175,7 @@ pytest-xdist==3.6.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.1
-pywin32==308
+pywin32==308; platform_system == "Windows"
 PyYAML==6.0.2
 pyzmq==26.2.0
 ragas==0.1.16
