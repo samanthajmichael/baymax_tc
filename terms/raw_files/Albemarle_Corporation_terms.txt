@@ -1,1299 +1,155 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
-  <head>
-    <meta charset="utf-8" />
-<meta name="description" content="Terms of Use Last Updated: July 18th, 2024 PLEASE READ THESE TERMS CAREFULLY BEFORE ACCESSING OR USING THE SITE. THESE TERMS INCLUDE AN ARBITRATION CLAUSE AND A" />
-<link rel="canonical" href="https://www.albemarle.com/global/en/terms-use" />
-<meta name="robots" content="max-image-preview:standard" />
-<meta property="og:site_name" content="Albemarle" />
-<meta property="og:type" content="Page" />
-<meta property="og:url" content="https://www.albemarle.com/global/en/terms-use" />
-<meta property="og:title" content="Terms of Use" />
-<meta property="og:description" content="Terms of Use Last Updated: July 18th, 2024 PLEASE READ THESE TERMS CAREFULLY BEFORE ACCESSING OR USING THE SITE. THESE TERMS INCLUDE AN ARBITRATION CLAUSE AND A" />
-<meta property="og:updated_time" content="2024-07-18T16:01:47-04:00" />
-<meta property="article:published_time" content="2024-07-18T14:08:47-04:00" />
-<meta property="article:modified_time" content="2024-07-18T16:01:47-04:00" />
-<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
-<meta name="MobileOptimized" content="width" />
-<meta name="HandheldFriendly" content="true" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
-<meta name="msapplication-TileColor" content="#11487a" />
-<meta name="msapplication-config" content="/themes/custom/alb/icons/favicon/browserconfig.xml" />
-<meta name="theme-color" content="#11487a" />
-<link rel="alternate" hreflang="en" href="https://www.albemarle.com/global/en/terms-use" />
-<link rel="preload" as="font" href="/themes/custom/alb/fonts/Lemance_Regular.ttf" crossorigin="anonymous" type="font/ttf" />
-<link rel="preload" as="font" href="/themes/custom/alb/fonts/Lemance_Italic.ttf" crossorigin="anonymous" type="font/ttf" />
-<link rel="preload" as="font" href="/themes/custom/alb/fonts/Lemance_Bold.ttf" crossorigin="anonymous" type="font/ttf" />
-<link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/alb/icons/favicon/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/alb/icons/favicon/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/alb/icons/favicon/favicon-16x16.png" />
-<link rel="manifest" href="/themes/custom/alb/icons/favicon/site.webmanifest" />
-<link rel="mask-icon" color="#039c8b" href="/themes/custom/alb/icons/favicon/safari-pinned-tab.svg" />
-<link rel="shortcut icon" sizes="16x16" href="/themes/custom/alb/icons/favicon/favicon.ico" />
-
-    <title>Terms of Use | Albemarle</title>
-    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_Wcam2ACyc_Jy7bCo3AtZksBVUjh8xr3Ac4uuRkXELaY.css?delta=0&amp;language=en&amp;theme=alb_main&amp;include=eJxtjkEOgzAMBD-UkCdFDpjIxdgIOyr8vlDaW06WZ7SrtdMc11TAMACXVFkLcDQ_maTeKK9AkhyI3yRTwMMvs6Rpbxvw8HsDtjyqLoTXWTcmkBFTD-YJZ2jsYdQd_y3wgiMwSG1QMVurFc1JJXXYE7wLVVDchmtjjN8RXTOrOu59V5q7yge56mT_" />
-<link rel="stylesheet" media="all" href="/sites/default/files/css/css_RhC2kWZhTPhajI5S1Tac0NkNr7LI_AG7-B0aHkls77Y.css?delta=1&amp;language=en&amp;theme=alb_main&amp;include=eJxtjkEOgzAMBD-UkCdFDpjIxdgIOyr8vlDaW06WZ7SrtdMc11TAMACXVFkLcDQ_maTeKK9AkhyI3yRTwMMvs6Rpbxvw8HsDtjyqLoTXWTcmkBFTD-YJZ2jsYdQd_y3wgiMwSG1QMVurFc1JJXXYE7wLVVDchmtjjN8RXTOrOu59V5q7yge56mT_" />
-
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"global\/en\/","currentPath":"node\/5271","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"G-S11BS7JY9R","consentMode":true,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJx9jtEOgzAIRX-otZ_U0IrIhrBYmunfzyV7rHsh4Zx7CSAlkVgBic1PYaUAUvIGrMmB5c06h2o7pmrbyxTV23QlYizd3XTsFjPHfexWhPnOcb27KHBa93ihanITYX2OTUPY6_rPxWJHwJ6r2ZMxf0PCoBXTCOYZF-jiw0Ym38atSwQ8_Ptnmvf-Apl-ayAzEswOlOgaEzzgCAJKHQhz60TYnE3TgIV2NsctFWj4AdK2slA","theme":"alb_main","theme_token":null},"ajaxTrustedUrl":{"":true},"data":{"extlink":{"extTarget":false,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":".alb-share--list","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","extHideIcons":false,"mailtoClass":"0","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":["investors.albemarle.com"],"extExcludeNoreferrer":""}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories pt-3\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp\u003EOur Site uses cookies and other tracking technologies to improve user experience, provide advertisements, and analyze site use. By continuing to the site, you agree to our use of cookie and tracking technology use as described in our \u003Ca href=\u0022\/global\/privacy-policy\u0022\u003EPrivacy Policy\u003C\/a\u003E. To opt out of non-essential cookies, select the \u0022Reject Non-Essential Cookies\u0022 button and you will be opted out of non-essential cookies or delete\/block cookies within the settings of your browser.\u003C\/p\u003E\n          \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories hidden\u0022\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv class=\u0022py-2\u0022\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-essential\u0022\n                     value=\u0022essential\u0022\n                      checked                       disabled  \u003E\n              \u003Clabel for=\u0022cookie-category-essential\u0022\u003EEssential cookies (Always enabled)\u003C\/label\u003E\n            \u003C\/div\u003E\n                            \u003Cdetails\u003E\n                    \u003Csummary aria-label=\u0022Description\u0022\u003E\u003C\/summary\u003E\n                    \u003Cdiv class=\u0022eu-cookie-compliance-category-description py-2\u0022\u003EEssential cookies are absolutely necessary for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.\u003C\/div\u003E\n                \u003C\/details\u003E\n                      \u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv class=\u0022py-2\u0022\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-analytics\u0022\n                     value=\u0022analytics\u0022\n                      checked                       \u003E\n              \u003Clabel for=\u0022cookie-category-analytics\u0022\u003EAnalytics cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                            \u003Cdetails\u003E\n                    \u003Csummary aria-label=\u0022Description\u0022\u003E\u003C\/summary\u003E\n                    \u003Cdiv class=\u0022eu-cookie-compliance-category-description py-2\u0022\u003EAnalytical cookies are used to understand how visitors interact the website.\u003C\/div\u003E\n                \u003C\/details\u003E\n                      \u003C\/div\u003E\n                      \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022pt-3  eu-cookie-compliance-has-categories float-end\u0022\u003E\n      \n  \n\u003Cbutton type=\u0022button\u0022 class=\u0022text-small agree-button  button button--small button--primary alb-button alb-button--white\u0022 data-component-id=\u0022alb:button\u0022 aria-label=\u0022Accept\u0022\u003E\n  \u003Cspan\u003EAccept\u003C\/span\u003E\n\u003C\/button\u003E\n              \n  \n\u003Cbutton type=\u0022button\u0022 class=\u0022text-small  eu-cookie-compliance-reject-button button button--small alb-button alb-button--white\u0022 data-component-id=\u0022alb:button\u0022 aria-label=\u0022Reject Non-Essential Cookies\u0022\u003E\n  \u003Cspan\u003EReject Non-Essential Cookies\u003C\/span\u003E\n\u003C\/button\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button visually-hidden button button--small\u0022\u003EWithdraw consent\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories pt-3\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n          \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories hidden\u0022\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv class=\u0022py-2\u0022\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-essential\u0022\n                     value=\u0022essential\u0022\n                      checked                       disabled  \u003E\n              \u003Clabel for=\u0022cookie-category-essential\u0022\u003EEssential cookies (Always enabled)\u003C\/label\u003E\n            \u003C\/div\u003E\n                            \u003Cdetails\u003E\n                    \u003Csummary aria-label=\u0022Description\u0022\u003E\u003C\/summary\u003E\n                    \u003Cdiv class=\u0022eu-cookie-compliance-category-description py-2\u0022\u003EEssential cookies are absolutely necessary for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.\u003C\/div\u003E\n                \u003C\/details\u003E\n                      \u003C\/div\u003E\n                  \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n            \u003Cdiv class=\u0022py-2\u0022\u003E\n              \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 class=\u0022eu-cookie-compliance-category-checkbox\u0022 id=\u0022cookie-category-analytics\u0022\n                     value=\u0022analytics\u0022\n                      checked                       \u003E\n              \u003Clabel for=\u0022cookie-category-analytics\u0022\u003EAnalytics cookies\u003C\/label\u003E\n            \u003C\/div\u003E\n                            \u003Cdetails\u003E\n                    \u003Csummary aria-label=\u0022Description\u0022\u003E\u003C\/summary\u003E\n                    \u003Cdiv class=\u0022eu-cookie-compliance-category-description py-2\u0022\u003EAnalytical cookies are used to understand how visitors interact the website.\u003C\/div\u003E\n                \u003C\/details\u003E\n                      \u003C\/div\u003E\n                      \u003C\/div\u003E\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022pt-3  eu-cookie-compliance-has-categories float-end\u0022\u003E\n      \n  \n\u003Cbutton type=\u0022button\u0022 class=\u0022text-small agree-button  button button--small button--primary alb-button alb-button--white\u0022 data-component-id=\u0022alb:button\u0022 aria-label=\u0022Accept\u0022\u003E\n  \u003Cspan\u003EAccept\u003C\/span\u003E\n\u003C\/button\u003E\n              \n  \n\u003Cbutton type=\u0022button\u0022 class=\u0022text-small  eu-cookie-compliance-reject-button button button--small alb-button alb-button--white\u0022 data-component-id=\u0022alb:button\u0022 aria-label=\u0022Reject Non-Essential Cookies\u0022\u003E\n  \u003Cspan\u003EReject Non-Essential Cookies\u003C\/span\u003E\n\u003C\/button\u003E\n                    \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button visually-hidden button button--small\u0022\u003EWithdraw consent\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/global\/en\/privacy-policy","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"en","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"cookie-agree-policy","reload_page":true,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"categories","automatic_cookies_removal":true,"allowed_cookies":"analytics:_ga\r\nanalytics:_ga_*","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button  button button--small button--primary\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":["essential","analytics"],"cookie_categories_details":{"essential":{"uuid":"815fc717-9255-46d9-a6c9-6a1d184c87b7","langcode":"en","status":true,"dependencies":[],"id":"essential","label":"Essential cookies (Always enabled)","description":"Essential cookies are absolutely necessary for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.","checkbox_default_state":"required","weight":-9},"analytics":{"uuid":"873bb916-533e-4e07-a54d-e49d600884e1","langcode":"en","status":true,"dependencies":{"module":["eu_cookie_compliance_gtm"]},"third_party_settings":{"eu_cookie_compliance_gtm":{"gtm_data":{"analytics_storage":"@status"}}},"id":"analytics","label":"Analytics cookies","description":"Analytical cookies are used to understand how visitors interact the website.","checkbox_default_state":"checked","weight":-8}},"enable_save_preferences_button":false,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":" button button--small button--primary","olivero_secondary_button_classes":" button button--small","close_button_action":"close_banner","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true},"language_suggestion":{"current_language":"en","settings":{"enabled":true,"cookie_prefix":"language_suggestion","container_class":".layout-container","always_redirect":true,"disable_redirect_class":"a.language-link","cookie_dismiss_time":168,"show_delay":3,"language_detection":"browser","http_header_parameter":"User-Agent","mapping":null}},"user":{"uid":0,"permissionsHash":"9444ea3ae89884b43446f68185bfb581e757f4e93f0fb21334b1bcb067740fdc"}}</script>
-<script src="/sites/default/files/js/js_5ZLbc8d-y8NNAlxPHh1OlskhG3mm8c0EtlQsxQGTYa0.js?scope=header&amp;delta=0&amp;language=en&amp;theme=alb_main&amp;include=eJx1iUEOgzAMBD8U4SdFW1hZBmNHJJF4Phx6bC87mlnOumYexhdnc0OsrDpO4Z-j8B5ucch2zQZfvlo0U511QEXfWbDjLo7QCWXtU5V9WIb8aAX-EXiz4N4fr7M54A"></script>
-<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=10.3.2" defer></script>
-<script src="/modules/contrib/google_tag/js/gtag.js?skp3k0"></script>
-<script src="/sites/default/files/js/js_flFFAgYzcPg1Lvvov6mx7fyXeWqGIex2StP-EZYiSWE.js?scope=header&amp;delta=3&amp;language=en&amp;theme=alb_main&amp;include=eJx1iUEOgzAMBD8U4SdFW1hZBmNHJJF4Phx6bC87mlnOumYexhdnc0OsrDpO4Z-j8B5ucch2zQZfvlo0U511QEXfWbDjLo7QCWXtU5V9WIb8aAX-EXiz4N4fr7M54A"></script>
-
-  </head>
-  <body>
-        <a href="#main-content" class="visually-hidden focusable">
-      Skip to main content
-    </a>
-    
-      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
-    
-
-<div class="layout-container">
-        
-
-
-<header
-   data-component-id="alb:header" class="bg-charlotte-blue text-white relative" role="banner"
-  :class="open ? 'shadow-md' : ''"
-  x-data="{
-    openMenu: false,
-    openSearch: false,
-    maxPrimaryChildren: 7,
-    topLevelChildren: 7,
-    get open() {
-      return (this.openMenu || this.openSearch)
-    },
-    toggleMenu() {
-      this.openMenu = !this.openMenu;
-      this.openSearch = false;
-      if (this.openMenu) {
-        this.$nextTick(() => {
-          const link = this.$refs.mainMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-      }
-    },
-    toggleSearch() {
-      this.openSearch = !this.openSearch;
-      this.openMenu = false;
-      if (this.openSearch) {
-        this.$nextTick(() => {
-          const input = this.$refs.searchInput.querySelector('input#edit-keyword');
-          input.focus();
-        });
-      }
-    },
-    close() {
-      // If menu is open, focus the menu button
-      if (this.openMenu) {
-        this.openMenu = false;
-        this.$nextTick(() => {
-          this.$refs.btnMenu.focus();
-        });
-      }
-      // If search is open, focus the search button
-      if (this.openSearch) {
-        this.openSearch = false;
-        this.$nextTick(() => {
-            this.$refs.btnSearch.focus();
-        });
-      }
-    },
-    get minMenuHeight() {
-      const count = this.maxPrimaryChildren || this.topLevelChildren;
-      // Approximate height of one menu item (56px).
-      return 50 * count + 'px';
-    },
-    setMaxPrimaryChildren(count) {
-      // Since menus are not displayed, cannot get precise height.
-      // As each menu loads, it will update if larger than the current max.
-      this.maxPrimaryChildren = Math.max(count, this.topLevelChildren);
-    },
-    checkOpenMenus() {
-      this.$nextTick(() => {
-        const list = this.$el.querySelectorAll('.main-menu > li.isopen ul.flex');
-        const maxLength = Array
-          .from(list)
-          .reduce((acc, cur) => Math.max(acc, cur.children.length), 0);
-        this.setMaxPrimaryChildren(maxLength);
-      });
-    }
-  }"
-  x-on:click.away="close()"
-  x-on:keyup.escape.window="close()"
-  x-on:check-menus="checkOpenMenus()"
->
-  <nav class="container flex flex-col px-6">
-    <div class="py-2 lg:py-9 flex flex-row gap-5 sm:gap-20 justify-between w-full">
-      <a aria-label="Home" href="https://www.albemarle.com/global/en" class="flex items-center header__logo">
-        <svg viewBox="0 0 225 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <g clip-path="url(#clip0_8510_13797)">
-    <path d="M17.5433 0L15.5508 3.59689L27.0143 27.0155C27.6094 28.2317 27.7129 30.0431 26.7555 31.5957H33.2247L17.5433 0Z" fill="#009C8B"/>
-    <path d="M24.5835 27.1185L14.2328 6.05469L12.1367 9.8586L20.5726 27.0668C21.1936 28.3089 21.1419 29.9391 20.495 31.1812L20.288 31.5694H24.273C24.273 31.5694 24.6612 30.793 24.7388 30.586C25.1269 29.4733 25.0752 28.1795 24.5835 27.1185Z" fill="#009C8B"/>
-    <path d="M18.3209 27.9217L10.6872 12.3438L10.1438 13.3271C9.16044 15.0867 9.10868 17.2086 9.9885 19.02L13.8959 26.9901C14.3099 27.844 13.6889 28.8274 12.7573 28.8274H4.3732C3.38988 28.8274 2.71708 27.9475 2.87234 27.0677V26.9901C2.87234 26.809 2.87234 26.6019 2.76883 26.6019L1.52674 28.8532L0 31.5962H16.0437C17.9068 31.5962 19.1489 29.6295 18.3209 27.9475V27.9217Z" fill="#009C8B"/>
-    <path d="M62.5188 26.3455L54.9886 3.91016H51.2882L44.7931 23.8872C43.1629 28.9332 41.248 30.5117 40.1094 31.0033V31.6244H48.6229V31.0033C44.8707 29.3731 44.5861 27.7169 45.5694 24.6893L46.5527 21.6359H56.1272L57.9903 27.2512C58.8443 29.9165 58.3526 30.7187 55.4544 31.0033V31.6244H66.2451V31.0033C64.7183 30.8481 63.6574 29.7612 62.5447 26.3455H62.5188ZM46.8633 20.6784L51.2882 7.01539L55.8167 20.6784H46.8633Z" fill="white"/>
-    <path d="M74.1381 27.9484V3.88281H66.9961V4.42623C68.9627 4.63324 69.6097 5.87534 69.6097 7.55734V27.9225C69.6097 29.6045 68.9369 30.8466 66.9961 31.0536V31.597H76.7776V31.0536C74.8109 30.8466 74.164 29.6045 74.164 27.9225L74.1381 27.9484Z" fill="white"/>
-    <path d="M148.895 27.947V17.4927C148.895 15.6296 148.248 13.8182 146.54 12.9125C144.703 11.9292 141.856 11.7739 139.89 12.4209C139.243 12.6279 138.647 13.016 138.156 13.5077C137.923 13.7406 136.965 14.8274 137.095 15.1638C135.956 12.2397 132.256 11.8516 129.539 12.2138C128.788 12.3173 128.038 12.5502 127.391 12.9384C126.977 13.1972 126.071 13.7923 126.071 14.3616V12.4985H118.852V13.0419C120.844 13.2489 121.543 14.491 121.543 16.173V27.9729C121.543 29.6549 120.844 30.897 118.852 31.104V31.6474H128.788V31.104C126.796 30.897 126.097 29.6549 126.097 27.9729V18.2949C126.097 14.4393 127.727 13.016 129.772 13.016C131.816 13.016 132.98 14.2581 132.98 17.5704V27.947C132.98 29.629 132.282 30.8711 130.289 31.0781V31.6215H140.226V31.0781C138.233 30.8711 137.535 29.629 137.535 27.947V18.269C137.535 14.4134 139.165 12.9901 141.209 12.9901C143.254 12.9901 144.418 14.2322 144.418 17.5445V27.9211C144.418 29.6031 143.719 30.8452 141.727 31.0522V31.5957H151.664V31.0522C149.671 30.8452 148.972 29.6031 148.972 27.9211L148.895 27.947Z" fill="white"/>
-    <path d="M186.339 12.3203H183.674C181.397 12.3203 179.844 13.2519 178.938 14.701V12.3203H171.719V12.8637C173.711 13.0707 174.41 14.3128 174.41 15.9948V27.7947C174.41 29.4767 173.711 30.7188 171.719 30.9258V31.4692H182.432V30.9258C179.456 30.7188 178.964 29.4767 178.964 27.7947V18.4273C178.964 15.0633 180.362 13.9506 181.707 13.9506C183.622 13.9506 185.02 16.0983 185.77 17.4698H186.365V12.3462L186.339 12.3203Z" fill="white"/>
-    <path d="M193.404 27.7662V3.72656H186.262V4.26998C188.228 4.47699 188.875 5.71909 188.875 7.40109V27.7662C188.875 29.4482 188.202 30.6903 186.262 30.8973V31.4408H196.043V30.8973C194.077 30.6903 193.43 29.4482 193.43 27.7662H193.404Z" fill="white"/>
-    <path d="M168.173 27.8723V17.2887C168.173 13.0966 163.334 12.1133 160.436 12.1133C157.538 12.1133 154.484 13.5365 153.19 14.5716V19.8246H153.941C153.941 19.8246 156.606 12.9155 160.436 12.9155C164.266 12.9155 163.722 14.3128 163.722 16.59C163.722 18.8672 163.282 19.7729 160.177 20.9373L156.296 22.3864C153.863 23.2921 152.414 24.6377 152.414 27.1995C152.414 29.7614 153.967 31.9609 158.314 31.9609H159.634C161.549 31.9609 162.868 30.9776 163.696 29.6061V31.5986H170.838V31.0552C168.846 30.8482 168.147 29.6061 168.147 27.9241L168.173 27.8723ZM163.722 25.8281C163.722 29.2956 162.196 31.0293 159.66 31.0293C157.124 31.0293 156.839 30.0201 156.839 26.5267C156.839 23.0333 157.822 22.6711 160.048 21.7913C162.092 21.0149 163.127 20.4974 163.722 20.0057V25.8281Z" fill="white"/>
-    <path d="M90.7231 12.2152C88.1096 12.2152 86.1429 13.1209 84.8491 14.9581V3.88281H77.707V4.42623C79.6737 4.63324 80.3206 5.87534 80.3206 7.55734V27.9225C80.3206 29.6045 79.6478 30.8466 77.707 31.0536V31.597H84.8491V29.1128C86.1429 30.976 88.1096 31.9334 90.7231 31.9334C95.6656 31.9334 99.1849 28.8799 99.1849 22.2296C99.1849 15.5792 95.6656 12.1634 90.7231 12.1634V12.2152ZM89.4034 31.1054C87.4109 31.1054 85.6771 29.501 84.8491 26.4734V17.5976C85.6771 14.57 87.4109 13.0691 89.4034 13.0691C91.3959 13.0691 94.1906 15.6568 94.1906 22.2554C94.1906 28.8541 92.1981 31.1054 89.4034 31.1054Z" fill="white"/>
-    <path d="M105.707 20.8055H118.594C118.464 15.9924 115.54 12.1367 110.572 12.1367H109.408C104.051 12.1367 100.816 16.5876 100.816 22.0476C100.816 27.5076 100.868 23.4449 100.998 24.1177C101.437 26.7313 102.835 29.2155 105.112 30.6387C107.622 32.2172 111.4 32.6054 114.091 31.2857C115.411 30.6387 116.446 29.5519 117.248 28.3098C117.662 27.6888 117.999 27.016 118.309 26.3432C118.309 26.3432 118.309 26.2914 118.335 26.2655L117.533 25.8256C116.808 27.43 115.773 28.9309 114.298 29.9142C112.125 31.3892 108.554 31.6997 106.949 29.2414C105.604 27.1971 105.707 24.2212 105.707 21.8923V20.8314V20.8055ZM110.003 12.913C112.383 12.913 113.522 14.6985 113.781 19.9516H105.733C106.044 14.2586 107.726 12.913 110.003 12.913Z" fill="white"/>
-    <path d="M209.939 29.8883C207.765 31.3633 204.194 31.6738 202.59 29.2155C201.244 27.1712 201.348 24.1954 201.348 21.8664V20.8055H214.234C214.105 15.9924 211.181 12.1367 206.213 12.1367H205.048C199.692 12.1367 196.457 16.5876 196.457 22.0476C196.457 27.5076 196.509 23.4449 196.638 24.1177C197.078 26.7313 198.475 29.2155 200.753 30.6387C203.263 32.2172 207.041 32.6054 209.732 31.2857C211.052 30.6387 212.087 29.5519 212.889 28.3098C213.303 27.6888 213.639 27.016 213.95 26.3432C213.95 26.3432 213.95 26.2914 213.976 26.2655L213.174 25.8256C212.449 27.43 211.414 28.9309 209.939 29.9142V29.8883ZM205.669 12.913C208.05 12.913 209.188 14.6985 209.447 19.9516H201.4C201.71 14.2586 203.392 12.913 205.669 12.913Z" fill="white"/>
-    <path d="M216.305 7.76579C216.305 5.35923 218.297 3.49609 220.704 3.49609C223.11 3.49609 224.999 5.35923 224.999 7.76579C224.999 10.1723 223.007 12.0096 220.626 12.0096C218.245 12.0096 216.305 10.1723 216.305 7.76579ZM216.822 7.76579C216.822 9.91357 218.504 11.5697 220.652 11.5697C222.8 11.5697 224.482 9.93945 224.482 7.76579C224.482 5.59213 222.8 3.936 220.652 3.936C218.504 3.936 216.822 5.59213 216.822 7.76579ZM218.892 10.0171C219.074 9.62893 219.151 9.44779 219.151 8.8785V6.60133C219.151 6.10966 219.099 5.90265 218.892 5.51449V5.46274H220.911C221.998 5.46274 222.463 5.90265 222.463 6.57545C222.463 7.24825 222.179 7.55877 221.532 7.79167L222.308 9.18902C222.567 9.70656 222.696 9.86182 223.059 10.0171H221.687L220.6 7.89517H220.083V8.8785C220.083 9.44779 220.083 9.62893 220.341 10.0171H218.892ZM220.756 5.72151H220.497C220.393 5.72151 220.238 5.72151 220.083 5.74739V7.6364H220.756C221.402 7.6364 221.532 7.11887 221.532 6.6272C221.532 6.13554 221.351 5.72151 220.756 5.72151Z" fill="white"/>
-  </g>
-  <defs>
-    <clipPath id="clip0_8510_13797">
-      <rect width="225" height="32" fill="white"/>
-    </clipPath>
-  </defs>
-</svg>
-      </a>
-
-      <div class="flex flex-row gap-5 text-white z-[15]">
-                <button
-          class="text-white hover:text-albemarle-aqua-500 active:text-albemarle-aqua-550"
-          x-cloak
-          x-show="!open"
-          x-on:click="toggleMenu()"
-          x-ref="btnMenu"
-          aria-label="Open main menu"
-          x-bind:aria-expanded="openMenu ? 'true' : 'false'"
-          aria-controls="header-main-menu"
-        >
-          <svg width="41" height="22" viewBox="0 0 41 22" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" stroke="currentColor">
-  <line x1="41" y1="1" y2="1" stroke-width="2"/>
-  <line x1="41" y1="11" y2="11" stroke-width="2"/>
-  <line x1="41" y1="21" y2="21" stroke-width="2"/>
-</svg>
-
-        </button>
-                        <div :class="`w-px h-14 ${!open ? 'bg-white' : ''}`"></div>
-                        <button
-          class="text-white hover:text-albemarle-aqua-500 active:text-albemarle-aqua-550"
-          x-cloak
-          x-show="!open"
-          x-on:click="toggleSearch()"
-          x-ref="btnSearch"
-          aria-label="Open search"
-          x-bind:aria-expanded="openSearch ? 'true' : 'false'"
-          aria-controls="header-search"
-        >
-          <svg width="23" height="24" viewBox="0 0 23 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" stroke="currentColor">
-  <line x1="22.2929" y1="22.914" x2="13.5688" y2="14.1899" stroke-width="2"/>
-  <circle cx="8.72414" cy="8.72414" r="7.72414" stroke-width="2"/>
-</svg>
-
-        </button>
-                <button
-          class="text-white hover:text-albemarle-aqua-500 active:text-albemarle-aqua-550"
-          x-cloak
-          x-show="open"
-          x-on:click="close()"
-          aria-label="Close header"
-        >
-          <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" stroke="currentColor">
-  <line x1="20.7071" y1="0.707107" x2="0.707107" y2="20.7071" stroke-width="2"/>
-  <line y1="-1" x2="28.2843" y2="-1" transform="matrix(0.707107 0.707107 0.707107 -0.707107 2 0)" stroke-width="2"/>
-</svg>
-
-        </button>
-      </div>
-    </div>
-
-    <div id="header-main-menu" x-cloak x-show="openMenu" class="w-full absolute top-0 left-0 z-10 lg:static px-6 lg:px-0 pt-28 lg:pt-14 pb-24 bg-charlotte-blue">
-      <div>
-        <div class="flex flex-col lg:divide-y divide-charlotte-blue-300">
-
-                    <div class="pb-14 flex flex-col lg:flex-row justify-between gap-4">
-            <ul class="main-menu flex-1 flex flex-col gap-6 relative bg-charlotte-blue transition-[min-height]"
-              x-bind:style="`min-height: ${minMenuHeight}`"
-              x-ref="mainMenu"
-              x-bind:aria-hidden="openMenu ? 'false' : 'true'"
-            >
-                                  <li class="lg:w-1/3">
-        <a href="/global/en" class="link link-nav-primary text-large" data-drupal-link-system-path="group/1">      <span>Home</span>
-    </a>
-  </li>
-  
-                                  <li
-    data-index="2"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="/global/en/who-we-are" title="Who We Are" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Who We Are menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__who-we-are" class="link link-nav-primary text-large" data-drupal-link-system-path="node/91">      <span>Who We Are</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__who-we-are"
-    >
-              <div class="bg-charlotte-blue absolute -top-[5.5rem] -left-2 lg:hidden">
-          
-
-
-
-
-
-
-
-
-<a @click.prevent="toggleClose()" data-component-id="alb:link" href="" class="link text-large link-nav-primary icon-before icon--chevron_left">
-  <span>Main Menu</span>
-
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M560-240 320-480l240-240 56 56-184 184 184 184-56 56Z"/></svg>
-
-  </a>
-        </div>
-        <h4 class="mb-8 uppercase text-large text-white font-bold lg:hidden"></h4>
-            <ul
-        data-index="2"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are" title="Overview of Who We Are" class="link link-nav-primary text-large" data-drupal-link-system-path="node/91">      <span>Overview</span>
-    </a>
-  </li>
-  
-                      <li
-    data-index="2-2"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="/global/en/who-we-are" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Purpose &amp; Impact menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__purpose-&amp;amp;-impact" class="link link-nav-primary text-large" data-drupal-link-system-path="node/91">      <span>Purpose &amp; Impact</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__purpose-&amp;amp;-impact"
-    >
-            <ul
-        data-index="2-2"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/mobility" title="Albemarle on Mobility" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2006">      <span>Mobility</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/energy" title="Albemarle on Energy" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2036">      <span>Energy</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/connectivity" title="Albemarle on Connectivity" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2031">      <span>Connectivity</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/health" title="Albemarle on Health" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2011">      <span>Health</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/careers/values" class="link link-nav-primary text-large" data-drupal-link-system-path="node/1961">      <span>Values</span>
-    </a>
-  </li>
-  
-                      <li
-    data-index="2-4"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="/global/en/who-we-are" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open People &amp; History menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__people-&amp;amp;-history" class="link link-nav-primary text-large" data-drupal-link-system-path="node/91">      <span>People &amp; History</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__people-&amp;amp;-history"
-    >
-            <ul
-        data-index="2-4"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/leadership" class="link link-nav-primary text-large" data-drupal-link-system-path="node/1971">      <span>Leadership</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/careers/diversity-equity-inclusion" class="link link-nav-primary text-large" data-drupal-link-system-path="node/3831">      <span>Diversity, Equity &amp; Inclusion</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/history" class="link link-nav-primary text-large" data-drupal-link-system-path="node/1951">      <span>History</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/innovation" class="link link-nav-primary text-large" data-drupal-link-system-path="node/3911">      <span>Innovation</span>
-    </a>
-  </li>
-  
-                      <li
-    data-index="2-6"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="/global/en/who-we-are" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Community menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__community" class="link link-nav-primary text-large" data-drupal-link-system-path="node/91">      <span>Community</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__community"
-    >
-            <ul
-        data-index="2-6"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/community-impact" class="link link-nav-primary text-large" data-drupal-link-system-path="node/1946">      <span>Community Impact</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/community-impact/grant-guidelines" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2041">      <span>Grant Guidelines</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/who-we-are/global-locations" class="link link-nav-primary text-large" data-drupal-link-system-path="node/1956">      <span>Location Directory</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-                                  <li
-    data-index="3"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="/global/en/what-we-offer" title="What We Offer" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open What We Offer menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__what-we-offer" class="link link-nav-primary text-large" data-drupal-link-system-path="node/81">      <span>What We Offer</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__what-we-offer"
-    >
-              <div class="bg-charlotte-blue absolute -top-[5.5rem] -left-2 lg:hidden">
-          
-
-
-
-
-
-
-
-
-<a @click.prevent="toggleClose()" data-component-id="alb:link" href="" class="link text-large link-nav-primary icon-before icon--chevron_left">
-  <span>Main Menu</span>
-
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M560-240 320-480l240-240 56 56-184 184 184 184-56 56Z"/></svg>
-
-  </a>
-        </div>
-        <h4 class="mb-8 uppercase text-large text-white font-bold lg:hidden"></h4>
-            <ul
-        data-index="3"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="/global/en/what-we-offer" class="link link-nav-primary text-large" data-drupal-link-system-path="node/81">      <span>Overview</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/search/products?keyword=&amp;keyword-search=Search" class="link link-nav-primary text-large" data-drupal-link-query="{&quot;keyword&quot;:&quot;&quot;,&quot;keyword-search&quot;:&quot;Search&quot;}" data-drupal-link-system-path="search/products">      <span>Product Search</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/what-we-offer/solutions" title="Solutions" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2016">      <span>Solutions</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/what-we-offer/featured-products" title="Featured Products" class="link link-nav-primary text-large" data-drupal-link-system-path="node/1966">      <span>Featured Products</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/what-we-offer/industries" title="Industries" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2026">      <span>Industries</span>
-    </a>
-  </li>
-  
-                      <li
-    data-index="3-6"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="/global/en/what-we-offer/reliable-supply" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Reliable Supply menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__reliable-supply" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2051">      <span>Reliable Supply</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__reliable-supply"
-    >
-            <ul
-        data-index="3-6"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="/global/en/what-we-offer/reliable-supply" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2051">      <span>Overview</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/what-we-offer/reliable-supply/lithium-resources-processing" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2061">      <span>Lithium Resources &amp; Processing</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/what-we-offer/reliable-supply/bromine-resources-processing" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2071">      <span>Bromine Resources &amp; Processing</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/what-we-offer/reliable-supply/recycling" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2076">      <span>Recycling</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/what-we-offer/reliable-supply/safety" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2081">      <span>Safety</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-              </ul>
-    </div>
-  
-                                  <li
-    data-index="4"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="/global/en/sustainability" title="Sustainability" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Sustainability menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__sustainability" class="link link-nav-primary text-large" data-drupal-link-system-path="node/66">      <span>Sustainability</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__sustainability"
-    >
-              <div class="bg-charlotte-blue absolute -top-[5.5rem] -left-2 lg:hidden">
-          
-
-
-
-
-
-
-
-
-<a @click.prevent="toggleClose()" data-component-id="alb:link" href="" class="link text-large link-nav-primary icon-before icon--chevron_left">
-  <span>Main Menu</span>
-
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M560-240 320-480l240-240 56 56-184 184 184 184-56 56Z"/></svg>
-
-  </a>
-        </div>
-        <h4 class="mb-8 uppercase text-large text-white font-bold lg:hidden"></h4>
-            <ul
-        data-index="4"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="/global/en/sustainability" class="link link-nav-primary text-large" data-drupal-link-system-path="node/66">      <span>Overview</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/sustainability/natural-resources-management" title="Natural Resources Management" class="link link-nav-primary text-large" data-drupal-link-system-path="node/1996">      <span>Natural Resource Management</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/sustainability/our-people-workplace-community" title="Our People, Workplace &amp; Community" class="link link-nav-primary text-large" data-drupal-link-system-path="node/1991">      <span>Our People, Workplace &amp; Community</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/sustainability/sustainable-value-creation" title="Sustainable Value Creation" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2001">      <span>Sustainable Value Creation</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/sustainability/sustainability-reporting-resources" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2021">      <span>Sustainability Reporting &amp; Resources</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-                                  <li
-    data-index="5"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="/global/en/careers" title="Careers" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Careers menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__careers" class="link link-nav-primary text-large" data-drupal-link-system-path="node/41">      <span>Careers</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__careers"
-    >
-              <div class="bg-charlotte-blue absolute -top-[5.5rem] -left-2 lg:hidden">
-          
-
-
-
-
-
-
-
-
-<a @click.prevent="toggleClose()" data-component-id="alb:link" href="" class="link text-large link-nav-primary icon-before icon--chevron_left">
-  <span>Main Menu</span>
-
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M560-240 320-480l240-240 56 56-184 184 184 184-56 56Z"/></svg>
-
-  </a>
-        </div>
-        <h4 class="mb-8 uppercase text-large text-white font-bold lg:hidden"></h4>
-            <ul
-        data-index="5"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="/global/en/careers" class="link link-nav-primary text-large" data-drupal-link-system-path="node/41">      <span>Overview</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/careers/diversity-equity-inclusion" title="Diversity, Equity &amp; Inclusion" class="link link-nav-primary text-large" data-drupal-link-system-path="node/3831">      <span>Diversity, Equity &amp; Inclusion</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/careers/career-paths" title="Career Paths" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2056">      <span>Career Paths</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/careers/benefits-rewards" title="Benefits &amp; Rewards" class="link link-nav-primary text-large" data-drupal-link-system-path="node/2066">      <span>Benefits &amp; Rewards</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/search/jobs" class="link link-nav-primary text-large" data-drupal-link-system-path="search/jobs">      <span>Job Opportunities</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-                                  <li
-    data-index="6"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="https://investors.albemarle.com/overview/default.aspx" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Investors menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__investors" class="link link-nav-primary text-large">      <span>Investors</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__investors"
-    >
-              <div class="bg-charlotte-blue absolute -top-[5.5rem] -left-2 lg:hidden">
-          
-
-
-
-
-
-
-
-
-<a @click.prevent="toggleClose()" data-component-id="alb:link" href="" class="link text-large link-nav-primary icon-before icon--chevron_left">
-  <span>Main Menu</span>
-
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M560-240 320-480l240-240 56 56-184 184 184 184-56 56Z"/></svg>
-
-  </a>
-        </div>
-        <h4 class="mb-8 uppercase text-large text-white font-bold lg:hidden"></h4>
-            <ul
-        data-index="6"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/overview/default.aspx" class="link link-nav-primary text-large">      <span>Overview</span>
-    </a>
-  </li>
-  
-                      <li
-    data-index="6-2"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="https://investors.albemarle.com/overview/default.aspx" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Financials menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__financials" class="link link-nav-primary text-large">      <span>Financials</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__financials"
-    >
-            <ul
-        data-index="6-2"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/financials/quarterly-results/default.aspx" class="link link-nav-primary text-large">      <span>Quarterly Results</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/financials/annual-reports/default.aspx" class="link link-nav-primary text-large">      <span>Annual Reports</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/financials/sec-filings/default.aspx" class="link link-nav-primary text-large">      <span>SEC Filings</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/financials/IRS-Form-8937/default.aspx" class="link link-nav-primary text-large">      <span>IRS Form 8937</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-                      <li
-    data-index="6-3"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="https://investors.albemarle.com/overview/default.aspx" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Governance menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__governance" class="link link-nav-primary text-large">      <span>Governance</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__governance"
-    >
-            <ul
-        data-index="6-3"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/governance/board-of-directors/default.aspx" class="link link-nav-primary text-large">      <span>Board of Directors</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/governance/corporate-governance/governance-documents/default.aspx" class="link link-nav-primary text-large">      <span>Corporate Governance</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/governance/committee-composition/default.aspx" class="link link-nav-primary text-large">      <span>Committee Composition</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-                      <li
-    data-index="6-4"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="https://investors.albemarle.com/overview/default.aspx" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Resources menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__resources" class="link link-nav-primary text-large">      <span>Resources</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__resources"
-    >
-            <ul
-        data-index="6-4"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/resources/stock-info/default.aspx" class="link link-nav-primary text-large">      <span>Stock Info</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/resources/dividend-history/default.aspx" class="link link-nav-primary text-large">      <span>Dividend History</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/resources/analyst-coverage/default.aspx" class="link link-nav-primary text-large">      <span>Analyst Coverage</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/resources/investor-contacts/default.aspx" class="link link-nav-primary text-large">      <span>Investor Contacts</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/resources/investor-email-alerts/default.aspx" class="link link-nav-primary text-large">      <span>Investor Email Alerts</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="https://investors.albemarle.com/resources/information-request-form/default.aspx" class="link link-nav-primary text-large">      <span>Information Request Form</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-              </ul>
-    </div>
-  
-                                  <li
-    data-index="7"
-    class="lg:w-1/3"
-    x-bind:class="subMenuOpen ? 'isopen' : 'isclosed'"
-    x-data="{
-      subMenuOpen: false,
-      toggle() {
-        this.subMenuOpen = !this.subMenuOpen;
-        this.$nextTick(() => {
-          const link = this.$refs.subMenu.querySelector('a.link-nav-primary:first-child');
-          link.focus();
-        });
-        this.$dispatch('check-menus');
-      },
-      toggleClose() {
-        if (this.subMenuOpen) {
-          this.subMenuOpen = false;
-          this.$dispatch('check-menus');
-        }
-      }
-    }"
-    x-on:click.away="toggleClose()"
-  >
-                <a href="/global/en/newsroom" x-on:click.prevent="toggle()" x-bind:class="subMenuOpen ? &#039;link-nav-primary--has-children--active&#039; : &#039;link-nav-primary--has-children&#039;" aria-label="Open Newsroom menu" x-bind:aria-expanded="subMenuOpen ? &#039;true&#039; : &#039;false&#039;" aria-controls="header-menu__newsroom" class="link link-nav-primary text-large" data-drupal-link-system-path="node/96">      <span>Newsroom</span>
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z"/></svg>
-
-    </a>
-    <div
-      x-cloak
-      x-show="subMenuOpen"
-      class="w-full h-full lg:left-1/3 bg-charlotte-blue lg:bg-transparent absolute top-0"
-      id="header-menu__newsroom"
-    >
-              <div class="bg-charlotte-blue absolute -top-[5.5rem] -left-2 lg:hidden">
-          
-
-
-
-
-
-
-
-
-<a @click.prevent="toggleClose()" data-component-id="alb:link" href="" class="link text-large link-nav-primary icon-before icon--chevron_left">
-  <span>Main Menu</span>
-
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24" aria-hidden="true"><path fill="currentColor" d="M560-240 320-480l240-240 56 56-184 184 184 184-56 56Z"/></svg>
-
-  </a>
-        </div>
-        <h4 class="mb-8 uppercase text-large text-white font-bold lg:hidden"></h4>
-            <ul
-        data-index="7"
-        class="sub-menu flex-col gap-6"
-        :class="subMenuOpen ? 'flex' : 'hidden'"
-        x-ref="subMenu"
-        x-bind:aria-hidden="subMenuOpen ? 'false' : 'true'"
-      >
-                      <li class="lg:w-1/3">
-        <a href="/global/en/newsroom" class="link link-nav-primary text-large" data-drupal-link-system-path="node/96">      <span>Overview</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/search/news/category/press-releases" class="link link-nav-primary text-large" data-drupal-link-system-path="search/news/category/press-releases">      <span>News &amp; Press Releases</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/latest-stories" class="link link-nav-primary text-large" data-drupal-link-system-path="node/5766">      <span>Latest Stories</span>
-    </a>
-  </li>
-  
-                      <li class="lg:w-1/3">
-        <a href="/global/en/search/news/category/events" class="link link-nav-primary text-large" data-drupal-link-system-path="search/news/category/events">      <span>Events</span>
-    </a>
-  </li>
-  
-              </ul>
-    </div>
-  
-                          </ul>
-
-            <div class="lg:max-w-72 alb--dark">
-                            
-                      </div>
-          </div>
-          
-                    <div class="pt-14 hidden lg:block">
-            <ul class="flex flex-row gap-6 flex-wrap">
-                              <li class="flex flex-col gap-8">
-                  <a href="/global/en/suppliers" class="link link-nav-utility" data-drupal-link-system-path="node/101">Suppliers</a>
-                </li>
-                              <li class="flex flex-col gap-8">
-                  <a href="/global/en/customer-resources" class="link link-nav-utility" data-drupal-link-system-path="node/211">Customer Resources</a>
-                </li>
-                              <li class="flex flex-col gap-8">
-                  <a href="/global/en/ethics-compliance" class="link link-nav-utility" data-drupal-link-system-path="node/2046">Ethics &amp; Compliance</a>
-                </li>
-                              <li class="flex flex-col gap-8">
-                  <a href="/global/en/contact-us" class="link link-nav-utility" data-drupal-link-system-path="node/1986">Contact Us</a>
-                </li>
-                              <li class="flex flex-col gap-8">
-                  <a href="/global/en/integrity-helpline" class="link link-nav-utility" data-drupal-link-system-path="node/1981">Integrity Helpline</a>
-                </li>
-                          </ul>
-          </div>
-          
-        </div>
-      </div>
-    </div>
-
-        <div id="header-search" x-cloak x-show="openSearch" class="w-full absolute top-0 left-0 z-10 lg:static px-6 lg:px-0 pt-28 lg:pt-16 pb-24 bg-charlotte-blue">
-      <div>
-        <div class="lg:max-w-[67%]">
-          <div class="views-exposed-form" data-drupal-selector="views-exposed-form-search-page" id="block-alb-main-search-form">
-  
-    
-      <form action="/global/en/search/site" method="get" id="search" accept-charset="UTF-8">
-  
-
-<div  data-component-id="alb:search-box" class="w-full alb-parent--bg-white">
-      <div class="flex flex-col sm:flex-row gap-3">
-              
-<div class="js-form-item form-item form-type-textfield js-form-type-textfield form-item-keyword js-form-item-keyword form-no-label w-full">
-  
-
-<div class="flex-1" x-data="{
-  visible: false,
-  value: '',
-  clear() {
-    this.value = '';
-  }
-}">
-  <div class="relative">
-    <input placeholder="What are you looking for?" data-drupal-selector="edit-keyword" type="text" id="edit-keyword" name="keyword" value="" size="30" maxlength="128" class="form-text text-black w-full min-h-13 !px-6 !py-3.5" data-component-id="alb:search" x-model.fill="value" />
-    <a x-cloak x-show="value" x-on:click.prevent="clear()" class="absolute top-5 right-0 flex items-center pr-3 text-neutral-700 cursor-pointer" role="button">
-      <div>
-        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path fill="currentColor" d="M14 1.41L12.59 0L7 5.59L1.41 0L0 1.41L5.59 7L0 12.59L1.41 14L7 8.41L12.59 14L14 12.59L8.41 7L14 1.41Z" /></svg>
-
-
-      </div>
-    </a>
-  </div>
-</div>
-
-  </div>
-<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
-  
-<button data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Search" class="button js-form-submit form-submit max-w-full w-full justify-center alb-button alb-button--white" data-component-id="alb:button" aria-label="Search">
-  <span>Search</span>
-</button>
-</div>
-
-          </div>
-  </div>
-
-</form>
-
-  </div>
-
-                  </div>
-      </div>
-    </div>
-    
-  </nav>
-</header>
-
-    <div class="max-w-[1600px] mx-auto">
-
-    
-
-          <div class="container mx-auto">
-          <div>
-    <div data-drupal-messages-fallback class="hidden"></div>
-
-  </div>
-
-      </div>
-    
-    <a id="main-content" tabindex="-1"></a>          <main role="main" class="">
-        <div class="col-span-full">
-            <div>
-    <div id="block-alb-main-content">
-  
-    
-      <article>
-
-  
-    
-
-  
-  <div>
-        <div data-component-id="alb:layout-onecol" class="w-full">
-  <div  class="layout__region layout__region--first">
-        <div class="container px-[15px] lg:px-6 pt-12 mb-24">
-  
-    
-      <div class="alb-rich-text text-large">
-      <h1>Terms of Use</h1><p>&nbsp;</p><p>Last Updated:&nbsp;July 18th, 2024</p><p>PLEASE READ THESE TERMS CAREFULLY BEFORE ACCESSING OR USING THE SITE. THESE TERMS INCLUDE AN ARBITRATION CLAUSE AND A WAIVER OF YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE LAWSUIT. BY ACCESSING OR USING THE SITE, YOU ATTEST THAT YOU ARE AT LEAST THE AGE OF MAJORITY IN YOUR STATE, PROVINCE, OR COUNTRY OF RESIDENCE AND ARE LEGALLY CAPABLE OF ENTERING INTO A BINDING CONTRACT. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, YOU MUST NOT ACCESS OR USE THE SITE. THESE TERMS MAY BE UPDATED FROM TIME TO TIME AS DISCUSSED IN MORE DETAIL IN THE GENERAL SECTION OF THESE TERMS. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE SITE.&nbsp;</p><p>THE SITE IS INTENDED ONLY FOR BUSINESSES OF THE UNITED STATES. THIS SITE IS FOR BUSINESS USE ONLY AND IS NOT INTENDED FOR CONSUMER SALES FOR PERSONAL, HOUSEHOLD, OR INDIVIDUAL USE. ALTHOUGH THE SITE MAY BE ACCESSED FROM AROUND THE WORLD, THE SITE HAS BEEN DESIGNED TO COMPLY WITH THE LAWS OF THE UNITED STATES. IF ANY MATERIAL ON THE SITE, OR YOUR USE OF THE SITE, IS CONTRARY TO THE LAWS OF THE COUNTRY WHERE YOU ARE WHEN YOU ACCESS IT, THE SITE IS NOT INTENDED FOR YOU, AND WE ASK YOU NOT TO USE THE SITE. YOU ARE RESPONSIBLE FOR INFORMING YOURSELF OF THE LAWS OF YOUR JURISDICTION AND COMPLYING WITH THEM.</p><p>These Terms of Use (these “<strong>Terms</strong>”) apply to <a href="https://www.albemarle.com">www.albemarle.com</a>, including all products, services, features, content, downloads, and tools where these Terms appear or are linked (collectively, the “<strong>Site</strong>”), which are owned and operated by Albemarle Corporation (“<strong>Albemarle</strong>,” “<strong>we</strong>,” “<strong>our</strong>,” or “<strong>us</strong>”). By accessing the Site, you agree to be bound by these Terms. If you use the Site on behalf of a company, business, or other entity, then (i) the term “<strong>you</strong>” includes you and such company, business, or entity, and (ii) you represent and warrant that (a) you are authorized to bind such company, business, or entity to these Terms and (b) you agree to these Terms on such company’s, business’s, or entity’s behalf.&nbsp;</p><p>You agree that personal information that you provide through the Site shall be governed by our <a href="/global/privacy-policy">Privacy Policy</a>, which is hereby incorporated and made part of these Terms.</p><p>&nbsp;</p><h6><strong>1. Access and Use</strong></h6><p>&nbsp;</p><p><a>You may access and use the Site solely for lawful, noncommercial, personal, or internal business purposes. The Site is the sole property of Albemarle, and is provided to you without charge as a convenience and for your informational purposes only. You agree to use the Site only for the purposes for which we provide the Site and in accordance with these Terms. Albemarle reserves the right to deny use or access to any part of the Site at our sole discretion.</a></p><p>&nbsp;</p><h6><strong>2. Intellectual Property</strong></h6><p>&nbsp;</p><p>The Site may contain: (i) materials and other items relating to Albemarle and its services, including software, layout, information, databases, articles, posts, text, data, files, images, scripts, designs, graphics, instructions, illustrations, photographs, sounds, pictures, videos, advertising copy, URLs, technology, interactive features, and the “look and feel” of the Site; (ii) logos, service marks, trademarks, trade names, trade dress, and trade identities of various parties, including those of Albemarle; and (iii) other forms of intellectual property (all of the foregoing, collectively “<strong>Content</strong>”). All Content is the property of Albemarle or its licensors and is protected by copyright laws. You do not have any ownership rights to the Site or any of its Content. All rights in and to the Site and its Content not expressly granted in this provision remain with us and our licensors.</p><p>&nbsp;</p><h6><strong>3. Restrictions</strong></h6><p>&nbsp;</p><p>You may not:</p><ul><li>Use the Site in any way that violates local, state, national, or international laws;</li><li>Engage in activity using or related to the Site or its Content that is unlawful, harmful, offensive, obscene, violent, threatening, harassing, abusive, or otherwise objectionable to Albemarle;</li><li>Attempt to disable, hack, or otherwise interfere with the Site’s functions;</li><li>Harvest, scrape, reverse engineer, derive a work, or modify any information from the Site or its Content;</li><li>Attempt to bypass any robot exclusion headers or circumvent any other measures that we have put in place to restrict or prevent access all or parts of the Site;&nbsp;</li><li>Infringe any intellectual property rights of Albemarle or any third party;&nbsp;</li><li>Pose as another person or otherwise misrepresent your identity;&nbsp;</li><li>Use the Site or its Content to suggest an unauthorized association with Albemarle;&nbsp;</li><li>Transmit any software or other materials that contain any viruses, worms, Trojan horses, defects, or other rogue programming or items of a destructive nature;</li><li>Change or delete any proprietary notices from materials downloaded or printed out from the Site;&nbsp;</li><li>Use, copy, download, reproduce, republish, distribute, transmit, broadcast, display, assign, license, sublicense, sell, alter, prepare derivative works of, or otherwise exploit the Site and/or Content (in whole or in part) without our prior, express, and written permission; or</li><li>Otherwise violate these Terms.</li></ul><p>&nbsp;</p><h6><strong>4. Other Online Services</strong></h6><p>&nbsp;</p><p>The Site may contain links to third-party websites, features, or other online platforms (collectively, the “<strong>Other Online Services</strong>”). Albemarle does not control, review, endorse, or take responsibility for the content or data practices of Other Online Services, nor does Albemarle make any representation or warranty regarding the accuracy of such content. If you decide to access any of the Other Online Services linked to the Site, you do so entirely at your own risk. Albemarle is neither responsible nor liable for any loss or damage as a result of any use of Other Online Services.</p><p>&nbsp;</p><h6><strong>5. Disclaimers</strong></h6><p>&nbsp;</p><p>THE SITE AND CONTENT ARE PROVIDED BY ALBEMARLE ON AN “AS IS” AND “AS AVAILABLE” BASIS, AND WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, SATISFACTORY QUALITY, RELIABILITY, ACCURACY, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE. THIS ALSO INCLUDES ANY WARRANTIES THAT MAY ARISE FROM ANY COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE.</p><p>ALBEMARLE MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE SITE OR CONTENT. ALBEMARLE DOES NOT WARRANT OR GUARANTEE THE ACCURACY, COMPLETENESS, CORRECTNESS, TIMELINESS, OR USEFULNESS OF THE SITE AND/OR ITS CONTENT. ALBEMARLE DOES NOT&nbsp;WARRANT THAT YOUR USE OF THE SITE OR CONTENT WILL BE UNINTERRUPTED, ERROR-FREE OR SECURE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE SITE, THE SERVER(S) ON WHICH THE SITE IS HOSTED OR CONTENT ARE SECURE OR FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS. ALBEMARLE ASSUMES NO RESPONSIBILITY FOR ANY LOSS OR HARM THAT OCCURS RESULTING FROM ANY USE OF THE SITE OR CONTENT. YOUR USE OF THE SITE AND CONTENT IS SOLELY AT YOUR OWN RISK.&nbsp;</p><p>IF APPLICABLE LAW DOES NOT ALLOW THE EXCLUSION OF SOME OR ALL OF THE IMPLIED WARRANTIES CONTAINED IN THIS SECTION, THE EXCLUSIONS IN THIS SECTION WILL APPLY TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.</p><p>&nbsp;</p><h6><strong>6. Limitation of Liability</strong></h6><p>&nbsp;</p><p>TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AGREE THAT ALBEMARLE AND ITS TRUSTEES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND AFFILIATES (COLLECTIVELY, THE “<strong>ALBEMARLE PARTIES</strong>”), WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INJURY, LOSS, CLAIM, DAMAGE, OR ANY SPECIAL, EXEMPLARY, PUNITIVE, DIRECT, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING, BUT NOT LIMITED TO ECONOMIC LOSS, INDIRECT OR DIRECT LOST PROFITS OR LOST SAVINGS), WHETHER BASED IN CONTRACT, TORT, EQUITY, STRICT LIABILITY, OR OTHERWISE, WHICH ARISES OUT OF OR IS IN ANY WAY CONNECTED WITH ANY USE OF THE SITE AND/OR ITS CONTENT, THE OPERATION OF THE SITE OR ANY FAILURE OR DELAY IN THE OPERATION OF THE SITE, OR ANY OF THE PRODUCTS OR SERVICES OFFERED ON THE SITE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p><p>IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SITE, OR WITH ANY OF THESE TERMS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE. TO THE EXTENT ANY ASPECTS OF THE FOREGOING LIMITATIONS OF LIABILITY ARE NOT ENFORCEABLE, THE MAXIMUM AGGREGATE LIABILITY OF ALBEMARLE TO YOU WITH RESPECT TO YOUR USE OF THE SITE IS $500 (FIVE HUNDRED DOLLARS).</p><p>&nbsp;</p><h6><strong>7. Indemnity</strong></h6><p>&nbsp;</p><p>In consideration for Albemarle permitting you to access and use the Site, you expressly defend, indemnify, and hold harmless the Albemarle Parties from any and all claims, liabilities, demands, causes of action, costs, expenses, and damages of every kind and nature, in law or equity, or otherwise, arising out of or in any way related to your access or use of the Site or Content, whether arising from negligence or any other acts or omissions by Albemarle.</p><p>You will defend, indemnify, and hold harmless the Albemarle Parties from and against any loss, damage, judgment, settlement, expense, interest, and any other liability (including reasonable attorneys’ fees and costs) related to or arising out of any allegation, claim, lawsuit, or proceeding (a “<strong>Claim</strong>”) to the extent such Claim is based on your use or access of the Site or Content in connection with: (a) an infringement of any patent, trademark, copyright, trade secret or other intellectual property right including costs and expenses; (b) any breach of these Terms; (c) any unlawful, improper, or negligent use by anyone of the Site or Content; (d) any dispute between you and a third-party in connection with the Site or Content; or (e) your negligence, willful misconduct, or fraud. You will use counsel reasonably satisfactory to us to defend each Claim. If at any time we reasonably determine that any Claim might adversely affect us, we may take control of the defense at our expense. You may not consent to the entry of any judgment or enter into any settlement of a Claim without our express prior written consent.</p><p>&nbsp;</p><h6><strong>8. Governing Law and Venue</strong></h6><p>&nbsp;</p><p>These Terms shall be governed by, and enforced in accordance with, the substantive and procedural laws of the State of North Carolina, including its statute of limitations, to be governed by the Federal Arbitration Act (“<strong>FAA</strong>”), applicable Federal Law, and the laws of North Carolina,&nbsp;and without regard to any conflicts of law provisions that might apply the laws of another jurisdiction.&nbsp;You consent and submit to the exclusive jurisdiction of the state and federal courts in and for Mecklenburg County, North Carolina, for all disputes. The United Nations Convention for the&nbsp;International Sale of Goods does not apply to these Terms. You expressly agree that all disputes arising under or relating to the Site or these Terms shall be brought and resolved solely and exclusively in the State of North Carolina. MOREOVER, IF FOR ANY REASON A DISPUTE PROCEEDS IN COURT, ANY STATE OR FEDERAL COURT ACTION SHALL BE TRIED TO A JUDGE AND NOT A JURY. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IF EITHER YOU OR WE WANT TO ASSERT A DISPUTE AGAINST EACH OTHER EITHER BY ARBITRATION OR IN COURT, AS APPLICABLE, THEN THE PARTY MUST INITIATE SUCH ACTION WITHIN ONE (1) YEAR AFTER ACCRUAL OF THE DISPUTE – OR IT WILL BE FOREVER BARRED.</p><p>&nbsp;</p><h6><strong>9. DISPUTE RESOLUTION: MANDATORY BINDING INDIVIDUAL ARBITRATION AND CLASS AND COLLECTIVE ACTION WAIVER</strong></h6><p>&nbsp;</p><p><strong>(a) <u>Dispute Resolution</u>.</strong> In the unlikely event that a claim or controversy at law or equity (collectively, a “<strong>Dispute</strong>”) arises between you and Albemarle, prior to initiating any lawsuit, you must first contact Albemarle at&nbsp;<a href="/cdn-cgi/l/email-protection#0468616365682a6a6b706d676177446568666169657668612a676b69"><span class="__cf_email__" data-cfemail="d8b4bdbfb9b4f6b6b7acb1bbbdab98b9b4babdb5b9aab4bdf6bbb7b5">[email&#160;protected]</span></a> so that we may work in good faith to find a mutually agreeable solution within sixty (60) days. You agree that the term “Dispute” in these Terms will have the broadest meaning possible. These Terms also cover any Dispute between you and any officer, director, board member, agent, employee, affiliate of Albemarle, or third party of Albemarle could be liable, directly or indirectly, for such Dispute.&nbsp;</p><p>&nbsp;</p><p><strong>(b) <u>Arbitration</u>.</strong> If the Dispute cannot be resolved within sixty (60) days, <strong>you agree that it shall be resolved exclusively by final binding arbitration, except that you may assert claims in small claims court in the county of your residence or in Mecklenburg County, North Carolina, if your claims qualify.</strong> The arbitration will be conducted by the American Arbitration Association (“<strong>AAA</strong>”) under its then applicable rules. All of the AAA’s rules are available at ;<a href="http://www.adr.org">www.adr.org</a>, and the rules governing commercial disputes are available at <a href="http://www.adr.org/commercial">www.adr.org/commercial</a>. The AAA’s rules, including the rules governing commercial disputes, are also available by calling 1-800-778-7879. You may initiate arbitration by utilizing the forms available on <a href="http://www.adr.org">www.adr.org</a>. If you have any difficulty initiating arbitration, you may call the AAA at 1-800-778-7879. <strong>You and Albemarle are each giving up the right to have Disputes resolved in court before a judge and/or jury (except as stated otherwise in this Section 9).</strong> The provisions of this Section 9 constitute your and Albemarle’s written agreement for resolving Disputes, including the agreement to arbitrate Disputes under the FAA (“<strong>Dispute Agreement</strong>”). The most current version of this Dispute Agreement in effect when any Dispute arises shall govern resolution of any Dispute.</p><p>Payment of all filing, administration and arbitrator fees (“<strong>Arbitration Fees</strong>”) will be governed by the AAA’s applicable rules. The arbitrator may only award those damages and relief as a court could, and must follow the terms and conditions of these Terms and the Dispute Agreement.</p><p>If you are a business of the United States, arbitration shall take place in Mecklenburg County, North Carolina. You and Albemarle further agree to submit to the personal jurisdiction of any federal or state court in Mecklenburg County, North Carolina, in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.</p><p>&nbsp;</p><p><strong>(c) <u>No Class Action Matters</u>. You and Albemarle each agree that resolution of any Disputes, whether in court or in arbitration, will be conducted and resolved only on an individual basis and not in a class, consolidated or representative action, and that any relief awarded, including equitable relief, shall only be awarded on an individual basis.</strong></p><p>&nbsp;</p><p><strong>(d) <u>Injunctive Relief</u>.</strong> Notwithstanding anything to the contrary herein, you or Albemarle may bring suit in court to seek an injunction, a declaratory judgment or other equitable relief arising out of, or relating to, but not limited to, intellectual property rights or any intentional, illegal act affecting the accessibility, functionality, or security of the Site, and the Restrictions section of these Terms.</p><p>&nbsp;</p><p><strong>(d) <u>Severability</u>.</strong> With the exception of Section&nbsp;9(d), if any part of this Section&nbsp;9 is ruled to be unenforceable for any reason, then the remaining provisions of Section 9 shall remain in force as if any portion ruled unenforceable were not included in this Section&nbsp;9. If Section&nbsp;9(d) is ruled to be unenforceable for any reason, then Section&nbsp;9(b) shall no longer be enforceable, but the remainder of this Section&nbsp;9 shall remain in effect.</p><p>&nbsp;</p><h6><strong>10. General</strong></h6><p>&nbsp;</p><p><strong>(a) <u>Sale Agreements</u>.</strong> You and Albemarle may have entered into one or more pre-existing written agreements related to your purchase or products and/or services from Albemarle (“<strong>Sale Agreements</strong>”).&nbsp;TO THE EXTENT THAT YOU HAVE ONE OR MORE SALE AGREEMENTS, YOU AGREE TO ABIDE BY SUCH SALE AGREEMENTS WITH RESPECT TO THE PURCHASE OF PRODUCTS AND/OR SERVICES FROM ALBEMARLE, EVEN IF SUCH PRODUCTS AND/OR SERVICES ARE REFERENCED OR ADVERTISED ON THE SITE. IN THE EVENT OF A CONFLICT BETWEEN ANY SALE AGREEMENT AND THESE TERMS, THE SALE AGREEMENT SHALL GOVERN AND CONTROL.</p><p>&nbsp;</p><p><strong>(b) <u>Notices</u>.</strong> Except as otherwise provided in these Terms (including with respect to modifications to these Terms or modifications to the Site), we may (but are not obligated to) deliver notices to you via electronic mail or postal mail at any email or postal address associated with you in our databases.</p><p>&nbsp;</p><p><strong>(c) <u>No Waiver</u>.</strong> Either party’s failure to enforce strict performance of any provision of these Terms will not be construed as a waiver of any provision or right. Performance of these Terms by you and Albemarle is subject to existing laws and legal process, and nothing contained in these Terms is in derogation of either party’s obligation to comply with governmental, court, and law enforcement requests or requirements relating to your use of the Site or information provided to or gathered by Albemarle with respect to such use.</p><p>&nbsp;</p><p><strong>(d) <u>Severability</u>.</strong> If any part of these Terms is determined to be invalid or unenforceable, then the invalid or unenforceable provision will be deemed severable from these Terms; the invalidity of the provision will not affect the validity or enforceability of the remainder of these Terms, which will continue in effect.</p><p>&nbsp;</p><p><strong>(e) <u>Assignment</u>.</strong> These Terms are not assignable, transferable, or sub-licensable by you without our prior, express, and written consent.</p><p>&nbsp;</p><p><strong>(f) <u>Survival</u>.</strong> The provisions of these Terms, which by their nature should survive your suspension or termination will survive, including the rights and licenses you grant to Albemarle in these Terms, as well as the indemnities, releases, disclaimers, and limitations on liability and the provisions regarding jurisdiction, choice of law, no class action, and mandatory arbitration.</p><p>&nbsp;</p><p><strong>(g) <u>Amendments</u>.</strong> We reserve the right at all times to discontinue or modify any part of these Terms in our sole discretion. You agree that any requirement to notify you of any such changes to these Terms is satisfied by us posting the changes on the first page of these Terms. Any changes to these Terms will be effective upon our posting of the notice; provided that these changes will be prospective only and not retroactive. In certain cases, we may also provide a summary of changes to these Terms via email to your email address on file with us.&nbsp;ACCORDINGLY, EACH TIME YOU SIGN IN TO OR OTHERWISE USE THE SITE, YOU ARE ENTERING INTO A NEW AGREEMENT WITH US ON THE THEN APPLICABLE TERMS AND YOU AGREE THAT YOUR USE OF THE SITE AFTER SUCH NEW TERMS HAVE BEEN POSTED CONSTITUTES YOUR AGREEMENT TO THE NEW TERMS FOR YOUR NEW USE AND TRANSACTIONS ON THE SITE. If you do not agree to the changes, you should not use the Site or any services offered through the Site after the effective date of the changes. We suggest that you revisit these Terms regularly to ensure that you stay informed of any changes.</p><p>&nbsp;</p><h6><strong>11. Contact Information</strong></h6><p>&nbsp;</p><p>If&nbsp;you&nbsp;have&nbsp;any&nbsp;questions&nbsp;regarding&nbsp;these&nbsp;Terms,&nbsp;you&nbsp;may&nbsp;contact&nbsp;us at <a href="/cdn-cgi/l/email-protection#80ece5e7e1ecaeeeeff4e9e3e5f3c0e1ece2e5ede1f2ece5aee3efed"><span class="__cf_email__" data-cfemail="771b1210161b591918031e14120437161b15121a16051b125914181a">[email&#160;protected]</span></a> or Albemarle Corporation, 4250 Congress Street, Suite 900, Charlotte, NC 28209, Attention: General Counsel.</p>
-  </div>
-
-  </div>
-
-      </div>
-</div>
-
-
-  </div>
-
-</article>
-
-  </div>
-
-  </div>
-
-        </div>
-        
-      </main>
-      </div>
-                  <footer  data-component-id="alb:footer" class="bg-charlotte-blue-500 text-white text-medium " role="contentinfo"><div class="container px-6 pb-8 pt-12 lg:grid lg:grid-cols-12 lg:gap-6"><div class="flex flex-col gap-2 lg:col-span-3"><div class="flex items-center justify-start"><div class="relative footer__logo"><svg viewBox="0 0 225 32" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(#clip0_8510_13797)"><path d="M17.5433 0L15.5508 3.59689L27.0143 27.0155C27.6094 28.2317 27.7129 30.0431 26.7555 31.5957H33.2247L17.5433 0Z" fill="#009C8B"/><path d="M24.5835 27.1185L14.2328 6.05469L12.1367 9.8586L20.5726 27.0668C21.1936 28.3089 21.1419 29.9391 20.495 31.1812L20.288 31.5694H24.273C24.273 31.5694 24.6612 30.793 24.7388 30.586C25.1269 29.4733 25.0752 28.1795 24.5835 27.1185Z" fill="#009C8B"/><path d="M18.3209 27.9217L10.6872 12.3438L10.1438 13.3271C9.16044 15.0867 9.10868 17.2086 9.9885 19.02L13.8959 26.9901C14.3099 27.844 13.6889 28.8274 12.7573 28.8274H4.3732C3.38988 28.8274 2.71708 27.9475 2.87234 27.0677V26.9901C2.87234 26.809 2.87234 26.6019 2.76883 26.6019L1.52674 28.8532L0 31.5962H16.0437C17.9068 31.5962 19.1489 29.6295 18.3209 27.9475V27.9217Z" fill="#009C8B"/><path d="M62.5188 26.3455L54.9886 3.91016H51.2882L44.7931 23.8872C43.1629 28.9332 41.248 30.5117 40.1094 31.0033V31.6244H48.6229V31.0033C44.8707 29.3731 44.5861 27.7169 45.5694 24.6893L46.5527 21.6359H56.1272L57.9903 27.2512C58.8443 29.9165 58.3526 30.7187 55.4544 31.0033V31.6244H66.2451V31.0033C64.7183 30.8481 63.6574 29.7612 62.5447 26.3455H62.5188ZM46.8633 20.6784L51.2882 7.01539L55.8167 20.6784H46.8633Z" fill="white"/><path d="M74.1381 27.9484V3.88281H66.9961V4.42623C68.9627 4.63324 69.6097 5.87534 69.6097 7.55734V27.9225C69.6097 29.6045 68.9369 30.8466 66.9961 31.0536V31.597H76.7776V31.0536C74.8109 30.8466 74.164 29.6045 74.164 27.9225L74.1381 27.9484Z" fill="white"/><path d="M148.895 27.947V17.4927C148.895 15.6296 148.248 13.8182 146.54 12.9125C144.703 11.9292 141.856 11.7739 139.89 12.4209C139.243 12.6279 138.647 13.016 138.156 13.5077C137.923 13.7406 136.965 14.8274 137.095 15.1638C135.956 12.2397 132.256 11.8516 129.539 12.2138C128.788 12.3173 128.038 12.5502 127.391 12.9384C126.977 13.1972 126.071 13.7923 126.071 14.3616V12.4985H118.852V13.0419C120.844 13.2489 121.543 14.491 121.543 16.173V27.9729C121.543 29.6549 120.844 30.897 118.852 31.104V31.6474H128.788V31.104C126.796 30.897 126.097 29.6549 126.097 27.9729V18.2949C126.097 14.4393 127.727 13.016 129.772 13.016C131.816 13.016 132.98 14.2581 132.98 17.5704V27.947C132.98 29.629 132.282 30.8711 130.289 31.0781V31.6215H140.226V31.0781C138.233 30.8711 137.535 29.629 137.535 27.947V18.269C137.535 14.4134 139.165 12.9901 141.209 12.9901C143.254 12.9901 144.418 14.2322 144.418 17.5445V27.9211C144.418 29.6031 143.719 30.8452 141.727 31.0522V31.5957H151.664V31.0522C149.671 30.8452 148.972 29.6031 148.972 27.9211L148.895 27.947Z" fill="white"/><path d="M186.339 12.3203H183.674C181.397 12.3203 179.844 13.2519 178.938 14.701V12.3203H171.719V12.8637C173.711 13.0707 174.41 14.3128 174.41 15.9948V27.7947C174.41 29.4767 173.711 30.7188 171.719 30.9258V31.4692H182.432V30.9258C179.456 30.7188 178.964 29.4767 178.964 27.7947V18.4273C178.964 15.0633 180.362 13.9506 181.707 13.9506C183.622 13.9506 185.02 16.0983 185.77 17.4698H186.365V12.3462L186.339 12.3203Z" fill="white"/><path d="M193.404 27.7662V3.72656H186.262V4.26998C188.228 4.47699 188.875 5.71909 188.875 7.40109V27.7662C188.875 29.4482 188.202 30.6903 186.262 30.8973V31.4408H196.043V30.8973C194.077 30.6903 193.43 29.4482 193.43 27.7662H193.404Z" fill="white"/><path d="M168.173 27.8723V17.2887C168.173 13.0966 163.334 12.1133 160.436 12.1133C157.538 12.1133 154.484 13.5365 153.19 14.5716V19.8246H153.941C153.941 19.8246 156.606 12.9155 160.436 12.9155C164.266 12.9155 163.722 14.3128 163.722 16.59C163.722 18.8672 163.282 19.7729 160.177 20.9373L156.296 22.3864C153.863 23.2921 152.414 24.6377 152.414 27.1995C152.414 29.7614 153.967 31.9609 158.314 31.9609H159.634C161.549 31.9609 162.868 30.9776 163.696 29.6061V31.5986H170.838V31.0552C168.846 30.8482 168.147 29.6061 168.147 27.9241L168.173 27.8723ZM163.722 25.8281C163.722 29.2956 162.196 31.0293 159.66 31.0293C157.124 31.0293 156.839 30.0201 156.839 26.5267C156.839 23.0333 157.822 22.6711 160.048 21.7913C162.092 21.0149 163.127 20.4974 163.722 20.0057V25.8281Z" fill="white"/><path d="M90.7231 12.2152C88.1096 12.2152 86.1429 13.1209 84.8491 14.9581V3.88281H77.707V4.42623C79.6737 4.63324 80.3206 5.87534 80.3206 7.55734V27.9225C80.3206 29.6045 79.6478 30.8466 77.707 31.0536V31.597H84.8491V29.1128C86.1429 30.976 88.1096 31.9334 90.7231 31.9334C95.6656 31.9334 99.1849 28.8799 99.1849 22.2296C99.1849 15.5792 95.6656 12.1634 90.7231 12.1634V12.2152ZM89.4034 31.1054C87.4109 31.1054 85.6771 29.501 84.8491 26.4734V17.5976C85.6771 14.57 87.4109 13.0691 89.4034 13.0691C91.3959 13.0691 94.1906 15.6568 94.1906 22.2554C94.1906 28.8541 92.1981 31.1054 89.4034 31.1054Z" fill="white"/><path d="M105.707 20.8055H118.594C118.464 15.9924 115.54 12.1367 110.572 12.1367H109.408C104.051 12.1367 100.816 16.5876 100.816 22.0476C100.816 27.5076 100.868 23.4449 100.998 24.1177C101.437 26.7313 102.835 29.2155 105.112 30.6387C107.622 32.2172 111.4 32.6054 114.091 31.2857C115.411 30.6387 116.446 29.5519 117.248 28.3098C117.662 27.6888 117.999 27.016 118.309 26.3432C118.309 26.3432 118.309 26.2914 118.335 26.2655L117.533 25.8256C116.808 27.43 115.773 28.9309 114.298 29.9142C112.125 31.3892 108.554 31.6997 106.949 29.2414C105.604 27.1971 105.707 24.2212 105.707 21.8923V20.8314V20.8055ZM110.003 12.913C112.383 12.913 113.522 14.6985 113.781 19.9516H105.733C106.044 14.2586 107.726 12.913 110.003 12.913Z" fill="white"/><path d="M209.939 29.8883C207.765 31.3633 204.194 31.6738 202.59 29.2155C201.244 27.1712 201.348 24.1954 201.348 21.8664V20.8055H214.234C214.105 15.9924 211.181 12.1367 206.213 12.1367H205.048C199.692 12.1367 196.457 16.5876 196.457 22.0476C196.457 27.5076 196.509 23.4449 196.638 24.1177C197.078 26.7313 198.475 29.2155 200.753 30.6387C203.263 32.2172 207.041 32.6054 209.732 31.2857C211.052 30.6387 212.087 29.5519 212.889 28.3098C213.303 27.6888 213.639 27.016 213.95 26.3432C213.95 26.3432 213.95 26.2914 213.976 26.2655L213.174 25.8256C212.449 27.43 211.414 28.9309 209.939 29.9142V29.8883ZM205.669 12.913C208.05 12.913 209.188 14.6985 209.447 19.9516H201.4C201.71 14.2586 203.392 12.913 205.669 12.913Z" fill="white"/><path d="M216.305 7.76579C216.305 5.35923 218.297 3.49609 220.704 3.49609C223.11 3.49609 224.999 5.35923 224.999 7.76579C224.999 10.1723 223.007 12.0096 220.626 12.0096C218.245 12.0096 216.305 10.1723 216.305 7.76579ZM216.822 7.76579C216.822 9.91357 218.504 11.5697 220.652 11.5697C222.8 11.5697 224.482 9.93945 224.482 7.76579C224.482 5.59213 222.8 3.936 220.652 3.936C218.504 3.936 216.822 5.59213 216.822 7.76579ZM218.892 10.0171C219.074 9.62893 219.151 9.44779 219.151 8.8785V6.60133C219.151 6.10966 219.099 5.90265 218.892 5.51449V5.46274H220.911C221.998 5.46274 222.463 5.90265 222.463 6.57545C222.463 7.24825 222.179 7.55877 221.532 7.79167L222.308 9.18902C222.567 9.70656 222.696 9.86182 223.059 10.0171H221.687L220.6 7.89517H220.083V8.8785C220.083 9.44779 220.083 9.62893 220.341 10.0171H218.892ZM220.756 5.72151H220.497C220.393 5.72151 220.238 5.72151 220.083 5.74739V7.6364H220.756C221.402 7.6364 221.532 7.11887 221.532 6.6272C221.532 6.13554 221.351 5.72151 220.756 5.72151Z" fill="white"/></g><defs><clipPath id="clip0_8510_13797"><rect width="225" height="32" fill="white"/></clipPath></defs></svg></div></div><div class="text-small">
-        All the elements for a better world.
-      </div><div class="flex flex-row gap-9 pt-6"><a data-component-id="alb:link" href="https://www.facebook.com/AlbemarleCorp" class="link text-large icon-only icon--facebook text-white hover:text-albemarle-aqua-500 active:text-albemarle-aqua-550"><span class="visually-hidden">Facebook</span><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" aria-hidden="true"><path fill="currentColor" d="M7.7,12.6h2v8.1c0,0.1,0.1,0.3,0.2,0.3h3.4c0.1,0,0.3-0.2,0.3-0.3v-8.1h2.3c0.2,0,0.3-0.1,0.3-0.2l0.4-3 c0-0.1,0-0.1-0.1-0.2c-0.1-0.1-0.2-0.1-0.2-0.1h-2.6V7.2c0-0.6,0.3-0.8,0.9-0.8h1.7c0.2,0,0.3-0.1,0.3-0.3V3.3 c0-0.1-0.2-0.3-0.3-0.3h-2.3h-0.1c-0.4,0-1.8,0.1-2.9,1.1C9.6,5.2,9.8,6.6,9.8,6.8V9H7.7C7.6,9,7.4,9.1,7.4,9.3v2.9 C7.4,12.5,7.6,12.6,7.7,12.6L7.7,12.6z"/></svg></a><a data-component-id="alb:link" href="https://twitter.com/AlbemarleCorp" class="link text-large icon-only icon--xtwitter text-white hover:text-albemarle-aqua-500 active:text-albemarle-aqua-550"><span class="visually-hidden">X</span><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" aria-hidden="true"><path fill="currentColor" d="M17.2,3.9H20L14,10.8l7,9.3h-5.5l-4.4-5.7l-5,5.7H3.4l6.4-7.4L3,3.9h5.7l3.9,5.2L17.2,3.9z M16.3,18.5h1.5L7.9,5.4H6.2 L16.3,18.5z"/></svg></a><a data-component-id="alb:link" href="https://www.linkedin.com/company/albemarlecorp" class="link text-large icon-only icon--linkedin text-white hover:text-albemarle-aqua-500 active:text-albemarle-aqua-550"><span class="visually-hidden">LinkedIn</span><svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" aria-hidden="true"><path fill="currentColor" d="M18.9,3H5c-1.1,0-2,0.9-2,2v14c0,1,0.9,1.9,2,1.9h14c1.1,0,2-0.9,2-2V5.1C20.9,3.9,20,3,18.9,3z M8.5,18.5H5.8V9.8h2.7V18.5 z M7,8.7C6.1,8.7,5.5,8,5.5,7.1S6.1,5.6,7,5.6s1.6,0.7,1.6,1.6S7.9,8.7,7,8.7z M18.5,18.5h-2.7v-4.6c0-1.3-0.4-1.9-1.4-1.9 s-1.6,0.7-1.6,1.9v4.6h-2.5V9.8h2.5V11c0,0,0.7-1.4,2.6-1.4s3.1,1.1,3.1,3.4V18.5L18.5,18.5z"/></svg></a><a data-component-id="alb:link" href="https://www.youtube.com/AlbemarleCorp" class="link text-large icon-only icon--youtube text-white hover:text-albemarle-aqua-500 active:text-albemarle-aqua-550"><span class="visually-hidden">YouTube</span><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M9.7 15.45L15.6685 12L9.7 8.55001V15.45ZM22.994 6.44551C23.1435 6.98601 23.247 7.71051 23.316 8.63051C23.3965 9.55051 23.431 10.344 23.431 11.034L23.5 12C23.5 14.5185 23.316 16.37 22.994 17.5545C22.7065 18.5895 22.0395 19.2565 21.0045 19.544C20.464 19.6935 19.475 19.797 17.957 19.866C16.462 19.9465 15.0935 19.981 13.8285 19.981L12 20.05C7.1815 20.05 4.18 19.866 2.9955 19.544C1.9605 19.2565 1.2935 18.5895 1.006 17.5545C0.8565 17.014 0.753 16.2895 0.684 15.3695C0.6035 14.4495 0.569 13.656 0.569 12.966L0.5 12C0.5 9.48151 0.684 7.63001 1.006 6.44551C1.2935 5.41051 1.9605 4.74351 2.9955 4.45601C3.536 4.30651 4.525 4.20301 6.043 4.13401C7.538 4.05351 8.9065 4.01901 10.1715 4.01901L12 3.95001C16.8185 3.95001 19.82 4.13401 21.0045 4.45601C22.0395 4.74351 22.7065 5.41051 22.994 6.44551Z" fill="currentColor"/></svg></a></div></div><nav class="mt-12 lg:mt-9 pb-6 lg:pb-0 lg:col-span-4 border-charlotte-blue-300 border-b lg:border-b-0 lg:border-r" aria-label="Footer Links"><ul class="grid grid-rows-6 sm:grid-cols-2 sm:grid-flow-col gap-y-4 lg:gap-y-3.5 gap-x-4"><li><a data-component-id="alb:link" href="/global/en/who-we-are" class="link text-medium link-nav-utility"><span>Who We Are</span></a></li><li><a data-component-id="alb:link" href="/global/en/what-we-offer" class="link text-medium link-nav-utility"><span>What We Offer</span></a></li><li><a data-component-id="alb:link" href="/global/en/sustainability" class="link text-medium link-nav-utility"><span>Sustainability</span></a></li><li><a data-component-id="alb:link" href="/global/en/careers" class="link text-medium link-nav-utility"><span>Careers</span></a></li><li><a data-component-id="alb:link" href="https://investors.albemarle.com/overview/default.aspx" class="link text-medium link-nav-utility"><span>Investors</span></a></li><li><a data-component-id="alb:link" href="/global/en/newsroom" class="link text-medium link-nav-utility"><span>Newsroom</span></a></li><li><a data-component-id="alb:link" href="/global/en/suppliers" class="link text-medium link-nav-utility"><span>Suppliers</span></a></li><li><a data-component-id="alb:link" href="/global/en/customer-resources" class="link text-medium link-nav-utility"><span>Customer Resources</span></a></li><li><a data-component-id="alb:link" href="/global/en/ethics-compliance" class="link text-medium link-nav-utility"><span>Ethics &amp; Compliance</span></a></li><li><a data-component-id="alb:link" href="/global/en/contact-us" class="link text-medium link-nav-utility"><span>Contact Us</span></a></li><li><a data-component-id="alb:link" href="/global/en/integrity-helpline" class="link text-medium link-nav-utility"><span>Integrity Helpline</span></a></li></ul></nav><nav class="mt-6 lg:mt-9 lg:col-span-4" aria-label="Global Sites"><ul class="grid grid-rows-4 sm:grid-cols-2 sm:grid-flow-col gap-y-4 lg:gap-y-3.5 gap-x-4"><li><a data-component-id="alb:link" href="https://www.albemarle.au/" class="link text-medium link-nav-utility"><span>Australia</span></a></li><li><a data-component-id="alb:link" href="https://www.albemarlelitio.cl/" class="link text-medium link-nav-utility"><span>Chile</span></a></li><li><a data-component-id="alb:link" href="https://albemarle.cn/" class="link text-medium link-nav-utility"><span>China</span></a></li><li><a data-component-id="alb:link" href="https://albemarle.de/" class="link text-medium link-nav-utility"><span>Germany</span></a></li><li><a data-component-id="alb:link" href="https://en.albemarle.hu/" class="link text-medium link-nav-utility"><span>Hungary</span></a></li><li><a data-component-id="alb:link" href="https://albemarle.jp/" class="link text-medium link-nav-utility"><span>Japan</span></a></li><li><a data-component-id="alb:link" href="https://albemarlekingsmountain.com/" class="link text-medium link-nav-utility"><span>Kings Mountain, NC (U.S.)</span></a></li></ul></nav></div><div class="container px-6"><div class="pt-6 lg:pt-4 pb-16 border-t border-charlotte-blue-400 lg:flex flex-row justify-between"><nav aria-label="Sub-Footer Links"><ul class="mb-6 flex flex-col sm:flex-row gap-3.5"><li><a data-component-id="alb:link" href="/global/en/terms-use" class="link text-small link-nav-utility"><span>Terms of Use</span></a></li><li><a data-component-id="alb:link" href="/global/en/privacy-policy" class="link text-small link-nav-utility"><span>Privacy Policy</span></a></li><li><a data-component-id="alb:link" href="/global/en/privacy-policy#privacy-6" class="link text-small link-nav-utility"><span>Cookie Policy</span></a></li></ul></nav><div class="text-small">
-        &copy; 2024 Albemarle Corporation. All Rights Reserved.
-      </div></div></div></footer>
-  
-</div>
-  </div>
-
-    
-    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/sites/default/files/js/js_oXxu-Rons4Ru-U0ZJzgZYQ4iSc12PLOvbymkvZUu3wE.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=alb_main&amp;include=eJx1iUEOgzAMBD8U4SdFW1hZBmNHJJF4Phx6bC87mlnOumYexhdnc0OsrDpO4Z-j8B5ucch2zQZfvlo0U511QEXfWbDjLo7QCWXtU5V9WIb8aAX-EXiz4N4fr7M54A"></script>
-<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js"></script>
-<script src="/sites/default/files/js/js_vgfO2j2E_lQk12IpwD1o1OB1vID2sN5Gqxcwb7gBe-c.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=alb_main&amp;include=eJx1iUEOgzAMBD8U4SdFW1hZBmNHJJF4Phx6bC87mlnOumYexhdnc0OsrDpO4Z-j8B5ucch2zQZfvlo0U511QEXfWbDjLo7QCWXtU5V9WIb8aAX-EXiz4N4fr7M54A"></script>
-<script src="/themes/custom/alb/lib/alpinejs/alpinejs%403.13.5.js?v=3.13.5" defer></script>
-
-  </body>
-</html>
+Terms of Use
+ 
+
+Last Updated: July 18th, 2024
+
+PLEASE READ THESE TERMS CAREFULLY BEFORE ACCESSING OR USING THE SITE. THESE TERMS INCLUDE AN ARBITRATION CLAUSE AND A WAIVER OF YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION OR REPRESENTATIVE LAWSUIT. BY ACCESSING OR USING THE SITE, YOU ATTEST THAT YOU ARE AT LEAST THE AGE OF MAJORITY IN YOUR STATE, PROVINCE, OR COUNTRY OF RESIDENCE AND ARE LEGALLY CAPABLE OF ENTERING INTO A BINDING CONTRACT. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, YOU MUST NOT ACCESS OR USE THE SITE. THESE TERMS MAY BE UPDATED FROM TIME TO TIME AS DISCUSSED IN MORE DETAIL IN THE GENERAL SECTION OF THESE TERMS. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE THE SITE. 
+
+THE SITE IS INTENDED ONLY FOR BUSINESSES OF THE UNITED STATES. THIS SITE IS FOR BUSINESS USE ONLY AND IS NOT INTENDED FOR CONSUMER SALES FOR PERSONAL, HOUSEHOLD, OR INDIVIDUAL USE. ALTHOUGH THE SITE MAY BE ACCESSED FROM AROUND THE WORLD, THE SITE HAS BEEN DESIGNED TO COMPLY WITH THE LAWS OF THE UNITED STATES. IF ANY MATERIAL ON THE SITE, OR YOUR USE OF THE SITE, IS CONTRARY TO THE LAWS OF THE COUNTRY WHERE YOU ARE WHEN YOU ACCESS IT, THE SITE IS NOT INTENDED FOR YOU, AND WE ASK YOU NOT TO USE THE SITE. YOU ARE RESPONSIBLE FOR INFORMING YOURSELF OF THE LAWS OF YOUR JURISDICTION AND COMPLYING WITH THEM.
+
+These Terms of Use (these “Terms”) apply to www.albemarle.com, including all products, services, features, content, downloads, and tools where these Terms appear or are linked (collectively, the “Site”), which are owned and operated by Albemarle Corporation (“Albemarle,” “we,” “our,” or “us”). By accessing the Site, you agree to be bound by these Terms. If you use the Site on behalf of a company, business, or other entity, then (i) the term “you” includes you and such company, business, or entity, and (ii) you represent and warrant that (a) you are authorized to bind such company, business, or entity to these Terms and (b) you agree to these Terms on such company’s, business’s, or entity’s behalf. 
+
+You agree that personal information that you provide through the Site shall be governed by our Privacy Policy, which is hereby incorporated and made part of these Terms.
+
+ 
+
+1. Access and Use
+ 
+
+You may access and use the Site solely for lawful, noncommercial, personal, or internal business purposes. The Site is the sole property of Albemarle, and is provided to you without charge as a convenience and for your informational purposes only. You agree to use the Site only for the purposes for which we provide the Site and in accordance with these Terms. Albemarle reserves the right to deny use or access to any part of the Site at our sole discretion.
+
+ 
+
+2. Intellectual Property
+ 
+
+The Site may contain: (i) materials and other items relating to Albemarle and its services, including software, layout, information, databases, articles, posts, text, data, files, images, scripts, designs, graphics, instructions, illustrations, photographs, sounds, pictures, videos, advertising copy, URLs, technology, interactive features, and the “look and feel” of the Site; (ii) logos, service marks, trademarks, trade names, trade dress, and trade identities of various parties, including those of Albemarle; and (iii) other forms of intellectual property (all of the foregoing, collectively “Content”). All Content is the property of Albemarle or its licensors and is protected by copyright laws. You do not have any ownership rights to the Site or any of its Content. All rights in and to the Site and its Content not expressly granted in this provision remain with us and our licensors.
+
+ 
+
+3. Restrictions
+ 
+
+You may not:
+
+Use the Site in any way that violates local, state, national, or international laws;
+Engage in activity using or related to the Site or its Content that is unlawful, harmful, offensive, obscene, violent, threatening, harassing, abusive, or otherwise objectionable to Albemarle;
+Attempt to disable, hack, or otherwise interfere with the Site’s functions;
+Harvest, scrape, reverse engineer, derive a work, or modify any information from the Site or its Content;
+Attempt to bypass any robot exclusion headers or circumvent any other measures that we have put in place to restrict or prevent access all or parts of the Site; 
+Infringe any intellectual property rights of Albemarle or any third party; 
+Pose as another person or otherwise misrepresent your identity; 
+Use the Site or its Content to suggest an unauthorized association with Albemarle; 
+Transmit any software or other materials that contain any viruses, worms, Trojan horses, defects, or other rogue programming or items of a destructive nature;
+Change or delete any proprietary notices from materials downloaded or printed out from the Site; 
+Use, copy, download, reproduce, republish, distribute, transmit, broadcast, display, assign, license, sublicense, sell, alter, prepare derivative works of, or otherwise exploit the Site and/or Content (in whole or in part) without our prior, express, and written permission; or
+Otherwise violate these Terms.
+ 
+
+4. Other Online Services
+ 
+
+The Site may contain links to third-party websites, features, or other online platforms (collectively, the “Other Online Services”). Albemarle does not control, review, endorse, or take responsibility for the content or data practices of Other Online Services, nor does Albemarle make any representation or warranty regarding the accuracy of such content. If you decide to access any of the Other Online Services linked to the Site, you do so entirely at your own risk. Albemarle is neither responsible nor liable for any loss or damage as a result of any use of Other Online Services.
+
+ 
+
+5. Disclaimers
+ 
+
+THE SITE AND CONTENT ARE PROVIDED BY ALBEMARLE ON AN “AS IS” AND “AS AVAILABLE” BASIS, AND WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, SATISFACTORY QUALITY, RELIABILITY, ACCURACY, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE. THIS ALSO INCLUDES ANY WARRANTIES THAT MAY ARISE FROM ANY COURSE OF DEALING, COURSE OF PERFORMANCE, OR USAGE OF TRADE.
+
+ALBEMARLE MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE SITE OR CONTENT. ALBEMARLE DOES NOT WARRANT OR GUARANTEE THE ACCURACY, COMPLETENESS, CORRECTNESS, TIMELINESS, OR USEFULNESS OF THE SITE AND/OR ITS CONTENT. ALBEMARLE DOES NOT WARRANT THAT YOUR USE OF THE SITE OR CONTENT WILL BE UNINTERRUPTED, ERROR-FREE OR SECURE, THAT DEFECTS WILL BE CORRECTED, OR THAT THE SITE, THE SERVER(S) ON WHICH THE SITE IS HOSTED OR CONTENT ARE SECURE OR FREE FROM VIRUSES OR OTHER HARMFUL COMPONENTS. ALBEMARLE ASSUMES NO RESPONSIBILITY FOR ANY LOSS OR HARM THAT OCCURS RESULTING FROM ANY USE OF THE SITE OR CONTENT. YOUR USE OF THE SITE AND CONTENT IS SOLELY AT YOUR OWN RISK. 
+
+IF APPLICABLE LAW DOES NOT ALLOW THE EXCLUSION OF SOME OR ALL OF THE IMPLIED WARRANTIES CONTAINED IN THIS SECTION, THE EXCLUSIONS IN THIS SECTION WILL APPLY TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+
+ 
+
+6. Limitation of Liability
+ 
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AGREE THAT ALBEMARLE AND ITS TRUSTEES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND AFFILIATES (COLLECTIVELY, THE “ALBEMARLE PARTIES”), WILL NOT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INJURY, LOSS, CLAIM, DAMAGE, OR ANY SPECIAL, EXEMPLARY, PUNITIVE, DIRECT, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING, BUT NOT LIMITED TO ECONOMIC LOSS, INDIRECT OR DIRECT LOST PROFITS OR LOST SAVINGS), WHETHER BASED IN CONTRACT, TORT, EQUITY, STRICT LIABILITY, OR OTHERWISE, WHICH ARISES OUT OF OR IS IN ANY WAY CONNECTED WITH ANY USE OF THE SITE AND/OR ITS CONTENT, THE OPERATION OF THE SITE OR ANY FAILURE OR DELAY IN THE OPERATION OF THE SITE, OR ANY OF THE PRODUCTS OR SERVICES OFFERED ON THE SITE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SITE, OR WITH ANY OF THESE TERMS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE. TO THE EXTENT ANY ASPECTS OF THE FOREGOING LIMITATIONS OF LIABILITY ARE NOT ENFORCEABLE, THE MAXIMUM AGGREGATE LIABILITY OF ALBEMARLE TO YOU WITH RESPECT TO YOUR USE OF THE SITE IS $500 (FIVE HUNDRED DOLLARS).
+
+ 
+
+7. Indemnity
+ 
+
+In consideration for Albemarle permitting you to access and use the Site, you expressly defend, indemnify, and hold harmless the Albemarle Parties from any and all claims, liabilities, demands, causes of action, costs, expenses, and damages of every kind and nature, in law or equity, or otherwise, arising out of or in any way related to your access or use of the Site or Content, whether arising from negligence or any other acts or omissions by Albemarle.
+
+You will defend, indemnify, and hold harmless the Albemarle Parties from and against any loss, damage, judgment, settlement, expense, interest, and any other liability (including reasonable attorneys’ fees and costs) related to or arising out of any allegation, claim, lawsuit, or proceeding (a “Claim”) to the extent such Claim is based on your use or access of the Site or Content in connection with: (a) an infringement of any patent, trademark, copyright, trade secret or other intellectual property right including costs and expenses; (b) any breach of these Terms; (c) any unlawful, improper, or negligent use by anyone of the Site or Content; (d) any dispute between you and a third-party in connection with the Site or Content; or (e) your negligence, willful misconduct, or fraud. You will use counsel reasonably satisfactory to us to defend each Claim. If at any time we reasonably determine that any Claim might adversely affect us, we may take control of the defense at our expense. You may not consent to the entry of any judgment or enter into any settlement of a Claim without our express prior written consent.
+
+ 
+
+8. Governing Law and Venue
+ 
+
+These Terms shall be governed by, and enforced in accordance with, the substantive and procedural laws of the State of North Carolina, including its statute of limitations, to be governed by the Federal Arbitration Act (“FAA”), applicable Federal Law, and the laws of North Carolina, and without regard to any conflicts of law provisions that might apply the laws of another jurisdiction. You consent and submit to the exclusive jurisdiction of the state and federal courts in and for Mecklenburg County, North Carolina, for all disputes. The United Nations Convention for the International Sale of Goods does not apply to these Terms. You expressly agree that all disputes arising under or relating to the Site or these Terms shall be brought and resolved solely and exclusively in the State of North Carolina. MOREOVER, IF FOR ANY REASON A DISPUTE PROCEEDS IN COURT, ANY STATE OR FEDERAL COURT ACTION SHALL BE TRIED TO A JUDGE AND NOT A JURY. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IF EITHER YOU OR WE WANT TO ASSERT A DISPUTE AGAINST EACH OTHER EITHER BY ARBITRATION OR IN COURT, AS APPLICABLE, THEN THE PARTY MUST INITIATE SUCH ACTION WITHIN ONE (1) YEAR AFTER ACCRUAL OF THE DISPUTE – OR IT WILL BE FOREVER BARRED.
+
+ 
+
+9. DISPUTE RESOLUTION: MANDATORY BINDING INDIVIDUAL ARBITRATION AND CLASS AND COLLECTIVE ACTION WAIVER
+ 
+
+(a) Dispute Resolution. In the unlikely event that a claim or controversy at law or equity (collectively, a “Dispute”) arises between you and Albemarle, prior to initiating any lawsuit, you must first contact Albemarle at legal.notices@albemarle.com so that we may work in good faith to find a mutually agreeable solution within sixty (60) days. You agree that the term “Dispute” in these Terms will have the broadest meaning possible. These Terms also cover any Dispute between you and any officer, director, board member, agent, employee, affiliate of Albemarle, or third party of Albemarle could be liable, directly or indirectly, for such Dispute. 
+
+ 
+
+(b) Arbitration. If the Dispute cannot be resolved within sixty (60) days, you agree that it shall be resolved exclusively by final binding arbitration, except that you may assert claims in small claims court in the county of your residence or in Mecklenburg County, North Carolina, if your claims qualify. The arbitration will be conducted by the American Arbitration Association (“AAA”) under its then applicable rules. All of the AAA’s rules are available at ;www.adr.org, and the rules governing commercial disputes are available at www.adr.org/commercial. The AAA’s rules, including the rules governing commercial disputes, are also available by calling 1-800-778-7879. You may initiate arbitration by utilizing the forms available on www.adr.org. If you have any difficulty initiating arbitration, you may call the AAA at 1-800-778-7879. You and Albemarle are each giving up the right to have Disputes resolved in court before a judge and/or jury (except as stated otherwise in this Section 9). The provisions of this Section 9 constitute your and Albemarle’s written agreement for resolving Disputes, including the agreement to arbitrate Disputes under the FAA (“Dispute Agreement”). The most current version of this Dispute Agreement in effect when any Dispute arises shall govern resolution of any Dispute.
+
+Payment of all filing, administration and arbitrator fees (“Arbitration Fees”) will be governed by the AAA’s applicable rules. The arbitrator may only award those damages and relief as a court could, and must follow the terms and conditions of these Terms and the Dispute Agreement.
+
+If you are a business of the United States, arbitration shall take place in Mecklenburg County, North Carolina. You and Albemarle further agree to submit to the personal jurisdiction of any federal or state court in Mecklenburg County, North Carolina, in order to compel arbitration, to stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.
+
+ 
+
+(c) No Class Action Matters. You and Albemarle each agree that resolution of any Disputes, whether in court or in arbitration, will be conducted and resolved only on an individual basis and not in a class, consolidated or representative action, and that any relief awarded, including equitable relief, shall only be awarded on an individual basis.
+
+ 
+
+(d) Injunctive Relief. Notwithstanding anything to the contrary herein, you or Albemarle may bring suit in court to seek an injunction, a declaratory judgment or other equitable relief arising out of, or relating to, but not limited to, intellectual property rights or any intentional, illegal act affecting the accessibility, functionality, or security of the Site, and the Restrictions section of these Terms.
+
+ 
+
+(d) Severability. With the exception of Section 9(d), if any part of this Section 9 is ruled to be unenforceable for any reason, then the remaining provisions of Section 9 shall remain in force as if any portion ruled unenforceable were not included in this Section 9. If Section 9(d) is ruled to be unenforceable for any reason, then Section 9(b) shall no longer be enforceable, but the remainder of this Section 9 shall remain in effect.
+
+ 
+
+10. General
+ 
+
+(a) Sale Agreements. You and Albemarle may have entered into one or more pre-existing written agreements related to your purchase or products and/or services from Albemarle (“Sale Agreements”). TO THE EXTENT THAT YOU HAVE ONE OR MORE SALE AGREEMENTS, YOU AGREE TO ABIDE BY SUCH SALE AGREEMENTS WITH RESPECT TO THE PURCHASE OF PRODUCTS AND/OR SERVICES FROM ALBEMARLE, EVEN IF SUCH PRODUCTS AND/OR SERVICES ARE REFERENCED OR ADVERTISED ON THE SITE. IN THE EVENT OF A CONFLICT BETWEEN ANY SALE AGREEMENT AND THESE TERMS, THE SALE AGREEMENT SHALL GOVERN AND CONTROL.
+
+ 
+
+(b) Notices. Except as otherwise provided in these Terms (including with respect to modifications to these Terms or modifications to the Site), we may (but are not obligated to) deliver notices to you via electronic mail or postal mail at any email or postal address associated with you in our databases.
+
+ 
+
+(c) No Waiver. Either party’s failure to enforce strict performance of any provision of these Terms will not be construed as a waiver of any provision or right. Performance of these Terms by you and Albemarle is subject to existing laws and legal process, and nothing contained in these Terms is in derogation of either party’s obligation to comply with governmental, court, and law enforcement requests or requirements relating to your use of the Site or information provided to or gathered by Albemarle with respect to such use.
+
+ 
+
+(d) Severability. If any part of these Terms is determined to be invalid or unenforceable, then the invalid or unenforceable provision will be deemed severable from these Terms; the invalidity of the provision will not affect the validity or enforceability of the remainder of these Terms, which will continue in effect.
+
+ 
+
+(e) Assignment. These Terms are not assignable, transferable, or sub-licensable by you without our prior, express, and written consent.
+
+ 
+
+(f) Survival. The provisions of these Terms, which by their nature should survive your suspension or termination will survive, including the rights and licenses you grant to Albemarle in these Terms, as well as the indemnities, releases, disclaimers, and limitations on liability and the provisions regarding jurisdiction, choice of law, no class action, and mandatory arbitration.
+
+ 
+
+(g) Amendments. We reserve the right at all times to discontinue or modify any part of these Terms in our sole discretion. You agree that any requirement to notify you of any such changes to these Terms is satisfied by us posting the changes on the first page of these Terms. Any changes to these Terms will be effective upon our posting of the notice; provided that these changes will be prospective only and not retroactive. In certain cases, we may also provide a summary of changes to these Terms via email to your email address on file with us. ACCORDINGLY, EACH TIME YOU SIGN IN TO OR OTHERWISE USE THE SITE, YOU ARE ENTERING INTO A NEW AGREEMENT WITH US ON THE THEN APPLICABLE TERMS AND YOU AGREE THAT YOUR USE OF THE SITE AFTER SUCH NEW TERMS HAVE BEEN POSTED CONSTITUTES YOUR AGREEMENT TO THE NEW TERMS FOR YOUR NEW USE AND TRANSACTIONS ON THE SITE. If you do not agree to the changes, you should not use the Site or any services offered through the Site after the effective date of the changes. We suggest that you revisit these Terms regularly to ensure that you stay informed of any changes.
+
+ 
+
+11. Contact Information
+ 
+
+If you have any questions regarding these Terms, you may contact us at legal.notices@albemarle.com or Albemarle Corporation, 4250 Congress Street, Suite 900, Charlotte, NC 28209, Attention: General Counsel.
+
+All
